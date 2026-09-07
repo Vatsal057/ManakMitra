@@ -1,0 +1,434 @@
+[
+  {
+    "product": "Ordinary Portland Cement (33, 43, 53 Grade)",
+    "category": "Cement & Construction",
+    "primary_standard": "IS 269 - 2015",
+    "selection_reason": "Fundamental civil procurement material across all infrastructure and building tenders; unified specification for OPC grades with high normative and test method cross-references.",
+    "source_record": "IS 269 - 2015 | Specification for 33,43,53 Grade ordinary Portland cement",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Portland Pozzolana Cement (PPC)",
+    "category": "Cement & Construction",
+    "primary_standard": "IS 1489 (part 1&2) 1991",
+    "selection_reason": "Dominant cement type in public procurement, government infrastructure, and green building contracts; rich normative ecosystem of flyash and calcined clay requirements.",
+    "source_record": "IS 1489 (part 1&2) 1991 | Specification for Portland Pozzolona cement",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Coarse and Fine Aggregates for Concrete",
+    "category": "Cement & Construction",
+    "primary_standard": "IS 383-2016",
+    "selection_reason": "High-volume civil procurement commodity essential for concrete production; cites extensive testing methods (IS 2386 series) for mechanical and chemical properties.",
+    "source_record": "IS 383-2016 | Specification for coarse and fine aggregate",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Common Burnt Clay Building Bricks",
+    "category": "Cement & Construction",
+    "primary_standard": "IS 1077 - 1992",
+    "selection_reason": "Standard masonry building product widely procured across CPWD, PWD, and housing projects; directly references IS 3495 series testing methods and IS 5454 sampling.",
+    "source_record": "IS 1077 - 1992 | Common burnt clay building bricks",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Plain and Reinforced Concrete (RCC Structures)",
+    "category": "Cement & Construction",
+    "primary_standard": "IS 456",
+    "selection_reason": "The central Indian code of practice for structural concrete, universally mandated across civil tenders; references dozens of materials, testing, safety, and workmanship standards.",
+    "source_record": "IS 456 | Code of Practices for plain and reinforced concrete etc.  – 2000",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Precast Concrete Pipes (With and Without Reinforcement)",
+    "category": "Cement & Construction",
+    "primary_standard": "IS 458",
+    "selection_reason": "Core public works drainage, sewerage, and culvert piping product; strong procurement candidate with well-defined hydrostatic and load testing standards.",
+    "source_record": "IS 458 | Specifications for pre cast concrete pipes.  – 1988",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Plywood Formwork for Concrete (Shuttering Plywood)",
+    "category": "Cement & Construction",
+    "primary_standard": "IS: 4990",
+    "selection_reason": "High-turnover civil site material specified in formwork tenders; links to adhesive, moisture resistance, and mechanical testing standards.",
+    "source_record": "IS: 4990 | specifications for plywood formwork for concrete",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Industrial Safety Helmets (Head Protection PPE)",
+    "category": "Cement & Construction",
+    "primary_standard": "IS 2925",
+    "selection_reason": "Mandatory personal protective equipment (PPE) for construction, industrial sites, and mining tenders; clear shock absorption and penetration test standard references.",
+    "source_record": "IS 2925 | Specification for Industrial Safety Helmets(Bi-Lingual)",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Protective Helmets for Two-Wheeler Riders",
+    "category": "Cement & Construction",
+    "primary_standard": "IS 4151",
+    "selection_reason": "Legally mandated road safety consumer product with strict regulatory certification; involves dynamic retention, impact absorption, and peripheral vision test standards.",
+    "source_record": "IS 4151 | Specification for protective helmets for scooter and motorcycle riders",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Portland Slag Cement (PSC)",
+    "category": "Cement & Construction",
+    "primary_standard": "IS: 455",
+    "selection_reason": "Widely procured marine and industrial grade hydraulic cement using granulated blast-furnace slag; references chemical analysis and physical testing codes.",
+    "source_record": "IS: 455 | specifications for PSC (Portland slag cement)",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Chemical Admixtures for Concrete",
+    "category": "Cement & Construction",
+    "primary_standard": "IS: 9103",
+    "selection_reason": "Essential chemical additive specified in ready-mix concrete (RMC) and high-performance concrete tenders; covers water reducers, retarders, and superplasticizers.",
+    "source_record": "IS: 9103 | specifications for concrete admixtures",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Hot Rolled Parallel Flange Steel Sections (Beams and Columns)",
+    "category": "Cement & Construction",
+    "primary_standard": "IS 12778",
+    "selection_reason": "Primary structural steel framing product used in modern pre-engineered buildings (PEBs) and bridge infrastructure; connects to IS 2062 and ultrasonic inspection standards.",
+    "source_record": "IS 12778 | Hot Rolled Parallel Flange Steel Sections for Beams, Columns and Bearing Piles - Dimensions and Section Properties",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Air Circulator Electric Fans and Regulators",
+    "category": "Electrical",
+    "primary_standard": "IS 2997",
+    "selection_reason": "High-volume commercial/industrial ventilation equipment procured on GeM for public offices, warehouses, and factories; references electrical safety and energy ratings.",
+    "source_record": "IS 2997 | Air circulator type electric fans and regulators",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Protective Voltage Transformers (PT / VT)",
+    "category": "Electrical",
+    "primary_standard": "IS 3156-3",
+    "selection_reason": "Critical electrical substation and grid protection equipment procured by state discoms and power utilities; references insulation, surge, and accuracy test standards.",
+    "source_record": "IS 3156-3 | Voltage transformers, Part 3: Protective voltage transformers",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Electric Immersion Water Heaters",
+    "category": "Electrical",
+    "primary_standard": "IS 368",
+    "selection_reason": "Everyday commercial and residential consumer electrical appliance; mandatory BIS ISI marking involving strict leakage current and insulation resistance safety codes.",
+    "source_record": "IS 368 | Electric Immersion Water Heaters",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Interlocking Switch Socket Outlets",
+    "category": "Electrical",
+    "primary_standard": "IS 4160",
+    "selection_reason": "Industrial electrical distribution and safety product widely procured for plant workshops and construction site switchboards; links to ingress protection standards.",
+    "source_record": "IS 4160 | Interlocking switch socket outlet, Specification",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "String Insulator Units for Overhead Power Transmission Lines",
+    "category": "Electrical",
+    "primary_standard": "IS 3188",
+    "selection_reason": "Vital high-voltage transmission line equipment procured by transmission utilities; connects to electromechanical failing load and impulse voltage test standards.",
+    "source_record": "IS 3188 | Characteristics of string insulator units",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Internal Fuses and Disconnectors for Power Electronic Capacitors",
+    "category": "Electrical",
+    "primary_standard": "IS 13580",
+    "selection_reason": "Substation power factor correction and harmonic filter component; references overpressure rupture safety and capacitor discharge standards.",
+    "source_record": "IS 13580 | Internal Fuses and Internal Overpressure Disconnectors for Power Electronic Capacitors",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Electric Irons (Household Electrical Appliances)",
+    "category": "Electrical",
+    "primary_standard": "IS 302-2-3",
+    "selection_reason": "High-volume household appliance governed by mandatory quality control orders (QCO); links directly to IS 302-1 general safety requirements.",
+    "source_record": "IS 302-2-3 | Safety of household and similar electrical appliances, Part 2: Particular requirements, Section 3: Electric iron",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Domestic Electric Food Mixers and Grinders",
+    "category": "Electrical",
+    "primary_standard": "IS 4250",
+    "selection_reason": "Common kitchen appliance subject to mandatory BIS safety certification; cites mechanical stability, motor insulation, and thermal protection standards.",
+    "source_record": "IS 4250 | Domestic Electric Food-Mixers (Liquidizes and Grinders)",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Cardiac Defibrillators (Medical Electrical Equipment)",
+    "category": "Electrical",
+    "primary_standard": "IS 13450-2-4",
+    "selection_reason": "High-value life-saving medical electrical device procured by public hospitals and emergency health departments; references strict IEC electrical safety standards.",
+    "source_record": "IS 13450-2-4 | Medical electrical equipment, Part 2: Particular requirements for the safety , Section 4 Cardia Defibrillators",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Toggle Switches (Type I and Type II)",
+    "category": "Electronics",
+    "primary_standard": "IS 3452-2",
+    "selection_reason": "Standard electromechanical control switch specified in defense, aerospace, telecommunications, and industrial control panel tenders.",
+    "source_record": "IS 3452-2 | Toggle Switches, Part 2: Toggle Switches, Type I and type II",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Insulated Captive Screw-Cap Terminals for Electronic Equipment",
+    "category": "Electronics",
+    "primary_standard": "IS 4007-2-1",
+    "selection_reason": "Standard component for instrumentation, control panels, and rack enclosures; references dielectric strength and contact resistance standards.",
+    "source_record": "IS 4007-2-1 | Terminals for Electronic Equipment, Part 2: Detail Terminals, Section 1: Terminal, Insulated, with Insulated Captive Screw Cap, Type TSC 1",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Quartz Crystal Unit Holders (Type CU 01)",
+    "category": "Electronics",
+    "primary_standard": "IS 4570-13-1",
+    "selection_reason": "Specialized electronic component housing for frequency control devices in telecommunication and radio equipment procurement.",
+    "source_record": "IS 4570-13-1 | Crystal Unit Holders, Part 13: Quartz Crystal Unit Holder Outline for Automatic Handling, Section 1: Metal, Sealed, Two Pin Crystal Unit Holder Type CU 01",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Hexagon Nuts (Product Grades A and B, M1.6 to M64)",
+    "category": "Mechanical",
+    "primary_standard": "IS 1364-3",
+    "selection_reason": "Ubiquitous mechanical fastener procured in massive quantities across railway, automotive, construction, and heavy engineering contracts.",
+    "source_record": "IS 1364-3 | Hexagon Head Bolts, Screws and Nuts of Product Grades A and B, Part 3: Hexagon Nuts, Style 1 (Size Range M 1.6 to M 64)",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Single Coil Spring Lock Washers (Fasteners)",
+    "category": "Mechanical",
+    "primary_standard": "IS 3063",
+    "selection_reason": "Standard anti-vibration mechanical hardware item specified in machinery assembly and structural bolting procurement.",
+    "source_record": "IS 3063 | Fasteners - Single coil rectangular section spring lock washers",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Wing Nuts (Fasteners)",
+    "category": "Mechanical",
+    "primary_standard": "IS 2636",
+    "selection_reason": "Specialized hand-tightened threaded fastener for tooling, electrical enclosures, and equipment access panels.",
+    "source_record": "IS 2636 | Wing Nuts",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "High Tensile Steel Point Hooks for Wire Rope Thimbles",
+    "category": "Mechanical",
+    "primary_standard": "IS 2759",
+    "selection_reason": "Heavy lifting and material handling gear used in port, mining, crane, and rigging tenders; references proof load testing and non-destructive examination standards.",
+    "source_record": "IS 2759 | Higher tensile steel point hooks for use with wire rope thimbles",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Starter Motors for Automotive and Industrial IC Engines",
+    "category": "Mechanical",
+    "primary_standard": "IS 3141",
+    "selection_reason": "Critical electromechanical automotive and generator subsystem procured for military, public transport, and heavy machinery fleets.",
+    "source_record": "IS 3141 | Starter Motors for internal combustion engines used for automotive and other applications",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Fuel Injection Nozzles for Diesel Engines (Size 'S')",
+    "category": "Mechanical",
+    "primary_standard": "IS 3170-1",
+    "selection_reason": "Precision diesel engine fuel delivery component widely procured by state transport undertakings, railways, and agriculture equipment fleets.",
+    "source_record": "IS 3170-1 | Internal Combustion Engines - Fuel Injection Nozzles, Part 1: Injection Nozzles - Size 'S'",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Compact Hydraulic Cylinders (160 bar Series)",
+    "category": "Mechanical",
+    "primary_standard": "IS 13103",
+    "selection_reason": "Industrial automation, earthmoving, and machine tool fluid power actuator; references seal materials, burst pressure, and stroke tolerances.",
+    "source_record": "IS 13103 | Hydraulic fluid power - Single rod cylinders, 160 bar (16 MPa) compact series - Port dimensions",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Needle Roller Bearings (Ring Type)",
+    "category": "Mechanical",
+    "primary_standard": "IS 4215",
+    "selection_reason": "Precision mechanical motion transmission component procured for automotive gearboxes, pumps, and textile machinery.",
+    "source_record": "IS 4215 | Ring Type Needle Bearings",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Non-Ferric Aluminium Sulphate (Water Treatment Alum)",
+    "category": "Chemicals",
+    "primary_standard": "IS 260",
+    "selection_reason": "Top-tier municipal procurement chemical procured in metric tons by water boards and urban local bodies (ULBs) for drinking water clarification.",
+    "source_record": "IS 260 | Aluminium sulphate, non-ferric",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Zirconium Powder for Pyrotechnics & Defense",
+    "category": "Chemicals",
+    "primary_standard": "IS 12437",
+    "selection_reason": "Strategic chemical powder procured by defense ordnance factories and aerospace manufacturing units; subject to strict chemical purity and ignition tests.",
+    "source_record": "IS 12437 | Zirconium powder for use in explosive and pyrotechnic industry",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Two-Pack Polyurethane Surfacer for Railway Coaches",
+    "category": "Chemicals",
+    "primary_standard": "IS 13799",
+    "selection_reason": "High-performance coating specified in Indian Railways tenders for coach finishing; requires gloss, adhesion, and salt spray corrosion testing standards.",
+    "source_record": "IS 13799 | Polyurethane Base Surfacer (Two Pack) for Exterior Painting of Railway Coaches",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Laboratory Boiling Flasks with Conical Ground Socket",
+    "category": "Chemicals",
+    "primary_standard": "IS 1381-2",
+    "selection_reason": "Standard laboratory glassware procured by universities, testing institutes, and quality control laboratories across India.",
+    "source_record": "IS 1381-2 | Boiling flasks, Part 2: Flasks with conical ground socket",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Industrial Coal Tar Pitch",
+    "category": "Petroleum",
+    "primary_standard": "IS 216",
+    "selection_reason": "Heavy industrial hydrocarbon binder procured by steel plants, aluminium smelters (anode manufacture), and refractory makers.",
+    "source_record": "IS 216 | Coal tar pitch",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "PVC-Coated Waterproof Protective Clothing",
+    "category": "Petroleum",
+    "primary_standard": "IS 3322-1",
+    "selection_reason": "Commercial and municipal rainwear and chemical splash protective suits procured for civic sanitation, police, and industrial maintenance crews.",
+    "source_record": "IS 3322-1 | Water-resistant clothing, Part 1: PVC-coated fabrics",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Handloom Cotton Shirting Fabric",
+    "category": "Textiles",
+    "primary_standard": "IS 1242",
+    "selection_reason": "Government institutional textile procurement item for uniforms, schools, and institutional apparel; connects to colourfastness and yarn count standards.",
+    "source_record": "IS 1242 | Handloom Cotton Shirting",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Plain-Knitted Woollen Balaclava Caps",
+    "category": "Textiles",
+    "primary_standard": "IS 2783",
+    "selection_reason": "Winter uniform accessory procured by central armed police forces (CAPF), defense forces, and police departments.",
+    "source_record": "IS 2783 | Balaclava Caps, Wool, Plain-knitted",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Bleached Cotton Khadi Long Cloth",
+    "category": "Textiles",
+    "primary_standard": "IS 3771 : 2019",
+    "selection_reason": "Institutional procurement staple mandated for government hospitals, railway bedding, and administrative offices; verified 2019 BIS specification.",
+    "source_record": "IS 3771 : 2019 | Textiles — Long Cloth, Cotton Khadi, Bleached — Specification ( Second Revision )",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Polyester-Wool Blended Drab Serge (Uniform Fabric)",
+    "category": "Textiles",
+    "primary_standard": "IS 13904",
+    "selection_reason": "Standard defense and paramilitary winter uniform suiting fabric; references fiber blend ratio, tear strength, and dry-cleaning shrinkage standards.",
+    "source_record": "IS 13904 | Textiles - Serge, drab, polyester-wool blended",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Table and Industrial Margarine",
+    "category": "Food & Agriculture",
+    "primary_standard": "IS 12451",
+    "selection_reason": "Edible fat product procured in bulk by bakery industries, armed forces supply depots, and hospitality canteens; governed by food safety and fatty acid profiles.",
+    "source_record": "IS 12451 | Margarine",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Whole Fennel Seeds (Spices & Condiments)",
+    "category": "Food & Agriculture",
+    "primary_standard": "IS 3796",
+    "selection_reason": "Major agricultural commodity specification for public procurement, export grading, and civil supply corporations; connects to moisture and volatile oil test standards.",
+    "source_record": "IS 3796 | SPICES AND CONDIMENTS — FENNEL SEEDS,WHOLE - SPECIFICATION",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Thiram Technical (Agricultural Fungicide)",
+    "category": "Food & Agriculture",
+    "primary_standard": "IS 4320",
+    "selection_reason": "Agrochemical active ingredient procured by state seed corporations and agricultural extension departments for seed treatment and crop protection.",
+    "source_record": "IS 4320 | Thiram, Technical",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Concave Tractor Tillage Discs",
+    "category": "Food & Agriculture",
+    "primary_standard": "IS 4366-1",
+    "selection_reason": "High-wear agricultural tractor implement component procured by agro-machinery corporations and farm equipment manufacturers; involves hardness and impact testing.",
+    "source_record": "IS 4366-1 | Agricultural Tillage Discs, Part 1: Concave Type",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Mild Steel and Medium Tensile Deformed Steel Bars",
+    "category": "Metallurgy",
+    "primary_standard": "IS 432 (P II) 1966",
+    "selection_reason": "Foundational reinforcement steel bar standard in structural and civil engineering procurement; cites chemical composition and elongation test standards.",
+    "source_record": "IS 432 (P II) 1966 | Specification for Mild Steel and Medium Tensile steel bars",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Steel Shelving Cabinets (Adjustable Type)",
+    "category": "Metallurgy",
+    "primary_standard": "IS 3312 : 2021",
+    "selection_reason": "One of the most frequently procured furniture items across GeM for government offices, archives, and stores; verified third revision published in 2021.",
+    "source_record": "IS 3312 : 2021 | Steel Shelving Cabinets ( Adjustable Type ) - Specification ( Third Revision )",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Surgical Scalpels and Knives",
+    "category": "Medical & Healthcare",
+    "primary_standard": "IS 3318",
+    "selection_reason": "Essential hospital surgical instrument procured by health directorates and government medical stores depots; requires stainless steel hardness and corrosion resistance.",
+    "source_record": "IS 3318 | General requirements for surgical scalpels and knives",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "Westergren Sedimentation Tubes (Diagnostic Medical Glassware)",
+    "category": "Medical & Healthcare",
+    "primary_standard": "IS 3741-1",
+    "selection_reason": "Standard clinical pathology laboratory diagnostic consumable for Erythrocyte Sedimentation Rate (ESR) testing.",
+    "source_record": "IS 3741-1 | Medical Instruments - Sedimentation Tubes, Part 1: Westergren Tube",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "McIndoe Scissors for Plastic Surgery",
+    "category": "Medical & Healthcare",
+    "primary_standard": "IS 4281",
+    "selection_reason": "Precision surgical scissor procured for tertiary care hospitals and plastic surgery operative theaters; involves specialized cutting sharpness tests.",
+    "source_record": "IS 4281 | Scissors, McIndoe's, for Plastic Surgery",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "High Strength Deformed (TMT / HYSD) Steel Rebar",
+    "category": "Uncategorized",
+    "primary_standard": "IS 1786",
+    "selection_reason": "Ranked among the top three highest-expenditure construction commodities in Indian public tenders; mandatory standard for all structural reinforced concrete works.",
+    "source_record": "IS 1786 | Specifications for HYSD bars.  – 1985",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "43 Grade Ordinary Portland Cement",
+    "category": "Uncategorized",
+    "primary_standard": "IS 8112 - 2013",
+    "selection_reason": "The standard workhorse grade of cement specified in residential, commercial, and bridge infrastructure tenders across India; full normative testing framework.",
+    "source_record": "IS 8112 - 2013 | Specification for 43 Grade OPC",
+    "selection_status": "candidate"
+  },
+  {
+    "product": "53 Grade Ordinary Portland Cement",
+    "category": "Uncategorized",
+    "primary_standard": "IS 12269-1987",
+    "selection_reason": "High-strength cement grade specified for pre-stressed concrete, high-rise structural elements, and rapid construction contracts; rich normative testing connections.",
+    "source_record": "IS 12269-1987 | Specification for 53 Grade OPC",
+    "selection_status": "candidate"
+  }
+]

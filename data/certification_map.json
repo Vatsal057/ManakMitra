@@ -1,0 +1,275 @@
+{
+  "_meta": {
+    "purpose": "Certification-scheme overlay. The scraped Task 1 dataset has no certification_type column, so every row would otherwise show 'None' and the certification badge feature would be dead. This file tags standards with the applicable BIS scheme and is applied on top of whatever dataset is loaded.",
+    "keys": "Base IS number as a plain string ('269'), or 'base|part' for a specific part ('9873|1'). A 'base|part' entry wins over the bare base entry.",
+    "schemes": {
+      "BIS Product Certification": "ISI mark under Scheme-I of the BIS (Conformity Assessment) Regulations 2018, usually made mandatory by a Quality Control Order (QCO).",
+      "CRS": "Compulsory Registration Scheme (Scheme-II) for electronics and IT goods notified by MeitY.",
+      "Hallmarking": "BIS hallmarking scheme for precious metal jewellery and artefacts."
+    },
+    "confidence": "'high' = checked against a bis.gov.in document during curation. 'medium' = the product family is under the named scheme but the specific standard was not individually confirmed. Treat 'medium' as illustrative in the demo, not as legal advice.",
+    "disclaimer": "Certification obligations change with each new QCO and CRS phase notification. This is a hackathon-scope snapshot, not an authoritative compliance list."
+  },
+  "entries": {
+    "269": {
+      "certification_type": "BIS Product Certification",
+      "basis": "All cements are under mandatory BIS certification and carry the ISI mark",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2021/09/Indian-Standards-in-PWDs.pdf"
+    },
+    "455": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Portland slag cement - all cements under mandatory BIS certification",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2021/09/Indian-Standards-in-PWDs.pdf"
+    },
+    "1489": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Portland pozzolana cement - all cements under mandatory BIS certification",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2021/09/Indian-Standards-in-PWDs.pdf"
+    },
+    "8041": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Rapid hardening Portland cement - all cements under mandatory BIS certification",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2021/09/Indian-Standards-in-PWDs.pdf"
+    },
+    "6909": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Super-sulphated cement - all cements under mandatory BIS certification",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2021/09/Indian-Standards-in-PWDs.pdf"
+    },
+    "12330": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Sulphate resisting Portland cement - listed under mandatory BIS certification",
+      "confidence": "high",
+      "reference": "https://www.indiafilings.com/learn/wp-content/uploads/2015/10/Products-requring-mandatory-BIS-Certification-or-License.pdf"
+    },
+    "12269": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Ordinary Portland cement 53 grade - listed under mandatory BIS certification",
+      "confidence": "high",
+      "reference": "https://www.indiafilings.com/learn/wp-content/uploads/2015/10/Products-requring-mandatory-BIS-Certification-or-License.pdf"
+    },
+    "12600": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Low heat Portland cement - listed under mandatory BIS certification",
+      "confidence": "high",
+      "reference": "https://www.indiafilings.com/learn/wp-content/uploads/2015/10/Products-requring-mandatory-BIS-Certification-or-License.pdf"
+    },
+    "6452": {
+      "certification_type": "BIS Product Certification",
+      "basis": "High alumina cement for structural use - cement family under mandatory certification",
+      "confidence": "medium"
+    },
+    "1786": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Steel and steel products QCO - reinforcement bars require the Standard Mark",
+      "confidence": "high",
+      "reference": "https://www.certification-india.com/en/india-tightens-bis-requirements-for-imported-steel-and-input-materials-under-qco-compliance-framework/"
+    },
+    "2062": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Steel and steel products QCO - structural steel requires the Standard Mark",
+      "confidence": "high",
+      "reference": "https://www.certification-india.com/en/india-tightens-bis-requirements-for-imported-steel-and-input-materials-under-qco-compliance-framework/"
+    },
+    "226": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Structural steel - covered by the steel QCO framework (superseded by IS 2062)",
+      "confidence": "medium"
+    },
+    "432": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Mild steel and medium tensile steel bars - steel QCO framework",
+      "confidence": "medium"
+    },
+    "1566": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Hard drawn steel wire fabric for concrete reinforcement - steel QCO framework",
+      "confidence": "medium"
+    },
+    "1785": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Plain hard drawn steel wire for prestressed concrete - steel QCO framework",
+      "confidence": "medium"
+    },
+    "2090": {
+      "certification_type": "BIS Product Certification",
+      "basis": "High tensile steel bar for prestressed concrete - steel QCO framework",
+      "confidence": "medium"
+    },
+    "12778": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Hot rolled parallel flange steel sections - steel QCO framework",
+      "confidence": "medium"
+    },
+    "1077": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Common burnt clay building bricks - available under BIS product certification",
+      "confidence": "medium"
+    },
+    "458": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Precast concrete pipes - available under BIS product certification",
+      "confidence": "medium"
+    },
+    "9103": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Concrete admixtures - available under BIS product certification",
+      "confidence": "medium"
+    },
+    "694": {
+      "certification_type": "BIS Product Certification",
+      "basis": "PVC insulated cables up to 1100 V - BIS product manual issued under Scheme-I",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2024/03/PM_IS-694_March-2024.pdf"
+    },
+    "1554": {
+      "certification_type": "BIS Product Certification",
+      "basis": "PVC insulated heavy duty cables - BIS product manual issued under Scheme-I",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2020/06/Product-Manual-1554-1-V2.pdf"
+    },
+    "1293": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Plugs and socket-outlets - electrical accessories under mandatory certification",
+      "confidence": "medium"
+    },
+    "4160": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Interlocking switch socket outlet - electrical accessories under mandatory certification",
+      "confidence": "medium"
+    },
+    "302": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Safety of household electrical appliances - appliance QCOs require the Standard Mark",
+      "confidence": "medium"
+    },
+    "368": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Electric immersion water heaters - household appliance under mandatory certification",
+      "confidence": "medium"
+    },
+    "2997": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Electric fans and regulators - household appliance under mandatory certification",
+      "confidence": "medium"
+    },
+    "4250": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Domestic electric food mixers - household appliance under mandatory certification",
+      "confidence": "medium"
+    },
+    "3196": {
+      "certification_type": "BIS Product Certification",
+      "basis": "LPG cylinders - BIS product manual issued under Scheme-I",
+      "confidence": "high",
+      "reference": "https://bis.gov.in/wp-content/uploads/2020/05/PM-3196-Part-1-May-2020.pdf"
+    },
+    "7142": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Small LPG cylinders not exceeding 5 litre - BIS product manual under Scheme-I",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2019/05/PM-7142.pdf"
+    },
+    "8737": {
+      "certification_type": "BIS Product Certification",
+      "basis": "LPG cylinder valve fittings - certified alongside the cylinder",
+      "confidence": "medium"
+    },
+    "4576": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Liquefied petroleum gases - petroleum product under mandatory certification",
+      "confidence": "medium"
+    },
+    "13252": {
+      "certification_type": "CRS",
+      "basis": "IT equipment safety - notified under the Compulsory Registration Scheme",
+      "confidence": "high",
+      "reference": "https://www.crsbis.in/BIS/app_srv/tdc/gl/docs/Another_twelve_product_categories.pdf"
+    },
+    "616": {
+      "certification_type": "CRS",
+      "basis": "Audio/video apparatus safety - notified under the Compulsory Registration Scheme",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2025/03/temp_2131689472.pdf"
+    },
+    "16046": {
+      "certification_type": "CRS",
+      "basis": "Portable sealed secondary lithium cells and batteries - notified under CRS",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2025/03/temp_2131689472.pdf"
+    },
+    "13450": {
+      "certification_type": "CRS",
+      "basis": "Medical electrical equipment - parts of this series are notified under CRS",
+      "confidence": "medium"
+    },
+    "9873": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Toys (Quality Control) Order - toys must conform and carry the Standard Mark",
+      "confidence": "medium"
+    },
+    "15644": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Electric toys - covered by the Toys (Quality Control) Order",
+      "confidence": "medium"
+    },
+    "14543": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Packaged drinking water - mandatory BIS certification before sale",
+      "confidence": "high"
+    },
+    "13428": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Packaged natural mineral water - mandatory BIS certification before sale",
+      "confidence": "high"
+    },
+    "1417": {
+      "certification_type": "Hallmarking",
+      "basis": "Hallmarking of Gold Jewellery and Gold Artefacts Order - mandatory in notified districts",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2022/04/Hallmarking-of-Gold-Jewellery-and-Gold-Artefacts-Amendment-Order-2022.pdf"
+    },
+    "15820": {
+      "certification_type": "Hallmarking",
+      "basis": "Requirements for recognition of assaying and hallmarking centres",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2024/10/Revised-Guidelines-AHC-October-2024-1.pdf"
+    },
+    "2112": {
+      "certification_type": "Hallmarking",
+      "basis": "Silver jewellery and artefacts - voluntary hallmarking scheme",
+      "confidence": "medium"
+    },
+    "2925": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Industrial safety helmets - PPE under mandatory certification",
+      "confidence": "medium"
+    },
+    "4151": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Helmets for two wheeler riders - mandatory ISI marking",
+      "confidence": "high"
+    },
+    "14756": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Stainless steel utensils QCO - Standard Mark required under Scheme-I",
+      "confidence": "high",
+      "reference": "https://www.bis.gov.in/wp-content/uploads/2024/07/Requiremnts-for-various-firms.pdf"
+    },
+    "12451": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Margarine - food product under mandatory certification",
+      "confidence": "medium"
+    },
+    "3796": {
+      "certification_type": "BIS Product Certification",
+      "basis": "Spices and condiments - available under BIS product certification",
+      "confidence": "medium"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+# SIH26108 — Indian Standards recommendation engine
+# Install:  .venv/bin/python -m pip install -r requirements.txt
+
+# --- Task 3: retrieval / ML pipeline ---------------------------------------
+# Core. The pipeline runs with numpy alone, using a lexical fallback backend.
+numpy>=1.26
+
+# Preferred semantic backend (all-MiniLM-L6-v2). Pulls in torch.
+sentence-transformers>=2.7.0
+
+# Fallback lexical backend, used when sentence-transformers is unavailable.
+scikit-learn>=1.4
+
+# Optional ANN index. Falls back to numpy brute force if missing, which is
+# fine at this dataset size.
+faiss-cpu>=1.8.0
+
+# --- Task 4: backend API ---------------------------------------------------
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+
+# Translation provider calls (Google Translate v2 / LibreTranslate).
+httpx>=0.27

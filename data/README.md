@@ -1,0 +1,75 @@
+# Data
+
+Provenance and shape of every data file, and how they combine at load time.
+
+## Files
+
+| File | Owner | Rows | What it is |
+|---|---|---|---|
+| `bis_standards_dataset.json` / `.csv` | Task 1 | 226 | Scraped standards metadata: number, title, scope, category, year, review flags |
+| `needs_review.csv` | Task 1 | 135 | Subset flagged during scraping as needing manual review |
+| `flagship_products.json` | Task 2 | 54 | Selected flagship products with their primary standard and selection rationale |
+| `allied_standards_mapping.json` | Task 2 | 15 | Allied / normative / test-method / safety / installation standards per primary standard |
+| `curated_standards_supplement.json` | Task 3 | 36 | Hand-curated standards filling the categories the scrape missed |
+| `certification_map.json` | Task 3 | 48 entries | Certification scheme per base IS number (ISI / CRS / Hallmarking) |
+
+## How they combine
+
+`ml.retrieval_pipeline.load_standards()` builds the live index in four steps:
+
+1. Read the **primary** dataset (`bis_standards_dataset.json` by default).
+2. Merge the **supplement**, deduplicating by canonical standard number so a
+   curated row and a scraped row for the same standard collapse into one entry,
+   with the richer text winning.
+3. Add any standard **cited by the allied mapping** but absent from the dataset,
+   so it is searchable.
+4. Apply the **certification overlay**, which never overwrites a certification
+   value already present in the dataset.
+
+226 + 36 + 15 allied-only → **269 standards** after merging, of which 53 carry a
+certification scheme (46 ISI, 4 CRS, 3 Hallmarking).
+
+## Standard number formats
+
+The scraped dataset writes numbers six different ways, and the Task 2 files use
+different ones again:
+
+```
+IS 269 - 2015      IS: 9103        IS 4375 : 2019      IS 302 :
+IS 2911-1-1        IS 432 (P II) 1966                  IS:2720 (Part.29) 1975
+IS 1786            IS 383-2016     IS 1786:2008
+```
+
+All of these are parsed into `(base, part, year)` and compared by a canonical
+key, so `IS 1786`, `IS 1786:2008` and `IS:1786` all resolve to the same standard.
+**Never join these files by raw string equality** — 6 of the 15 allied mappings
+would silently miss. Use `ml.retrieval_pipeline._canonical_key` or the
+`canonical_key` field returned by the API.
+
+## Accuracy
+
+Every row exposes `needs_verification`, and curated entries carry a
+`source_confidence`:
+
+- `high` — number, title and year checked against a bis.gov.in document during
+  curation. Where a URL was recorded it is in `verified_reference` or
+  `certification_reference`.
+- `medium` — subject and number believed correct, exact edition year unconfirmed.
+- `low` / unset — inherited from the scrape, usually because the scope is under
+  12 words.
+
+Known defects in the scraped data, left as-is rather than silently patched:
+
+- `year_published` contains impossible values for a few rows (`2090`, `2062`)
+  lifted out of titles. The loader drops implausible years instead of showing
+  them.
+- `latest_version` holds an amendment count (`"Amendments: 6"`) rather than a
+  version, for 48 rows. The loader splits this into an `amendments` integer.
+- Roughly 15% of rows sit in the wrong category — soil tests under
+  "Water & Environment", a steel wire standard under "Electrical". Ranking
+  compensates by scaling metadata boosts with semantic similarity.
+- One title is corrupted: `IS: 432` reads `"; 226; 2062 – mild steel of grade I"`.
+
+Certification tagging reflects Quality Control Orders and CRS notifications as
+of curation. These change; treat `confidence: medium` entries as indicative and
+never as compliance advice.
