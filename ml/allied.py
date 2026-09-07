@@ -4,7 +4,9 @@ Task 2 produced ``allied_standards_mapping.json`` and ``flagship_products.json``
 Their standard numbers are written in whatever format the source used
 (``IS 1786``, ``IS 269 - 2015``, ``IS 383-2016``), which does not always equal
 the number the retrieval pipeline returns (``IS 1786:2008``). A plain dict
-lookup therefore misses roughly 40% of the mappings.
+lookup therefore misses part of the mapping — 5 of 45 primaries at the time of
+writing, and the affected set shifts whenever the dataset gains a better edition
+of a standard.
 
 Everything here resolves numbers through the same canonical parser the retrieval
 pipeline uses, so any format matches any other format for the same standard.

@@ -9,15 +9,17 @@ Provenance and shape of every data file, and how they combine at load time.
 | `bis_standards_dataset.json` / `.csv` | Task 1 | 226 | Scraped standards metadata: number, title, scope, category, year, review flags |
 | `needs_review.csv` | Task 1 | 135 | Subset flagged during scraping as needing manual review |
 | `flagship_products.json` | Task 2 | 54 | Selected flagship products with their primary standard and selection rationale |
-| `allied_standards_mapping.json` | Task 2 | 15 | Allied / normative / test-method / safety / installation standards per primary standard |
+| `allied_standards_mapping.json` | Task 2 | 45 primaries, 142 mappings | Allied / normative / test-method / safety / installation standards per primary standard |
 | `curated_standards_supplement.json` | Task 3 | 40 | Hand-curated standards filling the categories the scrape missed |
 | `certification_map.json` | Task 3 | 48 entries | Certification scheme per base IS number (ISI / CRS / Hallmarking) |
 
-Task 2's audit trail for the allied mapping — how the 53 promoted mappings were
-selected, and the nine pairings that were rejected — is in
+Task 2's audit trail — how mappings were promoted, and the nine pairings that
+were rejected — is in
 [`docs/task2_allied_standards_finalization.md`](../docs/task2_allied_standards_finalization.md).
-`tests/test_allied_mapping.py` enforces those numbers so a regenerated mapping
-cannot silently reintroduce a rejected pairing.
+That report documents the earlier 15-primary / 53-mapping revision; the current
+file expands to 45 primaries and 142 mappings while preserving that audited set
+intact. `tests/test_allied_mapping.py` enforces both: the current totals, and
+that no audited primary or rejected pairing has drifted.
 
 ## How they combine
 
@@ -32,8 +34,8 @@ cannot silently reintroduce a rejected pairing.
 4. Apply the **certification overlay**, which never overwrites a certification
    value already present in the dataset.
 
-226 + 40 + 15 allied-only → **273 standards** after merging, of which 53 carry a
-certification scheme (46 ISI, 4 CRS, 3 Hallmarking).
+226 + 40 + 64 allied-only → **322 standards** after merging, of which 55 carry a
+certification scheme (47 ISI, 5 CRS, 3 Hallmarking).
 
 Four of the curated rows (`IS 2016`, `IS 4218 Part 1`, `IS 4146`, `IS 2099`) were
 added because section 6.2 of the Task 2 finalization report flagged them as
@@ -54,9 +56,10 @@ IS 1786            IS 383-2016     IS 1786:2008
 
 All of these are parsed into `(base, part, year)` and compared by a canonical
 key, so `IS 1786`, `IS 1786:2008` and `IS:1786` all resolve to the same standard.
-**Never join these files by raw string equality** — 6 of the 15 allied mappings
-would silently miss. Use `ml.retrieval_pipeline._canonical_key` or the
-`canonical_key` field returned by the API.
+**Never join these files by raw string equality** — 5 of the 45 allied mappings
+would silently miss, and which 5 changes as the dataset gains better editions.
+Use `ml.retrieval_pipeline._canonical_key` or the `canonical_key` field returned
+by the API.
 
 ## Accuracy
 

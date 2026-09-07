@@ -84,8 +84,8 @@ Three files combine into the live index:
 4. **Allied references** — standards cited by `data/allied_standards_mapping.json`
    that are missing from the dataset are added as searchable rows. See below.
 
-Current totals: 226 scraped + 40 curated + 15 allied-only → 273 standards after
-merging, of which 53 carry a certification scheme (46 ISI / 4 CRS / 3
+Current totals: 226 scraped + 40 curated + 64 allied-only → 322 standards after
+merging, of which 55 carry a certification scheme (47 ISI / 5 CRS / 3
 Hallmarking).
 
 Each certification entry records a `basis` and a `confidence`. Entries marked
@@ -127,7 +127,8 @@ payload = allied_for("IS 1786:2008")   # any number format resolves
 
 **Do not look standards up by raw string.** Task 2's numbers are written
 differently from the pipeline's (`IS 1786` vs `IS 1786:2008`, `IS 383-2016` vs
-`IS 383:2016`); 6 of the 15 mappings fail an exact string match. Everything in
+`IS 383:2016`); 5 of the 45 mappings fail an exact string match, and which ones
+shift whenever the dataset gains a better edition of a standard. Everything in
 `ml/allied.py` resolves through the same canonical parser, so all formats work.
 An unmapped standard returns the same shape with `mapped: false` and an empty
 `groups` list, so the endpoint needs no special-casing.
@@ -136,15 +137,16 @@ Groups come back in reading order: normative references, test methods,
 terminology, safety, installation and application, related products. Each entry
 carries Task 2's own `confidence` — surface `medium` as unverified.
 
-The mapping cites 15 standards that are not in the scraped dataset (IS 1599 bend
-test, IS 228 chemical analysis, ...). Those are added to the search index as
-rows in category "Allied / Referenced" with `needs_verification: true`, so they
-are searchable rather than only reachable through the allied endpoint. Pass
-`include_allied=False` to `load_standards` to turn that off.
+The mapping cites 64 standards that are not in the scraped dataset (IS 1599 bend
+test, IS 228 chemical analysis, IS 800 steel design code, ...). Those are added
+to the search index as rows in category "Allied / Referenced" with
+`needs_verification: true`, so they are searchable rather than only reachable
+through the allied endpoint. Pass `include_allied=False` to `load_standards` to
+turn that off.
 
-Current coverage: 15 allied mappings over 54 flagship products, so most
-standards return `mapped: false`. The UI should only render the allied section
-when `has_allied` is true.
+Current coverage: **45 primary standards with 142 allied mappings**, covering 45
+of the 54 flagship products. The remaining 9 return `mapped: false`, so the UI
+should still gate the allied section on `has_allied`.
 
 ## How ranking works
 
@@ -161,18 +163,19 @@ Tuning constants live at the top of `retrieval_pipeline.py`.
 
 ## Known limits
 
-- 155 of 273 rows still have a scope shorter than 12 words (the scraper mostly
+- 155 of 322 rows still have a scope shorter than 12 words (the scraper mostly
   copied the title into `scope_description`). Ranking works, but richer scope
   text from Task 1 would improve it measurably.
-- 220 rows carry no certification tag. That is usually correct — codes of
+- 267 rows carry no certification tag. That is usually correct — codes of
   practice and test-method standards are not certifiable — but the overlay is
   not exhaustive either.
 - Roughly 15% of scraped rows are in the wrong category (soil tests filed under
   "Water & Environment", a steel wire standard under "Electrical"). Metadata
   boosts are scaled by semantic similarity so a bad category cannot pull an
   irrelevant standard into the top results.
-- `needs_verification` is true for 144 rows. Anything shown live should be spot
-  checked against the BIS catalogue first.
+- `needs_verification` is true for 193 rows, which includes every allied-only
+  row, since their titles come from the mapping rather than from BIS directly.
+  Anything shown live should be spot checked against the BIS catalogue first.
 
 ## Tests
 
@@ -180,7 +183,7 @@ Tuning constants live at the top of `retrieval_pipeline.py`.
 .venv/bin/python -m pytest tests/ -v
 ```
 
-70 tests covering number-format parsing, the Task 2 mapping's audited
+72 tests covering number-format parsing, the Task 2 mapping's audited
 invariants, cross-file resolution, retrieval guardrails for each demo category,
 and every API endpoint.
 

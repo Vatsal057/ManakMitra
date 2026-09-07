@@ -1,5 +1,17 @@
 # Task 4: Allied Standards Mapping Finalization & Promotion Report
 
+> **⚠ Historical record.** This report documents the batch 01/02 audit that
+> produced the **15 primary standards / 53 mappings** revision. The mapping was
+> later expanded to **45 primaries / 142 mappings**, which is what
+> `data/allied_standards_mapping.json` now contains, so the counts and the
+> "remaining 39 flagship products" note in section 6 are superseded. Everything
+> promoted here survives in the current file, and the nine rejected pairings in
+> section 3 remain purged — both are enforced by
+> `tests/test_allied_mapping.py`. Section 6.2's four missing standards have since
+> been ingested into `data/curated_standards_supplement.json`. The audit
+> reasoning below is still the authoritative record of *why* those mappings were
+> accepted or rejected.
+
 > **Project:** AI-Powered Recommendation Engine for Identifying Applicable Indian Standards for Procurement Specifications  
 > **Sub-Module:** Task 2 — Allied & Normative Standards Mapping  
 > **Milestone:** Task 4 — Final Promotion & Verified Dataset Delivery for Role 4 (Backend/API)  

@@ -22,7 +22,7 @@ def test_health_reports_a_loaded_pipeline(client):
     assert body["status"] in {"ok", "degraded"}
     assert body["pipeline_ready"] is True
     assert body["standards_loaded"] > 200
-    assert body["allied_mappings"] == 15
+    assert body["allied_mappings"] == 45
     assert body["flagship_products"] == 54
 
 

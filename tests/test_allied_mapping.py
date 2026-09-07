@@ -27,17 +27,29 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 MAPPING_PATH = PROJECT_ROOT / "data" / "allied_standards_mapping.json"
 FLAGSHIP_PATH = PROJECT_ROOT / "data" / "flagship_products.json"
 
-# Section 2 of the finalization report.
-EXPECTED_PRIMARY_STANDARDS = 15
-EXPECTED_ALLIED_MAPPINGS = 53
-EXPECTED_CONFIDENCE = {"high": 51, "medium": 2, "low": 0}
+# Expanded mapping delivered after the batch 01/02 finalization report. The
+# report's own metrics (15 primaries / 53 mappings) describe the earlier
+# revision; that set is preserved intact as a subset of this one, which
+# test_expanded_mapping_preserves_the_audited_subset checks.
+EXPECTED_PRIMARY_STANDARDS = 45
+EXPECTED_ALLIED_MAPPINGS = 142
+EXPECTED_CONFIDENCE = {"high": 140, "medium": 2, "low": 0}
 EXPECTED_RELATIONSHIPS = {
-    "test_method": 25,
-    "installation_application": 16,
-    "normative_reference": 6,
-    "safety": 6,
+    "test_method": 68,
+    "installation_application": 31,
+    "normative_reference": 29,
+    "safety": 14,
     "terminology": 0,
 }
+
+# The 15 primaries and 53 pairings promoted by the audited batches. None may be
+# lost when the mapping is expanded.
+AUDITED_PRIMARIES = {
+    "IS 1786", "IS 269 - 2015", "IS 456", "IS 383-2016", "IS 1077 - 1992",
+    "IS 2925", "IS 4151", "IS 2997", "IS 3156-3", "IS 368", "IS 302-2-3",
+    "IS 1364-3", "IS 3063", "IS 260", "IS 3771 : 2019",
+}
+AUDITED_MAPPING_COUNT = 53
 
 ALLOWED_RELATIONSHIPS = {
     "normative_reference",
@@ -162,6 +174,35 @@ def test_manual_verify_exclusions_stay_excluded(mapping):
     }
     leaked = MANUAL_VERIFY_EXCLUSIONS & present
     assert not leaked, f"MANUAL_VERIFY entries present in the mapping: {leaked}"
+
+
+def test_expanded_mapping_preserves_the_audited_subset(mapping):
+    """The 15 audited primaries must survive every later expansion.
+
+    The batch 01/02 audits are the most rigorously verified part of this data.
+    An expansion that quietly dropped them would lose that provenance while the
+    headline counts still went up.
+    """
+    present = {entry["primary_standard"] for entry in mapping}
+    lost = AUDITED_PRIMARIES - present
+    assert not lost, f"Expansion dropped audited primary standards: {lost}"
+
+    audited_pair_count = sum(
+        len(entry["allied_standards"])
+        for entry in mapping
+        if entry["primary_standard"] in AUDITED_PRIMARIES
+    )
+    assert audited_pair_count >= AUDITED_MAPPING_COUNT, (
+        f"Audited primaries now carry {audited_pair_count} mappings, "
+        f"down from {AUDITED_MAPPING_COUNT}"
+    )
+
+
+def test_flagship_coverage_is_reported_accurately(mapping, flagship_standards):
+    """Pins the mapped/unmapped split that the UI and pitch quote."""
+    mapped = {entry["primary_standard"] for entry in mapping} & flagship_standards
+    assert len(flagship_standards) == 54
+    assert len(mapped) == 45, f"Expected 45 of 54 flagship products mapped, got {len(mapped)}"
 
 
 def test_confidence_distribution_matches_report(allied_entries):

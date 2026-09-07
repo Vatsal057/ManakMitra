@@ -103,7 +103,9 @@ lookup goes through the pipeline's canonical number parser rather than string
 equality.
 
 Always returns 200. When nothing is mapped you get `mapped: false`, an empty
-`groups` array and a `message`, so no special-casing is needed.
+`groups` array and a `message`, so no special-casing is needed. Coverage is 45 of
+the 54 flagship products, so gate the UI section on `has_allied` from
+`/recommend` rather than assuming a mapping exists.
 
 ```jsonc
 {
