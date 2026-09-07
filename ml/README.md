@@ -145,8 +145,10 @@ through the allied endpoint. Pass `include_allied=False` to `load_standards` to
 turn that off.
 
 Current coverage: **45 primary standards with 142 allied mappings**, covering 45
-of the 54 flagship products. The remaining 9 return `mapped: false`, so the UI
-should still gate the allied section on `has_allied`.
+of the 54 flagship products. The remaining 9 are component-level or agricultural
+items that Task 2 left unmapped rather than guess at, so they return
+`mapped: false` — the UI should still gate the allied section on `has_allied`.
+See [`docs/task2_allied_standards_expansion_batch_03.md`](../docs/task2_allied_standards_expansion_batch_03.md).
 
 ## How ranking works
 
@@ -183,7 +185,7 @@ Tuning constants live at the top of `retrieval_pipeline.py`.
 .venv/bin/python -m pytest tests/ -v
 ```
 
-72 tests covering number-format parsing, the Task 2 mapping's audited
+74 tests covering number-format parsing, the Task 2 mapping's audited
 invariants, cross-file resolution, retrieval guardrails for each demo category,
 and every API endpoint.
 

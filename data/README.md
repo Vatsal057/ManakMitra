@@ -13,13 +13,21 @@ Provenance and shape of every data file, and how they combine at load time.
 | `curated_standards_supplement.json` | Task 3 | 40 | Hand-curated standards filling the categories the scrape missed |
 | `certification_map.json` | Task 3 | 48 entries | Certification scheme per base IS number (ISI / CRS / Hallmarking) |
 
-Task 2's audit trail — how mappings were promoted, and the nine pairings that
-were rejected — is in
-[`docs/task2_allied_standards_finalization.md`](../docs/task2_allied_standards_finalization.md).
-That report documents the earlier 15-primary / 53-mapping revision; the current
-file expands to 45 primaries and 142 mappings while preserving that audited set
-intact. `tests/test_allied_mapping.py` enforces both: the current totals, and
-that no audited primary or rejected pairing has drifted.
+Task 2's allied mapping has two accompanying reports in [`docs/`](../docs/):
+
+- [`task2_allied_standards_expansion_batch_03.md`](../docs/task2_allied_standards_expansion_batch_03.md)
+  — the current state: 45 primaries, 142 mappings, 45 of 54 flagship products,
+  and why the remaining 9 were left unmapped rather than given artificial
+  mappings.
+- [`task2_allied_standards_finalization.md`](../docs/task2_allied_standards_finalization.md)
+  — the earlier batch 01/02 audit: how mappings were promoted and which nine
+  pairings were rejected, with reasons. Its counts are superseded; its reasoning
+  is not.
+
+`tests/test_allied_mapping.py` enforces both reports against the shipped file:
+the current totals and distributions, the 15 originally audited primaries
+surviving expansion, the nine rejected pairings staying purged, and the 45/54
+coverage split.
 
 ## How they combine
 

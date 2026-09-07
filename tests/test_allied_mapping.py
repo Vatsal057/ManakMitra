@@ -77,6 +77,37 @@ REJECTED_PAIRS = {
 # Section 3.2 — excluded pending physical amendment-sheet verification.
 MANUAL_VERIFY_EXCLUSIONS = {("IS 260", "IS 1070:1992")}
 
+# Section 3 of the batch 03 expansion report: flagship products deliberately
+# left unmapped, being component-level or agricultural commodities where an
+# allied mapping would have been speculative.
+DOCUMENTED_UNMAPPED = {
+    "IS 4007-2-1",   # captive screw-cap terminals for electronic equipment
+    "IS 4570-13-1",  # quartz crystal unit holders
+    "IS 2636",       # wing nuts
+    "IS 1242",       # handloom cotton shirting
+    "IS 3796",       # whole fennel seeds
+    "IS 4320",       # thiram technical (fungicide)
+    "IS 4366-1",     # concave tractor tillage discs
+    "IS 3741-1",     # Westergren sedimentation tubes
+    "IS 4281",       # McIndoe scissors
+}
+
+# Section 4 of the batch 03 report tabulates an allied count per primary.
+REPORTED_ALLIED_COUNTS = {
+    "IS 1786": 5, "IS 269 - 2015": 5, "IS 456": 8, "IS 383-2016": 6,
+    "IS 1077 - 1992": 5, "IS 2925": 2, "IS 4151": 3, "IS 2997": 3,
+    "IS 3156-3": 1, "IS 368": 2, "IS 302-2-3": 3, "IS 1364-3": 3,
+    "IS 3063": 2, "IS 260": 2, "IS 3771 : 2019": 3,
+    "IS 1489 (part 1&2) 1991": 5, "IS 458": 4, "IS: 4990": 3, "IS: 455": 4,
+    "IS: 9103": 4, "IS 12778": 4, "IS 4160": 3, "IS 3188": 3, "IS 4250": 3,
+    "IS 13450-2-4": 2, "IS 3452-2": 2, "IS 2759": 3, "IS 3141": 2,
+    "IS 4215": 3, "IS 13799": 2, "IS 216": 2, "IS 3322-1": 2, "IS 13904": 3,
+    "IS 432 (P II) 1966": 3, "IS 3312 : 2021": 3, "IS 12269-1987": 4,
+    "IS 8112 - 2013": 4, "IS 1381-2": 3, "IS 2783": 3, "IS 3318": 3,
+    "IS 3170-1": 2, "IS 13103": 3, "IS 13580": 2, "IS 12451": 3,
+    "IS 12437": 2,
+}
+
 
 @pytest.fixture(scope="module")
 def mapping() -> list[dict]:
@@ -203,6 +234,31 @@ def test_flagship_coverage_is_reported_accurately(mapping, flagship_standards):
     mapped = {entry["primary_standard"] for entry in mapping} & flagship_standards
     assert len(flagship_standards) == 54
     assert len(mapped) == 45, f"Expected 45 of 54 flagship products mapped, got {len(mapped)}"
+
+
+def test_unmapped_products_are_the_documented_ones(mapping, flagship_standards):
+    """The 9 gaps are deliberate, per section 3 of the batch 03 report.
+
+    They are component-level or agricultural items left unmapped rather than
+    given artificial allied standards. If this fails, either coverage changed
+    (update the report) or something was mapped speculatively.
+    """
+    unmapped = flagship_standards - {entry["primary_standard"] for entry in mapping}
+    assert unmapped == DOCUMENTED_UNMAPPED, (
+        f"Unmapped set drifted from the batch 03 report.\n"
+        f"  newly mapped: {DOCUMENTED_UNMAPPED - unmapped}\n"
+        f"  newly unmapped: {unmapped - DOCUMENTED_UNMAPPED}"
+    )
+
+
+def test_per_primary_counts_match_the_batch_03_report(mapping):
+    """Section 4 of the report tabulates an allied count for all 45 primaries."""
+    actual = {e["primary_standard"]: len(e["allied_standards"]) for e in mapping}
+    assert actual == REPORTED_ALLIED_COUNTS, {
+        k: (REPORTED_ALLIED_COUNTS.get(k), v)
+        for k, v in actual.items()
+        if REPORTED_ALLIED_COUNTS.get(k) != v
+    }
 
 
 def test_confidence_distribution_matches_report(allied_entries):

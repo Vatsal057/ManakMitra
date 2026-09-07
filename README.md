@@ -80,8 +80,8 @@ ManakMitra/
 │   ├── schemas.py               request/response models
 │   ├── translation.py           multilingual support
 │   └── README.md                API reference for the frontend
-├── tests/                72 tests across data, pipeline and API
-├── docs/                 problem statement, team plan, Task 2 audit report
+├── tests/                74 tests across data, pipeline and API
+├── docs/                 problem statement, team plan, Task 2 audit reports
 └── requirements.txt
 ```
 
@@ -93,7 +93,7 @@ ManakMitra/
 
 | File | Covers |
 |---|---|
-| `tests/test_allied_mapping.py` | Task 2's invariants: 45 primaries, 142 mappings, confidence and relationship distributions, the nine rejected pairings staying purged, and the originally audited 15-primary set surviving expansion |
+| `tests/test_allied_mapping.py` | Task 2's invariants, checked against both reports: 45 primaries and 142 mappings with per-primary counts, confidence and relationship distributions, the nine rejected pairings staying purged, the originally audited 15-primary set surviving expansion, and the nine documented coverage gaps staying deliberate |
 | `tests/test_integration.py` | Standard-number parsing across all eleven observed formats, cross-file resolution between Tasks 1–3, and a guardrail per demo category |
 | `tests/test_api.py` | Every endpoint, error envelope, CORS preflight, and multilingual retrieval |
 
@@ -119,9 +119,9 @@ work six ways.
 | Task | Scope | Status |
 |---|---|---|
 | 1 | Standards dataset | **Done** — 226 standards across 15 categories |
-| 2 | Allied standards mapping | **Done** — 142 mappings over 45 of 54 flagship products ([audit report](docs/task2_allied_standards_finalization.md)) |
+| 2 | Allied standards mapping | **Done** — 142 mappings over 45 of 54 flagship products ([expansion report](docs/task2_allied_standards_expansion_batch_03.md), [audit report](docs/task2_allied_standards_finalization.md)) |
 | 3 | Retrieval / ML pipeline | **Done** — semantic search, 322 standards indexed |
-| 4 | Backend API | **Done** — 7 endpoints, 72 tests passing |
+| 4 | Backend API | **Done** — 7 endpoints, 74 tests passing |
 | 5 | Frontend | Not started |
 | 6 | Integration, demo, pitch | Not started |
 

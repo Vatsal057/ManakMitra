@@ -1,5 +1,17 @@
 # Task 2: Final Coverage Expansion Report (Batch 03)
 
+> **Current record for the allied mapping.** This report describes the mapping
+> now in `data/allied_standards_mapping.json` — 45 primary standards, 142 allied
+> mappings, 45 of 54 flagship products covered. Its figures were checked against
+> the shipped file: all 45 per-primary counts match, the total is 142, and the
+> nine unmapped products in section 3 match exactly. The earlier batch 01/02
+> audit, which explains *why* individual mappings were accepted or rejected, is
+> in [`task2_allied_standards_finalization.md`](task2_allied_standards_finalization.md).
+>
+> Paths below refer to the Task 2 authoring repo. In this repository the
+> deliverable lives at `data/allied_standards_mapping.json` and the test suite at
+> `tests/test_allied_mapping.py`.
+
 > **Project:** AI-Powered Recommendation Engine for Identifying Applicable Indian Standards for Procurement Specifications  
 > **Sub-Module:** Task 2 — Allied & Normative Standards Mapping  
 > **Milestone:** Step 10 — Batch 03 Targeted Expansion Report (10 Target Standards)  
