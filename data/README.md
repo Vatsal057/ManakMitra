@@ -10,8 +10,14 @@ Provenance and shape of every data file, and how they combine at load time.
 | `needs_review.csv` | Task 1 | 135 | Subset flagged during scraping as needing manual review |
 | `flagship_products.json` | Task 2 | 54 | Selected flagship products with their primary standard and selection rationale |
 | `allied_standards_mapping.json` | Task 2 | 15 | Allied / normative / test-method / safety / installation standards per primary standard |
-| `curated_standards_supplement.json` | Task 3 | 36 | Hand-curated standards filling the categories the scrape missed |
+| `curated_standards_supplement.json` | Task 3 | 40 | Hand-curated standards filling the categories the scrape missed |
 | `certification_map.json` | Task 3 | 48 entries | Certification scheme per base IS number (ISI / CRS / Hallmarking) |
+
+Task 2's audit trail for the allied mapping — how the 53 promoted mappings were
+selected, and the nine pairings that were rejected — is in
+[`docs/task2_allied_standards_finalization.md`](../docs/task2_allied_standards_finalization.md).
+`tests/test_allied_mapping.py` enforces those numbers so a regenerated mapping
+cannot silently reintroduce a rejected pairing.
 
 ## How they combine
 
@@ -26,8 +32,14 @@ Provenance and shape of every data file, and how they combine at load time.
 4. Apply the **certification overlay**, which never overwrites a certification
    value already present in the dataset.
 
-226 + 36 + 15 allied-only → **269 standards** after merging, of which 53 carry a
+226 + 40 + 15 allied-only → **273 standards** after merging, of which 53 carry a
 certification scheme (46 ISI, 4 CRS, 3 Hallmarking).
+
+Four of the curated rows (`IS 2016`, `IS 4218 Part 1`, `IS 4146`, `IS 2099`) were
+added because section 6.2 of the Task 2 finalization report flagged them as
+authentic BIS standards that the allied audit needed but the central dataset
+lacked. Each was checked against its published BIS scan; see
+`verified_reference` on those rows.
 
 ## Standard number formats
 

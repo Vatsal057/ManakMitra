@@ -80,9 +80,22 @@ ManakMitra/
 │   ├── schemas.py               request/response models
 │   ├── translation.py           multilingual support
 │   └── README.md                API reference for the frontend
-├── docs/                 problem statement and team plan
+├── tests/                70 tests across data, pipeline and API
+├── docs/                 problem statement, team plan, Task 2 audit report
 └── requirements.txt
 ```
+
+## Tests
+
+```bash
+.venv/bin/python -m pytest tests/ -v
+```
+
+| File | Covers |
+|---|---|
+| `tests/test_allied_mapping.py` | Task 2's audited invariants: 15 primaries, 53 mappings, confidence and relationship distributions, and the nine rejected pairings staying purged |
+| `tests/test_integration.py` | Standard-number parsing across all eleven observed formats, cross-file resolution between Tasks 1–3, and a guardrail per demo category |
+| `tests/test_api.py` | Every endpoint, error envelope, CORS preflight, and multilingual retrieval |
 
 ## API
 
@@ -106,9 +119,9 @@ work six ways.
 | Task | Scope | Status |
 |---|---|---|
 | 1 | Standards dataset | **Done** — 226 standards across 15 categories |
-| 2 | Allied standards mapping | **Done** — 15 mappings over 54 flagship products |
-| 3 | Retrieval / ML pipeline | **Done** — semantic search, 269 standards indexed |
-| 4 | Backend API | **Done** — 7 endpoints, verified end to end |
+| 2 | Allied standards mapping | **Done** — 53 audited mappings over 15 flagship primaries ([audit report](docs/task2_allied_standards_finalization.md)) |
+| 3 | Retrieval / ML pipeline | **Done** — semantic search, 273 standards indexed |
+| 4 | Backend API | **Done** — 7 endpoints, 70 tests passing |
 | 5 | Frontend | Not started |
 | 6 | Integration, demo, pitch | Not started |
 
@@ -147,11 +160,13 @@ falls back to TF-IDF, then to a pure-numpy hashing vectoriser, and without
 This is a hackathon prototype built on a curated subset of the BIS catalogue, not
 an authoritative compliance tool. Specifics:
 
-- **Coverage** is 269 standards, not the full BIS catalogue of several thousand.
+- **Coverage** is 273 standards, not the full BIS catalogue of several thousand.
+- **Allied mappings** cover 15 of the 54 flagship products, so most standards
+  return `mapped: false`.
 - **Certification tags** are a point-in-time snapshot. QCO and CRS notifications
   change; entries marked `confidence: medium` are indicative and surface as such
   in the API response.
-- **Provenance.** Rows carry `needs_verification`, true for 144 of 269, mostly
+- **Provenance.** Rows carry `needs_verification`, true for 144 of 273, mostly
   because the source scrape produced a scope shorter than 12 words. Anything used
   in a real specification should be checked against the BIS catalogue.
 - **Amendment tracking** is static metadata, not a live feed from BIS.

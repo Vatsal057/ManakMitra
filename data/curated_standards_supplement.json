@@ -4,7 +4,11 @@
     "merge_behaviour": "Loaded on top of the primary dataset and deduplicated by base number + part. Where a row here overlaps a scraped row (e.g. IS 1786), the richer text wins and the other number format is kept in also_known_as.",
     "accuracy_note": "source_confidence 'high' means the standard number, title and year were checked against a bis.gov.in document during curation (see verified_reference). 'medium' means the number and subject are believed correct but the exact edition year was not confirmed. Anything shown in the live demo should still be spot-checked against the BIS catalogue.",
     "curated_by": "Task 3 (retrieval pipeline)",
-    "row_count": 36
+    "row_count": 40,
+    "changelog": [
+      "36 rows: initial gap-fill for cables, LPG, toys, drinking water, IT/electronics, jewellery, plus current editions of flagship civil standards.",
+      "40 rows: added IS 2016, IS 4218 (Part 1), IS 4146 and IS 2099, the four standards the Task 2 Batch 02 audit asked to be ingested into the central dataset (see docs/task2_allied_standards_finalization.md section 6.2)."
+    ]
   },
   "standards": [
     {
@@ -441,6 +445,58 @@
       "status": "active",
       "source": "curated_task3",
       "source_confidence": "medium"
+    },
+    {
+      "standard_number": "IS 2016:1967",
+      "title": "Plain Washers - Specification",
+      "scope_description": "Specification for plain washers used with bolts, screws and nuts in general engineering assemblies, covering nominal sizes, inside and outside diameters, thickness and tolerances, material and finish, and designation. Requested for ingestion by the Task 2 Batch 02 audit as a companion fastener standard.",
+      "category": "Fasteners",
+      "latest_version": "1967",
+      "year": 1967,
+      "certification_type": "None",
+      "status": "active",
+      "source": "curated_task3",
+      "source_confidence": "high",
+      "verified_reference": "https://law.resource.org/pub/in/bis/S01/is.2016.1967.pdf"
+    },
+    {
+      "standard_number": "IS 4218 (Part 1):2001",
+      "title": "ISO General Purpose Metric Screw Threads, Part 1: Basic and Design Profiles",
+      "scope_description": "Specification of the basic and design profiles for ISO general purpose metric screw threads, defining the fundamental triangle, thread angle, pitch, crest and root truncation and the design profiles for internal and external threads used on bolts, screws and nuts. Requested for ingestion by the Task 2 Batch 02 audit as the thread standard underlying hexagon nut and bolt specifications.",
+      "category": "Fasteners",
+      "latest_version": "2001",
+      "year": 2001,
+      "certification_type": "None",
+      "status": "active",
+      "source": "curated_task3",
+      "source_confidence": "high",
+      "verified_reference": "https://law.resource.org/pub/in/bis/S01/is.4218.1.2001.pdf"
+    },
+    {
+      "standard_number": "IS 4146:1983",
+      "title": "Application Guide for Voltage Transformers",
+      "scope_description": "Application guide for voltage transformers used for measurement and protection, covering selection of rated voltage factor, burden and accuracy class, connection arrangements, ferro-resonance and residual voltage considerations, and dual purpose voltage transformers serving both measurement and protection windings. Requested for ingestion by the Task 2 Batch 02 audit as the application companion to the IS 3156 series.",
+      "category": "Electrical Instrument Transformers",
+      "latest_version": "1983",
+      "year": 1983,
+      "certification_type": "None",
+      "status": "active",
+      "source": "curated_task3",
+      "source_confidence": "high",
+      "verified_reference": "https://law.resource.org/pub/in/bis/S05/is.4146.1983.pdf"
+    },
+    {
+      "standard_number": "IS 2099:1986",
+      "title": "Bushings for Alternating Voltages above 1000 Volts - Specification",
+      "scope_description": "Specification for bushings for alternating voltages above 1000 volts used on transformers, switchgear and instrument transformers, covering rated voltage and current, insulation levels, temperature rise, partial discharge and dielectric tests, mechanical loads, and marking of high voltage bushings. Requested for ingestion by the Task 2 Batch 02 audit as a companion standard for substation equipment.",
+      "category": "Electrical Insulators",
+      "latest_version": "1986",
+      "year": 1986,
+      "certification_type": "None",
+      "status": "active",
+      "source": "curated_task3",
+      "source_confidence": "high",
+      "verified_reference": "https://law.resource.org/pub/in/bis/S05/is.2099.1986.pdf"
     },
     {
       "standard_number": "IS 14756:2000",

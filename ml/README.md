@@ -84,7 +84,7 @@ Three files combine into the live index:
 4. **Allied references** — standards cited by `data/allied_standards_mapping.json`
    that are missing from the dataset are added as searchable rows. See below.
 
-Current totals: 226 scraped + 36 curated + 15 allied-only → 269 standards after
+Current totals: 226 scraped + 40 curated + 15 allied-only → 273 standards after
 merging, of which 53 carry a certification scheme (46 ISI / 4 CRS / 3
 Hallmarking).
 
@@ -161,18 +161,28 @@ Tuning constants live at the top of `retrieval_pipeline.py`.
 
 ## Known limits
 
-- 155 of 254 rows still have a scope shorter than 12 words (the scraper mostly
+- 155 of 273 rows still have a scope shorter than 12 words (the scraper mostly
   copied the title into `scope_description`). Ranking works, but richer scope
   text from Task 1 would improve it measurably.
-- 201 rows carry no certification tag. That is usually correct — codes of
+- 220 rows carry no certification tag. That is usually correct — codes of
   practice and test-method standards are not certifiable — but the overlay is
   not exhaustive either.
 - Roughly 15% of scraped rows are in the wrong category (soil tests filed under
   "Water & Environment", a steel wire standard under "Electrical"). Metadata
   boosts are scaled by semantic similarity so a bad category cannot pull an
   irrelevant standard into the top results.
-- `needs_verification` is true for 129 rows. Anything shown live should be spot
+- `needs_verification` is true for 144 rows. Anything shown live should be spot
   checked against the BIS catalogue first.
+
+## Tests
+
+```bash
+.venv/bin/python -m pytest tests/ -v
+```
+
+70 tests covering number-format parsing, the Task 2 mapping's audited
+invariants, cross-file resolution, retrieval guardrails for each demo category,
+and every API endpoint.
 
 ## Verified demo coverage
 
