@@ -4,6 +4,7 @@ The model + index are built once at startup (lifespan), never per request.
 """
 from __future__ import annotations
 
+import os
 import sys
 import time
 from contextlib import asynccontextmanager
@@ -22,10 +23,32 @@ from retrieval.search import RetrievalIndex
 from retrieval.identifiers import split_identifier_from_text
 from audit.tender_audit import audit_specification
 from translation.service import TranslationService
+from translation.env import load_dotenv
+
+# Load backend/.env if present, so ALLOWED_ORIGINS can be set in a file
+# rather than remembered as a shell export on every run. Real environment
+# variables still win (load_dotenv uses setdefault), so a platform-injected
+# ALLOWED_ORIGINS overrides the file.
+load_dotenv()
 
 # Confirmed by reading frontend/indian-standards-frontend/vite.config.ts
 # (server.port: 3000) -- not the Vite default 5173.
 DEV_SERVER_ORIGIN = "http://localhost:3000"
+
+# Deployed frontend origin(s) -- comma-separated exact origins, set via the
+# ALLOWED_ORIGINS env var (e.g. "https://manakmitra.vercel.app"). Kept
+# separate from DEV_SERVER_ORIGIN so local dev always keeps working
+# regardless of what's deployed.
+_extra_origins = [
+    o.strip() for o in os.environ.get("ALLOWED_ORIGINS", "").split(",") if o.strip()
+]
+ALLOWED_ORIGINS = [DEV_SERVER_ORIGIN, *_extra_origins]
+
+# Vercel preview deployments get a fresh subdomain per branch/PR
+# (https://<project>-<hash>-<team>.vercel.app) -- a fixed origin list can't
+# cover those, so also allow any *.vercel.app origin via regex. Tighten or
+# drop this if that's too permissive for your use case.
+ALLOWED_ORIGIN_REGEX = r"https://.*\.vercel\.app"
 
 
 class RecommendedStandard(BaseModel):
@@ -157,7 +180,8 @@ async def lifespan(app: FastAPI):
 app = FastAPI(title="ManakMitra Retrieval API", lifespan=lifespan)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[DEV_SERVER_ORIGIN],
+    allow_origins=ALLOWED_ORIGINS,
+    allow_origin_regex=ALLOWED_ORIGIN_REGEX,
     allow_methods=["*"],
     allow_headers=["*"],
 )

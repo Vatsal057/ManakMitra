@@ -16,8 +16,16 @@ import {
 
 const CONFIG_STORAGE_KEY = 'bis_standards_api_config';
 
+// Vite inlines VITE_-prefixed env vars at build time. Set VITE_API_BASE_URL
+// in Vercel's project settings to your deployed Hugging Face Space URL
+// (e.g. https://<user>-manakmitra-backend.hf.space) so first-time visitors
+// don't default to localhost:8000. Falls back to localhost for local dev.
+// Users can still override this at runtime via the Settings modal --
+// localStorage always wins (see getApiConfig below).
+const BUILD_TIME_API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
+
 export const DEFAULT_CONFIG: ApiConfig = {
-  baseUrl: 'http://localhost:8000',
+  baseUrl: BUILD_TIME_API_BASE_URL,
   recommendEndpoint: '/recommend',
   alliedEndpoint: '/allied',
   translateEndpoint: '/translate',
