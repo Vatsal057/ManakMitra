@@ -1,0 +1,978 @@
+***•••*•**•••••• 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+'The Right to Information, The Right to Live' 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+IS 12089 (1987) : Specification for granulated slag for the 
+manufacture of Portland slag cement [CED 2: Cement and 
+Concrete] 
+
+
+
+M<>5iVff7n^sb^ja^rssa^iTv;aa!Sg; 
+
+
+
+5?5?-m |7*55^!S&^N5«^^ 
+
+
+
+-<:-<:^vv^^ 
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledg 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+Vii^ 
+
+
+
+
+i4> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : lion • 1«7 
+
+( Reaffirmed 2004 ) 
+
+
+
+Indian Standard 
+
+SPECIFICATION FOR GRANULATED 
+SLAG FOR THE MANUFACTURE OF 
+PORTLAND SLAG CEMENT 
+
+
+
+UDC 66G9 022-492 : 6660*3 
+
+
+
+:|| VopyngM 1987 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK. BHaVAN* *i BABADUR HHAH ZAFAR MARO 
+NEW DELHI WiAWl 
+
+Q^. 3 Jkwfmirf/ 1987 
+
+
+
+IS : 12089 . 1987 
+
+Indian Standard 
+
+SPECIFICATION FOR GKANULATED 
+SLAG FOR THE MANUFACTURE OF 
+PORTLAND SLAG CEMENT 
+
+Cement and Concrete Sectional Committee, BDG 2 
+
+Chairman Representing 
+
+Dr H. G. Visvbsvaraya National Council for Cement and Building Mate- 
+
+rials, New Delhi 
+
+Members 
+Additional DiRECTOB Standards Research, Designs & Standards Organization 
+( B&S ) ( Ministry of Railways ), Lucknow 
+
+Deputy Director Standards ( B&S ) 
+( Alternate ) 
+Shri K. p. Banbrjeb Larsen & Toubro Limited, Bombay 
+
+Shbi Habish N. Malani ( Alternate ) 
+Shri S. K. Banerjee National Test House, Calcutta 
+
+Chief Engineer ( BD ) BhakraBeas Management Board, Nangal Township 
+
+Shei J. G. Basur ( Alternate ) 
+Chief Enginbbb ( Designs ) Central Public Works Department, New Delhi 
+
+Executive Engineer (D) III ( Alternate ) 
+Chief Engineer ( Reseabch-ctjm- Irrigation & Power Research Institute, Amritsar 
+Director ) 
+
+Rbseahoh Oeficeb { Conceete 
+Technology ) ( Alternate ) 
+Dieectob a. p. Engineering Research Laboratories, 
+
+Hyderabad 
+Joint Dibectok ( Alternate ) 
+Director Central Soil and Materials Research Station, New 
+
+Delhi 
+Chieb- Research Officer {.Alternate ) 
+Dibectok ( C & MDD-I ) Central Water Commission, New Delhi 
+
+Deputy Director ( G & MDD-I ) 
+( Alternate ) 
+Shri V. K. Ghanbkar Structural Engineering Research Centre ( CSIR ), 
+
+Roorkee 
+Shri S. Gopinath India Cements Ltd, Madras 
+
+Shri T. TamilakaraN ( Alternate ) 
+Shri A, K. Gupta Hyderabad Industries Ltd, Hyderabad 
+
+( Continued ov page 2 ) 
+
+
+
+© Copyright 1987 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproductioa in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copvright under the said Act. 
+
+
+
+IS t 12089 . 1987 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Sbbi p. J. Jaqus Associated Cement Companies Ltd, Bombay 
+
+Dr a. K. Chatterjbe ( Alternate ) 
+Shbi N. G. JosHi Indian Hume Pipes Co Ltd, Bombay 
+
+Shbi R. L. Kapoob Ministry of Transport ( Department of Surface 
+
+Transport ) ( Roads Wing ) 
+
+Shbi R. K. Saxbna ( Alternate ) 
+Sbbi S. K. Laha The Institution of Engineers ( India ), Calcutta 
+
+Shbi B. T, Unwalla ( Alternate ) 
+Db a. K. Mullick National Council for Cement and Building Mate- 
+
+rials, New Delhi 
+
+Shbi BimaK Dasotjpta ( Alternate ) 
+Shbi H. S. Pasbicha Hindustan Prefab Ltd, New Delhi 
+
+Shbi Y. R. Phuli. Indian Roads Congress, New Delhi; and Central 
+
+Road Research Institute ( CSlR ), New Delhi 
+Shbi M. R. ChattjcbJbb Central Road Research Institute { CSIR ), New 
+( Alternate ) Delhi 
+
+Db Mohan Rai Central Building Research Institute ( CSIR )i 
+
+Roorkee 
+Db S. S. Rehsi { Alternate ) 
+Shbi A. V. Ramana Dalmia Cement ( Bharat ) Ltd, New Delhi 
+
+Db K. C. Narano ( Alternate ) 
+Shbi G. Ramdas Directorate General of Supplies & Disposals, 
+
+New Delhi 
+Db a. V. R. Rao National Buildings Organization, New Delhi 
+
+Saui J. Sen Gupta ( Alternate ) 
+Shbi T. N. Subba Rao Gammon India Ltd, Bombay 
+
+Shri S a. Rbddi ( Alternate ) 
+Db M. Ramaiah Structural Engineering Research Centre ( CSIR ), 
+
+Madras 
+Db a. G. Madhava P.ao ' Alternate '^ 
+Shbi A. U. Rijhsinghani Cement Corporation of India, New Delhi 
+
+Shbi G. S. Sharma ( Alternate ) 
+SbCBETaby Central Board of Irrigation & Power, New Delhi 
+
+Shbi K. R. Saxena ( Alternate ) 
+Shbi H. S. Satyanabayana Engineer-in-Chief's Branch, Army Headquarters, 
+
+New Delhi 
+Shbi V. R. Kotnis ( Alternate ) 
+Shbi R. K. Sinha Development Commissioner for Cement Industry 
+
+( Ministry of Industry ), New Delhi 
+Shbi S. S. Miqlani ( Alternate) 
+SuPbbintbndinq Engine KB Public Works Department, Government of Tamil 
+/ Designs ) Nadu, Madras 
+
+Executive Engineer ( S. M. R. 
+Division } ( Alternate ) 
+Shbi L. Swaeoop Orissa Cement Ltd, New Delhi 
+
+Shri H. Bhattachabya ( Alternaff ) 
+Shbi S. K. Guha Thakueta Gammon Dunkerley & Co Ltd, Bombay 
+
+Shbi S. P. Sankaeanahayanan ( Alternate ) 
+Shbi G. Raman, Director General, BIS ( Ex-offieio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shbi N. C. Bandyopadhyay 
+
+Deputy Director ( Civ Engg ), BIS 
+
+( Continued on page 8 ) 
+
+2 
+
+
+
+IS t 12089 - 1987 
+
+Indian Standard 
+
+SPECIFICATION FOR GRANULATED 
+
+SLAG FOR THE MANUFACTURE OF 
+
+PORTLAND SLAG CEMENT 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Bureau of Indian Standards 
+on 27 May 1987, after the draft finalized by the Cement and Concrete 
+Sectional Committee had been approved by the Civil Engineering Division 
+Council. 
+
+0.2 Granulated slag is used for the manufacture of hydraulic cement by 
+mixing Portland cement clinker, gypsum and granulated slag in suitable 
+proportions and grinding the mixture to get a thorough and intimate nnix 
+between the constituents. Portland slag cement may also be manufactured 
+by separately grinding Portland cement clinker, gypsum and granulated 
+slag and then mixing them intimately. 
+
+0.3 This standard contains clause 5.1 which calls for agreement between 
+the purchaser and the supplier regarding the manner in which granulated 
+slag shall be supplied and whether moisture content is to be determined. 
+
+0,4 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expres- 
+sing the result of a test or analysis, shall be rounded off in accordance with 
+IS : 2-1960*. The number of significant places retained in the rounded off 
+value should be the same as that of the specified value in this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard covers the requirements of granulated slag used in the 
+manufacture of Portland slag cement conforming to IS : 455-1976t. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definition shall apply. 
+
+♦Rules for rounding off numerical values ( revised ). 
+♦Specification for Portland slag cement ( third revision ). 
+
+
+
+IS : 12089 - 1987 
+
+2. 1 Granulated Slag — Slag is a non-metallic product consisting essenti- 
+ally of glass containing silicates and aluminates of lime and other bases, as 
+in the case of blastfurnace slag, which is developed simultaneously with 
+iron in blastfurnace or electric pig iron furnace. Granulated slag is obtain- 
+ed by further processing the molten slag by rapidly chilling or quenching 
+it with water or steam and air. 
+
+3. COMPOSITION 
+
+3.1 The physical state of aggregation of granulated slag shall be in the 
+form of granules. The proportion of lumps exceeding 50 mm size shall not 
+constitute more than 5 percent of the mass of slag. 
+
+3.2 When tested in accordance with the methods given in IS : 4032-1985*, 
+the composition of granulated slag shall comply with the following chemi- 
+cal requirements: 
+
+
+
+Constituent 
+
+
+Percent, Max 
+
+
+Manganese oxide 
+
+
+5-5 
+
+
+Magnesium oxide 
+
+
+17-0 
+
+
+Sulphide sulphur 
+
+
+2-0 
+
+
+
+3.3 The percentages of major oxides in the granulated slag, determined in 
+accordance with the methods given in IS : 4032-1985*, shall satisfy at least 
+one of the following: 
+
+
+
+GaO+MgO+1/3 AlaOg 
+
+
+
+Si02+2/3 AlaOg 
+GaO + MgO+AlaOg 
+SiOa 
+
+
+
+> 10 
+> 1-0 
+
+
+
+However, in case of slags containing more than 2*5 percent of man- 
+ganese oxide (MnO) , the slag shall also satisfy 
+
+CaO-l-CaS+1/2 MgO + AlaOg 
+
+
+
+SiOa+MnO 
+
+
+
+> 1-5 
+
+
+
+^ 
+
+
+
+3.4 The insoluble residue of dried samples of granulated slag, determined 
+in accordance with IS : 4032-1985* shall not be more than 5 percent. 
+
+3.4.1 The glass content of granulated slag shiall not be less than 85 per- 
+cent as determined by the method of optical microscope given at 
+Appendix A. 
+
+
+
+♦Method of chemical analysis of hydraulic cement { first revision ). 
+
+
+
+IS t 12089 - 1987 
+
+4. SAMPLING 
+
+4.1 Granulated slag shall be supplied in lots of 500 tonnes each. If the 
+quantity of slag delivered is less than 500 tonnes, it shall be considered 
+a lot. 
+
+4.2 Samples shall be drawn from at least five points of the wagon or truck 
+as the case may be. Each sample shall weigh about one kg. 
+
+4.3 The samples belonging to one lot collected as in 4,2, shall be thoroughly 
+mixed and a composite sample of 20 kg shall be collected. 
+
+4.4 The sample of 20 kg, obtained, as under 4.3, shall be divided into two 
+equal parts. One part shall be retained in a tightly sealed container for 
+future reference. 
+
+4.5 From the remaining portion of the slag sample, three samples of about 
+one kg each shall be drawn by methods of reduction and used for the 
+determination of moisture content adopting the procedure given in 
+Appendix B. 
+
+4.6 The remaining sample of slag, after drawing three samples as under 
+4.5, shall be air dried and blended thoroughly with the dry samples 
+obtained from 4.5 and tested for conformity with 3.1. The coarse and fine 
+fractions obtained in this test shall be blended again thoroughly and ground 
+to pass 150 ;xm IS sieve. The material obtained as above shall be treated 
+as the sample for all the tests under 3.2, 3.3 and 3,4. 
+
+Note — In case the moisture content of the slag is not to be determined, 4.5 may 
+be skipped and the entire material remaining after 4,4 shall be air dried and tested 
+for conformity with 3.1. 
+
+5. INSPECTION 
+
+5.1 The manner in which granulated slag shall be supplied should be 
+decided by agreement between the purchaser and the supplier. In case the 
+moisture content is to be determined, the method given in Appendix B 
+shall apply. 
+
+Note — The moisture content in granulated slag shall be as agreed to between 
+the purchaser and the manufacturer. 
+
+5.2 The manufacturer shall guarantee the conformity of the granulated 
+slag with the requirements of the standard and furnish each lot of supplied 
+slag with a certificate bearing the following: 
+
+a) Name and address of the manufacturer, 
+
+b) Certificate number and date of issue, and 
+
+c) Number of wagons containing the said lot. 
+
+
+
+IS 1 12089 - 1987 
+
+
+
+5.2.1 If desired by the purchaser, the test results of the consignment 
+according to this standard shall also be supplied. 
+
+
+
+APPENDIX A 
+
+{ Clause 3A.I) 
+
+METHOD OF TEST FOR GLASS CONTENT OF 
+GRANULATED SLAG 
+
+A-1. APPARATUS 
+
+A-].l Microsrotie — The Tnirroscnne usrd for the r>urr)OSe shall be 
+polarizing microscope used generally for the examination of thin sections, 
+and should have provision for mechanical stage and point counting. The 
+magnifying power of the microscope shall not be less than lOOx. 
+
+A-2, REAGENT 
+
+A-2.1 Bromoform — Bromoform shall be of A.R or G.R grade 
+chemical. 
+
+NoTB — Any other liquid having refractive index between 1*5 to 1*6 may also 
+be used as an alternative to bromoform. 
+
+A-3, PROCEDURE 
+
+A>3.1 From about 5 g of a representative sample of powdered slag, a frac- 
+tion passing through 90 (mih IS Sieve and retained on 52 jum IS Sieve shall 
+be treated as the sample for microscopic investigation as under A-3. 2. 
+
+A-3.2 About one mg of powdered slag is placed on a rectangular glass 
+slide and a cover glass having its size less than the width of the rectangular 
+slide is placed on the material. One or two drops of bromoform or any 
+other suitable liquid ( see A-2.1 ) is added at the rim of the cover glass. It 
+is seen that the liquid enters between the cover glass and glass slide. A 
+gentle relative motion between the slide and cover glass shall be created to 
+disperse the material evenly in the immersion liquid. No attempt shall be 
+made to rub one slide over the other after the bromoform has been added. 
+The powder immersion section is examined with transmitted light under 
+the polarizing microscope at a magnification of about 200. About 1 500 
+grains are counted {jY{) by changing the field of view and traverses using 
+a mechanical stage with the help of cross-wire in the eye piece. Subsequen- 
+tly under crossed nicols, the same field of view already scanned is examined 
+once again in similar fashion and grains which appear anisotropic and 
+opaque arc counted (JVj). 
+
+
+
+IS : 12089 - 1987 
+
+
+
+A-4. CALCULATION 
+
+
+
+A.4.1 Calculate the glass content of granulated slag as follows: 
+
+
+
+J^i 
+
+
+
+Glass content, percent = lUU X 
+
+APPENDIX B 
+
+( Clauses 4.5 and 5.1 ) 
+
+METHOD FOR DETERMINATION OF MOISTURE CONTENT 
+OF GRANULATED SLAG 
+
+B-1. APPARATUS 
+
+B-l.L Drying Chamber — The air oven or other device such as an 
+infra-red moist determinator used for the purpose shall have adequate 
+chamber space to contain at least three samples of about one kg each of 
+granulated slag, when the material is spread in a metallic tray, with the 
+thickness of the material layer not exceeding 3 cm. The drying chamber 
+shall also have provision for temperature control at 110 ± 5°G. The 
+drying chamber shall be an electrically operated unit. 
+
+B-2. PROCEDURE 
+
+B-2.1 The mass of the three samples of moist granulated slag of about one 
+kg are determined, nearest to one g {Wi, W^, ^z)- The samples are 
+spread separately in metallic rays of suitable dimensions such that the 
+thickness of the slag layer does not exceed 3 cm. The trays are kept in the 
+drying chamber maintained at 110 ± 5®G, and retained there till the 
+mass of sample becomes constant nearest one g, as determined by periodic 
+Weighing. The final masses of the dry samples are recorded as W^, W5, W^ 
+respectively. 
+
+B-3. CALCULATION 
+
+B-3.1 Calculate the moisture content of granulated slag as follows: 
+
+Moisture content, percent = ^^ -rlZ — lii — rir-^ ^-^ 
+
+
+
+IS : 12089 - 1987 
+
+( Continued from page 2 ) 
+
+Cement Subcommittee, BDG 2 : 1 
+
+Convener Representing 
+
+-Db H. G. Visvesvaraya National Council for Cement and Building Materi- 
+
+als, New Delhi 
+
+Db a. K. Mulj.ick 
+Db ( Mrs ) S. Laxmi ( Alternates to 
+Dr H. C. Visvesvaraya ) 
+Shbi S. K. Banebjbb National Test House, Calcutta 
+
+Shk.1 Somnath Baneejeb Cement Manufacturers' Association, Bonibay 
+
+Chief Enqineeb ( Reseaeoh-ctjm- Irrigation Department, Government of Punjab, 
+DjKECTOK ) Chandigarh 
+
+Research OmcBB ( CT ) ( Alternate ) 
+Development Ofi-igeb Directorate General of Technical Development, 
+
+New Delhi 
+Dieegtob Maharashtra Engineering Research Institute, 
+
+Nasik 
+Research Officer ( Alternate ) 
+DiRECTCB ( GMDD ) Central Water Commission, New Delhi 
+
+Deputy Dikeotoe ( CMDD ) ( Alternate ) 
+Shbi R. K. Gattani Shree Digvijay Cement Co Ltd. Bombay 
+
+Shri a. K. VaishNavi ( Alternate ) 
+Shbi P. J. Jagus Associated Cement Co Ltd, Bombay 
+
+Db A. K, Chatteejee ( Alternate ) 
+Ti^T-wTm r)TTs g;i~iri-j-»T» ^ii^c'Tii * tt. iiTi R'^search Designs and Standards Organization 
+
+{ B & S ) ( Ministry of Railways ), Lucknow 
+
+Deputy Dirbotob, Reseaech ( B&S )-I 
+( Alternate ) 
+Shbi R. L. Kapoob Ministry of Transport ( Department of Surface 
+
+Transport ) ( Roads Wing ) 
+Shri R. K. Dutta ( Alternate ) 
+Shbi W. N. Kasode Hindustan Construction Co Ltd, Bombay 
+
+Shri K. P. Mohidebn Central Warehousing Corporation, New Delhi 
+
+Shbi Y. R. Phull, Central Road Research Institute (CSIR ), New 
+
+Delhi 
+Shbi M. R. Chattekjee ( Alternate ) 
+Shbi A. V. Ramana Dalm^ia Cement ( Bharat ) Ltd, New Delhi 
+
+Db K, C. Nabanq ( Alternate ) 
+Da A. V. R. Rao National Buildings Organization, New Delhi 
+
+Shbi J. Sen Gupta ( Alternate ) 
+Lx-Cot V. K. Rao Engineer-in-Chief's Branch, Army Headquarters, 
+
+New Delhi 
+Shbi N. S. Galandb ( Alternate ) 
+Shei S. a. Rbddi Gammon India Ltd, Bombay 
+
+De S. S. Rehsi Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Dr Ibshad Masood ( Alternate ) 
+Shbi A. U, Rijhsinghani Cement Corporation of India Ltd, New Delhi 
+
+Shbi R. K. Sinha Development Commissioner for Cement Industry 
+
+( Ministry of Industry ), New Delhi 
+Shbi S. S. Miolani ( Alternate ) 
+
+( Continued on page 9 ) 
+
+8 
+
+
+
+I§ : 12089 - 1987 
+
+( Continued from page 8 ) 
+
+Members Reptesenltng 
+
+Shei L. Swaroop Orissa Cement Ltd, New Delhi 
+
+Shbi H. Bhattaoharya ( Alternate ) 
+SuperintJending ENQiNEffiE (D) Public Works Department, Government of Tamil 
+
+Nadu, Madras 
+Sbinioe Deputy Chiej" Engineer 
+( Gbneeal ) ( Alternate ) 
+Shbi C. D. Thatte Gujarat Engineering Research Institute, 
+
+Vadodara 
+Shet J. K. Patel ( Alternate ) 
+Shei V. M. Wad Bhilai Steel Plant, Bhilai 
+
+
+
+INTERNATIONAL SYSTEM OF UNITS (SI UNITS) 
+
+
+
+Base Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+
+
+Length 
+
+
+metre 
+
+
+m 
+
+
+
+
+Mass 
+
+
+kilogram 
+
+
+kg 
+
+
+
+
+Time 
+
+
+second 
+
+
+s 
+
+
+
+
+Electric current 
+
+
+ampere 
+
+
+A 
+
+
+
+
+Tiiermodynamic 
+
+
+kelvin 
+
+
+K 
+
+
+
+
+temperature 
+
+
+
+
+
+
+
+
+Luminous intensity 
+
+
+candela 
+
+
+cd 
+
+
+
+
+Amount of substance 
+
+
+mole 
+
+
+mol 
+
+
+
+
+Supplementary Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symboi 
+
+
+
+
+Plane angle 
+
+
+radian 
+
+
+rad 
+
+
+
+
+Solid angle 
+
+
+steradian 
+
+
+sr 
+
+
+
+
+Derived Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+Definition 
+
+
+Force 
+
+
+newton 
+
+
+N 
+
+
+1 N = i kg.m/sS 
+
+
+Energy 
+
+
+joule 
+
+
+J 
+
+
+1 J = 1 N.m 
+
+
+Power 
+
+
+watt 
+
+
+W 
+
+
+1 W = 1J/S 
+
+
+Flux 
+
+
+weber 
+
+
+Wb 
+
+
+1 Wb = 1 V.8 
+
+
+Flux density 
+
+
+tesia 
+
+
+T 
+
+
+1 T = 1 Wb/m2 
+
+
+Frequency 
+
+
+liertz 
+
+
+Hz 
+
+
+1 Hz = 1 c/s (s-i) 
+
+
+Electric conductance 
+
+
+Siemens 
+
+
+S 
+
+
+1 S = 1 A/V 
+
+
+Electromotive force 
+
+
+volts 
+
+
+V 
+
+
+1 V = 1 W/A 
+
+
+Pressure, stress 
+
+
+pascal 
+
+
+Pa 
+
+
+1 Pa == 1 N/mS 
+
+
+

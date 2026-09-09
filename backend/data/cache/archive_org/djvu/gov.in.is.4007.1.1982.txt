@@ -1,0 +1,1767 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 4007-1 (1982) : Terminals for Electronic Equipment, Part 
+1: General Requirements and Tests [LITD 3: 
+
+Electromechanical Components and Mechnical Structures for 
+Electronic Equipment] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi f 7ui^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS ; 4007 ( Part I ) - 1962 
+
+( Reaffirmed 2002 ) 
+
+Indian Standanl 
+
+SPECIFICATION FOR 
+TERMINALS FOR FLFCTRONIC EQUIPMENT 
+
+PART I GENERAL ftEQulftEMENTS AND TESTS 
+
+( First Revision ) 
+
+
+
+VnC 621-3 15 G64r : G2 1 '38 038 
+
+
+
+
+© Cofiyn^kt 19C2 
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAK BHAVAN. 9 flAH-VFiUR StIAH ZAFVR MARC 
+
+NLW DELHI IUXH>2 
+
+^^ ^ November 1982 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+TERMINALS FOR ELECTRONIC EQUIPMENT 
+
+PART I GENERAL REQUIREMENTS AND TESTS 
+
+( First Revision ) 
+
+
+
+Electromechanical Components for Electronic Equipment Sectional 
+Committee, LTDC 7 
+
+Chairman Representing 
+
+Shki G. Samson Indian Telephone Industries Ltd, Bangalore 
+
+Members 
+
+Shri S. Ratkakar ( Alternate to 
+Shri G. Samson ) 
+Lt-Col Hemji Aorawal Ministry of Defence ( DGI ), New Delhi 
+
+Shri V. S. Murthy ( Alternate ) 
+Shri Ajit Kumar Basak Office of the Development Commissioner, Small 
+
+Scale Industries, New Delhi 
+Shri P. P. Malhotra ( Alternate ) 
+Shri K. K. Bharqava Electronic Component Industries Association 
+
+( ELGINA ), New Delhi 
+Stjrq Capt a. K. Deb ( IN ) Ministry of Defence (R&D) 
+
+Shri P. K. Shukla ( Alternate ) 
+Shri M. A. GaKapathy Oil and Natural Gas Commission, Dehra Dun 
+
+Shri J. Gupta Peico Electronics & Electricals Ltd, Bombay 
+
+Shri M. M. Joshi ( Alternate ) 
+Shri K. K. Gupta U. P. Electronics Corporation Ltd, Lucknow 
+
+Shri P. C. Aorawal ( Alternate ) 
+Shri Bakul Habishaistker Allied Electronics Corporation, Bombay 
+
+Shri V. Madhavan ( Alternate ) 
+ShriR. K. JaYadev Overseas Communications Service, Bombay 
+
+Shri B. N. Karkeba Bhabha Atomic Research Centre, Bombay 
+
+Shri K. S. Kelkab Tata Engineering & Locomotive Co Ltd, 
+
+Jamshedpur 
+Shbi V, A. KAiiQAONKAR ( Alternate ) 
+Shri P. K. Koshy O.E.N. India Ltd, Cochin 
+
+S HRi T. Thomas ( Alternate ) 
+Shri P. C. Kothandaraman Directorate of Technical Development & Produc- 
+
+tion ( AIR ), Ministry of Defence, New Delhi 
+Shri Bai^dev Singh ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act (XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the s iid Act. 
+
+
+
+IS : 4007 (Part I )<- 1982 
+
+
+
+( Continued from page I ) 
+
+Members 
+ShriD. V, S. Raju 
+
+Shri G. L. Sharma 
+
+Shri R. Tikku ( Alternate ) 
+Shri R. N. Sharma 
+
+Shri Shiv Ram ( Alternate ) 
+Shri R. Somasekhara 
+Shri V, Srijstivasan 
+
+
+
+Representing 
+ELICO Pvt Ltd, Hyderabad 
+M, C. Engineering Co Pvt Ltd, New Delhi 
+
+Posts and Telegraphs Board, New Delhi 
+
+
+
+Bharat Electronics Ltd, Bangalore 
+Indian Electrical Manufacturers* Association, 
+Bombay 
+
+Shri S. N. KuLicARsri ( Alternate ) 
+Shri C. G. Subramanyan Electronics Trade & Technology Development 
+
+Gorporation Ltd, New Delhi 
+
+Shri P. V. R. Nayar ( Alternate ) 
+Shri P. R. Suryanandan Directorate General of Civil Aviation, New Delhi 
+
+Shri N. R. N. Iyengar ( Alternate ) 
+Shri A. D. Teckchandaki Department of Electronics, New Delhi 
+
+Dr a. K. Jain" ( Alternate ) 
+Shri N. K. Trivedi All India Radio, New Delhi 
+
+Shri R. G. Jain, Director General, ISI ( Ex-officio Member ) 
+
+Head ( Electronics ) 
+
+Secretary 
+
+Shri Harcharan Singh 
+Deputy Director ( Electronics ), ISI 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+TERMINALS FOR ELECTRONIC EQUIPMENT 
+
+PART I GENERAL REQUIREMENTS AND TESTS 
+
+{First Revision) 
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( Part I ) ( First Revision ) was adopted by the 
+Indian Standards Institution on 23 June 1^823 after the draft finalized by 
+the Electromechanical Components for Electronic Equipment Sectional 
+Committee had been approved by the Electronics and Telecommunica* 
+tion Division Council, 
+
+0.2 This standard ( Part I ) was originally published in 1967. This 
+revision has been brought out to take account of the latest technology 
+developments and experience gained through the implementation of the 
+standard since its first publication. 
+
+0.3 This standard ( Part I ) covers general requirements and tests 
+common to various types of terminals. The specific requirements applic- 
+able to particular types of terminals are specified in the relevant specifi- 
+cations forming subsequent parts of this standard. 
+
+0.4 While preparing this standard, assistance has been derived from JSS 
+52710-1974 'Specification for terminals, captive screw cap and captive 
+spring loaded' issued by the Directorate of Standardization, Ministry of 
+Defence, India. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off* in accord- 
+ance with IS : 2-1960*. The number of significant places retained in 
+the rounded off value should be the same as that of the specified value in 
+this standard. 
+
+
+
+♦Rules for rounding off numerical values ( revised). 
+
+3 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+
+1. SCOPE 
+
+1.1 This standard ( Part I ) covers general requirements and tests for 
+terminals ( sealed and non-sealed ) for use in electronics and telecom- 
+munication equipment. 
+
+1.2 This standard does not apply to system terminals, such as, transmitter 
+terminals and receiver terminals. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions shall 
+apply. 
+
+2.1 Type Tests — Tests carried out to prove conformity with the 
+specification. These are intended to prove the general qualities and 
+design of a given type of terminal, 
+
+2.2 Acceptance Tests — Tests carried out on items of a lot for the 
+
+purpose of acceptance of the lot. 
+
+2.3 Routine Tests — Tests carried out on each terminal to check 
+requirements which are likely to vary during production. 
+
+3. TYPE DESIGNATION 
+
+3.1 The following code shall be used to designate the terminal type: 
+T XX — XX — XX 
+
+Block 1 :TXX 
+
+T ^ terminal 
+XX - SC or SL 
+( SC — screw cap ) 
+( SL = spring loaded ) 
+Block 2 : XX 
+
+XX — NS ~ non-insulated, sealed; or 
+IS ™ insulated, sealed, or 
+NN — non-insulated, non-sealed, or 
+IN = insulated, non-sealed. 
+Block 3 : XX -- varies from 01 to 99 for different styles. 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+4. CLIMATIC CATEGORIES 
+
+4.1 The terminals shall be divided into the following categories. 
+
+
+
+Climatic Test 
+
+
+r- 
+
+
+
+
+
+
+Category 
+
+-A, 
+
+II 
+
+
+
+
+
+
+I 
+
+
+
+
+III 
+
+
+
+
+^ I A 
+
+
+A 
+
+
+I B 
+
+
+
+
+
+
+Dry heat 
+
+
+-h 100°G 
+
+
+
+
++85"C 
+
+
++85<'G 
+
+
++70°G 
+
+
+Cold 
+
+
+- 55°C 
+
+
+
+
+~55°C 
+
+
+-40°G 
+
+
+-10°G 
+
+
+Damp heat 
+( steady state ) 
+
+
+56 days 
+
+
+
+
+56 days 
+
+
+21 days 
+
+
+4 days 
+
+
+Damp heat 
+( cyclic ) 
+
+
+6 cycles 
+
+
+
+
+6 cycles 
+
+
+6 cycles 
+
+
+2 cycles 
+
+
+
+Low air pressure 4'4 kPa 4*4 kPa 30 kPa 60 kPa 
+
+Note — For special requirements, different severity combinations may be chosen 
+out of IS : 9000*, as agreed between the manufacturer and the purchaser, , 
+
+5. MATERIALS AND WORKMANSHIP 
+5*1 Materials 
+
+5*1.1 General — The terminals shall be constructed from suitable 
+materials which shall be free from flaws and other defects and shall, as 
+far as practicable, confo. m to the relevant Indian Standards, wherever 
+available. Only non-corrosive fluxes shall be used for soldering the tags 
+of the terminals, 
+
+5.2 Workmanship — All parts of the terminals shall be manufactured 
+in a thoroughly workmanlike manner in accordance with good engineer- 
+ing practices. 
+
+5.2.1 Screws and threads used, if any, should conform to IS : 4218 
+(PartII)-1976t. 
+
+6. ELECTRICAL RATING 
+
+6.1 The rated voltage and rated current for each type of terminal shall 
+be specified. 
+
+*Basic environmental testing procedures for electronic and electrical items. 
+flSO metric screw threads: Part II Diameter pitch combinations (Jirst revision ). 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+
+7. MARKING 
+
+7.1 The following information shall be indelibly marked on the package 
+of terminals and on the terminals to the extent possible in the order given 
+below: 
+
+a) Manufacturer's name or trade-mark; 
+
+b) Manufacturer's type number; 
+
+c) Rated voltage; 
+
+d) Rated current; 
+
+e) Category; 
+
+f) Type designation; 
+
+g) Any other marking, if required by the purchaser; and 
+h) Country of manufacture. 
+
+7.1.1 The terminal or its package may also be marked with the ISI 
+Certification Mark. 
+
+Note — The use of the ISI Certification Mark is governed by the provisions of 
+the Indian Standards Institution ( Certification Marks ) Act, and the Rules and Rpgu- 
+lations made thereunder. The ISI Mark on products covered by an Indian Standard 
+conveys the assurance that they have been produced to comply with the require- 
+ments of that standard under a well-d( fined system of inspection, testing and quality 
+control which is devised and supervised by ISI and operated by the producer. ISI 
+marked products are also continuously checked by ISI for conformity to that 
+standard as a further safeguard. Details of conditions under which a licence for the 
+use of the ISI Certification Mark may be granted to manufacturers or processors, 
+may be obtained from the Indian Standards Institution. 
+
+8. TESTS 
+
+8.0 General Test Conditions 
+
+8.0.1 Atmospheric Conditions for Testing — Unless otherwise specified, all 
+tests shall be performed under standard atmospheric conditions as defined 
+in IS : 9000 ( Part I )-I977*. 
+
+8,0.2 Preconditioning — Wherever necessary, a preconditioning pro- 
+cedure shall be specified to be followed before forming the actual tests, 
+
+8.0.3 Accuracy of Test Equipment — The accuracy of the test equipment 
+shall be specified in the relevant test clause. 
+
+8.1 Typ2 Test — The procedure for type tests shall be in accordance 
+with IS : 2612-1965t, The schedule of type tests is given in Table L 
+
+*Basic environmental testing procedures for electronic and electrical items: Parti 
+General, 
+
+fRecommendations for type approval and sampling procedures for electronic 
+components. 
+
+
+
+IS ! 4007 ( Part I ) - 19S2 
+
+
+
+
+
+TABLE i 
+
+
+SCHEDULE OF TYPE TESTS 
+
+{ Clause SA ) 
+
+
+
+
+Gboup 
+
+
+Number or 
+
+Specimens 
+
+
+Test 
+
+
+CI.AUSE ReF 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+
+
+
+20 
+
+
+Visual examination 
+
+
+8.4.1 
+
+
+
+
+
+
+Dimensions ( outline ) 
+Dimensions ( detail ) and materials 
+Sealing 
+Voltage proof 
+Insulation resistance 
+
+
+8.4.2 
+
+8.4.3 
+
+8.5 
+
+8.6 
+
+8J 
+
+
+
+
+
+
+Contact resistance 
+
+
+8.8 
+
+
+
+
+
+
+Torque 
+
+
+8.9 
+
+
+1 
+
+
+6 
+
+
+Solderability 
+
+Vibration 
+
+
+8.10 
+8.11 
+
+
+
+
+
+
+Impact ( shock ) 
+Change of temperature 
+
+Climatic sequence 
+
+
+8.12 
+8.13 
+8.14 
+
+
+2 
+
+
+6 
+
+
+Damp heat ( steady state ) 
+
+
+8.15 
+
+
+3 
+
+
+4 
+
+
+Conductor retention 
+
+
+8.16 
+
+
+
+
+
+
+Life ( mechanical ) 
+Cap spring pressure 
+Cap retention 
+
+
+8.17 
+8.18 
+
+8.19 
+
+
+4 
+
+
+2 
+
+
+Corrosive atomosphere ( salt mist ) 
+
+
+8.20 
+
+
+Spares 
+
+
+2 
+
+
+
+
+
+
+
+8.1.1 Samples for Type Tests — The type tests shall be applied to 20 
+samples of a given type, 
+
+8.2 Acceptance Tests — The acceptance tests shall be carried out on 
+samples which have already passed the routine tests. The schedule of 
+acceptance tests on two groups of samples. Group A and Group B is given 
+in Table 2. 
+
+8.3 Routine Tests — Every terminal shall be subjected to the following 
+test: 
+
+Visual examination ( 8,4.1 ). 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+
+
+
+TABLE 2 SCHEDULE OF ACCEPTANCE TESTS 
+
+( Clause 8.2 ) 
+
+
+
+Group A 
+
+
+
+
+Test 
+
+
+AQ,L 
+
+( Percent Defective ) 
+
+
+(1) 
+
+
+(2) 
+
+
+Dimensions ( outline ) ") 
+
+
+
+
+^senimg | 
+Voltage proof Y 
+Insulation resistance 
+
+
+i 
+
+
+Contact resistance 
+
+
+
+
+Group B 
+
+
+
+
+Test AQ,L Inspectio^t 
+( Pekceistt Defective; ) Level* 
+
+
+
+Inspectioh 
+
+Level* 
+
+(3) 
+
+
+
+(1) 
+Subgroup I 
+
+Solderability \ 
+
+Climatic sequence f 
+
+Subgroup 2 
+
+Life ( mechanical ) ^ 
+Cap spring presiure )■ 
+Cap retention J 
+
+
+
+(2) 
+
+
+
+(3) 
+
+
+
+S3 
+
+
+
+S3 
+
+
+
+D/Nt 
+
+(4) 
+
+
+
+N 
+
+
+
+*5'^^ Indian Standard 'Sampling plans and procedures* for inspection by attributes 
+for electronic items ( under print ). 
+fDestructive/Non-destructive. 
+
+8«4 General £%ainiiiation 
+
+B.4.1 Visual Examination — The specimen shall be visually examined. 
+For acceptance tests reference shall be made to type approval certificate 
+lor compliance. 
+
+The condition, workmanship and finish shall be satisfactory ( see 5,2 
+also ). 
+
+The marking shall be legible. 
+
+n A (\ T\: ^: / r\..^i:.^- \ nni^_ J! ! - „i.-.n u« ^'U^^^,^A c^^ 
+
+compliance with the outline drawings given in the relevant specification, 
+
+8.4.3 Dimensions ( Detail ) and Materials — One specimen shall be 
+dismantled and all parts shall be checked for complete compliance with 
+dimensions ( detail ). This specimen shall not be used for further tests. 
+
+
+
+8 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+
+8«4.3.i For type tests — The dimensions and materials used shaii be 
+in accordance with the relevant specifications, unless otherwise specified 
+and shall be recorded on type approval certificate. 
+
+8*4.3,2 For acceptance tests — The dimensions shall conform to the 
+details recorded in the type approval certificate. 
+
+8.5 Sealing ( for Sealed Terminals Only ) — The test shall be done 
+in accordance with Sec 1 of IS : 9000 ( Part XV )-l982*. 
+
+The rate of leakage of air shall not exceed 1 cc/h for either direction 
+of applied pressure. 
+
+8.6 Voltage Proof ( for Insulated Terminals Only ) — The specimen 
+shall be mounred on a suitable metal plate in the normal manner. 
+
+An ac test voltage of a frequency 50 Hz shall be applied between the 
+terminal and mounting plate for I min for type approval test and for 5 s 
+for acceptance test. The relationship between the rated valtage, Ur 
+( rms ) and the test voltage, E ( rms ) is given below: 
+
+For terminals with rated voltage above 34 V ( peak ): 
+
+£ -= 2 t/R -f I 500 V with a minimum of 2 kV 
+For terminals with rated voltage below 34 V ( peak ): 
+
+E - 500 V 
+
+The voltage shall be steadily increased from zero to the proof value at 
+a rate of approximately 500 V per second. Upon completion of the test, 
+the proof voltage shall be gradually reduced to avoid voltage surges. 
+
+There shall be no breakdown or flashover. 
+
+Note — ■ When required, a suitable current limiting device shall be used to limit 
+current surges- 
+
+5.7 Insulation Resistance ( for Insulated Terminals Only ) — 
+
+The specimen shall be mounted on a suitable metal plate in the normal 
+manner. The inailation resistance shall be measured at 100 ± 15 V or 
+500 ih 50 V as specified in the relevant specification. 
+
+The voltage shall be applied for 1 minute db 5 seconds ( or less if a 
+stable reading has been obtained ) between the terminal and the mount- 
+ing piate. The insulation resistance shall be read at the end of that 
+period. 
+
+
+
+*Rasic environmental testing procedures for electronic and electrical items: Part XV 
+Sealing test. 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+
+The insulation resistance shall be not less than 1 000 megohms. 
+
+Note — When insulation resistance measurements are made before and after a test, 
+both measurements shall be made under the same conditions, including use of same 
+polarity as the initial measurement. The measurement error at the insulation resist- 
+ance value required shall not exceed 10 percent. 
+
+8.8 Contact Resistance — The specimen shall be mounted on a 
+suitable rueial plate in the normal manner, A solid copper conductor of 
+1*5 mm diameter ?hall be tightly connected to the terminal. The contact 
+resistance shall then be measured between the terminal and the closest 
+exposed portion of the conductor with a dc voltage source, the open 
+circuit voltage of which does not exceed 2'5 V and a current of 1 A. A 
+40/0*2 mm concuctor insulated whh PVC 0-6 mm thick shall be used for 
+spike type of terminal. 
+
+The contact resistance value shall not exceed 5 milliohms. 
+
+8.9 Torque — The specimens shall be mounted on a suitable metal plate 
+in the normal manner. A torque of 1'35 Nm shall be applied in the 
+following manner. 
+
+8.9.1 Screw-Cap Terminal 
+
+a) ( Applicable to moulded insutated heads with threaded metal iviserts only ) — 
+With the cap screwed down, the torque shall be applied to the 
+cap in a clockwise direction; and 
+
+b) With the cap at the upper limit of travel, the torque shall be 
+applied to the cap in a counter clockwise direction. 
+
+8.9.2 Spring Loaded Terminal — The torque shall be applied to the cap 
+in a clockwise direction. 
+
+8.9.3 Requirements 
+
+8.9.3.1 For insulated portions — - There shall be no cracking, crazing, 
+chipping or deforming. 
+
+8.9.3.2 For metal portion — There shall be no bending, twisting, 
+Vv'arping or cross=threading. 
+
+8.10 Solderability — This test shall be done in accordance with 
+Method 2 of Sec 1 of IS : SOOO ( Part XVIII )-1981*. 
+
+Tinning shall occur within 2 seconds and the solder shall adhere 
+firmly to the termination. 
+
+
+
+♦Basic environmental testing procedures for electronic and electrical items: 
+Part XVIII Solderability test. 
+
+10 
+
+
+
+IS : 4007 { Part I ) - 1982 
+
+8.11 Vibration — This test shall be done in accordance with IS : 9000 
+( Part VIII )-1981* ( endurance by sweeping method ) at the severity 
+specified in the relevant specification. 
+
+8.11.1 Preliminary — The specimen shall be mounted on a suitable 
+metal plate in the normal manner. A 60 cm length of conductor of 
+1*5 mm dia shall then be connected to the terminal. 
+
+8*11.2 Final Measurements — On completion of the test the specimen 
+shall be visually examined. 
+
+The terminal shall retain the conductor and there shall be no damage 
+to the terminal. 
+
+8.11.3 The contact resistance test shall be repeated after the vibration 
+test and it shall not exceed 5 milliohms ( see 8.8 ). 
+
+8.12 Impact ( Shock ) — The test shall be carried out in accordance 
+with Sec 1 of IS : 9000 ( Part VII )-1979t at the severity specified in the 
+relevant specification. 
+
+8.12.1 Preliminary — As in 8.11.1. 
+
+8*12.2 Final Measurements — On completion of the test the following 
+measurements shall be made: 
+
+a) Visual examinatiGu — The specimen shall be visually exam'ned. 
+The terminal shall retain the conductor and there shall be no 
+damage to the terminal. 
+
+b) Contact resistance — As in 8.8. 
+
+8.13 Change of Temperature — This test shall be done in accordance 
+with IS : 9000 ( Part XiV )-i978j at the maximum and minimum 
+temperature severity specified in the relevant specification. 
+
+8.13.1 Preliminary — The specim.en shall be m,ounted on a suitable 
+metal plate in the normal manner. 
+
+8.13.2 Final Measurement — On completion of the test, the specimen 
+shall be visually examined. 
+
+There shall be no cracking, chipping, crazing, warping or stretching 
+of insulated portions. 
+
+
+
+♦Basic eavironmeatal testing procedures for electronic and electrical items: 
+Part VIII Vibration test. 
+
+fBasic environmental testing procedures for electronic and electrical items: 
+Part VII Impact test. 
+
++ Basic environmental testing procedures for electronic and electrical items: 
+Part XIV Change of temperature. 
+
+11 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+8.14 Climatic Sequence 
+
+8.14J Preliminary — The specimen shall be mounted on a suitable 
+metal plate in the normal manner. 
+
+8.14.2 Dry Heat — This test shall be done in accordance with Sec 3 of 
+IS : £000 ( Part III )-1977* at the maximum temperature of temperature 
+severity in the relevant specification. 
+
+8.14.3 Damp Heat ( Cyclic ), First Cycle — This test shall be done in 
+accordance with Sec 2 of IS : £000 ( Part V )-1981t. 
+
+8.14.4 Cold — This test shall be done in accordance with Sec 3 of 
+IS : 9000 ( Part II )-1977J at the minimum temperature of the tempera- 
+ture severity specified in the relevant specification. 
+
+8.14.5 Low Air Pressure — This test shall be done in accordance with 
+IS : 9000 ( Part XIII )-1981§ for five minutes, at the severity specified in 
+the relevant specification. 
+
+8*14.5.1 Working voltage {for insulated terminals only ) — During the 
+last minute the rated voltage shall be applied between the terminal and 
+the mounting plate. 
+
+There shall be no flashover or breakdown. 
+
+8.14.6 Damp Heat ( Cyclic ), Remaining Cycles — According to Sec 2 of 
+IS : 9000 ( Part V )- 19811. 
+
+a) Working voltage {for insulated terminals only ) — Within 15 minutes 
+after removal from the chamber the peak working voltage shall 
+be applied for one minute between the terminal and the mounting 
+plate. 
+
+There shall be no breakdown or flashover, 
+
+b) Insulated resistance — As in 8.7, the specimen shall be tested between 
+1^ and 2 hours after removal from chamber. 
+
+The value shall be not less than 10 megohms. 
+
+
+
+♦Basic environmental testing procedures for electronic and electrical items: Part III 
+Dry heat test. 
+
+fBasic environmental testing procedures for electronic and electrical items: Part V 
+Damp heat { cyclic ) test. 
+
+jBasic environmetal testing procedures for electronic and electrical items: Part II 
+Cold test. 
+
+§Basic environmental testing procedures for electronic and electrical items:^ 
+Part XIII Low air pressure test. 
+
+12 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+
+8.14.6.1 Final m^.asurem^nts — The fbilowmg measurements shall be 
+made at the conclusion of the appropriate 8.14.6 sequence: 
+
+a) Visual examination — The specimen shall be visually examined. 
+There shall be no corrosion or other mechanical deterioration. 
+
+b) Contact resistance — As in 8.8. 
+
+c) Sealing — As in 8.5. 
+
+d) Torque — As in 8.9. 
+
+8.15 Damp Heat { Steady State ) — Th^ test shall be done in accord- 
+ance with IS : 9000 (Part IV )-1979* at ths severity specified in the 
+relevant specification. 
+
+8*15»1 Preliminary — • The specimen shall be mounted on a suitable 
+metal plate in the normal manner. 
+
+8.15.2 Final M^^asurements — « The following measurements shall be made 
+after the completion of the appropriate recovery period. 
+
+a) Visual examination — The specimen shall be visually examined. 
+There shall be no corrosion or other mechanical deterioration. 
+
+b) Insulation resistance — As in 8#7. 
+
+The value shall be not less than 100 megohms. 
+
+c) Contact resistance — As in 8.8. 
+
+d) Sealing — As in 8.5. 
+
+e) Voltage proof — As in 8*6, 
+
+f) Torque — As in 8.9. 
+
+8.16 Conductor Retention ( for Spring Loaded Tens&inals 
+
+Only ) — The specimsn shall be mounted on a suitable mounting plate 
+in the normal manner. 
+
+A solid conductor of 1'5 mm diameter shall be inserted in the con'iact 
+cavity. A 22 N" pull shall thsn be applied to the conductor in a iirection 
+along the conductor and perpendicular to the gripping action. The 
+terminal shall retain the conductor. 
+
+8.17 Life (Michinical) — Th^ specimen shall be mounted oa a 
+suitable mounting plate in the normal manner. 
+
+
+
+*Basic cavlronTTiental tostia^ procedares fjr electronic and electrical items: Part IV" 
+Damp heat ( steady state ) test. 
+
+13 
+
+
+
+IS : 4007 ( Part I ) - 1982 
+
+8.17.1 Screw-Cap Terminal — The specimen shall be subjected 1 000 
+times to a torque of 340 mN m in the following manner: 
+
+a) With the cap at the upper limit of travel, the torque shall be 
+applied to the cap in a counter-clockwise direction; and 
+
+b) With the cap screwed (fown, the torque shall be applied to the 
+cap in a clockwise direction. 
+
+8.17.2 Spring Loaded Terminal — The cap shall be depressed fully and 
+released 1 000 times. 
+
+8.17.3 Final Measurements — On completion, the following measure- 
+ment shall be made: 
+
+a) Visual examination — The specimen shall be visually examined. 
+There shall be no loosening of inserts, stripping and disturbing of 
+threads or chipping and cracking of insulated portions; and 
+
+b) Contact resistance — As in 8.8. 
+
+8.18 Cap Spring Pressure ( for Spring Loaded Terminals 
+Only ) — The specimen shall be mounted on a suitable metal plate in 
+tht normal manner. 
+
+The cap shall be depressed to its maximum position by applying an 
+axial compressive force in the centre of the cap top. The pressure shall 
+then be gradually released at the rate of 18 N per minuie. When the cap 
+has returned approximately 0*4 mm from its fully depressed condition, 
+the lemaining spring pressure shall be recorded. 1 he cap spring pressure 
+shall be not more than 22 N and not less than 14 N. 
+
+8.19 Cap Retention (for Spring Loaded Terminals Only ) — The 
+
+specimen shall be held in a fixed position by gripping the upper half of 
+the cap. A suitable gripping device shall be used. 
+
+An axial pull of 45 N shall then be applied to the terminal end using a 
+suitable device. 
+
+8.19*1 Final Measurements ^ On completion, the following test shall be 
+made: 
+
+a) Visual examination — The specimen shall be visually examined. 
+There shall be no loosening of parts or other mechanical deterio- 
+ration; 
+
+b) Conductor retention — As in 8.16, and 
+
+c) Cap spring pressure — As in . .18. 
+
+14 
+
+
+
+IS:4007(PartI)-1982 
+
+8.20 Corrosive Atmosphere ( Salt Mist ) — The test shall be done 
+in accordance with IS : 9000 ( Part XI )*. 
+
+8.20.1 Final Measurements — After recovery the following tests shall be 
+made; 
+
+a) Visual examination — The specimen shall be visually examined. 
+There shall be no corrosion or other mechanical deterioration; 
+and 
+
+b) Contact resistance — As in 8.8. 
+
+The contact resistance shall be not more than 10 millions. 
+
+
+
+*B:^sic environmental testing procedures for electronic and electrical items: Part XI 
+Salt mist test ( under preparation ). 
+
+15 
+
+
+
+INTERNATIONAL SYSTEM OF UNITS ( SI UNITS ) 
+
+
+
+Base Units 
+
+
+
+
+
+
+
+
+Qj[JANTITY 
+
+
+Unit 
+
+
+Symbol 
+
+
+^ 
+
+
+Length 
+
+
+metre 
+
+
+m 
+
+
+
+
+Mass 
+
+
+kilogram 
+
+
+kg 
+
+
+
+
+Time 
+
+
+second 
+
+
+s 
+
+
+
+
+Electric current 
+
+
+ampere 
+
+
+A 
+
+
+
+
+Thermodynamic 
+
+
+kelvin 
+
+
+K 
+
+
+
+
+temperature 
+
+
+
+
+
+
+
+
+Luminous intensity 
+
+
+candela 
+
+
+cd 
+
+
+
+
+Amount of substance 
+
+
+mole 
+
+
+mol 
+
+
+
+
+Supplementary Units 
+
+
+
+
+
+
+
+
+CiUANTITY 
+
+
+Unit 
+
+
+Symbol 
+
+
+
+
+Plane angle 
+
+
+radian 
+
+
+rad 
+
+
+
+
+Solid angle 
+
+
+steradian 
+
+
+sr 
+
+
+
+
+Derived Units 
+
+
+
+
+
+
+
+
+QjuANTITT 
+
+
+Unit 
+
+
+Symbol 
+
+
+T>EFiSlT10a 
+
+
+Force 
+
+
+newton 
+
+
+N 
+
+
+1 N = 1 kg.m/s» 
+
+
+Energy 
+
+
+joule 
+
+
+J 
+
+
+1 J = 1 N.m 
+
+
+Power 
+
+
+watt 
+
+
+W 
+
+
+1 W == IJ/s 
+
+
+Flux 
+
+
+weber 
+
+
+Wb 
+
+
+1 Wb = 1 V.s 
+
+
+Flux density 
+
+
+tesla 
+
+
+T 
+
+
+1 T = 1 Wb/m 
+
+
+Frequency 
+
+
+hertz 
+
+
+Hz 
+
+
+1 Hz = 1 c/s (s-»; 
+
+
+Electric conductance 
+
+
+Siemens 
+
+
+S 
+
+
+1 S = 1 A/V 
+
+
+Electromotive force 
+
+
+volt 
+
+
+V 
+
+
+i V -= i W/A 
+
+
+Pressure, stress 
+
+
+pascal 
+
+
+Pa 
+
+
+1 Pa =- 1 N/m* 
+
+
+
+PUBLICATIONS OF INDIAN STANDARDS INSTITUTION 
+
+INDIAN STANDARDS 
+
+Over lOOOa Indian Standards coverfng various subjects have be&n 
+fssLscd so far Of these, ;h» standards belonging to che ElpcUonics and 
+Tolecommunication grojp fall linder the following categonesj 
+
+
+
+Acoustics and acoustits 
+
+measurement 
+Caparifdrs and reiiistars 
+Elect romnQRBliy interference 
+and suppression 
+Electromecfianical components 
+Electron tubes 
+
+Electronic measLfring equip- 
+iTient Environmenial testing 
+pronedured 
+Magnetic cornporents and 
+ferrits materials 
+
+
+
+Microwave cornponenis and 
+
+accessories 
+Pievoel&ctric devices 
+Pritjted circuits 
+Recrording 
+Reliability 
+
+Radio communication 
+Semico nduc lor devices and 
+
+integrated circuits 
+Transformers and Inductors 
+Wire E^nd Cables 
+
+
+
+OTHER PUBLICATIONS 
+
+
+
+IS I Itullecin f PHtilishcd Fvptv Mthnih ) 
+
+SinpletJopy 
+
+Annual Siibscriplinr 
+Stand ;i.T*l!i : Mitnilily AilJttJi.na 
+
+Sinfile Ctifiv 
+
+AtuiuJi) SulmriiiLinn 
+Y\linual Rcpurif, ( frnm ]W4J}.4*J Onward* ) 
+
+
+
+
+
+
+4.en_ 
+
+
+
+Re (I-3D 
+
+
+
+INDIAN 5TANDARl>S INSTirUTlON 
+
+Manafe BhiViin, L* IJ.-.adur Sliiah Z^aUh Xiarg, NEW DtXHI 3 tOW12 
+Tel«phonn. t 26 «0 21, r? 01 31 
+
+Wpi^Grii : \ovf Ity Chiirrtbfra, Gram Road 
+T\jst<:rn : 5 ChQwringhee Approni:h 
+Suuthern : CI-T. Cjimpii^ Adyar 
+NDririern:B*i9, PhiueVIJ 
+
+Branch O^m ; 
+
+*l*ii^lkpalt' Niirmnhftmned Shaikh Mars, K^iinpiir 
+
+■F' ISUick. Untiy ISlJgt N^fAilmliLriajiv tStjuin'c 
+
+fjftflgfjtri Llnmplc;*, Uba<ll>liad3 rioad^ "I". I '. ^faE'''f 
+
+2^F Kalpan^ii Area 
+
+5Hff'5(lC L.N. GuptJik MjirB 
+
+H. 14 Yi!(lhi'it4?r M^rp, C Scheme 
+
+1 1 7; 41 8 B fisivu^lava Najjar 
+
+Pflttiputra InduitriaiEitate 
+
+li3Di63c litdg ( infi F]ij()r 1, Riy StAriou RoaJ 
+
+
+
+T«le^i-aiua ; MB.nBli 
+
+
+:eb B.Mtll'a 
+
+
+i 
+
+
+clcpJion*.' 
+
+
+BOMBAY 400007 
+
+
+37 37 29 
+
+
+CAJ.CUn A 70D072 
+
+
+21 3l>9() 
+
+
+M^iiKAS timm-iii 
+
+
+4] ?4 42 
+
+
+K.A.S. NAtiAR 
+
+
+
+
+{ Mt jHaj.i J ujonai 
+
+
+
+
+AH ^f ADA BAD 33r:001 
+
+
+sria 91 
+
+
+BANGALtJRE. SG{M]02 
+
+
+2 7<3 43 
+
+
+HIIOP/^I. +'il'fiiiS 
+
+
+ft 27 ](i 
+
+
+B U L B ANE SI- [WAR 731014 
+
+
+5 3&Z7 
+
+
+HYDERABAD 54)Ol>CH 
+
+
+2:j 10 aa 
+
+
+jAlrUK iiyMi5 
+
+
+sgfl az 
+
+
+KANPLIk.:ii.lflO()5 
+
+
+4 72a2 
+
+
+PAlNA:Sy0033 
+
+
+ti^tioa 
+
+
+TRlVANUrUIMf 95001 
+
+
+32 27 
+
+
+
+Priacud 4iL I'lmiL-grapJj, Ntw JJclhi, India 
+
+
+

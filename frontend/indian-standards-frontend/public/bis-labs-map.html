@@ -1,0 +1,1382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BIS Recognized Laboratories — India Interactive Map</title>
+  <meta name="description" content="Official State-wise Directory and Interactive Map of all 431 Bureau of Indian Standards (BIS) recognized testing laboratories across India.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #000000;
+      --surface: #141414;
+      --surface-card: #1f1f1f;
+      --surface-hover: #333333;
+      --border: #333333;
+      --border-hi: #276EF1;
+      --text: #ffffff;
+      --text-muted: #a6a6a6;
+      --accent: #276EF1;
+      --accent-glow: #276EF1;
+      --state-fill: #141414;
+      --state-stroke: #333333;
+      --state-hover: #262626;
+      --state-active: #1e3557;
+      --badge-bg: #276EF1;
+      --badge-text: #ffffff;
+      --emerald: #048848;
+      --gold: #FFC043;
+      --grid: rgba(255, 255, 255, 0.04);
+    }
+    body[data-theme="light"] {
+      --bg: #f6f6f6;
+      --surface: #ffffff;
+      --surface-card: #ffffff;
+      --surface-hover: #eeeeee;
+      --border: #e2e2e2;
+      --border-hi: #000000;
+      --text: #000000;
+      --text-muted: #545454;
+      --accent: #276EF1;
+      --accent-glow: #276EF1;
+      --state-fill: #eeeeee;
+      --state-stroke: #cbcbcb;
+      --state-hover: #e2e2e2;
+      --state-active: #edf3fe;
+      --badge-bg: #000000;
+      --badge-text: #ffffff;
+      --emerald: #048848;
+      --gold: #b27b00;
+      --grid: rgba(0, 0, 0, 0.04);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { width: 100%; height: 100%; overflow: hidden; }
+    body {
+      font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      display: flex;
+      flex-direction: column;
+      user-select: none;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    /* Header */
+    header {
+      background: var(--surface);
+      border-bottom: 2px solid var(--border);
+      padding: 0 16px;
+      height: 58px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+      z-index: 60;
+      gap: 12px;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      cursor: pointer;
+    }
+    .brand-icon {
+      width: 36px; height: 36px;
+      background: #000000;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+    }
+    body[data-theme="light"] .brand-icon {
+      background: #000000;
+    }
+    .brand-icon svg { width: 20px; height: 20px; fill: #ffffff; }
+    .brand-text h1 {
+      font-size: 14px;
+      font-weight: 800;
+      letter-spacing: -0.2px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .badge-lims {
+      font-size: 10px;
+      font-weight: 700;
+      background: var(--surface-card);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 6px;
+    }
+    .brand-text p {
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-top: 1px;
+      font-weight: 500;
+    }
+
+    /* Controls row in header */
+    .controls-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex: 1;
+      max-width: 760px;
+    }
+    .search-box {
+      position: relative;
+      flex: 1;
+      min-width: 180px;
+    }
+    .search-box svg {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 15px;
+      height: 15px;
+      fill: var(--text-muted);
+      pointer-events: none;
+    }
+    .search-box input {
+      width: 100%;
+      background: var(--surface-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 13px;
+      padding: 7px 28px 7px 32px;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      font-weight: 500;
+    }
+    .search-box input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 2px rgba(39, 110, 241, 0.25);
+    }
+    .search-clear {
+      position: absolute;
+      right: 8px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 14px;
+      cursor: pointer;
+      display: none;
+    }
+    .search-clear.show { display: block; }
+
+    .state-select-wrap {
+      position: relative;
+      flex-shrink: 0;
+    }
+    .state-select {
+      background: var(--surface-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 12.5px;
+      padding: 7px 26px 7px 12px;
+      cursor: pointer;
+      outline: none;
+      appearance: none;
+      max-width: 220px;
+      font-weight: 600;
+    }
+    .state-select-wrap::after {
+      content: '▾';
+      position: absolute;
+      right: 9px;
+      top: 50%;
+      transform: translateY(-50%);
+      pointer-events: none;
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .btn {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 7px 13px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--surface-card);
+      color: var(--text);
+      font-size: 12.5px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .btn:hover {
+      background: var(--surface-hover);
+      border-color: var(--accent);
+    }
+    .btn-primary {
+      background: var(--text);
+      color: var(--bg);
+      border-color: var(--text);
+    }
+    .btn-primary:hover {
+      background: var(--accent);
+      color: #ffffff;
+      border-color: var(--accent);
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+    .stat-pill {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11.5px;
+      font-weight: 700;
+      color: var(--text);
+      background: var(--surface-card);
+      border: 1px solid var(--border);
+      padding: 5px 10px;
+      border-radius: 6px;
+      white-space: nowrap;
+    }
+
+    /* Official Portal Link */
+    .official-portal-link {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      text-decoration: none;
+      padding: 5px 10px;
+      border-radius: 6px;
+      background: rgba(4, 136, 72, 0.12);
+      border: 1px solid rgba(4, 136, 72, 0.35);
+      transition: all 0.2s ease;
+      white-space: nowrap;
+    }
+    .official-portal-link:hover {
+      background: rgba(4, 136, 72, 0.25);
+      border-color: var(--emerald);
+    }
+    .portal-domain {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12.5px;
+      font-weight: 700;
+      color: var(--emerald);
+      letter-spacing: -0.2px;
+    }
+    .portal-arrow {
+      color: var(--emerald);
+      font-size: 13px;
+      font-weight: 700;
+      line-height: 1;
+    }
+    .portal-label {
+      font-family: 'Inter', sans-serif;
+      font-size: 9.5px;
+      font-weight: 700;
+      letter-spacing: 0.6px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      margin-left: 2px;
+    }
+
+    /* Main Map Area */
+    #main-wrap {
+      flex: 1;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+    }
+    #map-wrap {
+      flex: 1;
+      position: relative;
+      background: var(--bg);
+      cursor: grab;
+      overflow: hidden;
+    }
+    #map-wrap.dragging { cursor: grabbing; }
+
+    #map-svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    /* State Paths */
+    .state-path {
+      fill: var(--state-fill);
+      stroke: var(--state-stroke);
+      stroke-width: 0.8;
+      cursor: pointer;
+      transition: fill 0.2s, stroke 0.2s, stroke-width 0.2s;
+    }
+    .state-path:hover {
+      fill: var(--state-hover);
+      stroke: var(--accent);
+      stroke-width: 1.8;
+    }
+    .state-path.selected {
+      fill: var(--state-active);
+      stroke: var(--accent);
+      stroke-width: 2.2;
+    }
+
+    /* State Marker Logo */
+    .state-marker {
+      cursor: pointer;
+      transition: transform 0.2s ease, opacity 0.2s ease;
+    }
+    .state-marker:hover .sm-circle {
+      fill: var(--accent);
+      filter: drop-shadow(0 0 8px rgba(39, 110, 241, 0.6));
+    }
+    .state-marker:hover .sm-badge-rect {
+      fill: var(--gold);
+    }
+    .state-marker.selected .sm-circle {
+      stroke: var(--accent);
+      stroke-width: 3;
+      filter: drop-shadow(0 0 12px rgba(39, 110, 241, 0.8));
+    }
+    .state-marker.dimmed {
+      opacity: 0.15;
+      pointer-events: none;
+    }
+
+    /* Pulse animation for selected state */
+    @keyframes markerPulse {
+      0% { r: 16px; opacity: 0.8; }
+      100% { r: 32px; opacity: 0; }
+    }
+    .sm-pulse {
+      fill: none;
+      stroke: var(--accent);
+      stroke-width: 2;
+      animation: markerPulse 1.8s infinite ease-out;
+      pointer-events: none;
+    }
+
+    /* Floating Controls on Map */
+    .map-controls {
+      position: absolute;
+      left: 16px;
+      bottom: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      z-index: 30;
+    }
+    .map-btn {
+      width: 36px; height: 36px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      font-size: 16px;
+      font-weight: 700;
+      display: flex; align-items: center; justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      transition: all 0.2s;
+    }
+    .map-btn:hover {
+      background: var(--surface-hover);
+      border-color: var(--accent);
+    }
+
+    /* Legend */
+    .map-legend {
+      position: absolute;
+      left: 16px;
+      top: 16px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-muted);
+      z-index: 30;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+    }
+    .legend-icon-preview {
+      width: 24px; height: 24px;
+      background: #000000;
+      border: 1px solid var(--border);
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      position: relative;
+    }
+    .legend-icon-preview svg { width: 13px; height: 13px; fill: #ffffff; }
+    .legend-badge {
+      position: absolute;
+      top: -4px; right: -7px;
+      background: var(--accent);
+      color: #fff;
+      font-size: 8.5px;
+      font-weight: 800;
+      padding: 0 3.5px;
+      border-radius: 4px;
+      border: 1px solid #fff;
+    }
+
+    /* Tooltip */
+    #tooltip {
+      position: fixed;
+      pointer-events: none;
+      background: var(--surface);
+      border: 2px solid var(--border-hi);
+      border-radius: 8px;
+      padding: 9px 13px;
+      font-size: 12.5px;
+      color: var(--text);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+      z-index: 100;
+      display: none;
+      max-width: 270px;
+    }
+    .tt-title { font-weight: 800; font-size: 13.5px; color: var(--text); margin-bottom: 4px; display: flex; align-items: center; justify-content: space-between; }
+    .tt-count { color: var(--accent); font-weight: 800; font-family: 'JetBrains Mono', monospace; }
+    .tt-cities { font-size: 11.5px; color: var(--text-muted); margin-top: 4px; line-height: 1.4; }
+    .tt-hint { font-size: 10.5px; color: var(--gold); margin-top: 6px; font-weight: 600; }
+
+    /* Side Directory Panel */
+    #side-panel {
+      width: 400px;
+      background: var(--surface);
+      border-left: 2px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      z-index: 40;
+      flex-shrink: 0;
+      transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), width 0.3s;
+    }
+    #side-panel.collapsed {
+      transform: translateX(100%);
+      width: 0;
+      border-left: none;
+    }
+    .panel-header {
+      padding: 14px 18px;
+      border-bottom: 2px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+    }
+    .panel-title h2 {
+      font-size: 15px;
+      font-weight: 800;
+      letter-spacing: -0.2px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .panel-title p {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-top: 2px;
+      font-weight: 500;
+    }
+    .panel-close {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 18px;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 6px;
+    }
+    .panel-close:hover { color: var(--text); background: var(--surface-hover); }
+
+    .panel-filter-bar {
+      padding: 10px 16px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      gap: 8px;
+    }
+    .panel-filter-bar input {
+      flex: 1;
+      background: var(--surface-card);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      font-size: 13px;
+      padding: 7px 12px;
+      outline: none;
+      font-weight: 500;
+    }
+    .panel-filter-bar input:focus { border-color: var(--accent); }
+
+    .panel-labs-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 12px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .panel-labs-list::-webkit-scrollbar { width: 6px; }
+    .panel-labs-list::-webkit-scrollbar-track { background: transparent; }
+    .panel-labs-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+    /* Lab Card */
+    .lab-card {
+      background: var(--surface-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px 14px;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+    .lab-card:hover {
+      background: var(--surface-hover);
+      border-color: var(--text);
+      transform: translateY(-1px);
+    }
+    .lc-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 6px;
+      margin-bottom: 6px;
+    }
+    .lc-code {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--text);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: 2px 7px;
+      border-radius: 4px;
+    }
+    .lc-validity {
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--emerald);
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .lc-validity::before {
+      content: '';
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--emerald);
+    }
+    .lc-name {
+      font-size: 13.5px;
+      font-weight: 700;
+      line-height: 1.4;
+      margin-bottom: 6px;
+      color: var(--text);
+    }
+    .lc-row {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      line-height: 1.35;
+    }
+    .lc-row svg {
+      width: 13px; height: 13px;
+      fill: var(--text-muted);
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+    .lc-scope-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 11.5px;
+      color: var(--accent);
+      text-decoration: none;
+      margin-top: 6px;
+      font-weight: 700;
+    }
+    .lc-scope-link:hover { text-decoration: underline; }
+
+    /* Empty state */
+    .empty-state {
+      text-align: center;
+      padding: 40px 20px;
+      color: var(--text-muted);
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    /* Modal / Inspector for single lab */
+    #modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.7);
+      backdrop-filter: blur(4px);
+      z-index: 120;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    #modal-overlay.open { display: flex; }
+    .modal-box {
+      background: var(--surface);
+      border: 2px solid var(--border);
+      border-radius: 12px;
+      max-width: 560px;
+      width: 100%;
+      padding: 22px;
+      position: relative;
+      box-shadow: 0 16px 40px rgba(0,0,0,0.6);
+    }
+    .modal-close {
+      position: absolute;
+      top: 16px; right: 16px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 20px;
+      cursor: pointer;
+    }
+    .modal-close:hover { color: var(--text); }
+  </style>
+</head>
+<body>
+
+<!-- Header -->
+<header>
+  <div class="brand" id="brand-home" title="Reset to All India">
+    <div class="brand-icon">
+      <svg viewBox="0 0 24 24">
+        <polygon points="12,2 22,8.5 2,8.5"/>
+        <rect x="3" y="9.5" width="18" height="2" rx="0.5"/>
+        <rect x="4.5" y="12.5" width="2.3" height="7.5" rx="0.5"/>
+        <rect x="9.1" y="12.5" width="2.3" height="7.5" rx="0.5"/>
+        <rect x="13.7" y="12.5" width="2.3" height="7.5" rx="0.5"/>
+        <rect x="18.3" y="12.5" width="2.3" height="7.5" rx="0.5"/>
+        <rect x="2.5" y="21" width="19" height="2.2" rx="0.5"/>
+      </svg>
+    </div>
+    <div class="brand-text">
+      <h1>BIS Recognized Laboratories <span class="badge-lims">LIMS BIS</span></h1>
+      <p>Official State-Wise Directory &amp; Map</p>
+    </div>
+  </div>
+
+  <div class="controls-row">
+    <!-- Search Bar -->
+    <div class="search-box">
+      <svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+      <input type="text" id="search-input" placeholder="Search lab name, code, city, product testing..." autocomplete="off">
+      <button class="search-clear" id="search-clear" title="Clear search">✕</button>
+    </div>
+
+    <!-- State Dropdown -->
+    <div class="state-select-wrap">
+      <select id="state-select" class="state-select">
+        <option value="all">All India (431 Labs)</option>
+      </select>
+    </div>
+
+    <!-- Toggle Directory Drawer Button -->
+    <button class="btn btn-primary" id="btn-toggle-drawer">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"/></svg>
+      <span id="drawer-btn-label">Directory (431)</span>
+    </button>
+
+    <button class="btn" id="btn-reset" title="Reset View">
+      ⟲ Reset
+    </button>
+  </div>
+
+  <div class="header-right">
+    <div class="stat-pill" id="stat-pill">431 Labs · 24 States</div>
+    <a href="https://lims.bis.gov.in/home/labs/" target="_blank" rel="noopener" class="official-portal-link" title="Open Official BIS LIMS Portal">
+      <span class="portal-domain">lims.bis.gov.in</span>
+      <span class="portal-arrow">↗</span>
+      <span class="portal-label">PORTAL</span>
+    </a>
+    <button class="btn" id="btn-theme" title="Toggle Light/Dark Theme">🌓</button>
+  </div>
+</header>
+
+<!-- Main Area -->
+<div id="main-wrap">
+  <!-- Map -->
+  <div id="map-wrap">
+    <!-- Map Controls -->
+    <div class="map-controls">
+      <button class="map-btn" id="btn-zoom-in" title="Zoom In">+</button>
+      <button class="map-btn" id="btn-zoom-out" title="Zoom Out">−</button>
+      <button class="map-btn" id="btn-zoom-reset" title="Reset to India View">⤢</button>
+    </div>
+
+    <!-- Legend -->
+    <div class="map-legend">
+      <div class="legend-icon-preview">
+        <svg viewBox="0 0 24 24">
+          <polygon points="12,2 22,8.5 2,8.5"/>
+          <rect x="3" y="9.5" width="18" height="2" rx="0.5"/>
+          <rect x="4.5" y="12.5" width="2.3" height="7.5" rx="0.5"/>
+          <rect x="9.1" y="12.5" width="2.3" height="7.5" rx="0.5"/>
+          <rect x="13.7" y="12.5" width="2.3" height="7.5" rx="0.5"/>
+          <rect x="18.3" y="12.5" width="2.3" height="7.5" rx="0.5"/>
+          <rect x="2.5" y="21" width="19" height="2.2" rx="0.5"/>
+        </svg>
+        <span class="legend-badge">N</span>
+      </div>
+      <span>State Lab Density (Click state to filter directory)</span>
+    </div>
+
+    <!-- SVG Map -->
+    <svg id="map-svg" viewBox="0 0 1000 1100" preserveAspectRatio="xMidYMid meet">
+      <defs>
+        <filter id="marker-shadow" x="-30%" y="-30%" width="160%" height="160%">
+          <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.55"/>
+        </filter>
+        <pattern id="map-grid" width="60" height="60" patternUnits="userSpaceOnUse">
+          <path d="M 60 0 L 0 0 0 60" fill="none" stroke="var(--grid)" stroke-width="0.8"/>
+        </pattern>
+      </defs>
+      <g id="viewport-g">
+        <rect x="-600" y="-600" width="2200" height="2300" fill="url(#map-grid)" pointer-events="none"/>
+        <g id="states-layer"></g>
+        <g id="markers-layer"></g>
+      </g>
+    </svg>
+  </div>
+
+  <!-- Side Directory Panel -->
+  <aside id="side-panel">
+    <div class="panel-header">
+      <div class="panel-title">
+        <h2 id="panel-title-text">All India Laboratories</h2>
+        <p id="panel-subtitle-text">Showing 431 recognized labs across 24 states</p>
+      </div>
+      <button class="panel-close" id="panel-close-btn" title="Close Drawer">✕</button>
+    </div>
+    <div class="panel-filter-bar">
+      <input type="text" id="panel-search-input" placeholder="Filter current list...">
+    </div>
+    <div class="panel-labs-list" id="panel-labs-list">
+      <!-- Injected via JS -->
+    </div>
+  </aside>
+</div>
+
+<!-- Tooltip -->
+<div id="tooltip"></div>
+
+<!-- Single Lab Detail Modal -->
+<div id="modal-overlay">
+  <div class="modal-box">
+    <button class="modal-close" id="modal-close-btn">✕</button>
+    <div id="modal-content"></div>
+  </div>
+</div>
+
+<script src="/bis-labs-data.js"></script>
+<script>
+// Parent communication helper if loaded inside iframe
+function notifyParent(action, payload) {
+  try {
+    if (window.parent && window.parent !== window) {
+      window.parent.postMessage({ source: 'bis-map', action, payload }, '*');
+    }
+  } catch (e) {}
+}
+
+// Pre-calculate state statistics
+const stateStats = {};
+ALL_LABS.forEach(l => {
+  const s = l.state;
+  if (!stateStats[s]) stateStats[s] = { total: 0, cities: {}, labs: [] };
+  stateStats[s].total++;
+  stateStats[s].labs.push(l);
+  const c = l.city || 'Other';
+  stateStats[s].cities[c] = (stateStats[s].cities[c] || 0) + 1;
+});
+
+// State bounding boxes for zoom-to-state
+const stateBBoxes = {};
+STATE_PATHS.forEach(s => {
+  const nums = s.d.match(/[-+]?\d*\.?\d+/g);
+  if (!nums || nums.length < 2) return;
+  let minX=Infinity, maxX=-Infinity, minY=Infinity, maxY=-Infinity;
+  for (let i=0; i < nums.length-1; i+=2) {
+    const x=+nums[i], y=+nums[i+1];
+    if (x < minX) minX=x; if (x > maxX) maxX=x;
+    if (y < minY) minY=y; if (y > maxY) maxY=y;
+  }
+  stateBBoxes[s.name] = {
+    minX, maxX, minY, maxY,
+    width: maxX - minX, height: maxY - minY,
+    cx: (minX + maxX) / 2, cy: (minY + maxY) / 2
+  };
+});
+
+// Fallback centers for any state without explicit stateCenters entry
+STATE_PATHS.forEach(s => {
+  if (!STATE_CENTERS[s.name] && stateBBoxes[s.name]) {
+    STATE_CENTERS[s.name] = { x: stateBBoxes[s.name].cx, y: stateBBoxes[s.name].cy };
+  }
+});
+
+// Application State
+let selectedState = 'all';
+let searchQuery = '';
+let panelQuery = '';
+let scale = 1, tx = 0, ty = 0;
+let dragging = false, dragStart = { x: 0, y: 0 };
+let currentTheme = 'dark';
+
+// DOM References
+const mapWrap = document.getElementById('map-wrap');
+const viewportG = document.getElementById('viewport-g');
+const statesLayer = document.getElementById('states-layer');
+const markersLayer = document.getElementById('markers-layer');
+const tooltip = document.getElementById('tooltip');
+const stateSelect = document.getElementById('state-select');
+const searchInput = document.getElementById('search-input');
+const searchClear = document.getElementById('search-clear');
+const drawerBtn = document.getElementById('btn-toggle-drawer');
+const drawerBtnLabel = document.getElementById('drawer-btn-label');
+const sidePanel = document.getElementById('side-panel');
+const panelCloseBtn = document.getElementById('panel-close-btn');
+const panelTitleText = document.getElementById('panel-title-text');
+const panelSubtitleText = document.getElementById('panel-subtitle-text');
+const panelSearchInput = document.getElementById('panel-search-input');
+const panelLabsList = document.getElementById('panel-labs-list');
+const statPill = document.getElementById('stat-pill');
+const modalOverlay = document.getElementById('modal-overlay');
+const modalContent = document.getElementById('modal-content');
+const modalCloseBtn = document.getElementById('modal-close-btn');
+
+// Populate State Dropdown sorted by lab count descending
+const sortedStates = Object.keys(stateStats).sort((a,b) => stateStats[b].total - stateStats[a].total);
+sortedStates.forEach(st => {
+  const opt = document.createElement('option');
+  opt.value = st;
+  opt.textContent = st + ' (' + stateStats[st].total + ')';
+  stateSelect.appendChild(opt);
+});
+
+const SVG_NS = 'http://www.w3.org/2000/svg';
+function createSvgEl(tag, attrs={}) {
+  const el = document.createElementNS(SVG_NS, tag);
+  for (const [k, v] of Object.entries(attrs)) el.setAttribute(k, v);
+  return el;
+}
+
+function renderStates() {
+  statesLayer.innerHTML = '';
+  STATE_PATHS.forEach(s => {
+    const p = createSvgEl('path', {
+      class: 'state-path' + (selectedState === s.name ? ' selected' : ''),
+      d: s.d,
+      'data-state': s.name
+    });
+
+    p.addEventListener('mouseenter', e => onStateHover(e, s.name));
+    p.addEventListener('mousemove', moveTooltip);
+    p.addEventListener('mouseleave', hideTooltip);
+    p.addEventListener('click', () => selectState(s.name));
+
+    statesLayer.appendChild(p);
+  });
+}
+
+function renderStateMarkers() {
+  markersLayer.innerHTML = '';
+
+  const q = searchQuery.toLowerCase().trim();
+  const matchingLabs = q ? ALL_LABS.filter(l =>
+    l.name.toLowerCase().includes(q) ||
+    l.city.toLowerCase().includes(q) ||
+    l.code.toLowerCase().includes(q) ||
+    l.address.toLowerCase().includes(q) ||
+    l.state.toLowerCase().includes(q)
+  ) : ALL_LABS;
+
+  const stateMatchCounts = {};
+  matchingLabs.forEach(l => {
+    stateMatchCounts[l.state] = (stateMatchCounts[l.state] || 0) + 1;
+  });
+
+  Object.keys(stateStats).forEach(stName => {
+    const center = STATE_CENTERS[stName];
+    if (!center) return;
+
+    const count = q ? (stateMatchCounts[stName] || 0) : stateStats[stName].total;
+    const isSelected = selectedState === stName;
+    const isDimmed = q && count === 0;
+
+    const g = createSvgEl('g', {
+      class: 'state-marker' + (isSelected ? ' selected' : '') + (isDimmed ? ' dimmed' : ''),
+      'data-state': stName,
+      transform: 'translate(' + center.x + ',' + center.y + ')'
+    });
+
+    if (isSelected) {
+      g.appendChild(createSvgEl('circle', { class: 'sm-pulse', cx: '0', cy: '0', r: '16' }));
+    }
+
+    const circ = createSvgEl('circle', {
+      class: 'sm-circle',
+      cx: '0', cy: '0', r: '15',
+      fill: isSelected ? '#276EF1' : '#000000',
+      stroke: '#ffffff',
+      'stroke-width': '2',
+      filter: 'url(#marker-shadow)'
+    });
+    g.appendChild(circ);
+
+    const iconG = createSvgEl('g', {
+      class: 'sm-icon',
+      transform: 'translate(-7.5, -8) scale(0.63)',
+      fill: '#ffffff'
+    });
+    iconG.appendChild(createSvgEl('polygon', { points: '12,2 22,8.5 2,8.5' }));
+    iconG.appendChild(createSvgEl('rect', { x: '3', y: '9.5', width: '18', height: '2', rx: '0.5' }));
+    iconG.appendChild(createSvgEl('rect', { x: '4.5', y: '12.5', width: '2.3', height: '7.5', rx: '0.5' }));
+    iconG.appendChild(createSvgEl('rect', { x: '9.1', y: '12.5', width: '2.3', height: '7.5', rx: '0.5' }));
+    iconG.appendChild(createSvgEl('rect', { x: '13.7', y: '12.5', width: '2.3', height: '7.5', rx: '0.5' }));
+    iconG.appendChild(createSvgEl('rect', { x: '18.3', y: '12.5', width: '2.3', height: '7.5', rx: '0.5' }));
+    iconG.appendChild(createSvgEl('rect', { x: '2.5', y: '21', width: '19', height: '2.2', rx: '0.5' }));
+    g.appendChild(iconG);
+
+    if (count > 0) {
+      const badgeG = createSvgEl('g', {
+        class: 'sm-badge-wrap',
+        transform: 'translate(10, -10)'
+      });
+      const badgeW = count >= 100 ? 24 : count >= 10 ? 19 : 15;
+      const rect = createSvgEl('rect', {
+        class: 'sm-badge-rect',
+        x: -badgeW/2, y: -7.5,
+        width: badgeW, height: '15',
+        rx: '7.5',
+        fill: isSelected ? '#FFC043' : '#276EF1',
+        stroke: '#ffffff',
+        'stroke-width': '1.5'
+      });
+      badgeG.appendChild(rect);
+
+      const text = createSvgEl('text', {
+        x: '0', y: '3.5',
+        'font-size': count >= 100 ? '8.5' : '9.5',
+        'font-weight': '800',
+        'font-family': "'JetBrains Mono', monospace",
+        fill: isSelected ? '#000000' : '#ffffff',
+        'text-anchor': 'middle'
+      });
+      text.textContent = count;
+      badgeG.appendChild(text);
+      g.appendChild(badgeG);
+    }
+
+    const labelG = createSvgEl('g', {
+      class: 'sm-label-wrap',
+      transform: 'translate(0, 24)'
+    });
+    const labelText = stName.length > 15 ? stName.slice(0, 14) + '…' : stName;
+    const estW = Math.max(50, labelText.length * 6.5 + 14);
+
+    const lblBg = createSvgEl('rect', {
+      x: -estW/2, y: -7.5,
+      width: estW, height: '15',
+      rx: '7.5',
+      fill: isSelected ? '#276EF1' : 'rgba(0,0,0,0.85)',
+      stroke: isSelected ? '#ffffff' : '#333333',
+      'stroke-width': '1'
+    });
+    labelG.appendChild(lblBg);
+
+    const lblText = createSvgEl('text', {
+      x: '0', y: '3',
+      'font-size': '9',
+      'font-weight': '700',
+      'font-family': "'Inter', sans-serif",
+      fill: '#ffffff',
+      'text-anchor': 'middle'
+    });
+    lblText.textContent = labelText;
+    labelG.appendChild(lblText);
+    g.appendChild(labelG);
+
+    g.addEventListener('mouseenter', e => onStateHover(e, stName));
+    g.addEventListener('mousemove', moveTooltip);
+    g.addEventListener('mouseleave', hideTooltip);
+    g.addEventListener('click', e => {
+      e.stopPropagation();
+      selectState(stName);
+    });
+
+    markersLayer.appendChild(g);
+  });
+}
+
+function onStateHover(e, stateName) {
+  const stats = stateStats[stateName];
+  if (!stats) {
+    showTooltip(e, '<div class="tt-title">' + stateName + '</div><div style="font-size:11px;color:var(--text-muted)">No BIS recognized labs in this state</div>');
+    return;
+  }
+
+  const topCities = Object.entries(stats.cities)
+    .sort((a,b) => b[1] - a[1])
+    .slice(0, 3)
+    .map(([c, count]) => c + ' (' + count + ')')
+    .join(', ');
+
+  const html = 
+    '<div class="tt-title">' +
+      '<span>' + stateName + '</span>' +
+      '<span class="tt-count">' + stats.total + ' Labs</span>' +
+    '</div>' +
+    (topCities ? '<div class="tt-cities"><b>Key Hubs:</b> ' + topCities + '</div>' : '') +
+    '<div class="tt-hint">Click to filter labs in directory</div>';
+
+  showTooltip(e, html);
+}
+
+function showTooltip(e, html) {
+  tooltip.innerHTML = html;
+  tooltip.style.display = 'block';
+  moveTooltip(e);
+}
+
+function moveTooltip(e) {
+  const pad = 14;
+  let x = e.clientX + pad;
+  let y = e.clientY + pad;
+  const tw = tooltip.offsetWidth, th = tooltip.offsetHeight;
+  if (x + tw > window.innerWidth - 10) x = e.clientX - tw - pad;
+  if (y + th > window.innerHeight - 10) y = e.clientY - th - pad;
+  tooltip.style.left = x + 'px';
+  tooltip.style.top = y + 'px';
+}
+
+function hideTooltip() {
+  tooltip.style.display = 'none';
+}
+
+function selectState(stateName) {
+  if (selectedState === stateName) {
+    openDrawer();
+    return;
+  }
+
+  selectedState = stateName;
+  stateSelect.value = stateName;
+  notifyParent('stateSelected', stateName);
+
+  if (stateName !== 'all' && stateBBoxes[stateName]) {
+    const bbox = stateBBoxes[stateName];
+    const r = mapWrap.getBoundingClientRect();
+    const mapW = r.width;
+    const mapH = r.height;
+    
+    const scaleX = (mapW * 0.55) / Math.max(bbox.width, 100);
+    const scaleY = (mapH * 0.55) / Math.max(bbox.height, 100);
+    const targetScale = Math.min(Math.max(Math.min(scaleX, scaleY), 1.2), 3.8);
+
+    const targetTx = mapW / 2 - bbox.cx * targetScale;
+    const targetTy = mapH / 2 - bbox.cy * targetScale;
+
+    flyTo(targetTx, targetTy, targetScale);
+  } else {
+    resetView();
+  }
+
+  renderStates();
+  renderStateMarkers();
+  updateSidePanel();
+  openDrawer();
+}
+
+function openDrawer() {
+  sidePanel.classList.remove('collapsed');
+  drawerBtnLabel.textContent = selectedState === 'all' ? 'Directory (431)' : stateStats[selectedState] ? stateStats[selectedState].total + ' Labs' : 'Directory';
+}
+
+function closeDrawer() {
+  sidePanel.classList.add('collapsed');
+}
+
+function toggleDrawer() {
+  if (sidePanel.classList.contains('collapsed')) openDrawer();
+  else closeDrawer();
+}
+
+function updateSidePanel() {
+  panelLabsList.innerHTML = '';
+  panelSearchInput.value = '';
+  panelQuery = '';
+
+  let labsToShow = [];
+  if (selectedState === 'all') {
+    panelTitleText.innerHTML = 'All India Laboratories';
+    labsToShow = searchQuery ? ALL_LABS.filter(l => 
+      l.name.toLowerCase().includes(searchQuery) ||
+      l.city.toLowerCase().includes(searchQuery) ||
+      l.code.toLowerCase().includes(searchQuery) ||
+      l.state.toLowerCase().includes(searchQuery)
+    ) : ALL_LABS;
+    panelSubtitleText.textContent = 'Showing ' + labsToShow.length + ' labs across India';
+  } else {
+    panelTitleText.innerHTML = selectedState;
+    const sLabs = stateStats[selectedState] ? stateStats[selectedState].labs : [];
+    labsToShow = searchQuery ? sLabs.filter(l => 
+      l.name.toLowerCase().includes(searchQuery) ||
+      l.city.toLowerCase().includes(searchQuery) ||
+      l.code.toLowerCase().includes(searchQuery)
+    ) : sLabs;
+    panelSubtitleText.textContent = labsToShow.length + ' BIS recognized labs in ' + selectedState;
+  }
+
+  renderPanelLabCards(labsToShow);
+}
+
+function renderPanelLabCards(labsList) {
+  panelLabsList.innerHTML = '';
+
+  const q = panelQuery.toLowerCase().trim();
+  const filtered = q ? labsList.filter(l => 
+    l.name.toLowerCase().includes(q) ||
+    l.city.toLowerCase().includes(q) ||
+    l.code.toLowerCase().includes(q) ||
+    l.address.toLowerCase().includes(q)
+  ) : labsList;
+
+  if (filtered.length === 0) {
+    panelLabsList.innerHTML = '<div class="empty-state">No laboratories found matching your criteria.</div>';
+    return;
+  }
+
+  filtered.forEach(l => {
+    const card = document.createElement('div');
+    card.className = 'lab-card';
+    card.innerHTML = 
+      '<div class="lc-top">' +
+        '<span class="lc-code">' + (l.code || 'BIS-LAB') + '</span>' +
+        (l.validity ? '<span class="lc-validity">Valid: ' + l.validity + '</span>' : '<span class="lc-validity" style="color:var(--text-muted)">Recognized</span>') +
+      '</div>' +
+      '<div class="lc-name">' + l.name + '</div>' +
+      '<div class="lc-row">' +
+        '<svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>' +
+        '<span>' + (l.city ? l.city + ', ' : '') + l.state + (l.pincode ? ' — ' + l.pincode : '') + '</span>' +
+      '</div>' +
+      (l.contactPerson ? '<div class="lc-row"><svg viewBox="0 0 24 24"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/></svg><span>' + l.contactPerson + '</span></div>' : '') +
+      (l.phone ? '<div class="lc-row"><svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg><span>' + l.phone + '</span></div>' : '') +
+      (l.scopeUrl ? '<a class="lc-scope-link" href="' + l.scopeUrl + '" target="_blank" rel="noopener">Official Scope of Testing &rarr;</a>' : '');
+
+    card.addEventListener('click', () => openModal(l));
+    panelLabsList.appendChild(card);
+  });
+}
+
+function openModal(lab) {
+  modalContent.innerHTML = 
+    '<div style="display:flex;align-items:center;gap:8px;margin-bottom:10px;">' +
+      '<span class="lc-code" style="font-size:12px;padding:3px 8px;">' + (lab.code || 'BIS-LAB') + '</span>' +
+      (lab.validity ? '<span class="lc-validity" style="font-size:11px;">Valid Until: ' + lab.validity + '</span>' : '') +
+    '</div>' +
+    '<h2 style="font-size:17px;font-weight:800;line-height:1.4;margin-bottom:12px;color:var(--text)">' + lab.name + '</h2>' +
+    '<div style="background:var(--surface-card);border:1px solid var(--border);border-radius:8px;padding:14px;display:flex;flex-direction:column;gap:9px;font-size:13px;margin-bottom:16px;">' +
+      '<div><b style="color:var(--text-muted)">State / City:</b> ' + (lab.city ? lab.city + ', ' : '') + lab.state + '</div>' +
+      '<div><b style="color:var(--text-muted)">Address:</b> ' + (lab.address || 'Address on file with BIS') + (lab.pincode ? ' — ' + lab.pincode : '') + '</div>' +
+      (lab.contactPerson ? '<div><b style="color:var(--text-muted)">Contact Person:</b> ' + lab.contactPerson + '</div>' : '') +
+      (lab.phone ? '<div><b style="color:var(--text-muted)">Phone:</b> ' + lab.phone + '</div>' : '') +
+      (lab.email ? '<div><b style="color:var(--text-muted)">Email:</b> <a href="mailto:' + lab.email + '" style="color:var(--accent);font-weight:600;">' + lab.email + '</a></div>' : '') +
+    '</div>' +
+    (lab.scopeUrl ? '<a href="' + lab.scopeUrl + '" target="_blank" rel="noopener" class="btn btn-primary" style="display:inline-flex;justify-content:center;width:100%;padding:10px;font-size:13.5px;text-decoration:none;">View Official BIS Testing Scope (PDF) &rarr;</a>' : '');
+
+  modalOverlay.classList.add('open');
+}
+
+modalCloseBtn.addEventListener('click', () => modalOverlay.classList.remove('open'));
+modalOverlay.addEventListener('click', e => {
+  if (e.target === modalOverlay) modalOverlay.classList.remove('open');
+});
+
+function applyTransform() {
+  viewportG.setAttribute('transform', 'translate(' + tx + ',' + ty + ') scale(' + scale + ')');
+}
+
+function flyTo(targetTx, targetTy, targetScale, duration=350) {
+  const s0 = scale, tx0 = tx, ty0 = ty;
+  const start = performance.now();
+  function step(now) {
+    const p = Math.min((now - start) / duration, 1);
+    const ease = p < 0.5 ? 2*p*p : -1 + (4-2*p)*p;
+    scale = s0 + (targetScale - s0) * ease;
+    tx = tx0 + (targetTx - tx0) * ease;
+    ty = ty0 + (targetTy - ty0) * ease;
+    applyTransform();
+    if (p < 1) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
+}
+
+function resetView() {
+  selectedState = 'all';
+  stateSelect.value = 'all';
+  flyTo(0, 0, 1);
+  renderStates();
+  renderStateMarkers();
+  updateSidePanel();
+}
+
+stateSelect.addEventListener('change', e => {
+  selectState(e.target.value);
+});
+
+searchInput.addEventListener('input', e => {
+  searchQuery = e.target.value.toLowerCase().trim();
+  searchClear.classList.toggle('show', !!searchQuery);
+  renderStateMarkers();
+  updateSidePanel();
+  statPill.textContent = searchQuery ? 'Searching Labs...' : '431 Labs · 24 States';
+});
+searchClear.addEventListener('click', () => {
+  searchInput.value = '';
+  searchQuery = '';
+  searchClear.classList.remove('show');
+  renderStateMarkers();
+  updateSidePanel();
+  statPill.textContent = '431 Labs · 24 States';
+});
+
+panelSearchInput.addEventListener('input', e => {
+  panelQuery = e.target.value;
+  let labsList = selectedState === 'all' ? ALL_LABS : (stateStats[selectedState] ? stateStats[selectedState].labs : []);
+  if (searchQuery) {
+    labsList = labsList.filter(l => l.name.toLowerCase().includes(searchQuery) || l.city.toLowerCase().includes(searchQuery) || l.code.toLowerCase().includes(searchQuery));
+  }
+  renderPanelLabCards(labsList);
+});
+
+drawerBtn.addEventListener('click', toggleDrawer);
+panelCloseBtn.addEventListener('click', closeDrawer);
+document.getElementById('btn-reset').addEventListener('click', resetView);
+document.getElementById('brand-home').addEventListener('click', resetView);
+document.getElementById('btn-zoom-reset').addEventListener('click', resetView);
+
+document.getElementById('btn-zoom-in').addEventListener('click', () => {
+  const r = mapWrap.getBoundingClientRect();
+  const cx = r.width / 2, cy = r.height / 2;
+  const ns = Math.min(scale * 1.35, 6);
+  tx = cx - (cx - tx) * (ns / scale);
+  ty = cy - (cy - ty) * (ns / scale);
+  scale = ns;
+  applyTransform();
+});
+document.getElementById('btn-zoom-out').addEventListener('click', () => {
+  const r = mapWrap.getBoundingClientRect();
+  const cx = r.width / 2, cy = r.height / 2;
+  const ns = Math.max(scale / 1.35, 0.6);
+  tx = cx - (cx - tx) * (ns / scale);
+  ty = cy - (cy - ty) * (ns / scale);
+  scale = ns;
+  applyTransform();
+});
+
+mapWrap.addEventListener('wheel', e => {
+  e.preventDefault();
+  const r = mapWrap.getBoundingClientRect();
+  const mx = e.clientX - r.left, my = e.clientY - r.top;
+  const factor = e.deltaY < 0 ? 1.15 : 0.87;
+  const ns = Math.min(Math.max(0.6, scale * factor), 6);
+  tx = mx - (mx - tx) * (ns / scale);
+  ty = my - (my - ty) * (ns / scale);
+  scale = ns;
+  applyTransform();
+}, { passive: false });
+
+mapWrap.addEventListener('mousedown', e => {
+  if (e.target.closest('#side-panel') || e.target.closest('.map-controls') || e.target.closest('.map-legend')) return;
+  dragging = true;
+  mapWrap.classList.add('dragging');
+  dragStart = { x: e.clientX - tx, y: e.clientY - ty };
+});
+window.addEventListener('mousemove', e => {
+  if (!dragging) return;
+  tx = e.clientX - dragStart.x;
+  ty = e.clientY - dragStart.y;
+  applyTransform();
+});
+window.addEventListener('mouseup', () => {
+  dragging = false;
+  mapWrap.classList.remove('dragging');
+});
+
+// Touch support
+let lastDist = 0;
+mapWrap.addEventListener('touchstart', e => {
+  if (e.touches.length === 1) {
+    dragging = true;
+    dragStart = { x: e.touches[0].clientX - tx, y: e.touches[0].clientY - ty };
+  } else if (e.touches.length === 2) {
+    lastDist = Math.hypot(e.touches[0].clientX - e.touches[1].clientX, e.touches[0].clientY - e.touches[1].clientY);
+  }
+}, { passive: true });
+
+mapWrap.addEventListener('touchmove', e => {
+  if (e.touches.length === 1 && dragging) {
+    tx = e.touches[0].clientX - dragStart.x;
+    ty = e.touches[0].clientY - dragStart.y;
+    applyTransform();
+  } else if (e.touches.length === 2) {
+    const d = Math.hypot(e.touches[0].clientX - e.touches[1].clientX, e.touches[0].clientY - e.touches[1].clientY);
+    if (lastDist > 0) {
+      scale = Math.min(Math.max(0.6, scale * d / lastDist), 6);
+      applyTransform();
+    }
+    lastDist = d;
+  }
+}, { passive: true });
+
+mapWrap.addEventListener('touchend', () => { dragging = false; lastDist = 0; });
+
+document.getElementById('btn-theme').addEventListener('click', () => {
+  currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
+  document.body.setAttribute('data-theme', currentTheme);
+});
+
+// Parent window message listener
+window.addEventListener('message', (e) => {
+  if (!e.data || e.data.source !== 'manak-mitra') return;
+  if (e.data.action === 'selectState') {
+    selectState(e.data.payload);
+  } else if (e.data.action === 'filterLocation') {
+    searchInput.value = e.data.payload;
+    searchQuery = e.data.payload.toLowerCase().trim();
+    searchClear.classList.toggle('show', !!searchQuery);
+    renderStateMarkers();
+    updateSidePanel();
+  }
+});
+
+// Initial Setup
+renderStates();
+renderStateMarkers();
+updateSidePanel();
+applyTransform();
+</script>
+</body>
+</html>

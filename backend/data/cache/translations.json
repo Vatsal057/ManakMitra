@@ -1,0 +1,170 @@
+{
+  "bn::অন্তর্নির্মিত নিরাপত্তা অন্তর্নির্মিত যন্ত্রের সঙ্গে প্রাচীর সকেট": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Wall sockets with built-in safety device"
+  },
+  "bn::অফিসে প্রবেশের জন্য বায়োমেট্রিক ফিঙ্গারপ্রিন্ট উপস্থিতি ডিভাইস": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Biometric fingerprint presence device for entering the office"
+  },
+  "bn::আইএস ১৭৮৬": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "The ISI is 1786."
+  },
+  "bn::কারখানার মেঝেতে কাজ করার জন্য মাথা সুরক্ষা সরঞ্জাম": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Head protection equipment for working on factory floors"
+  },
+  "bn::সাধারণ আরসিসি নির্মাণ কাজের জন্য ৪৩ গ্রেডের সাধারণ পোর্টল্যান্ড সিমেন্ট": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "General Portland cement, grade 43 for general RCC construction work"
+  },
+  "bn::সাধারণ নির্মাণ কাজের জন্য সাধারণ পোর্টল্যান্ড সিমেন্ট": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Common Portland cement for general construction work"
+  },
+  "gu::IS 1786": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "IS 1786"
+  },
+  "gu::આંતરિક સલામતી ઇન્ટરલોક મિકેનિઝમ સાથે દિવાલ સોકેટ": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Wall socket with internal security interlock mechanism"
+  },
+  "gu::ઓફિસ પ્રવેશ માટે બાયોમેટ્રિક ફિંગરપ્રિન્ટ હાજરી ઉપકરણ": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Biometric fingerprint presence device for office entry"
+  },
+  "gu::ફેક્ટરી ફ્લોર કામદારો માટે માથા સલામતી સાધનો": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Head safety equipment for factory floor workers"
+  },
+  "gu::સામાન્ય આરસીસી બાંધકામ માટે 43 ગ્રેડ સામાન્ય પોર્ટલેન્ડ સિમેન્ટ": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "43 Grade Common Portland cement for common RCC construction"
+  },
+  "gu::સામાન્ય બાંધકામ માટે સામાન્ય પોર્ટલેન્ડ સિમેન્ટ": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Common Portland cement for general construction"
+  },
+  "hi::अंतर्निहित सुरक्षा इंटरलॉक तंत्र के साथ दीवार सॉकेट": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Wall Socket with built-in security interlock mechanism"
+  },
+  "hi::आईएस 1786": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "the IS 1786"
+  },
+  "hi::कारखाने में काम करने वाले मजदूरों के लिए सिर सुरक्षा उपकरण": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Head protective equipment for factory workers"
+  },
+  "hi::कार्यालय प्रवेश के लिए बायोमेट्रिक फिंगरप्रिंट उपस्थिति उपकरण": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Biometric fingerprint presence equipment for office entry"
+  },
+  "hi::सामान्य आरसीसी निर्माण कार्य के लिए 43 ग्रेड का साधारण पोर्टलैंड सीमेंट": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Common Portland cement of grade 43 for general RCC construction work"
+  },
+  "hi::सामान्य निर्माण कार्य के लिए साधारण पोर्टलैंड सीमेंट": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Common Portland cement for general construction work"
+  },
+  "kn::ಅಂತರ್ನಿರ್ಮಿತ ಸುರಕ್ಷತಾ ಇಂಟರ್ಲಾಕ್ ಕಾರ್ಯವಿಧಾನದೊಂದಿಗೆ ಗೋಡೆಯ ಸಾಕೆಟ್": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Wall socket with built-in safety interlock mechanism"
+  },
+  "kn::ಐಎಸ್ 1786": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "The following is a list of the countries of the United States."
+  },
+  "kn::ಕಚೇರಿಗೆ ಪ್ರವೇಶಿಸಲು ಬಯೋಮೆಟ್ರಿಕ್ ಫಿಂಗರ್ಪ್ರಿಂಟ್ ಹಾಜರಾತಿ ಸಾಧನ": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Biometric fingerprint attendance device to enter the office"
+  },
+  "kn::ಕಾರ್ಖಾನೆ ನೆಲದ ಕೆಲಸಗಾರರಿಗೆ ಹೆಡ್ ಸುರಕ್ಷತಾ ಉಪಕರಣಗಳು": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Head safety equipment for factory floor workers"
+  },
+  "kn::ಸಾಮಾನ್ಯ ಆರ್ಸಿಸಿ ನಿರ್ಮಾಣ ಕೆಲಸಗಳಿಗೆ 43 ದರ್ಜೆಯ ಸಾಮಾನ್ಯ ಪೋರ್ಟ್ಲ್ಯಾಂಡ್ ಸಿಮೆಂಟ್": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Grade 43 Common Portland cement for common RCC construction works"
+  },
+  "kn::ಸಾಮಾನ್ಯ ನಿರ್ಮಾಣ ಕೆಲಸಗಳಿಗೆ ಸಾಮಾನ್ಯ ಪೋರ್ಟ್ಲ್ಯಾಂಡ್ ಸಿಮೆಂಟ್": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Common Portland cement for common construction works"
+  },
+  "mr::अंगभूत सुरक्षा इंटरलॉक यंत्रणा असलेले भिंतीचे सॉकेट": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Wall sockets with built-in security interlocking system"
+  },
+  "mr::आयएस १७८६": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "The first is the ISI 1786."
+  },
+  "mr::कारखान्यातील मजुरांसाठी हेड सेफ्टी गियर": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Head safety gear for factory workers"
+  },
+  "mr::कार्यालयात प्रवेश करण्यासाठी बायोमेट्रिक फिंगरप्रिंट उपस्थिती उपकरणे": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Biometric fingerprint presence equipment to access the office"
+  },
+  "mr::सामान्य आरसीसी बांधकामसाठी 43 ग्रेडचे सामान्य पोर्टलँड सिमेंट": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "General portland cement of 43 grades for the construction of general RCC"
+  },
+  "mr::सामान्य बांधकाम कामांसाठी सामान्य पोर्टलँड सिमेंट": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Common Portland cement for general construction works"
+  },
+  "ta::அலுவலகத்திற்குள் நுழைவதற்கு பயோமெட்ரிக் கைரேகை வருகை சாதனம்": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Biometric fingerprint access device for entering the office"
+  },
+  "ta::உள்ளமைக்கப்பட்ட பாதுகாப்பு இடைமுகம் இயந்திரத்துடன் சுவர் சாக்கெட்": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Wall socket with built-in security interface machine"
+  },
+  "ta::ஐஎஸ் 1786": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "IS 1786 is a"
+  },
+  "ta::தொழிற்சாலைத் தள தொழிலாளர்களுக்கு தலை பாதுகாப்பு உபகரணங்கள்": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Head protection equipment for factory workers"
+  },
+  "ta::பொது கட்டுமான பணிகளுக்கான பொதுவான போர்ட்லாண்ட் செமென்ட்": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Common Portland cement for public works"
+  },
+  "ta::பொதுவான RCC கட்டுமான பணிகளுக்கான 43 வது தரமான போர்ட்லாண்ட் சிமென்ட்": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Portland cement, 43rd grade for common RCC construction works"
+  },
+  "te::IS 1786": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "IS 1786"
+  },
+  "te::అంతర్నిర్మిత భద్రతా ఇంటర్లాక్ మెకానిజంతో గోడ సాకెట్": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Wall socket with built-in security interlock mechanism"
+  },
+  "te::కార్యాలయ ప్రవేశానికి బయోమెట్రిక్ వేలిముద్ర హాజరు ఉపకరణం": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Biometric fingerprint attendance tool for entering the office"
+  },
+  "te::ఫ్యాక్టరీ అంతస్తు కార్మికుల తల భద్రత పరికరాలు": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Head protection equipment for factory floor workers"
+  },
+  "te::సాధారణ RCC నిర్మాణ పనులకు 43 గ్రేడ్ సాధారణ పోర్ట్ లాండ్ సిమెంట్": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "43 grade common port land cement for ordinary RCC construction works"
+  },
+  "te::సాధారణ నిర్మాణ పనులకు సాధారణ పోర్ట్ లాండ్ సిమెంట్": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Common port land cement for general construction works"
+  }
+}

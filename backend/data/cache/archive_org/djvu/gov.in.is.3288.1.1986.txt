@@ -1,0 +1,921 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 3288-1 (1986) : Glossary of Terms Relating to Copper and 
+Copper Alloys, Part 1: Materials [MTD 8: Copper and Copper 
+Alloys] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 3268 ( Part 1 ) - 1386 
+
+( Reaffirmed 2006 ) 
+
+Indian Standard 
+
+GLOSSARY OF TERMS 
+RELATING TO COPPER AND COPPER ALLOYS 
+
+FART 1 MATERLAL5 
+
+( Third Revision ) 
+
+
+
+UDG 001-4 :(>G9-3 
+
+
+
+© alight 1997 
+BUREAU OF INDIAN STANDARDS 
+
+MANAK. bHAVAN, 9 BAHADUR SHAH ZAFAR MAitG 
+
+NEW DELHI WWffl 
+
+Gr 2 AttgUii 1987 
+
+
+
+IS : 3288 ( Part 1 ) - 1986 
+
+Indian Standard 
+
+GLOSSARY OF TERMS 
+RELATING TO COPPER AND COPPER ALLOYS 
+
+PART 1 MATERIALS 
+
+( Third Revision ) 
+
+
+
+Copper and Copper Alloys Sectional Committee, SMDC 1 1 
+
+Chairman Representing 
+
+Db L, R. Vaidyanath Indian Copper Development Centre, Calcutta 
+
+Members 
+
+Shbi D. De Sarkar ( Alternate to 
+Dr L, R, Vaidyanath ) 
+Shri Dev Kumar Agoabwai, Bralco Metal Industries Pvt Ltd, Bombay 
+
+Shri Raj Kumar Aggarwal ( Alternate ) 
+Shri R. T. Bajaj Kamani Tubes Ltd, Bombay 
+
+Shbi K. L. Babui National Test House, Calcutta 
+
+Shbi H. P. Dubey ( Alternate ) 
+Shri J. Neoesh Bhatt Indian Telephone Industries Ltd, Bangalore 
+
+Shbi A. R. Sukumabah ( Alternate ) 
+Shbi C. D. Bhattachaeya Hindustan Cables Ltd, Burdwan 
+
+Shbi M. Jha { Alternate ) 
+Shbi Balkbishna Binani Rashtriya Metal Industries Ltd, Bombay 
+
+Db V. S. Patkab ( Alternate ) 
+Prof A. D. Bohba Alcobex Metal (P) Ltd, Jodhpur 
+
+Shri Kuldekp Dhinora ( Alternate) 
+Shbi M. K. Choudhuby Bengal Ingot Co Ltd Calcutta 
+
+Shbi P. R. Dhab Indian Standard Metal Go Ltd, Bombay 
+
+Shbi N. R. Maniar ( Alternate ) 
+Shbi B. Dutta Directorate General of Ordnance Factories, 
+
+Calcutta 
+
+Shbi S, K. Ghosh ( Alternate ) 
+Shbi H. N. Gupta Ministry of Finance 
+
+Shbi A. V. Habne Bharat Heavy Electricals Ltd 
+
+Shbi P. V. Dixit ( Alternate I ) 
+
+Shbi M. N. Chandraskkhabiah {Alternate II ) 
+Shri D. P.Jain Saru Smelting Pvt Ltd, Meerut 
+
+Shri Davinder Kumar Taik Aggarwal Metal Works Pvt Ltd, Rewari 
+
+Shbi Rajiv Jain ( Alternate) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1987 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 3288 ( Part 1 ) - 1986 
+
+( Continued /rorn page 1 ) 
+
+Members Representing 
+
+Shki R. p. Kesan KMA Ltd, Bombay 
+
+Shri a. H. Sabhachandani [Alternate) 
+Shki S. K. Khandekab Vanaz Engineers (Pvt) Ltd, Pune 
+
+Sbbi P.K. D, Lee Ministry of Finance 
+
+Shbi S. Bagchi { Alternate ) 
+Shri A. K. Mitra Neo Pipes & Tubes Co Ltd, Calcutta 
+
+Du P. R. MuKHERJBE INCAB Industries Ltd, Jamshedpur 
+
+SitRi Tiiii.oK Singh {Alternate) 
+Shri G. R. K. Mubthy Ministry of Defence (R&D) 
+
+Shri I. N. Bhatia { Alternate ) 
+Shri S. K. Pandey Directorate General of Supplies & Disposals, New 
+
+Delhi 
+Shbi H. S. Ramachandra Hindustan Machine Tools Ltd, Bangalore 
+
+Shbi A. Shantharam ( Alternate I ) 
+
+Shki V. N. Venkatesan ( Alternate 11 ) 
+Shri T. Ramasxtbbamanian Directorate General of Technical Development, 
+
+New Delhi 
+
+Shr] T. R. Mohan Rao ( Alternate ) 
+Shbi P. S. Ramaswamy Bhandary Metallurgical Corporation Ltd, Bombay 
+
+Shri M. K. Rao Indian Non-Ferrous Metals Manufacturer* s 
+
+Association. Bombay 
+Shbi P. B. Rao Directorate of Warships Projects (Navy), New 
+
+Delhi 
+
+Shri K. R. Naib ( Alternate ) 
+Shbi D. K. Sbhqai. Leader Engineering Works, Jalandhar 
+
+Additional Director (Met), Ministry of Railways 
+M & G Directorate RDSO, 
+
+LUCKNOW 
+
+Db p. D. Sharma Hindustan Copper Ltd^ Calcutta 
+
+Shri S. C. Sxvabamkrishnan National Metallurgical Laboratory ( CSIR ), 
+
+Jamshedpur 
+ShriJ. Sridhaban Ministry of Steel and Mines 
+
+Shbi P. Sbibam Rapsri Engineering Industries Pvt Ltd, Bangalore 
+
+Shri N. S. Suuana Multimeials Ltd, Kota 
+
+Shbi N. G. RamaebisHNan ( Alternate ) 
+Shri T. R. Taoore Ministry of Defence (DGI) 
+
+Shri P. K. L. P. Ntmankar ( Alternate ) 
+Shbi S. S. Vaidyanathak J. B. Metal Industries Ltd, Bombay 
+
+Shri Y. P. Vu Minerals & Metals Trading Corporation of India 
+
+Ltd, New Delhi 
+Shri K. DHAKSHiNAMtrRTHY ( Alternate ) 
+Shri B. Mukhbrji, Director General, BIS ( Ex-officio Member) 
+
+Director ( Struc & Met) 
+
+Secretary 
+
+ShbtJagmohan Singh 
+
+Deputy Director ( Metals ), BIS 
+
+
+
+IS : 3288 ( Part 1 ) - 1986 
+
+Indian Standard 
+
+GLOSSARY OF TERMS 
+RELATING TO COPPER AND COPPER ALLOYS 
+
+PART 1 MATERIALS 
+
+( Third Revision ) 
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( Part 1 ) ( Third Revision ) was adopted by 
+the Indian Standards Institution on 30 October 1986, after the draft 
+finalized by the Copper and Copper Alloys Sectional Committee had 
+been approved by the Structural and Metals Division Council. 
+
+0.2 IS : 3288 ( Part 1 ) covering terms for cast form and wrought form 
+(main) was first published in 1965 and subsequently revised in 1973 
+and 1981. While reviewing the standard, the Sectional Committee 
+decided to revise Part 1 and issue 7 more parts for making glossary 
+more comprehensive by modifying the definition of several terms and 
+by including many more terms commonly used in copper industry. 
+The parts are: 
+
+Part 1 Materials {third revision) 
+
+Part 2 Unwrought and cast form 
+
+Part 3 Wrought form 
+
+Part 4 Processing 
+
+Part 5 Heat treatment 
+
+Part 6 Finishes 
+
+Part 7 Dimensional surfaces and structural characteristics 
+
+Part 8 Packing 
+
+0.3 This standard is intended mainly to cover technical definitions of 
+terms relating to copper and copper alloys, and it does not necessarily 
+include all the legal meanings of the terms. It is hoped that this 
+standard will help in establishing a generally recognized usage for 
+various terms encountered in the copper industry and eliminate any 
+
+
+
+IS : 3288 ( Part 1 ) - 1986 
+
+confusion which may sometimes arise due to individual interpretation 
+of terms used in the industry. 
+
+0.4 In the preparation of this standard, assistance has been derived 
+from the following: 
+
+a) ISO 197 — Copper and copper alloys — Terms and definitions 
+
+ISO 197/1-1983 —Part 1 Material 
+
+ISO 197/2-1983 — Part 2 Unwrought products ( Refinery 
+shapes ) 
+
+ISO 197/3-1983 — Part 3 Wrought products 
+
+ISO 197/4-1983 — Part 4 Castings 
+
+ISO 197/5-1980 — Part 5 Methods of processing and treatment 
+
+Issued by the International Organization for Standardization 
+( ISO ). 
+
+b) BS 1420 : 1965 Glossary of terms applicable to wrought 
+products in copper, zinc and their alloys, issued by the British 
+Standards Institution, London. 
+
+
+
+1, SCOPE 
+
+!•! This standard (Part 1 ) defines terms used for material in the field 
+of copper and copper alloys. 
+
+2, GENERAL TERMS AND DEFINITIONS 
+
+2.1 Alloy — A metallic substance consisting of the basic element 
+( the elem.ent predom.inating by mass) and alloying elements. 
+
+2.2 Alloying Element — Metallic or non-metallic elements added to 
+or retained in the basic metal for the purpose of giving that metal 
+certain special properties. 
+
+2.3 Impurity — Metallic or non-metallic elements present but which 
+are not intentionally added to or retained by a metal. 
+
+2.4 Wrought Alloy — An alloy primarily intended for the production 
+of wrought products by hot and/or cold plastic deformation. 
+
+2.5 Casting Alloy — An alloy primarily intended for the production 
+of castings. 
+
+2.6 Master Alloy — An alloy intended only for addition to a melt to 
+adjust composition. 
+
+4 
+
+
+
+IS : 3288 ( Part 1 ) - 1986 
+
+2.7 Heat-treatable Alloy — An alloy capable of being changed in its 
+properties by suitable thermal treatment. 
+
+2.8 Non Heat-treatable Alloy — An alloy strengthened by cold 
+working only and incapable of being substantially strengthened by 
+thermal treatment. 
+
+3. SPECIFIC TERMS AND DEFINITIONS 
+
+3.1 Unrefined Copper 
+
+3.1.1 Copper Matte — An intermediate product consisting mainly of 
+ferrous and cuprous sulphides, which is oxidized in convertors to 
+produce metallic copper, usually termed blister copper. 
+
+3.1.2 Black Copper — An impure form of copper produced by smelting 
+impure copper scrap and/or oxidized copper ores, usually in a shaft 
+furnace. 
+
+3.1.3 Blister Copper — An impure form of copper produced by blowing 
+air through molten copper matte. During the conversion process 
+sulphur, iron and other impurities are oxidized. The copper content 
+is normally above 96 percent. 
+
+3.1.4 Cement Copper — An impure, finely divided mixture of copper 
+and copper oxide obtained by precipitation of copper usually by iron 
+( cementation ) from aquous solution of copper compounds. The copper 
+content, dry basis, varies Mndely, usually 50 percent and above, 
+
+3.2 Types of Copper 
+
+3.2.1 Oxygen-Free Copper — Copper containing less than 10 ppm 
+oxygen. 
+
+3.2.2 Tough Pitch Copper — Copper containing less than 0*06 percent 
+oxygen, either electrolytically or fire refined, cast in the form of 
+refinery shapes, containing a controlled amount of oxygen for the 
+purpose of obtaining a level set in the casting. By extension, 
+the term is applicable to fabricators products made therefrom. 
+
+3.2.3 Electrolytic Copper ( ETP ) — Copper, of any origin, refined by 
+electrolytic deposition. Usually when this term is used alone, it refers 
+to electrolytic tough pitch copper. This designation applies to the 
+following. 
+
+3.2.3.1 Cathodes, that are the direct products of refining operation. 
+
+
+
+IS : 3288 ( Part 1 ) - 1986 
+
+3.2.3.2 Electrodeposited copper, cast from melted cathodes into 
+refinery shape, suitable for hot or cold working or both and by 
+extension, fabricators products made therefrom. 
+
+3.2.3.3 Electrodeposited copper, cast into ingot or ingot bar, 
+suitable for remelting. 
+
+3.2.4 Fire- Refined Copper — Copper of any origin or type, finished by 
+furnace refining. Usually when the term 'fire refined copper* is used 
+alone, it refers to fire-refined tough pitch copper. This designation 
+applies to the following: 
+
+a) Copper cast in the form of refinery shapes suitable for hot or 
+cold working or both, and by extension, fabricators' products 
+made therefrom (FRTP-1). 
+
+b) Ingot or ingot bar suitable for remelting ( FRTP-2 ). 
+
+3.2*5 Fire-RefiMed High Conductivity Copper ( FRHC ) — Copper which, in 
+the annealed condition, has a minimum electrical conductivity 
+of 100 percent of International Annealed Copper Standard ( lACS), 
+
+3.2.6 Deoxidized Copper — Copper cast in form of refinery shapes, 
+produced free from cuprous oxide through the use of deoxidizers. By 
+extension, the term applies to fabricators' products made therefrom. 
+
+3.2.6.1 Deoxidized Copper High Residual Phosphorus ( DHP ) — Copper 
+deoxidized by phosphorous, usually residual in excess. It is not 
+susceptible to hydrogen embrittlement but is of relatively low electrical 
+conductivity due to the amount of phosphorus present. 
+
+3.2.6.2, Deoxidized Copper Lower Residual Phosphorous ( DLP ) — Copper 
+deoxidized by phosphorous, usually has residual in small quantity. It 
+is not susceptible to hydrogen embrittlement and has electrical 
+conductivity of 90 percent lACS. 
+
+3.2.7 Arsenical Tough Pitch Copper ( ATP ) — Copper containing arsenic 
+in amounts as agreed to between the supplier and the purchaser, and 
+are produced tough pitch variety. 
+
+3.2.B Phosphorus Deoxidized Arsenical Copper ( DP A ) — Copper deoxidized 
+by phosphorus and containing arsenic in amounts as agreed to between 
+the supplier and the purchaser. 
+
+3.3 Method of Refining — The types of copper listed under 3.2 
+originate fiom one or more of the following refining methods. 
+
+3.3.1 Electrolytic Refining — A process to purify copper by electrolytic 
+desposition using soluble anodes. 
+
+
+
+IS : 3288 ( Part 1 ) - 1986 
+
+3.3.2 Electro-winning — A process to produce copper by electrolytic 
+deposition from an electrolyte using insoluble anodes. 
+
+3.3.3 Fire Refining — A process to refining copper by oxidation and 
+subsequent reduction in the molten state. 
+
+3.4 Copper Alloys 
+
+3.4.1 Brass — Any copper alloy with zinc as the principal alloying 
+element with or without small quantities of some other elements. 
+
+3.4.2 Bronze — A term originally used for referring to copper alloys 
+having tin as the only or principal alloying elements. In modern 
+usage the term 'bronze' is seldom used alone; and the term 'Phosphor 
+Bronze' or 'Tin Bronze' is used for indicating copper-tin alloys. In 
+fact, the term 'Bronze', together with a suitable qualifying adjective 
+has, in recent years, been intended to apply to any of a great variety of 
+copper alloys. 
+
+3.4.3 Mickel'Silver — Copper alloy containing nickel and zinc, 
+sometimes called German Silver. 
+
+3.4.4 Cupro Nickel — A copper alloy composed of copper and nickel 
+with small addition of elements such as iron and manganese. 
+
+3.4.5 Aluminium Bronze — Alloys of copper and aluminium, with or 
+without other element when other elements are present, aluminium 
+predominates by mass over each of other elements. 
+
+3.4.6 High Copper — Copper containing very low percentage of 
+alloying elements say up to about 2 percent. 
+
+
+
+INTERNATIONAL SYSTEM OF UNITS { SINUITS ) 
+
+
+
+Base Units 
+
+
+
+
+
+
+
+
+QjCTANTITY 
+
+
+Unit 
+
+
+Symboi. 
+
+
+
+
+Length 
+
+
+metre 
+
+
+m 
+
+
+
+
+Mast 
+
+
+kilogram 
+
+
+kg 
+
+
+
+
+Time 
+
+
+second 
+
+
+9 
+
+
+
+
+Electric current 
+
+
+ampere 
+
+
+A 
+
+
+
+
+Thermodynamic 
+
+
+kelvin 
+
+
+K 
+
+
+
+
+temperature 
+
+
+
+
+
+
+
+
+Luminous intensity 
+
+
+candela 
+
+
+cd 
+
+
+
+
+Amount of substance 
+
+
+mole 
+
+
+mol 
+
+
+
+
+Supplementary Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symboi* 
+
+
+
+
+Plane Angle 
+
+
+radian 
+
+
+rad 
+
+
+
+
+Solid angle 
+
+
+steradisin 
+
+
+sr 
+
+
+
+
+Derived Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+DKriNITION 
+
+
+Force 
+
+
+ne-wton 
+
+
+N 
+
+
+IN « 1 kg.m/s« 
+
+
+Energy 
+
+
+joule 
+
+
+J 
+
+
+IJ == 1 N.m 
+
+
+Power 
+
+
+watt 
+
+
+W 
+
+
+1 W - I J/s 
+
+
+Flux 
+
+
+weber 
+
+
+Wb 
+
+
+1 Wb = 1 V.S 
+
+
+Flux density 
+
+
+tesla 
+
+
+T 
+
+
+IT =1 Wb/m« 
+
+
+Frequency 
+
+
+hertz 
+
+
+Hz 
+
+
+1 Hz = 1 c/s (s-^) 
+
+
+Electric conductance 
+
+
+Siemens 
+
+
+S 
+
+
+IS =1 A/V 
+
+
+Electromotive force 
+
+
+volt 
+
+
+V 
+
+
+IV «= 1 W/A 
+
+
+Pressure, stress 
+
+
+pascal 
+
+
+Pa 
+
+
+1 Pa = 1 N/m» 
+
+
+
+BUIIEAU OF INDIAN STANDARDS 
+
+
+
+Mansk Bhavan, I Bahadur Shah Zafaf Marg. N£W DELHI llOOIti 
+r«|*ph»ne»: 331 SI 3 1, 73 1 13 n Taiagrami: Manihtanith* 
+
+( Cnmmon la aJJ Otf\i^9s ) 
+
+
+
+*WQ«[em : M«n(ikelayai E9 MtDC, Maro!j Andhirl (Eatt), 
+BOMBAY 40M«3 
+
+fEnstern : 1/14 C.IT. Sch«niB VII M, Vj,P. Road, ManlklAFa. 
+CALCUTTA 70065* 
+
+Norlharn : SCO 44& 449. Seclcr 35'C. 
+CHANDIGARH llCO^e 
+
+SotJtiittm I C.tTr CActipu», MADRAS HQtlS 
+
+'Piiif)pak\ NurmDhamad ShaLhh Marg, Knanpur. AHMADABAD 3BODI91 
+
+T' Block, Unity Bidg. Narasimharaja Sttuare, BAKGALORE UODOS 
+
+GingtjtrJ Complex, Gth Floor, BhadbhBElii fiond. T.T. Na^ar, 
+eHOPAU uaiHa 
+
+Plel No. BZ/aa, UwJ9 Road, BHUBANESHWAR 75 VIMS 
+
+»j9. Ward Nd. 29, R. €. BaruB Road, 5th By elans. GyWAHATI 7Sl[H)3 
+
+5-B-S«C L^ N. Gupta Marg (Nanripallr Station R.f»d), HYDERABAD 5aOE>ai 
+
+Ri^ YiJdliJMer Marg, C 3cili«m&» JAIPUR SOgOtiS 
+
+11TK1B B Sarvodaja Nagar, KANPUR M8M5 
+
+Patllpuira |ndu«tnal lEatata, PATNA BQ0013 
+
+Hart«K Bldg {2nd FEoor), Rly Staljon Road, TRIVANORUM E;99{H91 
+
+/flj^wf^on 0/?Tc« (With Sal a Point): 
+
+ii'uit\pan\a]\2iii'A W«st Mlgti Cqu^I Ratti, Bha/ampalh ExCanaion 
+NAGPUR 440010 
+
+Inantulton ot EnglnaerE (Jfidia) Buddlnfi, iKZ 5hlva]l Nayar, PUNE 41100S 
+
+
+
+32 i^ 95 
+
+3e £4 gg 
+
+J 218 43 
+t 310 41 
+
+1 -11 
+
+
+
+24 47 
+
+pa ifl 
+
+
+
+{ 
+
+
+
+^Saleai Offica In Bombay la at NDvelty Chambefa, firanl Road. 
+BDinbDy 400007 
+
+tSftJM CUTlcft In Car^ijlli Ji a( 5 Chowrlngha* Appraaeh, P,0- 
+Princap 3ire«t, Cn.tcutta TCH3Q72 
+
+
+
+Sfl3 4a 
+£493 49 
+
+22 4ff 9S 
+
+««7 16 
+
+5 3a 27 
+
+Sd 10 3$ 
+f BS4 7t 
+
+f 21 €B 76 
+
+1 SI OS §S 
+
+7«e3T 
+f S171 
+
+5 24 as 
+
+B2iS 2^ 
+
+fi7 6B 00 
+
+
+
+PrJntid ftJ AiMt Prett. Niw DalbirincUa 
+
+
+

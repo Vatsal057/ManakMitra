@@ -1,0 +1,2020 @@
+**************** 
+
+
+
+^ tOTH: 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" ' 
+
+
+
+IS 4283 (1981): Hot air fan [ETD 5: Electric Fans] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+^*-:gv 
+
+
+
+
+^^35^* 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 4283- 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR HOT AIR FAN 
+
+(First Revision) 
+
+
+
+First Reprint AUGUST 1993 
+
+
+
+UDC 621-63-83: 697-38 
+
+
+
+© Copyright 1982 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr 7 September 1982 
+
+
+
+IS : 4283 - 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR HOT AIR FAN 
+
+( First Revision J 
+
+Electric Fans Sectional Committee, ETDC 5 
+
+Chairman Representing 
+
+•Shri V. A. Krishnamurthy Central Public Works Dcpartmenl, New Delhi 
+
+Members 
+
+Cdr S. C. Arora Naval Headquarters ( Ministry of Defence ) 
+
+I.T V. T. Rajan ( Alternate ) 
+Prof ( Dr ) J. K. Choudhury In personal capacity { Jadavpur University, 
+
+Calcutta ) 
+Dr R. N. Dhar National Physical Laboratory ( CSIR ), New 
+
+Delhi 
+Shri K. L. Garo Directorate General of Supplies & Disposals 
+
+( Inspection Wing ), New Delhi 
+Shri R. V. Narayanan ( Alternate ) 
+Shri P. Ghosh Fan Makers' Association of India, Calcutta 
+
+Shri A. D. Nangi.a ( Alternate ) 
+Shri S. N. Ghosh Association of Indian Engineering Industry, 
+
+New Delhi 
+( oiNT Director Standards Railway Board ( Ministry of Railways ) 
+
+( Electrical )-4 
+
+Dffoty Director Stanoards 
+( Electrical )-D1 ( Alternate ) 
+Shri B. K. Joshi Matchwel Electricals ( India ) Ltd, Punc 
+
+Shri G. L. KtswANi Directorate General of Technical Development, 
+
+New Delhi 
+Shri A. R. Kesavalu ( Alternate ) 
+Shri V. K. Maini Crompton Greaves Ltd, Bombay 
+
+Shri S. H. Mane ( Alternate ) 
+Shri B. Mukhopadhyay National Test House, Calcutta 
+
+Shri J. P. Srivastava ( Alternate ) 
+,H ''.HI M. A. J. Parthasarathy Engineer-in-Chief's Branch, Army Headquarters 
+
+Maj R. K. Suri ( Alternate ) 
+
+( Continued on page 2 ) 
+
+♦Shri V. A. Krishnamurthy was the Chairman for the meeting in which this standard 
+^11 ■ finalized. 
+
+
+
+(g) Copyright 1982 
+BUREAU OF INDIAN STANDARDS 
+This publication is protected under the Indian Copyright Act (XIV of 1957 ) and 
+reproductioD in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infrigement of copyright under the said Act. 
+
+
+
+IS : 4283 - 1981 
+
+
+
+( Continued from page 1 ) 
+
+Members 
+
+Shri N. p. S. Shinh 
+Shri G. S. Srivastava 
+
+Shri J. P. Gupta ( Alternate ) 
+Surveyor of Works 
+
+( El.BCTRICAL )-I 
+
+Shri S. P. Sachdev, 
+
+Director ( Elec tech ) { Secretary ) 
+
+
+
+Representing 
+
+Jay Engineering Works Ltd, New Delhi 
+Metallurgical & Engineering Consultants ( India ) 
+Ltd, Ranchi 
+
+Central Public Works Department, New Delhi 
+
+Director General, ISI ( Ex-officio Member ) 
+
+
+
+AMENDMENT NO. 1 JANUARY 1994 
+
+TO 
+
+IS 4283 : 1981 SPECIFICATION FOR HOT AIR FAN 
+
+( First Revision) 
+
+( Page 23, clause A-3-1 ) — Add Che following after Ihis clause: 
+
+'Tbese mcasurcmenls shall be made without Ibc beater on, so that ancinoincter 
+measures air velocity.' 
+
+( Page 24, clause A-4 ) — Substitute the following for the existing matter 
+
+'A-1 Hoi air temperature will be measured, may be in the same direclioii, 
+independently by means of thermometer, under temperature siai)ili/ecl within 
+the duct. The thermometer shall be placed at a distance v + 50 nun Irom the 
+hot air fan, in each position. The average of all readings is taken as the 
+temperature of the hot air.' 
+
+
+
+(ETD05) 
+
+
+
+Reprography Unit, BIS, New elhi, India 
+
+
+
+AMENDMENT NO. 2 JUNE 1995 
+
+TO 
+
+IS 4283 : 1981 SPECIFICATION FOR HOT AIR FAN 
+
+( First RtvisioH ) 
+
+( Page 14, clause i J ) — Substitute tbe following for the exisliiig clause: 
+
+'6.2 The volume and temperature rise of the hot air at the points deGned in 
+Appendix A shall be measured and tbe avenge value shall not be less than that 
+the minimum value declared by tbe manufacturer.' 
+
+I Page 14, clause 7.1(g) ] — Substitute the following for the existing: 
+g) Minimum air volume, and' 
+
+{ Page 14, clause 7.3(h) ] — Substitute the following for the existing: 
+
+'h) Temperature rise of the hot air when tested in accordance with 8.4.1.' 
+
+(Amendment No. I, January 1994, last para) — Substitute clause No. 'A-4' 
+/or'A-r 
+
+
+
+( ETD 5 ) 
+
+
+
+Repiognphy Unit. BIS, New Delhi. India 
+
+
+
+AMENDMENT NO. 3 SEPTEMBER 2007 
+
+TO 
+IS 4283 : 1981 SPECIFICATION FOR HOT AIR FAN 
+
+( First Revision ) 
+
+[Page 14, claidsc 7.1(f) ] — Insert the following after 7.1(f) and renumber 
+7.1(g) and 7.1(h); 
+
+'g) Rated air velocity; 
+h) Rated air temperature;' 
+
+
+
+(ET 32) 
+
+
+
+Reprography Unil, BIS. New Delhi. India 
+
+
+
+IS : 4283 - 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR HOT AIR FAN 
+
+( First Revision ) 
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( First Revision ) was adopted by the Inaian 
+Standards Institution on 7 September 1981, after the draft finalized by the 
+Electric Fans Sectional Committee had been approved by the Electrotechnical 
+Division Council. 
+
+0.2 This standard was originally published in 1967. This revision has been 
+undertaken to: 
+
+a) Incorporate additional safety requirements and methods of test 
+regarding safety aspects, such as protection against electric shock, 
+moisture resistance, creepage distances and clearances, and align 
+other safety requirements with IS : 302-1979* as far as applicable. 
+
+b) Include air delivery test ( including temperature ) for evaluating the 
+performance. 
+
+c) Include the experience gained in the field since publication of the 
+earlier version. 
+
+0.3 IS : 302-1979* to which references have been made in this standard 
+regarding some safety aspects is a necessary adjunct to this standard. Should, 
+however, any deviations exist between IS : 302-1979* and those of this 
+standard, the provisions of the latter shall apply. 
+
+0.4 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expressing 
+the result of a test, shall be rounded off in accordance with IS : 2-19601. The 
+number of significant places retained in the rounded off value should be 
+the same as that of the specified value in this standard. 
+
+
+
+'General and safety requirements for household and similar electrical appliances 
+( fifth revision ). 
+
+tRuIes for rounding off numerical values ( revised ). 
+
+
+
+IS : 4283 - 1981 
+
+1. SCOPE 
+
+1.1 This standard specifies the requirements and methods of test for hot air 
+fans designed for connection to supply at voltages not exceeding 250 V ac 
+single-phase or dc. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions shall apply. 
+
+2.1 Hot Air Fan — An electrical appliance incorporating a fan and heating 
+elements, the fan blowing air through the heating elements. 
+
+2.2 Rating — A statement of the operating characteristics assigned to the 
+hot air fan by the manufacturer when tested in accordance with 8. 
+
+23 Rated Voltage — The voltage assigned to the fan by the manufacturer 
+and marked on it. 
+
+2.4 Rated Voltage Range — The voltage range assigned to the hot air fan by 
+
+the manufacturer expressed by its upper and lower limits and marked on it. 
+
+2.5 RatM Frequency — In case of an ac operated appliance, the frequency 
+assigned to the fan by the manufacturer and marked on it. 
+
+2.6 Rated Frequeny Range — The limits Of the frequency assigned to the hot 
+air fan by the manufacturer and marked on it. 
+
+2.7 Rated Input — The input under conditions of normal load and at 
+normal operating temperature assigned by the manufacturer. 
+
+2.8 Power Supply Cord — A flexible cable or cord, for connection to supply, 
+fixed to or assembled with the appliance according to one of the following 
+methods: 
+
+Type X attachment which denotes a method of attachment such that the 
+flexible cable or cord can easily be replaced, without the aid of special 
+purpose tools, by a flexible cable or cord not requiring any special 
+preparation; 
+
+Type M attachment which denotes a method of attachment such that 
+the flexible cable or cord can easily be replaced, without the aid of special 
+purpose tools, by a special cable or cord with, for example, a moulded-on 
+cord guard or crimped terminations; 
+
+Type Y attachment which denotes a method of attachment such that the 
+flexible cable or cord can be replaced only with the aid of special purpose 
+tools normally available only to the manufacturer or his agent; 
+
+Note — Type Y attachment may be used either with common fkxible cables or cords 
+or with special cables or cords. 
+
+
+
+IS : 4283 - 1981 
+
+2.9 Basic Insulation — Insulation applied to live parts to provide basic 
+protection against electric shock. 
+
+Note — Basic insulation does not necessarily include insulation used exclusively 
+for functional purposes. 
+
+2.10 Supplementary Insulation — An independent insulation applied in 
+addition to the basic insulation, in order to ensure protection against electric 
+shock in the event of a failure of the basic insulation. 
+
+2.11 Double Insulation — Insulation comprising both basic insulation and 
+supplementary insulation. 
+
+2.12 Reinforced Insulation — A single insulation system applied to live parts, 
+which provides a degree of protection against electric shock equivalent to 
+double insulation under the conditions specified in this standard. 
+
+Note — The term • insulation system ' does not imply that the insulation must be 
+one homogeneous piece. It may comprise several layers which cannot be tested singly 
+as supplementary or basic insulation. 
+
+2.13 Visibly Glowing Heating Element — A heating element which, when the 
+appliance is assembled ready for use, is either partly or completely visible 
+from the outside of the appliance, and the temperature of which is at least 
+650''C when the appliance has been operated under conditions of normal use 
+until steady state conditions arc established, the supply voltage being such 
+that the input is equal to the minimum rated input. 
+
+2.14 Normal Load — The load to be applied in such a way that the stress 
+imposed corresponds to that occurring under normal condition of use, 
+heating elements being operated as in normal use. 
+
+2.15 Class I Type Hot Air Fan and Regulator — Denotes the otic in which 
+protection against electric shock does not rely on basic insulation only, but 
+which includes an additional safety precaution in that accessible conductive 
+parts are connected to the protective earthing conductor in the iixcd wiring 
+of the installation in such a way that accessible conductive parts cannot 
+become live in the event of a failure of the basic insulation. 
+
+Note 1 — Class I type may have parts with double insulation or reinforced 
+insulation, or pans operating at safety extra — low voltage. 
+
+NoTT! 2 — For hot air fans and regulators intended for use with a flexible cord or 
+cable, this provision includes a protective conductor as part of the flexible cord or 
+cable. 
+
+2.16 Class II Type Hot Air Fan and Regulator — Denotes the one in which 
+protection against electric shock does not rely on basic insulation only, but 
+in which additional safety precaution, such as double insulation or reinforced 
+insulation, are provided, there being no provision for protective earthing or 
+reliance upon installation conditions. 
+
+
+
+IS : 4283 - 1981 
+
+Such hot air fans and regulators may be one of the following types: 
+
+a) Having a durable and substantially continuous enclosure of insu- 
+lating material which envelops all metal parts, with the exception of 
+small parts, such as name-plates, screws and rivets, which are 
+isolated from live parts by insulation at least equivalent to reinfored 
+insulation; such an appliance is called an insulation — encased Class 
+II appliance. 
+
+b) Having a substantially continuous metal enclosure in which double 
+insulation is used throughout, except for those parts where rein- 
+forced insulation is used because the application of double insula- 
+tion is manifestly impracticable; such an appliance is called a metal 
+— encased Class II type. 
+
+c) One which is a combination of types ( a ) and ( b ). 
+
+NoTF. 1 — The enclosure of an all-insulated Class 11 type may form a part or the 
+whole of the supplementary insulation or of the reinforced insulation. 
+
+Note 2 — If fans and regulators with double insulation and/or reinforced insulation 
+throughout has an earthing terminal or earthing contact, it is considered to be of 
+Class I. 
+
+Note 3 — Class II type may have parts operating at safety extra-low voltage. 
+
+2.17 Portable Appliance — Either an appliance which is moved while in 
+operation or an appliance which can easily be moved from one place to 
+another while connected to supply. 
+
+2.18 Stationary Appliance — Either a fixed appliance or an appliance having 
+a mass exceeding 18 kg and not provided with a carrying handle. 
+
+2.19 Fixed Appliance — An appliance which is fastened to a support or 
+otherwise secured in a specific situation. 
+
+2.20 Thermostat — A temperature sensing device, the operating temperature 
+of which may be either fixed or adjustable and which, during normal 
+operation, keeps the temperature of an appliance or parts of it, between 
+certain limits by automatically opening and closing a circuit. 
+
+2.21 Thermal Cut-Out — A device which, during abnormal operation, limits 
+the temperature of an appliance or of parts of it, by automatically opening 
+the circuit or by reducing the current and which is so constructed that its 
+settting cannot be altered by the user. 
+
+2.22 Clearance — The shortest distance between two conductive parts or 
+between a conductive part and bounding surface of an appliance, measured 
+through air. 
+
+
+
+IS : 4283 - 1981 
+
+2.23 Creepage Distance — The shortest path between two conductive parts, 
+or between a conductive part and bounding surface of an appliance, 
+measured along the surface of the insulating material. 
+
+2.24 All-pole Disconnection — Disconnection of both supply conductors by 
+a single switching action for single phase ac appliances and dc appliances; or 
+for appliances to be connected to more than two supply conductors, 
+disconnection of all supply conductors except the earthed ( grounded ) 
+conductor by a single switching action. 
+
+Note — Protective earth conductor is not considered to be a supply conductor. 
+
+2.25 • Accessible Part or Accessible Surface — Is a part or surface which can 
+be touched by means of standard test probes. 
+
+2.26 Type Tests — Tests carried out to prove conformity with the require- 
+ments of this standard. These are intended to prove general qualities and 
+design of a given type of fan. 
+
+2.27 Routine Tests — Tests carried out on each fan to check the essential 
+requirements which are likely to vary during production. 
+
+2.28 Acceptance Tests — Tests carried out on samples selected from a lot 
+for the purpose of verifying the acceptabihty of the lot. 
+
+2.28.1 Lot — All fans of the same type, grade, category and rating, 
+manufactured by the same factory during the same period, using the same 
+process and materials. 
+
+3. RATING 
+
+3.1 Rated Voltage -- The rated voltage of the hot air fan shall be 240 V. 
+However, 230 V is also permitted for the time being. 
+
+3.2 Rated Input — The rating in watts for hot air fans should preferably be 
+chosen from the following values: 
+
+500, 750, 1 000, 1 250, 1 500, 2 000 and 2 500. 
+
+3.3 Rated Frequency — The rated frequency shall be the standard frequency 
+of 50 Hz. 
+
+Note — Nevertheless, fans made for other voltage and frequencies shall be considered 
+to comply with this specification provided they do so in all other relevant respects. 
+
+4. DESIGN AND GENERAL CONSTRUCTION 
+
+4.1 General — The fan shall be so designed and constructed that in normal 
+use and under fault conditions, it ensures: 
+
+a) personal safety against electric shock, 
+
+7 
+
+
+
+IS : 4283 - 1981 
+
+b) personal safety against the effects of excessive temperature, and 
+
+c) safety against fire. 
+
+4.2 EDclosure — ■ The enclosure of the hot air fan shall be reasonably rigid 
+and shall have no openings giving access to live parts other than openings 
+necessary for use and working of the fan. Where such openings are 
+necessary, sufficient protection against accidental contact with live parts and 
+functionally insulated parts shall be provided. Lacquering or enamelling is 
+not considered as adequate protection or insulation for this purpose. 
+
+4.3 Guard — The guard shall be of robust construction and securely attached 
+to the fan. If the guard is so designed or attached that it, or any portion 
+of it, may be removed, lifted or swung to one side then the method of 
+attachment shall be such that, when replaced, the guard, or any detachable 
+or movable portion of it may not be accidentally dislodged from its work- 
+ing position during normal use. When the guards are in two pieces, positive 
+locking arrangement to keep the two pieces together shall be made. 
+
+4.4 Switches 
+
+4.4.1 Fan intended for connection direct to the main without flexible cords 
+shall be fitted with at least one double pole switch, connected so as to isolate 
+all live parts liable to be touched, when replacing an interchangeable clement 
+or lamp. 
+
+4.4.2 If single pole switches are provided they shall be meant to control 
+the live conductor of the circuit. 
+
+4.5 Handles, Operating Levers, Knobs, Etc 
+
+4.5.1 Handles, operating levers, knobs and the like, the shafts of which 
+may become live in the case of an insulation fault, shall be of insulating 
+material or shall be adequately covered by insulating material. 
+
+4.5.2 All switches and controls on wall-mounled hot air fans shall be 
+operated by a non-conducting cord or rod sufficiently long to render in- 
+advertent contact with the live parts of room heater unlikely. It shall be 
+possible to replace the cord or rod without removing parts giving access to 
+live parts, or removing the fan from its mounting. 
+
+4.5.3 Handles, knobs, grips and the like shall not work loose in normal 
+use. If these are used to indicate the operational position of the switches or 
+the like, the method of fixing shall be such as to obviate them being fixed 
+in an incorrect position. 
+
+
+
+IS : 4283 - 1981 
+
+
+
+4.6 Internal Wiring 
+
+4.6.1 Internal wiring and heating wires shall be either so rigid and fixed or 
+insulated that creepage distances and clearances do not decrease in normal 
+use beyond the minimum specified in 5.6. 
+
+4.6.2 The electrical connections between the heating elements and 
+switches or between the elements and external connecting leads shall be 
+effected without solder, by suitable connectors or teminals which shall be 
+so placed that the temperature of any part of switch or terminals or conductor 
+to which the insulated cables are connected do not exceed the safe permisible 
+temperatue for the respective parts. 
+
+4.6.3 Beads and other ceramic insulators on live wires shall be so fixed 
+or supported that they do not change their positions and they shall not rest 
+on sharp edges. 
+
+5. GENERAL AND SAFETY REQUIREMENTS 
+
+5.1 Protection Against Electric Shock — Hot air fans shall be so constructed 
+and enclosed that there is adequate protection against accidental contact 
+with live parts and for Class II type, with metal parts separated from live 
+parts by functional insulation only. This requirement is applicable for all 
+positions in normal use. 
+
+5.2 Electrical Insulation Under Normal Operating Condition 
+
+5.2.1 The electrical insulation of hot air fans at operating temperature 
+shall be adequate ( see 5.2.2 and 5.2.3 ) and the leakage current in normal 
+use ( see 5.2.4 ) shall not be excessive. 
+
+5.2.2 When measured according to the method specified in 8.4.8 the 
+insulation resistance shall not be less than 2 Mti. 
+
+5.2.3 The insulation is subjected for one minute to a voltage of substantial 
+sine wave-form having a frequency of 50 Hz as given in 8.4.7. 
+
+5.2.4 When measured according to the method given in 8.4.6, the leakage 
+current shall not exceed the following limits: 
+
+i) For Class I type hot air fans the leakage current which may flow 
+from the live parts to the accessible parts and metal foil on external 
+insulating material connected together shall not exceed 300 ^A 
+( peak ), that is, 2 10 ftA ( rms ). 
+
+ii) For Class II type hot air fans the leakage current from live part to 
+the inner non-current carrying metal part shall not exceed 300 ^A 
+(peak ) whereas the leakage current from live parts to the metal foil 
+
+
+
+IS : 4283 - 1981 
+
+wrapping ( for all insulated hot air fans ) or the external metal and 
+metal foil wrapping connected together ( for double insiilated hot 
+air fans ) shall not exceed 60 ^A ( peak ), that is, 425 ^A( rms ). 
+
+53 Temperature-Rise 
+
+5.3.1 The hot air fan shall be tested at any cooling air temperature not 
+exceeding 40°C but whatever may be the value of this temperature, the per- 
+missible temperature-rise shall not exceed the values given in Table 1. 
+
+TABLE I TKMPERATURE-RISE LIMITS 
+
+Parts Tiimpcraturf. Rise, "C 
+
+Winding of fan motor, with; 
+
+Class A insulation 60 
+
+Class E insulation 75 
+
+Class B insulation SO 
+
+Wooden supports, walls, ceiling and floor of the test 50 
+
+corner and wooden cabinets 
+
+Pins of appliance inlets 80 
+
+Terminals of fixed fans for supply connection 45 
+
+Handles, grips and the like which, in normal use, are 
+continuously held in the hand and which are made of: 
+
+Metal 1 5 
+
+Porcelain or vitreous material 25 
+
+Moulded material, rubber or wood 35 
+
+Handles, knobs, grips and the likc,^ which in normal use, 
+are held for short periods only ( for example, switches ) 
+and which are made of: 
+
+Metel 20 
+
+Porcelain or vitreous material 30 
+
+Moulded material, rubber or wood 45 
+
+Rubber insulation 35 
+
+PVC insulation ^5 
+
+
+
+5.4 Mechanical Strength 
+
+5.4.1 Hot air fans shall have adequate mechanical strength and be so 
+constructed as to withstand such rough handhng as may be expected in 
+normal use ( see 8.4.11 ). 
+
+10 
+
+
+
+IS : 4283 - 1981 
+
+5.5 Moisture Resistance 
+
+5.5.1 Hot air fans shall be proof against humid conditions which may 
+occur in normal use ( see 8.4.10 ). 
+
+5.6 Crccpage Distances and Clearances 
+
+5.6.1 Crecpage distances and clearances shall be according to the relevant 
+provisions given in 29 of IS : 302-1979*. 
+
+5.7 Stability 
+
+5.7.1 Hot air fans, other than those of fixed type, intended to be used on 
+surface such as floor or a table shall have adequate stability. 
+
+5.8 Thermostats and Thermal Cut-Oats 
+
+5.8.1 Hot air fan shall be provided with a thermostat or a thermal cut-out. 
+Thermostats shall have adequate making and breaking capacity. Thermal 
+cut-outs shall operate reliably. Thermostats and thermal cut-outs shall be 
+so constructed that their setting is not changed appreciably due to heating, 
+vibration, etc, occurring during normal use. The fans shall be so constructed 
+that accidental changing of the setting of the thermostat and thermal cut- 
+out is unlikely to occur. 
+
+5.9 Supply Connection 
+
+5.9.1 Fan shall be provided with either a non-detachable flexible cord or 
+an appliance-inlet. 
+
+5.9.2 Appliance-inlet shall be so placed as to allow easy insertion of 
+connectors. 
+
+5.9.3 Service Cord — The service cord when provided shall be three core 
+flexible cord ( one of the cores being the earthing lead ), of sufficient current- 
+carrying capacity with reference to the rated loading of the fan and complying 
+with IS : 434 ( Part I )-1964t or IS : 694-1 977+. The length of the service 
+cord shall be not less than 20 m. 
+
+5.9.3.1 The cross-sectioaal areas of the conductors of flexible cords or 
+cables shall be such that the current ratings do not exceed the values given 
+in Table 2. 
+
+5.9.3.2 Inlet openings for flexible cords shall be rounded and smooth. 
+
+
+
+•General and safety requirements for household and similar electrical appliances (fifth 
+revision ). 
+
+tSpccification for rubber-insulated cables : Parti With copper conductors { revised ). 
+
+JPVC insulated cables for working voltages up to and including 1 100 volts ( second 
+revision ). 
+
+11 
+
+
+
+IS : 4283 - 1981 
+
+
+
+TABLE 2 CURRKNT RATING 
+
+( Clause 5.9.3.1 ) 
+
+
+
+Current Ra 
+
+
+nNO 
+
+
+Nominal Cross-Sectional 
+Area of Conouctor 
+
+
+A 
+
+
+
+
+mm' 
+
+
+2 
+
+
+
+
+05 
+
+
+5 
+
+
+
+
+0-75 
+
+
+10 
+
+
+
+
+10 
+
+
+15 
+
+
+
+
+1-5 
+
+
+
+5.10 Cord Grip 
+
+5.10.1 Fans with non-detachable flexible cords shall be provided with a 
+cord grip such that the ends of the conductors connected to the terminals 
+are relieved from strain, including twisting, and the outer surface of the 
+cord is not damaged. Make-shift metiiods. such as tying the cord into a 
+knot or tying the end with string, shall not be used. 
+
+5.10.2 The surfaces by which the cord is gripped and any parts with which 
+the cord might come in contact shall be of insulating material or covered 
+with insulating material. The cord grip shall be adaptable and suitable for 
+the types of cord specified by the manufacturer of the fan. 
+
+5.11 Terminals 
+
+5.11.1 The materials, design and proportions of all terminals shall be such 
+that connections made thereto do not slacken or overheat under normal 
+conditions of use. Terminal shall be rust-proof. 
+
+5.11.2 In pillar type terminals the screw shall be of sufficient length to 
+extend to the far side of the terminal hole and shall be of a diameter approxi- 
+mately equal to that of the hole. The ends of the screws shall be rounded 
+or chamfered to prevent undue damage to the conductors; the inside of the 
+hole shall be smooth and continuous. 
+
+5.11.3 A self-tapping screw shall not be used as a terminal screw for 
+conductors. 
+
+5.12 Screws 
+
+5.12.1 Screws and rivets which serve electrical as well as mechanical 
+connections, shall be locked against loosening. Spring washers may provide 
+satisfactory locking. For rivets a non-circular shank or an appropriate 
+
+12 
+
+
+
+IS : 4283 - 1981 
+
+notch may be sufficient for locking. Sealing compound or the like provides 
+satisfactory locking only for screw connections not subject to torsion during 
+normal use. 
+
+5.12.2 Self-tapping screws may be used for connections ensuring earth 
+continuity provided such screws are duplicated and are not required to be 
+removed during the use or servicing of fan. 
+
+5.13 Earthing 
+
+5.13.1 Accessible metal parts of Class I type hot air fans, which may 
+become live in the event of an insulation fault, shall be permanently and 
+reliably connected to an earthing terminal or termination within the appliance, 
+or to the earthing contact of the appliance inlet. Earthing terminals and 
+earthing contacts shall not be electrically connected to the neutral terminal, 
+if any. 
+
+Class II hot air fans shall have no provision for earthing. 
+
+5.14 Finish 
+
+5.14.1 All surfaces of the assembly and mechanism of the fan shall be of 
+corrosion resisting material or shall be suitably and durably protected against 
+corrosion. 
+
+5.15 Radio and Television Interference 
+
+5.15.1 Radio and television interference suppressors if provided shall be 
+so fitted that they do not adversely affect the safety of the appliance. 
+
+5.16 Silent Operation 
+
+5.16.1 Precautions shall be taken in the manufacture of fans and regulators 
+to ensure a reasonable degree of silence at all speeds. 
+
+Note — The need for specifying limits of noise levels ( acoustical ) of the fans 
+is recognized. However, it has nol lieen found possible to specify these limits at 
+present on account of: 
+
+a) dependency of these limits on the actual location of the fans, 
+
+b) lack of data on the acceptable noise levels tor different applications, and 
+
+c) lack of agreed definition of noise level and method of evaluating the same. 
+
+The criterion of noise level may, therefore, be subject to an agreement 
+between the manufacturer and the purchaser. 
+
+6. PERFORMANCE REQUIREMENTS 
+
+6.1 The input to the hot air fan when measured according 8.4.2 shall not 
+deviate from the rated value by more than ± 10 percent. 
+
+13 
+
+
+
+IS : 4283 - 1981 
+
+6.2 The volume and temperature of hot air at the points defined in 
+Appendix A shall be measured and the average value shall not deviate from 
+the declared value by more than ± 10 percent. 
+
+7. MARKING 
+
+7.1 Each fan shall be indelibly marked with the following information: 
+
+a) Manufacturer's name, trade name of fan ( if any ) and number; 
+
+b) Rated voltago(s) or voltage range; 
+
+c) Type of hot air fan, ac or dc; 
+
+d) Frequency or frequency range of power supply, if of ac; 
+
+e) Input in watts; 
+Size of fan; 
+
+g) Rated air volume; and 
+
+h) Country of manufacture. 
+
+Note — Items ( a ), ( g ) and ( h ) may not be marked if specifically desired by the 
+purchaser. 
+
+7.2 In the case of a fan provided with an earthing terminal or contact, it 
+shall be indelibly marked with the symbol ^ 
+
+7.3 The manufacturer may be requested to supply the following additional 
+information: 
+
+a) Power factor; 
+
+b) Mounting instructions for wall-mounting hot air fans; 
+
+c) If the temperature-rise of insulation of supply cable exceeds SO'C 
+then instructions for the use of heat resisting cable shall be given; 
+
+d) Type of regulator and number of running positions; 
+
+e) Class of insulation; 
+
+f) Type of bearings; 
+
+g) Instructions for lubrication of bearings; and 
+
+h) Temperature of the hot air when tested in accordance with 8.4.1. 
+
+Note — For appliaoces incorporating fan motor, with a total input not exceeding 
+100 watte, the input marking may be that of heating elements. 
+
+14 
+
+
+
+IS : 4283 - 1981 
+
+7,4 Hot air fans may also be marked with the ISI Certification Mark. 
+
+NoTB — The use of the ISI Certification Mark is governed by the provisions of the 
+Indian Standards Instilulion ( Certification Marie ) Act and the Rules and Regulations 
+made thereunder. The ISI Mark on products covered by an Indian Standard con- 
+veys the assurance that they have been produced to comply with the requirements of 
+that standard under a well-defined system of inspection, testing and quality control 
+which is devised and supervised hy island operated by the producer. ISI marked 
+products are also continuously checked by ISI for conformity lo that standard as a 
+further safeguard. Details of conditions under which a licence for the use of the ISI 
+Certification Mark may lie granted to manufacturers or proce.ssors, may be obtained 
+from the Indian Standards Institution. 
+
+8. TESTS 
+
+8.1 Categories of Tests 
+
+8.1.1 Type Tests — - The tests specified below shall constitute type tests 
+and shall be carried out on two samples of hot air fan of the same type and 
+rating selected preferably at random from a regular production lot: 
+
+a) Hot air out-put ( 8.4.1 ), 
+
+b) Input ( 8.4.2 ), 
+
+c) Temperature-rise ( 8.4.3 ), 
+
+d) Starting of fan motor ( 8.4.4 ), 
+
+e) Earthing connection ( 8.4.5 ). 
+
+f) Leakage current ( 8.4.6 ), 
+
+g) High voltage ( 8.4.7 ), 
+
+h) Insulation resistance ( 8.4.8 ), 
+
+j) Protection against electric shock ( 8.4.9;, 
+
+k) Moisture resistance ( 8.4.10 ), 
+
+m) Mechanical strength and stability ( 8.4.11 ), 
+
+n) Cord grip (8.4.12), 
+
+p) Performance of thermostats and thermal cut-outs ( 8.4,13 ), and 
+
+q) Creepage distances and clearances { 8.4.14 ). 
+
+8.1.1.1 Criteria for acceptance — All samples shall sticccssfully pass 
+all the type tests for proving conformity with the requirements of this 
+standard. If any of the samples fails in any of the type tests, the testing 
+authority at its discretion may call for fresh samples not exceeding twice 
+
+15 
+
+
+
+IS : 4283 - 1981 
+
+the original number and subject them again to all the tests or to the tests in 
+which failurc(s) occurred. No failure shall be permitted in the repeat 
+test(s). 
+
+8.1.2 General Condition of Test 
+
+8.1.2.1 Limits of error of electrical instruments — The error in the indi- 
+cated value of ammeters, voltmeters and wattmeters shall not exceed 05 
+percent of full scale value for instruments used for type tests. For routine 
+and acceptance tests instruments of accuracy class not worse than 2'5 ( see 
+IS : 1248-1968* ) may be used. 
+
+8.1.2.2 Test voltage — Unles otherwise specified, the voltage at which 
+the tests are conducted shall be as follows: 
+
+a) When a rated voltage range is indicated on the nanicplate, the test 
+shall be conducted at the mean of the upper and lower limits of the 
+range provided that the upper limit does not exceed the lower limit 
+by more than 10 percent. 
+
+If the upper limit exceeds this value, the test shall be conducted 
+at the voltage corresponding to either the upper limit or the lower 
+limit whichever is more unfavourable to the particular test. 
+
+b) Fans designed for both ac and dc shall be tested at the most 
+unfavourable conditions. In the case of dc, the possible influence 
+of polarity on the operation of the switching devices shall be taken 
+into account. 
+
+c) If the fan is rated for two or more distinct voltages, the test shall be 
+performed at all these rated voltages. 
+
+8.1.2.3 Thermal conditions 
+
+a) The fans with thermostats, energy regulators, etc, shall be tested 
+under conditions which will prove most exacting to the fan. 
+
+b) Fans with interchangeable heating elements shall be tested with 
+those elements which prove most exacting to the fan. Interchange- 
+able heating elements shall be within the manufacturer's specifica- 
+tion for the hot air fans. 
+
+8.2 Acceptance Tests — The following shall constitute acceptance tests: 
+
+a) Input ( 8.4.2 ), 
+
+b) Starting of fan motor ( 8.4.4 ), 
+
+•Specification for direct acting electrical indicating instruments (first revision ). 
+
+16 
+
+
+
+IS : 4283 - 1981 
+
+c) Earthing connection ( 8.4.5 ), 
+
+d) Leakage current ( 8.4.6 ), 
+c) High voltage ( 8.4.7 ), 
+
+Insulation resistance ( 8.4.8 ), 
+
+g) Protection against electric shock ( 8.4.9 ), and 
+
+h) Performance of thermostats and thermal cut-outs ( 8.4.13 ). 
+
+8.2.1 The method of sampling shall be as agreed to between the supplier 
+and the purchaser. However a recommended method of sampling is given 
+in Appendix B. 
+
+8.3 Routine Tests 
+
+a) Earthing connection ( 8.4.5 ), 
+
+b) Protection against electric shock ( 8.4.9 ), 
+
+c) Flash test ( 8.4.7.5 ), and 
+
+d) A simple running test to verify that the fan is in working order. 
+
+8.4 Schedule of Tests 
+
+8.4.1 Hot Air Output — This test shall be carried out at an ambient 
+temperature of 27 ± 2°C and relative humidity of 65 i 5 percent. The 
+test shall be carried out in accordance with the details given in Appendix A. 
+
+8.4.2 Input — At rated voltage and at normal operating temperature the 
+input shall be measured and it shall conform to 6,1. 
+
+8.4.3 Temperature-Rise 
+
+8.4.3.1 General — Fans normally used on the floor or tables shall be 
+placed on a dull black painted wooden support, away from the walls. 
+Wall-mounting fans shall be mounted on one of the walls as near to the 
+floor or ceiling as they are likely to be mounted in use. Other fans shall 
+be placed in normal position, in a right angle test corner consisting of two 
+dull black painted walls. 
+
+The fan shall be connected to the rated voltage or to the most unfavour- 
+able voltage within the voltage range. 
+
+Temperatures are measured in the case of fans for intermittent opera- 
+tion when maximum values are reached when operated in accordance with 
+manufacturer's instructions and in all other cases when steady temperature 
+is reached. 
+
+17 
+
+
+
+IS : 4283 - 1981 
+
+8.4.3.2 Measurement of temperature — The temperature of motor wind- 
+ings shall be measured by resistance method. Temperature rise ( ^a — 'i ) 
+may be obtained from the ratio of the resistances by the formula: 
+
+t2 4- 235 /?a 
+
+
+
+ti t- 235 Ri 
+
+where 
+
+/?2 = resistance of the winding at temperature tj{°C) at the end of 
+the test, and 
+
+Ri — initial resistance of the winding at temperature fj ("C ) ( cold ). 
+
+From the above, the hot temperature ( ^3 ) may be expressed as: 
+
+'2 = ~ ( '1 + 235 ) - 235 
+
+The temperature of other parts, such as handle and grips, shall be 
+measured by thermometer. 
+
+8.4.3.3 Measurement of cooling air temperature — The temperature of 
+surrounding air shall be measured by at least two thermometers protected 
+against direct blast or hot air from the fan under test or any other hot body 
+in the neighbourhood and kept near the fan under test. For the purpose 
+of this standard, the cooling air temperature shall be considered as the 
+average of readings recorded at ten minutes intervals during the last 30 
+minutes of the test. 
+
+8.4.4 Starting of Fan Motor — The fan motor shall be capable of starting 
+from rest at 85 percent of rated voltage or 85 percent of the lowest rated 
+voltage when the rated voltage range is specified. 
+
+8.4.5 Earthing Connection — The test shall be carried out according 
+to 27.5 of IS : 302-1979*. 
+
+8.4.6 Leakage Current — The test shall be carried out according to 13.2 
+ofIS: 302-1979*. 
+
+8.4.7 High Voltage Test 
+
+8.4.7.1 The source of supply for high voltage test shall be not less 
+than 500 VA. 
+
+8.4.7.2 The high voltage test shall be applied to all new and completed 
+fan motors and regulators in normal working conditions with all parts in 
+place except the capacitors which should be disconnected. 
+
+
+
+'General and safety requirements for household and similar electrical appliances 
+Cfi/'h revision ). 
+
+18 
+
+
+
+IS : 4283 - 1981 
+
+8.4.7.3 An ac test voltage at a frequency of approximately 50 Hz sine 
+wave-form shall be applied and maintained for one minute without showing 
+any kind of breakdown or flashover. 
+
+The test voltage shall be applied as follows: 
+
+a) For fan motors: 
+
+1) Between live parts and body in the case of motors I 500 volts 
+intended to be earthed 
+
+2) Between live parts and other inaccessible metal 1 500 volts 
+parts ( that is, over the functional insulation ) in 
+
+the case of double insulated motors 
+
+3) Between the inaccessible metal parts and the body 2 500 volts 
+( that is, over the supplementary insulation ) in 
+
+the case of double insulated motors 
+
+4) Between live parts and body ( that is, over the 4 000 volts 
+reinforced insulation ) for reinforced insulated 
+
+motors 
+
+b) For regulators: 
+
+1) Between any terminal and the body 1 500 volts 
+
+2) Between the terminals with the regulator in the 1 500 volts 
+'off' position 
+
+8.4.7.4 At the end of one minute, the test voltage shall be removed and 
+the insulation-resistance test conducted as in 8.4.8. 
+
+8.4.7.5 Flash test ( routine test ) — Every fan shall withstand the voltage 
+specified in 8.4.7.3 for one second when it is applied instantaneously. 
+
+8.4.8 Insulation Resistance — The insulation resistance of the fan and its 
+accessories shall be measured with a dc voltage of approximately 500 volts 
+applied between terminals and the body of the fan. 
+
+8.4.9 Protection Against Electric Shock — The test shall be carried out 
+according to 8 of IS : 302-1979*. 
+
+8.4.10 Moisture Resistance — The test shall be carried out according 
+to 15.4 and 16 of IS : 302-1979*. 
+
+8.4.11 Mechanical Strength and Stability 
+
+8.4.11.1 Drop test — The fan shall be allowed to fall in its normal 
+position of use, 50 times on a concrete floor, from a height of 50 mm. 
+
+
+
+'General and safety requirements for household and siooilai electrical appliances 
+( fifth revision ). 
+
+19 
+
+
+
+IS : 4283 - 1981 
+
+After the test, the fan shall show no damage, especially no live parts 
+shall have been made accessible and handles, levers, etc, shall not have moved 
+on their shafts. Damage to paints, small dents or cracks, which do not 
+influence creepage distances or clearances or do not expose live parts, shall 
+be neglected. 
+
+A typical test apparatus is shown in Fig. 1 . 
+
+8.4.11.2 Vibration test — The fan shall be subjected to a vibration test 
+having an amplitude of vibration of 01 mm at a frequency of 50 Hz. The 
+duration of the test shall be 30 minutes. 
+
+After the test, the fan shall show no damage in particular no live parts 
+shall have been made accessible and handles, levers, etc, shall not have 
+moved on their shafts. 
+
+8.4.11.3 Impact test — The fan shall be placed on a horizontal plane 
+and subjected to blows from a sxiitable impact test apparatus. A typical 
+apparatus is described in Appendix F of IS : 302-1979*. 
+
+Three blows shall be applied to every point Uable to damage in use, 
+including handles, levers, and the like. 
+
+After the test, the fan shall show no damage, in particular no live parts 
+shall have been made accessible and handles, levers, and the like shall not 
+haVe moved on their shafts. Damage to paints, small dents, or cracks, 
+which do not influence creepage distances or clearances or do not expose 
+Uve parts, shall be ignored. 
+
+8.4.12 Cord Grip 
+
+8.4.12.1 The fan shall be fitted with a flexible cord of sizes suitable for 
+the fan, the cord grip being fitted normally. The conductors shall be intro- 
+duced into the terminals and the screws, if any, shall be tightened to the 
+extent that the conductors are not easily displaced or removed from that 
+position and it is not possible to push the cord further into the fan. 
+
+8.4.12.2 The flexible cord or cables shall then be subjected for 25 times 
+to a pull without jerks of 100 N or 5 times the weight of the fan, whichever 
+is less, each pull being applied for one second. Immediately afterwards, the 
+cord or cable shall be subjected, for a period of one minute, to a torque fof 
+35 Nm applied nearest to the cord. 
+
+8.4.12.3 During the test no damage shall be caused to the flexible cord 
+or cable. At the end of the test, the cord shall not have been displaced by 
+more than 2 mm and the ends of the conductors shall not have moved by 
+
+
+
+•General and safety requirements for household and similar electrical appliances 
+( fifth revision ). 
+
+20 
+
+
+
+IS : 4283 - 1981 
+
+more than 1 mm in the terminal longitudinally. In order to enable the 
+displacement to be measured, before starting the test a mark is made on the 
+cord or cable under strain at a distance of approximately 2 cm from the 
+cord grip. At the end of the test, the displacement of this mark in relation 
+to the cord grip is measured while the cord or cable is still under strain. 
+
+Terminals shall not break away or be impaired. 
+
+8.4.13 Performance of Thermostats and Thermal Cut-Outs 
+
+8.4.13.0 These tests shall be made on the fan or separately on the 
+thermostats or thermal cut-outs as is most convenient. 
+
+8.4.13.1 Test for thermostat 
+
+i) Test for making and breakinf; capacity ■ — The thermostats shall be 
+laded as follows for making and breaking capacity tests: 
+
+a) Thermostats designed for both ac and dc shall be tested on dc 
+and loaded with 1 25 times the rated current at rated voltage, 
+in a substantially non-inductive circuit; and 
+
+b) Thermostats designed for only ac shall be tested on ac and 
+loaded with 125 times the rated current at I I times the rated 
+voltage with a load power factor of unity. 
+
+The thermostat shall be made to operate thermally 200 times ( 200 
+makes and 200 breaks ) at a rate in accordance with the normal switching 
+frequency inheret to the fan. In case the thermostat is being tested separately, 
+the switching frequency may be increased so far as it does not involve 
+additional risk of failure of the thermostat. 
+
+Observation — During the test, the thermostat shall operate satisfactorily 
+and no sustained arcing shall occur. 
+
+ii) Endurance test — The themostat shall be loaded with its rated current 
+at its rated voltage and shall be made to operate thermally 10 000 
+times ( 10 000 makes and 10 000 breaks ), the other conditions being 
+the same as those specified for breaking and making test 
+[ see 8.4.13.1(1)]. 
+
+Observations 
+
+a) After this test, electrical connections shall not have worked loose, 
+
+b) Thermostat shall withstand a high voltage test ( see 8.4.7 ), and 
+
+c) The insulation between the contact shall withstand a voltage test 
+with twice the rated voltage of the thermostat applied for one 
+minute immediately after the contacts arc opened. 
+
+21 
+
+
+
+IS : 4283 - 1981 
+
+
+
+c 
+
+
+
+xz^ 
+
+
+
+
+
+
+ssSa 
+
+
+
+
+c : 
+
+
+
+APPLIANCE 
+
+
+
+
+Fig. 1 Apparatus for E>rop Test 
+
+
+
+22 
+
+
+
+IS : 4283 - 1981 
+
+8.4.13.2 Test for thermal cut-outs — For self-resetting cut-outs, the test 
+shall be made in accordance with 8.4.13.1(i). 
+
+8.4.14 Creepage Distances and Clearances — The test shall be carried out 
+according to 29 of IS : 302-1979*. 
+
+
+
+APPENDIX A 
+
+( Clauses 6.2 and ^A.l ) 
+
+TEST METHOD FOR HOT AIR OUTPUT 
+
+A-1. An airway ( duct ) of rectangular cross section having size X and Y 
+equal to not less than 15 times the opening of the hot air fan and length 
+1 i X is attached to the air output side of the fan. To the outlet end of this 
+airway is attached a mouthpiece of length | X having an included angle of 
+20°C converging towards the fan ( see Fig. 2 ). 
+
+A-2. For the purpose of measurement, the airway is considered to be divided 
+into a number of equal square areas by lines parallel to its sides. The 
+number of areas is determined by the ratio of the sides of duct, each square 
+area being approximately equal to half the width ( see Fig. 3 ). 
+
+A-3. The hot air fan is connected to the supply at the rated voltage. The 
+air velocity is determined by readings of a vane anemometer taken across a 
+plane measurement at a distance X from the outlet of the fan. The anemo- 
+meter is placed successively at the centre of each square area defined in A-2, 
+being supported by wires or other means giving negligible obstruction to the 
+airflow across the .section. 
+
+A-3.1 The measurement of air velocity is taken at each location to each 
+reading occupying an equal interval of time not less than 30 seconds. 
+Each reading is then corrected in accordance with any calibration correction 
+of instrument. The arithmetical mean of the velocities so obtained is taken 
+to be the average velocity of the air flowing in the airway. Care is taken to 
+see that the airflow through the anemometer is in the direction for which the 
+instr anient is calibrated. 
+
+*Gcncral and safety requirements for household and similar electrical appliances 
+( fifth revision ). 
+
+23 
+
+
+
+IS : 4283 - 1981 
+
+
+
+FAN OPENING 
+
+CROSS -SECTION 
+OF DUCT 
+
+
+
+HOT AIR FAN 
+
+
+
+
+ANEMOMETER 
+
+
+
+THERMOMETER 
+
+
+
+Fig. 2 Rectangular Testing Duct for Hot Air Fan 
+
+
+
+.y/2 
+
+
+Y/2 
+
+
+Y/2 
+
+
+
+
+
+
+
+
+
+
+i 
+
+
+y 
+
+
+y 
+
+
+X 
+
+
+CM 
+
+>: 
+
+
+X 
+
+
+A 
+
+
+V 
+
+
+
+
+
+Fig. 3 Division of Airway Section for 
+Measurement Purposes 
+
+
+
+A-3.2 The average velocity so obtained multiplied by the cross-sectional area 
+of the airway at the plane of the measurement is taken to be equal to output 
+air volume. 
+
+
+
+24 
+
+
+
+IS : 4283 - 1981 
+
+A-4. A thermometer of suitable range is placed at a distance of 50 mm from 
+anemometer in each position. The average of all the readings is taken as 
+the temperature of the hot air. 
+
+
+
+APPENDIX B 
+
+( Clause 8.2.1 ) 
+
+SAMPLING PROCEDURE FOR HOT AIR FANS 
+
+B-1. SCALE OF SAMPLING 
+
+B-1.1 Lot — AH fans of the sanii" type grade category and rating manu- 
+factured by the same raw material untter similar conditions of production 
+shall be grouped together to constitute a lot. 
+
+B-L2 The number of fans to be selected from each lot shall tlcpcnd upon 
+the si/.e of the lot and shall he in accordance with col 1 and 2 ol' Tabic 3. 
+
+TABLE 3 SAMPLE Sl/K ANr> I'lRiMISSlBLK NIJMIJKR Oh Dl I ).t TIVl S 
+
+Loi' Sizi; SiAc-ic 
+
+( ) ) c: ) 
+
+Up to 25 tirsi 
+
+26 ,. 100 first 
+
+Second 
+
+101 „ 300 r irsi 
+
+Second 
+
+301 and above First 
+
+Second 
+
+NoTL — ■ Tor lot si/c up to 25, dcciicoii regarding acceptance or rejection shall be 
+taken at the first stage only. 
+
+
+
+B-1.2.1 These fans shall be selected from the lot at random, in order to 
+ensure the randomness of selection, procedures given in IS : 490.5- PXiS"* may 
+be followed. 
+
+
+
+Sami'i i; 
+
+
+C 
+
+
+UMl :i .\ 1 1\'|. 
+
+
+/\( 
+
+
+;■( ii'TAN( "I-: 
+
+
+Ri'.M riioN 
+
+
+Si/i^ 
+
+
+Sa 
+
+
+.Mi'i.r: Sizi; 
+
+
+
+
+NlJMIItR 
+
+
+N 
+
+
+1'Miii;k 
+
+
+(3 ) 
+
+
+
+
+( 4 ) 
+
+
+
+
+( ^ ) 
+
+
+
+
+t ) 
+
+
+3 
+
+
+
+
+3 
+
+
+
+
+
+
+
+
+
+1 
+
+
+s 
+
+
+
+
+> 
+
+
+
+
+
+
+
+
+
+1 
+
+
+5 
+
+
+
+
+10 
+
+
+
+
+1 
+
+
+
+
+z 
+
+
+8 
+
+
+
+
+8 
+
+
+
+
+(! 
+
+
+
+
+-) 
+
+
+8 
+
+
+
+
+K. 
+
+
+
+
+1 
+
+
+
+
+T 
+
+
+13 
+
+
+
+
+13 
+
+
+
+
+
+
+
+
+
+1 
+
+
+13 
+
+
+
+
+2') 
+
+
+
+
+1 
+
+
+
+
+-) 
+
+
+
+'Methods for random sampling. 
+
+25 
+
+
+
+IS : 4283 - 1981 
+
+B-2. NUMBER OF TESTS AND CRITERIA FOR CONFORMITY 
+
+B-2.1 The fans at the first stage, selected at random according to col 1 and 
+3 of Table 3, shall be subjected to the acceptance tests specified in 8.2. A 
+fan failing to satisfy any of the acceptance tests, shall be considered as 
+defective. The lot shall be considered as conforming to the requirements if 
+the number of defectives found in the sample is less than or equal to the 
+acceptance number ( see col 5 ) and shall be rejected if it is greater than or 
+equal to the rejection number ( see col 6 ). For lot of size 26 and larger if 
+the number of defectives lies between the acceptance number and rejection 
+number, the second sample of the same size shall be chosen at random and 
+tested. The number of defectives found in the first and second samples 
+shall be combined and if the combined number of defectives is less than or 
+equal to the corresponding acceptance number of the second sample, the 
+lot shall be accepted; otherwise the lot shall be rejected. 
+
+
+
+26 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters! 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg. NEW DELHI 110002 
+Talaphonas : 331 01 31 , 331 1 3 75 Talagrams : Manaksanatha 
+
+( Common to all officat ) 
+Regional Offices: 
+Cantral : Manak Bhavan, 9 Bahadur Shah Zafar Marg< 
+
+NEW DELHI-1 10002 
+*Eaatarn : 1/14 C.I.T. Schema VII M, V. I. P. Road. 
+
+Maniktola, CALCUTTA 700054 
+Northarn : SCO 445-446, Sector 35- C, 
+
+CHANDIGARH 160036 
+
+
+
+Southern 
+tWastarn 
+
+
+
+C. I. T. Campua, MADRAS 600113 
+
+
+
+Manakalaya, E9 MIDC, Marol, Andheri (East), 
+BOMBAY 400093 
+Branch Offices: 
+'Puahpak' Nurmohamad Shaikh Marg, Khanpur, 
+
+AHMEDABAD 380001 
+tPaanya Industrial Area, Ist Stage, Bangalore Tumkur Road 
+
+BANGALORE 560058 
+Gangotri Complex, 5th Floor, Bhadbhada Road, T. T. Nagar, 
+
+BHOPAL 462003 
+Plot No. 82/83, Lewis Road, BHUBANESHWAR 761002 
+63/6. Ward No. 29. R. G. Barua Road, 5th Byalane, 
+
+OUWAH ATI 781003 
+6-8-66C L. N. Gupta Marg ( Nampally Station Road ), 
+
+HYDERABAD 500001 
+
+R14 Yudhlster Marg, C Scheme, JAIPUR 302005 
+
+117/418 B Sarvodaya Nagar, KANPUR 208006 
+
+Patllputra Industrial Estate, PATN A 80001 3 
+T.C. No. 14/1421, University P.O., Palayam 
+TRIVANDRUM 695035 
+
+Inspection Office (With Sale Point) : 
+
+Pushpanjali. 1st Floor, 205-A West High Court Road, 
+
+Shankar Nagar Square, NAG PUR 440010 
+Institution of Engineers ( India ) Building, 1332 Shivajl Nag«r, 
+
+PUN E 411005 
+
+
+
+'Sales Offic* In Calcutta Is at 9 Chowrlnghaa Approach, P.O. Prineap 
+Straat. CalcuHa 700»78 
+
+tSalaa Offlca In Bombay la at Novalty Chambara, Orant Road, 
+Bombay 400007 
+
+tSaloa Ofnca In Bangalore la at Unity Building, Naraalmhara|a Squara 
+Bangalora BtOOOt 
+
+
+
+Telephones 
+
+[331 01 31 
+
+L33I 1376 
+
+36 24 99 
+
+
+[218 43 
+
+1316 41 
+
+r41 24 42 
+
+< 41 2619 
+
+41 2916 
+
+6 32 92 96 
+
+
+[2 63 48 
+
+L2 63 49 
+
+[38 49 55 
+
+L38 49 56 
+
+6 6716 
+
+
+6 36 27 
+3 31 77 
+
+
+2310 83 
+
+
+[6 34 71 
+
+Le 98 32 
+
+[21 68 76 
+
+L2I 82 92 
+
+6 23 06 
+
+
+
+[6 21 04 
+16 21 17 
+
+2 61 71 
+6 24 36 
+
+i7e>o« 
+M es Bt 
+
+n St 71 
+
+
+
+rrlnl*4 at 8lin«« Prlnllng Pr***. Oalhl. Inaia 
+
+
+

@@ -1,0 +1,1539 @@
+**************** 
+
+
+
+*■ *Z**K 
+
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+Jawaharlal Nehru 
+Step Out From the Old to the New 
+
+
+
+mi>«sss*^^ft^: 
+
+
+
+
+,_A» 
+
+
+
+
+**************** 
+
+
+
+BLANK PAGE 
+
+
+
+<_<ii££ 
+
+
+
+
+
+UJ> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 260 : 2001 
+
+
+
+Indian Standard 
+
+ALUMINIUM SULPHATE, NON-FERRIC 
+SPECIFICATION 
+
+(Second Revision) 
+
+
+
+ICS 71.060.50 
+
+
+
+©BIS 2001 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+June 2001 Price Group 5 
+
+
+
+General Inorganic Chemicals Sectional Committee, CHD 3 
+
+
+
+FOREWORD 
+
+This Indian Standard ( Second Revision ) was adopted by the Bureau of Indian Standards, after the draft 
+finalized by the General Inorganic Chemicals Sectional Committee had been approved by the Chemical Division 
+Council. 
+
+This standard was originally published in 1950 covering only the technical grade of aluminium sulphate, 
+non-ferric and subsequently revised in 1969, incorporating pure analytical reagent grades of the material and 
+to keep abreast with the progress made by the industry in this field. Flame photometric method was prescribed 
+for the determination of sodium and potassium. Since widely different types of instruments are available for this 
+determination, detailed instructions have not been given. 
+
+In this present (second ) revision, EDTA method for determination of aluminium has been modified. The 
+specified limit for arsenic has also been suitably modified for all the three grades. 
+
+Aluminium sulphate, non-ferric, is a purer form of aluminium sulphate than alumino-ferric. It is used as a 
+mordant in the dyeing of textiles, as a loading material for better grades of paper, for clarifying oils and fats, 
+in the preparation of aluminium resinates and other pure aluminium salts. The pure grade of the material is also 
+used for the pharmaceutical preparations. 
+
+Aluminium sulphate, non-ferric, is also used in large quantities for purification of water used for injection into 
+oil-bearing formations for pressure maintenance. 
+
+Composition of the Committee responsible for its formulation is given in Annex M. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, 
+observed or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with 
+IS 2 : 1960 'Rules for rounding off numerical values ( revised)'. The number of significant places retained in 
+the rounded off value should be the same as that of the specified value in this standard. 
+
+
+
+IS 260 : 2001 
+
+
+
+Indian Standard 
+
+ALUMINIUM SULPHATE, NON-FERRIC 
+SPECIFICATION 
+
+(Second Revision ) 
+
+
+
+1 SCOPE 
+
+
+
+This standard prescribes the requirements and methods 
+of sampling and test for aluminium sulphate, non- ferric. 
+
+2 REFERENCES 
+
+The Indian Standards listed below contain provisions 
+which through reference in this text, constitute 
+provisions of this standard. At the time of publication, 
+the editions indicated were valid. All standards are 
+subject to revision, and parties to agreements based 
+on this standard are encouraged to investigate the 
+possibility of applying the most recent editions of the 
+standards indicated below: 
+
+
+
+IS No. 
+
+
+Title 
+
+
+264 : 1976 
+
+
+Nitric acid ( second revision ) 
+
+
+265 : 1993 
+
+
+Hydrochloric acid (fourth revision) 
+
+
+321 : 1964 
+
+
+Absolute alcohol ( revised ) 
+
+
+323 : 1959 
+
+
+Rectified spirit ( revised) 
+
+
+1070 : 1992 
+
+
+Reagent grade water ( third revision) 
+
+
+2088 : 1983 
+
+
+Methods for determination of arsenic 
+
+
+
+
+( second revision ) 
+
+
+4905:1968 
+
+
+Methods for random sampling 
+
+
+
+3 GRADES 
+
+The material shall be of the following three grades: 
+
+a) Technical ( TECH ) — intended for use as a 
+mordant in the dyeing of textiles and as a 
+loading material for better grades of paper; 
+
+b) Pure — intended for use in pharmaceutical 
+preparations and where pure grade of the 
+material is required, namely, for clarifying oils 
+and fats, preparation of aluminium resinates 
+and other pure aluminium salts; and 
+
+c) Analytical Reagent ( AR ) — for use as a reagent 
+in chemical analysis. 
+
+4 REQUIREMENTS 
+4.1 Description 
+
+The material shall be in the form of white, slightly 
+
+
+
+deliquescent crystals or granules. 
+
+4.2 The material shall also comply with the requirements 
+given in Table 1 when tested in accordance with the 
+methods prescribed in Annexes A to K. Reference to 
+the relevant Annex is given in col 6 of Table 1 . 
+
+5 PACKING AND MARKING 
+
+5.1 Packing 
+
+The material shall be supplied in bulk or in packages 
+as agreed to between the purchaser and the supplier. 
+
+5.2 Marking 
+
+5.2.1 The packages shall be securely closed and marked 
+with the following information: 
+
+a) Name and grade of the material, 
+
+b) Mass of the material, 
+
+c) Indication of the source of manufacture, 
+Month and year of manufacture, and 
+
+
+
+d) 
+e) 
+
+
+
+Lot number in code or otherwise to enable 
+the batch of manufacture to be traced from 
+records. 
+
+
+
+5.2.2 BIS Certification Marking 
+
+The packages may also be marked with the Standard 
+Mark. 
+
+5.2.2.1 The use of the Standard Mark is governed by 
+the provisions of the Bureau of Indian Standards Act, 
+1986 and the Rules and Regulations made thereunder. 
+The details of conditions under which the licence for 
+the use of Standard Mark may be granted to 
+manufacturers or producers may be obtained from the 
+Bureau of Indian Standards. 
+
+5.2.3 In case of analytical reagent grade, the analysis 
+of the material, details of analysis of the material in 
+respect of the characteristics laid down in col 5 of 
+Table 1 shall also appear on the label. 
+
+6 SAMPLING 
+
+The method of drawing representative samples of the 
+material, number of tests to be performed and the criteria 
+for determining the conformity of the material to the 
+
+
+
+IS 260 : 2001 
+
+requirements of this specification shall be as prescribed reagent grade water ( see IS 1 070 ) shall be employed 
+in Annex L. in tests. 
+
+
+
+7 QUALITY OF REAGENTS 
+
+Unless specified otherwise, pure chemicals and 
+
+
+
+NOTE — 'Pure chemicals' shall mean chemicals that 
+do not contain impurities, which affect the results of 
+analysis. 
+
+
+
+Table 1 Requirements for Aluminium Sulphate, Non-Ferric 
+
+(Clause 4.2) 
+
+
+
+SI Characteristic 
+No. 
+
+
+
+
+Requirement 
+
+
+
+
+Method of Test 
+(Ref to Annex ) 
+
+
+TECH 
+Grade 
+
+
+Pure 
+Grade 
+
+
+AR 
+Grade 
+
+
+(1) (2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+i) Insoluble matter, percent by mass, Max 
+
+
+0.30 
+
+
+0.02 
+
+
+0.005 
+
+
+A 
+
+
+ii) pH ( of 5 percent solution ), Min 
+
+
+2.8 
+
+
+2.9 
+
+
+2.2 
+
+
+B 
+
+
+iii) Heavy metals (as Pb), parts per*million, Max 
+
+
+— 
+
+
+40 
+
+
+10 
+
+
+C 
+
+
+iv) Iron (as Fe), percent by mass, Max 
+
+
+0.01 
+
+
+0.004 
+
+
+0.002 
+
+
+D 
+
+
+v) Chlorides 
+
+
+— 
+
+
+— 
+
+
+To pass test 
+
+
+E 
+
+
+vi) Arsenic (as As 2 3 ), parts per million, Max 
+
+
+— 
+
+
+8 
+
+
+5 
+
+
+F 
+
+
+vii) Ammonium salts (as NH 3 ), percent by mass, Max — 
+
+
+0.025 
+
+
+0.025 
+
+
+G 
+
+
+viii) Aluminium (as A1 2 3 ), percent by mass 
+
+
+17 
+(min) 
+
+
+16.6-17.6 
+
+
+16.6- 17.6 
+
+
+H 
+
+
+ix) Sodium (as Na), percent by mass, Max 
+
+
+— 
+
+
+— 
+
+
+0.05 
+
+
+J 
+
+
+x) Potassium (as K) percent by mass, Max 
+
+
+— 
+
+
+— 
+
+
+0.01 
+
+
+K 
+
+
+
+ANNEX A 
+
+[Table \, SI No. (i) ] 
+
+DETERMINATION OF INSOLUBLE MATTER 
+
+
+
+A-l REAGENTS 
+
+A-l.l Dilute Sulphuric Acid — Approximately 1 N. 
+
+A-2 PROCEDURE 
+
+A-2.1 Preparation of Test Sample 
+
+Crush about 200 g of the material to pass 1 .00 mm 
+IS Sieve. Keep this prepared sample in a clean glass- 
+stoppered weighing bottle. 
+
+A-2.2 Weigh accurately about 10 g of the prepared 
+sample mix with 10 ml of dilute sulphuric acid, and 
+dissolve in 100 ml of water by stirring and warming, 
+if necessary. Filter through a tared filter paper or a 
+
+
+
+sintered glass crucible ( G 4 ); wash the residue till it 
+is free from soluble compounds, and dry to constant 
+weight at 105 to 11 0°C. 
+
+
+
+m 
+
+
+
+A-3 CALCULATION 
+
+Insoluble matter, percent by mass = -rr x 100 
+
+where 
+
+m = mass in g of the residue, and 
+
+M= mass in g of the prepared sample taken for 
+the test. 
+
+
+
+IS 260 : 2001 
+
+
+
+ANNEX B 
+[Table \, SI No. (ii)] 
+
+DETERMINATION OF pH 
+
+
+
+B-l PROCEDURE 
+
+Take 5 g of the material and dissolve in 100 ml of freshly 
+
+
+
+boiled and cooled water. Determine pH ofthe solution 
+by means of a suitable pH meter, using glass electrodes. 
+
+
+
+ANNEX C 
+
+[Table \,Sl No. (iii)] 
+
+DETERMINATION OF HEAVY METALS 
+
+
+
+C-l OUTLINE OF THE METHOD 
+
+Heavy metals are determined by comparing the colour 
+produced by the material with sodium sulphide solution 
+against that produced by standard lead solution. 
+
+C-2 APPARATUS 
+
+C-2.1 Nessler Cylinders — 50 ml capacity. 
+
+C-3 REAGENTS 
+
+C-3.1 Dilute Ammonium Hydroxide — Approximately 
+
+4N. 
+
+C-3.2 Sodium Sulphide Solution — 10 percent (m/v). 
+
+C-3.3 Concentrated Nitric Acid — See IS 264. 
+
+C-3.4 Standard Lead Solution 
+
+Dissolve 1 .60 g of lead nitrate in water, add 1 ml of 
+concentrated nitric acid and dilute the solution to 
+
+
+
+1 000 ml. Pipette out 10 ml of this solution and then 
+dilute to 1 000 ml. One millilitre ofthe final solution is 
+equivalent to 0.01 mg of lead ( as Pb ). The diluted 
+solution shall be freshly prepared. 
+
+C-4 PROCEDURE 
+
+Weigh accurately 1.0 g ofthe prepared sample and 
+dissolve it in about 20 ml of water. Transfer the solution 
+to a Nessler cylinder; add 4 drops of sodium sulphide 
+solution. Carry out a control test in another Nessler 
+cylinder using 4 ml of standard lead solution in place 
+ofthe sample in case of pure grade and one millilitre 
+in case of analytical reagent grade, and the same 
+quantities of other reagents in the same total volume 
+of reaction mixture. Compare the colour produced in 
+the two cylinders. 
+
+C-4.1 The limit prescribed in Table 1 shall betaken as 
+not having been exceeded if the intensity of colour 
+produced in the test with the sample is not greater than 
+that produced in the control test. 
+
+
+
+ANNEX D 
+
+(Table 1, SI No. (iv)) 
+
+DETERMINATION OF DION 
+
+
+
+D-l OUTLINE OF THE METHOD 
+
+Iron is determined colorimetrically by visual comparison 
+using butanolic potassium thiocyanate solution. 
+
+D-2 APPARATUS 
+
+D-2.1 Nessler Cylinders — 50 ml capacity. 
+
+
+
+D-3 REAGENTS 
+
+D-3.1 Concentrated Hydrochloric Acid — See IS 265. 
+
+D-3.2 Ammonium Persulphate — Solid. 
+
+D-3.3 Butanolic Potassium Thiocyanate Solution 
+
+Dissolve 10 g of potassium thiocyanate in 10 ml of 
+
+
+
+IS 260: 2001 
+
+
+
+water. Add sufficient w-butanol to make up to 1 00 ml 
+and shake vigorously until the solution is clear. 
+
+D-3.4 Standard Iron Solution 
+
+Dissolve 0.702 g of ferrous ammonium sulphate 
+[Fe(NH 4 ) 2 (S0 4 ) 3 .6H 2 0] in 1 ml of dilute sulphuric acid 
+( 1 percent v/v) and dilute with water to 1 000 ml. Take 
+10 ml of this solution and dilute to 100 ml. One millilitre 
+of this solution contains 0.01 mg of iron (as Fe). 
+
+D-4 PROCEDURE 
+
+Dissolve 10.0 g of the prepared sample in water and 
+make up the volume to 100 ml. Transfer 10 ml of this 
+solution into a Nessler cylinder and dilute with 30 ml 
+of water. Add 1 ml of concentrated hydrochloric acid, 
+
+
+
+30 mg of ammonium persulphate and 1 5 ml of butanolic 
+potassium thiocyanate solution. Shake vigorously for 
+30 seconds and allow the butanol layer to separate. 
+Carry out a control test in the second Nessler cylinder 
+using the following amounts of standard iron solution 
+in place of the material and the same quantities of other 
+reagents in the same total volume of the reaction mixture: 
+
+a) 10 ml in case of technical grade, 
+
+b) 4 ml in case of pure grade, and 
+
+c) 2 ml in case of analytical reagent grade. 
+
+D-4.1 The limit prescribed in Table 1 shall be taken as 
+not having been exceeded if the intensity of the colour 
+produced in the test with the material is not greater 
+than that produced in the control test. 
+
+
+
+ANNEX E 
+[Table \, SI No. (v)] 
+
+TEST FOR CHLORIDES 
+
+
+
+E-l REAGENTS 
+
+E-l.l Dilute Nitric Acid — 5 N approximately. 
+E-l. 2 Silver Nitrate Solution — 5 percent (/w/v). 
+E-2 PROCEDURE 
+
+Dissolve 1 .0 g of the prepared sample in 50 ml of water. 
+
+
+
+Add one millilitre of dilute nitric acid and one millilitre 
+of silver nitrate solution. The material shall be considered 
+to have satisfied the requirements of the test if no 
+opalescence is produced. 
+
+
+
+ANNEX F 
+
+(Table I, SI No. (vi) ) 
+
+DETERMINATION OF ARSENIC 
+
+
+
+F-l PROCEDURE 
+
+Dissolve 1 .0 g of the prepared sample in 10 ml of water. 
+Carry out the test for arsenic as prescribed in IS 2088, 
+using for comparison a stain obtained with 0.006 mg 
+of arsenic as As 2 3 in case of pure grade, 0.004 mg in 
+case of technical grade and 0.002 mg in case of analytical 
+
+
+
+reagent grade of the material. 
+
+F-l.l The material shall be considered to have 
+satisfied the requirements of the test if the length as 
+well as the intensity of the stain obtained with the 
+sample is not greater than that produced in the control 
+test. 
+
+
+
+IS 260 : 2001 
+
+
+
+ANNEX G 
+
+[Table \, SI No. {vn)] 
+
+DETERMINATION OF AMMONIUM SALTS 
+
+
+
+G-l OUTLINE OFTHE METHOD 
+
+Ammonium salts are determined with Nessler solution, 
+which reacts with ammonia to form a reddish-brown 
+colloidal suspension. 
+
+
+
+G-2 APPARATUS 
+G-2.1 Nessler Cylinders 
+G-3 REAGENTS 
+
+
+
+50 ml capacity. 
+
+
+
+G-3.1 Sodium Hydroxide Solution - 
+
+5N. 
+
+G-3.2 Nessler Solution 
+
+
+
+-Approximately 
+
+
+
+Dissolve 10 g of potassium iodide in 10 ml of ammonia- 
+free water, and add to it slowly with stirring saturated 
+mercuric chloride solution until a slight permanent 
+precipitate forms. Add 30 g of potassium hydroxide 
+and when it has dissolved, add 1 ml more of mercuric 
+chloride solution, and dilute to 200 ml with ammonia- 
+free water. Allow settling overnight, decanting the clear 
+
+
+
+solution and keeping it in a bottle closed with a well- 
+fitting rubber stopper. 
+
+G-3.3 Standard Ammonium Chloride Solution 
+
+Dissolve 0.3 14 1 g of ammonium chloride in water and 
+make up to 1 000 ml. One millilitre of this solution is 
+equivalent to 0. 1 mg of ammonia (as NH 3 ). 
+
+G-4 PROCEDURE 
+
+Weigh accurately 1.0 g of the prepared sample and 
+dissolve in 20 ml of water in a Nessler cylinder. Add 
+5 ml of sodium hydroxide solution and one millilitre of 
+Nessler solution. Make up the solution to 50 ml. Carry 
+out a control test in another Nessler cylinder with 
+2.5 ml of standard ammonium chloride solution in place 
+of the material and the same quantities of other reagents. 
+Compare the' colour produced in the two cylinders. 
+
+G-4.I The limit prescribed shall be taken as not having 
+been exceeded if the intensity of colour produced in 
+the test with the material is not greater than that 
+produced in the control test. 
+
+
+
+ANNEX H 
+
+[Table\ y SlNo,{vm)\ 
+
+DETERMINATION OF ALUMINIUM 
+
+
+
+H-l GENERAL 
+
+Two methods are prescribed, namely (a) gravimetric 
+method, and (b) titration with EDTA solution. Gravimetric 
+method shall be used, as referee method in case of 
+dispute. 
+
+H-2 METHOD A ( GRAVIMETRIC METHOD ) 
+
+H-2.1 Reagents 
+
+H-2. 1.1 Ammonium Chloride Solid 
+
+H-2.1.2 Concentrated Nitric Acid— See IS 264. 
+
+H-2.1.3 Dilute Ammonium Hydroxide — Approximately 
+
+4N. 
+
+H-2. 1.4 Methyl Red Indicator 
+
+Dissolve 0. 1 g of methyl red in 100 ml of rectified spirit 
+OeIS323). 
+
+
+
+H-2. 1.5 Ammonium Nitrate Solution — Approximately 
+2 percent. 
+
+H-2.2 Procedure 
+
+Weigh accurately about 1 g of the prepared sample 
+and dissolve it in 1 00 ml of water. Filter to remove the 
+undissolved matter and wash the filter paper thoroughly. 
+Add 5 g of ammonium chloride and 2 drops of 
+concentrated nitric acid to the filtrate and washings; 
+heat to boiling and add dilute ammonium hydroxide, 
+drop by drop, until the solution smells faintly of ammonia 
+and shows distinct yellow colour on the addition of 
+two drops of methyl red indicator. Boil for 2 min, filter 
+immediately through filter paper ( Whatman No. 40 or 
+equivalent ) and wash the residue with hot ammonium 
+nitrate solution till the filtrate is free from chlorides. 
+Dry the residue and ignite to constant weight at 1 100 
+to I 200°C in tared porcelain or a silica crucible. 
+
+
+
+IS 260 : 2001 
+
+
+
+H-2.3 Calculation 
+
+Aluminium (as A1 2 3 ), percent by mass = 
+
+100x^-^x1.4297 
+
+where 
+
+M = mass, in g, of the ignited residue; 
+
+A = percent by mass of iron as determined in 
+Annex D; and 
+
+A7, = mass in g of the prepared sample taken for 
+the test. 
+
+H-3 METHOD B(EDTA METHOD) 
+
+H-3.1 Reagents 
+
+H-3. 1.1 Disodium Ethylenediamine Tetra Acetate 
+(EDTA) Solution — 0.05M. 
+
+Dissolve 18.612 5 g of disodium ethylenediamine tetra 
+acetate dihydrate in water and make the volume to one 
+litre in a volumetric flask. 
+
+H-3. 1.2 Concentrated Sulphuric Acid 
+
+
+
+H-3. 1.3 Hexamine (Hexamethylene Tetr amine) Analar 
+
+H-3. 1 .4 Xylenol Orange Indicator 
+
+Prepare 0.5 percent in water and add 1 to 2 drops of 
+dilute sodium hydroxide solution. 
+
+H-3.1.5 Standard Lead Nitrate Solution — 0.05 N. 
+
+H-3.2 Procedure 
+
+Dissolve 5 g of prepared sample in water. Acidify it 
+by adding 1 to 2 ml of concentrated sulphuric acid and 
+make up the volume to 500 ml in^i volumetric flask. 
+Take an aliquot of 50 ml into a conical flask. Add 50 ml 
+of 0.05 M EDTA solution and heat to just boiling. Cool 
+it and add hexamine powder to adjust thepH to 5. Add 
+few drops of xylenol orange indicator. Titrate the excess 
+EDTA solution with standard lead nitrate solution until 
+the colour changes from yellow to pink. 
+
+H-3.3 Calculation 
+
+Calculate the aluminium content of the material on 
+the assumption that one millilitre of 0.05 M EDTA 
+solution is equivalent to 0.002 55 g of aluminium 
+(asAl 2 3 ). 
+
+
+
+ANNEX J 
+
+[Table \,SlNo.(ix)] 
+
+DETERMINATION OF SODIUM 
+
+
+
+J-l PROCEDURE 
+
+Determine sodium by flame photometer at 589 nm 
+
+
+
+according to the directions of the manufacturer of the 
+apparatus ( see Foreword ). 
+
+
+
+ANNEX K 
+
+[Table \, SI No. (x)] 
+
+DETERMINATION OF POTASSIUM 
+
+
+
+K-l PROCEDURE 
+
+Determine potassium by flame photometer at 766.5 nm 
+
+
+
+according to the directions of the manufacturer of the 
+apparatus ( see Foreword ). 
+
+
+
+IS 260 : 2001 
+
+
+
+ANNEX L 
+
+(Clause 6.1 ) 
+
+SAMPLING OF ALUMINIUM SULPHATE, NON-FERRIC 
+
+
+
+L-l GENERAL REQUIREMENTS OF SAMPLING 
+
+In drawing samples the following precautions and 
+directions shall be observed. 
+
+L-l.l Samples shall not be taken in an exposed place. 
+
+L-l. 2 The sampling implement shall be clean and dry 
+when used. 
+
+L-1.3 Precautions shall be taken to protect the samples, 
+the material being sampled, the sampling implement 
+and the containers for samples from adventitious 
+contaminations. 
+
+L-l. 4 To draw a representative sample, the contents 
+of each container selected for sampling shall be mixed 
+thoroughly by suitable means. 
+
+L-l. 5 The samples shall be placed in suitable, clean, 
+dry and air-tight glass containers which shall be sealed 
+^ir-tight after filling and marked with full details of 
+sampling. 
+
+L-2 SCALE OF SAMPLING 
+
+L-2.1 Lot 
+
+In a single consignment of the material all the containers 
+of the same size and containing the same grade of 
+material and drawn from the same batch of manufacture 
+shall constitute a lot. If a consignment is known to 
+consist of different batches of manufacture or of different 
+types or sizes of containers, those belonging to the 
+same batch, type and size shall be grouped together 
+and each such group shall constitute a separate lot. 
+
+L-2.1. 1 For ascertaining the conformity of the material 
+in a lot to the requirements of the specification, tests 
+shall be carried out for each lot separately. The number 
+of containers to be selected at random from lots of 
+different sizes shall be in accordance with Table 2. 
+
+L-2. 1.2 Random number tables shall be used for 
+selecting the containers. In case such tables are not 
+available, the following procedure is recommended 
+for use: 
+
+Starting from any container at random, count them in 
+one order as 1,2, 3... etc, up to r and so on where r is 
+
+
+
+the integral part oiNIn ( N and n being the lot size 
+and sample size respectively ). Every rth container 
+thus counted shall be withdrawn to constitute the 
+sample. 
+
+
+
+Table 2 Scale 
+
+
+of Sampling 
+
+
+(Clause L-2. 1.1) 
+
+
+
+
+Lot Size 
+
+
+Sample Size 
+
+
+(N) 
+
+
+
+
+(») 
+
+
+(1) 
+
+
+
+
+(2) 
+
+
+Up to 25 
+
+
+
+
+3 
+
+
+26 to 50 
+
+
+
+
+4 
+
+
+51 to 100 
+
+
+
+
+5 
+
+
+101 and above 
+
+
+
+
+7 
+
+
+
+L-3 PREPARATION OF TEST SAMPLES 
+
+L-3.1 From each of the containers selected, draw a 
+small representative portion of aluminium sulphate 
+approximately 100 g in weight. 
+
+L-3.2 Out of these portions, a small but equal quantity 
+of the material shall be taken and mixed thoroughly to 
+form a composite sample of weight about 200 g. The 
+composite sample shall be divided into three equal parts, 
+one for the purchaser, another for the supplier and the 
+third to be used as a referee sample. 
+
+L-3.3 The referee sample shall bear the seal of both 
+the purchaser and the supplier and shall be kept at a 
+place agreed to between them, to be used in case of 
+dispute between the two. 
+
+L-4 NUMBER OF TESTS 
+
+Tests for the determination of the entire characteristic 
+given in Table 1 shall be conducted on the composite 
+sample. 
+
+L-5 CRITERION FOR CONFORMITY 
+
+For declaring the conformity of the lot to the 
+requirements of all the characteristics tested on the 
+composite sample, the test results shall meet the 
+corresponding requirements specified in Table 1. 
+
+
+
+IS 260 : 2001 
+
+
+
+Chairman 
+DRA.N.BHAT 
+
+Members 
+
+
+
+ANNEX M 
+
+( Foreword ) 
+
+COMMITTEE COMPOSITION 
+
+General Inorganic Chemicals Sectional Committee, CHD 3 
+
+Representing 
+Hindustan Lever Limited, Mumbai 
+
+
+
+Dr A. PrAMANIK ( Alternate to 
+Dr A. N. Bhat ) 
+
+Shri R. M. Cursetji 
+
+Shri S. P. Gandhe ( Alternate ) 
+
+Shri R. C. Sethi 
+
+Shri N. Ravibhushan ( Alternate ) 
+
+Dr S. K. Roy 
+
+SHR! P. KUNDU ( Alternate ) 
+
+Dr J. S. Rekhi 
+
+Shri R. C. Sharma 
+
+Shri A. K. Chatterji ( Alternate ) 
+
+Shri P. Jayakumaran 
+
+Shri N. K. Kaushal ( Alternate ) 
+
+Shri A. K. Dasgupta 
+
+Shri B. S. Mehta ( Alternate ) 
+
+.Shri K. A. Abdulkhadir 
+
+Dr K. N. Mathur 
+
+Dr Subhash Chandra ( Alternate ) 
+
+Dr P. G. Pradhan 
+
+Shri P. I. Bhagat { Alternate ) 
+
+ShriR. S.Vyas 
+
+Shri H. Vaman Rao ( Alternate ) 
+
+Dr P. C. Gupta 
+
+Shri Surender Kumar ( Alternate) 
+
+Representative 
+
+Shri G. M. Rao 
+
+Shri S. R. Bhaisare ( Alternate ) 
+
+Shri A. K. Das 
+
+Shri R. Bhattacharjee ( Alternate ) 
+
+Shri R. P. Khanna 
+
+Dr A. K. Sarangi ( Alternate ) 
+
+Dr S. K. Kapoor 
+
+Dr R. K. Sethi ( Alternate ) 
+
+DRS. H. IQBAL 
+
+Dr C. Gopinathan ( Alternate ) 
+
+Dr B. B. Pal 
+
+Shri A. K. Chakravarty ( Alternate ) 
+
+Shri S. C. Gulati 
+
+Dr (Smt) Laxmi Kantham 
+
+Dk R. M. Bhatnagar 
+
+Shri P. R. Desai 
+
+Dr A. N. Sony ( Alternate ) 
+
+
+
+The Associated Cement Companies Limited, Mumbai 
+
+Bharat Electronics Limited, Bangalore 
+
+Central Glass and Ceramic Research Institute, Calcutta 
+
+Development Commissioner, Small Scale Industries, New Delhi 
+
+Department of Industrial Policy and Promotion, Ministry of 
+
+Industry, New Delhi 
+
+Directorate General of Supplies and Disposal, New Delhi 
+
+Deepak Nitrite Limited.Vadodara 
+
+Federation of Associations of Small Industries of India, New Delhi 
+Geological Survey of India, Calcutta 
+
+Golden Chemicals Limited, Mumbai 
+
+The Dharamsi Morarji Chemical Co Limited, Ambernath 
+
+Indian Chemicals Manufacturers' Association, Calcutta 
+
+Indian Oil Corporation Limited ( Refineries and Pipelines Division), 
+New Delhi 
+
+Indian Bureau of Mines, Nagpur 
+
+BOC India Limited, Calcutta 
+
+Ministry of Defence (DGQA), Pune 
+
+Ministry of Defence (R & D), Delhi 
+
+National Chemical Laboratory, Pune 
+
+National Test House, Calcutta 
+
+Oil and Natural Gas Commission, Dehra Dun 
+Indian Institute of Chemical Technology, Hyderabad 
+Projects and Development India Limited, Sindri 
+Sarabhai M. Chemicals, Vadodara 
+
+
+
+( Continued on page 9 ) 
+
+
+
+IS 260 : 2001 
+
+
+
+( Continued from page 8 ) 
+Members 
+
+Smri P. K. Kaicker 
+
+Smt Laxmi Bawat ( Alternate ) 
+
+DrT. CPatel 
+
+Shri R. P. Pathak ( Alternate ) 
+
+Shri C. R. Santhanakrishnan 
+Shri G. Ethiraj ( Alternate ) 
+
+Dr R. V. Jasra 
+
+Dr P. M. Oza ( Alternate ) 
+
+ShriV. B.Soni 
+
+Shri A. K. Chakravarty ( Alternate ) 
+
+Shri Lajinder Singh, 
+Director ( Chcm ) 
+
+
+
+Representing 
+Shriram Institute for Industrial Research, Delhi 
+
+Tata Chemicals Limited, Mumbai 
+
+T C M Limited, Metturdam 
+
+Central Salt and Marine Chemicals Research Institute, Bhavnagar 
+
+Union Carbide of India Limited, Mumbai 
+
+Director General, BIS ( Ex-officio Member ) 
+
+
+
+Convener 
+Shri A. V. Paranjafe 
+Members 
+
+
+
+Member-Secretary 
+
+Shri. R. P. Singh 
+
+Deputy Director ( Chem ) 
+
+Alums and Phosphates Subcommittee, CHD 3:1 
+
+Albright, Morarji & Pandit Limited, Mumbai 
+
+
+
+Dr V. G. Khanwalkar (Alternate to 
+Shri A. V. Paranjape ) 
+
+DrR. M.Bhatnagar 
+
+Shri N. C. Thakkar 
+
+Shri P. C. Thakkar ( Alternate ) 
+
+Shri S. Prakash 
+
+Shri S. C. Jain ( Alternate ) 
+
+Shri R. S. Vyas 
+
+Shri H. Vaman Rao (Alternate ) 
+
+Dr A. N. Bhat 
+
+Dr A. Pramanik ( Alternate ) 
+
+Shri V. S. Bashir 
+
+Dr V. R. Nair ( Alternate ) 
+
+Shri S. B. Sahay 
+
+Shri Ram Gopal ( Alternate ) 
+
+Shri K. P. Bajla 
+
+Shri S. C. Mohapatra ( Alternate ) 
+
+Shri M. J. Maharaja 
+
+Dr P. H. Desai ( Alternate ) 
+
+Shri V. R. Kirtane 
+
+Shri T. R. Rane ( Alternate ) 
+
+
+
+Projects and Development India Limited, Sindri 
+C D Thakkar and Co, Calcutta 
+
+The Delhi Municipal Corporation, Delhi 
+
+The Dharamsi Morarji Chemical Co Limited, Ambernath 
+
+Hindustan Levers Limited, Mumbai 
+
+Indian Rare Earths Limited, Udyogamandal 
+
+National Thermal Power Corporation, New Delhi 
+
+Orissa Young Entrepreneurs Association, Cuttack 
+
+Transpek Industries Limited, Vadodara 
+
+Mumbai Municipal Corporation, Mumbai 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods and 
+attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications maybe reproduced in any form without 
+the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing the 
+standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to 
+copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicateslhat no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue 
+of 'BIS Catalogue ' and ' Standards : Monthly Additions' . 
+
+This Indian Standard has been developed from Doc : No. CHD 3 ( 792 ). 
+
+Amendments Issued Since Publication 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+ManakBhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10 002 Telegrams: Manaksanstha 
+
+Telephones : 323 01 3 1, 323 33 75, 323 94 02 ( Common to all offices ) 
+
+Regional Offices: Telephone 
+
+Central : ManakBhavan, 9 Bahadur ShahZafar Marg f 323 76 17 
+
+NEWDELHI110002 1323 38 41 
+
+Eastern: 1/14 C. I. T. Scheme VIIM, V.I. P. Road, Kankurgachi /337 84 99,33785 61 
+
+CALCUTTA700 054 1 337 86 26, 337 91 20 
+
+Northern: SC0335-336,Sector34-A, CHANDIGARH 160 022 / 603843 
+
+\ 60 20 25 
+
+Southern : C. I. T. Campus, IV Cross Road, CrfENNAI 600 1 13 f 235 02 16, 235 04 42 
+
+1.2351519,23523 15 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 1* 832 92 95, 832 78 58 
+
+MUMBAI400 093 183278 91,83278 92 
+
+Branches: AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. NAGPUR. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. 
+
+
+
+Printed at New India Printing Press, Khurja, India 
+
+
+

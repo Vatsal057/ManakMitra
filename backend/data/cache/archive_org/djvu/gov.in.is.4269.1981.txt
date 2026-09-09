@@ -1,0 +1,1565 @@
+**************** 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+^^^Eii^^^^^tt^i iil%k^K>S :^^^T<:^^ 
+
+
+
+IS 4269 (1981) 
+Foundry] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+Dextrin for use in foundries [MTD 14 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangarara Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 4269 -1981 
+(Reaffirmed 2003) 
+
+
+
+Indian Standard 
+
+SPECIFICATION FOR 
+DEXTRIN FOR USE IN FOUNDRIES 
+
+( First Revision ) 
+
+
+
+(First Reprint JULY 1997) 
+UDC 621.742.487 : 664.161 
+
+
+
+© Copyright 1982 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr 5 February 1981 
+
+
+
+IS : 4269 - 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+DEXTRIN FOR USE IN FOUNDRIES 
+
+
+
+( First Revision ) 
+
+
+
+Foundry Sectional Committee, SMDC 17 
+
+Chairman Representing 
+
+Db S. S. Khanna National Institute of Foundry & Forge Techno- 
+
+logy, Ranchi 
+
+Members 
+
+Shbi a. K. Awasthi Steel Authority of India Ltd ( Bokaro Steel 
+
+Plant ), Bokaro 
+Seniok Chemist & METALLtrROiST, Ministry of Railways 
+CLW, Chittabakjan 
+
+Chemist & Metallxtbgist 
+
+CLW, Chittaranjan ( Alternate I ) 
+Chemist & Metaxlttbgist 
+N. F. Ri*Y, New Bongaigaon 
+( Alternate II ) 
+Shbi K. A. Gandhi HMT Ltd, Bangalore 
+
+Shbi Sanjit Sen ( Alternate ) 
+Shbi M. K. Goswami Indian Non-Ferrous Metals Manufacturers* 
+
+Association, Calcutta 
+Shbi D. P. Jain ( Alternate ) 
+Shbi R. K. Gugneja DCM Engineering Products, Delhi Cloth & 
+
+General Mills, New Delhi 
+Db V. P. GiTPTA ( Alternate ) 
+Shbi P. L. Jain National Institute of Foundry & Forge 
+
+Technology, Ranchi 
+Shbi K. Kishobe {Alternate) 
+Shbi R. K. KejbiwaIj Federation of Engineering Industries of India, 
+
+New Delhi 
+Shbi V, N. Upadhaya ( Alternate ) 
+Shbi R. C. Kothabi Pioneer Equipment Co Pvt Ltd, Vadodara 
+
+Shbi C, Bhaseaban ( Alternate) 
+Shbi K, S. Lal The Indian Iron & Steel Co Ltd, Calcutta 
+
+Shbi R. N. Mttkhkbjke ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+(QCopcnight 1982 
+
+BUREAU OF INDL\N STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 4269 - 1981 
+
+( OmUnuedfrom page 1 ) 
+
+Members Representing 
+
+Shri K. N, Mehba Heavy Engineering Corporation Ltd, Foundry 
+
+Forge Plant, Ranchi 
+Shri A. K. Banerjeb ( Alternate ) 
+Shri T. R. Mohan Rao Directorate General of Technical Development, 
+
+New Delhi 
+Shbi U. Sen ( Alternate ) 
+Shri N. V, Pandit M. M. Suri & Associates ( P ) Ltd, New Delhi 
+
+Shri M. K. Pramanis Iron & Steel Control ( Ministry of Steel & 
+
+Mines), Calcutta 
+Shri G. N, Rao National Metallurgical Laboratory ( GSIR ), 
+
+Jamshedpur 
+Shri P. F. Rastooi Steel Authority of India Ltd ( Rourkela Steel 
+
+Plant ) , Rourkela 
+Shri D. Singh ( AltemaU) 
+Shri R. N. Saha Directorate General of Supplies & Disposals 
+
+( Inspection Wing ), New Ueihi 
+Shri Darbaba Singh ( Alternate ) 
+Shri B. L. Sen Indian Oxygen Ltd, Calcutta 
+
+Shri V. P. Shenoy Tata Engineering & Locomotive Co Ltd, 
+
+Jamshedpur 
+Shri A. Bhattacharjee ( Alternate ) 
+Shri V. N. Stjnderajan M. N. Dastur & Go Pvt Ltd, Calcutta 
+
+Srri S. Thiyagabajan Southern Alloy Foundries Pvt Ltd, Madras 
+
+Shri T. S. Venkoba Rao Ennore Foundries Ltd, Madras 
+
+Shbi K. V. Krishnan ( Alternate ) 
+Shri C. R. Rama Rao, Director General, ISI ( Ex-offich Member) 
+
+Director ( Siruc & Met ) 
+
+Secretary 
+
+Shbi S. K. Gu^ta 
+Assistant Director ( Metals ), ISI 
+
+
+
+Foundry Binders Subcommittee, SMDC 17 : 4 
+
+Cmpener 
+
+Dr V. P. Gttpta DCM Engineering Products, Ropar 
+
+Members 
+Chemist & Metallurgist ( SF ) Ministry of Railways 
+CLW, Chittaranjan 
+Chemist & METALLtrROiST 
+N,F. Rly, New BoNaAiGAOiff {.Alternate) 
+Shri K. A. Gandhi HMT Ltd, bangalore 
+
+Shri Sakjit Sen ( Alternate ) 
+DrR.K. Khak National Institute of Foundry & Forge Techno- 
+
+logy, Ranchi 
+Dr K. S, S. Mt7BTHY Indian Institute of Science, Bangalore 
+
+
+
+( Contmied on page 18 ) 
+
+
+
+IS : 4269 - 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+DEXTRIN FOR USE IN FOUNDRIES 
+
+( First Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( First Revision ) was adopted by the Indian 
+Standards Institution on 30 December 1981, after the draft finalized by 
+the Foundry Sectional Committee had been approved by the Structural 
+and Metals Division Council. 
+
+€•2 This standard was first published in 1967. While reviewing the 
+standard in the light of the experience gained during these years, the 
+committee decided to revise die standard incorporating the following 
+modifications: 
+
+a) Amendment No. 1 issued earlier has been incorporated, 
+
+b) Requirements for dextrin have been modified, and 
+
+c) Sand mixed properties have been added for the users to evaluate 
+correct type of dextrin for their use. 
+
+0.3 Dextrin is a soluble gummy carbohydrate formed by partial 
+hydrolysis of starch by acid, enzyme or heat. It is used in the foundry 
+as a binder for cores to increase dry strength and also as a binder for 
+mould and core washes. 
+
+0.4 Besides the requirements of dextrin specified in this standard 
+individual foundries may have to evolve specific floor test requirements to 
+suit their jobs. In order to help foundries to evolve these requirements, 
+a recommended test procedure has been given in Appendix A which is 
+based on the practices followed in the industry. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is. complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS : 2-1960*. The number of significant places retained 
+in the rounded off value should be the same as that of the specified value 
+in this standard. 
+
+
+
+*Rules for rounding off numerical values ( revised), 
+
+3 
+
+
+
+IS : 4269 - 1981 
+
+1. SCOPE 
+
+1.1 This standard covers the requirements for two grades of dextrin for 
+use in foundries ( see Table 1 ). 
+
+2. SUPPLY OF MATERIAL 
+
+2.1 General requirements veXdiim^^ to the supply of dextrin for use in 
+foundries shall be as laid down in IS ; 1387-1967*. 
+
+TABLE 1 REQUIREMENTS OF DEXTRIN FOR USE IN FOUNDRIES 
+
+(C/auj(f 3.1) 
+
+
+
+CONSTITTTENT 
+
+
+Percent 
+
+
+BY 
+
+
+Weight 
+
+
+Method of Test 
+
+RtcTP to GTjATTSE 
+
+
+
+
+Grade 1 
+Yellow 
+
+
+
+
+Grade 2 
+White 
+
+
+
+
+(1) 
+
+
+(2) 
+
+
+
+
+(3) 
+
+
+(4) 
+
+
+Moisture, Max 
+
+
+10 
+
+
+
+
+10 
+
+
+B-2 
+
+
+Ash, Max 
+
+
+1 
+
+
+
+
+0-5 
+
+
+B-3 
+
+
+Insoluble in cold 
+water. Max 
+
+
+5 
+
+
+
+
+22 
+
+
+B-4 
+
+
+Soluble or n ducing 
+sugars, Max 
+
+
+5 
+
+
+
+
+10 
+
+
+B-5 
+
+
+Dextrin, Min 
+
+
+85 
+
+
+
+
+65 
+
+
+B-5 
+
+
+
+3. REQ]UIREMENTS 
+
+3.1 The material shall comply with the requirements given in Table I, 
+when tested in accordance with the metaods given in Appendix B. 
+
+3.2 Fineness — Dextrin shall be of such fineness that it shall pass 
+through the 150/xm IS Sieve Isee IS : 460 (Part I)-1978t ], 
+
+]SIoTE — Whfn 150-jx m IS 'Sieve is not available, equivalent BS sieve 100 or 
+ASTM sievo 149 ( 100) may be used. These BS and ASTM sieves have their 
+apertures within the limits specified for the corresponding IS Sieve, 
+
+4. PHYSICAL PROPERTIES OF STANDARD SAND MIXES 
+
+4*1 The physical properties of dextrin water sand mixes, when tested in 
+accordance with the procedure specified in Appendix A shall be as given 
+m Table 2 for the different grades of dextrin. 
+
+
+
+'General requirements for the supply of metallurgical materials (first revision). 
+tSpecification for wire cloth tfst sieves ( second revision ). 
+
+
+
+IS : 4269 - 1981 
+
+
+
+TABLE 2 REQUIREMENTS OF PHYSICAL PROPERTIES OF 
+STANDARD SAND MIXES 
+
+
+
+RSQUIBKBCSNTS 
+
+
+
+(1) 
+
+Moisture, percent, Min 
+
+Permeability 
+
+Green compression 
+strength, Afjn, MPa 
+
+*Dry shear strength, 
+Min, MPa 
+
+•Dry tensile strength 
+Min, MPa 
+
+
+
+( Clause 4A) 
+
+
+
+
+Type or 
+
+A. 
+
+
+Mix 
+
+
+Grade 1 
+
+
+Grade 2 
+
+
+(2) 
+
+
+(3) 
+
+
+V2 
+
+
+1-9 
+
+
+240-270 
+
+
+190-220 
+
+
+0-0140 
+
+
+0-017 5 
+
+
+0-49 
+
+
+0-35 
+
+
+0*245 
+
+
+0-175 
+
+
+
+►Sample dried at 220^ di S^'C for IJ hours. 
+
+
+
+5« PACKING 
+
+5.1 Unless specified otherwise, dextrin shall be supplied in moistureproof 
+bags each containing 50 kg. 
+
+6. SAMPLING 
+
+6.1 Representative samples of the material for testing shall be drawn as 
+prescribed in Appendix C. . . 
+
+7. MARKING 
+
+7.1 The bags shall be clearly marked with the manufacturer's name or 
+trade-mark and grade of the material. 
+
+7 J. BIS Certification Marking 
+
+The product may also be marked with Standard Mark. 
+
+7.2 .1 The use of the Standard Mark is governed by the provisions of the 
+Bureau of Indian Standards Act, 1986 and the Rules and Regulations made 
+thereunder. The details of conditions under which the licence for the use of 
+Standard Mark may be granted to manufacturers or producers may be obtained 
+from the Bureau of Indian Standards. 
+
+
+
+K : 4269 - 1981 
+
+APPENDIX A 
+
+( Clauses 0.4 and 4 A ) 
+
+RECOMMENDED FLOOR TEST PROCEDURE FOR 
+
+EVALUATLNG QUALITY OF DEXTRIN FOR 
+
+USE IN FOUNDRIES 
+
+A=0. GENERAL 
+
+A-0,1 This appendix describes a practical method for testing dextrin 
+samples by an individual foundry to determine its suitability for a specific 
+application. This is to be used for guidance only as the requirement of 
+each foundry is likely to vary depending on the type of sand used and the 
+type of jobs to be produced. 
+
+A-l. PREPARATION OF STANDARD SAND-DEXTRIN-WATER 
+MIXTLTRE 
+
+A-1.1 In order to evaluate the service quality of dextrin, a standard 
+sand-dextrin-water mixture shall be prepared. 
+
+A-l.Ll Apparatus — Standard sand mixer and rammer, 
+
+A-1.L2 Standard Foundry Sand-^ Conforming to IS : 3018-1977* shall be 
+used. 
+
+A-2, COMPOSITION OF STANDARD SAND MIX 
+
+A-2.1 The proportions of the constitution of standard sand mix shall be 
+as follows: 
+
+a) Standard silica sand 100 
+
+Yellow dextrin 4 percent based on sand 
+
+Water 1*2 percent based on sand 
+
+b) Standard silica sand 100 
+
+White dextrin 4 percent based on sand 
+
+Water 1*9 percent based on sand 
+
+A-3, PROCEDURE FOR MIXING 
+
+A-*3.1 Sand and dextrin shall be dry mixed for 2 minutes. Care shall be 
+taken to avoid loss of dextrin by sticking on the parts in mill beyond the 
+reach of the level of the sand during mixing. Predetermined quantity of 
+
+
+
+♦Specification for standard silica sand for raw material testing in foundries. 
+
+6 
+
+
+
+IS : 4269 - 1981 
+
+the water shall be added in slow and uniform stream while the mixer is 
+on and mixed for 3 minutes. Care shall be taken to avoid loss of water. 
+After the mixing cycle is over, the sand shall be discharged on a suitable 
+pan. During discharge scrapping of sides and plough shall be 
+avoided. The sand mix shall be homogenised by a little sand mixing 
+and stored in polythene bag in properly closed condition. 
+
+Note — Normally a laboratory mill of 2 to 5 kg capacity is designed to give 
+fully developed bond within the time mentioned above. However, the mixing lime 
+( water mix ) may be standardized for any individual case if 3 minutes time is found 
+to be inadequate. 
+
+A-4, TESTING PROCEDURE 
+
+A-4.1 The testing of physical properties of the sand mix that is moisture 
+content, permeability, green strength and shatter index shall be carried 
+out in accordance with the procedure specified in IS : 19 1 8- i 966*. 
+
+
+
+APPENDIX B 
+
+{ClavseSA.^nd Table 1 ) 
+METHODS OF TEST 
+
+B-1. Q:UALITY OF REAGENTS 
+
+B-1.1 Unless specified otherwise, pure chemicals shall be employed in 
+the tests and distilled water ( see IS : 1070-1977^ ) shall be used where the 
+use of water as a reagent is intended. 
+
+Note — * Pure chemicals * shall mean chemicals that do not contain impurities 
+which affect the test result. 
+
+B-2. DETERMINATION OF MOISTURE 
+
+B-2.1 Procedure — Weigh accurately about 5 g of the material in a 
+tared porcelain dish and cover it with a watch-glass. Place the dish in an 
+air-oven maintained at 105 ± 1**C and remove the watch-glass. Heat 
+the sample for 4 hours in the oven and cover the dish with the watch- 
+glass before taking it out of the oven. Cool the dish in desiccator and 
+weigh. 
+
+
+
+'Methods of physical tests for foundry sands. 
+
+fSpecification for water for general laboratory use ( suond rmnsum ) . 
+
+
+
+IS : 4269 - 1981 
+B-2.2 Calculation 
+
+
+
+A 
+
+Moisture, percent = ^ X 100 
+
+
+
+where 
+
+A = loss in mass in grams of the material after heating, and 
+B = mass in grams of the material taken 
+
+B-3. DETERMINATION OF ASH 
+
+B-3,1 Procedure — Weigh accurately about 5 g of the moisture-free 
+material in a tared silica dish and incinerate at 600**C till the residue in 
+the crucible is constant in mass. 
+
+
+
+B-3.2 Calculation 
+
+B 
+
+
+
+A 
+
+Ash, percent = -^ X ( 100 — m ) 
+
+
+
+where 
+
+A = mass in grams of ash, 
+b = mass in grams of the sample taken, and 
+m = moisture percent. 
+
+B-4. DETERMINATION OF INSOLUBLE IN GOLD WATER 
+
+B-4.1 Procedure — Weigh accurately about 25 g of the sample. Mix it 
+thoroughly with water in a clean beaker and transfer it to 500-ml 
+volumetric flask. Shake thoroughly for several hours and make it up to 
+the mark. Leave it overnight and pipette out 50 ml of the supernatant 
+liquid in a weighed porcelain dish. Evaporate the liquid on a water-bath, 
+and wipe off the water adhering to the bottom and sides by a clean cloth, 
+dry in an air-oven maintained at lOS^G for 10 to 15 minutes very 
+cautiously to avoid charring, cool in a desiccator and weigh to constant 
+weight. 
+
+B-4.2 Calculation 
+
+Insoluble in water, percent = X 100 
+
+Jt> 
+
+where 
+
+B = mass in grams of the sample taken, and 
+A = mass in grams of the residue in the porcelain dish left 
+after evaporation of 50 ml supernatant liquid. 
+
+8 
+
+
+
+IS ! 4269 - 1981 
+
+B-5. DETERMINATION OF SOLUBLE OR REDUCING SUGARS 
+AND DEXTRIN CONTENTS 
+
+B-5.1 Reagents 
+
+B-5.L1 Lead Sub-acetate Solution — Activate about 200 g of litharge by 
+heating at 650 to 670''C for 3 hours (cooled product should be of lemon 
+colour). Boil 430 g natural lead acetate, 130 g freshly activated litharge 
+and 1 litre water for 30 minutes* Cool and allow to settle. Dilute the 
+supernatant liquid to specific gravity 1*25 with freshly boiled and cooled 
+distilled water. 
+
+B-5.1.2 Stock Solution of Dextrose — Weigh accurately 10 g of anhydrous 
+dextrose into a 1-litre volumetric flask and dissolve it in water. Add to 
+this solution 2*5 g benzoic acid, shake to dissolve the benzoic acid and 
+make up the volume to the mark with water. This solution should not 
+be used after 48 hours. 
+
+B-5.1.3 Standard Dextrose Solution — Dilute a known aliquot of the stock 
+solution of dextrose ( see B-5.1.2 ) with water containing 0*25 percent 
+( mjv ) benzoic acid to such a concentration that more than 15 ml but less 
+than 50 ml of it shall be required to reduce all the copper in the Fehling's 
+solution taken for titration. Note the concentration of anhydrous 
+dextrose in this solution as milligrams per 100 ml. Prepare this solution 
+fresh every day. 
+
+Note — When 10 ml of Fehling's solution {see also B-5.2.2.3) are taken for 
+titration, a standard dextrose solution containing 0*11 to 0*30 percent (mlv) of 
+anhydrous dextrose is convenient for use, 
+
+B-3.1.4 Methylene Blue Indicator Solution — Dissolve 0'2 g of methylene 
+blue in water and dilute to 100 ml. 
+
+6*^5.1.5 Fehling^s Solution ( Soxhlet Modification ) — Prepared by mixing 
+immediately before use, equal volumes of solution A {see B-5.1.5.1 ), and 
+solution B ( see B-5.1.5.2 ). 
+
+B-5.1.5.1 Solution A — Dissolve 34'639 g of copper sulphate 
+( CUSO4. 5H2O ) in water, and O'S ml of concentrated sulphuric acid of 
+sp gr 1-84 { conforming to Grade AR of IS : 266-1977 *), and dilute to 
+500 ml in a volumetric flask. Filter the solution through prepared 
+asbestos. 
+
+B-5.1.5.2 Solution B —Dissolve 173 g of Rochelle salt [potassium 
+sodium tartrate { KNaG4H40e. 4H2 O ) ] and 50 g of sodium hydroxide, 
+analytical reagent ( conformmg to 18:376-19761) in water, dilute to 
+
+
+
+♦Specification for sulphuric acid (second revision). 
+
+•f Specification for sodium hydroxide, analytical reagent ( fecond revision ), 
+
+
+
+IS: 4269 -1981 
+
+500 ml in a volumetric flask and allow the solution to stand for 2 days. 
+Filter this solution through prepared asbestos. 
+
+B-5.1.5.3 Standardization of Fehling's solution — Pour standard dextrose 
+solution ( see B-5.1.3 ) into a 50-ml burette { see Note 1 ). Find the titre 
+(volume of standard dextrose solution required to reduce all the copper 
+in 10 ml of Fehling's solution) corresponding to the concentration of 
+standard dextrose solution from Table 3. (For example, if the standard 
+dextrose solution contains 167'0 mg of anhydrous dextrose per 100 ml, 
+the corresponding titre Would be 30 ml.) Pipette 10 ml {see also B-5.2.2.3) 
+of Fehling's solution into a 300-ml conical flask and run in from the 
+burette almost the whole of the standard dextrose solution required to 
+affect reduction of all the copper, so that not more than 1 ml will be 
+required later to complete the titration. Heat the flask containing the 
+mixture over a wire gauze. Gently boil the contents of the flask for 
+2 minutes. At the end of 2 minutes of boiling, add, without interrupting 
+boiling, 1 ml of methylene blue indicator solution. While the content! 
+of the flask continue to boil, begin to add standard dextrose solution (one 
+or two drops at a time) from the burette till the blue colour of the 
+indicator just disappears. [ The titration should be completed within 
+1 minute, so that the contents of the flask boil altogether for 3 minutes 
+without interruption {see Note 2)]. Note the titre in millilitres of 
+standard dextrose solution. Multiply the titre (obtained by direct titration) 
+by the number of milligrams of anhydrous dextrose in 1 ml of the 
+standard dextrose solution to obtain the dextrose factor. Compare this 
+factor with the dextrose factor given in Table 3 and determine 
+correction, if any, to be applied to the dextrose factors derived from 
+Table 3. 
+
+Note 1 — In adding sugar solution to the reaction mixture the burette may be 
+held in hand over the flask. The burette may be fitted with a small outlet tube bent 
+twice at right angles, so that the body of the burette can be kept out of the stream 
+while adding sugar solution. Burettes with glass taps are unsuitable for this work, as 
+the taps become heated by the steam and are liable to jam. 
+
+Note 2 — It should be observed that with both incremental and standard 
+methods of titration, the flask containing the reaction mixture is left on the wire 
+gauze over the flame throughout the titration, except when it may be removed for a 
+few seconds to ascertain if the end point is reached. 
+
+Example : 
+
+Concentration of anhydrous dextrose in standard dextrose solution, 
+mg/lOO ml = 167-0 
+
+Titre obtained by direct titration— 30*1 ml 
+
+Dextrose factor for 30' 1 mi of standard dextrose solution (titre in 
+millimetres x number of milligrams of anhydrous dextrose in 
+1 ml of standard dextrose = 30*1 x 1 '670 = 50*267 
+
+10 
+
+
+
+IS ! 4269 - 1981 
+
+Dextrose factor for 30" 1 ml of standard dextrose solution from 
+Table 3 (calculated by interpolation) =50*11 
+
+Correction to be applied to the dextrose factors derived from 
+Table 3 = 50-267 - 50' 11 = -f 0-157 
+
+
+
+TABLE 3 DEXTROSE FACTORS FOR 10 ml OF 
+FEHLING'S SOLUTION 
+
+( Clauses B-5.1.5.3 and B-5.2.2.3 ) 
+
+TiTKE ♦Dextrose Factob Anhydrous 
+
+Dextrose 
+PER 10 ml 
+
+OF SOLX7TION 
+
+ml mg 
+
+(1) (2) (3) 
+
+15 49-1 327 
+
+16 49-2 307 
+
+17 49-3 289 
+
+18 49-3 274 
+
+19 49*4 260 
+
+20 49-5 247-4 
+
+21 49-5 235-8 
+
+22 49-6 225-5 
+
+23 49-7 216-1 
+
+24 49-8 207-4 
+
+25 49-8 199*3 
+
+26 49-9 191-8 
+
+27 49-9 184-9 
+
+28 50-0 178*5 
+
+29 50-0 172*5 
+
+30 50-1 167-0 
+
+31 50-2 161-8 
+
+32 50*2 156-9 
+
+33 50-3 152-4 
+
+34 50-3 148-0 
+
+35 50*4 143-9 
+
+36 50-4 140-0 
+
+37 50-5 136-4 
+
+38 50-5 132-9 
+
+39 50-6 129-6 
+
+•Milligr:ims of anhydrous dextrose corresponding to 10 ml of Fehling's solution. 
+
+( Continued ) 
+
+
+
+11 
+
+
+
+IS i 4269 - 1981 
+
+
+
+
+
+Dextrose 
+
+
+
+
+Per 10 ml 
+
+
+
+
+OF SoiiTJTION 
+
+
+
+
+mg 
+
+
+(2) 
+
+
+(3) 
+
+
+50-6 
+
+
+126-5 
+
+
+50*7 
+
+
+123-6 
+
+
+50v 
+
+
+120*8 
+
+
+50-8 
+
+
+118-1 
+
+
+50-B 
+
+
+115-5 
+
+
+50-9 
+
+
+113-0 
+
+
+50-9 
+
+
+110-6 
+
+
+51-0 
+
+
+108-4 
+
+
+51-0 
+
+
+106-2 
+
+
+51-0 
+
+
+104-1 
+
+
+
+TABLE 3 DEXTROSE FACTORS FOR 10 ml OF 
+F£HLING*S SOLUTION — G)nfrf 
+
+TiTBB ♦Dextrose Factor Anhydrous 
+
+
+
+ml 
+
+(1) 
+
+40 
+41 
+
+42 
+43 
+
+44 
+
+45 
+46 
+47 
+48 
+49 
+
+50 51-1 102-2 
+
+
+
+♦Milligrams of anhydrous dextrose corresponding to 10 ml of Fehling's solution. 
+
+
+
+B-5.2 Procedure 
+
+B»5.2.1 Weigh accurately 10 g of the moisture-free sample ( see B»2«l ) 
+in a beaker. Mix it thoroughly with 100 ml of distilled water. Transfer 
+to a 250-ml volumetric flask. Add drop by drop lead sub-acetate 
+solution till precipitation is complete. Make the solution up to the 
+mark by adding distilled water. Mix thoroughly and allow it to 
+settle down. Filter the supernatant liquid, collect the filtrate in a dry 
+beaker. Add dry potassium oxalate to the filtrate to remove excess of 
+lead. Filter and collect the filtrate as the clarified solution in a 250-ml 
+flask. Make it up to mark for subsequent estimations of soluble or 
+reducing siigar and dextrin. 
+
+B-5.2.2 Estimation of Soluble or Reducing Sugars 
+
+B-5.2.2.1 Incremental method of titration — Four the clarified solution 
+( see B-5.2.1 ) into a 50-ml burettec ( see Note 1 under B-5*l*5.3 ). Pipettee 
+10 ml of Fehling's solution into a 300-ml conical flask and rim in from 
+
+12 
+
+
+
+IS:426§-1981 
+
+the burette 15 m! of the clarified solution. Without further dihitionj heat 
+the contents of the flask over a wire gauze, and boil. After the liquid has 
+been boiling for about 15 seconds, it will be possible to judge if the 
+copper is almost reduced by the bright red colour imparted to the boiling 
+liquid by the suspended cuprous oxide. When it is judged that nearly all 
+the copper is reduced, add 1 ml of methylene blue indicator solution 
+( see Note 1 ). Continue boiling the contents of the flask for 1 to 2 minutes 
+from the commencement of ebulition, and then add the clarified solution 
+in small quantities (1 ml or less at a time ) allowing the liquid to boil for 
+about 10 seconds between successive additions, till the blue colour of the 
+indicator just disappears {sie Note 2 under B-5.1.5.3). In case there 
+appears to be still much unreduced copper, after the mixture of Fehling's 
+solution with 15 ml of the clarified solution has been boiling for 
+15 seconds, add the clarified solution from the burette in larger 
+increments (more than 1 ml at a time, according x.o judgement) and 
+allow the mixture to boil for 15 seconds after each addition. Repeat the 
+addition of the clarified solution at intervals of 15 seconds until it is 
+considered unsafe to add a large increment of the clarified solution. At 
+this stage continue the boiling for an additional 1 to 2 minutes, add 1 ml 
+of methylene blue indicator solution and complete the titration by adding 
+the clarified solution in small quantities ( less than 1 ml at a time ) 
+( see also Note 2 )- 
+
+Note I — It is advisable not to add the indicator until the neighbourhood of 
+the end point has been reached, because the indicator retains its full colour until the 
+end point is almost reached and thus gives no warning to the operator to go slowly. 
+
+Note 2 — When th« operator has had a fair amount of experience with- the 
+method, a sufficiently accurate result may often be obtained by a single estimation 
+by the incremental method of titration, but for the utmost degree of accuracy of 
+which the method is capable a second titration should be carried out by the standard 
+method of titration ( see B-5.2-2.2 ) . 
+
+B-5.2.2.2 Standard method of titration — Pipette 10 ml of Fehling's 
+solution into a 300-mI conical flask and run in from the burette almost the 
+whole of the clarified solution required to effect reduction of all the 
+copper ( determined under B-5*2*2*l ), so that, if possible, not more than 
+1 ml shall be required later to complete the titration. Gently boil the 
+contents of the flask for 2 minutes. At the end of 2 minutes of boiling, 
+add, without interrupting boiling, 1 ml of methylene blue indicator 
+solution. While the contents of the flask continue to boil, begin to add 
+standard dextrose solution ( one or two drops at a time ), from the burette 
+till the blue colour of the indicator just disappears. The titration should 
+be completed within 1 minute, so that the contents of the flask boil 
+altogether for 3 minutes without interruption ( see Note 2 under 
+B-5.1.5.3). 
+
+Note — The indicator is so sensitive that it is possible to determine the end 
+point within one drop of the clarified solution in many cases. The complete 
+decolourization of the methylene blue is usually indicated by the whole reaction 
+
+'3 
+
+
+
+IS : 4269 - 1981 
+
+liquid in which the cuprous oxide is continuously churned up becoming bright red or 
+orange in colour. In case of doubt the flame may be removed from the wire gauze 
+for 1 or 2 seconds and the flask held against a sheet of white paper. ( A holder of 
+paper, suitably fixed round the neck of the flask, is very convenient for this purpose 
+as it can be left round the neck of the flask without risk of overbalancing it. ) The 
+top edge of the liquid would appear bluish if the indicator is not completely 
+decolourized. It is advisable not to interrupt the boiling for more than a few 
+seconds as the indicator undergoes back oxidation rather rapidly when air is allowed 
+free access to flask, but there is no danger of this as long as a continuous stream of 
+steam is issuing from the mouth of the flask. 
+
+B-5.2.2.3 Calculation — Refer to Table 3 for the dextrose factor 
+corresponding to the titre ( determined as given under B-5.2.2.2 ) and 
+apply the correction previously determined under B-5.1.5.3. Calculate 
+the dextrose content of the clarified solution ( see B-5.2.1 ) as follows: 
+
+Anhydrous dextrose present in 1 ml dextrose factor 
+
+of the clarified solution w. ml = =; 
+
+Titre 
+
+Instead of using 10 ml of Fehling's solution, a 25 ml portion may 
+also be substituted throughout the procedure ( including standardization 
+of Fehling's solution under B-5»1.5.3). In this case standard dextrose 
+solution, used in standardizing the Fehling's solution and the clarified 
+solution of the material ( see B->5.1*3 ) should contain 0*25 to 0*75 percent 
+{mjv) of anhydrous dextrose and Table 4 should be used for all such 
+calculations. 
+
+Note — Tables 3 and 4 show for the standard niethod of titration, the values 
+corresponding to integral millilitres of the sugar solutions, values corresponding to 
+intermediate figures being obtained by interpolation. 
+
+Reducing sugars content of the material, percent ^y 
+
+by mass ( on anhydrous dextrose basis ) = ~t'(\1aF 
+
+where 
+
+xi) = milligrams of anhydrous dextrose in 1 ml of the 
+
+clarified solution ( see B-5.2.2.3 ), 
+V == total volume in millilitres of the clarified solution of the 
+
+material prepared ( see B-5.2.1 ), and 
+W ~ mass in grams of the material used to prepare V ml of 
+the clarified solution ( see B-5.2.1 ). 
+
+B-5.2.3 Estimation of Dextrin Content — Take 50 ml of clarified solution 
+( see B-5.2.1 ) in a clean 400 ml flask. Add 20 ml hydrochloric acid 
+(sp gr 1*18) and 100 ml water. Boil gently using a water-cooled reflux 
+condenser for two and a half hours. Cool to room temperature. 
+Neutralize the solution with sodium hydroxide solution (1:1). Transfer 
+the solution to a 500-ml volumetric flask and make up to the mark. 
+Determine the invert sugar in percent by mass as under B-5.2.2. Substract 
+from this the percentage of reducing sugars obtained under B-5.2.2 and 
+multiply it by 0'9 to get the percentage of dextrin. 
+
+1^ 
+
+
+
+IS : 4269 - 1981 
+
+
+
+TABLE 4 DEXTROSE FACTORS FOR 25 ml OF FEHLING'S SOLUTION 
+
+{Clause ^-5,2.23) 
+
+TiTBE *DEXTItOSE FaCTOH AtTHYDROTJS 
+
+Dextrose 
+PER 100 ml 
+OF Solution 
+
+ml mg 
+
+(1) (2) (3) 
+
+15 120-2 801 
+
+16 120-2 751 
+
+17 120-2 707 
+
+18 120-2 668 
+
+19 120-3 633 
+
+20 120-3 601-5 
+
+21 120-3 572-9 
+
+22 120-4 547-3 
+
+23 120-4 532-6 
+
+24 120-5 501-9 
+
+25 120-5 482-0 
+
+26 120-6 463-7 
+
+27 120-6 446-8 
+
+28 120-7 43I-i 
+
+29 120-7 416-4 
+
+30 120-8 402-7 
+
+31 120-8 389-7 
+
+32 120-8 377-6 
+
+33 120-9 366*3 
+
+34 120-9 355-6 
+
+35 121*0 345-6 
+
+36 121-0 336-3 
+
+37 121'1 327-4 
+
+38 121-2 318-8 
+
+39 121-2 310-7 
+
+40 121-2 303-1 
+
+41 121*3 296-9 
+
+42 121-4 289*0 
+
+43 121-4 282-4 
+
+44 121-5 276-1 
+
+45 121-5 270-1 
+
+46 121-6 264-3 
+
+47 121-6 258-8 
+
+48 121-7 253-5 
+
+49 121*7 248*4 
+
+50 121*8 243-6 
+
+♦Milligrams of anhydrous dextrose corresponding to 25 ml of Fehling's solution. 
+
+15 
+
+
+
+IS : 4269 - 1981 
+
+APPENDIX C 
+
+( Clause 6. 1 ) 
+
+SAMPLING OF DEXTRIN FOR USE IN FOUNDRIES AND 
+CRITERIA FOR CONFORMITY 
+
+C-1. SCALE OF SAMPLING 
+
+C-1.1 Lot — In any consignment, all the bags of material of the same 
+grade and drawn from the same batch of manufacture shall be grouped 
+together to constitute a lot. 
+
+C-1.1.1 Tests for the determination of the conformity of a lot to the 
+requirements of the specification shall be done for each lot separately. 
+The number of bags to be selected at random for this purpose from a lot 
+shall be as given below; 
+
+No. of Bags in the Lot No. of Bags to be Selected 
+
+Up to 15 3 
+
+16 „ 25 4 
+
+26 „ 50 5 
+
+51 „ 100 7 
+
+101 and above 10 
+
+C-2. PREPARATION OF TEST SAMPLES 
+
+C-2.1 From each of the bags selected according to C-l.U. small portions 
+of the material shall be drawn with the help of a suitable sampling 
+instrument from different parts of the bags. The total quantity of the 
+material so drawn from each bag shall be not less than 200 g and these 
+shall form the individual samples representative of the different bags 
+selected. 
+
+C-2.2 From each of the individual sample formed according to &2.1, 
+approximately 150 g of the material shall be drawn and mixed together 
+to form a composite sample. The composite sample so formed may be 
+reduced further, if necessary, by coning and quartering so as to obtain 
+enough material sufficient to conduct all the tests specified in this 
+standard. 
+
+C-3. NUMBER OF TESTS 
+
+G-3.1 Tests for the determination of dextrin content shall be conducted 
+on each of the individual samples {see C-2.1 ) separately, 
+
+16 
+
+
+
+IS : 4269 - 1981 
+
+C-3.2 Tests for the determination of all other characteristics mentioned in 
+Table 1 shall be conducted on the composite sample ( see C-2.2) 
+
+C-4. CRITERIA FOR CONFORMITY 
+
+C-4.1 The lot shall be declared as conforming to the requirements of the 
+specification if the conditions stipulated in C-4.i«l and C-4.1.2 are 
+
+satisfied. 
+
+C-4.1. 1 From the individual test results for dextrin content, the mean 
+and range ( difference between the maximum and minimum values of 
+test results ) shall be calculated. 
+
+The value of the expression (Mean — 0*6 Range) shall then be 
+found to be greater than or equal to the relevant minimum value 
+specified in Table 1. 
+
+C-4.1.2 The test results for all the characteristics determine on the 
+composite sample shall be found to be satisfactory. 
+
+
+
+1.^ 
+
+
+
+IS : 4269 - 1981 
+
+( Continued from page 2 ) 
+
+Members Representing 
+
+Shri N. V. Raja Rao Tata Engineering & Locomotive Co Ltd, 
+
+Jamshedpur 
+
+Shri A. Bhattaohakjee ( Alternate ) 
+Shri T. Ranganathan Indian Vegetable Products Ltd, Bombay 
+
+Shri M. T, Jetly ( Alternate ) 
+Shri S. C. Rastogi Heavy Engineering Corporation Ltd, Ranchi 
+
+Shri M. Mohan ( Alternate ) 
+Shri K. S. Shah Premier Automobiles Ltd, Bombay 
+
+Shri D. Sitaramaiah Greaves Foseco Ltd, Bombay 
+
+Shri S. Seetharaman ( Alternate) 
+Shri T. S. Venkoba Rao Ennore Foundries Ltd, Madras 
+
+Shri K. Chinnathanbi ( Alternate ) 
+
+
+
+18 
+
+
+
+BUREAU OF INDtAN STANDARDS 
+
+Headquarters. 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 1 1 0002 
+
+Telephones: 323 0131 , 323 3375, 323 9402 
+
+Fax : 91 11 3234062, 91 11 3239399, 91 11 3239382 
+
+Telegrams : Manaksanstha 
+
+(Common to all Offices) 
+
+Centra! Laboratory : Telephone 
+
+Plot No. 20/9, Site IV, Sahibabad Industrial Area, Sahibabad 201010 8-77 00 32 
+
+Begioital Offices: 
+
+Central : Manak Bhavan. 9 Bahadur Shah Zafar Marg, NEW DELH1 1 1 0002 323 76 17 
+
+*Eastem : 1/1 4 CIT Scheme VII M, V.I.P. Road, Maniktola, CALCUTTA 700054 337 86 62 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 1 60022 60 38 43 
+
+Southern : C.LT Campus, IV Cross Road, CHENNAI 6001 13 235 23 15 
+
+tWestem : Manakalaya. E9, Behind Marol Telephone Exchange, Andheri (East), 832 92 95 
+MUMBAl 400093 
+
+Branch Offices:: 
+
+'Pushpak*, Nurmohamed Shaikh Marg, Khanpur, AHMEDABAD 380001 550 13 48 
+
+tPeenya Industrial Area, 1 st Stage, Bangalore-Tumkur Road, 839 49 55 
+BANGALORE 560058 
+
+Gangotri Complex, 5th Roor, Bhadbhada Road, T.T. Nagar, BHOPAL 462003 55 40 21 
+
+Plot No. 62-63, Unit VI, Ganga Nagar, BHUBANESHWAR 751001 40 36 27 
+
+Kalaikathir Buildings, 670 Avinashi Road, COIMBATORE 641037 21 01 41 
+
+Plot No. 43, Sector 16 A, Mathura Road, FARIDABAD 121001 8-28 88 01 
+
+Savitri Complex, 116 G.T. Road, GHAZIABAD 201001 8-71 19 96 
+
+53/5 Ward No.29, R.G. Barua Road, 5th By-lane, GUWAHATI 781003 54 1 1 37 
+
+5-8-56C, L.N. Gupta Marg, Nampally Station Road, HYDERABAD 500001 20 1 83 
+
+E-52, Chitaranjan Marg, C-Scheme, JAIPUR 302001 37 29 25 
+
+1 1 7/41 8 B, Sarvodaya Nagar, KANPUR 208005 21 68 76 
+
+Seth Bhawan, 2nd Roor, Behind Leela Cinema, Naval Kishore Road, 23 89 23 
+LUCKNOW 226001 
+
+NIT BUilding, Second Roor, Gokulpat Market, NAGPUR 440010 52 51 71 
+
+Patliputra Industrial Estate, PATNA 800013 26 23 05 
+
+Institution of Engineers (India) Building 1 332 Shivaji Nagar, PUNE 41 1 005 32 36 35 
+
+T.a No. 14/1421, UniversTtyP. O. Palayam. THIRUVANANTHAPURAM 695034 6 21 17 
+
+
+
+*Sales Office is at 5 Chowringhee Approach, P.O. Princep Street, 27 1 85 
+
+CALCUTTA 700072 
+
+tSaies Office is at Novelty Chambers, Grant Road, MUMBAl 400007 309 65 28 
+
+tSales Office is at *F' Bk>ck, Unity Building, Narashimaraja Square, 222 39 71 
+
+BANGALORE 560002 
+
+
+
+Printed at Pnntograph, New Delhi (INDIA). 
+
+
+

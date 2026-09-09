@@ -1,0 +1,1233 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 13622 (1993) : Indian timbers for furnitures and 
+cabinets- Classification [CED 9: Timber and Timber Stores] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangarara Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 13622; 1993 
+
+( Reaffirmed 2003 ) 
+
+Indian Standard 
+
+INDIAN TIMBERS FOR FURNITURES AND 
+CABINETS — CLASSIFICATION 
+
+
+
+UDC 674-03 : 674-23-00I-3 
+
+
+
+© BIS 1993 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+February 1993 P'ice Group 2 
+
+
+
+Timber Sectional Committee, CED 9 
+
+
+
+FOREWORD 
+
+This Indian Standard was adopted by the Bureau of Indian Standards, after the draft finalized 
+by the Timber Sectional Committee had been approved by the Civil Engineering Division 
+Council. 
+
+Various Indian Standards have been formulated on different varieties on wooden furniture and 
+cabinet making, namely, chairs, tables, almirahs, sofa sets etc. These specifications do not 
+contain list of species to be used for the purpose, but refer to IS 399 : 1963 'Classification of 
+commercial timbers and their zonal distribution { revised y for the same, which lists zonewise 
+species for furniture and cabinets on the basis of general utilisation pattern in India and 
+not on technical consideration for different furniture items. It also does not classify species for 
+different types of furniture as the requirement of different type of furniture is different. 
+
+Due to acute shortage of the traditionally accepted timber species and owing to the fact that 
+knowledge of properties and utilization characteristics of large number of species are now 
+available as a result of research carried out at Forest Research Institute, Dehra Dun, it was consi- 
+dered necessary to formulate a separate comprehensive standard on classification of Indian 
+timbers for furniture and cabinets as has been done for door and window shutters and frames 
+( IS 12896 : 1990 ^Classification for Indian timbers for door and window shutters and frames' ). 
+
+Requirements of timber for different types of furniture and cabinets are different. For example, 
+for decorative and ornamental furniture, grain orientation, texture, colour and figure are 
+important requirements. While for general utility furnitures these are not so essential. This 
+classification is based on strength coeflBcient, weight, retention of shape, refractoriness to 
+seasoning, ease of working, grain, colour, texture, finish, polish, general appearance etc and 
+is adopted from the publication 'Classification and grading of Indian timbers for furniture and 
+cabinet making' by S. S. Rajput and V. K. Gupta, Division of Forest Products, Forest Research 
+Institute, Dehra Dun in the Journal of Timber Development Association ( India ), Vol 38, 
+No. 1, 1992. This standard recommends 103 species in 4 groups and also lays down general 
+requirement of quality of timber for furniture and cabinets. 
+
+
+
+IS 13622 : 1993 
+
+
+
+Indian Standard 
+
+INDIAN TIMBERS FOR FURNITURES AND 
+CABINETS — CLASSIFICATION 
+
+
+
+1 SCOPE 
+
+This standard covers the general classification 
+of Indian Timber species suitable for furniture 
+and cabinets. It also lays down the general 
+requirements of quality, moisture content and 
+preservative treatment for the timber. 
+
+
+
+2 REFERENCES 
+
+The following Indian Standards are 
+adjuncts to this standard: 
+
+
+
+necessary 
+
+
+
+IS No. 
+
+287 : 1973 
+
+401 : 1982 
+707 : 1976 
+
+1141 : 1973 
+11215 : 1991 
+
+
+
+Title 
+
+
+
+Recommendations for maxi- 
+mum permissible moisture 
+content of timber used for 
+diiferent purposes ( second 
+revision ) 
+
+Code of practice for preser- 
+vation of timber ( third 
+revision ) 
+
+Glossary of terms applicable 
+to timber technology and 
+utilization ( second revision ) 
+
+Code of practice for seasoning 
+of timber ( first revision ) 
+
+Methods for determination of 
+moisture content of timber 
+and timber products (first 
+revision ) 
+
+
+
+3 TERMINOLOGY 
+
+3.1 For the purpose of this standard, the defini- 
+tions given in IS 707 : 1976 and the following 
+shall apply. 
+
+3.2 Strength Coefficient 
+
+The numerical value for a timber species 
+evaluated by taking into consideration its 
+strength as a beam, suitability as a post, reten- 
+tion of shape and splitting coefficient expressed 
+in terms of teak as 100. 
+
+4 TIMBER SPECIES 
+
+4.1 Timber for manufacture of furniture and 
+cabinets shall have adequate strength, weight, 
+retention of shape, ease of working, ability to 
+season well, smooth finish, colour, texture, 
+
+
+
+figure and appearance. Retention of shape 
+value shall be more than 60 compared to teak 
+as 100 for all timbers suitable for furniture and 
+cabinets. Timber species shall be classified 
+into the four groups in accordance v/ith the 
+criteria given in 4.1.1 to 4.1.4, for individual 
+groups. However, there are some exceptions 
+for species otherwise well accepted in a 
+particular group. 
+
+4.1.1 Super Group 
+
+The criteria for selection of species in this 
+group shall be as follows: 
+
+Strength coefficient — 75 or more 
+
+Weight ( compared to — §5 to 110 
+
+teak as 100 ) 
+
+Grain, texture, finish, — Excellent 
+
+polish and general appearance 
+
+Species of this group are given in Annex A. 
+
+4.1.2 Group I 
+
+The criteria for selection of species in this 
+group shall be as follows: 
+
+Strength coefficient — 75 or more 
+
+Weight ( compared to ~ 85 to 110 
+
+teak as 100 ) 
+
+Grain, texture, finish, — Very good 
+
+polish and general appearance 
+
+Species of this group are given in Annex B. 
+
+4.1.3 Group II 
+
+The criteria for selection of species in this 
+group shall be as follows: 
+
+Strength coefficient — 65 or more 
+
+Weight ( compared to — 70 to 120 
+
+teak as 100 ) 
+
+Grain, texture, finish, — Good 
+
+polish and general appearance 
+
+Species of this group are given in Annex C. 
+
+4.1.4 Group III 
+
+The criteria for selection of species in this 
+group shall be as follows: 
+
+
+
+1 
+
+
+
+IS 13622 : 1993 
+
+
+
+Strength coefficient — 50 or more 
+
+Weight ( compared to — 60 to 130 
+
+teak as 100 ) 
+
+Grain, texture, finish, — Satisfactory 
+
+polish and general appearance 
+
+Species of this group are given in Annex D. 
+
+5 GENERAL REQUIREMENT 
+
+5.1 Timber of all groups shall be free from 
+decay, fungal growth, shakes, box heart, pitch 
+pockets, streaks, dead and loose knots and 
+insect attack. 
+
+5.2 Following defects shall be permitted to the 
+extent mentioned against each. 
+
+5.2.1 Slope of Grain 
+
+Slope of grain shall be permitted up to 1 in 15. 
+
+5.2.2 Live Knots 
+
+Live knots up to 15 mm in diameter and 2 in 
+number per metre shall be permitted provided 
+they are not so grouped or located as to adver- 
+sely affect the strength. Live knots from 15 to 
+25 mm in diameter shall be permitted to the 
+extent of 1 knot per metre. The knot shall 
+not be allowed near joints. 
+
+5.2.3 Checks 
+
+Checks up to 2 mm in depth shall be allowed. 
+
+
+
+5.2.4 Splits 
+
+The largest splits at both ends added together 
+shall be allowed to the extent ofS percent of 
+length of the piece. 
+
+5.2.5 Bow and Spring 
+
+These shall be allowed to the extent of 1 mm 
+per metre. 
+
+5.2.6 Cup 
+
+Cup shall be allowed to the extent of 2 mm 
+per 300 mm. 
+
+5.2.7 Wane 
+
+Wane shall not be more than 4 percent of the 
+surface at which it appears and shall not be 
+present m more than 25 percent pieces in a lot. 
+
+6 SEASONING AND MOISTURE CONTENT 
+
+Timber shall be seasoned to the moisture 
+content conforming to 3.1 and 4.1 of 
+IS 287 : 1973 by a suitable process specified in 
+IS 1141:1973. Moisture content shall be 
+determined either by oven drying method or 
+by electrical moisture meter method as speci- 
+fied in IS 11215 : 1991. 
+
+7 PRESERVATIVE TREATMENT 
+
+Sapwoodofall durable species and timber of 
+durability class III shall be given a preservative 
+treatment as specified in IS 401 : 19&2. 
+
+
+
+ANNEX A 
+( Clause 4.1.1 ) 
+
+SUPER GROUP TIMBERS 
+
+
+
+Sl No. Name of Species Trade Name 
+
+1. Albizia lebbeck kokko 
+
+2. Albizia odoratissima kala siris 
+
+3. *Chloroxylon swietenia satin wood 
+
+4. Chukrasia velutina chickrassy 
+
+5. Dalbergia latifolia rose wood 
+
+6. Dalbergia sissoides rose wood 
+
+7. Dalbergia sissoo sissoo 
+
+
+
+Sl No. Name of Species Trade Name 
+
+8. Dysoxylum malabaricum white cedar 
+
+9. Gluta travancorica gluta 
+
+10. "^Juglans regia walnut 
+
+11. Phoebe hainesiana bonsum 
+
+12. Pterocarpus dalbergioides padauk 
+
+13. Teetona grandis teak 
+
+
+
+*Timber species to be treated. 
+
+
+
+IS 13622 : 1993 
+
+
+
+Sl No. Name of Species 
+
+1. Albizia procera 
+
+2. Amoora spp. 
+
+3. Aphanamixis polystachya 
+
+4. Artocarpus hirsutus 
+\ CalophylJum elatum 
+
+6. '^Fraxinus excelsior 
+
+7. Lagerstroemia hypoleiica 
+
+8. Lagerstroemia lanceolata 
+
+
+
+ANNEX B 
+
+{Clause 4 A. 2) 
+GROUP I TIMBERS 
+
+
+
+Trade Name 
+
+safed siris 
+
+amari 
+
+pitraj 
+
+aini 
+
+poon 
+
+ash 
+
+pynima 
+
+benteak 
+
+
+
+Sl No. Name of Species 
+
+9. Lagerstroemia speciosa 
+
+10. Michelia spp. 
+
+11. -fMorus laevigata 
+
+12. Pterocarpus marsupium 
+
+13. "^TerminaUa bialata 
+
+14. Zanthoxylum rhesta 
+
+
+
+Trade Namj^ 
+jarul 
+champ 
+bola 
+bijasal 
+
+white chuglam 
+mullilam 
+
+
+
+*Titnb2r species to be treated. 
+
+tTiniber species whose durability is not known. 
+
+
+
+Sl No. Name of Species 
+
+1. *^cer spp. 
+
+2. ^^Acrocarpus fraxinifolius 
+
+3. ""Adina cordifolia 
+
+( Syn. Haldina cordifolia ) 
+
+4. Artocarpus chaplasha 
+
+5. Artocarpus heterophyllus 
+
+6. Artocarpus lakoocha 
+
+7. ^^Betula alnoides 
+
+8. ^Canarium strictum 
+
+9. Castanopsis spp. 
+
+10. Cedrus deodar a 
+
+1 1 . ""Cimamomum camphora 
+
+12. ^Celhwia rosayrona 
+
+13. Cuvressus torulosa 
+
+14. "^Dillenia pentagyna 
+
+15. Diospyros melanoxylon 
+
+16. "^Exbucklandia populnea 
+
+17. Gmelina arborea 
+
+18. Grewia tillfolia 
+
+19. "^Hevea brasiliensis 
+
+20. """"Holarrhena 
+antidysenterica 
+
+21. "^Holoptelea integrifolia 
+
+
+
+ANNEX C 
+
+( C/awj?e 4.1.3) 
+GROUP II TIMBERS 
+
+
+
+Trade Name 
+
+
+Sl No. Name of Species 
+
+
+Trade Name 
+
+
+maple 
+
+
+22. 
+
+
+"^^Kingiodendron pinnatum 
+
+
+piney 
+
+
+mundani 
+
+
+23. 
+
+
+Lagerstroemia parviflora 
+
+
+lendi 
+
+
+haldu 
+
+
+24. 
+
+
+^Mangifera indlca 
+
+
+mango 
+
+
+
+
+25, 
+
+
+"^Melia azedarach 
+
+
+Persian lilac 
+
+
+chaplash 
+
+
+26. 
+
+
+'^Mitragyna parviflora 
+
+
+kaim 
+
+
+kathal 
+
+
+27. 
+
+
+"^^^'Morus spp. 
+
+
+mulberry 
+
+
+lakooch 
+
+
+28. 
+
+
+Ougeinia oojeinensis 
+
+
+sandan 
+
+
+birch 
+
+
+29. 
+
+
+Palaquium ellipticum 
+
+
+pali 
+
+
+white dhup 
+
+
+30. 
+
+
+"^"^Palaquium polyanthum 
+
+
+tali 
+
+
+Indian 
+chestnut 
+
+
+31. 
+
+
+"^^Pterospermum acerifolium hathipaila 
+
+
+VIl^O HI LH, 
+
+
+32. 
+
+
+Sonneratia apetala 
+
+
+keora 
+
+
+deodar 
+
+
+33. 
+
+
+^Shorea assamica 
+
+
+makai 
+
+
+cinnamon 
+
+
+34. 
+
+
+Stereospermum colais 
+
+
+padri 
+
+
+karani 
+
+
+35. 
+
+
+^Syzygium cumini 
+
+
+jaman 
+
+
+cypress 
+
+
+36. 
+
+
+"^Taxus baccata 
+
+
+yew 
+
+
+dilienia 
+
+
+37. 
+
+
+Terminalia alata 
+
+
+laurel 
+
+
+ebony 
+
+
+38. 
+
+
+Terminalia arjuna 
+
+
+arjun 
+
+
+pipli 
+
+
+39. 
+
+
+"^Terminalia myriocarpa 
+
+
+bollock 
+
+
+ganiari 
+
+
+40. 
+
+
+Terminalia paniculata 
+
+
+kindal 
+
+
+dhaman 
+
+
+41. 
+
+
+^^Terminalia procera 
+
+
+white 
+
+
+rubber wood 
+
+
+
+
+
+
+bambwe 
+
+
+kurchi 
+
+
+42. 
+
+
+Toona ciliata 
+
+
+toon 
+
+
+
+kanju 
+
+
+
+*Timb^r species to be treated. 
+**Timber species whose durability is not known. 
+
+
+
+IS 13622 : 1993 
+
+
+
+Sl No. Name of Species 
+
+1. ^ Abies densa 
+
+2. "^ Abies pindrow 
+
+3. "^"^^ Acacia torttilis 
+
+4. "^"^Aescuhis indica 
+
+5. "^Alstonia scholaris 
+
+6. "^Anthocephalus chinensis 
+
+7. ^Azadirachta indica 
+
+8. Boswellia serrata 
+
+9. Bridelia retusa 
+
+10. '^^Buchanania lanzen 
+
+11. ^Canarium euphyllum 
+
+12. "^"^Carallia lucida 
+
+13. ^Duabanga grandiflora 
+
+14. "^Eucalyptus tereticornis 
+
+15. Garuga pinnata 
+
+16. ^ Hymenodictyon excelsum 
+
+17. *Knema attenuata 
+
+18. "^Lannea coromandelica 
+
+
+
+ANNEX D 
+
+{Clause 4.1.4 ) 
+GROUP m TIMBERS 
+
+Trade Name Sl No. Name of Species 
+
+
+
+Trade Name 
+
+
+
+red fir 
+
+
+19. 
+
+
+* Laphopetalum wightianum banati 
+
+
+fir 
+
+
+20. 
+
+
+^Machilus spp 
+
+
+machilus 
+
+
+
+
+
+21. 
+
+
+"^Mallotus phillippensis 
+
+
+raini 
+
+
+horse chestnut 
+
+
+22. 
+
+
+"^Parishia insignis 
+
+
+red dhup 
+
+
+chatian 
+
+
+23. 
+
+
+"^Picea smithiana 
+
+
+spruce 
+
+
+kadam 
+
+
+24. 
+
+
+"^^Finus kesiya 
+
+
+khasi pine 
+
+
+neem 
+
+
+25. 
+
+
+'^Finus roxburghii 
+
+
+chir 
+
+
+salai 
+
+
+26. 
+
+
+Finns wallichiana 
+
+
+kail 
+
+
+kassi 
+
+
+27. 
+
+
+Fodocarpus neriifolia 
+
+
+thitmin 
+
+
+Charoli 
+
+
+28. 
+
+
+"^ Folyalthia fragrance 
+
+
+debdaru 
+
+
+white dhup 
+
+
+29. 
+
+
+^Fterygota alata 
+
+
+narikel 
+
+
+carallia 
+
+
+30. 
+
+
+Quercus spp. 
+
+
+Indian oak 
+
+
+lampati 
+
+
+31. 
+
+
+^^Robina pseud-acacia 
+
+
+black locust 
+
+
+mysore gum 
+
+
+32. 
+
+
+^^Terminalia bellirica 
+
+
+bahera 
+
+
+garuga 
+
+
+33. 
+
+
+Terminalia manii 
+
+
+black chuglam 
+
+
+kuthen 
+
+
+34. 
+
+
+^Ulmi4s wallichiana 
+
+
+elm 
+
+
+jathikai ~ 
+
+
+*Timber species to be treated. 
+
+
+
+
+jhingan 
+
+
+♦♦Timber species whose durability 
+
+
+is not known. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark 
+on products covered by an Indian Standard conveys the assurance that they have been 
+produced to comply with the requirements of that standard under a well defined system 
+of inspection, testing and quality control which is devised and supervised by BIS and 
+operated by the producer. Standard marked products are also continuously checked by 
+BIS for conformity to that standard as a further safeguard. Details of conditions under 
+which a licence for the use of the Standard Mark may be granted to manufacturers or 
+producers may be obtained from the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act^ 1986 to 
+promote harmonious development of the activities of standardization, marking and quality 
+certification of goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced 
+in any form without the prior permission in writing of BIS. This does not preclude the free use, 
+in the course of implementing the standard, of necessary details, such as symbols and sizes, type 
+or grade designations. E-nquiries relating to copyright be addressed to the" Director 
+( Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards 
+are also revieA^ed periodically; a standard along with amendments is reaffirmed when such review 
+indicates that no changes are needed; if the review indicates that changes are needed, it is taken 
+up for revision. Users of Indian Standards should ascertain that they are in possession of the 
+latest amendments or edition by referring to the latest issue of 'BIS Handbook * and 'Standards 
+Monthly Additions'. Comments on this Indian Standard may be sent to BIS giving the following 
+reference: 
+
+Doc : No CED9 ( 5212 ) 
+
+Amendments Issued Since Publication 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+Telephones : 331 01 31, 331 13 75 
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 445-446. Sector 35-C, CHANDIGARH 160036 
+
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 6001 13 ^^35 ^5 \g 235 23 15 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) [632 92 95, 632 78 58 
+
+BOMBAY 400093 \ 632 78 91, 632 78 92 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI, HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+Telegrams : Manaksanstha 
+( Common to all OfSces ) 
+
+
+
+
+Telephone 
+
+
+
+
+^331 01 31 
+:331 13 75 
+
+
+;37 84 99, 
+137 86 26. 
+
+
+37 85 61 
+37 86 62 
+
+
+; 53 38 43, 
+[53 23 84 
+
+
+53 16 40 
+
+
+
+Printed at PriDtwell Printers. Aligarh, India 
+
+
+

@@ -1,0 +1,5 @@
+4.1 Supply of 33 grade ordinary Portland cement conforming to IS 269 : 2015 for RCC foundation work.
+4.2 Thermo-mechanically treated deformed reinforcement bars conforming to IS 1786 shall be used for column reinforcement, Fe 500 grade.
+4.3 The reinforced concrete structure shall be designed in accordance with IS 456 : 1978.
+5. Curing of concrete shall be carried out using potable water free from harmful chemicals.
+- Formwork shall be removed only after attaining requisite strength.

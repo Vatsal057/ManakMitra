@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":177,"params":{"query":"identifier:gov.in.is.12089.*","qin":"identifier:(gov.in.is.12089.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.12089.1987","title":"IS 12089: Specification for granulated slag for the manufacture of Portland slag cement"}]}}

@@ -1,0 +1,1391 @@
+**************** 
+
+
+
+^ tOTH: 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" ' 
+
+
+
+IS 6909 (1990) : Specification for supersulphated cement 
+[CED 2: Cement and Concrete] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+^*-:gv 
+
+
+
+
+^^35^* 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+Indian Standard 
+
+SUPERSULPHATED CEMENT — 
+SPECIFICATION 
+
+( First Revision) 
+
+
+
+IS 6909 : 1990 
+
+( Reaffirmed 2010 ) 
+
+
+
+Second Reprint MAY 2001 
+
+
+
+UDC 666.943.4 
+
+
+
+©BIS 1991 
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+January 1991 Price Group 3 
+
+
+
+amb;ndment no, i june 1991 
+
+TO 
+
+IS 6909 : 1990 SUPERS ULPHATED CEMENT — 
+SPECIFICATION 
+
+f First Revision )■ 
+
+( Page 2, claiixe S.2.1.1) -- ]nseit the following new clauses after 
+8.2.1.1: 
+
+'8.2.2 When cement is intended for export and if the purchaser so 
+requires, packing of cement may be done in bags other than those given 
+in 8.2 and 8.2.1 with an average net mass of cement per bag as agreed to 
+between the purchaser and the manufacturer. 
+
+8.2.2.1 For this purpose the permission of the certifying authority 
+shall be obtained in advance for each export order. 
+
+8.2.2.2 The words 'FOR EXPORT' and the average net mass of 
+cement per bag shall be clearly marked in indelible ink on each bag. 
+
+8.2.2.3 The packing material shall be as agreed to between the 
+supplier and the purchaser. 
+
+8.2.2.4 The tolerance requirements for the mass of cement packed in 
+bags shall be as given in 8.2.1.1 except the average net mass which shall 
+be equal to or more than the quantity in 8.2.2.' 
+
+
+
+( CED 2 ) 
+
+
+
+Rcprognpby Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 3 NOVEMBER 1993 
+
+TO 
+
+IS 6909: 1990 SUPERS ULPHATED CEMENT — 
+
+SPECIFICATION 
+
+( First Revision ) 
+
+
+
+AMENDMENT NO. 2 NOVEMBER 1991 
+
+TO 
+
+IS 6909 : 1990 SUPERSULPIIATED CEMENT — 
+
+SPECIFICATION 
+
+(First Revision) 
+( Page 4, clause B-1.2 ) — Substitute 'up to 25 tonnes' for 'of 20 to 25 
+
+
+
+tonnes'. 
+
+
+
+( CED 2 ) 
+
+
+
+Reprognphy Unit, BS, New Delhi, India 
+
+
+
+AMENDMENT NO. 3 NOVEMBER 1993 
+
+TO 
+
+IS 6909 : 1990 SUPERS ULPHATED CEMENT — 
+
+SPECIFICATION 
+
+( First Revision ) 
+
+( Page 2, clause 8.2.1.1 ( see also Amendment No. 1 )] — Substitute the 
+following for the existing matter 
+
+'8.2.2 When cement is intended for export and if the purchaser so requires, 
+packing of cement may be done in bags or in drums with an average net mass 
+of cement per bag or drum as agreed to between the purchaser and the 
+manufacturer. 
+
+8.2.2.1 For this purpose the permission of the certifying authority shall be 
+obtained in advance for each export order. 
+
+8.2.2.2 The words 'FOR EXPORT' and the average net mass of cement per 
+bag/drum shall be clearly marked in indelible ink on each bag/drum. 
+
+8.2.2.3 The packing material shall be as agreed to between the manufacturer 
+and the purchaser. 
+
+8.2.2.4 The tolerance requirements for the mass of cement packed in bags/dnim 
+shall be as given in 8.2.1.1 except the average net mass which shall be equal to 
+or more than the quantity in 8.2.2.' 
+
+
+
+( CED 2 ) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 4 APRIL 2000 
+
+TO 
+
+IS 6909:1990 SUPERSULPIIATED CEMENT — 
+
+SPECIFICATION 
+
+( First Revision ) 
+
+Sut)stiluic 'net mass' for 'average net mass' wherever it appears in the 
+standard. 
+
+
+
+(CED2) 
+
+
+
+Reprognphy Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 5 MAY 2004 
+
+TO 
+
+IS 6909 : 1990 SUPERSULPHATEI) CEMENT — 
+
+SPECIFICATION 
+
+( First Revision ) 
+
+{ Page 1, clause 6.3.1 , ///i^ 6 ) — Substitute 'less than" /«r 'not less than'. 
+
+
+
+( CED 2 ) 
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+Cement and Concrete Sectional Committee, CED 2 
+
+
+
+FOREWORD 
+
+Tliis Indian Standard ( First Revision ) was adopted by the Bureau of Indian Standards, 
+after the draft finalized by the Cement and Concrete Sectional Committee had been approved 
+by the Civil Engineering Division Council. 
+
+This standard was first published in 1973 and since then large number of amendments have been 
+issued from time to time in order to modify various provisions based on the requirements of the 
+users and also keeping in view the raw materials and fuel available in the country for 
+manufacture of cement. The important amendments include incorporating a clause on false set 
+of cement, permitting packaging of cement in 25 kg bags, making compulsory provision for issuing 
+a certificate indicating the total chloride content in percent by mass of cement, modification in 
+the tolerance requirements for the mass of cement packed in bags, etc. In view of these large 
+number of amendments, the Sectional Committee decided to bring out the first revision of the 
+standard incorporating all these amendments so as to make it convenient for the users. 
+
+Supersulphated cement has been successfully used in a variety of aggressive conditions, for 
+example, for marine works, mass concrete jobs to resist the attack by aggressive water, reinforced 
+concrete pipes in ground water, concrete construction in sulphate bearing soils, and in chemical 
+works under conditions involving exposure to high concentrations of sulphates of weak solutions 
+of mineral acids. It has been used for the underside of bridges over railways and for concrete 
+sewers carrying industrial effluents. Its use under tropical conditions has also been recommended, 
+provided the prevailing temperature is below 40''C {see Note). Although its use as a general 
+purpose cement can bf made with adequate precautions, it is not recommended for producing 
+steam-cured products. Production of this cement will also result in greater utilization of 
+blastfurnace slag, an industrial by-product of steel in the country. 
+
+NOTE — The limit of 40°C for use of this cement in tropical conditions is on thfi basis of available literature and this 
+limit will be reviewed when more experience will be gained with the use of this cement in this country. 
+
+Mass of cement packed in bags and the tolerance requirements for the mass of cement packed in 
+bags shall be in accordance with the relevant provisions of the Standards of Weights and Measures 
+{Packaged Commoiities) Rules, 1917 and B-1.2 {see Annex B for information). Any modification 
+in these rules in respect of tolerance on mass of cement would apply automatically to this 
+standard. 
+
+The composition of the committee responsible for the formulation of this standard is given in 
+Annex C. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, 
+the final value, observed or calculated, expressing the result of a test or analysis, shall be rounded 
+off in accordance with IS 2 : 1960 'Rules for rounding off numerical values { revised Y. The 
+number of significant places retained in the rounded off value should be the same as that of the 
+specified value in this standard. 
+
+
+
+IS 6909 1 1990 
+
+
+
+Indian Standard 
+
+SUPERSULPHATED CEMENT — 
+SPECIFICATION 
+
+( First Revision ) 
+
+
+
+1 SCOPE 
+
+1.1 This standard covers the requiremenls for 
+composition, manufacture and testing of 
+supersulphated cement. 
+
+2 REFERENCES 
+
+2.1 The Indian Standards listed in Annex A 
+are necessary adjuncts to this standard. 
+
+3 TERMINOLOGY 
+
+3.1 For the purpose of this standard, the 
+definitions given in IS 4845 : 1968 shall apply, 
+in addition to the following 
+
+3.2 Supersulphated Cement 
+
+A hydiaulic cement produced by intergrinding 
+or intimately blending a mixture of granulated 
+blastfurnace slag, calcium sulphate and a small 
+amount of Portland cement, Portland cement 
+clinker or any other source of lime. The 
+abbreviation 'SSC:' shall be used for 'super- 
+sulphated cement'. 
+
+3.3 Calcium Sulphate 
+
+Calcium sulphate obtained by calcining high 
+purity gypsum to convert it to anhydrite; 
+calcination tempeiaiure may range from ."iOO 
+to TOO'C. Naturally occurring anhydrite 
+( G»SO, ) or industrial by-product anhydrite 
+may also be used. 
+
+4 COMPOSITION AND MANUFACTURE 
+
+4.1 Supersulphated cement shall be manu- 
+factured by intergrinding or intimately 
+blending a mixture of granulated blastfurnace 
+slag, calcium sulphate and a small amount of 
+y.i gra<lp ordinary Portland cement, Portland 
+r.linker or any oili(;r source of lime {ser Note). 
+'I'lie di y granulated blastfurnace sliig component 
+of the mixture shall not be les.s than 70 percent 
+by mass. The comeni shall be ground finer 
+than 3.'< giado orciinary Portland cement and 
+the technology of production shall ensure most 
+intimate blending of its constituents. 
+
+NOTl', VVIurn pruchiced by inliinatc MendinK. the 
+v.irions ingredients "suiiglit lo lie tilcndcd .sli:ill alsci have 
+jiiior grirnling to the fmfness refiuire<l. 
+
+
+
+4.2 An approved or established grinding aid 
+may be used provided it is used in very small 
+amounts in a manner similar to the grinding of 
+clinker. 
+
+5 CHEMICAL REQUIREMENTS 
+
+5.1 The supersulphated cement shall comply 
+with the following chemical requirements when 
+tested in accordance with the methods given in 
+IS 4032 : 1985. 
+
+
+
+Insoluble residue 
+Magnesium oxide 
+
+
+
+percent, Min 
+rS percent, Max 
+
+
+
+4 percent. Max 
+,^ 10 percent, Max 
+
+Sulphuric anhydride 6 
+Sulphide sulphur 
+
+NOTES 
+
+1 The limit of total chloride content in cement for uie in 
+plain and other reinforced coi^crete ilructuret it being 
+reviewed. Till that time, the limit may be mutually 
+agreed to between the purchaser and the manufacturer. 
+( Method of test for determination of chloride content in 
+ccmenlis given in IS 12423 ; 1988 ). 
+
+2 Granulated dag conforming to IS 12089 : 1987 hai 
+been found suitable for the manufacture of 
+supersulphated cement. 
+
+6 PHYSICAL REQUIREMENTS 
+
+6.1 Fineness 
+
+When tested by Blaine's air permeability 
+method given in IS 4031 (Part 2) : 1988, the 
+supersulphated cement shall have a fineness 
+( specific surface ) of not less than 400 m'/kg. 
+
+6.2 Soundness ( Cold-Expansion ) 
+
+The cement when tested for soundness by the 
+Le-Chaielier method described in IS 4031 
+(Part 3) : 1988 (modified to omit the boiling 
+test so that the initial reading is taken 
+immediately after moulding and the final 
+reading after immersion in water at 27 ± 2°C 
+for 24 houts ) shall not have an expansion of 
+more than 5 mm. 
+
+NOTK — The Le-Chatelier boiling tp<it procedure and 
+autoclave expansion are omitted since excessive 
+unhydraieil calcium oxide .tikI perirlase content are not 
+envisaged. 
+
+
+
+IS 6909 < 1990 
+
+
+
+6.3 Setting Time 
+
+The setting time of the supersulphated cement 
+when tested by the Vicat apparatus method 
+described in IS 4031 ( Part 5 ) : 1988 shall be as 
+follows: 
+
+a) Initial setting time Not less than 30 
+
+minutes 
+
+b) Final setting time Not more than 600 
+
+minutes 
+
+6.3.1 If cement exhibits false set, the ratio of 
+final penetration measured after 5 minutes of 
+completion of mixing period to the initial 
+penetration measured exactly afftr 20 seconds 
+of completion of mixing period, expressed as 
+percent, shall be not less than 50 when tested 
+according to the method described in IS 4031 
+(Part 14): 1989. In the event of cement 
+exhibiting false set, the initial and final setting 
+time of cement when tested by the method 
+described in IS 4031 ( Part 5 ) : 1988 after 
+breaking the false set, shall conform to 6.3. 
+
+6.4 Compressive Strength 
+
+The average compressive strength of at least 
+three mortar cubes ( area of face 50 cm''' ) 
+composed of one part of supersulphated cement, 
+three parts of standard sand by mass and 
+/'/4 + 3 percent ( of combined mass of cement 
+plus sand ) water, and prepared, stored and 
+tested in the manner described in IS 4031 
+( Part 6 ) : 1988 shall be as follows: 
+
+a) 72 ± 1 hour not le.ss than 15 MPa 
+
+b) 168 ± 2 hours not less than 22 MPa 
+
+c) 672 ± 4 hours not less than 30 MPa 
+NOTES 
+
+1 Standard sand shall conform to IS O^O : IHub. 
+
+2 P is the percentage of water required to produce a 
+paste of standard consistency (see 11.3). 
+
+6.5 By agreement between the purchaser and 
+the manufacturer, transverse strength test of 
+plastic mortar in accordance with the method 
+described in IS 4031 (Part 8) : 1988 may be 
+specified in addition to the test specified in 6.4. 
+The permissible values of the transverse strength 
+for supersulphated cement shall be mutually 
+agreed to between the purchaser and supplier 
+at the time of placing order. 
+
+6.6 Notwithstanding the strength requirements 
+in 6.4 and 6.5, supersulphated cement shall 
+show at 168 hours and (i72 hours a progressive 
+increa.se in stiength from the strength 
+at 72 hours. 
+
+7 STORAGE 
+
+7.1 The supeisulphated cement sliall be stored 
+in such a manner as to permit easy access for 
+
+
+
+inspection and in a suitable weather-tight 
+building to protect the cement and clinker 
+component from hydration and to minimize 
+warehouse deterioration. 
+
+8 MARKING AND DELIVERY 
+
+8.1 The cement shall be packed in bags [jute 
+sacking bag conforming to IS 2580 : 1982, 
+double hessian bituminized ( CRI type ), multi- 
+wall paper conforming to IS 11761 : 1986, 
+polyethylene lined (CRI type), jute, light 
+weight jute conforming to IS 12154 : 1987, 
+woven HDPE conforming to IS 1 1652 : 1986, 
+woven polypropylene conforming to 
+IS 11653 : 1986, jute synthetic union conforming 
+to IS 12174 : 1987, or any other approved 
+composite bags J ijearing the manufacturer's 
+name or his registered trade-mark, if any. The 
+words 'Supersulphated Cement' and a suitable 
+mark to distinguish supersulphated cement 
+from other cements shall be clearly and 
+indelibly made on each bag. The number of 
+bags (net ma.ss) lo the tonne or the average 
+net mass of the cement shall be legibly and 
+indelibly marked on each bag. The bags shall 
+be in good condition at the time of inspection. 
+
+8.1.1 Similar information shall be provided in 
+the delivery advices accompanying the shipment 
+of packed or bulk cement ( see 8.3 ). 
+
+8.2 The average net mass of cement per bag 
+shall be 50 kg ( see Annex B ). 
+
+NOTE — Since the specific gravity ( 280 to 290 ) and 
+the bulk density ( 13 kg/1 ) of supersulphated cement 
+are lower than those of urdinary Portland cement, the 
+size of the bag for 30 kg supersulphated cement will be 
+somewhat largor compared to the size of conventional 
+bag foi- ordinary Portland cement. 
+
+8.2.1 The average net mass of cement per bag 
+may also be 25 kg subject to tolerances .-is given 
+in 8.2.1.1 and packed in suitable bags as agreed 
+to between the purchaser and the manufacturer. 
+
+8.2.1.1 The number of bags in a sample taken 
+for weighment showing a minus error greater 
+than 2 percent of the specified net mass shall be 
+not more than 5 percent of the bags in the 
+sample. Also the minus error in none of such 
+bags in ihe sample shall exceed 4 percent of the 
+specified net mass of cement in the bag. 
+However, the average net mass of cement in a 
+sample shall be etjual to or more than 25 kg. 
+
+8.3 Supplies of cement in bulk may be made by 
+agreement between the purchaser and the 
+supplier ( manufacturer or stockist ;. 
+
+NOTE — A single bag or container containing 1 000 kg 
+or more nei mass of cement shall be considered as bulk 
+supply of cement. Supplies of cement may also be made 
+in inletuurdi.itf ti.niHincrs, for example, drums of 200 kg, 
+by agreement between liie purchaser and the 
+manufacturer. 
+
+
+
+IS 6909 : 1990 
+
+
+
+9 MANUFACTURER'S CERTIFICATE 
+
+9.1 The manufacturer shall satisfy himself that 
+the cement conforms to the requirements of 
+this standard, and if requested, shall furnish a 
+certificate to this effect to the purchaser or his 
+representative. 
+
+9.2 The manufacturer shall furnish a certificate, 
+within ten days of despatch of cement, 
+indicating the total chloride content in percent 
+by mass of cement. 
+
+10 SAMPLING 
+
+10.1 Samples for Testing and by Whom to 
+be Taken 
+
+A sample or samples for testing may be taken 
+by the purchaser or his representative, or by 
+any person appointed lo superintend the work 
+for the purpose for which the supersulphated 
+cement is required, or by the later's represen- 
+tative. The samples shall be taken within three 
+weeks of delivery ;ind the tests shall be 
+commenced within four weeks of delivery. 
+
+10.2 Notwithstanding the requirements of 10.1 
+the methods and procedure of sampling shall 
+be in accordance with IS 3535 : 1986. 
+
+
+
+10.3 Facilities 
+Identifying 
+
+
+
+for Sampling and 
+
+
+
+The manufacturer or supplier shall afford every 
+facility, and shall provide all labour and 
+materials for taking and packing the samples 
+for testing the supersulphated cement and for 
+subsequent identification of the cement 
+samples. 
+
+11 TESTS 
+
+11.1 The sample or samples of cement for tests 
+shall be taken as described in 10.1 and 10.2 and 
+shall be tested in the manner prescribed in the 
+relevant clauses. 
+
+11.2 Temperature for Testing 
+
+The temperature at which physical tests ;iic 
+
+
+
+carried out should, as far as possible, be 
+27 ± 2° C. 
+
+11.3 Consistency of Standard Cement 
+Paste 
+
+The quantity of water required to produce a 
+paste of standard consistency, to be used for the 
+determination of the water content of mortar 
+for the compressive strength tests and for the 
+determination of soundness and setting time, 
+shall be obtained by the method described in 
+IS 4031 (Part 4) : 1988. 
+
+11.4 Non-compliance with Test 
+
+Any cement which does not comply with any of 
+the tests and analysis specified in this standard 
+or which has not been stored in the manner 
+provided under 7.1 may be rejected as not 
+complying with this standard. 
+
+11.5 Independent Testing 
+
+11.5.1 If the purchaser or his representative 
+requires independent tests, the samples shall 
+be taken before or immediately after delivery 
+at the option of the purchaser or his 
+representative, and the tests shall be carried 
+out in accordance with this standard on the 
+written instructions of the purchaser or his 
+representative. 
+
+11.5.2 Cost of Testing 
+
+The manufacturer shall supply, free of charge, 
+the supersulphated cement required for testing. 
+Unless otherwise specified in the enquiry and 
+order, the cost of the tests shall be borne as 
+follows: 
+
+a) By the manufacturer in the event of the 
+results showing that the cement does not 
+comply with this standard, and 
+
+b) By the purchaser in the event of the 
+results showing that the cement complies 
+with this standard. 
+
+11.5.3 After a representative sample has been 
+dtawn and liermeticaJly scaled, tests on the 
+sample shall be carried out as expeditiously as 
+possible. 
+
+
+
+IS 6909 : 1990 
+
+
+
+isyo. 
+
+(kjO : 1966 
+
+2580 : 1982 
+
+3535 : 19BG 
+
+4031 (Parts 1 to 
+Part 13 ) : 1988 
+
+4031 (Part 14) : 
+1989 
+
+4032 : 1905 
+
+4B45 : 1958 
+4905 : 1968 
+
+
+
+ANNEX A 
+(Clause 2.\) 
+LIST OF REFERRED INDIAN STANDARDS 
+
+
+
+Title 
+
+Standard sand for testing of 
+cement {^rsl revision ) 
+
+Jute sacking bags fur packing 
+cement ( second revision ) 
+
+Methods of sampling hydraulic 
+cement {fost revision ) 
+
+Methods of jihysical tests for 
+hydraulic cement (frst revision ) 
+
+Methods of physical tests for 
+hydraulic cement: Part 14 
+Determination of false set 
+
+Method of chemical analysis 
+of hydraulic cement (Jirst 
+
+revision ) 
+
+Delinitions and terminology 
+relating to hydraulic cement 
+
+Methods for random sampling 
+
+
+
+IS M. 
+
+
+
+Title 
+
+
+
+11652:1986 High density polyethylene 
+
+( HDPE ) woven sacks for 
+packing cement 
+
+11653:1986 Polypropylene (PP) woven 
+
+sacks for packing cement 
+
+11761 : 1986 Specification for multiwall 
+
+paper sacks for cement, 
+valved-sewn-gussetted type 
+
+12089:1987 Granulated slag for the 
+
+manufacture of Portland slag 
+cement 
+
+12154 : 1987 Light weight jute bags for 
+
+packing cement 
+
+12174 : 1987 Jute synthetic union bags for 
+
+packing cement 
+
+12423 : 1988 Method for colorimetric 
+
+analysis of hydraulic cement 
+
+
+
+ANNEX B 
+{Clause 8.2) 
+
+TOLERANCE REQUIREMENTS FOR THE MASS OF CEMENT 
+
+PACKED IN BAGS 
+
+
+
+B-1 The average net mass of cement packed in 
+bags at the plant in a sample shall be equal to 
+or more than 50 kg. The number of bags in a 
+sample shall be as given below: 
+
+
+
+Batch Size 
+
+100 to 150 
+151 to 280 
+281 to 500 
+501 to 1 200 
+1 201 to 3 200 
+3 201 and over 
+
+
+
+Sample Size 
+
+20 
+32 
+50 
+80 
+125 
+200 
+
+
+
+Tiic bags ill a sample shall be seleclfd ;it 
+random ( see IS 4905 : 1968 ). 
+
+B-1.1 The number of bags in a sample showing 
+a minus error greater than 2 percent of the 
+
+
+
+specified net mass (50 kg ) shall be not more 
+than 5 percent of the bags in the sample. Also 
+the minus error in none of such bags in the 
+sample shall exceed 4 percent of the specified 
+net mass of cement in the bag. 
+
+NOTE — The matter given in B-1 and B-1.1 are extracts 
+based on the Standardt of Wtightt and Mtasuris ( Packaged 
+Commodititi) Rules, 1977 to which reference ahall be 
+made for full details. Any modification made in these 
+Rules and other related Acts and Rules would apply 
+automatically. 
+
+B-1.2 In case of a wagon/truck load of 20 to 25 
+tonnes, the overall tolerance on net mass of 
+cement shall be to + 05 percent. 
+
+NOTFy - Thi- inyss nf a juli- sacking liaj; conforming to 
+IS 25«l) : 191)2 lo hold 50 kg ol cemi;nt is 331 «. the mass 
+of a double hessian bituminizcd ( CRI type ) liag to hold 
+"iO kg ol cemoni is fc30 g, tho mass of a <>-ply paper bag 
+to hold ."iO kg of cement is approximately 400 g and the 
+mass of a polyethylene lined ( CRI type ) jute bag to 
+hold 50 kg of cement is approximately 480 g. 
+
+
+
+IS S909 1 1990 
+
+
+
+ANNEX C 
+( Foreword ) 
+
+Cement and Concrete Sectional Committee, CED 2 
+
+
+
+Chotmutn 
+
+IkB H. C. VlSVKSTAIlAYA 
+
+
+
+Rtprtstnlmg 
+
+National Council for Cement and Building Materiali, 
+Nevw Delhi 
+
+
+
+SH|ti K. P. Bankrjxb 
+
+Shri HAniSH N. Malani ( AUtrnatt ) 
+Shri S. K. B vneujer 
+Chiut Ehoiniebii ( BD ) 
+
+S^HRi J. C. Bapur ( Alttrnatt ) 
+Chib* Enoihbkr ( Dkbion* ) 
+
+SVrKRINTBNDINO Enoimrrr ( S & S ) ( Alttrnatt ) 
+CbIEC EnOIMBCR ( RRaBABCH-OUM-DlRBOTOR ) 
+
+Rbskarcii OFriCRii ( Comorbtb Tbcbnolooy ) ( Alttrnati] 
+
+DlBBOTOR 
+
+Joint Dirbctor ( Mttrnati ) 
+
+DiBBCTon 
+
+Chiep Rbbearch OrriCBB ( Alttrnati ) 
+DiBKCTon { C & MDD-II ) 
+
+Deputy Dirkctor ( C & MDD-II ) ( Alttrnatt ) 
+Sum V. K.Gkamkkar 
+
+
+
+Larsen and Toubro Limited, Bombay 
+
+National Test House, Calcutta ' 
+
+Bhakra Beai Management Board, Nangal Townihip 
+
+Central Public Workt Department, New Delhi 
+
+Irrigation Department, Government of Punjab 
+
+natt) 
+
+A. P. Engineering Research Laboratories, Hyderabad 
+
+Central Soil and Materials Research Station, New Delhi 
+
+Central Water Commission, New Delhi 
+
+
+
+Srri S. Gopinath 
+Shbi a. K. Gupta 
+Shbi J. Sen Giipta 
+Shri P. J. Jaous 
+
+Db a. K. Cbatterjee ( Alttrnatt ) 
+Joint Director Standabds ( B & S )/CB-I 
+
+
+
+Structural Engineering Research Centre ( CSIR ), 
+
+Ghaziabad 
+India Cements Limited. Madras 
+Hyderabad Industries Limited, Hyderabad 
+National Buildings Organization, New Delhi 
+Auociated Cement Companies Ltd, Bombay 
+
+
+
+Research, Designs and Sundards Organization ( Ministry 
+of Railways ), Lucknow 
+Joint Director Standards ( B & S )/CB-II ( Alttrnatt ) 
+
+
+
+Shbi N. G. Joshi 
+
+SRUI R. L. K.APOOR 
+
+Shri R. K. Saxena (Alttrnatt) 
+Db a. K. Mttlliok 
+
+Shri G. K. Majumdar 
+
+SnRi p. N. Mbhta 
+
+Shri S. K. Mathub ( Alttrnatt ) 
+Shri Nirmai. Sinoh 
+
+Shri S. S. Miqlani ( Alttrnatt ) 
+Shri S. N. Pai. 
+
+Shri Biman DArourxA ( Alttrnatt) 
+Shri R. C. Paratb 
+
+Lt-Col R. K. Sinoh ( Alttrnatt ) 
+Sniti H. S. Pasbicra 
+Shbi Y. R. Phull 
+
+Shot S. S. Skehra ( Alttrnatt ) 
+Dii MOKAN Rai 
+
+Dh S. S. Reusi ( Alttrnatt ) 
+Shri A- V. Ramana 
+
+Dk K. C. Narano ( Alttrnati ) 
+Shki G. RasiI'as 
+Shri T. N. SniiMA Rvo 
+
+Shim S. A. Rkddi ( Alttrnatt ) 
+Dr M. Rammah 
+
+D« a. O. Madhava Rao ( Allirnalt ) 
+Shri A. U. Rijhsinoiiani 
+
+SiiRi C. S. Sharma ( Alftrnalt ) 
+Seciiktahy 
+
+SuHi K. R. Saxkn A ( Alttrnatt ) 
+
+SUPRRINTKNDINO ENOINKBR ( DE8I0NS ) 
+
+EXBCUTivi! Knoinkeu ( SMD Divisit)N ) ( Alternati ) 
+Shbi L. Swaboop 
+
+Shri H. Bhattacharya ( Alttrnatt ) 
+Slim S. K. GOHA Thakorta 
+
+Shbi S. P. Sankarnarayanan ( Alttrnatt ) 
+
+
+
+Indian Hume Pipes Co. Limited, Bombay 
+Roads Wing ( Ministry of Transport ), Department of 
+Surface Transport, New Delhi 
+
+Natianal Council for Cement and Building Mat«rials, 
+
+New Delhi 
+Hospital Services Consultancy Corporation ( India ) Ltd, 
+
+New Delhi 
+Geological Survey of India, Calcutta 
+
+
+
+Development Commissioner 
+( Ministry of Industry ) 
+
+
+
+for Cement Industry 
+
+
+
+M. N. Dastur and Company Private Limited, Calcutta 
+
+Engineer-in-Chief's Branch, Army Headquarters 
+
+Hindustan Prefab Limited, New Delhi 
+
+Indian Roads Congreu, New Delhi; and Central Road 
+
+Research Institute ( CSIR ), New Delhi 
+Central Road Research Institute ( CSIR ), New Delhi 
+Central Building Research Institute ( CSIR ), Roorkee 
+
+Dalmia Cement ( Bharat ) Limited, New Delhi 
+
+Directorate General of Supplies and Disposals, New Delhi 
+Gammon India Limited, Bombay 
+
+Structural Engineering Research Centre ( CSIR ), Madras 
+
+Cement Corporation of India Lid, Nfw Delhi 
+
+Central Board of Irrigation and Power, New Delhi 
+
+Public Works Department, Government of Tamil Nadu 
+
+Orissa Cement Limited, New Delhi 
+
+Gannon Dunkerley & Company Ltd, Bombay 
+
+
+
+IS 6909 1 1990 
+
+Db H. C. VlSVBgVARAYA 
+
+SnHi D. C. Cratukvedi { Altimalt ) 
+Sniii G. Raman, 
+Director ( Civ Engg ) 
+
+
+
+Rtprismting 
+Iiutitution of Engineen ( India ), Calcutta 
+
+Director General, BIS ( Ex-^eic Mimbtr ) 
+
+
+
+Sterttary 
+
+Shbi N. C. Bandtopadbyay 
+
+Joint Director ( Civ Engg ), BIS 
+
+
+
+Cement, Pozzolana and Cement Additives Subcommittee, CED 2 : 1 
+
+
+
+ConBintr 
+Db H. C. Vistksvaraya 
+
+
+
+Mmbtrs 
+
+D» a. K. Mullick 
+
+Dr ( Sbbimatj ) S. Lazmi 
+Shbi S. K. Bancrjeb 
+Shbi N. G. Basak 
+
+Shki T. Madnksiiwar ( AllirnaU ) 
+Shbi Somnath Banebjxk 
+Chib' Emoinebr ( Rkseaucu-cum-Dirbctor ) 
+
+RK8BAH0H OFriOER ( CT ) ( All4rnaU ) 
+SiiRi N. B. Desai 
+
+Sbri J. K. Patel ( AlUrnale ) 
+Dibector 
+
+Reseakch OrnfiER ( Allernalt ) 
+Director ( C & MDD-II ) 
+
+Deputy Dibector ( C & MDD-II ) ( Alttniale ) 
+Shbi R. K. Gattani 
+
+Sbri R. K. Vaishnavi { AUernati ) 
+Shbi J. Sen Gupta 
+Shri p. J. Jaows 
+
+Dr a. K. Gratikkjeii: ( Alltrnalt } 
+Joint Dirkotob, Standards { B & S )/CB-I 
+
+
+
+National Council for Cement and Building Material!, 
+New Delhi 
+
+
+
+( Alttrnat$$ to Dr H. C. Visvesvaraya ) 
+
+
+
+National Test House, Calcutta 
+
+Directorate General of Technical Developm''nt, New Delhi 
+
+Cement Manufacturers Association, Bombay 
+Irrigation Department, Government of Punjab 
+
+Gujarat Engineering Research Institute, Vadodara 
+
+Maharashtra Engineering Research Institute, Nasik 
+
+Central Water Commission, New Delhi 
+
+Shree Digvijay Cement Company Ltd, Bombay 
+
+National Bui dings Organization, New Delhi 
+Associated Cement Companies Ltd, Bombay 
+
+
+
+Joint Dibk<;tor, Standards ( B & S )/CB-II ( Ailtrnali ) 
+
+
+
+Research, Designs and Standards Organization, Lucknow 
+
+
+
+Shbi R. L- Kapoor 
+
+SrbiR. K. Datta (Alfrnau) 
+Shri W. N. Kabode 
+Shbi R. Kvmjituafattam 
+Shbi G. K. Majumoah 
+
+Shbi K- P. Mouideen 
+SiiBi Nirmal Sinob 
+
+Shbi S. S. Miolani ( Alternate ) 
+Shbi Y. R. Phui,l 
+
+Shbi N. R. CRATTaitJXE ( Alltmatt } 
+Shri A. V. Ramana 
+
+Dr K. C. Nabano ( AU*rnatt ) 
+Coi, V. K. Rao 
+
+Shbi N. S. Galande ( Altirnatt ) 
+Shri S. A. Rbodi 
+Dn S. S. REUS! 
+
+Db Irshad Masuod {Altirnaf) 
+Shri A. U. Rijhsinoiiani 
+Slim M. P. SiNoa 
+
+SUPRItlNTENnlN-O EnOINEBR (D) 
+
+
+
+Roads Wing ( Ministry of Transport ), Department of 
+Surface Transport, New Delhi 
+
+Hindustan Construction Co- Ltd, Bombay 
+
+Chettinad Cement Corporation Ltd, Poliyur, Tamil Nadu 
+
+Hospital Services Consulting Corporation ( India ) Ltd, 
+
+New Delhi 
+Central Warehousing Corporation, New Delhi 
+Development Commissioner for Cement Industry ( Ministry 
+
+of Industry ) 
+
+Central Road Research Institute ( CSIR ), New Delhi 
+
+Dalmia Cement ( Bharat ) Ltd, New Delhi 
+
+Engineer- in-Chief 's Branch, Army Headquarters 
+
+Gammon India Ltd, Bombay 
+
+Central Building Research Institute ( CSIR ), Roorkee 
+
+Cement Corporation of India Ltd, New Delhi 
+Federation of Mini Cement Plants, New Delhi 
+Public Works Department, Government of Tamil Nadu 
+
+
+
+Senior Deputy Chirp Emoinebr ( Genrhal ) ( Altirnatt) 
+Shri L. Swaboop Orissa Cement Ltd, New Delhi 
+
+Shhi H. Bhattachahya ( Alltrnalt ) 
+Shri V. M. Wad Bhilai Steel Plant, Bhilai 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a sUitutury institution cst^iblishcd under the Bureau of Indian Standards Act, 1986 to ptamote 
+hiirmoniuus development of the activities of standardization, marking and quality certification of goods and 
+attending to connected matters in the country. 
+
+Copyri}(ht 
+
+BIS has the copyright of all iLs publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the st;indard, of necessary detnil.s, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publication), BIS. 
+
+Review of Indian Standards 
+
+Amendments arc issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue 
+of 'BIS Handbook* and 'Stimdards Monthly Additions'. 
+
+This Indian Standard has been developed from Doc: No. CED 2 { 4787 ) 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters: 
+
+
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10002 
+Telephones: 323 01 31, 323 33 75, 323 94 02 
+
+Regional OITices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah 2^far Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C.I.T. Scheme VII M, V.I.P. Road, Kankurgachi 
+CALCUTTA 700054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 
+
+
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 6001 13 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400093 
+
+Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. 
+HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. 
+
+
+
+Telegrams: Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+323 76 17,323 3841 
+
+
+
+r33784 99,33785 61 
+133786 26,3379120 
+
+
+
+{ 
+
+
+
+60 38 43 
+60 45 52 
+
+
+
+f 235 02 16,2350442 
+12351519,235 2315 
+
+(-8329295,832 78 58 
+183278 91,83278 92 
+
+
+
+Prinled by Reprography Unil, BIS, New Delhi 
+
+
+

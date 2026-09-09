@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":28,"params":{"query":"identifier:gov.in.is.1786.*","qin":"identifier:(gov.in.is.1786.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.1786.2008","title":"IS 1786: High strength deformed steel bars and wires for concrete reinforcement-"}]}}

@@ -1,0 +1,919 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 3156-3 (1992): Voltage transformers. Part 3: Protective 
+voltage transformers [ETD 34: Instrument Transformers] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 3156 ( Part 3 ) : 1992 
+
+- ( Reaffirmed 2002 ) 
+
+( ?^^T q^sftsTOT ) 
+
+Indian Standard 
+VOLTAGE TRANSFORMERS - SPECIFICATION 
+
+PART 3 PROTECTIVE VOLTAGE TRANSFORMERS 
+
+( Second Revision ) 
+
+Second Reprint OCTOBER 1996 
+UDC 621 314'222-68 
+
+
+
+© BIS 1992 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN. 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+May 1992 Price Group 2 
+
+
+
+Instrument Transformers Sectional Committee, ETD 34 
+
+
+
+FOREWORD 
+
+This Indian Standard ( Part 3 ) was adopted by the Bureau of Indian Standards, after the draft 
+finalized by the Instrument Transformers Sectional Committee had been approved by the 
+Electrotechnical Division Council. 
+
+This standard was first published in 1966 and was subsequently revised in 1978. Second revision 
+of this standard has been undertaken to bring it in line with the latest developments at international 
+level. 
+
+Indian Standards on voltage transformers have been published in four parts : 
+
+Part 1 General requirements, 
+
+Part 2 Measuring voltage transformers. 
+
+Part 3 Protective voltage transformers, and 
+
+Part 4 Capacitor voltage transformers. 
+
+In the preparation of this standard assistance has been derived from the following: 
+
+lEC Pub 186 ( 1987 ) Voltage transformers with Ammendment No. 1, December 1988; published 
+by International Electrotechnical Commission. 
+
+BS 3941 : 1975 Valtagc transformers with latest ammendments, published by British Standards 
+Institution. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with the 
+final value, observed or calcutated, expressing the result of a test or analysis, shall be rounded off 
+in accordance with IS 2 : 1960 'Rules for rounding off numerical values ( revised)' . The number 
+of significant places retained in the rounded off value should be the same as that of the specified 
+value in this standard. 
+
+
+
+IS 3156 (Part 3): 1992 
+
+Indian Standard 
+VOLTAGE TRANSFORMERS - SPECIFICATION 
+
+PART 3 PROTECTIVE VOLTAGE TRANSFORMERS 
+
+( Second Revision J 
+
+
+
+1 SCOPE 
+
+This standard ( Part 3 ), covers additional require- 
+ments for protective voltage transformers. 
+
+2 TERMINOLOGY 
+
+For the purpose of this standard the definitions 
+given in -Part I of this standard shall apply. 
+
+3 GENERAL REQUIREMENTS 
+
+The protective voltage transformers shall comply 
+with the requirements of this standard; in addition 
+to those specified in Part 1 of this standard. 
+
+NOTES 
+
+1 The requirements of this part apply particularly to 
+transformers which are required to have sufficient 
+accuracy to operate protective systems at voltages that 
+occur under fault conditions. 
+
+2 The requirements of this part shall also apply to 
+protective secondary windings of voltage transformers 
+
+4 ACCURACY REQUIREMENTS 
+
+
+
+4.1 All voltage transformers intended 
+protective purposes, shall be assigned one of 
+accuracy classes specified in 4.2. 
+
+
+
+NOTE — Voltage transformers, intended for pro- 
+tective purposes, with the exception of residual voltage 
+windings, may be assigned a measuring accuracy class 
+in accordance with Part 2 of this standard. 
+
+4.1.1 The accuracy class for a protective voltage 
+transformer is designated by the highest per- 
+missible percentage voltage error prescribed for 
+the accuracy class concerned, from 5% of rated 
+voltage to a voltage corresponding to the rated 
+voltage factor. This expression is followed by 
+the letter *'P" for protective voltage transformers 
+and **PR" for 3-phase residual voltage 
+transformers. 
+
+4.2 Standard Accuracy Classes 
+
+4.2.1 The standard accuracy classes for protective 
+voltage transformers are '*3P" and '*6P". 
+
+NOTE — Where transformers are required to have 
+different error limits at the lower voltage limit ( S% 
+rated voltage ) and at the upper voltage limit ( the 
+voltage corresponding to rated voltage factor 1.2, 1.5 
+or 1.9 ) special agreement shall bj made between the 
+manufacturer and the purchaser. 
+
+4.2.2 The standard accuracy classes for 3-phase 
+residual voltage transformers shall be '5PR' and 
+"lOPR". 
+
+
+
+5 LIMITS OF VOLTAGE ERROR AND 
+PHASE DISPLACEMENT FOR PROTECTIVE 
+VOLTAGE TRANSFORMERS 
+
+5.1 The voltage error and phase displacement at 
+rated frequency shall not exceed the values in 
+Table 1 at 5% rated voltage, and at rated voltage 
+multiplied by the rated voltage factor ( 1.2, 1.5 
+or 1.9) with burdens of between 25% and 100% 
+of rated burden at a power factor of 0'8 lagging. 
+
+5.2 At 2 percent of the rated voltage, the limits 
+of error and phase displacement with burdens of 
+between 25% and 100% of rated burden at a 
+power factor of 0'8 lagging shall be twice as high 
+as those given in Table 1. 
+
+Table 1 Limits of Voltage Error and Phase 
+Displacement 
+
+( Clauses 5 A and 5,2) 
+
+
+
+rs. 
+
+
+Accuracy Class 
+
+
+Percentage Voltage 
+Error 
+
+
+Phase 
+Displacement 
+
+
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+for 
+
+the 
+
+
+3P 
+
+
+±30 
+
+
+minutes 
+±120 
+
+
+
+
+6P 
+
+
+±60 
+
+
+±240 
+
+
+
+6 DUAL PURPOSE VOLTAGE 
+TRANSFORMER 
+
+6.1 Where the transformer has one secondary 
+winding which is intended to served a dual 
+purpose, that is, both for measurement as well as 
+protection, it shall comply with the requirements 
+of both Part 2 and Part 3 of this Standard. 
+
+6.2 Where the transformer has two or more 
+separate secondary windings, one for measurement 
+and the others for protection, having the same or 
+different transformation ratios, they shall 
+respectively comply with Part 2 and Part 3 of 
+this Standard. 
+
+6.2.1 For Transformers having two or more 
+separate secondary windings (other than residual 
+voltage winding ), because of their interdepen- 
+dence, the user should- specify for each winding 
+the simultaneous output ranges of the other 
+windings at which it must fulfil the requirements 
+of its designated accuracy class. Each winding 
+should fulfil its respective accuracy requirement 
+within its output range whilst at the same time 
+the other winding has an output of any value 
+from zero to 100% of the output range specified 
+for the other winding. 
+
+
+
+1 
+
+
+
+IS 3156 ( Part 3 ) : 1992 
+
+
+
+6.2.2 If the user has not specified as required 
+in 6.2.1 then each winding shall fulfil the require- 
+ments of its designated accuracy class with the 
+other windings ( other than residual voltage 
+windings) simultaneously have any output 
+between 25% and 100% of their .respective rated 
+outputs. 
+
+6.2.3 In proving compliance with 6.2.1 or 6.2.2 
+it shall be sufficient to test at extreme values only. 
+
+7 REQUIREMENTS FOR SECONDARY 
+WINDINGS OF SINGLE PHASE VOLTAGE 
+TRANSFORMERS INTENDED TO PRODUCE 
+A RESIDUAL VOLTAGE 
+
+7.1 Rated Secondary Voltage 
+
+The rated secondary voltage of windings intended 
+to be connected in broken delta with similar 
+windings to produce a residual voltage shall be 
+110 volts, 110/\/3 or 110/3 volts. 
+
+NOTE — Where system conditions are such that tlicse 
+values of rated secondaiy voltages would produce a 
+residual voltage that is too low, non preferred higher 
+values may be used but attention is drawn to the need 
+'to take precautions for purposes of safety. 
+
+7.2 Output 
+
+7.2.1 Rated Output 
+
+The rated output of windings, intended to be 
+connected in broken delta with similar windings 
+to produce a residual voltage shall be specified in 
+voJtamperes. The value of rated output shall be 
+chosen from the values given in 6.4 of Part I of 
+this standard; but values of 25, 50 and 100 VA 
+shall be preferred. 
+
+NOIH — For a given admittance of ihc secondary 
+circuit, the power deHvercd by this winding under the 
+conditions specified in this clause will normally dilfer 
+from the power that it may deliver in the event of a 
+fault when associated with two other sim:!ar windings 
+in a three-phase system. 
+
+7.2.2 Rated Thermal Limiting Output 
+
+The rated thermal limiting output of a residual 
+voltage winding for a voltage transformer with a 
+voltage factor of 1*9 for 8 hours shall be 15, 25, 
+75 or 100 VA ( uiiderlined values preferred ) or 
+their decimal multiples, related to thp rated 
+secondary burden with unity power factor. In 
+respect of such residual voltage windings, the 
+definition in 3.23 of Part 1 shall be modified to 
+limit the rated thermal limiting output for a 
+duration of only 8 hours. 
+
+NOTE — Since the residual voltage windings are 
+connected in broken delta, these windings are only 
+loaded under fault conditions. 
+
+7.3 Accuracy Class 
+
+Tho accuracy class for a residual voltage winding 
+shall be 6P as defined in 4.1.2, 4.2.1 and 5. 
+
+
+
+NOTES 
+
+1 If a residual voltage winding is used for special 
+purposes, other standard accuracy class in accordance 
+with 4.2.1 can be agreed between manufacturer and 
+purchaser. 
+
+2 If the residual voltage winding is used only for 
+damping purposes, an accuracy class designation is 
+not necessary. 
+
+8 REQUIREMENTS FOR RESIDUAL 
+VOLTAGE THREE PHASE TRANSFORMERS 
+
+8.1 Rated Residual Voltage 
+
+The rated residual voltage of a 3 phase residual 
+voltage transformer shall be as follows: 
+
+1 X rated residual 
+voltage as defined 
+at 7.1 
+
+3 X rated residual 
+voltage as defined 
+at 7.1 
+
+
+
+a).For effeotively earthed 
+neutral-transformers 
+
+b) For isolated neutral 
+voltage-transformers 
+
+
+
+8.2 Limits of Voltage Error and Phase 
+Displacement 
+
+The voltage error and phase displacement, deter- 
+mined at the terminals of the transformers 
+( includiiig the elTect of such fuses or resistors 
+supplied as and integral part of a 3'phase residual 
+voltage transformer) at rated frequency when 
+tested in accordance with 10.2. LI shall not 
+exceed the values given in Table 2 with burdens 
+of any value between 25% and 100% of the rated 
+burden of the residual voltage winding and at a 
+power factor of 0*8 lagging. 
+
+Table 2 Limits of Voltage Error and Phase 
+
+Displacement for Residual Voltage 
+
+Transformers 
+
+( Clauses ^2 and \Q.2A.\ ) 
+
+
+
+Accuracy Class 
+
+
+Voltage Error 
+
+
+Phase Displacement 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+
+
+Percent 
+
+
+minutes 
+
+
+5 PR 
+
+
+± 5-0 
+
+
+±200 
+
+
+10 PR 
+
+
+±100 
+
+
+±600 
+
+
+
+8.3 Limit of Error in Residual Voltage 
+
+The voltage at the terminals of the residual 
+voltage winding shall not exceed 3 percent of the 
+rated residual voltage under conditions given 
+in 10.2.1.2. 
+
+9 MARKING 
+
+9.1 All the relevant particulars shall be marked 
+in accordance with 8 of Part 1 of this Standard. 
+In case of Voltage Transformers required to meet 
+combination of output and accuracy classes, the 
+necessary information should also be provided. 
+
+10 TESTS 
+
+10.0 The following tests shall be carried out in 
+addition to the tests given in Part 1 of this 
+Standard. 
+
+
+
+IS 3156 ( Part 3 ) : 1992 
+
+
+
+10. 1 Tests on Single-phase Protective Voltage 
+Transformers 
+
+10.1.1 Type Tests 
+
+10.1.1.1 Temperature rise test for protective 
+voltage transformers with residual voltage 
+windings and voltage factor V9 for 8 hours. 
+
+A test shall made in general accordance with 9.5 
+of Part 1 to prove compliance with 7.2.2 at a 
+voltage factor of 1*9 for 8 hours starting after the 
+application of \'2 times the rated voltage for a 
+period sufficient for stable thermal conditions to 
+be reached. The temperature rise shall not exceed 
+the values specified in Table 3 of Part 1 by more 
+than 10 K. The residual voltage winding(s) shall 
+be loaded with a burden corresponding to the 
+rated thermal limiting output and all the other 
+vvinding(s) shall be loaded with their rated 
+burden. 
+
+The voltage measurement has to be performed on 
+the primary winding as the actual secondary 
+voltage generally is appreciably smaller than the 
+rated secondary voltage multiplied by the voltage 
+factor. 
+
+10.1.1.2 Accuracy test 
+
+To prove compliance with 5, type test shall be 
+made at 2%, 5%, and 100% of rated voltage 
+and at rated voltage multiplied by the rated 
+voltage factor, at 25% and 100% of the rated 
+burden at a power factor of 8 lagging. Where 
+transformer has several secondary windings, 
+they shall be loaded as in 6. A residual voltage 
+winding shall be unloaded during tests v/ith 
+voltages up to 100 of rated voltage and loaded 
+with rated burden during the test with the voltage 
+equal to the rated voltage multiplied by the rated 
+voltage factor. 
+
+10.1.2 Routine Tests 
+
+10.1.2.1 Accuracy test 
+
+The routine tests for accuracy are in principle the 
+same as the type test in 10.1.1.2 but routine 
+tests may be carried out at 100 percent of rated 
+voltage and at 25% and 100% of rated burden 
+at a power factor of 0'8 lagging provided it has 
+been shown by type tests on a similar transformer 
+that such a reduced number of tests is sufficient 
+to prove compliance with 5. 
+
+10.2 Tests on Three-phase Residual Voltage 
+Transformer 
+
+10.2.1 Type Test 
+
+10.2.1.1 Accuracy tests 
+
+Residual voltage transformers sliall be tested for 
+compliance with the requirements of Table 2 
+under the following conditions; 
+
+a) For transformers having a voltage factor 
+not exceeding 1*5, the connection of the 
+test circuit shall be as given in Fig. la. 
+The voltage error and phase displacement 
+shall be determined at such a supply 
+
+
+
+voltage that 150% of the rated primary line 
+to earth voltage appears between the non- 
+short circuited line terminals and the star 
+point terminal of the primary winding and 
+with burdens equal to 25% and 100% of 
+the rated burden of the residual voltage 
+winding. 
+
+b) For transformers having a voltage factor 
+of 1*9, the connections of the test circuit 
+shall be as given in Fig, lb. The voltage 
+error and phase displacement shall be 
+determinated with a balanced three-phase 
+voltage of a value equal to 1 10% of 
+rated primary ( line-to-line) voltage applied 
+to the terminals of the primary winding, 
+and with burdens equal to 25% and 100% 
+of the rated burden of the residual voltage 
+winding. 
+
+c) Subject to agreement between the manu- 
+facturer and the purchaser, the transformers 
+referred to in 10.2.1.1 (b) may be tested 
+with circuit connection as given in Fig. Ic. 
+The voltage error and phase displacement 
+shall be determined with burdens equal to 
+25% and 100% of the rated burden of 
+the residual voltage winding and with a 
+single-phase supply voltage equal to 0'55 
+UpV~} where (/p is the rated primary ( line- 
+to-line ) voltage of the transformer. 
+
+NOTI — lor thicc-phasc transformers having tlircc- 
+phasc ^.xoiHiaiy wiiidipg as wcli as a residual voltage 
+winding the tests spcciikd in 10.2.1.1 (a), 10.2.1.1(b) 
+iind 10.2. M (c) should ho made with rated burden 
+connected to tiie three-phase secondary winding, 
+unless oihciwise agreed to between the nianufactiircr 
+and the purchaser. 
+
+10.2.1.2 To prove' compliance with 8.2, a 
+balanced three-phase voltage, containing no 
+significant third harmonics and multiples thereof 
+and of a value equal to 120% of rated primary 
+(line-to-line) voltage, shall be applied to the 
+line terminals of the primary winding, the 
+residual voltage winding being connected to a 
+burden of 25% of its rated burden. The voltage 
+at the terminals of the residual voltage winding 
+shall not exceed 30% of the rated residual 
+secondary voltage. 
+
+NOITS 
+
+1 During this test the star points of the supply trans- 
+former and of tiie primary winding of the voltage 
+transformer may be interconnected. 
+
+2 An additional three-phase secondary windings if 
+any shall be at no load during this test. 
+
+10.2.2 Routine Test 
+
+10.2.2.1 Accuracy test 
+
+The routine accuracy test in principle is the same 
+as the type test given in 10.2,1.1 but routine test 
+at only jated voltage, rated frequency, rated 
+voltage; rated frequency, rated burden with 
+power factor of O'SJagging is permissible provided 
+it has been shown by a type test on a similar 
+transformer that a test only at rated voltage, 
+frequency and burden is sufficient to prove 
+comphance with 8.2. 
+
+
+
+IS 3156 (Part 3) : 1992 
+
+
+
+3-PHASE SUPPLY 
+TRANSFORMER 
+
+
+
+STANDARD 
+VOLTAGE 
+TRANSFOR-; 
+MER 
+
+
+
+TRANSFORMER UNDER 
+TEST 
+PRIMARY RESIDUAL VOLTAGE 
+
+WINDING WINDING 
+
+
+
+
+MEASURING 
+APPARATUS 
+
+
+
+1A Circuit for Accuracy Test on the Residual Voltage Winding of a Transformer 
+having a Rated Voltage Factor not Exceeding 1.5 [ see 10,2.1.1 (a) ] 
+
+
+
+3-PHASE SUPPLY 
+TRANSFORMER 
+
+
+
+STANDARD 
+VOLTAGE 
+TRANSFOR 
+MER 
+
+
+
+TRANSFORMER UNDER 
+TEST 
+PRIMARY RESIDUAL VOLTAGE 
+
+WINDING WINDING 
+
+
+
+
+MEASURING 
+APPARATUS 
+
+
+
+IB Circuit for Accuracy Test on the Residual Winding of a Transformer having a 
+Rated Voltage Factor of 19 [ see 10.2.1.1 (b) ] 
+
+
+
+SINGLE^PHASE 
+SUPPLY TRANSFORMER 
+
+
+
+
+STANDARD 
+
+VOLTAGE 
+
+TRANSFORMER 
+
+
+
+TRANSFORMER UNDER 
+TEST 
+PRIMARY RESIDUAL VOLTAGE 
+
+WINDING WINDING 
+
+
+
+
+MEASURING 
+APPARATUS 
+
+
+
+1C Alternative Circuit for Accuracy Test on the Residual Voltage Winding of a 
+Transformer having a Rated Voltage Factor of 1.9 [ see 10.2.1.1 (c) ] 
+
+
+
+Fig. i Circuit for Accuracy Test 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications maybe reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also 
+reviewed periodically; a standard along with amendments is reaffirmed when such review indicates that 
+no changes are needed; if the review indicates that changes are needed, it is taken up for revision. Users 
+of Indian Standards should ascertain that they are in possession of the latest amendments or edition by 
+referring to the latest issue of 'BIS Handbook' and 'Standards: Monthly Additions'. 
+
+This Indian Standard has been developed from Doc : No. ETD 34 (2918) 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+Telephones : 323 01 31, 323 83 75, 323 94 02 
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C I.T. Scheme VII M, V. I. P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 6001 13 
+
+
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400093 
+
+
+
+Telegrams : Manaksanslha 
+(Common to all offices) 
+
+Telephone 
+
+
+
+{i 
+
+
+
+23 76 17 
+323 38 41 
+
+
+
+f 337 84 99,337 85 61 
+V 337 86 26, 337 91 20 
+
+
+
+{ 
+
+
+
+60 38 43 
+60 20 25 
+
+
+
+r 235 02 16, 235 04 42 
+\235 15 19,235 23 15 
+
+r 832 92 95, 832 78 58 
+\ 832 78 91, 832 78 92 
+
+
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. 
+JAIPUR. KANPUR. LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+Printed at Printograpli, New Delhi (India) 
+
+
+

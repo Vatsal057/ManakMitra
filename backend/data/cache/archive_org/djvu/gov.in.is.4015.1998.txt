@@ -1,0 +1,4212 @@
+•••••••••••••••• 
+
+
+
+ic i3^ 
+
+
+
+
+^ 
+
+
+
+ic 
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" 
+
+
+
+IS 4015 (1998) : Guide for Handling Cases of Pesticide 
+Poisoning [FAD 1: Pesticides and Pesticides Residue 
+Analysis] 
+
+
+
+^nz^^^aznz^^ 
+
+
+
+SSa£\ * H>ftPii5c%^Na*^ 
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+-iSiS 
+
+
+
+
+5>- 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 4015 : 1998 
+
+( Reaffirmed 2003 ) 
+
+
+
+Indian Standard 
+
+GUIDE FOR HANDLING CASES OF 
+PESTICIDE POISONING 
+
+( First Revision ) 
+
+
+
+ICS 65.100 
+
+
+
+©BIS 1998 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN. 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+February 1998 i Price Group 8 
+
+
+
+Pesticides Sectional Committee, FAD I 
+
+
+
+FOREWORD 
+
+This Indian Standard (First Revision) was adopted by the Bureau of Indian Standards, after the draft finalized 
+by the Pesticides Sectional Committee had been approved by the Food and Agriculture Division Council. 
+
+The use of various chemical pesticides for the control of pests of agricultural and public health importance is 
+on the increase in the country. Large-scale and long-term use of some of these chemicals has often been found 
+to result in toxic manifestations both in man and livestock. As some of these compounds are highly toxic, it is 
+extremely essential to exercise great care in their use. Pesticide poisoning may result from careless handling by 
+the people engaged in its application. Such poisoning may result even from continuous contact, by absorption, 
+through skin or by inhalation of toxic vapour by the workers in the course of normal handling of the material, 
+or by swallowing it accidentiy or intentionally. In all such cases of poisoning, immediate medical attention is 
+essential, but even before this becomes available, application of certain well accepted first-aid measures is 
+necessary. It was, therefore, suggested that an Indian Standard guide should be published covering both the 
+first-aid measures and necessary information for the physician who has to attend cases of pesticide poisoning. 
+
+It is very essential that all the necessary precautions, such as wearing protective gloves, overall and masks should 
+be taken before commencing the application of pesticides in the field. The use of gas-masks, respirators and 
+safety goggles is imperative before commencing any fumigating operation indoors. During the application of 
+pesticides strict care should be taken not to come into contact with pesticides in any manner. Washing of hands 
+and the exposed parts of the body with soap and plenty of water is very important after completing any kind of 
+pesticides operation. The containers of pesticides should be tightiy closed and stored in a safe place beyond the 
+reach of children, pets and livestock after using the same. 
+
+Keeping the above in view, this standard was published in 1967 in two parts. The standard has been revised to 
+incorporate the following changes in addition merging both parts in one document: 
+
+a) Routes of entry of the pesticides; 
+
+b) Inclusion of World Health Organisation (WHO) classification by hazard; and 
+
+c) Preventive measures of pesticides poisoning. 
+
+These are the general guidelines for treatment of pesticide poisoning cases. However, the treatment of individual 
+patient should be undertaken considering the physical and medical status of the patient. Symptomatic and 
+supportive therapy should be given to every patient depending on the condition. In case any further details are 
+required any standard text books of medical toxicology may be consulted. 
+
+
+
+IS 4015 : 1998 
+
+
+
+Indian Standard 
+
+
+
+GUIDE FOR HANDLING CASES OF 
+PESTICIDE POISONING 
+
+( First Revision ) 
+
+
+
+1 SCOPE 
+
+1.1 This guide outlines the basic informations intended 
+for the use of a physician with regard to the 
+definition/classification of pesticides, routes of entry 
+in the body, first-aid measures, supportive therapy, 
+specific chemical antidotes, signs and symptoms of 
+poisoning, diagnosis and treatment of different groups 
+of pesticides, preventive measures in relation to 
+poisoning due to different types of pesticides and their 
+formulations during their manufacture, testing or in the 
+field applications. 
+
+2 ABBREVIATIONS 
+
+Z 1 The abbreviations used in this standard to indicate 
+each class of pesticides and their formulations are 
+given below: 
+
+Abbreviations Class of Pesticide or 
+Formulation 
+
+Ac Acaricide 
+
+Be Bactericide 
+
+CB Bait Concentrate 
+
+DP Dustable Powder 
+
+DS Powder for Dry Seed Treatment 
+
+EC Emulsifiable Concentrate 
+
+FC Flowable Concentrate 
+
+Fg Fungicide 
+
+Fu Fumigant 
+
+Gr Granule 
+
+Hr Herbicide 
+
+In Insecticide 
+
+L Liquid 
+
+LV Low Volume 
+
+Mo Molluscide 
+
+OC Organo-Chlorine 
+
+OP Organo Phosphorus 
+
+PGR Plant Growth Regulator 
+
+RB Bait (Ready for use) 
+
+Ro Rodenticide 
+
+SL Soluble Concentrate 
+
+SP Soluble Powder 
+
+Sol Solution 
+
+Tc Technical 
+
+ULC Ultra low Volume Liquid 
+
+WP Wettable Powder 
+
+WS Water Dispersible Powder for 
+Slurry Treatment 
+
+
+
+3 DEFINITION 
+
+Pesticide means any substance or mixture of 
+substances intended for preventing, destroying, 
+controlling or mitigating any pest including vectors of 
+human or animal diseases, unwanted species of plants 
+or animals causing harm during or otherwise 
+interfering with the production, processing, storage; 
+transport or marketing of food, agricultural 
+commodities, wood and wood products or animal 
+foodstuffs or which may be administered to animals 
+for the control of insects, arachnids or other pests in or 
+on their bodies. The term includes substances 
+intended for use as a plant growth regulator, defoliant, 
+desiccant, or agent for thinning fruit or preventing the 
+premature fall of fruit, and substances applied to crops 
+either before or after harvest to protect the commodity 
+from deterioration during storage and transport. 
+
+4 CLASSIFICATION OF PESTICIDES 
+
+4.1 Pesticides are generally classified according to the 
+type of pests against which they are used. These are 
+given under 4.1.1 to 4.1.9. 
+
+4.1.1 Insecticides 
+
+These are substances or mixture of substances used for 
+the control of insects. Common examples are BHC, 
+DDT, Malathion. 
+
+4.1.2 Fungicides 
+
+These are substances or mixture of substances used for 
+the control of fungi. Common examples are 
+Carbendazim, Copper oxychloride, Mancozeb. 
+
+4.1.3 Acaricides 
+
+These are substances or mixture of substances used for 
+the control of mites. Common examples are Dicofol 
+and Chlorobenzilate. 
+
+4.1.4 Rodenticides 
+
+These are substances or mixture of substances used for 
+the control of rats, mice and other rodents. Common 
+examples are Zinc phosphide. Warfarin and 
+Bromadialone. 
+
+
+
+1 
+
+
+
+IS 4015 : 1998 
+
+
+
+4.1.5 Fumigants 
+
+These are substances or mixture of substances which 
+are used in the control of insects or other pests by 
+fumigation. Common examples are Methyl bromide, 
+Ethylene dibromide. 
+
+4.1.6 Molluscicides 
+
+These are substances or mixture of substances which 
+are used in the control of slugs and snails. Common 
+examples are Metaldehyde, Fentin acetate. 
+
+4.1.7 Nematicides 
+
+These are substances for mixture of substances which 
+are used in the control of nematodes. Common 
+examples are Aldicarb. 
+
+4.1.8 Plant Growth Regulators 
+
+These are substances or mixture of substances applied 
+with the objective of regulating or enhancing the 
+growth and development of plants. Common 
+examples are Alpha naphthyl acetic acid, Ethepon, 
+Gibberellic acid. 
+
+4.1.9 Herbicides 
+
+These are substances or mixture of substances used for 
+the control of weeds. Common examples are 2, 4-D, 
+isoproturon. Paraquat. 
+
+4.2 Classification According to Chemical 
+Structure 
+
+On the basis of their chemical structure, the pesticides 
+may be classified as given in 4.2.1 to 4.2.13. 
+
+4.2.1 Organochlorine 
+
+BHC, DDT, Lindane, Endosulfan, etc. 
+
+4.2.2 Organophosphorus 
+
+Chlorpyriphos, Diazinon, Dichlorvos, Phorate, etc. 
+
+4.2.3 Carbamate 
+
+Aldicarb, Benthiocarb, Carbofuran. 
+
+4.2.4 Pyrethroids 
+
+Allethrin, Alphamethrin, Cypermethrin. 
+
+4.2.5 Coumarins/Indandiones (Anticoagulants) 
+Bromadialone, Coumachlor, Warfarin. 
+
+4.2.6 Halogen Fumigants 
+
+Methyl bromide, Ethylene dibromide and Carbon 
+tetrachloride mixture. 
+
+4.2.7 Cyanide Fumigants 
+Sodium cyanide. Calcium cyanide. 
+
+4.2.8 Phosphine Fumigants 
+Aluminium phosphide, Zinc phosphide. 
+
+
+
+4.2.9 Organic Acids Including Chhrophenoxy Group 
+and Phenolic Compounds 
+
+2, 4-D, Dinocap. 
+
+4.2.10 Inorganic and Organometallic (Arsenicals, 
+Mercurials, Copper Compounds) 
+
+Ethyl mercury chloride, Phenyl mercury acetate, 
+Copper oxychloride, etc. 
+
+4.2.11 Pthalamide Fungicides 
+Captafol.Captan. 
+
+4.2.12 Thiocarbamates 
+
+Cartap Hydrochloride, Chlorothalonil, Thiram, Zineb. 
+
+4.2.13 Miscellaneous 
+Nicotin Sulphate, Sulphur. 
+
+4.3 Classificatioii of Pesticides Based on Acute 
+Toxicity Under the Insecticides Rules, 1971 — {See 
+Table 1) 
+
+4.4 Classification of Pesticides by Hazard as per 
+WHO Recommendation 
+
+4.4.1 Basis of Classification 
+
+The classification distinguishes between the more and 
+the less hazardous forms of each pesticide in that it is 
+based on the toxicity of the technical compound and 
+on its formulations. In particular, allowance is made 
+for the lesser hazards from soilds as compared with 
+liquids. 
+
+The classification is based primarily on the acute oral 
+and dermal toxicity to the rat since these 
+determinations are standard procedures in toxicology. 
+Where the dermal LD 50 value of a compound is such 
+that it would place it in a more restrictive class than the 
+oral LD 50 value would indicate, the compound, will 
+always be classified in the more restrictive class. 
+Provision is made for the classification of a particular 
+compound to be adjusted if, for any reason, the acute 
+hazard to man differs from that indicated by LD 50 
+assessments alone. 
+
+4.4.2 Guidelines to WHO classification of pesticide 
+by hazard. 
+
+Table 1 : Class la "EXTREMELY 
+
+HAZARDOUS" 
+Table 2 : Class lb '^HIGHLY HAZARDOUS" 
+Tables : Class H "MODERATELY 
+
+HAZARDOUS" 
+Table 4 : Class HI "SLIGHTLY 
+
+HAZARDOUS" 
+Table 5 : Technical products unlikely to present 
+
+acute hazard in normal use. 
+Table 6 : Technical products not included in the 
+
+classification and believed to be 
+
+obsolete or discontinued for use as 
+
+pesticides. 
+
+
+
+Table 1 Classificatioii of Pesticides Based on Accute Toxicity under the Insecticides Rules^ 1971 
+
+(Clause 4.3) 
+
+
+
+SI 
+No. 
+
+(1) 
+
+
+
+Categorical 
+Classification 
+
+(2) 
+
+
+
+Symbol 
+
+
+
+(3) 
+
+
+
+Oral LD 50 Dermal LD 50 
+in Rats In Rats 
+
+(mg/kg) (mg/kg) 
+
+(4) (5) 
+
+
+
+Statement Specified 
+
+on Label of the 
+
+Container 
+
+(6) 
+
+
+
+Calculated Probable 
+
+Lethal Dose for 
+
+70 kg. Person 
+
+(7) 
+
+
+
+i) Extremely 
+toxic 
+pesticides 
+
+
+
+
+1-50 1-200 a) Keep out of the 
+
+reach of children 
+
+b) If swallowed or if 
+symptoms of poison- 
+ing occur, cali 
+physician immediately 
+
+
+
+A taste (less than 
+7 drops) to one 
+teaspoonf(t.s.f) 
+
+
+
+ii) 
+
+
+Highly 
+
+toxic 
+
+pesticides 
+
+
+
+
+iii) 
+
+
+Moderately 
+toxic 
+
+
+^^^NGER 
+
+
+
+
+pesticides 
+
+
+^p^ 
+
+
+iv) 
+
+
+Slightly 
+
+toxic 
+
+pesticides 
+
+
+/caution 
+
+
+
+51 - 500 
+
+
+
+201 - 2 000 
+
+
+
+IGREEN 
+
+
+
+501-5 000 2 001-20000 
+
+
+
+More than 
+5000 
+
+
+
+More than 
+20 000 
+
+
+
+Keep out of the 
+reach of children 
+
+
+
+Keep out of the 
+reach of chidren 
+
+
+
+Between 5 to 30 ml 
+
+
+
+Between (lib) 
+30 ml to 475 ml 
+
+
+
+More than 475 ml 
+
+
+
+
+
+
+IS 4015 : 1998 
+
+
+
+Table? : Gaseous or volatile fumigants not 
+classified under the WHO 
+Recommended classification of 
+pesticides by hazard. 
+
+5 ENTRY OF PESTICIDES BODY 
+
+5.1 Pesticide exposure to human beings can be acute 
+or chronic. It may be occupational or non-ocupational, 
+intentional or unintentional, accidental or incidental. 
+On exposure the entry of pesticides in the human 
+body may be by either of the following routes (see 
+Fig.l): 
+
+i) Oral (by mouth), 
+
+ii) Respiratory (by inhalation), 
+
+iii) Dermal (through skin), and 
+
+iv) Ocular (through eye). 
+
+5.2 Since individuals are often exposed in more than 
+one way, the total exposure from all sources needs to 
+be considered while assessing the health risks. The 
+other factors at the time of exposure like duration of 
+exposure, formulation (its acidity or pH, vehicle, 
+physical state that is solid, liquid, gas and 
+concentration of active ingredients) task performed, 
+weather conditions (temperature, humidity, wind 
+direction) and the conditions of skin (soreness or 
+abrasions, wetness, location or part exposed) all 
+
+
+
+influence the absorption of toxic ingredients and the 
+actions of these materials on vital tissues. Well 
+nourished, comfortably housed workers, enjoying 
+adequate rest and hygiene, are less vulnerable to toxic 
+chemicals than persons who are burdened with 
+malnutrition, disease and fatigue. 
+
+5.3 Absorption by way of lungs is very rapid (a few 
+seconds); by the gut intermediate in rate (minutes to 
+hours); and across the skin usually slower still (hours 
+to days). Chemicals absorbed by the lungs and skin 
+enter the systemic circulation directly; those absorbed 
+from the gut are carried mainly by the portal 
+circulation to the liver, where biotransformations may 
+occur before they enter the systemic circulation. 
+
+5.4 Ingestion of pesticide may occur as a result of 
+contamination of food, drink and smoking material. 
+Dermal exposure is of particular importance in 
+workers who have extensive body surface exposure to 
+foliage residues. This commonly occurs during the 
+harvesting of fruit crops previously treated with 
+pesticides. 
+
+6 PREVENTION OF POISONING 
+
+6.1 Pesticide poisoning or adverse effects due to 
+pesticides can be prevented by using these pesticides 
+
+
+
+OCULAR 
+(THROUGH EYE ) 
+
+
+
+MHALATION 
+(THROUGH BREATHING 
+
+
+
+ORAL 
+
+
+
+(THROUGH MOUTH) 
+
+
+
+OERMAL -^ 
+(THROUGH SKIN) 
+
+
+
+
+Fig. 1 Way of Entry of Pesticides in Human Body 
+
+
+
+IS 4015 : 1998 
+
+
+
+safely and judiciously. The following precautions are 
+required to be taken during use of pesticides: 
+
+i) Always use registered and approved pesticide 
+in appropriate doses and by correct technology 
+with all the precautions as indicated on the 
+labels and leaflets. 
+
+ii) Pesticides should not be stored in insecure 
+places or along with food, feed or fodder. 
+These should be stored in lock, away from the 
+reach of children, incompetent persons and 
+animals. 
+
+iii) To avoid the skin contamination and inhalation 
+during tiie use of pesticide, protective garments 
+and equipments like apron, goggles, face mask, 
+gum boots and respirator (in case of highly 
+toxic pesticides) should be worn. 
+
+iv) In case of any spillage or splash over the skin, 
+it should be washed first with cold water then 
+with water having normal temperature and 
+then with lukewarm water, 
+v) Adequate ventilation is essential at places 
+where pesticides are measured, mixed, bagged 
+or otherwise transferred from one container to 
+another. 
+
+vi) Eating, drinking or smoking should be avoided 
+while working with pesticides. 
+
+vii) Pesticide containers should not be used for 
+storing any other things like grains, fodder, 
+water, etc. Empty pesticide containers should 
+be disposed off safely, 
+viii) Water sources/lines and grounds should not be 
+contaminated by left over pesticides. 
+
+ix) Clogged nozzles of sprayers should not be 
+opened by blowing. These may be opened by 
+pin or stick or by washing with soap and water. 
+
+x) Pesticides should not be sprayed in excessive 
+heat or strong wind conditions or before or 
+during the rainfall. Care should be taken of the 
+wind direction and the spray should be done in 
+the direction of wind not against it. 
+
+xi) Re-entry (entry in field after last spray) into the 
+pesticide sprayed field should be made 
+after a minimum period of 24 h or prescribed 
+period which is indicated on the label of the 
+containers 
+
+7 MANAGEMENT OF PESTICroE 
+POISONING 
+
+7.1 First-Aid Measures (Pre-hospital Care) 
+
+In order to prevent further deterioration in the 
+condition of the affected person certain tirst-aid 
+measures can be undertaken before doctor reaches the 
+site or the patient is sent to hospital. 
+
+
+
+7.1.1 Termination of Exposure 
+
+Shift the affected person from the contaminated 
+environment. 
+
+7.1.2 Decoruamirtaiion 
+
+7.1.2.1 Skin contact 
+
+Remove all contaminated clothings and the 
+contaminated part should be washed with lot of water 
+and soap. First wash should be done with cold water, 
+if available, then with water having envirormiental 
+temperature and subscquentiy with lukewarm water. 
+
+7.1.2.2 Eye contamination 
+
+Wash the eyes with plenty of clean cold water or tap 
+water. 
+
+7.1.2.3 Inhalation 
+
+Carry the person to the open to fresh air. Clothings 
+around the neck and chest must be loosened. 
+
+7.1.2.4 Ingestion 
+
+If victim is fully conscious and vomiting is to be 
+induced then induce it by making the patient drink one 
+or two glasses of water rapidly. Induce vomiting by 
+tickling the back of the throat with fingers. Milk, 
+alcohol and fatty substances should not be 
+administered to such victims because it may enhance 
+the absorption of fat soluble pesticides. 
+
+NOTE — The common practice of inducing emesis by hyper- 
+tonic saline or common salt solution is neither safe nor vei / 
+effective and therefore should be avoided. Do not induce vomit- 
+ing or give anything by mouth to unconscious patient. 
+
+7.1.3 Position/Posture of Unconscious Patient 
+
+If the person is unconscious lay him in semi-prone 
+position, head down and turned to one side. 
+
+7.1.4 Body Temperature Control 
+
+If the patient is feeling extremely hot or excessive 
+sweating is there then water sponging may be done. If 
+the person is feeling cold then body temperature may 
+be maintained by covering him with sheets or blankets. 
+
+7.1.5 Difficulty in Breathing 
+
+Observe the respiratory passage for any obstruction 
+with foreign bodies such as artificial dentures, viscid 
+secretions, dropping back of tongue etc, and 
+remove/correct the cause. If the condition persists and 
+person is unable to breath on his own then give 
+aitificial respiration. The patient is laid on his back, 
+airway cleared by pulling chin up and head tilted back 
+and m-outh cleaned with a soft, clean cloth. Then 
+
+
+
+IS 4015 : 1998 
+
+
+
+mouth to mouth or mouth to nose respiration may be 
+given by filling the chest of the person with air 10 times 
+per minute and ensuring the chest movement with such 
+blow. In case of poisoning by fumigants like 
+Aluminium phosphide. Ethylene dibromide, Methyl 
+bromide continuous mouth to mouth breathing should 
+not be given by one person for more than 1 min. 
+
+7.1.6 External cardiac massage may be done in case 
+the heart beat ceases. 
+
+7.1.7 Other Measures 
+
+7.1.7.1 If the person suffers from convulsions then a 
+spoon or wooden block may be placed in the mouth 
+between the jaws. Minimize noise and any 
+manipulation of the patient that may trigger seizure 
+activity. 
+
+7.1.7.2 Patient should be placed in a peaceful 
+environment and should not be disturbed. Very fast 
+driving over the bumpy roads may be avoided. 
+
+7.1.7.3 Person attending the victim should avoid 
+direct contact with heavily contaminated clothings and 
+vomitus. Wear gloves and apron while washing 
+pesticide from skin and hair. 
+
+7.2 Supportive Threapy (Hospital Care) 
+
+7.2.1 Stabilization 
+
+7.2.1.1 Evaluation of airway 
+
+See for any dyspnoea, air-hunger, hoarseness stridor, 
+substernal or intercostal retractions and cyanosis. In 
+case of respiratory insufficiency, following mesures 
+should be taken: 
+
+i) Lift the chin and tilt the head back, 
+ii) Clear secretions, 
+iii) Use nasopharyngeal or oropharyngeal airways 
+
+if needed, 
+iv) Tracheal intubation in comatose patients, and 
+v) If above mesures fail, cricothyroidectomy or 
+tracheostomy may be attempted as a last resort. 
+
+7.2. 1.2 Assessment of ventilation and oxygenation 
+
+Signs of inadequate ventilation or oxygenation are 
+cyanosis, tachypnoea hypoventilation, suprasternal 
+and/cr intercostal retraction and altered mental stauts. 
+In case of inadequate ventilation or oxygenation, 
+oxygen supplementation and if required, intubation 
+may be done. 
+
+7.2.1.3 Maintenance of circulation 
+
+Look for signs and symptoms of shock or cardiac 
+dysfunction and treat accordingly by infusing intra 
+veinal (i.v.) fluids normal saline or ringer lactate 
+vasopressors, like dopanrtine or antiarrhythmic drugs 
+
+
+
+depending on type of arrhythmia. If facilities are 
+available then Central Venous Pressure may be 
+monitored. 
+
+7.2.1.4 Management of CNS Junctions 
+
+Look for state of consciousness and condition of pupil. 
+If convulsions occur, treat as follows: 
+
+Diazepam - S - 15 mg i.v. at the rate of not more than 
+2 mg/min. If necessary repeat for every 10-15 min to 
+a maximum of 30 mg. In children - the dose is 0.25 - 
+0.40 mg/kg body weight, which may, be repeated 
+every 10-15 min if necessary to a maximum of 10 mg. 
+However, while administering diazepam, precaution is 
+to be taken to administer it slowly to avoid hypotension 
+and respiratory depression. Facilities should be 
+available for intubating the patient in case of diazepam 
+related respiratory depression. If seizure recurr 
+following diazepam then either of the following drugs 
+may be used: 
+
+
+
+i) Phenytoin Sodium 
+(Dilantin, Epileptin) 
+
+
+
+ii) Phenobarbitone 
+Sodium (Luminal, 
+Gerdinal) 
+
+
+
+The dose is 15-18 
+mg/kg at a rate not 
+more than 15 mg/ 
+min. 
+
+5 mg/kg i.v., at a rate 
+not more than 50 
+mg/min repeated 
+every 20 min upto a 
+maximum of 3 doses. 
+
+
+
+NOTE — Phenobarbitone may produce nespiratoiy depres- 
+sion, 
+
+7.2.1.5 Fluid, electrolyte and acid base balance should 
+be maintained. 
+
+7.2.1.6 Measures to reduce absorption 
+
+The following measures may be taken to reduce 
+absorption: 
+i) Eye 
+
+Irrigate with neutral solution (Normal saline) 
+for 1 5-20 min. 
+ii) Skirt 
+
+Remove contaminated clothes. Irrigate with 
+copious amount of water or saline. Do not use 
+neutralizing substances, 
+iii) Gut 
+
+a) Gastric lavage, 
+
+b) Absorption by activated charcoal, and 
+
+c) Cathartics. 
+
+a) Gastric Lavage 
+
+Contraindications 
+
+— Ingestion of strong corrosives. 
+
+— Coingestion of sharp objects. 
+
+
+
+IS 4015 : 1998 
+
+
+
+— Unconscious patients with seizures. 
+
+— Unconscious patients should be intubated before 
+lavage. 
+
+— Kerosene oil (if kerosene oil is used as 
+vehicle/solvent in pesticide formulation then 
+gastric lavage should be done). 
+
+Method 
+
+— Patient should be in left lateral position. 
+
+— Gastric intubation may be done with an 
+orogastric tube 32-40 F in adults and 16-26 F in 
+children. 
+
+— First sample of lavage fluid should be saved for 
+analysis. In children (upto 6 years age) 25-50 ml 
+of warm isotonic saline should be used for 
+lavage every time. In children between 7-12 
+years 50-100 ml and in adults 200-250 ml tap 
+water should be used. The lavage fluid be left 
+inplace for about 1 min and then allowed to drain 
+by gravity for several minutes and the lavage 
+should be continued until clear fluid is recovered 
+or until a minimum of 2 L has been used. 
+
+Complications 
+
+— Pulmonary aspiration 
+
+— Oesophageal perforation, tension 
+pneumothorax and empyema. 
+
+— Epistaxis if large tubes are inserted nasally. 
+
+— Electrolyte imbalance if lavage solutions other 
+than saline are used in children (upto 6 years of 
+age). 
+
+b) Absorption by Activated Charcoal 
+
+Activated charcoal is very effective in preventing the 
+absorption of ingested substances when given within 
+first few hours of exposure. 
+
+Indications — Since neither emesis nor lavage 
+completely removes ingested substances, 
+administration of activated charcoal after initial 
+decontamination procedures is recommended in most 
+cases of overdose. 
+
+Contraindications — Ingestion of strong acids, alkalis. 
+
+Dosage — A minimum of 0,5 - 1.0 g/kg body weight 
+of activated charcoal or 10 times the estimated amount 
+of ingested chemical should be given in form of slurry 
+(diluted at least 1 : 4 with water) orally or via orogastric 
+tube. 
+
+Precautions — The charcoal slurry must be mixed 
+thoroughly to prevent the formation of charcoal plugs. 
+A minimum of 250 ml of fluid is recommended if the 
+powder form is used. Once the poison in the stomach 
+or upper bowel is fully adsorbed on the charcoal 
+particles, it is innocuous unless desorption occurs 
+
+
+
+during its transit down the alimentary canal. Though 
+the therapist who administers charcoal to a poison 
+victim is not obliged to remove it by inducing emesis 
+or by aspirating the stomach contents, but it may be 
+safe? to do so if the poison is known to be highly toxic. 
+To minimize the time available for desorption, it is 
+probably useful to speed transit of charcoal poison 
+complex through the bowel. 
+
+c) Cathartics 
+
+The usefulness of cathartics in the treatment of 
+poisoning has not been proved unequivocally. The 
+commonly used cathartics are saline cathartics (for 
+example Magnesium citrate, Magnesium sulphate. 
+Sodium sulphate, Disodium phosphate) and 
+Saccharide (Sorbitol). Dosage of each of cathartics are 
+given below. 
+
+Magnesium sulphate — 150-250 ml of 10 percent 
+solution in adults and 1-2 ml/kg in children. It contains 
+8.3 milliequivalent of magnesium per gram of salt. 
+
+Magnesium citrate — 250 ml of 1 percent solution in 
+adults and 4 ml/kg in children. It contains 16 
+milliequivalent of magnesium per gram of salt. 
+
+Sodium sulphate — 150-250 ml of 10 percent solution 
+in adults and 1-2 ml/kg in children. It contains 14 
+milliequivalent of sodium per gram of salt. 
+
+Sorbitol — Commercially Sorbitol suspension is 
+available a 20 percent (w/v) activated charcoal in 70 
+percent Sorbital. In serious patients 300 ml of 
+undiluted solution and in ambulatory or less serious 
+patients 300 ml diluted with water in ratio of 1 : 1 (that 
+is 35 percent solution) is given. For children 
+reconraiended doses are 4.3 ml/kg of commercial 
+solution diluted to 1 : 1. 
+
+Precautions — Magnesium cathartics should be 
+avoided in patients with pre-existing renal failure or in 
+those who are likely to develop renal dysfunction. 
+Sodium cathartics should be avoided in severe 
+hypertension, renal failure and heart failure. 
+Cathartics use should be avoided in case of ingestion 
+of corrosives, severe diarrhoea, paralytic ileus, 
+electrolyte imbalance or recent bowel surgery. 
+
+7.2.1.7 Measures to enhance elimination 
+
+The following measures may be taken to enhance 
+elimination: 
+
+i) Forced diuresis and pH alteration 
+
+Forced diuresis or alteration of the urinary pH may 
+enhance the renal excretion of certain poisons. 
+Altering the urinary pVt may increase the excretion of 
+certain weakly acidic or basic drugs by increasing the 
+amount of the ionized (polar) form in the urine for 
+
+
+
+IS 4015 : 1998 
+
+
+
+example 2, 4-Dichlorophenoxy acetic aid (2, 4-D), 
+poisoning cases may get benefit from alkaline 
+diuresis. 
+
+ii) Extracorporeal removal 
+
+Peritoneal dialysis, hemodialysis, plasmapheresis 
+exchange transfusion and haemoperfusion are capable 
+of removing many toxin from the blood stream. 
+
+7.2.1.8 Specific chemical antidotes 
+
+Though for many of the pesticides specific chemical 
+antidotes or specific pharmacological antagonists are 
+not available, but wherever available, they should 
+always be administered, as early as possible after 
+establishment of diagnosis (see Table 2). 
+
+7.2.1.9 Emergency treatment of a chemically injured 
+eye 
+
+Examine the eye and periorbital structures in good 
+light by a magnifying glass. 0.5 percent buffered 
+solution of tetracaine/xylocaine may be used as local 
+anaesthetic for facilitating the examination of an 
+injured eye. It may be instilled with a sXtfiXt 
+dropper gently over the outer canthus. Irrigate eye, 
+lids etc, thoroughly with isotonic saline (0.85 percent 
+NaCl) for 10 to 15 min. It will reduce the XocdX injury 
+and may be helpful in some cases to limit the systemic 
+intoxication. If local ocular sign and symptoms arc 
+severe than instill a 2 percent buffered sterile 
+solution of fluorescein. Greenish areas of stain mark 
+the regions where the conjunctiva, cornea or sclera 
+is damaged and eroded. If, these areas arc 
+extensive, a dry sterile pad should be applied to the eye 
+and the patient should be referred to an 
+ophthalmologist. 
+
+8 SYMPTOMS, SIQ^, DIAGNOSIS AND 
+TREATMENT OF PESTICIDE POISONING 
+
+8.1 Orgaxiochlorine Compounds 
+
+8.1.1 Signs and Symptoms 
+
+The onset of symptoms after oral ingestion are 
+within 45 min to several hours. Nausea and vomiting 
+frequently occur after oral ingestion. However, the 
+common symptoms of poisoning are due to CNS 
+toxicity and manifest as apprehension, excitability, 
+paraesthesia, dizziness, headache, disorientation and 
+tremors. In severe cases stupor, coma and convulsions 
+occur. Other features of exposure are cardiac 
+arrhythmias, seizures with resultant hypoxemia, 
+severe metabolic acidosis, respiratory depression 
+and death. Hydrocarbon pneum onitis due to 
+solvent vehicle (xylene, benzene, toluene) is also 
+reported. 
+
+
+
+8.1.2 Treatment 
+
+If convulsions occur, place the victim in the left lateral 
+decubitus position with the head down and put a 
+padded tongue blades between the teeth to protect the 
+tongue. Remove dentures. Aspirate oral and 
+pharyngeal secretions and, if possible, insert an 
+oropharyngeal airway to maintain an open air passage 
+unobstructed by tongue. Avoid any stimuli which may 
+provoke/exaggerate convulsions. 
+
+8.1.3 To control convulsions drugs like diazepam, 
+pheny toin sodium and phenobarbitone sodium may be 
+administered. Diazepam dosage for adults is 5-15 mg 
+/.v. at a rate of not more than 2 mg/min if 
+necessary, repeat every 10-15 min to a maximum of 30 
+mg. In children the dose is 0.25-0.40 mg/kg body 
+weight, which may be repeated every 10-15 min, if 
+necessary, to a maximum of 10 mg. While 
+administering the diazepam, precaution is to be taken 
+to adminster it slowly to avoid hypotension and 
+respiratory depression. Facilities should be available 
+for intubating the patient in case of diazepam related 
+respiratory depression. If i.v. administration of 
+diazepam is not possible then it may be given undiluted 
+in dosage of 10 mg in adults and 5 mg in children by 
+per rectum route. The same dosage may be repeated 
+in 2 to 4 h if required. 
+
+
+
+i) Phenytoin Sodium, 
+(Dilantin, Epileptin) 
+
+
+
+ii) Phenobarbitone 
+Sodium (Luminal, 
+Gerdinal) 
+
+
+
+The dose is 15-18 
+mg/kg at a rate not 
+more than 50 
+mg/min. 
+
+5 mg/kg /.v., at a rate 
+not more than 50 
+mg/min repeated 
+every 20 min upto a 
+maximum of 3 doses. 
+Respiratory 
+depression and 
+hypotension may 
+occur as a result of 
+i.v. administration. 
+
+
+
+8.1.4 Decontaminate the patient concurrently. 
+Monitor pulmonary ventilation and c^diac status. If 
+ftvftilable cholestyramine mixed with pulpy fruit or 
+liquid may be given in dose of 4 g, 4 times a day before 
+meals and at bedtime. It accelerates the biliary-faecal 
+excretion of the more slowly eliminated 
+organochlorine compounds. 
+
+— DO NOT GIVE EPINEPHRINE. OTHER 
+ADRENERGIC AMINES OR ATROPINE. 
+
+— DO NOT GIVE MILK, ANIMAL OR 
+VEGETABLE OILS OR FATS BY MOUTH. 
+
+
+
+IS 4015 : 1998 
+
+
+
+8.2 Organophosphonis Compounds 
+
+8.2.1 Symptoms and Signs 
+
+Early symptoms of poisoning are headache, nausea, 
+dizziness, anxiety and restlessness. Worsening of 
+poison state, is manifest as muscle twitching, 
+weakness, tremor, incoordination, vomiting, 
+abdominal cramps, urinary and faecal incontinence, 
+increased bronchial secretions, bronchospasm, cough 
+and occasionally pulmonary oedema. Sweating, 
+lacrimation, salivation, miosis, bradycardia, 
+conduction block and hypotension also occurs. In 
+severe cases twitching, fasciculation, weakness of 
+muscles, diminished respiratory effort, hypertension, 
+tachycardia, tremors, convulsions, confusion and 
+coma may also occur. Rarely normal sized or dilated 
+pupils (mydriasis) and cardiac conduction defects m t 
+be seen. Usually recovery is within 24-48 h. In fatal 
+cases the cause of death is increased pulmonary 
+secretion and inadequate ventilation. Some patients 
+develop intermediate syndrome after 34-96 h which is 
+characterized by weakness of proximal limb muscles, 
+neck flexors and respiratory paralysis manifesting as 
+acute ventilatory insufficiency. 
+
+8.2.2 Treatment 
+
+Establish a clear airway by aspiration of bronchial 
+secretions. Administer oxygen. In severe poisoning, 
+it may be necessary to support pulmonary ventilation 
+mechanically for several days. 
+
+8.2.3 In adults administer atropine sulphate Lv. 1-5 
+mg every 5 to 15 min till atropinization is achieved 
+(that is flushing of skin, dry mouth, dilated pupils). In 
+the process of atropinisation the pulse rate may go upto 
+140/min. No maximum dosage have been prescribed, 
+even dosage of upto 200 mg during 1st hour of 
+treatment has been given. The signs of atropine 
+intoxication are fever and delirium. Maintain 
+atropinization for 2-12 h or longer depending on the 
+severity of the poisoning. In children atropine in dose 
+of 0.05 mg/kg body weight should be administered and 
+repeated every 5-15 min until atropinization is 
+achieved. Maintain atropinization by repeated doses 
+of 0.02-0.05 mg/kg body weight. 
+
+Administer pralidoxime (protopam, 2-PAM), a 
+cholinesterase reactivator in case pf severe poisoning 
+by organophosphorus compounds. 1.0 to 2.0 g 
+dissolved in 100 ml of normal saline i. v. over a period 
+of 15-20 min may be administered in adults at a rate 
+not more than 0.2 g/min. In children doses are 20-50 
+mg/kg body weight /.v., injecting not more than half 
+the total dose per minute. Doses of pralidoxime may 
+be repeated in 1-2 h, then at 10-12 h intervals if 
+needed. Blood pressure should be monitored during 
+Lv. administration because of occasional occurrence of 
+
+
+
+hypertensive crises. If seizure activity develops 
+oxygenation benzodiazepines and antidotal therapy 
+should precede the use of barbiturates or phenytoin. 
+
+8.2.4 Decontamination of skin, eyes or gut as the case 
+may be continued simultaneously. Monitor 
+respiratory and cardiac status. Patient must be 
+observed closely for atleast 96 h or longer in case of 
+organophosphate ingestion for occurrence of 
+intermediate syndrome. For intermediate syndrome 
+only symptomatic treatment is required. 
+
+8.3 Carbamates 
+
+8.3.1 Signs and Symptoms 
+
+Sign and symptoms of carbamate poisoning are similar 
+to the organophosphate poisoning, but are less severe 
+and has a shorter duration. 
+
+8.3.2 Treatment 
+
+Establish clear airway. Administer oxygen. If 
+required, ventilate the patient mechanically. 
+Administer atropine sulphate i.v. in the doses as 
+indicated in case of organophosphate poisoning. 
+
+8 J.3 Persons not poisoned or only slightly poisoned 
+by N-methyl carbamates (for example Baygon, Sevin, 
+Furadan, Lannate, MIPC) may develop signs of 
+atropine toxicity from such large doses. Fever, and 
+delirium are the main signs of atropine toxicity. If 
+these signs appear while patient is fully atropinized, 
+atropine administration should be discontinued, at 
+least temporarily, and severity of poisoning is 
+re-evaluated. Use of pralidoxime is contraindicated in 
+carbaryl and chemically related (N-methyl carbamate 
+poisoning. However, in case of mixed poisoning of 
+organophosphate and carbamate or unknown 
+anti-cholinesterase poisoning with significant 
+nicotinic effects like muscular fasciculation and 
+muscle weakness etc, cautious administration of 
+pralidoxime may have to be considered. 
+
+Decontamination should be done concurrently. 
+Monitor respiratory and cardiac status. Observe 
+patient closely for atleast 24 to 48 h. The use of 
+morphine, theophylline, phenothiazines and reserpine 
+and succinyl choline is probably contraindicated in 
+N-methyl carbamate poisoning cases. Adrenergic 
+amines should be given only in cases of specific 
+indication such as marked hypotension. 
+
+8.4 Synthetic Pyrethroids 
+
+8.4.1 Signs and Symptoms 
+
+Mammalian toxicity is extremely low. Contact 
+dermatitis (erythema, vesiculation, bullae) 
+anaphylactoid reactions (pallor, tachycardia, 
+diaphoresis) and rhinitis and asthma may occur 
+
+
+
+IS 4015 : 1998 
+
+
+
+following exposure. Symptoms usually begin several 
+hours aftercutaneous exposure and resolves within 24 
+h. Tremors, ataxia, laboured breathing and salivation 
+may occur after heavy exposure. 
+
+8.4.2 Treatment 
+
+Treatment is supportive and symptomatic. Topical 
+vitamin E may be used for paraesthesia due to 
+pyrethroids containing an alphacyano group (for 
+example Fenvalerate, Cypermethrin, Flycythrinate). 
+Antihistaminics are effective in controlling most 
+allergic reactions. Severe asthmatic reactions may 
+require administration of epinephrine, theophylline 
+and/or corticosteroids. 
+
+8.5 Coumarin and Indandione (Anticoagulant) 
+Rodenticides 
+
+8.5. 1 Signs and Symptoms 
+
+Clinical effects result from bleeding when compounds 
+are consumed over several days. The casual ingestion 
+of warfarin in a toddler will not result in symptoms; 
+however, the new super warfarin rodenticides 
+(difenacoum and brodifacoum) cause prolonged 
+severe depression of clotting factors and mild bleeding 
+in a dose of 0. 12 mg/kg. Acute clinical effects depend 
+on the site of hemorrhage and include hemoptysis, 
+hematuria, gastrointestinal bleeding, abdominal or 
+back pain, haemarthrosis, epistaxis, cerebrovascular 
+accidents and multiple ecchymotic lesions. Maximum 
+depression of coagulation factors occurs 36-72 h after 
+warfarin ingestion. The superwarfarin compounds 
+produce coagulation defect lasting 6-8 weeks. 
+However, depression of prothrombin time upto 8 
+months has been reported after ingestion of 10 mg of 
+Brodifacoum. 
+
+8.5.2 Diagnosis 
+
+Prothrombin time determination (if facilities exist) — 
+An increase in prothrombin time occurs. Complete 
+haemogram provide baseline to mesure blood loss 
+prospectively. 
+
+8.5.3 Treatment 
+
+Administer specific antidote phytonadione (Vitamin 
+Kl) orally in doses of 15-25 mg in adults and 5-10 mg 
+in children alternatively aquamephyton may be given 
+intramuscularly in doses of 5-10 mg in adults and 1-5 
+mg in children. Vitamin Kl has a shorter duration of 
+action and so must be given repeatedly. Antidotal 
+therapy in cases of severe bleeding should be 
+supplemented with transfusions of fresh blood or fresh 
+frozen plasma. Determine prothrombin time and 
+haemoglobin concentrations every 6-12 h to assess 
+effectiveness of antihemorrhagic measures. Ferrous 
+sulphate therapy may be given to rebuild lost 
+erythrocyte mass. 
+
+
+
+NOTE — Vitamin K3 (Menadione) and Vitamin K4 (Menadiol) 
+are not specific antidotes for these anticoagulants. 
+
+8.6 Halogen Fumigants 
+
+8.6.1 Signs and Symptoms 
+
+Early symptoms of acute poisoning include headache, 
+dizziness, nausea, vomiting, tremor and ataxia. 
+Repeated prolonged exposure may lead to 
+incoordination, muscle weakness and areflexia. In 
+case liquid comes in contact with skin, severe burning, 
+blister formation and skin necrosis may occur. 
+Ethylene dibromide causes severe irritation of skin, 
+eyes and respiratory tract. The liquid causes bUstering 
+and erosion of skin and is corrosive to eyes. After 
+absorption person may suffer from pulmonary oedema 
+and CNS depression. If ingested, the liquid forms 
+often cause pulmonary oedema and shock within a 
+minute. Death is due to respiratory or circulatory 
+failure. If victim survives, injuries to the brain, liver 
+and kidney are life threatening. 
+
+8.6.2 Diagnosis 
+
+Determination of blood bromide concentations if 
+facilities available. Normal levels are less than 1 
+mg/lOOml. 
+
+8.6.3 Treatment 
+
+No specific antidote is available, therefore treatment 
+is supportive and symptomatic. Decontamination of 
+skin, eyes or gut depending on the type of exposure. If 
+pulmonary oedema occurs then treat it accordingly by 
+placing the victim in a sitting position with a back rest 
+and administer oxygen and furosemide, 40 mg i.v. 
+Morphine 3.5 mg i.v. slowly may be administered to 
+allay anxiety and promote deeper respiratory 
+excursions. Aminophylline 0.25-0.5 g slowly i.v. may 
+also be given. 
+
+8.7 Phosphine Fumigant 
+
+8.7.1 Signs and Symptoms 
+
+Aluminium phosphide and zinc phosphide release 
+phosphine gas upon contact with moisture and cause 
+fatalities. Zinc phosphide hydrolyses slowly as 
+compared to aluminium and magnesium phosphide. 
+The fatal dose of aluminium phosphide for a 70 kg 
+adult is 0.5 g. For zinc phosphide lethal dose veries, 
+but most fatal cases have ingested more than 20 g zinc 
+phosphide. Ingestion of phosphides may cause 
+nausea, vomiting, diarrhoea, retrosternal and 
+abdominal pain, tightness in the chest and coughing, 
+headache and dizzi;iess. In more severe cases this may 
+progress to cardiovascular collapse, pulmonary 
+oedema, cyanosis and respiratory failure. Pericarditis, 
+renal failure, and hepatic damage including jaundice, 
+may develop later. Symtoms may be delayed and 
+death may occur upto one week after posioning. 
+
+
+
+10 
+
+
+
+IS 4015 : 1998 
+
+
+
+Inhalation of phosphine or phosphide may cause 
+severe pulmonary irritation. Mild exposure may cause 
+only mucous membrane irritation, with initial 
+symptoms mimicking an upper respiratory tract 
+infection. Other symptoms may include nausea, 
+vomiting, diarrhoea, headache, fatigue, and coughing 
+whilst more severe symptoms may include* ataxia, 
+paraesthesia, intention tremor, diplopia and jaundice. 
+Very severe cases may progress to acute pulmonary 
+oedema, cardiac arrhythmias, convulsions, and coma. 
+Renal damage and leukopenia may also occur. 
+Exposure to 1 400 mg/cubic metre (1 000 ppm) for 30 
+min may be fatal. There is no evidence for cumulative 
+effects from intermittent low level exposure averaging 
+14 mg/ cubic metre (10 ppm or less). 
+
+8.7.2- Diagnosis 
+
+The typical garlic odour of phosphine is best guideline 
+for diagnosis. Change of silver nitrate impregnated 
+paper to black after treatment with victim's vomitus or 
+gastric aspirate confirms the diagnosis. 
+
+8.7.3 Treatment 
+
+No specific antidote is available, therefore, treatment 
+remains supportive and symptomatic. Serum 
+electrolytes should be frequently monitored and 
+maintained. Cardiac monitoring should be done for 
+cardiac arrythmias and blocks. Xylocaine (Xylocard) 
+2-3 mg /. v./kg bolus followed by 1-4 mg/ kg/hour may 
+be given in cases of ventricular arrhythmias till 
+arrhythmias stop. It may be continued till 24 to 48 h 
+depending on the condition of patient. For block, 
+pacemaker may be implanted, if facilities exist. 
+Aluminium phosphide will release phosphine gas in 
+stomach, if it comes in contact with water. Therefore, 
+if ipecac is administered, it should perhaps be not 
+followed with fluids. Gastric lavage may also be 
+dangerous. If activated charcoal is administered, it 
+should perhaps be mixed with sorbitol not with water. 
+For maintenance of blood pressure, give 1-2 1 normal 
+saline or Ringer lactate. If there is no improvement in 
+blood pressure then central venous line should be put 
+in and a pressure of 8-12 cm of water is to be 
+maintained with /.v. fluids. If central venous pressure 
+is more than 12 cm of water or /.v. fluids fails to 
+increase the blood pressure, start dopamine drip at rate 
+of 10 |lg/kg/min and titrate according to blood 
+pressure. Magnesium sulphate has been tried in 
+aluminium phosphide poisoning cases. However, its 
+therapeutic efficacy has not been established. If 
+facilities arc available, the magnesium levels should 
+be monitored, if magnesium sulphate therapy is to be 
+given. 3 g of magnesium sulphate in 500 ml of 5 
+percent dextrose should be given in first 3 h. This is 
+followed by 6.0 g in 500 ml of 5 percent dextrose in 
+next 24 h. 
+
+
+
+8.8 Phenolics, NitrophenoHc and Nitrocresolic 
+Herbicides 
+
+This does not include the household disinfectants like 
+Carbolic Acid, Phenol, Cresol, etc. 
+
+8.8.1 Signs and Symptoms 
+
+Yellow staining of skin and hair occur as a result of 
+topical contact and systemic absorption of toxic 
+amount of nitrophenolic and nitrocresolic compounds. 
+It results in staining of sclera and urine. Early 
+symptoms of poisoning include sweating, thirst, fever, 
+headache, confusion, malaise and lassitude. Warm 
+flushed skin, tachycardia, tachypnoea, convulsions, 
+laboured breathing and cyanosis are indicative of 
+severe poisoning. 
+
+8.8.2 Diagnosis 
+Clinical. 
+
+8.8.3 Treatment 
+
+Do not await confirmation before commencing 
+treatment but save urine and blood samples for 
+confirmation. No specific antidote exists. Treatment 
+is symptomatic and supportive. Decontamination, 
+reduction of elevated body temperature by physical 
+means (like sponge bath, cool blankets etc), i.v. fluids 
+and diazepam in cases with agitation and involuntary 
+motor activity may be attempted. Haemodialysis (if 
+facilities exist) may be considered in very severe cases. 
+
+NOTE — Do not administer atropine, aspirin or other salicylates 
+which may enhance the toxicity of phenols. 
+
+8.9 Chlorphenoxy Compounds 
+
+8.9.1 Signs and Symptoms 
+
+The compounds are moderately irritant to skin, eyes 
+and respiratory and gastrointestinal tract. Inhalation 
+of spray may cause burning sensation in nasopharynx 
+and chest and coughing may results in coughing. 
+Ingesion of large quantities cause irritation of stomach, 
+vomiting, pain in chest and abdomen, diarrhoea, 
+headache, mental confusion, bizzare behaviour and 
+finally unconciousness. Myotonia (stiffness of 
+muscles of extremities) occurs in 2, 4-D poisoning. 
+Areflexia is sometimes observed body temperature 
+may be moderatley elevated. Metabolic acidosis, 
+moderate temporary elevations of blood urea nitrogen 
+and serum creatinine, liver cell injury, T-wave 
+flattening and inversion have been reported. 
+
+8.9.2 Diagnosis 
+Clinical. 
+
+8.9.3 Treatment 
+
+START TREATMENT IMMEDIATELY. 
+
+Treatement is symptomatic and supportive. No 
+
+
+
+11 
+
+
+
+IS 4015 : 1998 
+
+
+
+specific antidote exists. Decontaminate eyes, skin 
+and/or gut depending on the exposure. Lv. fluids may 
+be given a urine flow of 4-6 ml/min is desirable to limit 
+concentration of the toxicant in the kidney. Forced 
+alkaline diuresis alkalinization of urine by adding 
+sodium bicarbonate (44-88 mEq/litre) in i.v. fluids is 
+effective. Urine /?H should be maintained in the range 
+of 7.6 to 8.8. Potassium chloride 20-40 mEq/litre may 
+be added in i.v. fluids to combat the potassium losses. 
+
+8.10 Thiocarbamates and Related Compounds 
+
+8. 10. 1 Signs and Symptoms 
+
+They are moderately irritating to human skin, eyes and 
+respiratory mucous membranes. SYSTEMIC 
+POISONING IS RARE but in high dosage nausea, 
+vomiting, headache, diarrhoea hypothermia, ataxia 
+and muscle weak-ness occur which m.ay result in 
+respiratory paralysis. If high dosage of thiram and 
+metallic bis-dithiocarbamate are ingested with alcohol 
+then disufiram like reaction may occur. 
+
+8.10.2 Diagnosis 
+
+Clinical and estim.ation of urinary xanthurenic acid for 
+confirming the absorption of thiram. 
+
+8.10.3 Treatment 
+
+No specific antidote exists, therefore treatment is 
+supportive and symptomatic. Decontaminate of skin, 
+eyes and gut. Administer i.v. fluids to accelerate 
+excretion of toxicants. In case of dithiocarbamate 
+(Ziram) poisoning ascorbic acid in dose of 10-20 
+mg/kg may be administered /. v. at a rate not exceeding 
+0.2 g/min "AVOID INTAKE OF ALCOHOLIC 
+BEVERAGES FOR THREE WEEKS". 
+
+8.11 Bypyridyiium (Paraquat and Diquat) 
+
+8.11.1 Signs anttSymptoms 
+
+Corrosive effects of paraquat leads to early symptoms 
+of burning pain in mouth, throat chest and upper 
+abdomen. Giddiness, headache, fever, myalgia and 
+diarrhoea also occur. Proteinuria, haematuria, pyruria 
+and azotemia reflect renal injury while oliguria and 
+anuria indicate tubular necrosis. Cough, dypnoea, 
+tachypnoea, progressive cyanosis, air hunger are the 
+pulmonary mainfestations which can appear 2-14 
+days after exposure. Late complications include 
+pulmonary fibrosis which is the cause of death in most 
+of the cases. Other manifestations are hepatic failure 
+and toxic myocarditis. Classical sign of paraquat 
+poisoning is formation of a pharyngeal membrane 
+which resembles that of diphtheria. Local effects of 
+concentrated form are fissures of the skin, loss of 
+fingernails, dryness, blistering and ulceradon. 
+Inhalation causes bleeding from nose. Eye contact 
+leads to severe conjuctivitis and corneal opacification. 
+
+
+
+Occurrence of vomiting due to poisoning or due to 
+addition of emetic in the paraquat preparations should 
+not give false sense of security to the treating physician 
+and treatment for poisoning should be continued. 
+Diquat is less damaging to skin than paraquat. Early 
+symptoms are similar to those of paraquat but 
+pulmonar>' injury is less prominent. However, the 
+toxicity to CNS is more as compared to paraquat. 
+
+8.11.2 Diagnosis 
+Clinical. 
+
+8.11.2.1 Simple colorimetric test of urine 
+
+Take one volume of urine. Add 0.5 ml of freshly 
+prepared I percent sodium hydrosulphite in 1 N 
+sodium hydroxide. Development of blue colour at the 
+end of 1 min indicate the presence of paraquat at a 
+concentration of more than 0.5 mg/1. 
+
+8.11.3 Treatment 
+
+No specific antidote is available, therefore treatment 
+is symptomatic and supportive. Decontaminate skin 
+and eyes. If paraquat or diquat have been ingested in 
+any amount IMMEDIATE ADMINISTRATION OF 
+ADSORBENT is the therapeutic measure most likely 
+to affect the outcome of paraquat or diquat ingestion 
+favourably BENTONITE (7.5 percent suspension) 
+and FULLER'S EARTH (30 percent suspension) are 
+highly effecrive, but sometimes not available. 
+Administration of activated charcoal along with 
+sorbital in suspension is also beneficial. Because 
+corrosive damage to the osophagus and stomach may 
+render these structures vulnerable to perforation, the 
+gastric lavage tube must be introduced very gently. 
+CHECK FREQUENTLY FOR BOWEL SOUNDS. 
+Ileus occurs commonly in diquat poisoning but less 
+often in paraquat poisoning. Cathartics should not be 
+administered if the gut is atonic. Morphine sulphate 
+may be given to control the pain associated with deep 
+mucosal erosion of mouth, pharynx and oesophagus. 
+Mouth washes, cold fluids, ice creams or anaesthetic 
+lozenges may relieve pain in the mouth and throat. 
+Haemoperfusion and haemodialysis may be 
+considered, however these may offer only marginal 
+benfit. 
+
+NOTE — DO NOT ADMINISTER SUPPLEMENTAL 
+OXYGEN because it may enhance the pulmonary injury. 
+
+8.12 Urea Derivatives 
+
+8.12.1 Signs and Symptoms 
+
+Irritation of eyes and mucous membrane occur with 
+some compounds. Ingestion of large quantities may 
+result in nausea, vomiting and diarrhoea. 
+
+8.12.2 Diagnosis 
+Clinical. 
+
+
+
+12 
+
+
+
+IS 4015 ; 1998 
+
+
+
+8.12.3 Treatment 
+
+No specific antidote is available, therefore treatment 
+is supportive and symptomatic. 
+
+8.13 Arsenical Compounds 
+
+8. 13. 1 Signs and Symptoms 
+
+Symptoms usually appear within I h but may be 
+delayed for several hours. Garlic odour of breath and 
+feces may halp to identify the toxicant in severely 
+poisoned patient. Inflammation of mouth, pharynx and 
+oesophagus, or bloody diarrhoea, proteinuria, 
+hematuria, glycosuria, oligouria, casts in urine and in 
+severe cases acute tubular necrosis may occur. 
+Headache, dizziness, muscle weakness, spasms, 
+hypothermia, lethargy, delirium, coma, convulsions, 
+shock, cyanosis and cardiac arrhythmias may also 
+occur. Injury to blood forming tissues may result. 
+
+8.13.2 Diagnosis 
+
+8.13.2.1 Clinical and gutzeit test 
+
+Add 5 ml of urine to few drops of concentrated 
+sulphuric acid and few granules of elemental zinc. 
+Cover the top of the tube with a piece of filter paper to 
+which a drop or two of 1 percent silver nitrate solution 
+has been added. Browning or blackening of the paper 
+indicates that arsine has been evolved from the urine. 
+
+8.13.3 Treatment 
+
+The general supportive treatment remains the same 
+except that the catiiartics should not be administered. 
+
+
+
+Specific antidote BAL or dimercaprol given 
+intramuscularly increases the excretion of arsenic. 
+
+
+
+Doses schedule 
+
+
+
+1st day 
+3rd day 
+4th day 
+NOTES 
+
+
+
+Severe poisoning 
+
+3.0 mg/kg every 
+4 hourly 
+
+3.0 mg/kg 
+every 6 hourly 
+
+3.0 mg/kg 
+every 12 hourly 
+
+
+
+Mild poisoning 
+
+2.5 mg/kg every 
+6 hourly 
+
+2.5 mg/kg 
+every 12 hourly 
+
+2.5 mg/kg 
+per day 
+
+
+
+1 DimercaptDl is provided as a 1 00 mg/ml solution in oil . It may 
+produce some side effects like nausea, headache, burning and 
+tingling sensation, sweating, pain in back and abdomen, tremors, 
+restlessness, tachycardia and hypertension. Fever, coma and 
+convulsions may occur at very high doses. Sterile abscess may 
+form at injection sites. Acute symptoms usually subside in 30-90 
+min. Antihistaminic drugs given few minutes before injection 
+of BAL may prevent some of the side effects. After the 
+gastrointestinal tract is free of arsenic (indicated by passage of 
+charcoal black stool, if activated charcoal is given) BAL should 
+be replaced by d- penicillamine orally. Dosage is as follows: 
+
+Adults : d-penicillamine 0.5 g 6 hourly 30-60 min before 
+meals and bedtime for 5 days. 
+
+Children under 12 years of age d-penicillamine 0. 1 g/kg body 
+weight not exceeding 1 .0 g divided into 4 doses given 30-60 
+min before meals and at bedtime for 5 days. 
+
+2 d-penicillamine should not be given to individuals allergic to 
+penicillin. Discontinue chelation therapy when 24 h urinary 
+arsenic excretion falls below 50 mg/day. 
+
+8.13.4 Various pesticides, their groups, acute LD 
+50 and antidotes are given in Table 2. 
+
+
+
+13 
+
+
+
+IS 4015 : 1998 
+
+
+
+Table 2 
+
+(Clausesl2.\.SamlSA3A) 
+
+
+
+SI 
+
+No. 
+
+(1) 
+
+
+Name of Pesticides 
+
+(2) 
+
+
+Group/Chemical Family 
+
+(3) 
+
+
+Acute LD 50 
+(mg/kg b.wt) 
+Oral/Dermal 
+
+(4) 
+
+
+1. 
+
+
+Acephate 
+
+
+In/O.P 
+
+
+945/2000 
+
+
+2. 
+
+
+Alachlor 
+
+
+HR/Anilides/Acetamide 
+
+
+930/13300 
+
+
+3. 
+
+
+Aldicarb 
+
+
+In/Caibamate 
+
+
+0.93/5.0 
+
+
+4. 
+
+
+Allethrin 
+
+
+In/Pyrethroids 
+
+
+685/>2500 
+
+
+5. 
+
+
+alpha Naphthyl 
+acetic acid 
+
+
+IPGR/Carboxyiic Acid 
+derivative 
+
+
+1000 
+
+
+6. 
+
+
+alpha-cypemiethrin 
+(Alphamethrin) 
+
+
+In/Pyrethroids 
+
+
+79/>500 
+
+
+7. 
+
+
+Aluminium phosphide 
+
+
+Fu/Inorganic 
+
+
+
+
+8. 
+
+
+Anilophos 
+
+
+HR/O.P 
+
+
+400 
+
+
+9. 
+
+
+Atrazine 
+
+
+HR/Triazine 
+
+
+3080/7500 
+
+
+10. 
+
+
+Aureofungin 
+
+
+Anti fungal/Antibiotic 
+
+
+540/15000 
+
+
+11. 
+
+
+Barium Carbonate 
+
+
+RO/Inorganic 
+
+
+900 
+
+
+12. 
+
+
+Benomyl 
+
+
+Fg/Benzimidazole 
+
+
+10000/> 10000 
+
+
+13. 
+
+
+Benzene Hexachloride 
+(BHC) 
+
+
+In/OC 
+
+
+100 
+
+
+14. 
+
+
+Benthiocarb 
+(Thiobencarb) 
+
+
+HR/Carbamate 
+
+
+1300/>200 
+
+
+15, 
+
+
+Bitertano! 
+
+
+Fg/Triazole 
+
+
+5000/>5000(rat) 
+
+
+16. 
+
+
+Bromadiolone 
+
+
+RO/Coumarin 
+
+
+1.12/2.1 
+
+
+17. 
+
+
+Butachlor 
+
+
+HR/Acetamide/Anilide 
+
+
+3300/> 13000 
+
+
+18. 
+
+
+Captafol 
+
+
+Fg./Phthalimide 
+
+
+5000/> 15400 
+
+
+19. 
+
+
+Captan 
+
+
+Fg./Phthalimide 
+
+
+9000/15400 
+
+
+20. 
+
+
+Carbaryl 
+
+
+In/Thiocaibamate 
+
+
+500/>2000 
+
+
+21. 
+
+
+Cartap Hydrochloride 
+
+
+In/Thiocarbamate 
+
+
+325/>1000 
+
+
+22. 
+
+
+Carbendazim 
+
+
+Fg./Benzimidazole 
+carb 
+
+
+15000/10000 
+
+
+23. 
+
+
+Carbofuran 
+
+
+In/Carbamate 
+
+
+5.0/2550 
+
+
+24. 
+
+
+Carboxin 
+
+
+Fg./Anilide 
+
+
+3820/>8000 
+
+
+25. 
+
+
+Chlormequatchloride 
+(CCC) 
+
+
+PGR 
+
+
+670/440 
+
+
+26. 
+
+
+Chlorpyriphos 
+
+
+IN/OP 
+
+
+135/2000 
+
+
+27. 
+
+
+Chlorothalonil 
+
+
+Fg/Phthalimide 
+
+
+10000/10000 
+
+
+28. 
+
+
+Copper Oxychloride 
+
+
+Fg/lnorganic copper comp. 
+
+
+1440 
+
+
+29. 
+
+
+Copper Sulphate 
+
+
+Fg/Inorganic copper 
+compound 
+
+
+300 
+
+
+30. 
+
+
+Coumachlor 
+
+
+Ro/Coumarin 
+
+
+900/33(rat) 
+
+
+
+Antidote 
+
+
+
+(5) 
+
+
+
+Atropine, possibly in conjunction with 
+PAM. 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+Atropine 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+-do- 
+
+No specific antidote, symptomatic 
+treatment, if ingested do not induce 
+vomiting or give liquids 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+Atropine in conjunction with 2-PAM. 
+
+No specific antidote symptomatic and 
+supportive therapy. 
+
+-do- 
+
+Symptomalic and supportive therapy. Add 
+5- lOg of sodium sulphate to lavage solution. 
+
+No specific antidote, sympotmatic and 
+supportive therapy. 
+
+No specific antidote, symptomatic 
+treatment.Give (.v. Diazepam to control 
+convulsions. 
+
+Atropine 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+Vitamin Kl 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+-do- 
+
+-do- 
+
+Atropine 
+
+Sulphydryl agents, i.v. injections of 
+L-Cysteine or l.M. Injections of BAL, apply 
+steroids against dermatitis. 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+Atropine, if in eyes then 1 drop of 
+homatropine. 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+Choline chloride (or other choline salts) 
+scholine salts) or neostigmine sulphate 
+
+Atropine, possibly in conjunction with 
+PAM. 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+-do- 
+
+-do- 
+
+Vitarain K 1 
+
+
+
+14 
+
+
+
+Table 2 —Continued 
+
+
+
+IS 4015 : 1998 
+
+
+
+SI 
+
+
+Name of Pesticides 
+
+
+Group/Chemical Family 
+
+
+Acute LD SO 
+
+
+No. 
+
+
+
+
+
+
+(mg^gb.wt) 
+Oral/Dermal 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+31. 
+
+
+Coumatetralyl 
+
+
+Coumarin 
+
+
+16/25-50 
+
+
+32. 
+
+
+Cuprous Oxide 
+
+
+Fg/Inorganic copper 
+compound 
+
+
+470/n.a 
+
+
+33. 
+
+
+Cypermethrin 
+
+
+In/Pyrethroids 
+
+
+303/>2400 
+
+
+34. 
+
+
+Dalapon 
+
+
+HR/OC, Ali Carboxylic acid 
+
+
+9330/>2000 
+
+
+35. 
+
+
+Decaethrin 
+(Deltamethrin) 
+
+
+In/Synthetic Pyrethroid 
+
+
+80/>2000 
+
+
+36. 
+
+
+Dichlorodipheny] 
+
+1 trichloro ethane(DDT) 
+
+
+In/OC 
+
+
+113/2510 
+
+
+37. 
+
+
+Oiazinon 
+
+
+In/OP 
+
+
+300/540-650 
+
+
+38. 
+
+
+Djchlorvos 
+
+
+In/OP 
+
+
+56/107 
+
+
+39. 
+
+
+Dichloropropene and 
+Dichloropropane 
+Mixture {DD Mixture) 
+
+
+Fu/Halocarbon 
+
+
+
+
+40. 
+
+
+Dicofol 
+
+
+AC/DC, Bridged Diphenyl 
+
+
+690/2100 
+
+
+41. 
+
+
+Diflubenzuron 
+
+
+In/Urea Derivative 
+
+
+4620/>2000 
+
+
+42. 
+
+
+Dimethoate 
+
+
+In/OP 
+
+
+150/800. 
+
+
+43. 
+
+
+Dinocap 
+
+
+Fg/Nitrophenol 
+
+
+980/4700 
+
+
+44. 
+
+
+Dithianoti 
+
+
+Fg/Quinone 
+
+
+638 
+
+
+45. 
+
+
+Diuron 
+
+
+HR/Urea derivative 
+
+
+3400 
+
+
+46. 
+
+
+Dodine 
+
+
+Fg/Guanidine 
+
+
+1000/>1500 
+
+
+47. 
+
+
+24-Dichlorophenox- 
+
+
+HR/Chlorophenoxy 
+
+
+375/>1600 
+
+
+
+yacetic acid (2, 4-D) 
+Sodium, Anine & Ester Salt 
+
+48. Ehtylene Dichloride and 
+Carbon Tetrachloride 
+Mixture {EDCT Mixture 3:1) 
+
+
+
+49. 
+
+
+Edifenphos 
+
+
+Fg/OP 
+
+
+150/700-800 (rats) 
+
+
+50. 
+
+
+Endosulfan 
+
+
+In/OC. Sulfurous acid 
+derivative 
+
+
+80/360 
+
+
+51. 
+
+
+Ethepon 
+
+
+PGR/Ethylene 
+generation 
+
+
+4000/5730 
+
+
+52. 
+
+
+Ethion 
+
+
+In/OP 
+
+
+208/915 
+
+
+53. 
+
+
+Etofenprox 
+
+
+Bridged diphenyl 
+
+
+NA/>2140 
+
+
+54. 
+
+
+Ethylene Dibromide 
+
+
+Fu 
+
+
+146mg/kg/n.a 
+
+
+
+55. Fenarimol 
+
+
+
+Fg 
+
+
+
+2500/>2000 
+
+
+
+Antidote 
+
+
+
+(5) 
+
+Vitamin Kl 
+
+BAL and subsequent penicillamine 
+
+administration. 
+
+No specific antidote, symptomatic 
+
+treatment. If ingested do not induce 
+
+vomiting or give liquids. 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+-do- 
+
+-do- 
+
+Atropine, possibly in conjunction with 
+PAM. 
+
+-do- 
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+-do- 
+
+-do- 
+
+Atropine, possibly in conjunction with 
+PAM. 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+-do- 
+
+-do- 
+
+-do- 
+
+-do- 
+
+
+
+Treatment of Ethylene 
+
+Dibromide and carbon tetrachloride. 
+
+Alropine, possibly in conjunction with 
+PAM. 
+
+No specific antidote, symptomatic 
+treatment. 
+
+No specific antidote, symptomatic and 
+generation supportive therapy. 
+
+Atropine, possibly in conjunction with 
+
+PAM. 
+
+No specific antidote, symptomatic and 
+
+supportive therapy. 
+
+No specific antidote, symptomatic and 
+
+supportive therapy. In Acidosis, 
+
+Sod .bicarbonate is administered and urine is 
+
+monitored. After inhalation move victim to 
+
+fresh air, keep lying down and warm. 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+
+
+56. Fenitrothion In/OP 
+
+57. Fenthion |n/OP 
+
+
+
+503/890-1300 Atropine, possibly in conjunction with 
+
+PAM. 
+
+291-315/330 -do- 
+
+
+
+15 
+
+
+
+IS 4015 : 1998 
+
+
+
+Table 2 — Continued 
+
+
+
+SI Nam e of Pesticides 
+No. 
+
+(1) (2) 
+
+58. Fenvalerate 
+
+59. Ferbam 
+
+60. FluchJoralin 
+
+61. Formothion 
+
+62. Fluvalinate 
+
+63. Fosetyl-Al 
+
+64. Glyphosate 
+
+
+
+Group/Chemical Family Acute LD SO 
+
+(mg/kg b.wt) 
+Oral^ermal 
+
+(3) (4) 
+
+
+
+[fi/Pyrethroids 
+
+Fg/Dithiocarbamate 
+
+HR 
+In/OP 
+
+In/Pyrethroids, 
+Trifluromethyl 
+
+Fg/OP, Organoalumi 
+HR/OP,Glycine derivative 
+
+
+
+45I/2500 
+
+1700 
+
+550 
+
+3655/>10O0 
+
+261/>2000 
+
+5400/>2000 
+
+43/5000 
+
+
+
+Antidote 
+
+
+
+(5) 
+
+
+
+No specific antidote, if ingested perfc 
+gastric lavage. 
+
+
+
+fonr, 
+
+
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+-do- 
+
+Atropine. possibly in conjunction with 
+PAM. 
+
+No specific antidote, symptomatic treatment 
+gastric lavage. 
+
+No specific antidote, symptomatic and 
+
+supportive therapy. 
+
+-do- 
+
+
+
+65. Gibbercllic acid 
+
+66. Isoproturon 
+
+67. Kitazin 
+
+68. Lindane(GammaBHC) 
+
+69. Lime Sulphur 
+
+70. Malathion 
+
+7 1 . Meieic Hydrazide 
+
+72. Methomyl 
+
+73. Methylchlorophenoxy 
+acetic acid (MCPA) 
+
+74. Metolachlor 
+
+75. Mancozeb 
+
+
+
+79. Methyl Parathion 
+
+80. Methyl Bromide 
+Ethylene Dibromide 
+(1:1&3:1) 
+
+81. Metoxuron 
+
+
+
+82. Metribuzin 
+
+83. Monocrotophos 
+
+84. Metalaxyl 
+
+85. Mickel Chloride 
+
+
+
+PGR 
+
+HRAJrea derivative 
+
+Fg 
+In/OC 
+
+In/OP 
+PGR/Pyridazine 
+
+In/Carbamate 
+HR/Chlorphenoxy 
+
+Acetamide 
+Fg/Dithiocaibamte 
+
+
+
+In/OP 
+
+
+
+HR/Unea 
+
+HR/Triazine 
+
+In/OP 
+
+Fg/'Acylalariine 
+
+Fg/Inorganic 
+
+
+
+>15000 
+
+I80(y>2000(rat) 
+
+490 
+
+88.900 
+
+2100/4100 
+6950/>2000 
+
+17/>5000 
+70W> 1000 (rat) 
+
+2780/3100 
+8000/> 10000 (rat) 
+
+
+
+76. 
+
+
+Metaldehyde 
+
+
+MO/Aldehydes 
+
+
+60a/>5000 
+
+
+77. 
+
+
+Methaben zthtazuron 
+
+
+HR/Urea 
+
+
+2500/>500(rat) 
+
+
+78. 
+
+
+Methyl Bromide 
+
+
+Fu 
+
+
+0.63 (6 hours) 
+
+
+
+14.0/420 
+
+
+
+3200>2000(rats) 
+
+2200/>20000 
+14.0/130-250 
+&70/>3iOO 
+
+135 
+
+
+
+-do- 
+
+-do- 
+
+-do- 
+
+-do- 
+
+-do- 
+
+Atropine, possibly in conjuction with PAM. 
+
+No specific antidote, symptomatic and 
+
+supportive therapy. 
+
+Atropine 
+
+No specific antidote, symptomatic and 
+
+supportive therapy. 
+
+No specific antidote, symptomatic treatment 
+
+No specific antidote, symptomatic 
+
+treatment, if swalloved induce vomiting 
+
+wash out the stomach administer 
+
+saline !a.xa!ves. provide circulatory support, 
+
+etc. 
+
+No specific antidote, .symptomatic and 
+
+supportive therapy. 
+
+-do- 
+No specific antidote, symptomatic. In 
+Acidosis, Sod, bicarbonate is administered 
+and urine is monitored. After inhalation, 
+move victim to fresh air, keep lying down 
+and warm. 
+Atropine, possibly in conjuction with PAM. 
+
+See Methyl Bromide and Ethylene 
+Dibromide. 
+
+No specific antidote, symptomatic and 
+derivatives supportive therapy. 
+
+-do- 
+
+Atropine, possibly in conjuction with PAM. 
+
+No specific antidote, symptomatic and 
+
+supportive therapy, 
+
+No specific antidote, content symptomatic 
+
+and supportive therapy. 
+
+
+
+16 
+
+
+
+IS 4015 : 1998 
+
+
+
+Table 2 — Continued 
+
+
+
+SI Name of Pesticides 
+No. 
+
+
+
+(1) 
+
+
+
+(2) 
+
+
+
+86. Nicotine Sulphate 
+
+87. Oxydemetoti-metliyl 
+
+88. Oxyfluorfen 
+
+89. Paradichlorobenzene 
+
+90. Pendimethalin 
+
+91. Permethrin 
+
+
+
+98. Propanil 
+
+
+
+Group/Chemical Family Acute LD 50 
+(mg/kg b.wt) 
+Oral/Dermal 
+
+(3) (4) 
+
+
+
+In/Allcaloids 
+
+In/OP 
+
+HR/Diplwnyl 
+Ether, Trifluiomethyl 
+
+Fg 
+
+HR/Nitro Compound 
+
+In/Pyrethroids 
+
+
+
+92. 
+
+
+Phenthoate 
+
+
+In/OP 
+
+
+93. 
+
+
+Phorate 
+
+
+In/ 
+
+
+94. 
+
+
+Phosalone 
+
+
+In/Op 
+
+
+95. 
+
+
+Phosphamidon 
+
+
+In/OP 
+
+
+96. 
+
+
+Pirimiphos-methyl 
+
+
+In/OP 
+
+
+97. 
+
+
+Phenylmercuryacetate 
+(PAM) 
+
+
+Fg/Organomercury 
+
+
+
+HR/Acetamide/AnUides 
+
+
+
+99. 
+
+
+Propetamphos 
+
+
+OP 
+
+
+100. 
+
+
+Propoxur 
+
+
+In/Carbamates 
+
+
+101. 
+
+
+Pyrethrum 
+
+
+In/Pyrethnim 
+
+
+102. 
+
+
+Quinalphos 
+
+
+In/OP 
+
+
+103. 
+
+
+Cart>aryl:Gaimna 
+BHC(4:4) 
+
+
+In/misc 
+
+
+104. 
+
+
+Simazine 
+
+
+HR/Triazine 
+
+
+105. 
+
+
+S innate 
+
+
+HR 
+
+
+106. 
+
+
+Sodium Cyanide 
+
+
+Fu 
+
+
+107. 
+
+
+Streptocyline 
+(streptomycin 
+sulphate + 
+tetracyclin 
+hydrochloride(9:l) 
+
+
+BC 
+
+
+108. 
+
+
+Sulphur 
+
+
+Fg./lnorganic 
+
+
+109. 
+
+
+Temephos 
+
+
+In/OP 
+
+
+no. 
+
+
+Triallate 
+
+
+HR/OC,Carbanate 
+
+
+111. 
+
+
+Trichloro acetic acid 
+(TCA) 
+
+
+HR 
+
+
+112. 
+
+
+Trichlorphon 
+
+
+In/OP/oC 
+
+
+113. 
+
+
+Tricyclazole 
+
+
+OP 
+
+
+
+50-60/50 
+65/250 
+5000/> 10000 
+
+1000 
+
+1050/>5000 
+
+50W>2000 
+
+400/2100 
+
+2.0^.5-6.2 
+
+120/>1000 
+
+7.W267 
+
+2018/>2000 
+
+30 
+
+
+
+1400^7000 
+
+1 19/2825 
+
+95/>500 
+
+500/5000 
+
+62/1750 
+
+
+
+5000/> 10200 
+
+2165 
+
+6 
+
+900 
+
+
+
+AnUdote 
+
+(5) 
+
+-do- 
+
+Atropine possibly in conjuction with PAM. 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+No speciflc antidote, symptomatic and 
+supportive therapy. 
+
+No specific antidote, symptomatic, if 
+ingested do not induce vomiting. 
+
+No specific antidote, symptomatic tieament. 
+If ingested obtain immediate medical 
+attention. 
+
+Atropine, possibly in conjunction with 
+PAM. 
+
+-do- 
+
+-do- 
+
+-do- 
+
+-do- 
+
+Stomach wash with 5 percent Sod bicar 
+bonate solution, egg white or medicinal 
+charcoal suspension, administer medical 
+BALor Penicillamine. Give Sod.citrate (1-4 
+gm orally) every 4 hours. 
+
+No specific antidote, symptomatic 
+andsupportive therapy. 
+
+Atropine in conjuction with 2-PAM. 
+
+Atropine 
+
+No specific antidote, symptomatic 
+treatment. 
+
+Atropine, possibly in conjuction with PAM. 
+
+See Carfoaryl and gamma BHC. 
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+-do- 
+
+-do- 
+
+-do- 
+
+
+
+>3000 
+
+
+-do- 
+
+
+4600/1300-1930 
+
+
+Atropint, possibly in conjunction with 
+PAM. 
+
+
+2165/3200 
+
+
+-do- 
+
+
+400 
+
+
+-do- 
+
+
+56(V>2000 
+
+
+Atropine, possibly in conjunction with 
+PAM. 
+
+
+314/>2000 
+
+
+Atropine, possibly in conjunction with 
+
+
+
+2-PAM. 
+
+
+
+17 
+
+
+
+184015:1998 
+
+
+
+Table 2 — Concluded 
+
+
+
+SI Name of Pesticides 
+No. 
+
+
+
+(1) 
+
+
+
+(2) 
+
+
+
+1 14. Tridemorph 
+
+115. Thiometon 
+
+1 16. Thiram 
+
+
+
+Group/Chemical FamUy Acute LD 50 
+(mg/lcg b.wt) 
+Oral/Dermal 
+
+(3) (4) 
+
+Fg/Morpholine/Anilides 65(V>4000 (rat) 
+
+
+
+Antidote 
+
+
+
+(5) 
+
+
+
+In./OP 
+Fg/EHthiocaibonjtte 
+
+
+
+120/>1000 
+56(V>1000 
+
+
+
+No speciflc antidote, symptomatic and 
+supportive then^y 
+
+Atropine possibly in conjanction with PAM. 
+No specific antidote, symptomatic 
+andamatesupportive tlwrapy. If swallowed, 
+induce vomiting, wash out the stomach, 
+administer saline laxatives, provide 
+circulatory support. 
+
+
+
+117. 
+
+
+Triadimefon 
+
+
+Fg/Triazole 
+
+
+602/>2000 
+
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+
+118. 
+119. 
+120. 
+
+
+Thiophan ate-methy 1 
+
+Triazophos 
+
+Warfarin 
+
+
+Fg/Benzimidazole caibonate 
+
+In/OP 
+
+RO/Cumarin 
+
+
+6000/>10000 
+
+66/1100 
+
+10 
+
+
+-do- 
+
+Atropine, possibly in ccmjunction with PAM. 
+
+Vitamin Kl Combined with blood 
+transfusion. 
+
+
+121. 
+
+
+Zinc Phosphide 
+
+
+RO/Inorganic 
+
+
+45/2000-5000 
+
+
+No specific antidote, symptomatic and 
+supportive therapy. 
+
+
+122. 
+
+
+Zincb 
+
+
+Fg./Dithiocarbamate 
+
+
+>5200/6000 
+
+
+No specific antidote, symptomatic 
+treatment. If swallowed, induce vomiting, 
+wash out stomach, administer saline 
+laxatives, provide circulatory support. 
+
+
+123. 
+124. 
+
+
+Ziram 
+Bacillusthuringiensis 
+
+
+Fg/Dithiocarbamate 
+In/Biopesticide 
+
+
+1400/>6000(rat) 
+/>5000(rat) 
+
+
+-do- 
+No specific antidote, symptomatic 
+treatment. 
+
+
+125. 
+
+
+Chlorobenzilate 
+
+
+AC/Benzilate 
+
+
+2784-3880/> 10.000 
+
+
+-do- 
+
+
+126. 
+
+
+Chlorfenvinphos 
+
+
+In/OP 
+
+
+24-39/31-108 (rat) 
+
+
+Atropine, possibly in conjunction with 
+PAM. 
+
+
+127. 
+
+
+Cyfluthrin 
+
+
+In/Pyrethroid 
+
+
+500(oxylol)/>5000900 
+(PEG 400)/20(water/ 
+Gramphor) 
+
+
+No specific antidote, symptomatic 
+treatment. 
+
+
+128. 
+
+
+Dieldrin 
+
+
+In/Cyclodiene (oc) 
+
+
+46/50-120 
+
+
+-do- 
+
+
+129. 
+130. 
+131. 
+
+
+d-trans allethrin 
+
+Fenobucaib(BPMC) 
+
+Hexaconazote 
+
+
+In/Pyrethroid 
+In/Cafbamate 
+Fg./Triazole 
+
+
+315/>2000 
+
+524M/>5000(rat)425F 
+
+2189M/>20006071F/ 
+
+
+-do- 
+
+Atropine 
+
+No specific antidote, treat symptomatically. 
+
+
+132. 
+133. 
+134. 
+135. 
+
+
+Iprodione 
+
+Lambdacyhalothrin 
+Myclobutanil 
+Neem Products 
+
+
+Fg./ImidazoIidine 
+In/Pyrethroid 
+Fg/Triazole 
+In/Biopesticide 
+
+
+>2000/>2500 
+79M/1293-1507 56F/ 
+1600M/50002290F 
+>500Q/>10000 
+
+
+-do- 
+-do- 
+-do- 
+-do- 
+
+
+136. 
+
+
+Oxaxiazon 
+
+
+HR/Oxadiazole 
+
+
+>5000/2000 
+
+
+-do- 
+
+
+137. 
+138. 
+
+
+Oxycarboxin 
+Paraquat dichloride 
+
+
+Fg/Oxathion 
+HR/Paraquat ion 
+
+
+>2000/>16000 
+
+157/236-500 
+
+mg. Parqut ion/perks. 
+
+
+-do- 
+-do- 
+
+
+139. 
+140. 
+
+
+Penconazole 
+Prallethrin 
+
+
+Fg/Triazole 
+In/Pyrethroid 
+
+
+2125/>3000(rat) 
+640MA>5000(rat)460F/ 
+
+
+-do- 
+-do- 
+
+
+141. 
+
+
+Pretilachlor 
+
+
+HR/Acetanilide 
+
+
+6099/>3100 
+
+
+-do- 
+
+
+142. 
+
+
+Profenofos 
+
+
+In/OP 
+
+
+358 3300 (rat) 
+
+
+Atropine, possibly in conjunction with 
+PAM. 
+
+
+143. 
+
+
+Propiconzole 
+
+
+Fg./Triazole 
+
+
+I517/>4000(rat) 
+
+
+No specific antidote. Treat 
+symptomatically. 
+
+
+144. 
+
+
+Trifluralin 
+
+
+HR Dinitroaniline 
+
+
+5000/>5000 
+
+
+-do- 
+
+
+145. 
+146. 
+
+
+Validamycin 
+Methoxy ethyl mercury 
+chloride 
+
+
+Fg./Glucopymoside 
+Fg./Organomercurial 
+
+
+20000/>5000 
+
+
+-do- 
+D-penicillamine. 
+
+
+
+18 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act^ 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods and 
+attending toxonnected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publication), BIS. 
+
+Review nf Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue 
+of *BIS Handbook* and 'Standards Monthly Additions'. 
+
+This Indian Standard has been developed from Doc: No. FAD 1 ( 4037 ). 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+Telephones: 323 01 31, 323 33 75, 323 94 02 
+
+Regional Offices: 
+
+Central 
+
+
+
+Eastern 
+
+
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+1/14 C.I.T. Scheme VII M, V.I.P. Road, Maniktola 
+CALCUTTA 700054 
+
+
+
+Northern : SCO 335-336, Sector 34- A, CHANDIGARH 160022 
+
+Southern : C.LT. Campus, IV Cross Road, CHENNAI 6001 13 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400093 
+
+Branches : AHMADABAD. BANGALORE. BHCPAL. BHUBANESHWAR. 
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. 
+HYDERABAJD. JAJPUR. KANPUR. LUCKNOW. NAGPUR. 
+PATNA. PUNE. THIRUVANANTHAPURAM. 
+
+
+
+Telegrams: Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+323 76 17,323 38 41 
+
+
+
+r337 84 99,337 85 61 
+1337 86 26,337 9120 
+
+
+
+{ 
+
+
+
+60 38 43 
+60 20 25 
+
+
+
+r 235 02 16, 235 04 42 
+123515 19,235 23 15 
+
+/ 832 92 95, 832 78 58 
+1832 78 91,832 78 92 
+
+
+
+itinted at Simco ±%inting i^ess, Delhi, Lidia 
+
+
+

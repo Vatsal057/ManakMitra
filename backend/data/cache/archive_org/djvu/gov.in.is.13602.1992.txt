@@ -1,0 +1,789 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 13602 (1992) : Automotive vehicles - Instrument systems - 
+Temperature gauges mechanical types [TED 11: Automotive 
+Electrical Equipment] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+m^^ft-JT ^R^ 
+
+
+
+18 13602:1992 
+
+( Reaffirmed 2003 ) 
+
+
+
+q'tfk^ 2:t^ — f^ftrfe 
+
+Indian Standard 
+
+AUTOMOTIVE VEHICLES — INSTRUMENT 
+
+SYSTEMS — TEMPERATURE GAUGES 
+MECHANICAL TYPES - SPECIFICATION 
+
+
+
+UDC 629-1 13056-6: 531-78 
+
+
+
+© BIS 1992 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARO 
+NEW DELHI 110002 
+
+December 1992 "'"' Pric« Groip 2 
+
+
+
+Automotive Instruments Sectional Committee, TED 10 
+
+
+
+FOREWORD 
+
+This Indian Stand2rd was adopted by the Bureau of Indian Standards, after the draft finalized 
+by the Autcmotive Instruments Sectional Committee had been approved by the Transport 
+Engineering Division Council. 
+
+Mechanical type temperature gauges are used for indicating the temperature of the lubricating oil 
+or cooling water. 
+
+For the purpose of deciding whether a particular requirements of this standard is complied, with 
+the final value, observed or calculated, expressing the result of a test or analysis; shall be rounded 
+off in accordance with IS 2 : 1960 'Rules for rounding off numerical values ( revised )'. The number 
+of sigrificfnt places retained in the rounded off value should be the same as that of the specified 
+value in this standard. 
+
+
+
+IS 13602 : 1992 
+
+
+
+Indian Standard 
+
+AUTOMOTIVE VEHICLES — INSTRUMENT 
+
+SYSTEMS — TEMPERATURE GAUGES 
+
+MECHANICAL TYPES - SPECIFICATION 
+
+
+
+1 SCOPE 
+
+This standard specifies requirements for tem- 
+perature gauges of mechanical type used for 
+indicating lubricating oil or cooling water tern* 
+perature of automotive engines. 
+
+2. REFERENCES 
+
+The following Indian Standards are necessary 
+adjuncts to this standard. 
+
+
+
+IS No. 
+
+9000 ( Part 14/ 
+Sec 2 ) : 1988 
+
+
+
+IS No. 
+
+101 ( Part 6/ 
+Sec 1 ) : 1988 
+
+
+
+2500 
+( Part 1 ) 
+
+
+
+1973 
+
+
+
+9000 ( Part 3/ 
+Sec 3): 1977 
+
+
+
+9000 ( Part 7/ 
+Sec 2 ) : 1979 
+
+
+
+9000 (Part 7/ 
+Sec 3 ) : 1979 
+
+
+
+9000 ( Part 14/ 
+Sec 1 ) : 1988 
+
+
+
+Title 
+
+Methods of sampling and 
+test for paints, varnishes and 
+related products: Part 6 
+Durability tests, Sec 1 
+Resistance to humidity 
+under conditions of conden- 
+sation ( third revision ) 
+
+Sampling inspection tables: 
+Part 1 Inspection by attri- 
+butes and by count of 
+defects ( first revision ) 
+
+Basic environmental testing 
+procedures for electronic 
+and electrical items: Part 3 
+Dry heat test, Sec 3 Dry 
+heat test for non-heat dis- 
+sipating items with sudden 
+change of temperature 
+
+Basic environmental testing 
+procedures for electronic 
+and electrical items: Part 7 
+Impact test, Sec 2 Bump 
+
+Basic environmental testing 
+procedures for electronic 
+and electrical items: Part 7 
+Impact test. Sec 3 Drop and 
+topple 
+
+Basic environmental testing 
+procedures for eletronic 
+and electricalitems: Part 14 
+Test N : Change of tem- 
+perature, Sec 1 Test Na : 
+Rapid change of tempera- 
+ture (thermal shock ) with 
+prescribed time of transi- 
+tion — Two chamber method 
+( first revision ) 
+
+
+
+9000 (Part 14/ 
+Sec 3 ) : 1988 
+
+
+
+Title 
+
+Basic environmental testing 
+procedures for electronic 
+and electrical items: Part 
+14 Test N: Change of tem- 
+perature. Sec 2 Test Nb : 
+change of temperature 
+( temperature cycling ) with 
+specified rate of change — 
+One chamber method 
+
+Basic environmental testing 
+procedures for electronic 
+and electrical items : Part 
+14 Test N : Change of tem« 
+perature, Sec 3 Test Nc : 
+Rapid change of tempera- 
+ture ( thermal shock ) — 
+Two fluid bath method 
+( first revision ) 
+
+9000 Basic environmental testing 
+
+( Part 16 ) : 1983 procedures for electronic 
+and electrical items: Part 
+16 Driving rain test 
+
+10250 : 1982 Severities for environmental 
+
+tests for automotive electri- 
+cal equipment 
+
+11086: 1984 Speedometers and odometer 
+
+systems for automotive 
+applications 
+
+3 TYPES AND CLASSES 
+
+Mechanical type of gauges are broadly classified 
+as bourdon tube ( Class 1 ) and diaphragm 
+( Class 2 ) types. A typical gauge is shown in 
+Fig. L 
+
+4 GENERAL REQUIREMENTS 
+
+4A The gauges shall comprise of an integrated 
+( unitized ) sendor receiver units. 
+
+4.2 The graduation shall be in degrees Celsius. 
+Points of lowest, middle and highest shall be 
+indicated in the graduations. Typical dimen- 
+sions shall be specified. Arrangements for 
+illumination and details of tubing shall be agreed 
+between manufacturer and purchaser. 
+
+5 SAMPLING 
+
+Unless otherwise agreed upon, the sampling 
+plan shall be in accordance with IS 2500 
+( Part 1 ) : 1973. ' 
+
+
+
+IS 13602 : 1992 
+
+
+
+RUBBER RING 
+
+
+
+
+CFRONT RING 
+(FLAT OR CONICALI 
+
+
+
+(OUTER OlA S2mmOR 60mml 
+
+
+
+
+
+
+
+
+
+) 
+
+
+Sc- 
+
+
+
+
+K 
+
+
+
+
+
+
+^^cT Usf" 
+
+
+
+
+
+
+
+
+1 
+
+
+3<cv^ pq^ 
+
+
+
+
+
+
+^ 
+
+
+/~ 
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+V 
+
+
+
+
+
+
+
+SENDOR UNIT 
+Fig. 1 Mechanical Temperature Gauge 
+
+
+
+6 TESTS 
+
+6.1 Test Conditions 
+
+The temperature, humidity shall be maintained 
+steady. For error determination the tempera- 
+ture shall be 25 ± 5°C. 
+
+6.2 Performance 
+
+The gauge shall be tested against requirements 
+specified below as per IS 10250 : 1982. The 
+gauge shall be mounted in an identical position 
+as in a vehicle and tested over two-thirds of its 
+range. The error in temperature indication at 
+any instant taken both up and down the scale 
+shall rot exceed ± 3 percent over the specified 
+value. The testing shall be done over the last 
+two-third of full scale reading, 
+
+6.3 Indication Error 
+
+The diflFerence in the readings between the 
+highest and lowest graduation temperature shall 
+not exceed ± 5 percent for high and middle 
+graduation temperature. 
+
+NOTE — The temperature range at any one point 
+between VCC to 90''C in case of water thermometer 
+and between SCC to ICC'C in the case of oil thermo- 
+meters shall denote middle graduation point. 
+
+6.4 Heating and Rapid Cooling 
+
+When the sender unit of the gauge is kept in a 
+solution at about 100°C for five minutes and 
+
+
+
+then immediately cooled in the water at normal 
+temperature for five minutes. This process is 
+repeated three times. At the end of the test, 
+there shall be no abnormalities. The permissi- 
+ble variation of the observed values from the 
+initial values shall be ± 2 percent. 
+
+6.5 Temperature Resistance 
+
+6.5.1 When the indicator is tested as specified 
+in IS 9000 ( Part 14/Sec 1 to 3 ) : 1988 each 
+part shall comply with 6.3 and 6.4. The test 
+temperature shall be 85''C for two hours. The 
+permissible variation between the observed and- 
+initial values shall be ±2 percent. 
+
+6.5.2 Xoiv Temperature Test 
+
+When cooled down to 0°C for 48 h, the dimen- 
+sional and indication error of the systems 
+shall not vary by more than ± 2 percent of the 
+initial values and brought back to ambient 
+temperature. 
+
+6.6 Vibration Test 
+
+When the gauge and the receiver unit is mounted 
+on a Vibration tester to produce a simple 
+harmonic motion, it shall vibrate through a 
+frequency range of 10-55-10 Hz in one minute. 
+With continuously varying frequencies the 
+vibration shall be applied for not less than 
+one hour in each of the three major axis as per 
+IS 11086: 1984. When the sender unit is 
+vibrated as specified in IS 11086:1984 and 
+
+
+
+IS 13602 : 1992 
+
+
+
+operated at a temperature of about 80 percent 
+of the highest graduation, the variation of the 
+indication from that before the test shall be 
+i 2 percent of the difference between the highest 
+and lowest graduation temperatures. No abnor- 
+malities shall exist in other parts. The receiver 
+unit and sendor unit shall be tested separately. 
+
+«.7 Endurance Test 
+
+6.7.1 The gauge when subjected to repeated 
+heating and cooling from the lowest graduation 
+to 80 percent of the highest graduation tempera- 
+ture and then cooled to lowest graduation 
+temperature for 5 000 times at the rate of six 
+minutes per cycle the variation from that before 
+the test not exceed 7 percent of the difference 
+between the highest and the lowest graduation 
+temperatures. No abnormalities shall exist in 
+other parts. 
+
+€.1.2 The breaking strength and elongation 
+strength shall be checked on an universal testing 
+machine. Either metallic braided sleeve or 
+coiled spring shall be used to protect the capil- 
+lary from any external damage. PVC sleeve 
+shall also be used along with the above as an 
+option in place where electrical insulation is 
+required. 
+
+NOTE — The type of protection shall be as agreed 
+to between the purchaser and supplier. 
+
+6.8 Water Spray 
+
+When the gauge is exposed to direct water spray 
+for 30 minutes and visually checked, no signi- 
+ficant blur shall be observed on the glass inside 
+of the receiver unit. If a lighting arrangement 
+or ventilation hole is provided only the front 
+glass shall be tested. The permissible variation 
+between the observed values from the initial 
+value shall be ± 2 percent Any ingress of water 
+shall be checked as specified in IS 9000 
+(Part 16): 1983. 
+
+€,9 Dust Test 
+
+The gauge shall comply with 4.6 of IS 10250 : 
+1982. 
+
+6.10 Dry Heat Test 
+
+When subjected to dry heat test in accordance 
+with IS 9000 ( Part 3/Sec 3 ) ; 1977 the gauge 
+shall comply with 4.2.2 of IS 10250 : 1982. 
+
+6.11 Drop Test 
+
+When tested after the drop test carried out in 
+accordance with IS 9000 ( Part 7/Sec 3 ) : 1979 
+the gauge shall indicate a permissible variation 
+of ± 2 percent between the initial and observed 
+values. 
+
+
+
+6.12 Bump Test 
+
+After the bump test carried out in accordance 
+with IS 9000 ( Part 7/Sec 2 ) : 1979 the permis- 
+sible variation between the observed and the 
+initial values shall not exceed ± 2 percent. 
+
+6.13 Visual Tests ( for Painting ) 
+
+The paint film not exposed directly to rain or 
+wind shall be tested by immersing in a water 
+solution kept at a temperature of 40° C for one 
+hour. The film is then allowed to dry for one 
+hour. The painted surface edges of the indicator 
+and case shall be free from peeling due to paint 
+softening, flooding or discolouration. This 
+condition however shall not be applicable for 
+resin bases. 
+
+The paint film exposed directly to wind or rain 
+shall comply with class 2 or class 3 of water 
+resistance and class 2 corrosion resistance of 
+IS 101 ( Part 6/SeG 1 ) : 1988. 
+
+6.14 Salt Spray Test 
+
+After carrying out the test given in Appendix A 
+of IS 10250 : 1982 the gauge shall be subjected 
+to high voltage ( flash ) test and the performance 
+test. The permissible variation of the observed 
+values from the initial values shall be ± 2 
+percent. Appearance of the product after test 
+shall not prejudice assessment of results. After 
+salt spray test there shall not be significant 
+corrosion of part. 
+
+6.15 Plating 
+
+Plating of surface edges shall be in accordance 
+with Table 1. The total thickness of chromium 
+plating on resin base shall be more than 10 
+microns. 
+
+Table 1 Plating Requirements for Indicator 
+and Gauge Case ( for Surface Exposed/Not 
+Exposed Directly to Wind or Rain ) 
+
+
+
+Base 
+
+Nickel Iron 
+Brass 
+
+Chromium Iron 
+Brass 
+
+Zinc Iron 
+
+
+
+Thickness 
+
+10 microns 
+
+5 microns 
+
+10 microns 
+
+5 microns 
+
+5 microns 8 microns ( exposed 
+
+directly ) 
+
+
+
+7 MARKING 
+
+The instrument shall be marked with symbol for 
+the gauge, indicating the source of manufacture, 
+serial number, date of manufacture, trade/brand 
+name, printed preferably on the dial. 
+
+Any other marking as agreed to between the 
+suppliers and the purchasers may also be 
+printed. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of tho Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian Standard conveys the assurance that they have been produced 
+to comply with the requirements of that standard under a well defined system of inspection, 
+testing and quality control which is devised and supervised by BIS and operated by the pro- 
+ducer. Standard marked products are also continuously checked by BIS for conformity to 
+that standard as a further safeguard. Details of conditions under which a licence for the use 
+of the Standard Mark may be granted to manufacturers or producers may be obtained from 
+the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of 
+goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in 
+any form without the prior permission in writing of BIS. This does not preclude the free use, in 
+the course of implementing the standard, of necessary details, such as symbols and sizes, type or 
+grade designations. Enquiries relating to copyright be addressed to the Director ( Publications ), BIS, 
+
+Revision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if any, 
+are issued from time to time. Users of Indian Standards should ascertain that they are in possession 
+of the latest amendments or edition. Comments on this Indian Standard may be sent to BIS giving 
+the following reference : 
+
+
+
+Doc : No. TOE 10 ( 008 ) 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+
+Telephones : 331 01 31, 331 13 75 
+
+
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T, Scheme VII M. V. I. P. Road, Maniktola 
+CALCUTTA 700054 
+
+
+
+Telegrams : Manaksanstha 
+( Common to all Offices ) 
+
+Telephone 
+
+
+
+f 37 
+
+l37i 
+
+
+
+1331 01 31 
+1331 13 75 
+
+84 99, 37 85 61 
+86 26, 37 86 62 
+
+
+
+Northern : SCO 445-446, Sector 35-C, CH ANDIGARH 160036 
+
+Southern : C I. T. Campus, IV Cross Road, MADRAS 600113 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) 
+BOMBAY 400093 
+
+
+
+[53 38 43, 53 16 40 
+[53 23 84 
+
+235 02 16, 235 04 42, 
+235 15 19, 235 23 15 
+
+
+
+{ 
+
+
+
+r632 92 95, 632 78 58, 
+1632 78 91, 632 78 92 
+
+
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. PATNA. THIRUVANANTHAPURM. 
+
+
+
+Printed at Swatantra Bharat Press, Delhi, India 
+
+
+

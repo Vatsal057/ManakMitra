@@ -1,0 +1,390 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 7016-7 (2009) : Methods of test for coated and treated 
+fabrics^ Part 7: Rubber-or plastics-coated fabrics - 
+Determination of resistance to penetration by water [PCD 
+13: Rubber and Rubber Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&Vi ilW^K-^i^^^ T ^bi^ nVF^f 
+
+
+
+::^^s^\n%i9^j^/;s^>^^^^ 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 7016 (Part 7): 2009 
+ISO 1420 : 2001 
+
+
+
+Indian Standard 
+
+METHODS OF TEST FOR COATED AND 
+TREATED FABRICS 
+
+PART 7 RUBBER-OR PLASTICS-COATED FABRICS — DETERMINATION OF 
+RESISTANCE TO PENETRATION BY WATER 
+
+
+
+( Second Revision ) 
+
+
+
+ICS 59 080 AO 
+
+
+
+€> BIS 2009 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAr^, 9 BAHADUf^ SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+June 2009 Pf ice Group 2 
+
+
+
+r Rubber ari'J Rubo^r Pr jaucts Sectional Cof^ur-'tee. PCD '-'A 
+
+
+
+NATIONAL FOREWORD 
+
+This Ifvjian StarKjard (Part 7i (Second ReviS'On} which jS identical with ISO 1420 • 2001 Rubber- 
+or plastics coated fabrics - Determination ot resistance to penetration by water' issued by the Internationa) 
+
+0''ga'^i^at-'>n tcr Stanrjardi/atton i ISO) was adop*ea by tr^e Bureau of Indian S*aridards en the recommendation 
+rj me Rubber and F^uobc^r Products Sectionai Commsttee and apprcvai of the Petroleum. Coal and Related 
+Products Division Courcii. 
+
+Trsis Standard was first published in 1973 and subsequently revised tn 1986 and secona revision fs being 
+earned out to align it '/^sth latest published International Standard on the subject. 
+
+Tne text of ISO Standard has been approved as suitable for publication as an Indian Standard without 
+•je'w^ations Certan conventions are. however not identical to those used m Indian Standards. Attention is 
+
+particularly drawn to the following- 
+
+a) Wherever the words ■International Standard' appear referring to this standard, they should be read as 
+Indian Standard" 
+
+b; Comma ' , i has been used as a aecima! marker in me International Standard while in Indian Standards. 
+
+th-^ current practice ss to use a point *.) as the decimal marker. 
+
+The t^'chc^ic.i! :orr\n]\[ict! rt'spcjr^ssbU^ h.)r the preparation ot tins standard htis reviewed ttie provisions of tfie 
+toilcW'H'j tntemati.in.ii Standards <uvJ rias decided that they are acceptable for use in conjunction witfi this 
+
+sMrHivKd 
+
+iS0??3t t >Hi) RuhtH>r-;^r pfasfi -s coat*v1?ahncs Standarti atmospheres for conditioning 
+
+ISO.'.'Ht' ' t f ♦H RutUH/f >-" plasfu s v-oaftxl fabrics Oetorniination of rc>tl cfuuactenstics — 
+
+f\ir! t Mr'? hods for deter m mat lor^ n^ lengtfi. wuitfi and net mass 
+
+In reportinr; trie fi\>ui*s if a t-^st or af^^tvSlS rna'le in accordance wilf) this standarrl. if tfie final value, 
+
+ct:Ke''vevl or ca'cuuired. is to t;e r^^inde'l off. it sfuili be dono \n accordance with IS 2 19("^0 'Rules fr}r 
+
+rOU^idir^-) off fMim»^rfrM; va'ii^V-. ' 'f>V S^';/'-" 
+
+
+
+IS 7016 (Part 7): 2009 
+ISO 1420:2001 
+
+Indian Standard 
+
+METHODS OF TEST FOR COATED AND 
+TREATED FABRICS 
+
+PART 7 RUBBER-OR PLASTICS-COATED FABRICS — DETERMINATION OF 
+RESISTANCE TO PENETRATION BY WATER 
+
+( Second Revision ) 
+
+WARNING — Persons using this International Standard should be familiar with normal laboratory practice. 
+This standard does not purport to address all of the safety problems, if any. associated with its use. It is 
+the responsibility of the user to establish appropriate safety and health practices and to ensure compliance 
+with any national regulatory conditions. 
+
+1 Scope 
+
+This International Standard specifies a pass/fati method for the deterrrnnatton of the resistance of rubber^ or 
+plastics-coated fabrics to water penetration (hydrostatic resistance) when subjected to a specftc hydrostatic 
+pressure over a fixed period of time. Two test specimen shapes are given; one ts cwcular. the other square 
+
+2 Normative references 
+
+The following normative documents contain provisions which, through reference (n thrs text, constitute provtSfons of 
+this International Standard. For dated references, subsequent amendments to. or revisions of. any of these 
+publications do not apply. However, parties to agreements based on thts International Standard are encouraged ;o 
+investigate the possibility of applying the most recent editions of the normative documents tndcated below. For 
+undated references, the latest edition of the normative document referred to applies Members of ISO and lEC 
+maintain registers of currently valid International Standards. 
+
+ISO 2231 ;1 989. Rubber^ or pfasttcs-coated fabrics — Standard atmospheres for condftfonmg and testmg 
+
+ISO 2286-1 : 1998, Rubber- or plastics-coated fabrics — DetermmaUon of roil charactenstfcs — Part f: Methods for 
+determination of length, width and net mass 
+
+3 Principle 
+
+A test specimen of coated fabric is subjected to an increasing pressure of water on one face, under standard 
+conditions, until a predeternr}ined pressure specified in the coated-fabric specificatton fs obtatned The required 
+pressure is maintained for a specified time or until penetration occurs, whchever ts the sooner. 
+
+4 Apparatus 
+
+4.1 General 
+
+The apparatus shalt consist of an opervmouthed vessel fitted with a clamp to fasten the test specimen over the 
+mouth. The lower part of the vessel shall have a nozzle aftowtng it to be connects to a water iniet ptj^ to fill it with 
+water at room temperature. A retaining mesh is fitted over the test sp^inr^n. This fT>esh shall conpnse wires of 
+1 mm to 1 ,2 mm diameter forming squares of side not greater than 30 mm. 
+
+
+
+IS 7016 (Part 7) : 2009 
+ISO 1420:2001 
+
+4.2 Means of measuring water pressure 
+
+Erther a manometer, connected to the test head, allowing water pressures up to 19,6 kPa (200 cmH20) to be read 
+to an accuracy of 1 1 %. or a pressure gauge, graduated in centimetres head of water or in ki!opasca!s and with a 
+maximum reading of at least 100 kPa {946cmH20), shall be used to measure the water pressure applied to the 
+test specimen. 
+
+4.3 Test area 
+
+The open mouth of the vessel (see 4.1) over which the test specimen is clamped shall be either a square of side 
+too mm or a circle of diameter 113 mm, g»v(ng an area of 100 cm^ in each case. If necessary, soft rubber sealing 
+gaskets can be employed t>etween the coated-fabric test specimen and the surfaces of the clamps in order to 
+reduce the risk of damage to the test specimen by the clamps, and to facilitate the testing of seams. In this respect, 
+rubber having a hardness of approximately 40 IRHD (International Rubber Hardness Degrees) and approximately 
+0,5 cm thick or 1 cm in diameter has been found useful. Altematively, a closed-cell, crosslinked-polyethylene foam 
+having a density of 45 kg/m^ to 55 kg/m^ arxj approximately 1 cm thick can also be used. 
+
+5 Test specimens 
+
+5.1 Taking test specimens 
+
+Take test specimens from an area with no functional or visible defects and located in the usable width of the coated 
+fabric as defined in ISO 2286-1 . 
+
+5.2 Number 
+
+Unless othenwse specified in the material specifkation. test five specimens in each series of tests. 
+
+5.3 Shape and dimensions 
+S.3.1 Square ape c hne ne 
+
+Each specrr^n shall be s<^are with skJes measuring approximately 200 mm. 
+5.3^ Circular specimens 
+
+Each specimen shall have a diameter of 130 mm to 200 mm, 
+
+5.4 CorKfftioning 
+
+mn^lsolzsT'"' ^"^ ^^^'"^^ ^"^"^^"^ ^^ specimens for at least 16 h in an appropriate atmosphere in accordance 
+
+6 Procedurs 
+6.1 Test method 
+
+the zero on IN. manompf^r u!Z lrr.,17 ^ , ^^ '^^* *^® '®^®' °* ^^'^r in the vessel corresponds to 
+
+Tb^ tett^d moXX^r^^^^^^ T^^ ^l^ *^^ P'^^^ '^« '«=' ^P«='^«" o" t^'e vessel with me face 
+
+to be tested (mo.ster^ed pr«r to the test) .n contact w,th the water, without trapping any a.r under the test spec.fT>en. 
+
+
+
+IS 7016 (Part 7): 2009 
+ISO 1420 : 2001 
+
+Fit the retaining mesh (see 4 1) Secure the test specimen and the mesh fim^ly on the vessel using the clamp, 
+taking care to ensure that the edges of the clamp are completely paraHei with those of the vessel 
+
+6.2 Application of pressure 
+
+Open the inlet va!ve so that the pressure in the vessel gradually increases at the requued rate (pressures iess than 
+or equal to 30 kPa shall be attained in 1 mini 10 s; pressures ot more than 30 kPa shall be attained m 
+2min±20s). Verify the pressure. Ortce the required pressure has been reached, adjust the inlet valve, if 
+necessary, and maintain the pressure for the required time (pressures less than or equal to 30kPa shall be 
+maintained for 2 min; pressures of more than 30 kPa shall be maintained for 5 mm) The test duration will therefore 
+be 3 min in the former case and 7 mIn in the latter. Then inspect the visible part of the test specimen in order to 
+detect whether any water droplets have passed through the coated fabric. Close the water inlet vah^e and return 
+the pressure to zero by opening the evacuation valve. If a leak is detected tn the test specimen clamping zone 
+during the test, begin again. 
+
+7 Expression of results 
+
+The visible face of the coated fabhc shall not have any *water penetration points", nor any trace of moisture, on any 
+of the five test specimens. A Vater penetration poinf is considered to be any spot in which a drop appears as a pin 
+phck. Penetration occurnng exactly on the edges of the clamp shall not be considered to be a "water penetration 
+point^ 
+
+8 Test report 
+
+The test report shall irKlude the following: 
+
+a) a reference to this International Standard; 
+
+b) a deschptk>n of the coated fabric tested; 
+
+c) the conditioning and test atmospliere used; 
+
+d) the number of test specimens tested; 
+
+e) whether the test specimens were square or circular; 
+
+f) whk:h side(s) of the coated fabnc were subjected to water pressure; 
+
+g) the pressure and the time the pressure was applied; 
+h) whether the coated faboc passed or failed the test; 
+
+i) details of any deviations from the star>dard test procedure; 
+
+)) tt>e date of the test. 
+
+
+
+Bureau of Indian Standards 
+
+BIS fS a statutory institution estaDSished -jnaer the Bureau of Indian Standaras Act 1986 to p'C'Tijrr; 
+harmontous development of the activities of standardtzatson. marking and quahty certification ot 
+goods and attending to connected matters m the country 
+
+Copyright 
+
+B!S has the copyright of all its publications Ho part of the these puDf;cations may be reproduced m 
+any form without the prior permission m writing of BIS This does not preclude the free use, m the 
+course of implementing the standard, of necessary details, such as symbols and sizes, type or grade 
+designations Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis ot comments. Standards are 
+also reviewed penodicaHy; a standard alongwith amendments is reaffirmed when such review indicates 
+that no changes are needed, if the review indicates that changes are needed, it is taken up for revision. 
+Users ot Indian Standards should ascertain that they are in possession of the latest amendments or 
+edttfon by referrmg to the latest issue of 'BIS Catalogue' and "Standards: Monthly Additions'. 
+
+This Indian Standard has been developed from Doc No.: PCD 13 (2438). 
+
+Amendments Issued Since Publication 
+
+Amend No Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters 
+
+^^^^^^^ Bh.iv.:tn. [i Bah.iriu' Shah /.iMr M.r.i. N^^w De^hi ) UJOO? 
+
+/>ve;jAHVTps ?323 0131 :3?3A37S. .^323 9^0? \AeOsite www bis.org in 
+
+Regional Offices Telephones 
+
+Central ManaK Ohavan. ^> Bahadu' Sh^jh Zafjr Ma^g 2323 7617 
+
+NEW DELHI 1 !000? ' 2323 3B41 
+
+Easf.«r'^ 1 Ui C f T Sc-^TTv- Vti M Vi P f^Md KankiirqacrH 2337 B499, 2337 8561 
+
+KOLKATA :^00054 2337 8626. 2337 9120 
+
+Northern , SCO 335-336. Sector 34-A CHANDIGARH 160022 260 3843 
+
+260 9285 
+
+Southern C I T Ca^-^Pus. 'V C^oss R^-^ad. CHENNAl 6001 13 2254 12^6. 2254 1442 
+
+2254 2519. 2254 2315 
+
+Western ManaKaiaya. E9 \M[)C. ^^K0^ Arv'Me-; ;Edst: 2832 9295. 2832 7858 
+
+WUMBAI 4000^3 2832 7891 . 2832 7892 
+
+Branches AHMEDARAD BANGALOf^E BHQPAL BHUBANESHWAR COiMBATORE FARIDABAD. 
+
+GHAZIABAD GUWAHATI HYDERABAD JAIPUR KANPUR LUCKNOW NAQPUR 
+PARWANOO fMTNA PUNE RA.IKQT THIhUVANANTHAPURAM VISAKHAPATNAM 
+
+PUmifO BY THE GENERAL MANAGER GOVT OF iNDtA PRESS NASHfK 422 006 
+
+
+

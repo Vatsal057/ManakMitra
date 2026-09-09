@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":68,"params":{"query":"identifier:gov.in.is.13580.*","qin":"identifier:(gov.in.is.13580.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.13580.1992","title":"IS 13580: Internal Fuses and Internal Overpressure Disconnectors for Power Electronic Capacitors"}]}}

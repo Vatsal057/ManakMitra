@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":21,"params":{"query":"identifier:gov.in.is.2062.*","qin":"identifier:(gov.in.is.2062.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.2062.2011","title":"IS 2062: Hot Rolled Medium and High Tensile Structural Steel"}]}}

@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":39,"params":{"query":"identifier:gov.in.is.1734.*","qin":"identifier:(gov.in.is.1734.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.1734.1-20.1983","title":"IS 1734-1 to 20: Methods of test for plywood"}]}}

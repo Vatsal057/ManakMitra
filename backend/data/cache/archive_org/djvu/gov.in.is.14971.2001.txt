@@ -1,0 +1,1161 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 14971 (2001) : Polycorbonate Resins for its Safe use in 
+Contact with Foodstuffs, Pharmaceuticals and Drinking Water 
+[PCD 12: Plastics] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 14971 :2001 
+
+Indian Standard 
+
+POLYCARBONATE RESINS FOR ITS SAFE USE IN 
+
+CONTACT WITH FOODSTUFFS, PHARMACEUTICALS 
+
+AND DRINKING WATER— SPECIFICATION 
+
+
+
+ICS 67.250; 83.080.20 
+
+
+
+© BIS 2001 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+A ugust 200 1 Price G roup 4 
+
+
+
+Plastics Sectional Committee, PCD 12 
+
+
+
+FOREWORD 
+
+This Indian Standard was adopted by the Bureau of Indian Standards, after the draft finalized by the Plastics 
+Sectional Committee had been approved by the Petroleum, Coal and Related Products Division Council. 
+
+Polycarbonate finds wide use in food contact and health care applications. Some of the most important and 
+known applications of polycarbonate in this area are infant feeding bottles, drinking water containers, micro- 
+ovenable food containers, blood oxygenator, dialyser tubes, intravenous stopcocks, etc. High molecular weight 
+polycarbonate is inert and essentially insoluble in the components of food, water or body fluid with which it 
+comes in contact in the above applications and in itself does not pose any toxic hazard. It is, however, possible 
+that some transfer will occur of polymer additives, adventitious impurities such as monomers, residual catalysts 
+and solvents and low molecular weight polymer fractions from bulk of polycarbonate into the food, water or 
+body fluid with consequent toxic hazard to the user. The occurrence of acute toxicity due to polycarbonate in 
+contact with food, water or body fluid is most unlikely, since only trace quantities of potendally toxic materials 
+are likely to migrate. However, the accumulation of these potentially toxic materials with time may lead to 
+hazards which may be serious. 
+
+Polycarbonate resins are considered as safe for use as articles or components of articles intended for use in 
+producing, manufacturing, packing, processing, preparing, treating, packaging, transporting or holding food 
+in accordance with US.FDA Regulation 21 CFR 177.1580 and of the Regulations of several other countries like 
+Germany. 
+
+This standard is intended to be used with the series of Indian Standards on plastics for food contact application 
+given in Annex A. 
+
+It is emphasized that these Standards need to be used in combination to provide a system of control to the 
+manufacturers and suppliers as well as the processors and users of Polycarbonate materials to derive maximum 
+benefits. Besides, it may also serve as basis for official agencies to frame suitable legislation to ensure effective 
+safeguard for the safety and health of consumers where polycarbonate in food contact and related applications 
+are concerned. 
+
+The composition of the committee responsible for formulation of this standard is given in Annex C. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, 
+observed or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with 
+IS 2 : I960 'Rules for rounding off numerical values (revised)'. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in this standard. 
+
+
+
+IS 14971 : 2001 
+
+
+
+Indian Standard 
+
+POLYCARBONATE RESINS FOR ITS SAFE USE IN 
+
+CONTACT WITH FOODSTUFFS, PHARMACEUTICALS 
+
+AND DRINKING WATER — SPECIFICATION 
+
+
+
+1 SCOPE 
+
+1.1 This standard specifies the requirements and 
+methods of sampling and test for polycarbonate resins 
+for the manufacture of items used in contact with 
+foodstuffs, pharmaceuticals and drinking water. 
+
+1.2 This standard does not purport to establish 
+suitability of polycarbonate in contact with particular 
+foodstuff, pharmaceutical or drinking water, from 
+other than toxicological considerations. 
+
+2 REFERENCES 
+
+The following standards contain provisions which 
+through reference in this text, constitute provisions of 
+this standard. At the time of publication the editions 
+indicated were valid. All standards are subject to 
+revision, and parties to agreements based on this 
+standard are encouraged to investigate the possibility 
+of applying the most recent editions of the standards 
+indicated below: 
+
+
+
+IS No. 
+4905 : 1968 
+9833 : 1981 
+
+
+
+9845 : 1998 
+
+
+
+14972 : 2001 
+
+
+
+Title 
+Methods of random sampling 
+List of pigments and colourants for 
+use in plastics in contact with 
+foodstuffs, pharmaceuticals and 
+drinking water 
+
+Determination of overall migration 
+of constituents of plastics materials 
+and articles intended to come in 
+contact with foodstuffs — Methods 
+of analysis {second revision) 
+Positive list of constituents of 
+polycarbonate resins in contact with 
+foodstuffs, pharmaceuticals and 
+drinking water 
+
+
+
+3 TERMINOLOGY 
+3.1 Polycarbonate 
+
+A basic resin produced by condensation 
+polymerization of bis-phenol-A either along or in 
+combination with other bis-phenols with phosgene and 
+co-condensation polymerization products of the above 
+combination with phthalic acid dichlorides. 
+
+4 REQUIREMENTS 
+4.1 Basic Resin 
+
+Shall be polycarbonate materials as defined in 3.1 and 
+
+
+
+their blends in any mixing proportions. 
+
+4.2 Material 
+
+The material shall also comply with the threshold 
+limits of the manufacturing residues, polymerization 
+ingredients and auxiliary items as prescribed in 
+IS 14972. - 
+
+4.3 Pigments and Colourants 
+
+In case the coloured material is used for food packaging 
+applications it shall comply with the list and limits of 
+the pigments and colourants prescribed in IS 9833. 
+
+4.4 Overall Migration 
+
+The material shall also comply with the overall 
+migration limits to 60 mg/l, Max of the simulant and 
+10 mg/dm^, Max of the surface of the material or 
+article, when tested by the method prescribed in 
+IS 9845. 
+
+4.5 Storage and Control 
+
+4.5.1 Storage 
+
+Polycarbonate materials intended for food contact use 
+shall be stored separately from other materials in 
+closed, properly identified containers. 
+
+4.5.2 Control 
+
+An authorized person shall supervise and control the 
+issue of polycarbonate materials to the process or 
+manufacturing area and shall maintain appropriate 
+written records of the issue of such materials. 
+
+4.5.3 Adequate standards of hygiene shall be 
+maintained at all times and plant operators and store 
+men shall be trained in proper hygiene practices. 
+
+5 PACKING AND MARKING 
+
+5.1 Packing 
+
+The material shall be packed in suitable plastic or 
+paper bags, as agreed between the purchaser and the 
+supplier, in a manner so as to ensure that the items do 
+not become contaminated during storage. 
+
+5.2 Marking 
+
+5.2.1 Each packages shall be clearly marked with the 
+following: 
+
+
+
+IS 14971 :2001 
+
+
+
+a) Name and type of the material; 
+
+b) Indication of the source of manufacture and 
+recognized trade-mark, if any; 
+
+c) Date of manufacture; 
+
+d) Batch No, or Code No.; and 
+
+e) "Food-grade" material. 
+
+5.2.2 The packages shall also carry the symbol 
+(see Fig. 1) clearly embossed/printed on it (in 
+accordance with the EEC Directive 80/590/EEC 
+'Symbol' that shall accompany materials and articles 
+intended to come into contact with foodstuffs): 
+
+5.2.3 BIS Certification Marking 
+
+The package may also be marked with the Standard 
+Mark. 
+
+5.2.3.1 The use of the Standard Mark is governed by 
+the provisions of the Bureau of Indian Standards Act, 
+1986 and the Rules and Regulations made thereunder. 
+Details of conditions under which a licence for the 
+use of Standard Mark may be granted to manufacturers 
+
+
+
+
+Fig. 1 Symbol 
+
+or producers, may be obtained from the Bureau of 
+Indian Standards. 
+
+6 SAMPLING 
+
+The method of drawing representative sample of the 
+material and the criteria for conformity shall be as 
+prescribed in Annex B. 
+
+
+
+ANNEX A 
+(Foreword) 
+
+LIST OF INDIAN STANDARDS ON PLASTICS SUITABLE FOR USE IN CONTACT WITH 
+FOODSTUFFS, PHARMACEUTICALS AND DRINKING WATER 
+
+
+
+IS No. Title 
+
+9833 : 1981 List of pigments and colourants for 
+
+use in plastics in contact with 
+foodstuffs, pharmaceuticals and 
+drinking water 
+
+9845 : 1998 Determination of overall migration 
+
+of constituents of plastics materials 
+and articles intended to come into 
+contact with foodstuffs — Methods 
+of analysis {second revision) 
+
+10141 : 1982 Positive list of constituents of 
+
+polyethylene in contact with food- 
+stuffs, pharmaceuticals and drinking 
+water (first revision) 
+
+10142 : 1982 Polystyrene (crystal and high im- 
+
+pact) for its safe use in contact with 
+foodstuffs, pharmaceuticals and 
+drinking water (first revision) 
+10146 : 1982 Polyethylene for its safe use in 
+contact with foodstuffs, pharma- 
+
+
+
+IS No. Title 
+
+ceuticals and drinking water 
+
+10148 : 1982 Positive list of constituents of 
+polyvinyl chloride (PVC) and its 
+copolymers in contact with food- 
+stuffs, pharmaceuticals and drinking 
+water 
+
+10149: 1982 Positive list of constituents of 
+polystyrene (crystal and high impact) 
+in contact with foodstuffs, pharma- 
+ceuticals and drinking water 
+(Amendment No. 1) 
+
+10151 : 1982 Polyvinyl chloride (PVC) and its 
+copolymers for its safe use in contact 
+with foodstuffs, pharmaceuticals and 
+drinking water 
+
+10171 : 1999 Guide on suitability of plastics for 
+food packaging (second revision) 
+
+10909: 1984 Positive list of constituents of 
+polypropylene and its copolymers in 
+
+
+
+IS 14971 : 2001 
+
+
+
+IS No. Title 
+
+contact with foodstuffs, pharma- 
+ceuticals and drinking water (first 
+revision) 
+10910 : 1984 Polypropylene and its copolymers for 
+its safe use in contact with foodstuffs, 
+pharmaceuticals and drinking water 
+
+11434 : 1985 lonomers resins for its safe use in 
+
+contact with foodstuffs, pharma- 
+ceuticals and drinking water 
+
+11435 : 1985 Positive list of constituents of 
+
+ionomer resins for its safe use in 
+contact with foodstuffs, pharma- 
+ceuticals and drinking water 
+
+11 704 : 1 986 Ethylene/acrylic acid (EAA) copoly- 
+
+mers for its safe use in contact with 
+foodstuffs, pharmaceuticals and 
+drinking water 
+
+11705 : 1986 Positive list of constituents of 
+
+Ethylene/acrylic acid (EAA) copoly- 
+mers for their safe use in contact with 
+foodstuffs, pharmaceuticals and 
+drinking water 
+
+12229 : 1987 Positive list of constituents of 
+polyalkylene terephthalates (PET & 
+PBT) for their safe use in contact 
+with foodstuffs, pharmaceuticals and 
+drinking water 
+
+12247 : 1988 Nylon-6 polymer for its safe use in 
+contact with foodstuffs, pharma- 
+ceuticals and drinking water 
+
+
+
+ISNa Title 
+
+12248: 1988 Positive list of constituents of 
+Nylon-6 polymer for its safe use in 
+contact with foodstuffs, pharma- 
+ceuticals and drinking water 
+
+12252 : 1987 Polyalkylene terephthalates (PET & 
+PBT) for their safe use in contact 
+with foodstuffs, pharmaceuticals and 
+drinking water 
+
+13449 : 1992 Positive list of constituents of 
+ethylene vinyl acetate (EVA) copoly- 
+mers in contact with foodstuffs, 
+pharmaceuticals and drinking water 
+
+13576 : 1992 Ethylene methacrylic and (EMAA) 
+
+copolymers and terpolymers for their 
+safe use in contact with foodstuffs, 
+pharmaceuticals and drinking water 
+
+13577 : 1992 Positive list of constituents of 
+
+ethylene methacrylic (EMAA) co- 
+polymers and terpolymers in contact 
+with foodstuffs, pharmaceuticals and 
+drinking water 
+
+13601 : 1993 Ethylene vinyl acetate (EVA) 
+copolymers for its safe use in contact 
+with foodstuffs, pharmaceuticals and 
+drinking water 
+
+14972:2001 Positive list of constituents of 
+polycarbonate resins in contact with 
+foodstuffs, pharmaceuticals and 
+drinking water 
+
+
+
+ANNEX B 
+
+(Clause 6) 
+
+SAMPLING OF POLYCARBONATE 
+
+
+
+B-1 GENERAL 
+
+B-l.l In drawing, preparing, storing and handling 
+samples, the following precautions and directions shall 
+be observed. 
+
+B-L2 Samples shall not be taken in an exposed place. 
+
+B-L3 The sampling instrument, wherever applicable, 
+shall be made of stainless steel or any other suitable 
+material on which the material shall have no action. 
+The instrument shall be clean and dry. 
+
+B-1 ,4 Precautions shalKbe taken to protect the samples, 
+the material being sampled, the sampling instrument 
+and the containers for samples from adventitious 
+contamination. 
+
+
+
+B-L5 The samples shall be placed in suitable, clean, 
+dry, air-tight metal or glass containers on which the 
+material has no action. The sample containers shall 
+be of such a size that they are almost completely filled 
+by the sample. 
+
+B-L6 Each sample container shall be sealed air-tight 
+with a stopper after filling and marked with full details 
+of sampling, such as, the date of sampling, the month 
+and year of manufacture of the material, etc. 
+
+B-L7 Samples shall be stored in such a manner that 
+the temperature of the material does not vary unduly 
+from the normal temperature. 
+
+
+
+IS 14971 : 2001 
+
+
+
+B-2 SCALE OF SAMPLING 
+
+B-2.1 Lot 
+
+In a single consignment all the packages of the same 
+class, same type, same form and belonging to the same 
+batch of manufacture shall be grouped together to 
+constitute a lot. If a consignment is known to consist 
+of packages belonging to different batches of 
+manufacture or different forms, the packages 
+belonging to the same batch or manufacture and same 
+form shall be grouped together and each such group 
+shall constitute a lot. 
+
+B-2.2 For ascertaining the conformity of the material 
+to the requirements of this specification, samples shall 
+be tested from each lot separately. The number of 
+packages to be sampled shall depend on the size of 
+the lot and shall be in accordance with col 1 and 2 of 
+Table 1. 
+
+B-2.2. 1 These packages shall be selected at random 
+from the lot and in order to ensure the randomness of 
+selection, procedure given in IS 4905 may be followed. 
+
+B-3 PREPARATION OF TEST SAMPLES 
+
+B-3.1 From each of the packages of the material 
+selected, small portions of material shall be drawn with 
+the help of a suitable sampling instrument. The total 
+quantity of material collected from each package shall 
+be sufficient to test all the requirement given in 4. 
+
+
+
+Table 1 Scale of Sampling 
+
+(Clause B-2.2) 
+
+
+
+Number of Packages 
+in the Lot 
+
+
+Sample Size 
+
+
+
+
+(1) 
+
+
+(2) 
+
+
+
+
+Up to 15 
+
+
+2 
+
+
+
+
+16 to 50 
+
+
+3 
+
+
+
+
+51 to 100 
+
+
+4 
+
+
+
+
+101 to 300 
+
+
+5 
+
+
+
+
+301 to 500 
+
+
+6 
+
+
+
+
+501 to 1 000 
+
+
+8 
+
+
+
+
+I 001 and above 
+
+
+10 
+
+
+
+
+NOTE — When the number of packages in the lot is less than 
+three, all the packages shall be sampled. 
+
+
+
+B-3.2 In the case of packages consisting of containers, 
+vials, rolls or films, the number of items to be selected 
+from a package, for testing each of the requirements 
+given in 4, shall be one. 
+
+B-4 NUMBER OF TESTS 
+
+Tests for determining all the requirements given in 4 
+shall be carried out on the individual test samples. 
+
+B-5 CRITERIA FOR CONFORMITY 
+
+The lot shall be declared as conforming to the 
+requirements of this specification if all the test results 
+on individual samples meet the relevant specification 
+requirements. 
+
+
+
+IS 14971 : 2001 
+
+
+
+ANNEX C 
+
+(Foreword) 
+
+COMMITTEE COMPOSITION 
+
+Plastics Sectional Committee, PCD 12 
+
+
+
+Organization 
+
+Internet Exchange Next.com Limited, Mumbai 
+Amines and Plasticizers Ltd, Mumbai 
+
+Bakelite Hylam Ltd, Hyderabad 
+
+Building Materials and Technology Promotion Council, New Delhi 
+Central Institute of Plastics Engineering and Technology, Chennai 
+
+Central Food Technological Research Institute, Mysore 
+
+Gas Authority of India Ltd, Noida 
+
+Gharda Chemcials Ltd, Thane 
+
+GE Plastics India Limited, Gurgaon 
+
+Gujarat State Fertilizers Company Limited, Vadodara 
+
+Haldia Petrochemicals Ltd, Kolkata 
+
+Hindustan Polymers Ltd, Mumbai 
+
+Indian Centre for Plastics in Environment, Mumbai 
+Indian Petrochemicals Corporation Limited, Vadodara 
+
+Indian Plastics Institute, Mumbai 
+
+Indian Institute of Packaging, Mumbai 
+
+Indian Toxicological Research Centre, Lucknow 
+Jain Irrigation Systems Ltd, Jalgaon 
+
+Larsen & Toubro Ltd, Mumbai 
+
+Ministry of Defence (R&D), Kanpur 
+
+Ministry of Defence, RDSO, Lucknow 
+
+Ministry of Health and Family Welfare, DGHS,New Delhi 
+
+Ministry of Food Processing Industries, New Delhi 
+National Chemical Laboratory, Pune 
+
+National Dairy Development Board, Anand 
+
+
+
+Representative(s) 
+SuRi Sarup Chowdhary {Chairman) 
+
+ShRI V. V. RULKARNI 
+
+Dr R. V. Utekar {Alternate) 
+Dr C. S. Narasimhan 
+
+Dr M. Balakrishnan {Alternate) 
+
+Shri J. Sengupta 
+Dr Vijai Kumar 
+
+Dr K. Palanivelu {Alternate) 
+
+Shri S. K. Kumar 
+
+Shri Baldev Raj {Alternate) . 
+Shri Shivaji Basu 
+
+Shri V. K. Singh (Alternate I) 
+
+Shri Manish Khandelwal {Alternate II) 
+DrB.K. Desai 
+
+Dr U. M. Vakil {Alternate) 
+General Manager 
+
+Dr Rashmi Bhardwaj {Alternate) 
+Shri B. D. Adhvaryu 
+
+Dr Y. p. Singh {Alternate) 
+Shri Shankar Banerjee 
+
+Shri Amttava Sanyal {Alternate) 
+Shri S. V. Parveen 
+
+Shri N. C. Dhocendranath {Alternate) 
+Dr a. N. Bhat 
+Shri J. B. Kamat 
+
+Shri V. C. Francis {Alternate) 
+Shri D. R. Patel 
+
+Shri R, K. Aggarwal {Alternate) 
+Shri P. V. Narayanan 
+
+DrN. G. Mokashi {Alternate) 
+DrV. p. Sharma 
+Dr H. C. Mruthyunjaya 
+
+Shri S. B. Josm {Alternate I) 
+
+Shri A. P. Choudhari {Alternate II) 
+Shri V. Mohan 
+
+Shri R. Suba Rao {Alternate) 
+Shri M. N. Saraf 
+
+Dr L. D. Khandpal {Alternate) 
+Joint Director (Rubber) 
+
+Director (SS) {Alternate) 
+Addl Director General (PFA) 
+
+Shri Sundar Lal {Alternate) 
+Shri O. P. Gera 
+Dr S. S. Mahajan 
+
+Dr S . S . KuLKARNi {Alternate) 
+
+Dr R. S. Lathana 
+
+Shri S. K. Khandelwal {Alternate) 
+
+
+
+{Continued on page 6) 
+
+
+
+IS 14971 : 2001 
+
+
+
+{Continued from page 5) 
+
+Organization 
+National Organic Chemical Industries Ltd, Mumbai 
+
+Nuchem Ltd, Faridabad 
+Permali Wallace Ltd, Bhopal 
+
+Reliance Industries Ltd, Mumbai 
+
+Saint-Gobain Vetrotex India Ltd, Hyderabad 
+
+Shivalik Agro-Poly Products Ltd, Parwanoo, H.P. 
+
+Shriram Fertilizers & Chemcials, Kota 
+
+Shriram Institute for Industrial Research, Delhi 
+Supreme Petrochem Ltd, Mumbai 
+
+The All India Plastics Manufacturers Association, Mumbai 
+
+Tata Engg & Locomotive Co Ltd, Jamshedpur 
+
+The Plastics & Linoleums Export Promotion Council, Mumbai 
+VIP Industries, Mumbai 
+
+XPRO India Ltd, Faridabad 
+
+BIS Directorate General 
+
+
+
+Representative (s) 
+
+ShriV.K.Sharma 
+
+Shri J. K. Vadodaria {Alternate) 
+
+Dr R. M. Mehta 
+Shri C. C. Sakarda 
+
+Shri S. K. Kodesia {Alternate) 
+Dr Y. B. Vasudeo 
+
+Dr K. S. Jadhav {Alternate) 
+Shri S. Siwdaram 
+
+Shri S. K. Ghosh {Alternate I) 
+
+Dr B. J. C. Basu {Alternate II) 
+Shri Arun Anand 
+
+Shri Yog Raj Kapur {A Itemate) 
+Shri M. S, Tripathi 
+
+Shri R, C. Gupta {Alternate) 
+Dr R, C. Sood 
+Shri R. Rangarajan 
+
+Shri B. A. Rakhangi {Alternate) 
+
+Shri R. K. Aggarwal 
+
+Shri K. B. Easwaran {Alternate) 
+Shri U. K. Nath 
+
+Shrimati a. D. Sathe {Alternate) 
+Shri R. P. Kalyanpur 
+Shri Siddhartha Roy 
+
+Shri A. S. Dalve {Alternate) 
+Shri C. Bhaskar 
+
+Shri Manmohan Krishan {Alternate) 
+Shri Anjan Kar, 
+
+Director & Head (PCD) 
+[Representing Director General {Ex-officio Member)] 
+
+
+
+Member-Secretary 
+
+ShriT.Kalaivanan 
+
+Joint Director (PCD), BIS 
+
+Plastics in Food Packaging and Allied Industries Subcommittee, PCD 12:12 
+
+
+
+Central Food Technological Research Institute, Mysore 
+All India Plastic Industries Association, Delhi 
+AS & T India Limited, New Delhi 
+Bakelite Hylam Ltd, Mumbai 
+
+Britannia Industries Ltd, Bangalore 
+
+Centre for Processed Food, Bangalore 
+
+Central Committee for Food Standards (Directorate General 
+
+of Health Services) 
+Central Food Laboratory, Kolkata 
+
+Defence Food Research Laboratory, Mysore 
+
+Drugs Controller (India), New Delhi 
+
+
+
+Shri K. R. Kumar {Convener) 
+Shri Ravi Kumar 
+Shri G. D. Agrawal 
+Dr C. Sha>4kar 
+
+Shri S. N. Murthy {Alternate) 
+Shri G. S. Aurora 
+
+Shri M. R. Sundar {Alternate) 
+Shri R. Prakash 
+
+Shri Chetan L. Hanchate {Alternate) 
+The Assistantt Director General (PFA) 
+
+Dr K. C. Guha 
+
+Dr S. Vanchinathan {Alternate) 
+Shri Anil Agarwal 
+
+Shri A. N. Srivastava {Alternate) 
+Dr P. Das Gupta 
+
+
+
+{Continued on page 7) 
+
+
+
+{Continued from page 6) 
+
+Organization 
+
+GE Plastics India Ltd, Distt Vadodara 
+
+Gujarat State Fertilizers Company Limited, Vadodara 
+
+Haldia Petrochemicals Ltd, Kolkata 
+
+Hindustan Lever Ltd, Mumbai 
+
+Hitkari Potteries Ltd, New Delhi 
+Indian Institute of Packaging, Mumbai 
+
+Indian Petrochemicals Corporation Limited, Vadodara 
+
+Indian Toxicological Research Centre, Lucknow 
+National Dairy Development Board, Anand 
+National Organic Chemicals Industries Ltd, Mumbai 
+
+Reliance Industries Ltd, Mumbai 
+
+Rollantainers Ltd, Faridabad 
+Sriram Fertilizers & Chemicals, Kota 
+
+Supreme Petrochem Ltd, Mumbai 
+
+XPRO India, Faridabad 
+
+
+
+IS 14971 : 2001 
+
+
+
+Representative (s) 
+
+
+
+DrG. Mukhopadhyaya 
+
+Dr Rashmi Bhardwaj {Alternate) 
+Shrj B. D. Adhvaryu 
+
+Dr Y. p. Singh {Alternate) 
+Shri Amitava Sanyal 
+
+Shri Raj Datta (Alternate) 
+Shri M. K. Lahiri 
+
+Shri P. S. Lakshmanan {Alternate) 
+Shri Milind Bhole 
+Ms M. C. Dordi 
+
+Shri N, C. Saha {Alternate) 
+Shri J. B. Kamat 
+
+Shri V. C. Francis {Alternate) 
+Dr p. K. Seth 
+Sr Executive 
+Shri J. K. Vadodaria 
+
+Shri V. K. Sharma {Alternate) 
+Dr K. S. Jadhav 
+
+Dr R. Rangaprasad (Alternate) 
+Shri Sanjaya Varma 
+Shri M. S. Tripathi 
+
+Shri R. C. Gupta (Alternate) 
+Shri R. Rangarajan 
+
+Shri B. A. Rakhangi (Alternate) 
+Shri Pankaj Mithel 
+
+Shri Vineet Gupta (Alternate) 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of stardardization, marking and quality certification of goods and 
+attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publication), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue 
+of 'BIS Handbook' and 'Standards: Monthly Additions'. 
+
+This Indian Standard has been developed from Doc: No. PCD 12 (1329). 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10002 
+Telephones: 323 01 31, 323 3375, 323 94 02 
+
+Regional Offices; 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C.I.T. Scheme VII M, V.I.P. Road, Kankurgachi 
+CALCUTTA 700054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 
+Southern : Ci.T. Campus, IV Cross Road, CHENNAI 6001 13 
+
+
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400093 
+
+Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. 
+HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+NALAGARH, PAT^JA. PUNE. RAJKOT. THIRUVANANTHAPURAM. 
+
+
+
+Telegrams: Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+323 76 17,323 38 41 
+
+
+
+r337 84 99,337 85 61 
+1337 86 26,337 9120 
+
+
+
+{ 
+
+
+
+60 38 43 
+60 20 25 
+(-254 12 16,254 14 42 
+1254 25 19,254 13 15 
+
+r832 92 95, 832 78 58 
+1832 78 91,832 78 92 
+
+
+
+Printed at Simco Printing Press, Delhi 
+
+
+

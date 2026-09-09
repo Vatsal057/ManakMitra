@@ -1,0 +1,50 @@
+{"query": "33 grade ordinary Portland cement for plastering and general brick masonry work", "relevant": ["IS 269"], "notes": "scope_usable=true; wording drawn from IS 269 scope + masonry procurement vocabulary, not the title"}
+{"query": "43 grade ordinary Portland cement for general RCC work", "relevant": ["IS 8112"], "notes": "scope_usable=true; example tender line from the prompt itself"}
+{"query": "53 grade high strength Portland cement for precast concrete elements", "relevant": ["IS 12269"], "notes": "scope_usable=true"}
+{"query": "Portland pozzolana cement made with calcined clay or fly ash for mass concreting", "relevant": ["IS 1489-1-2"], "notes": "scope_usable=true; part suffix needed since IS 1489 is multi-part"}
+{"query": "Portland slag cement with low heat of hydration for hydraulic structures", "relevant": ["IS 455"], "notes": "scope_usable=true"}
+{"query": "ordinary Portland cement of any grade for general construction work", "relevant": ["IS 269", "IS 8112", "IS 12269"], "notes": "deliberately ambiguous -- three valid grades, no single correct answer"}
+{"query": "coarse and fine aggregate sourced from natural quarries for concrete mix design", "relevant": ["IS 383"], "notes": "scope_usable=false -- title-fallback row, expected to retrieve weakly"}
+{"query": "common burnt clay building bricks for load bearing masonry walls", "relevant": ["IS 1077"], "notes": "scope_usable=true"}
+{"query": "code of practice for structural design of plain and reinforced concrete members", "relevant": ["IS 456"], "notes": "scope_usable=true; foundational construction code"}
+{"query": "thermo-mechanically treated deformed reinforcement bars Fe 500 grade for RCC columns", "relevant": ["IS 1786"], "notes": "scope_usable=true; example tender line from the prompt itself"}
+{"query": "hard drawn medium tensile steel wire for concrete reinforcement", "relevant": ["IS 432-2"], "notes": "scope_usable=true; part suffix needed, IS 432 has multiple parts"}
+{"query": "reinforced cement concrete pipes for sewer lines and irrigation culverts", "relevant": ["IS 458"], "notes": "scope_usable=true"}
+{"query": "plywood sheets for concrete shuttering and formwork panels", "relevant": ["IS 4990"], "notes": "scope_usable=false -- title-fallback row"}
+{"query": "chemical superplasticizer admixture to improve workability of concrete mix", "relevant": ["IS 9103"], "notes": "scope_usable=true"}
+{"query": "industrial safety helmet for protection against falling objects on construction and mining sites", "relevant": ["IS 2925"], "notes": "scope_usable=true; also the mining-QCO certified helmet standard"}
+{"query": "protective helmet for two-wheeler scooter and motorcycle riders", "relevant": ["IS 4151"], "notes": "scope_usable=true; QCO-mandatory certified standard"}
+{"query": "non-ferric aluminium sulphate for water treatment coagulation", "relevant": ["IS 260"], "notes": "scope_usable=true"}
+{"query": "high tensile steel point hooks with eye for wire rope sling assemblies", "relevant": ["IS 2759"], "notes": "scope_usable=true"}
+{"query": "woollen plain-knitted balaclava caps for cold weather uniform issue", "relevant": ["IS 2783"], "notes": "scope_usable=true"}
+{"query": "zirconium metal powder for pyrotechnic and defence ordnance manufacturing", "relevant": ["IS 12437"], "notes": "scope_usable=true"}
+{"query": "oscillating air circulator electric fan for single phase AC domestic use", "relevant": ["IS 2997"], "notes": "scope_usable=true"}
+{"query": "table margarine for institutional catering supply", "relevant": ["IS 12451"], "notes": "scope_usable=true"}
+{"query": "12 volt DC starter motor for automotive diesel engine", "relevant": ["IS 3141"], "notes": "scope_usable=true"}
+{"query": "protective voltage transformer for switchgear and metering panel", "relevant": ["IS 3156-3"], "notes": "scope_usable=false -- title-fallback row; part suffix needed"}
+{"query": "size S fuel injection nozzle for diesel engine interchangeable with nozzle holder", "relevant": ["IS 3170-1"], "notes": "scope_usable=true; part suffix needed"}
+{"query": "adjustable steel shelving cabinet with hinged doors and locker for record storage", "relevant": ["IS 3312"], "notes": "scope_usable=true"}
+{"query": "surgical scalpel blades and knives for operation theatre use", "relevant": ["IS 3318"], "notes": "scope_usable=true"}
+{"query": "PVC coated waterproof rainwear fabric for protective clothing", "relevant": ["IS 3322-1"], "notes": "scope_usable=true; part suffix needed"}
+{"query": "disc type string insulator units for high voltage overhead transmission lines", "relevant": ["IS 3188"], "notes": "scope_usable=true"}
+{"query": "hot rolled parallel flange steel beams and columns for structural steel fabrication", "relevant": ["IS 12778"], "notes": "scope_usable=true"}
+{"query": "160 bar compact hydraulic cylinder port dimensions for interchangeable equipment", "relevant": ["IS 13103"], "notes": "scope_usable=true"}
+{"query": "electric iron safety requirements for household appliance", "relevant": ["IS 302-2-3"], "notes": "scope_usable=false; QCO-certified standard, part suffix is essential since bare IS 302 has dozens of unrelated parts"}
+{"query": "portable electric immersion water heater with flexible cord for domestic water heating", "relevant": ["IS 368"], "notes": "scope_usable=true"}
+{"query": "bleached cotton khadi long cloth for uniform tailoring", "relevant": ["IS 3771"], "notes": "scope_usable=false -- title-fallback row"}
+{"query": "toggle switch type I and II for electronic and telecommunication equipment panels", "relevant": ["IS 3452-2"], "notes": "scope_usable=true; part suffix needed"}
+{"query": "internal fuse and overpressure disconnector for power electronic capacitor bank", "relevant": ["IS 13580"], "notes": "scope_usable=false -- title-fallback row"}
+{"query": "interlocking switch socket outlet 32A for household electrical wiring installation", "relevant": ["IS 4160"], "notes": "scope_usable=true"}
+{"query": "ring type needle roller bearing for gearbox assembly", "relevant": ["IS 4215"], "notes": "scope_usable=false -- title-fallback row, only four words of scope text"}
+{"query": "domestic electric food mixer grinder liquidiser, motor driven", "relevant": ["IS 4250"], "notes": "scope_usable=true"}
+{"query": "cardiac defibrillator medical electrical equipment safety requirements for hospital procurement", "relevant": ["IS 13450-2-4"], "notes": "scope_usable=false -- title-fallback row; part suffix needed"}
+{"query": "two pack polyurethane surfacer paint for railway coach exterior corrosion protection", "relevant": ["IS 13799"], "notes": "scope_usable=true"}
+{"query": "IS 456", "relevant": ["IS 456"], "notes": "exact-identifier hard case, tests the deterministic path not dense/BM25"}
+{"query": "IS 1786", "relevant": ["IS 1786"], "notes": "exact-identifier hard case"}
+{"query": "specification IS 8112", "relevant": ["IS 8112"], "notes": "exact-identifier hard case with surrounding text"}
+{"query": "need details on IS 4151:2015", "relevant": ["IS 4151"], "notes": "exact-identifier hard case with colon-year suffix and surrounding text"}
+{"query": "solar photovoltaic module mounting structure for rooftop installation", "relevant": [], "notes": "no correct answer in corpus -- tests for honest low scores, not confident wrong matches"}
+{"query": "USB Type-C charging cable and connector for mobile devices", "relevant": [], "notes": "no correct answer in corpus"}
+{"query": "bamboo scaffolding poles for building construction", "relevant": [], "notes": "no correct answer in corpus"}
+{"query": "biodegradable compostable plastic carry bags specification", "relevant": [], "notes": "no correct answer in corpus"}
+{"query": "unmanned aerial vehicle drone for agricultural pesticide spraying", "relevant": [], "notes": "no correct answer in corpus"}

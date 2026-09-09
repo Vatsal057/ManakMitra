@@ -1,0 +1,1209 @@
+**************** 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+^^^Eii^^^^^ti^^i iil%k^K>S :^^S^T<^ 
+
+
+
+IS 3445 (1992) 
+and Forgings] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+Forged steel rolls [MTD 16: Alloy Steels 
+
+
+
+i&^^f f /lA^sh^^JS^ rsJ^a^TTTF^ 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangarara Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+18 3445:1992 
+
+(Reaffirmed 2004) 
+
+( q-^^T T^rfl'^TW ) 
+
+Indian Standard 
+
+FORGED STEEL ROLLS — SPECIFICATION 
+
+( First Revision ) 
+
+UDC 66914-134-122 
+
+
+
+© BIS 1992 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+June 1992 Price Gronp 2 
+
+
+
+Steel Forgings Sectional Committee, MTD 18 
+
+
+
+FOREWORD 
+
+This Indian Standard ( First Revision ) was adopted by the Bureau of Indian Standards, after the- 
+draft finalized by the Steel Forgings Sectional Committee had been approved by the Metallurgical 
+Ergineering Division CounciL 
+
+Rolls are required to possess high strength in service and they should be capable of withstanding 
+extreme pressures and heavy shock loads. This standard covers requtreraents for forged steel 
+rolls both alloyed and unalloyed to be used in hot and cold rolling of ferrous and non-ferrous 
+products. These rolls may also be used after re-conditioning, if necessary. Composite rolls are 
+not covered by this standard. 
+
+This standard was first published in 1966 and in this revision following major modifications have 
+been made: 
+
+a) Seven new steels have been included in Table 1, 
+
+b) Ultrasonic test. Magnetic particle test and inclusion rating have been incorporated as 
+mandatory requirements. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, 
+the final value, observed or calculated, expressing the result of a test, shall be rounded off in 
+accordance with IS 2 ; 1960 'Rules for rounding off numerical values ( revised )\ The number 
+of significant places retained in the rounded off value should be the same as that of the specified 
+value in this standard. 
+
+
+
+IS 3445 : 1992 
+
+
+
+Indian Standard 
+FORGED STEEL ROLLS - SPECIFICATION 
+
+( First Revision ) 
+
+
+
+H SCOPE 
+
+
+
+l.l This standard covers the requirements of 
+plain carbon and alloyed forged steel rolls for 
+use in hot or cold reduction of ferrous and 
+non-ferrous products. 
+
+2 REFERENCE 
+
+2.1 The following Indian Standards are necessary 
+adjuncts to this standard: 
+
+
+
+IS No. 
+
+1387 : 1967 
+
+
+
+1956 
+
+(Part 6): 1976 
+
+
+
+Title 
+
+General requirements for 
+the supply of metallurgical 
+materials ( first revision ) 
+
+Forging ( including drop 
+forging ) ( first revision ) 
+
+
+
+3 TERMINOLOGY 
+
+3.1 For the purpose of this standard, definitions 
+of forging terms shall be as given in IS 1956 
+< Part 6 ) : 1976. 
+
+4 SUPPLY OF MATERI4L 
+
+4.1 General requirements relating to the supply 
+of material shall be as laid down in IS 1387 : 
+1967. 
+
+5 MANUFACTURE 
+
+5.1 Forged steel rolls shall be manufactured 
+from kiiled steel made by the open hearth, 
+-electric, basic oxygen or any other approved 
+process. When so desired, the purchaser and 
+manufacturer may agree to a particular 
+secondary steel refining process for special 
+purpose rolls. 
+
+5.2 A sufllicient discard shall be made from each 
+ingot to ensure freedom from piping, marked 
+segregation, flakes, burrs and other harmful 
+
+defects. 
+
+5.3 The rolls shall be forged under a press, 
+hammer or by automatic forging machine to 
+work the metal throughout its section within 
+the range of forging temperature. The reduction 
+factor should be sufficient to break up the as- 
+
+xast structures to effect welding of inside pipings 
+and obtain refinement of the grain structure. 
+The final product should be free from harmful 
+defects such as internal cracks, voids, piping, 
+^carbie segregation, etc. 
+
+
+
+5.4 The Yolh after forging shall be g\en suitable 
+heat treatment based on their design and 
+chemical composition. The forgings may be 
+supplied, either in normalised, double normalis- 
+ed and tempered or hardened ( volume or 
+induction ) and tempered conditions. The 
+method of heat treatment shall be subject to 
+mutual agreement between the manufacturer and 
+the purchaser. The forgings shall have to under- 
+go controlled cooling immediately after forgings 
+when alloy steels and heavier sections are in- 
+volved. The controlled cooling cycle shall be 
+according to the grade of steel forgings. 
+
+5.5 The purchaser shall specify in the enquiry, 
+contract or order, the type of roll required 
+showing complete dimensions, hardness range, 
+surface finish and use. Any other requirements 
+like heat treatment, etc, shall also be specified. 
+
+6 CHEMICAL COMPOSITION 
+
+6.1 Unless otherwise specified, the chemical 
+composition shall be subject to mutual agreement 
+between the manufacturer and the purchaser. 
+
+6,1.1 Chemical composition of different types 
+of forged steel rolls is given in Table 1 for 
+information and guidance only. 
+
+7 PHYSICAL REQUIREMENTS 
+
+7.1 Hardness 
+
+The manufacturer shall supply rolls to the 
+hardness ranges as agreed to between the manu- 
+facturer and the purchaser. In case of hardened 
+rolls the hardness range of either 6 to 10 points 
+shore Scleroscope or 80 to 100 points Vickers 
+hardness should be allowed. When so desired 
+the purchaser and manufacturer may agree to 
+hardness requirement in HB or HRC, The 
+variation in hardness at the barrel and journals 
+shall be as agreed to between manufacturer and 
+purchaser for better designed life. 
+
+7.2 Inclusion Rating 
+
+When so required, inclusion rating of the forged 
+roll may be specified by the purchaser at the 
+time of enquiry and order. 
+
+8 PHYSICAL TESTS 
+
+8.1 Hardness Test 
+
+Each roll shall be tested for hardness and shall 
+be within the limits specified in the order. The 
+
+
+
+1 
+
+
+
+IS 3445 : 1992 
+
+
+
+Table 1 Chemical Composition of Forged Steel Rolls 
+
+( Clause 6.1.1 ) 
+
+
+
+SI 
+
+
+Steel Designation C 
+
+
+Mn 
+
+
+Si 
+
+
+Ni Cr Mo V 
+
+
+W 
+
+
+s 
+
+
+P 
+
+
+No. 
+
+
+[ See IS 1762 
+
+
+
+
+
+
+
+
+
+
+
+
+Max Max 
+
+
+
+
+(Part 1 ): 1974] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. 
+
+
+55C8 
+
+
+0-50.0-60 
+
+
+0-60-0-90 
+
+
+010-0-35 
+
+
+_____ 
+
+
+— 
+
+
+0040 
+
+
+0040 
+
+
+2. 
+
+
+55Cr5 
+
+
+0-50-0-60 
+
+
+0-35-0-65 
+
+
+0-10-0-35 
+
+
+3 Max ]-00-l-30 — — 
+
+
+— 
+
+
+040 
+
+
+040 
+
+
+3. 
+
+
+60Ci5 
+
+
+055-0-65 
+
+
+O'80-l-OO 
+
+
+O-JO-0-35 
+
+
+0-4 Max 1-00-1 -30 — — 
+
+
+
+
+
+040 
+
+
+040 
+
+
+4. 
+
+
+46Ni5Cr2 
+
+
+0-37-0-55 
+
+
+0-50-0-80 
+
+
+0-10-0-35 
+
+
+1-0 -1-4 0-45-0-75 — — 
+
+
+— 
+
+
+0040 
+
+
+0040 
+
+
+5. 
+
+
+60Ni5Cr3 
+
+
+0-55-0-65 
+
+
+0-50-0-80 
+
+
+0-10-0-35 
+
+
+1-1 -1-5 0-60-0'90 ~ — 
+
+
+— 
+
+
+040 
+
+
+0-040 
+
+
+6. 
+
+
+88Cr6 
+
+
+0-80-0-95 
+
+
+0-25-0-35 
+
+
+O-lC-0-35 
+
+
+0-3 Max 1-40-1-70 ™ — 
+
+
+— 
+
+
+0040 
+
+
+0*040 
+
+
+7. 
+
+
+90Cr8 
+
+
+085-0-95 
+
+
+0-20-0-35 
+
+
+0-10-0-35 
+
+
+0-3 Max 1*70-2'10 — — 
+
+
+— 
+
+
+0-040 
+
+
+040 
+
+
+8. 
+
+
+40Nil4 
+
+
+0-35-0-45 
+
+
+0-50-0*80 
+
+
+0- 10-0-35 
+
+
+3-20-3-60 30 A/ax — — 
+
+
+
+
+
+0040 
+
+
+0040 
+
+
+9. 
+
+
+40Ni6Cr4Mo3 
+
+
+0'35-0-45 
+
+
+0-40. 0-70 
+
+
+0-10-0-35 
+
+
+1*25-1-75 0*90-1-30 0*20-0*35 — 
+
+
+— 
+
+
+0-040 
+
+
+0-040 
+
+
+10. 
+
+
+80Cr6Ni4MolO 
+
+
+0-75-0-85 
+
+
+0-40.0-70 
+
+
+™ 
+
+
+1 '00-1 -20 1-40- 1*60 0-40-0-60 — 
+
+
+
+
+
+0-040 
+
+
+0-040 
+
+
+11. 
+
+
+75Cr8Mo7 
+
+
+0-70 0-80 
+
+
+0'40-0-70 
+
+
+— 
+
+
+— 1-80-2-00 0-30-0'40 — 
+
+
+— 
+
+
+0-040 
+
+
+0-040 
+
+
+12. 
+
+
+85Cr7Mol2Vl 
+
+
+0-80.0-90 
+
+
+0- 18-0-30 
+
+
+0-10-0-35 
+
+
+0-30 Max 1-50-1-80 0-10-0-15 005.010 
+
+
+— 
+
+
+0040 
+
+
+0-040 
+
+
+13. 
+
+
+90Cr7V2 
+
+
+0-85-0-95 
+
+
+0-20-0-45 
+
+
+0-10-0-35 
+
+
+O'ZOMax 1-40-1-70 — 0-10-0-25 
+
+
+
+
+
+040 
+
+
+0-040' 
+
+
+14. 
+
+
+90Cr7Mo2V2 
+
+
+0-85.0-95 
+
+
+0-20-0-35 
+
+
+010-0-35 
+
+
+Q•^OMax 1*40-1-70 0-20.0-30 0-10-0-25 
+
+
+— 
+
+
+0040 
+
+
+0040 
+
+
+15. 
+
+
+90Cr8W2 
+
+
+0-85-0-95 
+
+
+0-20-0-35 
+
+
+0-10-0-35 
+
+
+0-30 Max 1-70-210 — — 2*30-0-60 040 
+
+
+0040 
+
+
+16. 
+
+
+80Cr7W2 
+
+
+0-75-0-85 
+
+
+0-50-0-80 
+
+
+0-10-0-35 
+
+
+2.70-3*20 1-40-2-10 — ^ 0*50-0-70 0040 
+
+
+0040 
+
+
+17. 
+
+
+45Ni6Cr6W3 
+
+
+0-40-0-50 
+
+
+0- 50-0- 80 
+
+
+0-10-0-35 
+
+
+1-20-1*80 V30-1'70 — -.= 0-50-0-80 0-040 
+
+
+0-040^ 
+
+
+18. 
+
+
+
+
+
+0-80-0-90 
+
+
+_ 
+
+
+— 
+
+
+— 2-30-2-70 alloys Mo,V,Ni,Ti,Si,Cc 
+
+
+1 — 
+
+
+
+
+
+19. 
+
+
+— 
+
+
+0-80-0'90 
+
+
+— 
+
+
+— 
+
+
+— 30 alloys Mo,V,Ni,Si 
+
+
+
+
+— 
+
+
+
+
+
+20. 
+
+
+— 
+
+
+0-80-0-90 
+
+
+— 
+
+
+— 
+
+
+— 5*0 alloys Mo,V.Ni 
+
+
+
+
+— 
+
+
+
+
+
+21. 
+
+
+85Cr52 
+
+
+0-75-0-95 
+
+
+— 
+
+
+™ 
+
+
+— 13-0 — 
+
+
+
+
+— 
+
+
+
+
+
+22. 
+
+
+— 
+
+
+0-5-0*6 
+
+
+— 
+
+
+_ 
+
+
+— 5-0 alloys Mo,W.V 
+
+
+
+
+— 
+
+
+— 
+
+
+23. 
+
+
+85Cr7A12 
+
+
+0'80.0'90 
+
+
+0'^5Max 0-^5 Max 
+
+
+- 1-40-1-70 — — 
+
+
+— 
+
+
+0-020 
+
+
+0020 
+
+
+24. 
+
+
+84Cr5Mo3 
+
+
+0-80-0-88 
+
+
+0-35 Max 
+
+
+0-35 Max 
+
+
+— 0-70-2-00 025-0-35 — 
+
+
+— 
+
+
+0020 
+
+
+0*020 
+
+
+
+NOTES 
+
+1 When the steel is Aluminium Killed, the mim'mum requirements for silicon shall not apply. 
+
+2 When so desired the purchaser and the manufacturer may agree to a particular composition for special 
+purpose rolls. 
+
+3 The Aluminium content of grade 85Cr7Al2 steel shall be 0-15 percent minimum. 
+
+
+
+stage of processing where hardness test is con- 
+ducted and the number and location of tests may 
+be agreed to between the manufacturer and the 
+purchaser. A minimum of at least three hard- 
+ness tests reading should be made to ensure 
+required uniformity, both longitudinally and 
+circumferentially, 
+
+8.1.1 If required, in case of hardened rolls shore 
+hardness may also be carried out. Shore roll 
+*C' Scleroscope should be used with the 
+stand which is a part of the instrument. The 
+approximate relationship between shore roll *C' 
+Scleroscope and Vickers hardness for hardened 
+steel rolls is shown in Fig. 1. 
+
+8.2 Ultrasonic Test 
+
+All forged rolls shall be ultrasonically tested to 
+standard as agreed to between the manufacturer 
+and the purchaser. 
+
+8.3 Magnetic Particle Test 
+
+The machined roll before delivery shall be 
+inspected by magnetic particle test to ensure 
+
+
+
+that the roll is free from cracks, seams and- 
+inclusion stringers. 
+
+8.3.1 All rolls shall be demagnetized after 
+magnetic particle test. 
+
+9 FREEDOM FROM DEFECTS 
+
+9.1 Forged steel rolls shall be free from defect 
+as mentioned in 8.1, 8.1.1 and other injurious 
+imperfections. 
+
+10 TOLERANCES 
+
+10.1 Forged steel rolls be finished to the 
+dimensional tolerances as agreed to between the- 
+manufacturer and the purchaser. 
+
+11 SURFACE FINISH 
+
+11.1 The roll barrel length shall have roughness- 
+*Ra' value of 0*2 mm or better. Other portion 
+shall have 'Ra' value of 1-2 mm. Any finer 
+finish than specified above may be agreed to 
+between the manufacturer and the purchaser. 
+
+
+
+IS 3445 : 1992 
+
+
+
+(/> 
+LlJ 
+
+z 
+o 
+
+< 
+
+X 
+
+u 
+q: 
+o 
+
+X 
+
+
+
+
+^00 
+
+
+
+500 600 700 800 
+VICKERS HARDNESS (HV) 
+
+
+
+900 1000 
+
+
+
+Fig. 1 Graph Showing Approximate Relationship Between Shore Hardness 
+
+and vickers hardness 
+
+
+
+12 MARKING AND PACKING 
+12.1 Marking 
+
+
+
+12.1.1 The material may also be marked with 
+the Standard Mark. Details are available with 
+the Bureau of Indian Standards, New Delhi. 
+
+
+
+Each roll shall be clearly marked with the ^^'^ Packing 
+
+purpose intended, manufacturer's name, type of Each roll shall be suitably packed to ensure 
+
+roll, trade-mark, date and place of manufacture. delivery in good condition. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the prowisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian Standard conveys the assurance that they have been produced 
+to comply with the requirements of that standard under a well defined system of inspection, 
+testing and quality control which is devised and supervised by BIS and operated by the pro- 
+ducer. Standard marked products are also continuously checked by BIS for conformity to 
+that standard as a further safeguard. Details of conditions under which a licence for the use 
+of the Standard Mark may be granted to manufacturers or producers may be obtained from 
+the Bureau of Indian Standards. 
+
+
+
+Burean of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of 
+goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in 
+any form without the prior permission in writing of BIS. This does not preclude the free use, in 
+the course of implementing the standard, of necessary details, such as symbols and sizes, type or 
+grade designations. Enquiries relating to copyright b3 addressed to the Director ( Publications ), BIS. 
+
+Rerision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if any, 
+are issued from time to time. Users of Indian Standards should ascertain that they are in 
+possession of the latest amendments or edition. Comments on this Indian Standard may be sent 
+to BIS giving the following reference : 
+
+Doc : No. MTD 1% ( 3721 ) 
+
+Amendments Issaed Since Pablication 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters : 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+
+Telephones : 331 01 31, 331 13 75 Telegrams : Manaksanstha 
+
+( Common to all Offices ) 
+
+Regional Offices : Telephone 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg f 331 01 31 
+
+NEW DELHI 110002 1 331 13 75 
+
+Eastern : 1/14 C.LT. Scheme VII M, V.I.P. Road, Maniktola 
+
+CALCUTTA 700054 37 86 62 
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 53 38 43 
+
+Southern : C.LT, Campus, IV Cross Road, MADRAS 600113 235 0216 
+
+Western : Manakalaya, E9 MIDC, Marol, Andhen ( East ) 
+
+BOMBAY 400093 6 32 92 95 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR, 
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. 
+HYDERABAD. JAIPUR. KANPUR- L CKNOW. PATNA. 
+THIRUVANANTHAPURAM. 
+
+
+
+Printed at Swatantra Bbarat Press, Delhi, India 
+
+
+

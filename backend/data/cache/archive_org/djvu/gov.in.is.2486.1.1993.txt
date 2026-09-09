@@ -1,0 +1,1968 @@
+***•••*•**•••••• 
+
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+The Right to Information, The Right to Live' 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+&v i jiA:^:^ifc^^:Vf If ija^^n:^.^ ;^^ is:sa ^i rr ^^ >^»^> ^ 
+
+
+
+IS 2486-1 (1993) : Metal fittings of insulators for overhead 
+power lines with nominal voltage greater than 1000 V, Part 
+1: General requirements and tests [ETD 6: Electrical 
+Insulators and Accessories! 
+
+
+
+C^IJIA^=JCsS^ff71l^vS^3g^TN:^a^ITFSggg 
+
+
+
+5?5im l7*55^!S&^N5«^^ 
+
+
+
+^^-^^^^W.^^ 
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+Vii^ 
+
+
+
+
+i4> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 2486 ( Parti ) : 1993 
+HRcft^T ITPW (Reaffirmed 2003, 
+
+1000 ^. # arfsr^ ^Tt^fcR? ^c^ciT ^r^ fwfr^ ir^^ 
+
+( f^TTT 3Td«T«I ) 
+
+Indian Standard 
+
+METAL FITTINGS OF INSULATORS FOR 
+
+OVERHEAD POWER LINES WITH NOMINAL 
+
+VOLTAGE GREATER THAN 1 000 V — 
+
+SPECIFICATION 
+
+PART 1 GENERAL REQUIREMENTS AND TESTS 
+
+( Second Revision ) 
+
+
+
+UDC 621-315-65 : 621'315-l-027-5/-8 
+
+
+
+© BIS 1993 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+May 1993 Price Group 6 
+
+
+
+Electrical Insulators and Accessories Sectional Committee, ETD 06 
+
+
+
+FOREWORD 
+
+This Indian Standard ( Second Revision ) was adopted by the Bureau of Indian Standards, after 
+the draft finalized by the Electrical Insulators and Accessories Sectional Committee had been 
+approved by the Electrotechnical Division Council. 
+
+This standard was first issued in 1963, The standard was first revised in the light of experience 
+gained on the mechanical and electrical tests on the clamps and also to rationalize their test 
+requirements. 
+
+The second revision of this standard has been carried out to update information on the testing 
+facility available in the country and also to aligi the requirements with current national and 
+international standards on the subject. 
+
+Part 2 of this standard covers the dimensions of the metal fittings for insulators. 
+
+The mechanical requirements for metal fittings of insulators are related to the failing load of 
+the fittings. It is, therefore, left to the user to decide the relationship between the maximum 
+working load and the specified minimum failing load taking into account all the circumstances 
+governing the use cf the metal fitting. 
+
+Bird guard insulator pins have not been included in this standard because of their limited 
+application. It is recommended that, where necessary, the same line pin may be used with 
+the bird guard insulator. 
+
+The conductor earth wire accessories and fittings for the overhead line conductors are specified 
+separately in IS 2121 ( Part 1 ) : 1981 and IS 2121 ( Part 2 ) : 1981. 
+
+In the revision of this standard assistance has been derived from BS 3288 : Part 1 : 1973 
+Insulator and conductor fittings for overhead power lines : Part 1 Performance and general 
+requirements issued by British Standards Institution ( UK ). 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, 
+the final value, observed or calculated, expressing the result of a test, shall be rounded off ii 
+accordance with IS 2 : 1960 'Rules for rounding otT numerical values ( revised y . The number 
+of significant places retained in the rounded off value should be the sams as that of the 
+specified value in this standard. 
+
+
+
+IS 2486 ( Part 1 ) : 1993 
+
+
+
+Indian Standard 
+
+
+
+METAL FITTINGS OF INSULATORS FOR 
+
+r\A7t:DUl^ AFi PnWFP TTXTT^Q WFTM XTHMTNTAT 
+
+\^ V I / I "V I 11-^ r^\. 1— ^ X. V^ T f JL^XX. -i—ZAX 1 ^—l>^ TTJ.JLJLA 0.1 V,' 4.TJ.JLX -« X AJ— 
+
+VOLTAGE GREATER THAN 1 000 V — 
+SPECIFICATION 
+
+PART 1 GENERAL REQUIREMENTS AND TESTS 
+
+( Second Revision ) 
+
+
+
+1 SCOPE 
+
+This standard ( Part 1 ) gives the general 
+requirements and tests for insulator fittings for 
+use on overhead power lines having a nominal 
+voltage greater than 1 000 V. 
+
+2 REFERENCE STANDARDS 
+
+The Indian Standards listed in Annex A are 
+necessary adjuncts to this standard. 
+
+3 TERMINOLOGY 
+
+For the purpose of this standard, the following 
+definitions shall apply. 
+
+3.1 Arcing Fitting 
+
+A metal fitting or fittings attached to one or 
+both ends of an insulator string and arranged 
+to prevent damage to the insulator string by a 
+power arc. 
+
+3.2 Failing Load 
+
+The greatest mechanical load which can be 
+applied to a fitting under the prescribed 
+conditions of test. 
+
+3.2.1 Specified Minimum Failing Load 
+
+The minimum failing load specified by the 
+purchaser or declared by the supplier. 
+
+3.3 Insulator Pin 
+
+A stud passing up inside the metal base of the 
+line post insulator and intended to be fixed 
+rigidly to a supporting structure. 
+
+3.4 Suspension Insulator String Fitting 
+
+An assembly of metal parts used with a string 
+insulator unit or an insulator string hung from 
+a supporting structure and to carry a line 
+
+
+
+conductor at its lower end. This 
+essentially comprises the following. 
+
+3.4.1 Suspension Top Fitting 
+
+
+
+assembly 
+
+
+
+A hook or anchor shackle or other fitting for 
+flexibly suspending the suspension insulator 
+string from the supporting structure either 
+directly or through a hanger. 
+
+3.4.2 Susnension damn Adopter 
+
+A fitting for flexibly connecting the conductor 
+suspension clamp to the suspension insulator 
+string. 
+
+3.4.3 Conductor Suspension Clamp 
+
+A fitting holding the conductor and flexibly 
+suspended from the clamp adopter. 
+
+3.5 Tension Insulator String Fitting 
+
+An assembly of metal parts used with a string 
+insulator unit or an insulator string attached 
+to a supporting structure and to secure in 
+tension a line conductor. This assembly 
+essentially comprises the following. 
+
+3.5.1 Tension End Fitting 
+
+A fitting for flexibly holding the tension 
+insulator string to a supporting structure. 
+
+3.5.2 Tension ( Anchor ) Clamp Adopter 
+
+A fitting for flexibly connecting the conductor 
+tension clamp to the tension insulator string. 
+
+
+
+M i« /« x^ 
+
+
+
+.J.3. J f^onaucior i ension ( Ancnor ) ^lamp 
+
+A fitting for holding the conductor in tension 
+position and flexibly connected to the clamp 
+adopter. 
+
+
+
+I 
+
+
+
+IS 2486 ( Part 1 ) : 1993 
+
+
+
+NOTE — Specific 
+comments are invited 
+to define these parts 
+( terms ). 
+
+
+
+3.6 Ball Hook 
+
+3.7 Socket Tongue 
+
+3.8 Anchor Shackle 
+
+3.9 Yoke Plate 
+
+3.10 Ball Eye 
+
+3.11 Arcing Horns 
+
+3.12 Grading Rings 
+
+3.13 Clevis Tongue 
+
+3.14 Twisted Shackle j 
+
+3.15 Lot 
+
+All the insulator fittings of same type and 
+design manufactured under similar conditions 
+of production, offered for acceptance; a lot 
+may consist of the whole or part of the quantity 
+offered. 
+
+A lot shall consist of only one type of fittings 
+manufactured essentially from the same raw 
+material and under identical conditions. 
+
+4 CATEGORIES OF TESTS 
+
+4 Tests are divided into three groups as given 
+in 4.1, 4.2 and 4.3. Details of these tests are 
+given under respective fittings. 
+
+4.1 Type Tests 
+
+Tests carried out to prove conformity with the 
+specification. These are intended to prove the 
+general qualities and design of a given type of 
+insulator fitting. 
+
+4.2 Acceptance Tests 
+
+Tests carried out on samples take:i at random 
+from a lot for the purpose of acceptance of 
+the lot. 
+
+4.3 Routine Tests 
+
+Tests carried out on each insulator fitting to 
+check requirements which are likely to vary 
+during production. 
+
+5 VISUAL EXAMINATION 
+
+The fitting shall be free from defects which 
+would be likely to cause them to be unsatis- 
+factory in service. 
+
+6 PROTECTION AGAINST CORROSION 
+
+All parts of metal fittings for insulator shall 
+be either inherently resistant to atmospheric 
+
+
+
+corrosion or be suitably protected against 
+corrosion, both during storage and in service. 
+AH ferrous metal parts which will be exposed 
+to the atmosphere in service, except those 
+made of stainless steel shall be protected by 
+hot dip galvanizing or other agreed means. 
+The threads of nuts and tapped holes shall be 
+cut after galvanizing and shall be well oiled 
+or greased. Ail other threads shall be formed 
+before galvanizing. 
+
+7 GENERAL REQUIREMENTS FOR TEST 
+
+7.1 Type Tests 
+
+Unless otherwise agreed, tests certificates giving 
+the appropriate type test, made on not less 
+than three fittings identical in all essential 
+details with those to be supplied, shall be 
+regarded as evidence of compliance. 
+
+7.2 Acceptance Tests 
+
+Unless otherwise agreed between the manu- 
+facturer and user the acceptance test shall be 
+carried out according to the Sampling Plan 
+given in Annex B. 
+
+7.3 Routine Tests 
+
+Where routine tests are specified they shall be 
+applied to every fitting. 
+
+8 VERIFICATION OF DIMENSIONS 
+
+It shall be verified either that the test samples 
+comply with the requirements of Part 2 of this 
+standard ( if so specified ) or that they are in 
+accordance with the relevant drawings, parti- 
+cularly as regards any dimensions to which 
+special tolerances apply and details affect 
+jnterchangeability ( for example, dimensions 
+for which gauges are specified ). 
+
+Unless otherwise agreed the following 
+tolerances are allowed on all dimensions to 
+which special tolerances do not apply: 
+
+Dimensions Tolerance 
+
+Up to and including 35 mm -± 07 mm 
+Over 35 mm ± 2 percent 
+
+9 PIN INSULATOR FITTINGS 
+
+9.1 Materials 
+
+9.1.1 The forged pins and studs shall be of steel 
+complying \vith 2 of IS 1875 ; 1978 or 
+equivalent standard. 
+
+9.1.2 The nut shall conform to property 4.8 
+of IS 1367 ( Pari 6 ) : 19 80. 
+
+9.1.3 For galvanizing, zinc conforming to Grade 
+Zn98 of IS 209 : 1979 shall be used. 
+
+NOTE — For details see IS 2629 : 1966. 
+
+
+
+IS 2486 ( Part 1 ) : 1993 
+
+
+
+9.1.4 The thimbles, when used shall be of 
+aluminium, lead or zinc. 
+
+9.2 General Requirements 
+
+9.2.1 The pins shall be a single piece obtained 
+preferably by the process of forging. They 
+shall not be made by joining, welding, shrink- 
+fitting or any other process from more than 
+one piece of material. They shall be of good 
+finish, free from flaws and other defects. The 
+finish of the collar shall be such that a sharp 
+angle between the collar and the shank is avoided 
+and that the collar or the seating surface of 
+the metal base in the case of line post insula- 
+tors shall bed down correctly on to the cross- 
+arm when fixed to that through a hole and 
+diameter of which is 2 mm greater than the 
+diameter of the shank. All ferrous parts shall 
+be protected against corrosion ( see 6 ). 
+
+9.2.2 Threads on Heads of Pin 
+
+The dimensions shall comply with those given 
+in IS 2486 ( Part 2 ) : 1989. 
+
+9.3 Tests 
+
+9.3.1 Type Tests 
+
+The following shall constitute the type tests on 
+insulator pins, studs, nuts and associated 
+parts* 
+
+a) Freedom from defects ( see 5 and 6 ); 
+
+b) Verification of dimensions ( see 8 and 
+9.2.2 ); 
+
+c) Galvanizing test ( see 9.4 ); 
+
+d) Mechanical tests ( see 9.5 ); and 
+
+e) Chemical composition test {see 9.6). 
+
+NOTE — Type tests ( also see 7.1 ) shall be made 
+by the manufacturer or by an agreed independent 
+authority. 
+
+9.3.2 Acceptance Tests 
+
+The following shall constitute the acceptance 
+tests: 
+
+a) Verification of dimensions ( see 8 and 
+9.2.2 ), 
+
+b) Galvanizing test ( see 9.4 ), and 
+
+c) Mechanical tests ( see 9.5 ). 
+
+NOTE — See 7.2 for sampling procedure. 
+
+9.3.3 Routine Test 
+
+Visual examination given in 5 shall be the 
+routine test. 
+
+9.4 Galvanizing Test 
+
+This test comprises of first verification of the 
+uniformity of the coating of zinc ( test by 
+
+
+
+immersion in copper sulphate ) and secondly 
+verification of the weight of zinc per unit 
+surface area ( test by chemical dissolution ). 
+The second test is optional and shall be carried 
+out only if so agreed by the manufacturer and 
+the purchaser. 
+
+9.4.1 The uniformity of zinc coating of hot dip 
+galvanized ferrous string fittings shall be 
+determined in accordance with IS 2633 : 1986 
+and satisfy the requirements given in IS 4759 : 
+1984. Electrogalvanized ferrous fitting shall 
+be checked in accordance with IS 1573 : 
+1986. 
+
+9.5 Mechanical Tests 
+
+9.5.1 Insulator Pins ( All Types Except Stud 
+Pins ) 
+
+The shank of the insulator pin shall be rigidly 
+attached to the testing machine. A rigid metal 
+extension piece shall be attached direct to the 
+head of the pin. A load shall be applied to 
+the extension piece 25 mm above the top of the 
+pin. The load, applied at right angles to the 
+axis of the insulator pin, shall be increased to 
+the specified minimum failing load at a steady 
+rate. When the specified minimum failing 
+load has been reached, the deflection measured 
+at the top of the pin head shall not exceed 20 
+percent of the distance of this point from the 
+support. 
+
+9.5.2 Stud Pins 
+
+The test for the stud pins shall be performed 
+together with the line post insulator or suitable 
+adopter. The stud pin(s) shall be attached to 
+the insulator with which it is to be used in 
+service and fixed to a metal bracket on the 
+testing mac"hine. A flexible wire rope not less 
+than 40 mm in circumference shall be looped 
+round the tie-wire groove and shall be pulled 
+at right angles to axis of the insulator. The 
+load shall be increased ro the specified mini- 
+mum failing load at a steady rate. This load 
+shall not cause fracture of the insulator or of 
+its stud. 
+
+9.6 Chemical Composition Test 
+
+Chemical composition test on the material 
+shall be carried out in accordance with relevant 
+specification. 
+
+10 INSULATOR STRING FITTINGS 
+
+10.1 Materials 
+
+10.1.1 The material of the fittings shall be so 
+selected that yield strength of the material 
+shall not be less than maximum working load. 
+
+
+
+IS 2486 ( Part 1 ) : 1993 
+
+
+
+10.1.2 All fittings except suspension clamp and 
+strain clamp shall be made of drop forged or 
+upset forged steel ( IS 2004 ; 1978 ) or heat 
+treated malleable cast iron ( IS 2107 : 1977 or 
+IS 2108 : 1977) or cast iron containing spheroidal 
+or modular graphite complying with IS 1865 : 
+1974 and shall be hot dipped galvanized ( see 5 ). 
+The suspension clamp and strain clamp for 
+alumining AAC and ACSR conductors shall be 
+high strength aluminium alloy ( IS 6051 : 1970 ). 
+The composition of the alloy shall be declared 
+by the manufacturer giving reference to the 
+relevant Indian Standard, In strain clamp 
+(compression type ), the outer sleeve shall be 
+of EC grade aluminium and inner sleeve of 
+galvanized mild steel. 
+
+NOTE — For use with aluminium or steel cored 
+aluminium conductors , aluminium linears are 
+provided for clamps of materials other than of 
+aluminium alloy. 
+
+10.1.3 The materials for various parts of 
+suspension insulator fittings covered in 8 of IS 
+2486 ( Part 2 ) : 1989 shall be as follows: 
+
+
+
+10.1.6 Cotters Pins 
+
+The cotter pins shall be provided with 
+steel flat washers in addition to split pins. 
+
+
+
+mild 
+
+
+
+10.1.7 Locking devices for ball and socket 
+lockers shall be of phospher bronze conforming 
+to IS 7814 : 1975 and stainless steel conforming 
+to IS 6603 : 1972 with minimum hardness of 
+160 HV. The dimension shall conform to 
+IS 2486 ( Part 3 ) : 1974. 
+
+The split pin to be used on the cotter pin shall 
+be of phospher-bronze conforming to IS 7814 : 
+1975, stainless steel conforming to IS 5522 : 
+1992 or brass conforming to IS 410 : 1977 with 
+a minimum hardness of 160 HV. 
+
+10.1.8 Insulator metal caps shall be of malleable 
+cast iron conforming to IS 2108 : 1977 or other 
+suitable material having the necessary strength 
+to enable the complete unit to satisfy the 
+appropriate requirements of this standard. 
+
+
+
+a) Ball hook 
+
+b) Anchor shackle and its 
+cotter bolt and cotter pin 
+
+c) Socket tongue 
+
+d) Suspension clamp 
+
+
+
+e) Ball eye 
+
+f ) Ball clevis 
+
+g) Socket clevis 
+h) Yoke plate 
+j) Clevis 
+
+k) Strain clamp 
+
+m) Clevis tongue 
+n) Sag adjuster 
+p) Twisted shackle 
+q) Arcing horn 
+r) Grading ring 
+
+
+
+U-bolt shall be 
+mild steel ( IS 
+
+
+
+Forged steel ( IS 2004 : 1978 ) 
+do 
+
+Forged steel ( IS 2004 : 1978 ) or heat treated mallea^ 
+ble cast iron ( IS 2107 : 1977 or IS 2108 : 1977 ) 
+
+See 10.1.2 and cotter bolt pin and 
+
+forged steel ( IS 2004 : 1978 ) and 
+
+226 : 1975 ) respectively 
+
+Forged steel ( IS 2004 : 1978 ) 
+
+Forged steel ( IS 2004 : 1978 ) 
+
+Same as for c) above 
+
+Mild steel [ IS 1570 ( Part 2 ) : 1979 ] 
+
+Same as for c) above 
+
+Heat treated malleable cast iron { IS 2107 : 1977 or 
+
+IS 2108 : 1977 ), or high strength aluminium alloy 
+
+( see 10.1.2 above ) 
+
+Drop forged steel ( IS 2004 : 1978 ) 
+
+Mild steel [ IS 1570 ( Pan 2 ) : 1979 ] 
+
+Forged steel ( IS 2004 : 1978 ) 
+
+Mild steel ( IS 226 : 1975 ) 
+
+Mild steel bar ( IS 226 : 1975 ) or aluminium alloy 
+
+( IS 5082 : 1981 ) 
+
+
+
+10.1.4 The fittings shall be free from defects 
+( see 5 ), corrosion protected ( see 6 ) and shall 
+meet the requirements of galvanizing test 
+( see 9.4 ). 
+
+10.1.5 Nuts 
+
+The requirements given in 9.1.2 shall apply. 
+
+
+
+10.1.8.1 Aluminium and aluminium alloys shall 
+not be used for the manufacture of insulator 
+caps. 
+
+10.2 General Requirements 
+
+10.2.1 All forgings and castings shall be of 
+good finish and free from flaws and other 
+defects. The edges on the outside of fittings, 
+
+
+
+IS 2486 ( Part 1 ) : 1993 
+
+
+
+such as the eye, clevis and holes, shall be 
+rounded. 
+
+10.2.2 All parts of different fittings which 
+provide the interconnection shall be made such 
+that sufficient clearance is provided at the 
+connection point to ensure free movement and 
+suspension of the insulator string assembly. AH 
+eye and clevis connection shall be free in this 
+manner but care shall be taken that too much 
+clearance between eye and the tongues of the 
+clevis is avoided. 
+
+10.2.3 Suspension clamps shall be so designed 
+that the effects of vibration both on the condu- 
+ctor and fitting itself, are minimized. Sharp radii 
+of curvature, ridges and ex-crescences, which 
+might lead to localized pressure on or damage 
+to the conductor, in service shall be avoided. 
+The clamp shall permit the conductor to slip 
+before the failure of the conductor occurs. The 
+fitting shall have sufficient contact surface to 
+minimize damage due to fault currents. 
+
+10.2.4 Non-tension joints shall be designed so 
+that chey meet the appropriate test requirements. 
+The manufacturer shall assign rated current to 
+a joint, which shall then be the basis for the 
+electrical test ( see 12,1.2,1 ), otherwise the 
+joint shall be tested as per 12.1.2.3. 
+
+10.3 Type Tests 
+
+10.3.1 The fcllowing shall constitute the type 
+tests for clamps which have passed successfully 
+the routine tests: 
+
+a) Visual examination ( see 5 and 6 ), 
+
+b) Verification of dimensions ( see 8 ), 
+
+c) Slip strength tests ( see 11.1 ), 
+
+d) Ultimate strength tests ( see 11.2 ), 
+
+e) Electrical resistance test ( for tension 
+clamps only ) [ see 12.1.1 { a ) ], 
+
+f ^ Heating cycle test (for tension clamps 
+
+only ) [ see 12.1.1 ( b ) ], and 
+g) Galvanizing/electroplating tests ( see 
+
+9.4 ). 
+
+NOTE — Type tests are normally made once and 
+unless otherwise agreed to, test certificates giving 
+tiie results of type tests, made on not less than 
+three fittings identical in all essential details with 
+those to be supplied, are regarded as evidence of 
+compliance, 
+
+10.3.2 The following shall constitute type tests 
+on insulator string fittings except clamps: 
+
+a) Visual examination ( see 5 and 6 ), 
+
+b) Verification of dimensions ( see 8 ), 
+
+c) Mechanical test ( see 11.2.2 ), 
+
+d) Galvanizing test ( see 9.4 ), and 
+
+e) Chemical composition test (see 9.6 ), 
+
+
+
+10.3.3 The following shall constitute type tests 
+on non-tension components: 
+
+a) Visual examination ( see 5 and 6 ), 
+
+b) Verification of dimensions ( see 8 ), 
+
+c) Mechanical tests ( optional ), and 
+
+NOTE — Test method and its requirements to be 
+mutually agreed between the manufacturer aud 
+the purchaser. 
+
+d) Chemical composition test ( see 9.6 ). 
+
+10.4 Acceptance Tests 
+
+10.4.1 The following shall constitute acceptance 
+tests for clamps: 
+
+a) Visual examination test ( see 5 and 6 ), 
+
+b) Chemical composition test ( see 9.6 ), 
+
+c) Verification of dimensions ( see 8 ), 
+
+d) Mechanical tests ( see 11.1 ), 
+
+e) Ultimate strength test ( see 11.2 ), 
+
+f ) Galvanizing test ( see 9.4 ), and 
+
+g) Electrical resistance test for compress- 
+ion/tension clamps ( subject to agree- 
+ment between the manufacturer and the 
+user ) [ see 12.1.1 ( a ) ]. 
+
+10.4.2 Acceptance test on insulator string 
+fittings: 
+
+a) Visual examination test ( see 5 and 6 ), 
+
+b) Chemical composition test ( see 9.6 ), 
+
+c) Verification of dimensions ( see 8 ), 
+
+d) Ultimate strength test ( see 11.2 ), and 
+
+e) Galvanizing test ( see 9.4 ). 
+
+10.4.3 Acceptance test on non-tension 
+components: 
+
+a) Visual examination test ( see 5 and 6 ), 
+
+b) Chemical composition test ( see 9.6 ), 
+
+c) Verification of dimensions ( see 8 ), 
+
+d) Mechanical test ( optional ) ( subject to 
+agreement between the manufacturer and 
+the user ) ( see 11.1.4 ), and 
+
+e) Galvanising test ( see 9.4 ). 
+
+10.5 Routine Tests 
+
+10.5.1 Routine tests on clamps: 
+
+a) Visual examination ( see 5 and 6 ), and 
+
+b) Mechanical routine test on conductor 
+tension ( anchor ) clamps only 
+( see 11.3 ). 
+
+10.5.2 Routine tests on insulator string fittings 
+and earthing conductor fittings: 
+
+
+
+IS 2486 ( Part 1 ) : 1993 
+
+a) Visual examination ( see 5 and 6 ), and 
+
+b) Mechanical routine test ( see 11.3 ). 
+
+10.5.3 Routine test on non-tension components: 
+a) Visual examination ( see 5 and 6 ). 
+
+11 MECHANICAL TFSTS 
+
+11.1 Slip Strength Tests on Clamps 
+
+11.1.1 Suspension Clamps 
+
+The suspension clamp shall he vertically suspen- 
+ded by means of some flexible attachment. A 
+suitable length of the specified conductor shall 
+be fixed in the clamp with bolts and nuts tight- 
+ened with the specified torque. A load shall 
+then be gradually applied at one end of the 
+conductor and the value of the load at which 
+the conductor in the clamp begins to slip shall 
+
+FIXED TO THE NON-LOAOING 
+END OF THE MACHINE 
+
+
+
+be noted ( see Fig. 1 ). The conductor should 
+not slip at a load of 8 percent of the breaking 
+load of the conductor. The slip strength shall 
+not exceed 15 percent of the breaking load of 
+the conductor. For the purpose of this test, 
+the breaking load of the conductor shall be 
+taken as the value given in the relevant 
+conductor specifications. 
+
+11.1.2 Bolted Type Tension Clamps 
+
+Tension clamp shall be held by means of some 
+flexible attachment according to Fig. 2. A 
+suitable length of the specified standard 
+conductor shall be fixed in the clamp with 
+bolts and nuts tightened with the specified 
+torque. A tensile load of about 50 percent 
+of the breaking load of the conductor shall be 
+applied and the conductor shall be marked in 
+such a way that movement relative to the clamp 
+
+
+
+
+Fig. 1 Apparatus for Testing the Slip Strength of a Suspension Clamp 
+
+
+
+FIXED TO THE NON-LOADING 
+END OF THE MACHINE 
+
+
+
+CONDUCTOR 
+
+
+
+
+2~- 
+
+
+
+LOADING 
+
+
+
+FiG. 2 Apparatus for Testing the Slip Strength of a Tension Clam? 
+
+
+
+IS 2486 ( Part 1 ) : 1993 
+
+
+
+can easily be detected. Without subsequent 
+adjustment of the clamp, the load shall be 
+steadily increased to 95 percent then reduced 
+to 90 percent of the breaking load of the 
+conductor and maintained for one minute. 
+There shall be no movement of conductor 
+relative to the clamp during this one minute 
+period and no failure of the clamp. For the 
+purpose of this test the breaking load of ihe 
+conductor shall be taken as the value given in 
+relevant conductor specifications. 
+
+11.1.3 Compression Type Clamps 
+
+The compression clamp shall be compressed 
+with the specified conductor of suitable length 
+and shall be held in the tensile testing machine 
+b>y means of some flexible attachment. A 
+tensile load of about 50 percent of the break- 
+ing load of the conductor shall be applied 
+and the conductor shall be marked in 
+such a way that movement relative to the 
+clamp can be detected. Without subsequent 
+adjustment of the clamp, the load shall be 
+steadily increased to 95 percent then reduced 
+to 90 percent of the breaking load of the 
+conductor and maintained for one minute. 
+There shall be no movement of the conductor 
+relative to the clamp during this one minute 
+period and no failure of the clamp. For the 
+purpose of this test, the breaking load of the 
+conductor shall be taken as the value given 
+in relevant conductor specification. 
+
+\l.\A Mechanical Type Test {Optional) on 
+Joints Other than Tee Joints 
+
+When specified by the purchaser non-tension 
+joints other than tee joints shall meet the 
+requirements of the following test. 
+
+11.1.4.1 The joint shall be assembled in accord- 
+ance with the manufacturer's recommendations 
+on conductors of the sizes and types with 
+which it is to be used. The assembly shall be 
+mounted in a tensile testing machine and 
+anchored in such a way that the test load is 
+applied in the direction of the conductor. 
+
+11.1.4.2 If the nominal breaking load of the 
+conductor is less than 12 kN a tensile load of 
+about 5 percent of the breaking load of the 
+conductor shall be applied and the conductor 
+shall be marked in such a way that movement 
+relative to the fitting can easily be detected. 
+Without any subsequent adjustment of the 
+fitting, the load shall be steadily increased to 
+10 percent of the breaking load. This load 
+shall be maintained for 1 minute. There shall 
+be no movement of the conductor relative to 
+the fitting due to slip during this period of 
+1 minute and no failure of the fitting. 
+
+
+
+11.1.4.3 If the nominal breaking load of the 
+conductor is 12 kN or more, a tensile load of 
+0-6 kN shall be applied and the conductor shall 
+be marked in such a way that movement 
+relative to the fitting can easily be detected. 
+Without any subsequent adjustment of the 
+fitting, the load shall be steadily increased to 
+1-2 kN. This load shall be maintained for 
+I minute. There shall be no movement of the 
+conductor relative to the fitting due to slip 
+during this period of 1 minute and no failure 
+of the fitting. 
+
+11.2 Mechanical Strength Tests 
+
+11.2.1 Suspension Clamps 
+
+The suspension clamp fittings shall be held in 
+a tensile testing machine in a manner approxi- 
+mating, as nearly as possible to the arrangement 
+to be used in service, the conductor being 
+replaced by a rigid bar of suitable size ( see 
+Fig. 3 ). A tensile load equal to one-half of 
+the specified minimum failing load ( see 3.2.1 ) 
+shall be applied and increased at a steady rate. 
+Failure of the fitting shall not occur at a load 
+less than the 50 percent of breaking load of 
+the relevant conductor, for which the fitting 
+is designed. 
+
+11.2.2 Insulator String Fittings 
+
+The fitting shall be held in a tensile testing 
+machine in a manner approximating, as nearly 
+as posible, to arrangement to be used in service. 
+A tensile load equal to 75 percent of the 
+specified minimum failing load ( see 3.2.1 ) 
+shall be applied and increased at a steady 
+rate. Failure of the fitting shall not occur 
+at a load less than the specified minimum 
+failing load. 
+
+11.3 Mechanical Routine Tests 
+
+11.3.1 Tension Joints and Anchor Clamps 
+
+Mechanical tests shall not be made on tension 
+joints or anchor clamps except by special 
+agreement between the purchaser and the 
+manufacturer. When required such tests shall 
+be same as the type tests specified in 11.1. 
+
+11.3.2 Insulator String Fittings 
+
+This test shall be applied only to castings, 
+forgings and fittings which are fabricated by 
+welding, in which the weld is stressed when the 
+fitting is in service. A tensile load equal to 
+40 percent of the specified minimum failing 
+load shall be applied to the fittings and 
+mountained for 30 s, the fittings shall not be 
+damaged by the test. 
+
+11.3.3 Non-Tension Joints 
+
+No routine test is recommended. 
+
+
+
+IS 2486 ( Part 1 ) : 1993 
+
+
+
+RIGID BAR SUITABLY 
+ROUNDED 
+
+
+
+FIXED TO THE NON-LOADING 
+END OF THE MAC 
+
+
+
+
+LOADING 
+
+
+
+Fig. 3 Apparatus for Testing the Ultimate Strength of a Suspension Clamp 
+
+
+
+12 ELECTRICAL TESTS 
+12.1 Type Tests 
+
+12.1.1 Tension Joints and Anchor Clamps 
+
+a) Resistance Tests 
+
+This test shall be made on tension joints 
+and also on anchor clamps ( including 
+any jumper connections which form 
+part of the fittings ), if the design is such 
+that the conductor is not continuous 
+through the clamp. 
+
+The fitting shall be assembled in accor- 
+dance with the manufacturer's recom- 
+mendations on conductor of the size and 
+tvnp with which it is to be used The 
+electrical resistance shall be measured 
+between points on the conductors on 
+either side and 25 mm clear of the fitting 
+and shall not exceed 75 percent of the 
+measured resistance of the equivalent 
+length of conductor. Where a fitting is 
+composed of several parts electrically in 
+series, the resistance of each part shall 
+not exceed 75 percent of the measured 
+resistance of the equivalent length of 
+conductor. 
+
+The test shall be made with direct 
+current. The current connections shall 
+be at a distance not less than 50 times 
+the diameter of the conductor from the 
+fitting and shall be made so that effective 
+contact is made with all those strands of 
+the conductor which would be taken into 
+
+
+
+account in calculating its equivalent 
+
+resistance. 
+
+The test shall be repeated with the 
+
+polarity reversed and the average of the 
+
+two results taken as the measured value. 
+
+b) Heating Cycle Test 
+
+This test shall be made on ail types of 
+tension joints and also on anchor clamps 
+( including any jumper connections which 
+form part of the fitting ), if the design 
+is such that the conductor is not conti- 
+nuous through the clamp. 
+
+The test current shall be that power 
+frequency current which raises the 
+surface temperature of the conductor 
+
+T\j v^ auuvc LUC aiuun^iii LwiiL^wiaiui c emu 
+
+maintains the temperature at a steady 
+value. The minimum length of condu- 
+ctor used for determining this current 
+shall be 2 m and the conductor tem- 
+perature shall be measured near the centre 
+of the test length. 
+
+The fitting shall be assembled in accord- 
+ance with the manufacturer's recom- 
+mendations on conductors of the size 
+and type with which it is to be used. 
+The assembly, to which a tensile load 
+not exceedmg 20 percent of the breaking 
+load of the conductor may be applied, 
+shall be erected indoors so that the 
+conductor is roughly horizontal. Air 
+shall be able to circulate freely around 
+the assembly which shall not however 
+be exposed to draughts. The minimum 
+
+
+
+IS 2486 ( Part 1 ) : 1993 
+
+
+
+length of conductor on each side of the 
+"fitting shall be 2 m. 
+
+The test current shall be passed conti- 
+nuously through the assembly for a 
+period of 30 min or such longer period 
+as may be necessary to bring the 
+reference conductor to a temperature 
+40"C above the ambient temperature. 
+The current shall then be interrupted and 
+the conductor shall be allowed to cool 
+to within 5°C above the ambient temper- 
+ature. This sequence of operation shall 
+be repeated so that 250 cycles of heating 
+and cooling are applied. The fitting 
+shall not be tightened or adjusted during 
+the test. 
+
+During the last five cycles the maximum 
+temperature, measured when the test 
+current is flowing, at any point on the 
+surface of the fitting, shall not exceed 
+that of the conductor. At the end of the 
+test the fitting shall meet the require- 
+ments of the resistance test specified 
+in 12.1.1 (a). The fitting shall afterwards 
+be opened and there shall be no sign of 
+local heating, burning or fusing of any 
+part of the fitting or of the conductor, 
+as a result of the test. 
+
+12.1.2 Non-Tension Joints 
+12.1.2.1 Heating cycle test 
+
+This test shall be made on all kinds of non- 
+tension joints, including tee joints. The test 
+shall be made with alternating current at any 
+convenient power frequency. The test current 
+shall be as specified in 12.1.2.2 or 12.1.2.3 as 
+may be appropriate. 
+
+NOTE — Some fittings are intended to be used in 
+groups of two or more. In such cases the heating- 
+cycle tests should be made on a complete assembly, 
+as in service, and the test certificate should show 
+clearly the arrangements used in the test. 
+
+The reference conductor, in which the fitting 
+has been defined, shall be that one of the 
+two or three conductors associated with the 
+joint in the test which reaches the highest 
+temperature. The minimum length of conduc- 
+tor used for determining this current shall be 
+2 m and the conductor temperature shall be 
+measured near the centre of the test length. 
+
+The fitting shall be assembled in accordance 
+with the manufacturer's recommendations on 
+conductors of the sizes and types with which it 
+is to be used. No tensile load shall be applied. 
+The electrical resistance shall be measured 
+t)etween points on all the conductors 25 mm 
+clear of the fitting. The measurements shall 
+
+
+
+be made with direct current. The current 
+connections shall be so made that effective 
+contact is made with all those strands of the 
+conductors which would be taken into account 
+in calculating their equivalent resistances. 
+
+The assembly shall be erected indoors so that 
+air can circulate freely around it, but it shall 
+not be exposed to draughts. The minimum 
+length of conductors emerging from each outlet 
+of the fitting shall be 2 m. 
+
+The test current shall be passed continuously 
+through the assembly ( from main to branch 
+conductor for a tee joint ) for a period of 30 
+min or such longer period as may be necessary 
+to bring the reference conductor to a tempera- 
+ture 40°C above the ambient temperature. The 
+current shall then be interrupted and the 
+reference conductor shall be allowed to cool 
+to within 5°C above the ambient temperature. 
+This sequence of operations shall be repeated 
+so that 250 cycles of heating and cooling are 
+applied. The fitting shall not be tightened or 
+adjusted during the test. 
+
+During the last five cycles the maximum tem- 
+perature, measured when the test current is 
+flowing, at any point of the surface of the 
+fitting, shall not exceed that of the hottest 
+conductor. At the end of the test the resis- 
+tances shall again be measured and shall not 
+exceed 110 percent of the initial values. The 
+fitting shall afterwards be opened and there 
+shall be no sign of local heating, burning or 
+fusing of any part of the fitting or of the 
+conductor, as a result of the test. 
+
+12.1.2.2 Test current for joints to which a rated 
+current has been assigned 
+
+The test current for joints to which a rated 
+current has been assigned by the manufacturer 
+shall be rated current multiplied by ^/'i '. 
+
+ll.l.lJi Test current for joints to which no rated 
+current has been assigned 
+
+For joints to which no rated current has been 
+assigned by the manufacturer, the test current 
+shall be that power frequency current which 
+raises the surface temperature of the reference 
+conductor 40°C above the ambient temperature 
+and maintains the temperature at a steady 
+value. 
+
+12.1.3 Insulation String Fittings and Suspension 
+Clamps 
+
+No electrical type test is recommended. 
+
+13 MARKING 
+
+13.1 The caps and clamps shall have marked 
+on them the following: 
+
+
+
+IS 2486 (Part 1):1993 
+
+
+
+a) Name and trade-mark of the 
+manufacturer, 
+
+b) Year, of manufacture, and 
+
+c) Country of manufacture. 
+
+13.1.1 The packages containing fittings may 
+also be marked with the Standard Mark. 
+
+NOTE — The use of the Standard Mark is governed 
+by the provisions of the Bureau of Indian Standards 
+Act, 1986 and the rules and regulations made 
+thereunder. The Standard Mark, on products 
+covered by an Indian Standard conveys the 
+assurance that they have been produced to 
+comply with the requirements of that standard 
+under a well defined system of inspection, testing 
+and quality control which is devised and supervised 
+by BIS and operated by the producer. Standard 
+marked products are also continuously checked by 
+
+
+
+BIS for conformity to that standard as a further 
+safeguard. Details of conditions under which a 
+licence for the use of the Standard Mark may be 
+granted to manufacturers or producers may be 
+obtained from the Bureau of Indian Standards. 
+
+14 PACKING 
+
+For packing, wooden cases shall be employed. 
+The packing shall be fit to withstand rough 
+handling during transit and storage at desti- 
+nation. The heads and threaded portions of 
+pins and the fittings shall be properly protected 
+against damage. The gross weight of the 
+packing shall not normally exceed 50 kg. 
+DiflFerent fittings shall be packed in different 
+cases and shall be completed with their minor 
+accessories fitted in place. All nuts shall be 
+hand-tightened over the bolts and screwed up 
+to the farthest points. 
+
+
+
+ANNEX A 
+( Clause 2 ) 
+
+LIST OF REFERRED INDIAN STANDARDS 
+
+
+
+75" No. Title 
+
+209 : 1979 Specification for zinc ( third 
+
+revision ) 
+
+226 : 1975 Structural steel ( standard 
+
+quality ) ( fifth revision ) 
+
+410 : 1977 Specification for cold rolled 
+
+brass sheet, strip and foil 
+( third revision ) 
+
+1367 Technical supply conditions 
+
+( Part 1 ) : 1980 for threaded steel fasteners : 
+
+Part 1 Introduction and 
+
+general information ( second 
+
+revision ) 
+
+1367 Mechanical properties and 
+
+( Part 6 ) : 1979 test methods for nuts with 
+specified proof loads ( second 
+revision ) 
+
+1570 Schedules for wrought steels : 
+
+( Part 2 ) ; 1979 Part 2 Carbon steels unalloyed 
+steels (first revision ) 
+
+1573 : 1986 Electroplated coatings of 
+
+zinc on iron and steel (second 
+revision ) 
+
+1865 : 1974 lion castings with spheroidal 
+
+or nodular graphite ( second 
+revision ) 
+
+
+
+IS No. 
+1875 : 1978 
+
+2004 : 1978 
+
+2107 : 1977 
+
+2108 : 1977 
+
+2121 
+( Part 1 ) 
+
+
+
+1981 
+
+
+
+2121 
+( Part 2 ) 
+
+
+
+1981 
+
+
+
+Title 
+
+
+
+Carbon steel billets, blooms, 
+slabs and bars for forging^ 
+( second revision ) 
+
+Carbon steel forgings for 
+general engineering purposes 
+{ second revision ) 
+
+Whiteheart malleable iron 
+castings ( first revision ) 
+
+Blackheart — malleable iron 
+castings ( first revision ) 
+
+Conductors and earth wire 
+accessories for overhead 
+power lines : Part 1 Armour 
+rods, binding wires and tapes 
+for conductors (first revision ) 
+
+Conductors and earth wire 
+accessories for overhead 
+power lines : Part 2 Mid- 
+span joints and repair sleeves 
+for conductors ( first revision ) 
+
+
+
+2486 Insulator fittings for overhead 
+
+( Part 2 ) : 1989 power lines with nominal 
+voltage greater than 1 000 V: 
+Part 2 Dimensional require- 
+ments ( first revision ) 
+
+
+
+10 
+
+
+
+IS 2486 ( Part 1 ) : 1993 
+
+
+
+IS No. 
+
+
+
+Title 
+
+
+
+2486 Insulator fittings for overhead 
+
+( Part 3 ) : 1974 power lines with nominal 
+voltage greater than 1 000 V : 
+Part 3 Locking devices 
+
+2629 : 1966 Recommended practice for 
+
+hot-dip galvanizing of iron 
+and steel 
+
+2633 : 1986 Method of testing uniformity 
+
+of coatings on zinc coated 
+articles ( second revision ) 
+
+4759 : 1984 Hot-dip zinc coatings on 
+
+structural steel and other 
+allied products ( second 
+revision ) 
+
+4905 : 1968 Methods for random sampling 
+
+
+
+IS No. Title 
+
+5082 : 1981 Wrought aluminium and 
+
+aluminium alloy bars, rods, 
+tubes and sections for electri- 
+cal purposes {first revision ) 
+
+5522 : 1992 Stainless steel for utensils 
+
+sheets and strips ( second 
+revision ) 
+
+5561 : 1971 Electric power connector 
+
+6051 : 1970 Code for designation of 
+
+aluminium and its alloys 
+
+6603 : 1972 Stainless steel bars and flats 
+
+7814 : 1975 Phosphor bronze sheet, strip 
+
+and foil 
+
+
+
+ANNEX B 
+
+( Clause 12 ) 
+SAMPLE SIZE AND CRITERIA FOR CONFORMITY 
+
+
+
+B-1 SAMPLING 
+B-1.1 Lot 
+
+All insulator fittings of same type and design 
+manufactured under similar conditions of 
+production, offered for acceptance. A lot may 
+consist of the whole or part of the quantity 
+offered. 
+
+B-1.2 The number of fittings to be selected at 
+random from the lot shall be in accordance 
+Avith col 1 and col 2 of Table 1. If required 
+{ see B-2 ) additional insulator fittings as given 
+in col 3 of Table 1 shall also be selected at 
+random. In order to ensure the randomness 
+•of selection, random number tables shall be 
+used {see IS 4905: 1968). 
+
+B-2 CRITERIA FOR CONFORMITY 
+
+Each of the insulator fittings selected in the 
+first stage in accordance with col 1 and col 2 of 
+Table 1 shall be subjected to all acceptance 
+tests. A fitting shall be declared defective if 
+it fails in any of these tests. The lot shall be 
+considered as conforming to the requirements 
+of acceptance tests if the number of defectives 
+in the sample is less than or equal to corres- 
+
+
+
+Table 1 Sample 
+
+
+Size and Criteria 
+
+
+
+
+for Conformity 
+
+
+
+
+
+
+
+
+( Clauses B- 
+
+
+1. 2 and B-2) 
+
+
+
+
+
+
+Lot Size Samite Size 
+
+a 
+
+
+a 
+
+
+ri 
+
+
+•"» 
+
+
+'ist 
+
+
+2n<| 
+
+
+
+
+
+
+
+
+Stage 
+
+
+stage 
+
+
+
+
+
+
+
+
+(1) (2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+101 to 500 5 
+
+
+5 
+
+
+
+
+
+2 
+
+
+2 
+
+
+501 to 1 000 8 
+
+
+8 
+
+
+
+
+
+2 
+
+
+2 
+
+
+1 001 to 3 000 13 
+
+
+13 
+
+
+
+
+
+2 
+
+
+2 
+
+
+3 001 to 10 000 20 
+
+
+20 
+
+
+
+
+
+3 
+
+
+4 
+
+
+10 001 to 35 000 32 
+
+
+32 
+
+
+1 
+
+
+4 
+
+
+5 
+
+
+35 001 and above 50 
+
+
+50 
+
+
+2 
+
+
+5 
+
+
+7 
+
+
+
+ponding acceptance number ( see col 4 ). The 
+lot shall be rejected if the number of defectives 
+is equal to or greater than first rejection, r^ 
+( see col 5 ). If the number of defectives are 
+in between 'a* and r^ a second sample of same 
+size ( see col 3 ) shall be selected from the lot 
+at random and subjected to the tests. If the 
+number of defectives in the two samples com- 
+bined is less than r^ ( see col 6 ), the lot shall 
+be considered as conforming to the require- 
+ments of acceptance tests, otherwise the lot 
+shall be rejected. 
+
+
+
+11 
+
+
+
+standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark 
+on products covered by an Indian Standard conveys the assurance that they have been 
+produced to comply with the requirements of that standard under a well defined system 
+of inspection, testmg and quality control which is devised and supervised by BIS and 
+operated by the producer. Standard marked products are also continuously checked by 
+BIS for conformity to that standard as a further safeguard. Details of conditions under 
+which a licence for the use of the Standard Mark may be granted to manufacturers or 
+producers may be obtained from the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Slandaids 
+
+BIS is a statutory institution established under the Bureau of Indian Stanaards Act, 1986 to 
+promote harmonious development of the activities of standardization, mariting and quality 
+certification of goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced 
+in any form without the prior permission in writing of BIS. This does not preclude the free use, 
+in the course of implementing the standard, of necessary details, such as symbols and sizes, type 
+or gvaile designations. Enquiries relating to copyright be addressed to the Director 
+( Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basig of comments. Standards 
+are also reviewed periodically; a standard along wiih amendments is realfirmed when such review 
+indicates that no changes are needed; if the review indicates that changes are needed, it is taken 
+up for revision. Users of Indian Standards should ascertain that they are in possession of the 
+latest amendments or edition by referring to the latest issue of 'BIS Handbook and 'Standards 
+Monthly Additions', Comments on this Indian Standard may be sent to BIS giving the following 
+reference: 
+
+Doc : No. ET06 (3158) 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters; 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+Telephones : 331 01 31. 33113 75 
+
+
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. 1. T. Scheme Vll M, V. 1. P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 
+
+Southern : C. I. T. Campus. IV Cross Road, MADRAS 6001 13 
+
+Western : Manakalaya, E9 MIDC, Marol. Andheri ( East ) 
+BOMBAY 400093 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GLWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+Telegrams : Manaksanstha 
+( Common to all Offices ) 
+
+Telephone 
+
+;33l 01 31 
+^331 13 75 
+
+J37 84 99, 37 85 61 
+{37 86 26, 37 86 62 
+
+t53 38 43, 53 16 40 
+I 53 23 84 
+
+J 235 02 16, 235 04 42 
+J235 15 19, 235 23 15 
+
+(632 92 95, 632 78 58 
+1632 78 91, 632 78 92 
+
+
+
+Printed at Printwell Printers, Aligarh, India 
+
+
+

@@ -1,0 +1,855 @@
+**************** 
+
+
+
+*■ fe^K 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 2090 (1983) : high tensile steel bars used in prestressed 
+concrete [CED 54: Concrete Reinforcement] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+?TR TJ^ ^TT teMHI | ^t ^Wt ^^PTT ^f ^TT ^T^?TT \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 2090 - 1983 
+
+Indian Standard (Reaffirmed 2009) 
+
+SPECIFICATION FOR 
+
+HIGH TENSILE STEEL BARS USED IN 
+
+PRESTRESSED CONCRETE 
+
+(First Revision) 
+
+
+
+Second Reprint SEPTEMBER 1993 
+UDC 669.14.018.295-422:666.982.4 
+
+
+
+(c) Copyright 1983 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr 3 May 1983 
+
+
+
+IS 12090-1983 
+
+(Reafllcmed 1999) 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+HIGH TENSILE STEEL BARS USED IN 
+
+PRESTRESSED CONCRETE 
+
+
+
+(First Revision) 
+
+
+
+Joint Sectional Committee for Concrete Reinforcement, BSMDC 8 
+
+Chairman Rtprtstnting 
+
+Sum G. S. Rao Central Public Works Department 
+
+Mtmbtrs 
+
+Superintending Enoinkhr 
+( CDO ) ( Alttmatt to 
+Sm ui G. S. Rao ) 
+Dr J. L. Ajmani The Tata Iron & Steel Co Ltd, Jamthedpur 
+
+Shki A. N. Mitra ( Alttmatt ) 
+Dk Avir. Kumar Cement Research Institute of India, New Delhi 
+
+Sjihi E. T. Antia The Concrete Association of India, Bombay 
+
+Shri P. Srinxvasak ( Alttmatt ) 
+Shri S. Bankrjkk Steel Re-Rolling Mills Association of India, Calcutta 
+
+Sjiri S. N. C hand a Metallurgical and Engineering Consultants ( India ) 
+
+Ltd, Ranchi 
+Shri R. D. Choudhary ( Alttmatt ) , 
+
+Chibf Enoinxxr ( D & R ) Irrigation Department, Government of Punjab, 
+
+Chandigarh 
+Director ( C D ) ( Alttmatt ) 
+Dkfuty DtRVCTOu, STANDARDS Research, Designs & Standards Organization 
+( I) & S )-I < Ministry of Railways), Lucknow 
+
+Assistant Dirsotor, Stan* 
+dards ( B & S )-II ( Alttmatt ) 
+Shri D. I. Deb ax Gammon India Ltd, Bombay 
+
+Shri A. L. Bhatia ( Alttmatt ) 
+Smu M. R. Doctor Special Steels Ltd, Bombay 
+
+Shri S. G. Joshx ( AlUmaU ) 
+Shri Zacharia Gkorob Structural Engineering Research Centre ( CSIR), 
+
+Madras 
+Shri G. V. Suryaxumar ( Alttmatt ) 
+Shri V. K. Ghanbkab Structural Engineering Research Centre ( CSIR ), 
+
+Roorkee 
+Shri D. S. Praxash Rao ( Alttmatt ) 
+
+(Continutdonpagt2) 
+
+
+
+<g> Cfprifht 1983 
+BUREAU OP INDIAN STANDARDS 
+
+This publication is protected under the Mian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by anv means except with written permission of the 
+publisher shall be deemed to be sn infringement of copyright under the said Act. 
+
+
+
+IS 12090-1983 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri V. Gulati Heatly & Gresham (India ) Ltd, New Delhi 
+
+Shri P. K. Guptb National Metallurgical Laboratory ( CSIR }, 
+
+Jamshedpur 
+Sbbi N. C. Jain Stup Consultants Ltd, Bombay 
+
+Shri M. G. Tandon ( Alternate ) 
+Shri M. P. Jasuja Research & Development Centre for Iron and Steel 
+
+( SAIL ). Ranchi 
+Shri A. Jayaoopal Engineer-in-Chief 's Branch, Army Headquarters 
+
+Maj R. CiiandrasrkharaN ( Alternate ) 
+Shri S. Y Khan Killick Nixon Ltd, Bombay 
+
+Shri P. S. Vbnxat ( Alternate ) 
+Shri M. N. Khanna Bhilai Steel Plant ( SAIL ), Bhilai 
+
+Shri C: Dasgupta ( Alternate ) 
+Shri H. N. Krishna Murthy Tor Steel Research Foundation in India, Calcutta 
+
+Dr C. S. Vkwanatha ( Alternate*) 
+Shri S. N. Manohab. Tata Consulting Engineers, Bombay 
+
+Shri N. Naoara j ( Alternate ) 
+Shri R. K. Mathub Public Works Department, Lucknow 
+
+Shri S. N. Pal M. N. Dastur & Co (P) Ltd, Calcutta 
+
+Shri Salil Roy ( Alternate ) 
+Shri B. K. Panthaky Hindustan Construction Co Ltd, Bombay 
+
+Sbbi P. V. Naik ( Alternate ) 
+Shri T. Sfn IRC Steels Ltd, Calcutta 
+
+Shri M. V. Shastry Roads Wing ( Ministry of Shipping and Transport ) 
+
+Shri Shirwh H. Shah Tensile Steel Ltd, Bombay 
+
+Shri M. S. Pathak ( Alternate ) 
+Shri C. N. Srinivasan C. R. Narayana Rao, Madras 
+
+Shri C. N. Raohavxndran (Alternate ) 
+Sbbi K. S. Srinivasan National Buildings Organization, New Delhi 
+
+Shri A. K. Lal ( Alternate ) 
+Shri G. Raman, Director General, BIS ( Ex-officio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shri M. N. Njqblakandhan 
+Assistant Director ( Civ Engg ), ISl 
+
+
+
+AMENOMEMT NO. 1 JULY 1988 
+
+TO 
+
+IS: 2090-1983 SPECIFICATION FOR HIGH TENSILE 
+STEEL BARS USED IN PRESTRESSED CONCRETE 
+
+(First Revision ) 
+
+(Page 4, clause 3.2, third sentence ) 
+Substitute the following for the existing matter: 
+
+'Unless otherwise agreed between the purchaser and 
+the manufacturer or supplier the bars shall not 
+carry on its surface lubricants, rust or other 
+matter to a degree likely to impair its adhesion to 
+concrete, 9 
+
+(BSMDC 8) Reprography Unit, BIS, New Delhi. India 
+
+
+
+ISt2090-198S 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+HIGH TENSILE STEEL BARS USED IN 
+
+PRESTRESSED CONCRETE 
+
+( First Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( First Revision ) was adopted by the Indian 
+Standards Institution on 14 March 1983, after the draft finalized by the 
+Joint Sectional Committee for Concrete Reinforcement had been 
+approved by the Civil Engineering Division Council. 
+
+0.2 This standard was first published in 1962 to cover the requirements 
+of high tensile steel bars used in prestressed concrete. The present 
+revision has been taken up with a view to incorporating modifications 
+found necessary as a result of experience gained in using this standard 
+both by manufacturers and users. 
+
+0.3 In this revision, modifications have been incorporated in provisions 
+relating to tolerances, proof stress and relaxation test. The requirement 
+of young's modulus has been deleted. Further S.I. units have been 
+adopted for specifying the various physical requirements in the standard 
+and references to various other Indian Sandards appearing in this 
+standard have been updated. 
+
+0.4 In the formulation of this standard, due weightage has been given to 
+international co-ordination among the standard and practices prevailing 
+in different countries in addition to relating it to the practices in the field 
+in this country. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in accord- 
+ance with IS : 2*1960*. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in 
+this standard. 
+
+
+
+•Rules for rounding off numerical values ( rwiM ). 
+
+3 
+
+
+
+18 t 2090 - 1983 
+
+1. SCOPE 
+
+1.1 This standard covers the requirements for high tensile steel bars used 
+in prestressed concrete. 
+
+% TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions shall 
+apply. 
+
+2.1 Bar — A rolled rod or bar of steel of circular cross-section. 
+
+2.2 Elongation — The increase in length of a tensile test specimen under 
+stress. The elongation at fracture is conventionally expressed as a 
+percentage of the original gauge length of the standard test specimen. 
+
+2.3 High Tensile Steel — Alloy steel having a tensile strength of not 
+less than 980 N/mm 2 . 
+
+2.4 Nominal Size — The dimension of the diameter of the bar. 
+
+2.5 Proof Stress — The stress which produces a residual strain 
+of 0*2 percent of the original gauge length ( non-proportional elongation ). 
+
+2.6 Tensile Strength — The maximum load reached in a tensile test 
+divided by the original cross-sectional area of the gauge length portion 
+of the test specimen. 
+
+3. MANUFACTURE AND CHEMICAL COMPOSITION 
+
+3.1 The steel shall be manufactured by the open-hearth, electric, duplex, 
+acid bessem er, basic oxygen ( LD ) process or a combination of these 
+processes with the addition of necessary alloying elements. In case any 
+other process is employed in the manufacture, prior approval of the 
+purchaser shall be obtained. The steel shall be hot rolled into bars and 
+subsequently processed to give the required physical properties. Whore 
+the bars are threaded the thread shall be either cut or rolled. Threaded 
+ends shall be protected from corrosion and damage. 
+
+3.1.1 The ladle analysis of steel when made in accordance with the 
+relevant parts of IS : 228* shall show that steel contains not more than 
+0*050 percent of sulphur and not more than 0050 percent of 
+phosphorus. 
+
+3.2 All finished bars shall be cleanly rolled to specified dimensions. 
+They shall be sound and free from splits, harmful surface flaws, rough, 
+jagged and imperfect edges; and other defects. Unless otherwise agreed 
+between the purchaser and the manufacturer, they shall not carry rust 
+or other matter to a degree likely to impair their adhesion in concrete. 
+
+• Method* for chemical analysis of steels (. second revision ) ( being issued in parti ). 
+
+4 
+
+
+
+ISi20M-ltt3 
+
+4 NOMINAL SIZES 
+
+41 Bars shall be manufactured in the following nominal sixes: 
+10, 12, 16, 20, 22, 25, 28 and 32 mm. 
+
+S. TOLERANCES 
+
+5.1 Nominal Sine — The tolerance on the nominal size shall be 
+± 0*5 mm for bars up to and including 25 mm and ± 0*6 mm for bars 
+above 25 mm, 
+
+54 Magg — The tolerance on the mass of the finished bar shall be 
+ds 5 percent for bars of diameter up to and including 16 mm and ± 3 
+percent for bars above 16 mm. 
+
+Now — When ban an ordered by maa, the ma« of the ban ihall be calculated 
+on the baib that high temile steal weight 0*785 kg /cm 9 of Croat-sectional area per 
+i run. 
+
+
+
+S3 When necessary, other tolerances may be agreed between the 
+purchaser and the manufacturer. 
+
+f. PHYSICAL REQUIREMENTS 
+
+S.1 The tensile strength, proof stress and alongation, when determined 
+in accordance with 7*2.2 shall be as given in Table 1. 
+
+TABUS 1 MIOHANIOAL PKOFISITIIi OF &UIU 
+
+(CUtutB.l) 
+
+QaABAonaxano Kwqxnwnaan 
+
+Teaeile ttreagth, Mi* 980 N/nim* 
+
+
+
+Proof atreei Not lev than 80 percent of the 
+
+minimum specified tensile 
+
+
+
+Elongation at rupture oa a gauge 10 percent 
+
+length 3-85 VA, Mk (where 
+A it the area of cr oai t e ct lon ) 
+
+
+
+6L2 Relaxation — The relaxation of stress in the bar, when tested in 
+accordance with 73, shall not exceed 49 N/mm ft at the end of 1 000 hours. 
+Alternatively! the manufacturer shall provide proof that the quality of 
+bar supplied is such as to comply with this test requirement. 
+
+7* TESTS 
+
+7.1 Selection off Teat Specimens 
+
+7.1.1 All test specimens shall be of sufficient length for the specified 
+tests and may be cut either from the ends of the bars before cutting to 
+
+5 
+
+
+
+IS 1 2090 • 1983 
+
+finished lengths or from any part of the bar in the pretence of the 
+purchaser or his authorized representative, 
+
+7.1.2 Before the specimens are selected, the manufacturer or supplier 
+shall furnish the purchaser or his authorized representative with copies 
+of mill records giving the number of bars in each cast with sizes, marks, 
+etc, whereby the bars can be identified. 
+
+7.2 TenailaTeet 
+
+7.2*1 The test specimens shall not be annealed or otherwise subjected 
+to heat treatment unless the bars from which they are cut are similarly 
+treated in which case the specimen shall be similarly and simultaneously 
+treated with the bars before testing, 
+
+7.2.2 The tensile strength, proof stress and elongation shall be 
+determined in accordance with the methods specified in IS : 1608- 
+1972*. 
+
+Notb — In ceies where the manufacturing procetf includes cold working, test to 
+determine compliance with proof itrett requirement! need not be made within 48 
+houn of such cold working. 
+
+7 .3 Constant Strain Relaxation Teat — If required by the purchaser, 
+the manufacturer shall provide evidence from records of tests of similar 
+bars that the relaxation of stress from an initial stress of 70 percent of the 
+specified minimum tensile strength conforms to that specified in 6.2. 
+During the whole period of test the temperature shall be maintained at 
+20 * 2°C. The initial load shall be applied in a period .of not more 
+than S minutes and shall then be held constant for a further period of 
+one minute. Thereafter no adjustment of load shall be made, and the 
+load relaxation readings shall commence from the end of sixth minute. 
+On no account shall the test piece be overstressed. The number of 
+specimens tested shall be as agreed between the purchaser and the 
+manufacturer. 
+
+8. SAMPLING AND CRITERIA FOR CONFORMITY 
+8.1 Scale of Sampling 
+
+8.1.1 Lot — In any consignment, all the high tensile steel bars of the 
+same size and manufactured from the same cast shall be grouped together 
+to constitute a lot. 
+
+8.1.2 The number of bars to be selected at random from the lot shall 
+depend upon the size of the lot and shall be in accordance with col 1 
+and col 2 of Table 2. 
+
+
+
+'Method for tensile testing of steel products ( first rnitian ). 
+
+6 
+
+
+
+IS 1 2090- 1983 
+
+
+
+TABLE 2 
+
+
+SIZE OF THE SAMPLE AND SUB-SAMPLE 
+
+
+
+
+(Clauses 8.1.2 and 8.2.3) 
+
+
+
+
+
+
+Lot Size 
+
+
+Siz* or Sample 
+
+
+Size 
+
+
+of Sub-sample 
+
+
+(1) 
+
+
+(2) 
+
+
+
+
+(3) 
+
+
+Up to 50 
+
+
+5 
+
+
+
+
+2 
+
+
+51 to 100 
+
+
+10 
+
+
+
+
+2 
+
+
+101 to 200 
+
+
+15 
+
+
+
+
+2 
+
+
+201 to 300 
+
+
+20 
+
+
+
+
+3 
+
+
+301 to 500 
+
+
+30 
+
+
+
+
+3 
+
+
+501 and above 
+
+
+40 
+
+
+
+
+5 
+
+
+
+8.2 Number of Tests 
+
+8.2.1 AH the bars selected as in 8.1.2 shall be examined for freedom 
+from defects ( see 3.2 ) and tolerance on nominal size and mass 
+( S€$ 5 ). 
+
+8.2.2 Requisite material from any one of the bars in the lot shall be 
+subjected to chemical analysis ( see 3.1.1 ). 
+
+8*2.3 The number of bars to be subjected to the tensile test ( see 7.2 ) 
+shall be equal to the size of the sub-sample as given in col 3 of Table 2. 
+
+8.3 Criteria for Conformity 
+
+8.3.1 The lot shall be considered as conforming to the requirements of 
+this specification if the conditions mentioned in 8.3.2 to 8.3.5 are 
+satisfied. 
+
+8.3.2 The number of bars failing to satisfy one or more of the 
+requirements specified in 4 and 6 shall not exceed the corresponding 
+permissible number given below: 
+
+Permissible Number 
+
+
+
+Size of Sample 
+
+5 
+
+10 
+15 
+20 
+30 
+40 
+
+
+
+
+
+1 
+1 
+
+2 
+3 
+3 
+
+
+
+8.3.3 The results of chemical analysis for phosphorus and sulphur 
+content on the sample tested shall satisfy the requirements given under 
+
+
+
+IS 1 2090- 1983 
+
+3.1.1 If the test results for any of the characteristics fail to satisfy the 
+corresponding requirements, two more teits for that characteristic shall 
+be done and both these test results shall satisfy the requirements for that 
+characteristic, 
+
+8.3.4 For physical requirements except proof stress, the mean and the 
+range of the test results obtained for the various characteristic shall satisfy 
+the appropriate condition(s) given below: 
+
+'a) ( Mean 4- 06 Range ) shall be less than or equal to the maximum 
+specification limit. 
+
+b) ( Mean — 0*6 Range ) shall be greater than or equal to the 
+minimum specification limit. 
+
+8.3.5 For proof stress, all the test specimens shall satisfy the require- 
+ments of the characteristic. 
+
+9. DELIVERY, INSPECTION AND TESTING FACILITIES 
+
+9.1 Unless otherwise specified, general requirements relating to the 
+supply of material, inspection and testing shall conform to IS : 1387- 
+1967*. 
+
+9.2 No material shall be despatched from the manufacturers 9 or suppliers 9 
+premises prior to its being certified by the purchaser or hi* authorized 
+representative as having fulfilled the tests and requirements laid down in 
+this standard except where the bundle or coil containing the wire is 
+marked with the ISI Certification Mark. 
+
+9.3 The purchaser or his authorized representative shall be at liberty to 
+inspect and verify the steel maker's certificate of cast analysis at the 
+premises of the manufacturer or supplier; when the purchaser required 
+an actual analysis of finished material, this shall be made at a place 
+agreed to between the purchaser and the manufacturer or supplier. 
+
+9.4 Manufacturer Certificate — In the case of bars which have not 
+been inspected at the manufacturer's works, the manufacturer or supplier, 
+as the case may be, shall supply the purchaser or his authorized represen- 
+tative with the certificate stating the process of manufacture and test 
+sheets signed by the manufacturer giving the result of each mechanical 
+test applicable to the material, and the chemical composition if required. 
+Each test sheet shall indicate the number or identification mark to be 
+found on the material. 
+
+9.5 When test for relaxation is required to be carried out, the cost of 
+testing shall be borne by the purchaser. 
+
+♦General requirement! for the wpply of metallurgical materials {first rtvisum ). 
+
+8 
+
+
+
+IS: 2090 -1983 
+
+10. IDENTIFICATION AND MARKING 
+
+10.1 The bar manufacturer shall attach to every bundle a suitable metal 
+taq; which shall bear the manufacturer's name, the size of the bar, the 
+heat number of the cast from which the bars have been rolled and the 
+designation of the standard. All bars or bundles of bars shall be marked 
+in Mich a way that it is possible to trace all finished bars to the cast from 
+which I hey were made. 
+
+10.1.1 Each bar or the metal tag attached to every bundle of bars may 
+also be marked with the Standard Mark« 
+
+NOTE — The use of the Standard Mark is governed by the provisions of the 
+Bureau of Indian Standards Act, 1946 and the Rules and Regulations made there- 
+under. The Standard Mark on products covered by an Indian Standard conveys 
+the assurance that they have been produced to comply with the requirements of that 
+standard under a well defined system of inspection, testing and quality control 
+which is devised and supervised by BIS and operated by the producer. Standard 
+marked products are also continuously checked by BIS for conformity to that 
+standard as a further safeguard. Details of conditions under which a licence for 
+the use of the Standard Mark may be granted to manufacturers or producers may 
+be obtained from the Bureau of Indian Standards. 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg. NEW DELH1 1 10002 
+
+Telephones: 331 01 31. 331 13 76 Telegrams: Manaksanstha 
+
+( Common to all Offices) 
+
+Regional Offices: Telephone 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, (331 01 31 
+
+NEW DELHI 110002 {331 13 76 
+
+•Eastern : 1/1 4 C. I. T. Scheme VII M, V. I. P. Road. 36 24 99 
+
+Maniktola, CALCUTTA 700054 
+Northern : SCO 445-446, Sector 36-C. ( 218 43 
+
+CHANDIGARH 160036 3 16 41 
+
+f 41 24 42 
+Southern : C. I. T. Campus. MADRAS 6001 13 « 41 25 19 
+
+1 41 29 16 
+fWestem : Manakalaya, E9 MIDC, Marol, Andheri ( East ), 6 32 92 95 
+BOMBAY 400093 
+
+Branch Offices: 
+
+'Pushpak*. Nurmohamed Shaikh Marg, Khanpur, ( 2 63 48 
+
+AHMADABAD 380001 } 2 63 49 
+
+iPeenya Industrial Area 1st Stage, Bangalore Tumkur Road (38 49 55 
+
+BANGALORE 560058 J38 49 66 
+
+Gangotri Complex, 5th Floor, Bhadbhada Road, T. T. Nagar, 6 67 16 
+
+BHOPAL 462003 
+Plot No. 82/83. Lewis Road, BHUBANESHWAR 751002 5 36 27 
+
+63/6. Ward No. 29, R.G. Barua Road, 5th Byelane, 3 31 77 
+
+GUWAHATI 781003 
+5-8-56C L. N. Gupta Marg ( Nampally Station Road ). 23 1 83 
+
+HYDERABAD 500001 
+
+R1 4 Yudhister Marg. C Scheme. JAIPUR 302005 j 6 98 32 
+
+117/418 B Sarvodaya Nagar. KANPUR 208005 f |{ |?, £| 
+
+Patliputra Industrial Estate, PATNA 80001 3 6 23 05 
+
+T.C. No. 14/1421. University P.O.. Palayam /6 21 04 
+
+TRIVANDRUM 6 15035 \6 21 17 
+
+Inspection Offices ( With Sale Point ): 
+Pushpanjali. First Floor, 205-A West High Court Road. 2 51 71 
+
+Shankar Nagar Square, NAGPUR 440010 
+Institution of Engineers ( India ) Building, .1 332 Shivaji Nagar. 5 24 35 
+
+PUNE 411005 
+
+
+
+•Salee Office in Calcutta la at 5 Chowringhee Appronch. P. O. Princep 27 68 00 
+Straat. Calcutta 700072 
+
+tSalee OWIce in Bombay ia at Novalty Chambere, Grant Road, 89 66 28 
+Bombay 400007 
+
+{Sales Office in Bangalore ia at unity Building. Narasimharaja Square. 22 36 71 
+Bangalore 560002 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

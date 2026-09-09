@@ -1,0 +1,690 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 3170-1 (2006) : Internal Combustion Engines - Fuel 
+Injection Nozzles, Part 1: Injection Nozzles - Size f S f 
+^TED 2: Automotive Primemovers] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 3170 (Parti ) : 2006 
+ISO 2697: 1999 
+
+writer ww 
+
+/naf/a/7 Standard 
+
+INTERNAL COMBUSTION ENGINES — FUEL 
+INJECTION NOZZLES 
+
+PART 1 INJECTION NOZZLES — SIZE 'S* 
+
+/ Second Revision ) 
+
+
+
+ICS 43.060.40 
+
+
+
+© BIS 2006 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+February 2006 Price Group 3 
+
+
+
+Automotive Primemovers Transmission and Steering Systems and Internal Combustion Engines Sectional 
+Committee, TED 2 
+
+
+
+NATONAL FOREWORD 
+
+This Indian Standard ( Part 1 ) ( Second Revision ) which is identical with ISO 2697 : 1999 Diesel 
+engines — Fuel nozzles — Size "S" issued by the International Organization for Standardization 
+( ISO ) was adopted by the Bureau of Indian Standards on the recommendation of the Automotive 
+Primemovers Transmission and Steering Systems and Internal Combustion Engines Sectional Committee 
+and approval of the Transport Engineering Division Council. 
+
+In view of the emerging technological developments in the diesel engine manufacturing industry in the 
+country and also with the growing concern over the acceptability of the engines and their components in 
+the international market, it was decided to upgrade the contents of the standard that have a bearing on 
+the quality of the engines to the international level. The adoption of International Standards by dual 
+numbering system was considered as appropriate for the purpose and accordingly the corresponding 
+international Standards have been brought under the dual numbering system. 
+
+This standard was first published in 1 965 and revised in 1 997. The second revision of the standard has 
+been undertaken due to revision of base standard and to bring it in line with dimensional requirements 
+for certain category of injection nozzles used in diesel engines and their interchangeability in the corresponding 
+nozzle holders followed internationally. During the revision, the committee had examined and considered 
+the other International Standards relevant to the subject and agreed to bring them as parts of the 
+standard to make them more useful for the industry. 
+
+The following technical changes have been incorporated: 
+
+a) Scope has been modified and restricted to size 'S' fuel nozzles used in diesel engines. 
+
+b) Title has been modified: 
+
+1) Fuel injection nozzles to fuel nozzles. 
+
+2) Internal combustion engines to diesel engines. 
+
+c) Clause on normative references is elaborated. 
+
+d) Clause on field of application has been shifted under scope. 
+
+The text of the ISO Standard has been approved as suitable for publication as an Indian Standard 
+without deviations. Certain conventions are, however, not identical to those used in Indian Standards. 
+Attention is particularly drawn to the following: 
+
+a) Wherever the words 'International Standard' appear referring to this standard, they should be 
+read as 'Indian Standard'. 
+
+b) Comma ( , ) has been used as a decimal marker while in Indian Standards, the current practice 
+is to use a point ( . ) as the decimal marker. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final 
+value, observed or calculated, expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS 2 : 1960 'Rules for rounding off numerical values ( revised )\ The number of 
+significant places retained in the rounded off value should be the same as that of the specified value in 
+this standard. 
+
+
+
+IS 3170 (Parti): 2006 
+ISO 2697 : 1999 
+
+
+
+Indian Standard 
+
+INTERNAL COMBUSTION ENGINES — FUEL 
+INJECTION NOZZLES 
+
+PART1 INJECTION NOZZLES — SIZE'S 1 
+
+( Second Revision ) 
+
+
+
+1 Scope 
+
+This international Standard specifies the essential dimensional requirements for size "S" fuel nozzles used in diesel 
+engines. 
+
+These requirements allow the assembly and interchangeability of the nozzles in the corresponding nozzle holders. 
+
+This International Standard is applicable to size "S" nozzles, which comprise hole type, long-stem nozzles (types 
+A1 and A2) and pintle nozzles (type B). 
+
+NOTE Type A1 and type B nozzles are the preferred types. The non-preferred hole type, short-stem nozzle, type C, is 
+shown in annex A. 
+
+2 Normative references 
+
+The following normative documents contain provisions which, through reference in this text, constitute provisions of 
+this International Standard. For dated references, subsequent amendments to, or revisions of, any of these 
+publications do not apply. However, parties to agreements based on this International Standard are encouraged to 
+investigate the possibility of applying the most recent editions of the normative documents indicated below. For 
+undated references, the latest edition of the normative document referred to applies. Members of ISO and IEC 
+maintain registers of currently valid International Standards. 
+
+ISO 2699, Diesel engines — Flange-mounted fuel injectors, size "S"— Types 2, 3, 4, 5 and 6. 
+
+ISO 7026, Diesel engines — Screw-in injection nozzle holders, types 20, 21, 21.1 and 27 for pintle nozzle size "S", 
+type "B'\ 
+
+ISO 7030, Road vehicles — Screw-mounted injection nozzle holders, types 12, 13, 14, 15, 16, 17, 18 and 19. 
+
+
+
+IS 3170 (Parti): 2006 
+ISO 2697: 1999 
+
+
+
+3 Dimensions and tolerances 
+
+See Figures 1 and 2 and Table 1. 
+
+
+
+
+Key 
+
+1 Fuel feed groove 
+
+2 Injection holes 
+
+a The reference axis for the nozzle passes through the centre of the circle of diameter A 7: 
+
+b A fuel feed groove is necessary only on nozzles without dowel holes and on nozzles having multiple fuel feed holes. 
+
+c This dimension determines the distance between the reference plane YY' and the point of intersection of the axes of the 
+injection holes with the nozzle axis. 
+
+Figure 1 — Hole type, long-stem nozzle — Type A1 and Type A2 
+
+
+
+IS 3170 (Parti): 2006 
+ISO 2697 : 1999 
+
+
+
+
+Key 
+
+1 Fuel feed groove 
+
+a The reference axis for the nozzle passes through the centre of the circle of diameter A 2 . 
+
+*> A fuel feed groove is necessary only on nozzles without dowel holes and on nozzles having multiple fuel feed holes. 
+
+Figure 2 — Pintle nozzle — Type B 
+
+
+
+Table 1 
+
+
+
+Dimensions in millimetres 
+
+
+
+Nozzle type 
+
+
+Dimension 
+
+
+A 2 
+
+
+B 2 
+
+
+£ 
+
+
+C 
+
+
+D 
+
+
+T 
+
+
+R 
+
+
+A1 a 
+
+
+17 h11 
+
+
+9,2 max. b 
+
+
+8,9 min. 
+
+
+25 ° 
+
+
+26,5 % 
+
+
+15,5 *>' 5 
+
+
+0,6 max. 
+
+
+A2 
+
+
+3M$I 
+
+
+B 
+
+
+14c11 
+
+
+— 
+
+
+ft ° 
+8 -0,4 
+
+
+19±0,2 
+
+
+16,3 ^ 2 
+
+
+0,25 max. 
+
+
+a Preferred type 
+b B 2 > & 
+
+
+
+IS 3170 (Parti): 2006 
+ISO 2697: 1999 
+
+
+
+4 Assembly of nozzles in nozzle holders 
+
+4.1 Dimensions and tolerances of the nozzle cap nut 
+
+See Figure 3 and Table 2. 
+
+Ay 
+
+45° 
+
+
+
+
+a Chamfer or similar form 
+
+t> Undercut or radius within dimension V 
+
+c R~U 
+
+
+
+Figure 3 — Nozzle cap nut 
+Table 2 
+
+
+
+Dimensions in millimetres 
+
+
+
+Nozzle type 
+
+
+Dimension 
+
+
+M 
+
+
+*1 
+
+
+E 
+
+
+S 
+
+
+U 
+
+
+A1 and A2 
+
+
+17D13 
+
+
+1U -0,05 
+
+
+6 ' 2 -0.2 
+
+
+HS^ 3 
+
+
+0,4 max. 
+
+
+B 
+
+
+14,3 *f 
+
+
+15,0 ±0,1 
+
+
+0,2 max. 
+
+
+
+AJ2 Dimensions and tolerances of the assembly 
+
+The assembly dimensions and tolerances given in Figure 4 apply to nozzle types A1, A2 and B and to nozzle 
+holders of types 2 to 6 (ISO 2699), types 12 to 15 (ISO 7030) and types 20, 21 , 21 .1 and 27 (ISO 7026). 
+
+The dimensions of the nozzle holder dowels and the nozzle dowel holes, as well as the dimensions and tolerances 
+for their position, are necessary only if requested by the customer. 
+
+
+
+5 Other dimensions and specifications 
+
+Dimensions and requirements not specified in this International Standard are left to the discretion of the 
+
+manufacturer. 
+
+
+
+IS 3170 (Parti): 2006 
+ISO 2697: 1999 
+
+
+
+Dimensions in millimetres 
+
+
+
+2x03 -0,1 
+
+
+
+Key 
+
+1 
+2 
+3 
+4 
+5 
+6 
+
+
+
+Reference dowel 
+
+Fuel feed hole position 
+
+Nozzle holder body 
+
+Nozzle cap nut 
+
+Nozzle 
+
+Reference dowel hole 
+
+The angular tolerance between the 
+reference dowel and the locating device 
+which fixes the position of the nozzle holder 
+in the diesel engine is ±1°. Depending on 
+the design of the locating device, it may be 
+necessary to consider the axis of a hole in a 
+fixing flange, a fixing lug, or a fixing slot. 
+
+The angular tolerance between the 
+reference dowel hole and the injection holes 
+
+is±1°30\ 
+
+The reference axis of the nozzle holder shall 
+pass through the centre of the circle of 
+
+diameter W. 
+
+Dimension w not specified. 
+Optional: equivalent chamfer. 
+
+
+
+
+A-A 
+
+
+
+fy 0,07® 
+
+
+
+Figure 4 — Assembly 
+
+
+
+IS 3170 (Parti): 2006 
+ISO 2697 : 1999 
+
+
+
+Annex A 
+
+(normative) 
+
+Hole type, short-stem nozzle — Type C 
+
+
+
+The hole type, short-stem nozzle, type C, conforms to the requirements for nozzle type B except for the dimension 
+D shown in Figure A.1. 
+
+The cap nut used for fixing the type C nozzle shall be of the same type as that used for the type B nozzle (see A"). 
+
+Nozzle holders assembled with type C nozzles shall meet the requirements given in 4.2. 
+
+Dimensions in millimetres 
+
+
+
+T 
+
+
+
+itL 
+
+
+
+
+IT 
+
+
+
+a This dimension determines the distance between the reference plan YY' and the point of intersection of the axes of the 
+injection holes with the nozzle axis. 
+
+
+
+Figure A.1 — Hole type, short-stem nozzle — Type C 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1 986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of 
+goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any 
+form without the prior permission in writing of BIS. This does not preclude the free use, in the course 
+of implementing the standard, of necessary details, such as symbols and sizes, type or grade 
+designations. Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are 
+also reviewed periodically; a standard along with amendments is reaffirmed when such review 
+indicates that no changes are needed; if the review indicates that changes are needed, it is taken 
+up for revision. Users of Indian Standards should ascertain that they are in possession of the latest 
+amendments or edition by referring to the latest issue of 'BIS Catalogue' and 'Standards : Monthly 
+Additions'. 
+
+This Indian Standard has been developed from Doc : No. TED 2 ( 426 ). 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters: 
+
+
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10 002 
+Telephones ;2323 0131, 2323 3375, 2323 9402 Website : www.bis.org.in 
+
+Regional Offices : 
+
+
+
+Telephones 
+
+
+
+Central ; Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi 
+KOLKATA 700 054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160 022 
+
+Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600 113 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400 093 
+
+
+
+{ 
+
+
+
+23237617 
+2323 3841 
+
+
+
+J2337 8499, 2337 8561 
+12337 8626,2337 9120 
+
+f 260 3843 
+\ 260 9285 
+
+("2254 1216,2254 1442 
+\2254 2519,2254 2315 
+
+f 2832 9295, 2832 7858 
+12832 7891,2832 7892 
+
+
+
+Branches: AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT.THIRUVANANTMAPURAM. 
+VISAKHAPATNAM. 
+
+
+
+Printed at New India Printing Press, Khurja, India 
+
+
+

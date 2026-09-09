@@ -1,0 +1,3235 @@
+**************** 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 1566 (1982) : hard-drawn steel wire fabric for concrete 
+reinforcement [CED 54: Concrete Reinforcement] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+3 
+
+IS • 1566 • 1982 
+
+(Reaffirmed 2004) 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+HARD-DRAWN STEEL WIRE FABRIC FOR 
+
+CONCRETE REINFORCEMENT 
+
+{Second Revision) 
+
+
+
+Second Reprint MARCH 1992 
+
+
+
+UDC 669.14-426-124.3:666.982.24 
+
+
+
+© Copyright 1982 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DFLHI 110002 
+
+Gr 4 Juru 1982 
+
+
+
+IS : 1566 - 1982 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+HARD-DRAWN STEEL WIRE FABRIC FOR 
+
+CONCRETE REINFORCEMENT 
+
+
+
+( Second Revision ) 
+
+
+
+Joint Sectional Committee for Concrete Reinforcement, BSMDC 8 
+
+Chairman Representing 
+
+i-aijxi G. S. Rao Central Public Works Department, New Delhi 
+
+Members 
+SupBRiNTENDiNO ENGINEER ( CDO ) ( Alternate to 
+Shri G. S. Rao ) 
+DiiJ, L. Ajmani The Tata Iron & Steel Co Ltd, Jamshedpur 
+
+Shri A. N. Mitra ( Alternate ) 
+SiiRi S* Banerjee Steel Re-rolling Mills Association of India, Calcutta 
+
+Shri S. N. Ghanda Metallurgical and Engineering Consultants ( India ) 
+
+Ltd, Ranchi 
+Shri R. D. Choubhary ( Alternate ) 
+Chief Engineer ( D & R ) Irrigation Department, Government of Punjab, 
+
+Chandigarh 
+Director ( CD ) ( Alternate ) 
+Deputy Director, Standards Research, Designs & Standards Organization, 
+( B & S )-I Lucknow 
+
+Assistant Director, 
+Standards ( B & S )-II ( Alternate ) 
+Shri M. R. Doctor Special Steels Ltd, Bombay 
+
+Shri S. G. Joshi ( Alternate ) 
+Shri V. Gulati Heatly & Gresham ( India ) Ltd^ New Delhi 
+
+Shri P. K. Gtjpte National Metallurgical Laboratory ( CSIR ), 
+
+Jamshedpur 
+Shri N. C. Jain Stup Consultants Ltd, Bombay 
+
+Shri M. C. Tandon ( Alternate ) 
+Shri M. P. Jasuja Research & Development Centre for Iron & Steel 
+
+( Steel Authority of India Ltd ), Ranchi 
+Shri A. jAYAGOPAii Engineer-in-Chief's Branch, Army Headquarters, 
+
+New Delhi 
+Maj R, Chandrasekharan ( Alternate ) 
+Shri S. Y. Khan Killick Nixon Ltd, Bombay 
+
+Shri P. S. Venkat ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyngkt 1982 
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of ih ' 
+publisher shall be deemed to be an infringement of copyright under the said Act, 
+
+
+
+IS : 1566 - 1982 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri K, K. Khakna National Buildings Organization, New Delhi 
+
+Shbi K. S. Srinivasak ( Alternate ) 
+Shbi M. N. Khanna Bhilai Steel Plant, Bhilai 
+
+Shri C. Dasgttpta ( Alternate ) 
+Shri S. N. Makohar Tata Consulting Engineers, Bombay 
+
+Shri N. Naqaraj ( Alternate ) 
+Shri R. K. Mathub Public Works Department, Lucknow 
+
+&HRT Y, K. Mehta The Concrete Association of India, Bombay 
+
+Shri E. T. JKntia ( Alternate ) 
+Dr p. K. Mohanty Tor Steel Research Foundation in India, Calcutta 
+
+Dr Ing. p. K. Banerjbe ( Alternate ) 
+Shri A. D. Narain Roads Wing, Ministry of Shipping and Transport 
+
+Dr V. P. Narayanaswamy Structural Engineering Research Centre ( CSIR 
+
+Roorkee 
+
+SHRt Z. George ( Alternate ) 
+Shri S. N. Pal M. N. Dastur & Co (P) Ltd, Calcutta 
+
+Shri Saltl Roy ( Alternate ) 
+Shri B. IC. Panthaky Hindustan Construction Co Ltd, Bombay 
+
+Shri P. V. Naik ( Alternate ) 
+Dr G. p. Saha Gammon India Ltd, Bombay 
+
+Shri A. Q, Roy ( Alternate ) 
+Shri T. Sen IRC Steels Ltd, Calcutta 
+
+Shbi Shirish H. Shah Tensile Steel Ltd, Bombay 
+
+Shri M. S. Pathak ( Alternate ) 
+Shri C. N. Srinivasan G. R, Narayana Rao, Madras 
+
+Shri C, N. Raghavendban ( Alternate ) 
+Shri S. Subramanian Cement Research Institute of India, New Delhi 
+
+Shut Anil Kumar ( Alternate ) 
+Shri G. Raman, Director General,, BIS ( Ex-officio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shbi M. N. Ndelakandhan 
+Assistant Director ( Civ Engg ), BIS 
+
+
+
+IS : 1566 - 1982 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+HARD-DRAWN STlEEL WIRE FABRIC FOR 
+
+CONCRETE REINFORCEMENT 
+
+
+
+( Second Revision ) 
+
+
+
+0. FOREWORD 
+
+p.l This Indian Standard (Second Revision ) was adopted by the Indian 
+Standards Institution on 15 March 1982, after the draft finalized by the 
+Joint Sectional Committee for Concrete Reinforcement had been 
+approved by the Civil Engineering Division Council and the Structural 
+and Metals Division CounciL 
+
+0.2 This standard was first published in 1960 and subsequently revised 
+in 1967. The present revision has been taken up with a view to 
+modifying the earlier provisions in the light of experience gained during 
+the use of this standard by both the manufacturers and the users. 
+
+013 This standard adopts SI units in specifying the various physical 
+requirements. Further, certain provisions of the standard have been 
+revised based on the latest Indian Standards on methods of physical and 
+chemical tests for steeh 
+
+©•4 In the formulation of this standard due weightage has been given to 
+international coordination among the standards and practices prevailing 
+in different countries ip addition to relating it to the practices in thfe 
+field in this country. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in accord- 
+ance with IS : 2-1960*. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in this 
+standard. 
+
+
+
+♦Rules for rounding off numerical values ( revised ). 
+
+3 
+
+
+
+IS : 1566 - 1982 
+
+1. SCOPE 
+
+1,1 This standard covers the requirements for hard-drawn steel wire 
+fabric consisting of hard-drawn steel wire with cross wires electrically 
+welded to them for use as concrete reinforcement. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions shall 
+apply. 
+
+2.1 Elongation — The increase in length of a tensile test piece under 
+stress. The elongation after fracture is conventionally expressed as a 
+percentage of the original gauge length of a standard test piece. 
+
+2.2 Mesh Size — The pitch or centre to centre distance of main wires 
+by the pitch or centre to centre distance of cross wires. 
+
+2.3 Proof Stress — The stress which is just sufficient to produce, under 
+load, a permanent deformation equal to a specified percentage of the 
+original gauge length. 
+
+2.4 Ultimate Tensile Stress — The maximum load reached in a 
+tensile test piece divided by the original cross-sectional area of the gauge 
+length portion of the test piece, 
+
+3. TYPES 
+
+3.1 Hard-drawn steel wire fabric shall be of the following two types: 
+
+a) Oblong mesh, and 
+
+b) Square mesh. 
+
+3^2 The fabric may be designated for ordering purposes by the number 
+of this standard and the reference number given in first column of 
+Appendix A, alternately a complete description of the fabric may be 
+given. 
+
+When denoting the size of sheet or roll of oblong mesh fabric, the 
+first dimension shall be the length of the main wires. 
+
+
+
+Example : 
+
+
+
+Hard-drawn steel wire fabric to IS : 1566, reference 
+number 5, 50 sheets, 5 m x 2 m. 
+
+
+
+IS : 1566 - 1982 
+
+4. MATERIAL 
+
+4.1 Q^uality of Steel — The wire used in the manufacture of fabric 
+shall be hard-drawn steel wire conforming, in all respects, to the 
+requirements of IS : 432 ( Part II )-1982* and suitable for welding. When 
+so requested by the purchaser, the manufacturer or the supplier shall 
+supply certificates to this effect. 
+
+5. MANUFACTURE 
+
+5.1 The fabric shall be formed by spacing the main and the cross wires, 
+which shall be fixed at their point? of intersection by electric welding, so 
+as lo be sufficiently stable to withst nd normal handling in transport and 
+during concreting, without displacement beyond the limits specified. It 
+shall be fabricated and finished i i a workmanlike manner which will 
+assure accurate spacing and alignment of all members of the finished 
+fabric to give substantial square or reciangular openings. 
+
+5.1.1 Butt joints in the wires of the ''abric shall be electrically welded 
+and the joints shall be staggered. 
+
+6. DIMENSIONS 
+
+6.1 Mesh sizes, weight and sizes of wires for square and oblong welded 
+^ire fabric shall be as agreed to between the purchaser and the 
+manufacturer. 
+
+Note — The mesh sizes, weights and sizes of wires for square as well as oblong 
+welded wire fabric being commonly manufactured in the country are given in 
+Appendix A for information. 
+
+7. SIZES OF SHEETS OR ROLLS 
+
+7.1 The width of the sheet or roll shall be such as to fit in with the 
+modular size of 10 cm module and the length of the sheet or roll shall be 
+that which is mutually agreed to between the manufacturer and the 
+purchaser subject to the tolerances specified :n 9. 
+
+7.1.1 The width of the fabric shall be considered end to end distance 
+between outside longitudinal wires, unless otherwise specified. Transverse 
+wire shall project beyond the centre line of each longitudinal edge wire 
+for a distance equal to half the pitch of the main wires, unless otherwise 
+specified. 
+
+8. MASS 
+
+8.1 Calculation of Mass — The nominal mass of fabric shall be 
+calculated on the basis that steel weighs 0785 kg/cm^ of nominal cross- 
+sectional area per metre run. 
+
+^Specification far mild steel and medium tensile steel bars and hard-drawn steel Vfir^ 
+for concrete reinforcement : Part II Hard-drawn steel wire ( third revision ). 
+
+
+
+IS : 1566 - 1982 
+
+8.2 The actual mass of the fabric shall be determined by weighing a 
+sheet or sheets of any convenient size, and if possible at least one square 
+metre, with the edges trimmed so that the longitudinal wires protrude by 
+a distance jequal to half the distance between the cross wires, and the cross 
+wires produce a distahce equal to half the distance between the 
+longitudinal wires. 
+
+9. TOLERANCES 
+
+9.1 Subject to the tolerances on wire diameter specified in IS : 432 
+( Part II )-1982*, the tolerances shall be as in 9*2 to 9A. 
+
+9.2 Tolerance on Size of Mesh — The number of spaces between the 
+external wires in a sheet or roll shall be determined by the nominal pitch. 
+The centre distance between two adjacent wires shall not vary by more 
+than 7 J percent from the nominal pitch. The maximum variation in the 
+size of any mesh shall be not more than 5 percent over or under the 
+specified size, and the average mesh size shall be such that the total 
+number of meshes contained in a sheet or roll is not less than that 
+determined by the nominal pitch. 
+
+9.3 Tolerance on Size of Sheet — When fabric is required to be cut to 
+specified dimensions, the tolerance shall be as follows: 
+
+a) For dimensions of 5 mm and 25 mm under or over 
+under the specified dimension 
+
+b) For dimensions over 5 mm i percent under or over 
+
+the specified dimension 
+
+9.4 Tolerance on Mass of Fabric — The tolerances on the mass of 
+fabric shall be as follows: 
+
+a) When the specified mass is not i 6 percent 
+stated to be either a maximum 
+
+or a minimum 
+
+b) When the specified mass is stated +0 
+to be a maximum — 12 " 
+
+c) When the specified mass is stated +12 
+
+to be a minimum - P^^^^^^ 
+
+10. MECHANICAL PROPERTIES 
+
+10.1 All wires of the finished fabric shall meet the minimum require- 
+ments for physical properties as prescribed in IS : 432 ( Part II )-1982*. 
+
+^Specification for mild steel and medium tensile steel bars and hard drawn steel wire 
+for concrete reinforcement : Part 11 Hard-drawn steel wire ( third revision ). 
+
+
+
+IS : 1566 - 1982 
+
+11. TESTS 
+
+11.1 Selection of Test Pieces 
+
+11. 1.1 Ail test pieces shall be selected by the purchaser, and in the 
+event of the tests being satisfactory, he shall pay the cost of the sheets 
+from which the test pieces have been cut, or accept delivery as though 
+such test pieces had not been cut therefrom. 
+
+11.1.2 Test Pieces — The test pieces for tensile and bend tests shall 
+be so cut from the fabric that each tensile test piece shall contain one or 
+more cross welds in its length. 
+
+11.1.3 Identification of Specimens with ike Meterials —The manufacturer 
+shall make appropriate arrangements for the identification of the 
+material represented by the test pieces. 
+
+11.2 Tensile Test — The tensile test shall be made on the mesh after 
+fabrication across one or more welds to the requirements specified in 
+IS : 1521-1972*. 
+
+11.2.1 One tensile test shall be made from every 6 000 m^ of fabric. 
+
+11.3 Bend Test — The bend test shall be made on the test pieces cut 
+from the longitudinal wire as well as the transverse wire, between the 
+welds. The test piece shall not be annealed or subjected to any heat 
+treatment before testing. The test piece shall withstand one complete 
+cycle of reverse bend around a pin of size indicated below, without 
+showing any signs of fracture when- reverse bend test is carried out in 
+accordance with the requirements of IS : 1716-1 971 f: 
+
+Dia of Specimen Wire Dia of Pin 
+
+7'5 mm and under Equal to diameter of specimen 
+
+Over 7*5 mm Equal to twice the diameter of specimen 
+
+11.3.1 One reverse bend test shall be made frorA every 6 000 m* of 
+fabric. 
+
+11.4 Re-tests — Should a tensile test piece break outside the middle 
+half of its gauge length, the test may, at the manufacturer's option, be 
+discarded and another test made on a piece cut from the same length of 
+wire. In all other eases, should any of the test pieces first selected not 
+fulfil the required tests, two additional test pieces in respect of each 
+failure may be taken. Should both the additional test pieces pass the 
+test, the material represented shall be accepted. Should either of them 
+
+
+
+*Method fpr tensile testing of steel wire (first revision ), 
+tMethod for reverse bend testing of steel wire (first revision ). 
+
+
+
+IS : 1566 - 1982 
+
+fail to fulfil such tests, the material represented may be rejected. The 
+additional tests shall be carried out in the same manner in all respects as 
+the tests herein before required to be made in the first instance. 
+
+12. DELIVERY, INSPECTION AND TESTING FACILITIES 
+
+12.1 Unless otherwise specified, general requirements relating to the 
+supply of material, inspection and testing shall conform to IS : 1387- 
+1959*. 
+
+12.2 Delivery — All fabric reinforcement shall be delivered free from 
+oil and grease, paint, loose mill scale, loose rust and other matter likely 
+to adversely affect the bend with concrete. Lim^ewash shall be permitted 
+unless otherwise specified by the purchaser. A sheet shall not contain 
+any broken wires, and no broken cross welds in excess of four percent 
+of the tptal number of welded joints, or half of the welded joints a any 
+wire. 
+
+12.2.1 If so required by the purchaser, the manufacturer shall give a 
+certificate that the welded wire mesh supplied conforxr.s in all respects to 
+the requirements of this specification. 
+
+12.3 The purchaser or his authorized representative shall be at liberty 
+to inspect and verify the steel maker's certificate of cast analysis at the 
+premises of the manufacturer or supplier; when the purchaser requires 
+an actual analysis of finished material, this shall be made at a place 
+agreed to between the purchaser and the manufacturer or the supplier. 
+
+12.4 The purchaser shall have all reasonable facilities for satisfying 
+himself that the material is being or has been manufactured fully in 
+accordance with the requirements of this specification and, for this 
+purpose he shall be furnished with the test certificates giving the results 
+of test specified in this specification and he shall have free access to the 
+relevant parts of the supplier's works at all reasonable times as agreed 
+to mutually. He shall be at liberty to inspect the manufacture without 
+interfering in any w^ay with the normal production of the material at 
+any stage and to reject any material which does not conform to this 
+specification. 
+
+12.4.1 If so required by the purchaser, he shall be informed by the 
+supplier when the material relating to the ord^r is under manufacture. 
+
+12.4.2 The supplier shall supply labour and appliances required for 
+testing at his premises. If facilities are not available at his own works, 
+the supplier shall bear the co5t of the tests carried out in a laboratory 
+selected by the purchaser. 
+
+♦General requirements for the supply of metallurgical materials {first revision ). 
+
+
+
+18:1566^1982 
+
+12.5 INDEPENDENT TEST 
+
+12*5*1 Should there be a dispute about the compliance of the material 
+with this specification, the supplier and the purchiaser each shall ha^^e 
+the right to get the material tested by a mutually acceptable independent 
+testing authority unless such disputes are within the terms of any other 
+agreement for reference or submission to arbitration. 
+
+12.5.2 The results obtained by the independent testing authority shall 
+be accepted as final. If the material does not comply with this speci- 
+fication, the cost of independent testing shall be borne by the supplier; 
+if the material complies with this specification, the cost shall be borne by 
+the purchaser, 
+
+12.6 Defects Revealed After Delivery — Should any material after 
+delivery be' found not to be in accordance with this specification, such 
+material shall be deemed not to comply with this Indian Standard not 
+withstanding any previous acceptance, provided it has not been impro- 
+perly treated. 
+
+13. IDENTinCATION AND MARKING 
+
+13-1 The manufacturer or the supplier* shall have ingots, billets, wires, 
+fabric or bundles of fabric marked in such a way that all finished wires 
+or fabric can be traced to the cast from which they were made. Every 
+facility be given to the purchaser or his authorized representative for 
+tracing the wires or fabric to the cast from which they were made. 
+
+13*2 Marking — When the material is delivered in bundles, the manu- 
+"facturer shall fasten securely to every bundle a metal tag bearing a suit- 
+able identification mark. 
+
+13.3 Each bundle containing the fabric may also be marked with the 
+ISI Certification Mark in which case the concerned test certificate shall 
+also beat the Standard Mark, 
+
+NOTE — The use of the Standard Mark is governed by the provisions of the 
+Bureau of Indian Standards Act, 19S6 and the Rules and Regulations made there- 
+under The Standard Mark on products covered by an Indian Standard conveys 
+the assurance that they have been produced to comply with the requirements of that 
+standard uifder a well defined system of inspection, testing and quality control 
+which is devised and supervised by BIS and operated by the producer. Standard 
+marked products are also continuously checked by BIS for conformity to that 
+standard as a further safeguard. Details of conditions under which a licence for 
+the use of the Standard Mark may be granted to manufacturers or producers may 
+be obtained from the Bureau of Indian Standards. 
+
+
+
+IS t 1566 -1982 
+
+
+
+APPENDIX A 
+
+{ Clauses 3.2 and 6.1 ) 
+
+DIMENSIONS AND PROPERTIES OF HARD-DRAWN STEEL 
+WIRE FABRIC ( SQUARE AND OBLONG MESH ) 
+
+
+
+Nominal Mass 
+per m* 
+
+(4) 
+(kg) 
+2-220 
+3-560 
+6-160 
+1*430 
+1-600 
+1-980 
+2-530 
+2-840 
+3-080 
+3-460 
+4-140 
+5-200 
+6-040 
+7-900 
+82 
+1-060 
+1-320 
+1-660 
+1-85 
+2 060 
+2-300 
+2-57 
+2-760 
+2-960 
+
+
+
+SQ.UARE 
+
+
+MESH 
+
+
+
+
+
+
+SI 
+
+No. 
+
+
+Mesh Size 
+( Nominal Pitch 
+of Wires ) 
+
+
+Diameter of 
+Wire Each Way 
+
+
+(1) 
+
+
+
+
+(2) 
+
+
+(3) 
+
+
+
+
+
+
+mm 
+
+
+mm 
+
+
+I 
+
+
+
+
+50 
+
+
+3-0 
+
+
+2 
+
+
+
+
+50 
+
+
+3-8 
+
+
+3 
+
+
+
+
+50 
+
+
+5-0 
+
+
+4 
+
+
+
+
+100 
+
+
+3-4 
+
+
+5 
+
+
+
+
+100 
+
+
+3-6 
+
+
+6 
+
+
+
+
+100 
+
+
+4-0 
+
+
+7 
+
+
+
+
+100 
+
+
+4-5 
+
+
+8 
+
+
+
+
+100 
+
+
+4-8 
+
+
+9 
+
+
+
+
+100 
+
+
+5-0 
+
+
+10 
+
+
+
+
+100 
+
+
+5-3 
+
+
+11 
+
+
+
+
+100 
+
+
+5-8 
+
+
+12 
+
+
+
+
+100 
+
+
+6-5 
+
+
+13 
+
+
+
+
+100 
+
+
+7-0 
+
+
+14 
+
+
+
+
+100 
+
+
+8-0 
+
+
+15 
+
+
+
+
+150 
+
+
+3-15 
+
+
+16 
+
+
+
+
+150 
+
+
+3-6 
+
+
+17 
+
+
+
+
+150 
+
+
+4-0 
+
+
+18 
+
+
+
+
+150 
+
+
+4-5 
+
+
+19 
+
+
+
+
+150 
+
+
+4-75 
+
+
+20 
+
+
+
+
+150 
+
+
+5-0 
+
+
+21 
+
+
+
+
+150 
+
+
+5-3 
+
+
+22 
+
+
+
+
+150 
+
+
+5-6 
+
+
+23 
+
+
+
+
+150 
+
+
+5-8 
+
+
+24 
+
+
+
+
+150 
+
+
+6-0 
+
+
+
+10 
+
+
+
+
+
+
+
+
+
+
+
+IS 
+
+
+: 1566 - 1982 
+
+
+SI 
+Jfo. 
+
+
+Mesh Size 
+
+( Nominal Pitch 
+
+of Wires ) 
+
+
+Diameter of 
+Wire Each Way 
+
+
+
+
+Nominal Mass 
+per »i* 
+
+
+0) 
+
+
+(2) 
+
+
+
+
+(3) 
+
+
+
+
+(4) 
+
+
+25 
+
+
+150 
+
+
+
+
+6-3 
+
+
+
+
+3-27 
+
+
+26 
+
+
+150 
+
+
+
+
+6-5 
+
+
+
+
+3-480 
+
+
+27 
+
+
+150 
+
+
+
+
+7-1 
+
+
+
+
+414 
+
+
+28 
+
+
+150 
+
+
+
+
+7-5 
+
+
+
+
+4-62 
+
+
+29 
+
+
+150 
+
+
+
+
+80 
+
+
+
+
+5-260 
+
+
+30 
+
+
+150 
+
+
+
+
+9-0 
+
+
+
+
+6-660 
+
+
+31 
+
+
+150 
+
+
+
+
+10-0 
+
+
+
+
+8-220 
+
+
+32 
+
+
+200 
+
+
+
+
+4-0 
+
+
+
+
+0-980 
+
+
+33 
+
+
+200 
+
+
+
+
+4-5 
+
+
+
+
+1-260 
+
+
+34 
+
+
+200 
+
+
+
+
+4-8 
+
+
+
+
+1-420 
+
+
+35 
+
+
+200 
+
+
+
+
+5-3 
+
+
+
+
+1-740 
+
+
+36 
+
+
+200 
+
+
+
+
+5-8 
+
+
+
+
+2080 
+
+
+37 
+
+
+200 
+
+
+
+
+6-5 
+
+
+
+
+2-600 
+
+
+38 
+
+
+200 
+
+
+
+
+7-0 
+
+
+
+
+3-020 
+
+
+39 
+
+
+200 
+
+
+
+
+8-0 
+
+
+
+
+3-940 
+
+
+40 
+
+
+200 
+
+
+
+
+9-0 
+
+
+
+
+5-300 
+
+
+41 
+OBLOP 
+
+
+200 
+iG MESH 
+
+
+
+
+100 
+
+
+
+
+6-160 
+
+
+SI 
+No. 
+
+
+Mesh Size ( Nominal 
+Pitch of Wires ) 
+
+
+Diameter of 
+
+
+Wire 
+
+
+Nominal 
+Mass per m* 
+
+
+(1) 
+
+
+^ __wik. 
+
+(2) 
+
+
+(3r 
+
+
+^_ A 
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+
+
+Main, 
+
+
+Cross, 
+
+
+Main, 
+
+
+Cross, 
+
+
+
+
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+Vg 
+
+
+42 
+
+
+75 
+
+
+250 
+
+
+5-0 
+
+
+4-2 
+
+
+2-490 
+
+
+43 
+
+
+75 
+
+
+250 
+
+
+4-2 
+
+
+4-2 
+
+
+1-890 
+
+
+44 
+
+
+75 
+
+
+250 
+
+
+6-0 
+
+
+50 
+
+
+3-580 
+
+
+45 
+
+
+75 
+
+
+300 
+
+
+3-15 
+
+
+2-65 
+
+
+0-96 
+
+
+46 
+
+
+75 
+
+
+300 
+
+
+3-55 
+
+
+2-65 
+
+
+1-18 
+
+
+47 
+
+
+75 
+
+
+300 
+
+
+4-0 
+
+
+2-65 
+
+
+1-45 
+
+
+48 
+
+
+75 
+
+
+300 
+
+
+40 
+
+
+3-0 
+
+
+1-510 
+
+
+49 
+
+
+75 
+
+
+300 
+
+
+4-5 
+
+
+3-15 
+
+
+1-870 
+
+
+
+11 
+
+
+
+IS ! 1566 ■ 
+
+
+■ 1982 
+
+
+
+
+
+
+
+
+
+
+SI 
+JVo. 
+
+
+Mesh Size ( Nominal 
+Pitch of Wires ) 
+
+
+Diameter of 
+
+
+Wire 
+
+
+Xominal 
+Mass per m^ 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+, Aw- 
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+
+
+Main, 
+
+
+Cross, 
+
+
+Main, 
+
+
+Cross, 
+
+
+
+
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+kg 
+
+
+50 
+
+
+75 
+
+
+300 
+
+
+4-75 
+
+
+3-15 
+
+
+2-06 
+
+
+51 
+
+
+75 
+
+
+300 
+
+
+4-8 
+
+
+3-6 
+
+
+2-160 
+
+
+52 
+
+
+75 
+
+
+300 
+
+
+5-0 
+
+
+4-2 
+
+
+2420 
+
+
+53 
+
+
+75 
+
+
+300 
+
+
+5-0 
+
+
+5-0 
+
+
+2-600 
+
+
+54 
+
+
+75 
+
+
+300 
+
+
+5-3 
+
+
+3-15 
+
+
+2-51 
+
+
+55 
+
+
+75 
+
+
+300 
+
+
+5-3 
+
+
+3-6 
+
+
+2-580 
+
+
+56 
+
+
+75 
+
+
+300 
+
+
+5-6 
+
+
+3-55 
+
+
+2-83 
+
+
+57 
+
+
+75 
+
+
+300 
+
+
+5-8 
+
+
+3-6 
+
+
+3040 
+
+
+58 
+
+
+75 
+
+
+300 
+
+
+6-0 
+
+
+5-0 
+
+
+3-470 
+
+
+59 
+
+
+75 
+
+
+300 
+
+
+6-5 
+
+
+4-0 
+
+
+3-80 
+
+
+60 
+
+
+75 
+
+
+300 
+
+
+6-5 
+
+
+6-0 
+
+
+4-260 
+
+
+61 
+
+
+75 
+
+
+300 
+
+
+7-0 
+
+
+4-0 
+
+
+4-360 
+
+
+62 
+
+
+75 
+
+
+300 
+
+
+8-0 
+
+
+4-8 
+
+
+5-730 
+
+
+63 
+
+
+75 
+
+
+300 
+
+
+9-0 
+
+
+4-8 
+
+
+7-130 
+
+
+64 
+
+
+■ 75 
+
+
+300 
+
+
+10-0 
+
+
+5-8 
+
+
+8-910 
+
+
+65 
+
+
+75 
+
+
+400 
+
+
+9-0 
+
+
+4-75 
+
+
+7-00 
+
+
+66 
+
+
+75 
+
+
+400 
+
+
+9-5 
+
+
+5-6 
+
+
+7-90 
+
+
+67 
+
+
+75 
+
+
+400 
+
+
+100 
+
+
+5-6 
+
+
+8-71 
+
+
+68 
+
+
+75 
+
+
+400 
+
+
+80 
+
+
+4-75 
+
+
+5-60 
+
+
+69 
+
+
+75 
+
+
+400 
+
+
+7-5 
+
+
+4-75 
+
+
+4-97 
+
+
+70 
+
+
+75 
+
+
+400 
+
+
+7-1 
+
+
+4-5 
+
+
+4-46 
+
+
+71 
+
+
+75 
+
+
+400 
+
+
+6-3 
+
+
+4-0 
+
+
+3-50 
+
+
+72 
+
+
+100 
+
+
+150 
+
+
+4-2 
+
+
+3-0 
+
+
+1-460 
+
+
+73 
+
+
+100 
+
+
+150 
+
+
+4-5 
+
+
+30 
+
+
+1-620 
+
+
+74 
+
+
+100 
+
+
+150 
+
+
+4-6 
+
+
+3-0 
+
+
+1-670 
+
+
+75 
+
+
+100 
+
+
+150 
+
+
+4-8 
+
+
+3-6 
+
+
+1-950 
+
+
+76 
+
+
+100 
+
+
+150 
+
+
+50 
+
+
+3-0 
+
+
+1-910 
+
+
+77 
+
+
+100 
+
+
+150 
+
+
+5-3 
+
+
+3-6 
+
+
+2 260 
+
+
+78 
+
+
+100 
+
+
+150 
+
+
+5-5 
+
+
+3-0 
+
+
+2-240 
+
+
+79 
+
+
+100 
+
+
+150 
+
+
+5-8 
+
+
+3-6 
+
+
+2-600 
+
+
+80 
+
+
+100 
+
+
+150 
+
+
+6-5 
+
+
+4-0 
+
+
+3-260 
+
+
+
+12 
+
+
+
+
+
+
+
+
+
+
+
+ISt 
+
+
+1566 - 1982 
+
+
+SI 
+JVo. 
+
+
+Mesh Size ( 
+Pitch of I 
+
+
+Kominal 
+Vires ) 
+
+(3) ' 
+
+
+Diameter 
+(4) 
+
+
+of Wire 
+(5) 
+
+
+Nominal 
+Mass per m* 
+
+
+(1) 
+
+
+(2) 
+
+
+(6) 
+
+
+
+
+Main, 
+
+
+Cross, 
+
+
+Main, 
+
+
+Cross, 
+
+
+
+
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+kg 
+
+
+81 
+
+
+100 
+
+
+150 
+
+
+7-0 
+
+
+4-0 
+
+
+3-680 
+
+
+82 
+
+
+100 
+
+
+250 
+
+
+4-2 
+
+
+4-2 
+
+
+1-530 
+
+
+83 
+
+
+100 
+
+
+250 
+
+
+5-0 
+
+
+4-2 
+
+
+1-960 
+
+
+84 
+
+
+100 
+
+
+250 
+
+
+5-5 
+
+
+4-2 
+
+
+2-300 
+
+
+85 
+
+
+100 
+
+
+250 
+
+
+70 
+
+
+5-0 
+
+
+3-640 
+
+
+86 
+
+
+100 
+
+
+300 
+
+
+4-0 
+
+
+3-0 
+
+
+1-180 
+
+
+87 
+
+
+100 
+
+
+300 
+
+
+42 
+
+
+5-0 
+
+
+1-640 
+
+
+88 
+
+
+100 
+
+
+300 
+
+
+4-5 
+
+
+3-0 
+
+
+1-440 
+
+
+89 
+
+
+100 
+
+
+300 
+
+
+4-2 
+
+
+4-2 
+
+
+1-450 
+
+
+90 
+
+
+100 
+
+
+300 
+
+
+4-8 
+
+
+3-6 
+
+
+1-690 
+
+
+91 
+
+
+100 
+
+
+300 
+
+
+5-0 
+
+
+50 
+
+
+2-100 
+
+
+92 
+
+
+100 
+
+
+300 
+
+
+50 
+
+
+4-2 
+
+
+1-900 
+
+
+93 
+
+
+100 
+
+
+300 
+
+
+5-0 
+
+
+3-0 
+
+
+1-730 
+
+
+94 
+
+
+100 
+
+
+300 
+
+
+5-3 
+
+
+3-6 
+
+
+2000 
+
+
+95 
+
+
+100 
+
+
+300 
+
+
+5-8 
+
+
+3-6 
+
+
+2-340 
+
+
+96 
+
+
+100 
+
+
+300 
+
+
+6-0 
+
+
+5-0 
+
+
+2-730 
+
+
+97 
+
+
+100 
+
+
+300 
+
+
+6-5 
+
+
+4-0 
+
+
+2-930 
+
+
+98 
+
+
+100 
+
+
+300 
+
+
+7-0 
+
+
+4-0 
+
+
+3-350 
+
+
+99 
+
+
+100 
+
+
+300 
+
+
+7-0 
+
+
+5-0 
+
+
+3-530 
+
+
+100 
+
+
+100 
+
+
+300 
+
+
+7-0 
+
+
+5-5 
+
+
+3-640 
+
+
+101 
+
+
+100 
+
+
+300 
+
+
+7-5 
+
+
+6-0 
+
+
+4-210 
+
+
+102 
+
+
+100 
+
+
+300 
+
+
+8-0 
+
+
+4-8 
+
+
+4-420 
+
+
+103 
+
+
+100 
+
+
+300 
+
+
+8-0 
+
+
+6-0 
+
+
+4-690 
+
+
+104 
+
+
+100 
+
+
+300 
+
+
+80 
+
+
+6-5 
+
+
+4-820 
+
+
+105 
+
+
+100 
+
+
+300 
+
+
+9-0 
+
+
+4-8 
+
+
+5-460 
+
+
+106 
+
+
+100 
+
+
+300 
+
+
+10-0 
+
+
+5-8 
+
+
+6-860 
+
+
+107 
+
+
+150 
+
+
+250 
+
+
+5-0 
+
+
+4-2 
+
+
+1-440 
+
+
+108 
+
+
+150 
+
+
+250 
+
+
+6-0 
+
+
+5-0 
+
+
+3-300 
+
+
+109 
+
+
+150 
+
+
+250 
+
+
+6-5 
+
+
+5-5 
+
+
+3-900 
+
+
+110 
+
+
+150 
+
+
+300 
+
+
+6-0 
+
+
+5-0 
+
+
+2-070 
+
+
+HI 
+
+
+150 
+
+
+300 
+
+
+7-0 
+
+
+5-0 
+
+
+2-520 
+
+
+112 
+
+
+150 
+
+
+300 
+
+
+8-0 
+
+
+6-0 
+
+
+3-490 
+
+
+
+13 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 1 10002 
+
+Telophones: 331 01 31, 331 13 75 Telegrams: Manaksanstha 
+
+( Common to all Offices) 
+
+Regional Offices: Telephone 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, (331 01 31 
+
+NEW DELHI 110002 J331 13 75 
+
+•Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, 36 24 99 
+
+Maniktola, CALCUTTA 700054 
+Northern : SCO 445-446, Sector 35-C, ( 2 18 43 
+
+^, CHANDIGARH 160036 1 3 16 41 
+
+r41 24 42 
+Southern : C. I. T. Campus, MADRAS 600113 \ 41 25 19 
+
+I 41 29 1 6 
+tWestern : Manakalaya, E9 MIDC, Marol, Andheri (East ), 6 32 92 95 
+BOMBAY 400093 
+
+branch Offices: 
+
+
+
+"^Pushpak', Nurmohamed Shaikh Marg, 'Khanpur, ( 2 63 48 
+
+V AHMADABAD 380001 f 2 63 49 
+
+JPeenya Industrial Area 1st Stage, Bangalore Tumkur Road (38 49 55 
+
+
+
+BANGALORE 560058 J38 49 56 
+
+Gangotn Complex, 5th Floor. Bhadbhada Road, T. T. Nagar, 6 67 16 
+
+^BHOPAL 462003 
+
+P\ck No. 82/83, Lewis Road, BHUBANESHWAR 751002 5 36 27 
+
+53/5, Ward No 29, R.G. Barua Road, 5th Byelane, 3 31 77 
+
+GUWAHATI 781003 
+
+5-8-56C L. N. Gupta Marg ( Nampally Station Road ), 23 1 83 
+
+HYDERABAD 500001 
+
+R1 Ivudhister Marg, C Scheme, JAIPUR 302005 | g 93 32 
+
+117/418 B Sarvodaya Nagar, KANP^R 208005 ff^ 82 92 
+
+Patliputra Industrial Estate, PATNA 800013 6 23 05 
+
+T.C. No. 14/1421, University P.O.. Palayam /6 21 04 
+
+TRIVANDRUM 695035 \6 21 17 
+Inspection Offices ( With Sale Point ): 
+
+Pushpanjaii, First Floor, 205-A West High Court Road, 2 51 71 
+
+Shankar Nagar Square, NAGPUR 440010 
+Institution of Engineers ( India ) Building, 1 332 Shivaji Nagar, 5 24 35 
+
+PUNE 411005 
+
+
+
+•Sales Office in Calcutta is at 5 Chowringhee Approach, P. 0. Princep 27 68 00 
+
+Street, Celcutta 700072 
+
+tSales Office in Bombay is at Novelty Chambers, Grant Road. 89 65 28 
+Bombay 400007 
+
+iSales Otfice in Bangalore is at Unity Building, Narasimharaja Square. 22 36 71 
+Bangalore 560002 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMLNT NO. 1 MAY 198H 
+
+TO 
+
+18:1566-1982 RPRCIFICATION FOR HARD-IJRAWN 
+STERL WIRE FABRIC FOR CONCRETE REINFORCEMENT 
+
+( Second Revision ) 
+
+( Page 6, clause 10.1) - Add 'except 
+elongation* at the end of the sentence. 
+
+( Page 8, clause 12.2.1) - Add the following new 
+clause after 12,2.1 : 
+
+* 12.2.2 If so required by the purchaser, the 
+manufacturer shall give a certificate that all 
+welded intersections of the welded wire mesh 
+supplied shall be capable of withstanding a load in 
+shear of not less than one quarter of that necessary 
+to develop the load, calculated from the specified 
+proof stress in tension of the smaller of the 
+intersecting wires,' 
+
+(BSMDC 8) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 2 FEBRUARY 1993 
+
+TO 
+
+IS 1566 : 1982 SPECIFICATION FOR HARD-DRAWN 
+
+STEEL WIRE FABRIC FOR CONCRETE 
+
+REINFORCEMENT 
+
+( Second Revision ) 
+( Page 8, clause 12.2.1 ) — Insert the following at the end: 
+4f required by the purchaser, this test shall be performed according to mutual 
+agreement between the purchaser and the manufacturer.' 
+
+
+
+( CED 54 ) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 3 FEBRUARY 1994 
+
+TO 
+
+IS 1566 : 1982 SPECIFICATION FOR HARD-DRAWN 
+
+STEEL WIRE FABRIC FOR CONCRETE 
+
+REINFORCEMENT 
+
+( Second Revision ) 
+
+[ Page 8, clause 12.2.2 (see also Amendments No. 1 and 2 )] — Read '12.2.1' 
+in Amendment No. 2 as '12.2.2'. 
+
+
+
+( CED 54 ) 
+
+
+
+Reprography Unit, BI5, New Delhi, India 
+
+
+
+AMENDMENT NO- 4 APRIL* 2007 
+
+TO 
+
+IS 1566 : 1982 SPECIFICATION FOR HARD-DRAWN 
+
+STEEL WIRE FABRIC FOR CONCRETE 
+
+REINFORCEMENT 
+
+( Second Revision ) 
+
+(Page 10, Appendix A) — Insert the following values of Mesh Size and the 
+corresponding values of Diameter of Wire Each Way and Nominal Mass per m~ 
+with the SI No, as indicated against each at the beginning of the informal table 
+for SQUARE MESH and renumber the existing SI Nos. 1, 2, 3 as 5, 6 & 7 
+respectively: 
+
+
+
+SI 
+
+No. 
+
+
+Mesh Size 
+
+(Nominal Pitch 
+
+of Wires) 
+
+nun 
+
+
+Diameter of 
+Wire Each Way 
+
+mm 
+
+
+Nominal Mass 
+perrc^ 
+
+kg 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+I 
+
+
+25 
+
+
+2.5 
+
+
+2.03 
+
+
+2 
+
+
+25 
+
+
+3.0 
+
+
+3.08 
+
+
+3 
+
+
+40 
+
+
+2.5 
+
+
+2.10 
+
+
+4 
+
+
+40 
+
+
+3.0 
+
+
+2.85 
+
+
+
+Insert the following values of Mesh Size and the corresponding values of 
+Diameter of Wire Each Way and Nominal Mass per m~ with the Si No. as 
+indicated against each after the renumbered SI No. 7 and renumber the remaining 
+SI Nos. 4 to 41: 
+
+
+
+SI 
+
+No. 
+
+
+Mesh Size 
+
+(Nominal Pitch 
+
+of Wires) 
+
+mm 
+
+
+Diameter of 
+Wire Each Way 
+
+mm 
+
+
+Nbminal Mass 
+perw^ 
+
+kg 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+8 
+
+
+75 
+
+
+3.0 
+
+
+1.50 
+
+
+9 
+
+
+75 
+
+
+4.0 
+
+
+2.64 
+
+
+10 
+
+
+75 
+
+
+5.0 
+
+
+4.25 
+
+
+
+(CED 54) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

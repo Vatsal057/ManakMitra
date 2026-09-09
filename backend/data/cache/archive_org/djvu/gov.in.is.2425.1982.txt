@@ -1,0 +1,2841 @@
+**************** 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 2425 (1982) : Test chart for pillar type vertical 
+drilling machines [PGD 3: Machine Tools] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+UDC 621 952-3:620*1 (084^3) IS : 2425- 1982 
+
+
+
+
+( Reaffirmed 2005 ) 
+
+Indian Standard 
+
+TEST CHART FOR PILLAR TYPE VERTICAL 
+DRILLING MACHINES 
+
+( First Revision ) 
+
+
+
+1- Scope — Describes both geometrical and practical tests on general purpose and normal accuracy 
+pillar type vertical drilling machines, and the corresponding permissible deviations with reference to 
+IS : 2063-1962 ' Code for testing machine tools *. 
+
+1.1 This standard deals only with the verification of accuracy and applies neither to the testing of 
+the running of the machine (vibrations, abnormal noises, stick-slip motion of components, etc) 
+nor to the machine characteristics (speeds, feeds, etc), which shall generally be checked before 
+testing the accuracy. 
+
+2. Preliminary Remarks 
+
+2.1 To apply these tests, reference shall be made to IS : 2063-1962, especially for installation of the 
+machine before testing, warming up of spindles and other moving parts, description of measuring 
+methods and recommended accuracy of testing equipment. 
+
+2.2 The sequence in which the geometrical tests are given is related to the sub-assemblies of the 
+machine and does not define the practical order of testing. In order to make checking or mounting 
+of instruments easier, tests may be carried out in any convenient sequence. 
+
+2.3 When inspecting a machine, it is necessary to carry out all the tests described in this standard, 
+excepting those tests which may be omitted in mutual agreement between the buyer and the 
+manufacturer. 
+
+2.4 When establishing the tolerance for a measuring range different from that indicated in this 
+standard ( see 2.3.1.1 of IS : 2063-1962 ), the minimum tolerance shall be taken as 01 mm. For any 
+proportional value, the calculated value shall be rounded off to the nearest O'OOS mm. However, 
+the least count of all measuring instruments need not be fmer than 01 mm. 
+
+2.5 Whenever alternative methods of testing are suggested, the choice of the actual method of testing 
+is left to the manufacturer. 
+
+2.6 For the purpose of this standard, various methods of expressing the permissible deviation are 
+employed, each having a particular type of application. The methods employed are as follows: 
+
+000/000 for deviations of perpendicularity which are ratios, 
+
+000 for any length of 000 for deviations of straightness and parallelism; this expression is 
+used in fact for local permissible deviations, the measuring length being obligatory. 
+
+000 for 000 for deviations of straightness and parallelism; this expression is used to recommend 
+a measuring length but' in this case the proportionality rule comes into operation if the 
+measuring length differs from those indicated. 
+
+3. Testing Instruments — The testing instruments shall be of the approved type and shall be 
+calibrated at a recognized temperature conforming to the relevant Indian Standards. 
+
+4. Accuracy Requirements — The tests to be carried out, the instruments required, the maximum 
+permissible deviations and the manner of carrying out the tests shall be as detailed in the test 
+chart. 
+
+
+
+Adopted 28 January 1982 
+
+
+
+© March 1983, ISI 
+
+
+
+Gr5 
+
+
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAK BHAVAN. 9 BAHADUR SHAH ZAFAR MARG 
+
+NEW DELHI 110002 
+
+
+
+TEST CHART FOR PILLAR TYPE VERTICAL DRILLING MACHINES 
+
+
+
+Type 
+
+Machine No. 
+
+
+
+Order No. 
+Date 
+
+
+
+Customer. 
+Inspector, 
+
+
+
+SI 
+No. 
+
+
+
+(1) 
+
+
+
+19 
+
+
+
+I GEOMETRICAL TEST 
+
+All dimensions in noillimetres. 
+
+
+
+Figure 
+
+
+
+Object 
+
+
+
+Measuring 
+Instruments 
+
+
+
+(2) 
+
+
+
+
+
+(3) 
+
+
+
+(4) 
+
+
+
+Levelling of the 
+machine: 
+
+a) in the plane of 
+symmetry of 
+the machine, 
+and 
+
+b) in the plane 
+perpendicular 
+to the plane of 
+symmetry of 
+the machine 
+and passing 
+through the 
+spindle axis. 
+
+
+
+Level and 
+straight- 
+edge 
+
+
+
+Reference to 
+
+IS: 2063-1962 and/or 
+
+Instructions for Testing 
+
+
+
+Permissible 
+Deviations 
+
+
+
+Actual 
+Error 
+
+
+
+I 
+
+
+
+is» 
+
+
+
+(5) 
+
+
+
+(6) 
+
+
+
+(7) 
+
+
+
+OaOf <JaOa1| Oadafaf OadaU 
+
+and 5.1.1.2 (b) 
+
+Table locked in mid- 
+position 
+
+
+
+03/300 
+
+
+
+A— Table 
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+
+^UJ 
+
+
+^ 
+
+
+
+
+k 
+
+
+
+
+I. _J 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Y 
+
+
+' 
+
+
+
+
+
+Flatness of the 
+table surface 
+
+(and of the base 
+plate if it is 
+machined) 
+
+
+
+P reel s ion 
+level or 
+
+straight- 
+edge and 
+gauge blo- 
+cks 
+
+
+
+5.2.2,2 and 5.2.2.3 
+
+
+
+0*03 for any mea- 
+suring length of 
+300 (flat or con- 
+cave ) 
+
+
+
+
+
+= Table diameter 
+
+
+
+a) 
+
+
+
+-# >--b) 
+
+
+
+Camming of the 
+rotating table 
+( for machines 
+having this 
+feature) 
+
+
+
+Straightedge 
+and dial 
+gauge 
+
+
+
+5.5.3.2 and 5.5.3.3 
+
+It is unnecessary to 
+follow IS: 2063. The 
+following operations 
+shall be carried out; 
+
+— set the straightedge 
+approximately in a 
+diametral plane of the 
+table; 
+
+—touch a point A 
+placed on the table 
+periphery, then touch 
+a point B after rotat- 
+ing the table by 180^■ 
+
+—repeat the same oper- 
+ations, setting the 
+straightedge in ano- 
+ther diametral plane 
+perpendicular to the 
+preceding one; and 
+
+—lock the table before 
+taking any measure- 
+ment. 
+
+
+
+0-05 
+
+for D = 300 
+
+Maximum permis- 
+sible deviation: 
+0075 
+
+
+
+B — SPINDLE 
+
+
+
+Runout of the 
+internal taper of 
+the spindle: 
+
+a) near the spindle 
+nose, and 
+
+b) at a distance / 
+from the spindle 
+nose. 
+
+
+
+Dial gauge 
+and 
+test mandrel 
+
+
+
+5.5.1-2(b) 
+
+For details of test man- 
+drels and the deter- 
+mination of the 
+corresponding 
+distance /, reference 
+should be made to 
+A-1 of Appendix A 
+(Table 1 ) 
+
+
+
+For/ -100 
+
+a) 0015 
+
+b) 0-02 
+
+For / = 200 
+
+a) 0'02 
+
+b) 035 
+
+For / = 300 
+
+a) 0025 
+
+b) 005 
+
+
+
+cn 
+
+
+
+ro 
+
+
+
+
+
+
+CD 
+
+00 
+
+
+
+( Continued ) 
+
+
+
+I GEOMETRICAL TESTS - Contd 
+
+All dimensions In millimetres. 
+
+
+
+(A 
+
+■ • 
+
+Ul 
+
+I 
+
+ea 
+
+
+
+SI 
+No. 
+
+
+
+Figure 
+
+
+
+(2) 
+
+
+
+J' 
+
+
+
+•as. 
+
+2) tlrmtlj 
+
+
+
+
+2) 
+
+
+
+
+
+
+-.-.1.-0 
+
+
+
+-*%. 
+
+
+
+ii 
+
+
+
+Object 
+
+
+
+(3) 
+
+
+
+Straightness of the 
+pillar and 
+squareness of 
+the spindle axis 
+to the table 
+surface and the 
+base plate ( If it 
+Is machined ): 
+
+a) in the plane of 
+symmetry of the 
+machine, and 
+
+b) in a plane 
+perpendicular 
+to the plane of 
+symmetry of 
+the machine. 
+
+
+
+Measuring 
+Instruments 
+
+
+
+(4) 
+
+
+
+Dial gauge 
+and 
+straightedge 
+
+
+
+Reference to 
+18:2063-1962 and/or 
+Instructions for Testing 
+
+(5) 
+
+
+
+5.4.1.1 and 5.1.3.2(a) 
+
+Straightness checking 
+shall be carried out 
+at a number of posi- 
+tions equally spaced 
+between the extreme 
+positions of the table 
+
+Squareness checking 
+shall be carried out 
+first with the table in 
+the upper position (1) 
+and then in the lower 
+position (2) 
+
+Table and knee locked. 
+Spindle head locked 
+in mid position ( for 
+machines having an 
+elevating spindle 
+head ) 
+
+
+
+Permissible 
+Deviations 
+
+
+
+(6) 
+
+
+
+a) 0*06/300* 
+with a<90° 
+
+
+
+b) 06/300* 
+
+
+
+♦Distance between 
+the two points touched. 
+
+
+
+Actual 
+Error 
+
+
+
+(7) 
+
+
+
+C — SPINDLE HEAD 
+
+
+
+
+Squareness of the 
+table surface to 
+the vertical 
+movement of the 
+spindle housing 
+or quill: 
+
+a) in the plane of 
+symmetry of the 
+machine, and 
+
+b) in the plane 
+perpendicular 
+to the plane of 
+symmetry of 
+the machine. 
+
+
+
+Dial gauge 
+straight- 
+edge and 
+square 
+
+
+
+5-4.2.2 
+
+Table and knee locked 
+In mid position 
+
+Spindle head locked in 
+mid position (for 
+machines having an 
+elevating spindle 
+
+head ) 
+
+
+
+a) 0-1/300 
+a< 90° 
+
+
+
+b) 0"1/300 
+
+
+
+with 
+
+
+
+
+Squareness of the 
+table surface to 
+the vertical 
+
+movement of the 
+spindle head 
+( only for machi- 
+nes having an 
+elevating Ispin- 
+dle head ): 
+
+a) in the plane of 
+symmetry of 
+the machine, 
+and 
+
+b) in the plane 
+perpendicular 
+to the plane of 
+symmetry of 
+the machine. 
+
+
+
+Dial gauge 
+straight- 
+edge and 
+square 
+
+
+
+5.4.2.2 
+
+Table and knee locked 
+in mid position 
+
+Spindle head locked 
+while taking readings 
+
+
+
+a) 0-1 /300 
+a<90° 
+
+
+
+b) 0'1/300 
+
+
+
+with 
+
+
+
+v^ 
+
+
+
+W 
+
+
+
+CJI 
+
+
+
+s 
+
+
+
+Type 
+
+Machine No. 
+
+
+
+TEST CHART FOR PILLAR TYPE VERTICAL DRILLING MACHINES 
+
+Order No Customer. 
+
+Date Inspector. 
+
+
+
+II PRACTICAL TEST 
+
+AM dimensions in milllnnetres. 
+
+
+
+(A 
+
+
+
+I 
+
+CD 
+00 
+
+ro 
+
+
+
+SI 
+No. 
+
+
+
+(1) 
+
+
+
+OS 
+
+
+
+Figure 
+
+
+
+(2) 
+
+
+
+Nature of Test 
+
+
+
+(3) 
+
+
+
+
+
+Measurement of deflec- 
+tion of the spindle 
+axis from its position 
+square with the table 
+under an axial force 
+applied to the 
+spindle: 
+
+a) In the plane of 
+symmetry of the 
+machine, and 
+
+b) in the plane per- 
+pendicular to the 
+plane of symmetry 
+of the machine. 
+
+
+
+Measuring 
+Instruments 
+
+
+
+(4) 
+
+
+
+Special 
+equipment 
+
+Dial gauges 
+and load 
+cell 
+
+
+
+Reference to 
+
+IS: 2063-1962 ar\d/or 
+
+Instructions for Testing 
+
+(5)^ 
+
+It is unnecessary to 
+follow the test code 
+IS :2063. A drilling 
+test shall not be 
+carried out but an 
+axial force F shall be 
+exerted on the spindle 
+nose, using the table 
+surface as a support 
+
+The application offeree 
+F and the measure- 
+ment of the deflec- 
+tion under load of 
+the axis of the spin- 
+dle in relation to the 
+table surface shall be 
+made directly on the 
+spindle nose with the 
+aid of special equip- 
+ment A mounted 
+directly on the spin- 
+dle nose 
+
+The base B of the load 
+cell shall be of suffi- 
+cient area and rigidi- 
+ty to eliminate any 
+deformation of the 
+table 
+
+
+
+Permissible 
+Deviations 
+
+
+
+(6) 
+
+
+
+2/1 000 
+
+
+
+Actual 
+Error 
+
+
+
+(7) 
+
+
+
+Special Equipment ( Alteration ) 
+
+
+
+
+Special Equipment ( Alteration ) 
+
+
+
+The value of force F to 
+be exerted shall be 
+specified by the 
+manufacturer. In the 
+absence of a speci- 
+fied load, reference 
+shall be made to the 
+graph given in Appen- 
+dix A to determine 
+the load as a func- 
+tion of the drilling 
+capacity diameter of 
+the machine 
+
+Spindle retracted. Spi- 
+ndle head ( for ma- 
+chines having a spin- 
+dle head adjustable 
+in height), table and 
+knee shall be placed 
+and locked in mid 
+position on the 
+column 
+
+A calibration sheet of 
+the test instrument M 
+shall be supplied 
+
+
+
+(0 
+
+I 
+
+
+
+CO 
+00 
+
+
+
+15:2425*1982 
+
+
+
+APPENDIX A 
+
+GRAPH GIVING THE AXIAL FORCE f AS A FUNCTION OF THE 
+DRILLING CAPACITY DIAMETER OF THE MACHINE 
+
+(Practical Test No, 1 ) 
+
+Note — This graph only gives typical values representing average thrusts when drilling medium steel ( tensile 
+strength R = 0'55 to 0*65 GPa* ) with freshly sharpened drills. 
+
+
+
+2 
+
+
+
+O 
+
+or 
+o 
+
+
+
+< 
+
+X 
+
+
+
+Q trtn 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+./ 
+
+
+
+
+3 bUU 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+3 000 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i 
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+2500 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 000 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1500 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 1 J 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1000 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f\ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+500 
+
+
+
+
+
+
+
+
+
+
+J 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+y 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100 
+
+
+
+
+> 
+
+
+/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 
+
+
+
+20 
+
+
+
+30 40 50 60 70 80 90 100 mm 
+
+DRILLING CAPACITY DIAMETER OF MACHINE 
+
+
+
+Note — For diameter > 25 mm, the graph is approximately rectilinear. 
+
+8 
+
+
+
+♦Provisional value of ff = 55 to 65 hbar. 
+
+
+
+15:2425-1982 
+
+
+
+EXPLANATORY NOTE 
+
+
+
+This standard was first published in 1963. Subsequent to the publication of ISO/2773, the 
+Committee responsible for the preparation of this standard decided to revise this standard. The 
+revised standard is in line with the ISO/2773/1-1973 ' Test conditions for pillar type vertical drilling 
+machines— Testing of the accuracy— Part I : Geometrical tests ' and ISO/2773/2-1973 * Test conditions 
+for pillar type vertical drilling machines — Testing of accuracy — Part U : Practical Test ' issued by 
+the International Organization for Standardization. 
+
+
+
+Printed at New India Printing Press. Khurja, India 
+
+
+

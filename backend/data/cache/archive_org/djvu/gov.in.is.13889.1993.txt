@@ -1,0 +1,542 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 13889 (1993) : Wheelchairs - Type Classification Based on 
+Appearance Characteristics [MHD 10: Medical Laboratory 
+Instruments] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 13889 : 1993 
+ISO 7930 : 1986 
+
+VlTcftT ^PT«f) (Reaffirmed 1998) 
+
+Indian Standard 
+
+WHEELCHAIRS - TYPE CLASSIFICATION BASED 
+ON APPEARANCE CHARACTERISTICS 
+
+
+
+UDC 615-478-32:00r4 
+
+
+
+® BIS 1993 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+November 1 993 Price Group 1 
+
+
+
+Artificial Limbs, Rehabilitation Appliances and Equipment for the Disabled Sectional Committee, 
+MHD 10 
+
+
+
+NATIONAL FOREWORD 
+
+This Indian Standard which is identical with ISO 7930 : 1986 'Wheelchairs — Type classification 
+based on appearance characteristics', issued by the International Organization for Standardi- 
+zation ( ISO ) was adopted by the Bureau of Indian Standards on the recommendations of the 
+Artificial Limbs, Rehabilitation Appliances and Equipment for the Disabled Sectional Committee 
+MHD 10 { 2291 ) and approval of the Medical Equipment and Hospital Planning Division 
+Council. 
+
+The text of ISO standard has been approved as suitable for publication as Indian Standard 
+without deviations. Certain conventions are, however, not identical to those used in the Indian 
+Standards. Attention is particularly drawn to the following: 
+
+Wherever the words 'International Standard' appear referring to this standard, they should 
+be read as 'Indian Standard'. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, 
+the final value, observed or calculated, expressing the result of a test, shall be rounded off 
+in accordance with IS 2 : 1960 'Rules for rounding off numerical values {revised)'. The number 
+of significant places retained in the rounded off value should be the same as that of the 
+specified value in this standard. 
+
+
+
+IS 13889 : 1993 
+ISO 7930 : 1986 
+
+
+
+Indian Standard 
+
+WHEELCHAIRS - TYPE CLASSIFICATION BASED 
+ON APPEARANCE CHARACTERISTICS 
+
+
+
+1 Scope and field of application 
+
+This International Standard specifies a method for classifying 
+and designating different types of wheelchairs and is based on 
+readily evident or easily measured features of a wheelchair. 
+
+
+
+2 Description of the classification 
+
+The classification uses a five-digit code in which each digit 
+specifies particular types within each group. Each classification 
+position shall be separated by a hyphen {e.g. 1-1-1-1-1). 
+
+The classification is intended to give a general indication of the 
+wheelchair in terms of its most important^eatures. By the addi- 
+tion x)f further digits, the ctassification may be extended to 
+cover additional features or to include test data, as desired. 
+
+NOTE — The need to extend the classification may arise in certain 
+countries, 
+
+2.1 First digit: Means of propulsion/steering 
+
+The means of propulsion/steering of the wheelchair shall be 
+designated according to the following types: 
+
+Type 1 Attendant controlled — non-powered 
+
+Type 2 Non-powered direct drive on rear wheels, 
+bimanual 
+
+Type 3 Non-powered direct drive on front wheels, 
+bimanual 
+
+Type 4 Non-powered lever drive, bimanual 
+
+Type 5 Non-powered single-sided drive 
+
+Type 6 Non-powered foot propulsion 
+
+
+
+Type 7 Attendant controlled — powered 
+
+Type 8 Electromotor for drive, manual steering 
+
+Type 9 Electromotor for drive, power steering 
+
+Type Others 
+
+2.2 Second digit: Area of use based on overall 
+width and wheel diameters 
+
+The wheel diameter and overall chair width combination shall 
+be designated as given in table 1 . 
+
+NOTE — The second digit gives an overall indication of the suitability 
+of a wheelchair for use on any given terrain and the suitability for any 
+given activity of the occupant. Other digits may also have a bearing on 
+these. The number for the second digit shall indicate any special 
+design such as a wheelchair having an overall width exceeding 
+700 mm. 
+
+2.3 Third digit: Seat and backrest adjustments 
+
+The combination of seat and backrest adjustments shall be 
+designated as given in table 2. 
+
+Table 2 
+
+
+
+^\^ Seat 
+^^^^ inclination 
+
+Backrest ^\^^ 
+incVmation ^^\^ 
+
+
+Not 
+adjustable 
+
+
+Manually 
+adjustable 
+
+
+Power 
+adjustable 
+
+
+Not adjustable 
+Manually adjustable 
+Power adjustable 
+
+
+1 
+2 
+
+3 
+
+
+4 
+5 
+6 
+
+
+7 
+8 
+9 
+
+
+
+The number for the third digit shall indicate either that the 
+wheelchair is supplied without a seat or a backrest, or that the 
+wheelchair features a fixed angle between seat and backrest, 
+the whole body support system being adjustable. 
+
+
+
+Table 1 
+
+
+
+"^--..^^^ Wheel 
+^"^"--^^^^ diameter 
+
+Overall ^^"""^--^ 
+chair width ^"""-\.^ 
+
+
+AH wheels less 
+
+than 260 mm 
+
+or 1 or 2 wheels 
+
+less than 180 mm 
+
+
+Large wheels 
+
+greater than 260 mm; 
+
+small wheels 
+
+180 to 260 mm 
+
+
+All wheels 
+
+xfreater than 
+
+260 mm 
+
+
+Below 550 mm 
+550 to 660 mm 
+660 to 700 mm 
+
+
+1 
+2 
+3 
+
+
+4 
+5 
+6 
+
+
+7 
+8 
+9 
+
+
+
+IS 13889 :1993 
+180 7930:1986 
+
+
+
+2.4 Fourth digit: Armrest and leg support 
+adjustments 
+
+The combination of armrest and leg support adjustments shall 
+be designated as given in table 3. 
+
+Table 3 
+
+
+
+^^-^^^ Armrest 
+Leg ^^^^.^ 
+support angle^^-^^^ 
+
+
+Fixed 
+
+
+Height 
+adjustable 
+
+
+Removable 
+
+(folding or 
+
+exchangeable) 
+
+
+Not adjustable 
+Manually adjustable 
+Power adjustable 
+
+
+1 
+2 
+3 
+
+
+4 
+5 
+6 
+
+
+7 
+8 
+9 
+
+
+
+If the wheelchair is supplied with armrests that are both height 
+adjustable and removable, the number for the fourth digit shall 
+be that designated for height adjustable armrests. 
+
+The number for the fourth digit shall indicate that either 
+armrests or leg support ^re not provided. 
+
+
+
+2.5 Fifth digit: Foidability 
+
+The manner In which the overall dimensions of the wheelchair 
+can be reduced shall be designated according to the following 
+types : 
+
+Type 1 Rigid wheelchairs 
+
+If the overall xlimensions of the wheelchair cannot be 
+reduced, the fifth digit shall be designated as 1. 
+
+
+
+Type 2 Wheelable foldable wheelchairs 
+
+If the overall dimensions of the wheelchair can be reduced in 
+one or more directions without any component part being 
+removed and still allow the use of the wheels for movement 
+when folded, the fifth digit shall be designated as 2. 
+
+Type 3 Non-wheelable foldable wheelchairs 
+
+If the overall dimensions of the wheelchair can be reduced in 
+one or more directions without being removed, but folding 
+prevents the use of the wheels for movement when folded, 
+the fifth digit shall be designated as 3. 
+
+Type 4 Demountable wheelchairs 
+
+If the overall dimensions of the wheelchair can be reduced 
+by separating it into component parts without the use of 
+tools, the fifth digit shall be designated as 4. 
+
+Type 5 Demountable/wheelable foldable 
+wheelchairs 
+
+If the wheelchair is foldable and its dimensions or mass may 
+be further reduced by separating one or more component 
+parts without the use of tools, and it still allows the use of 
+the wheels for movement of the folded wheelchair, the fifth 
+digit shall be designated as 5. 
+
+Type 6 Demountable/non-wheelable foldable 
+wheelchairs 
+
+If the wheelchair is foldable and its dimensions or mass may 
+he further reduced by separating one or more component 
+parts without the use of tools, and folding prevents the use 
+of the wheels tor movement when folded, the fifth digit 
+shall be designated as 6. 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+standard Mark 
+
+The use of the Standard Mark is governed by the provisioni of the Bureau of Indian 
+Stimdards Act^ 198% and the Rules and Regulations made thereunder. The Standard Mark 
+on products covered by an Indian Standard conveys the assurance that they have been 
+produced to comply with the requirements of that standard under a well defined system 
+of inspection, testing and quality control which is devised and supervised by BIS and 
+operated by thje producer. Standard marked products are also continuously checked by 
+BIS for conformity to that standard as a further safeguard. Details of conditions under 
+which a licence for the use of the Standard Mark may be granted to manufacturers of 
+producers may be obtained from the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau 0/ Indian Standards Act, 1986 to 
+promote harmonious development of the activities of standardization, marking and quality 
+certification of goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced 
+in any form without the prior permission in writing of BIS. This does not preclude the free use, 
+in the course of implementing the standard, of necessary details, such as symbols and sizes, type 
+or grade designations. Enquiries relating to copyright be addressed to the Director 
+( Publications ), BIS. 
+
+Rerision of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards 
+arc also reviewed periodically; a standard along with amendments is reaflSrmed when such review 
+indicates that no changes are needed; if the review indicates that changes are needed, it is taken 
+up for revision. Users of Indian Standards should ascertain that they are in possession of the 
+latest amendments or edition by referring to the latest issue of *BIS Handbook and 'Standards 
+Monthly Additions*. Comments on this Indian Standard may be sent to BIS giving the following 
+reference: 
+
+Doc : No. MHD 10 ( 2291 ) 
+
+Amendmenti Issued Since Pubiication 
+
+Amend No Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg. New Delhi 110002 
+
+Telephones : 331 01 31, 331 13 75 Telegrams : Manaksanstba 
+
+( Common to all Offices ) 
+
+Regional Offices : Telephone 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg f33l 01 31 
+
+NEW DELHI 110002 J33I 13 75 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. 1. P. Road, Maniktola C37 84 99. 37 85 61 
+
+CALCUTTA 700054 (37 86 26, 37 86 62 
+
+^53 38 43, 53 16 40 
+53 23 84 
+
+Southern : C. 1. T. Campus, IV Cross Road, MADRAS 600113 lll^ ^l ^^' ^^^ ^"^ ^^ 
+
+{235 15 19, 235 23 15 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) [632 92 95, 632 78 58 
+
+BOMBAY 400093 (632 78 91, 632 78 92 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+C37 
+{37 
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 \ 
+
+
+
+Printed at Printwell Printers, Aligarh, India 
+
+
+

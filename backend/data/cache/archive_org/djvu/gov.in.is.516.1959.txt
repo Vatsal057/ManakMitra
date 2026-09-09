@@ -1,0 +1,1785 @@
+**************** 
+
+
+
+* tOT£ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+IS 516 (1959) : Method of Tests for Strength of Concrete 
+[CED 2: Cement and Concrete] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+5fR TT^ ^TT <sMHI | *ft ^fft ^TRT ^ff ^TT ^T^fT )f 
+
+Bhartrhari — Nltisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+<*i *3f», 
+
+
+
+
+*?W!& 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 516-1959 
+
+( Reaffirmed 2004 ) 
+
+
+
+Indian Standard 
+
+METHODS OF TESTS FOR 
+STRENGTH OF CONCRETE 
+
+
+
+Kighteenth Reprint JUNE 2006 
+( Incorporating Amendment No l and Including Amendment No 2 ) 
+
+
+
+UDC 666.97.620 17 
+
+
+
+to Copyright 1975 
+BUREAU OF INDIAN STANDARDS 
+
+MANAK UHAVAN 9 RAHAIH'R SHAH ZA1 \R MARO 
+N J W 1)1 1 III 1 10002 
+
+Gr 6 December 1959 
+
+
+
+IS: 516 -1959 
+
+
+
+Indian Standard 
+
+METHODS OF TESTS FOR 
+STRENGTH OF CONCRETE 
+
+
+
+Cement and Concrete Sectional Committee, BDC 2 
+
+Chairman 
+Shri R. A. Nadirshah The Concrete Association of India, Bombay, and 
+
+the Institution of Engineers I India ), Calcutta 
+
+Member* 
+Shri Baleshwar Nath Central Board oi Irrigation <S Power ( Ministry ol 
+
+Irrigation & Power ) 
+Shri N. H. Bhagwanani Engincer-in-Chief's Branch, Army Headquarters. 
+
+Shri N. D. Dabtary Bombay State Hood Transport Corporation. Bomba> 
+
+Shri P. I„ Das Directorate General ot Supplies & Disposals 
+
+( Ministry of Works, Housing & Supply ) 
+Director Central Building Research Institute (CSIR), 
+
+Roorkce 
+Shri C. H. Khadilka* ( Alternate ) 
+Shki C: L. Handa Directorate ol Designs., Bhakra Dam, N'ew Delhi 
+
+Shri P. S. BhatkacaR (Alternate) 
+Or R. R. Hattiangadi The Associated Cement Companies Ltd, Bomba\ 
+
+Shri V. N. Pai ( Afu-rmtte ) 
+Shri P. C. Hazr* Geological Survev of India, Calcutta 
+
+0" R. C. Hook Central Water & Tower Commission ( Ministry .>i 
+
+Irrigation & Power ) 
+Shri George Oommen ( Alternate ) 
+Shri S. B. Joshi S. B. Joshi * Co, Bombax 
+
+Shri S. R. Mbhma Central Road Research Institute iCSIN), New 
+
+Delhi 
+Shhi S. N. Mukerji Government Test House, Calcutta 
+
+Shri K. K. Chatterjee {Alternate) 
+SKRI E. P. Nicolaides Gammon India Ltd, Bombav. and Indian Roads 
+
+Congress, New Delhi 
+KKPRKbLN fATfVE Martin Burn Ltd, Calcutta 
+
+Shri J. M. Kijhwani Central Public Works Department 
+
+Shri M. S. Bhatia ( Alternate ) 
+Shki Nihar Chandra Roy Dalmia Cement { Bharat ) Ltd, Calcutta 
+
+Shri A. K. Chakrav\rk [Alternate) 
+Shri Sakvp Singh National Buildings Uiganisation ( Ministry of 
+
+Works, Housing & Suppl) * 
+Deputy Director ( Material ) (Alttrnale) 
+
+( Continued on page 2 ) 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+IS: 516 -1959 
+
+
+
+l Continued from page 1 ) 
+
+Shri II P. Siniia Roads Wing, Ministry of Transport St Communica- 
+
+tions 
+Sum J. M. Tubman [Alternate) 
+Shki K. C, Suou Research, Design & Standardization Organization 
+
+( Ministry of Railways ) 
+Shki S. S. Varma ( Alternate ) 
+D« I.ai ('. Vhhman I Ex-officm ) Director, Indian Standards Institution 
+
+Secretary 
+shki (. S fiUNDRAMtKHAKA Deputy Director ( BIdg ), Indian Standards Insti- 
+
+tution 
+
+Concrete Subcommittee, BDC 2:2 
+
+{ nnvt-Hct 
+Smrj S. B Jiishi S. H Joshi tk Co, Bombav 
+
+Mr nihil • 
+Shki K. K Aniia The Associated Cement Companies Ltd., Bombay 
+
+Shki N*. II. Bii \r.\v \\ \ni Kngineer-in-Chief's Branch, Army Headquarters 
+
+Shri M. S Bhaiia Central Public Works Department 
+
+Sum T S Vi-.uaciki i Alternate ) 
+Dikkctor Engineering Research Laboratories, Hyderabad 
+
+Shri P. ('. Hazra Geological Survey of India, Calcutta 
+
+Dr H. <\ Hoon Central Water & Power Commission ( Ministry of 
+
+Irrigation & Power ) 
+shki ( . L. N. Iykni,an I'hc Concrete Association of India, Bombay 
+
+Shri S. V. Nati- Public Works Department, Bombay 
+
+Shri C C. Purl ( Alternate ) 
+Shri K. P. N'icolaides Gammon India Ltd., Bombay 
+
+Dr K 1.. Rao Central Water & Power Commission (Ministry of 
+
+Irrigation & Power ) 
+Shri Sahup Singh National Buildings Organisation (Ministry of 
+
+Works, Housing & Supply ) 
+Shri K. Kama V\km*n {Alternate) 
+Shri H. P. Sinha Roads Wing, Ministry of Transport & Communica- 
+
+tions 
+Shri K. (.'. Soop Research, Design & Standardization Organization 
+
+( Ministry of Railways ) 
+
+
+
+AMENDMENT NO. 2 JULY 1991 
+
+TO 
+
+IS 516 : 1959 METHODS OF TESTS FOR 
+STRENGTH OF CONCRETE 
+
+( Page 6, clause 2.9.1 ) — Substitute the following for the existing 
+clause: 
+
+1.9.1 Cube Moulds — The mould shall be of 150 mm size conforming 
+to IS 10086 : 1982*. * 
+
+( Page 6 ) — Insert the following foot-note at the bottom: 
+
+'•Specification for moulds for use in tests of cement and concrete.' 
+
+( Page 7, clause 2.9.2 ) — Except the last sentence, substitute the 
+following for the existing matter: 
+
+'The cylindrical moulds shall be of 1 50 mm diameter and 300 mm height 
+conforming to IS 10086 : 1982*.' 
+
+( Page 7, clause 2.9.3 ) — Substitute the following for the existing 
+clause: 
+
+'2.9.3 Tamping Bar — The tamping bar shall conform to 6.1(a) of 
+IS 10086 : 1982*.' 
+
+( Page 7 ) — Insert the following foot-note at the bottom: • 
+
+'♦Specification for moulds for use in tests of cement and concrete.' 
+
+( Pages 15 and 16, clause 7.4.1) — Substitute the following for the 
+existing clause: 
+
+'7.4.1 Beam Moulds — The beam moulds shall conform to IS 10086 : 
+1982*. 
+
+In assembling the mould for use, the joints between the sections of the 
+mould shall be thinly coated with mould oil and a similar coating of 
+mould oil shall be applied between the contact surfaces of the bottom of 
+the mould and the base plate in order to ensure that no water escapes 
+during the filling. The interior faces of the assembled mould shall be 
+thinly coated with mould oil to prevent adhesion of the concrete.' 
+
+( Page 15 ) — Insert the following foot-note at the bottom: 
+
+'•Specification for moulds for use in tests of cement and concrete.' 
+
+( Page 16, clause 7.4.2 ) — Substitute the following for the existing 
+clause: 
+
+'7.4.2 Tamping Qor — The tamping bar shall contorm to 6.1(b) of 
+IS 10086 : 1982*.' 
+
+
+
+( CED 2 ) 
+
+
+
+Printed ■< Simco Printing Prna, D*lhi. India 
+
+
+
+IS: 516 -1959 
+
+Indian Standard 
+
+METHODS OF TESTS FOR 
+STRENGTH OF CONCRETE 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 10 November 1959, after the draft finalized by the Cement and 
+Concrete Sectional Committee had been approved by the Building Division 
+Council. 
+
+0.2 Testing plays an important role in controlling the quality of cement 
+concrete work. Systematic testing of the raw materials, the fresh con- 
+crete and the hardened concrete is an inseparable part of any quality 
+control programme for concrete which helps to achieve higher efficiency 
+of the materials used and greater assurance of the performance of the 
+concrete in regard to both strength and durability. The test methods 
+used should be simple, direct and convenient to apply. This standard 
+has been prepared with this object in view and provides a guide to the 
+determination of compressive strength, flexural strength and modulus of 
+elasticity of concrete. Sampling and analysis of concrete have been covered 
+separately in IS: 1199-1959 Methods of Sampling and Analysis of Concrete. 
+0.3 The Sectional Committee responsible for the pieparation of this stan- 
+dard has taken into consideration the views of concrete specialists, testing 
+authorities, consumers and technologists and has related the standard to 
+the practices followed in the country in this field. The need for inter- 
+national co-ordination between standards prevailing in different countries 
+of the world has also been recognized. These considerations led the Sec- 
+tional Committee to derive assistance from the published standards and 
+publications of the following organizations : 
+
+British Standards Institution 
+
+American Society for Testing Materials 
+
+American Concrete Institute 
+
+Canadian Engineering Standards Association 
+
+Research, Design & Standardization Organization, Ministry 
+
+of Railways, Government of India 
+The Concrete Association of India 
+0.4 The Indian Standard Methods of Sampling and Analysis of Concrete 
+(IS: 1199-1959) is a necessary adjunct to this standard. Besides, this 
+standard requires reference to the following Indian Standards : 
+
+•IS : 269-1958 Specification for Ordinary, Rapid-Hardening and 
+Low Heat Po rtland Cement (Revised) 
+
+•Since revised. 
+
+
+
+IS: 516 -1959 
+
+*IS : 383-1952 Specification for Coarse and Fine Aggregates from 
+Natural Sources for Concrete 
+
+tIS: 455-1953 Specification for Portland Blastfurnace Slag 
+Cement 
+
+* IS -.456-1957 Code of Practice for Piain and Reinforced Con- 
+crete for General Bitlding Construction (Revised) 
+
+•IS : 460-1953 Specification for Test Sieves 
+
+0.4.1 Wherever a reference to any standard mentioned in 0.4, except 
+IS: 460-1953, appears in this standard, it shall be taken as a reference to 
+the latest version of the standard. 
+
+0.5 In pursuance of the decision of the Government of India to introduce 
+a uniform system of weights and measures throughout the country based 
+on the metric system, in this standard, all dimensions and values have 
+been given in metric units only. It is hoped that this step will facilitate 
+the change-over to the metric system by the industry more expeditiously. 
+0.6 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value observed or calculated, expres- 
+sing the result of a test or analysis, shall be rounded off in accordance 
+with'IS: 2-1949 Rules for Rounding Off Numerical Values. The number 
+of significant places retained in the rounded off value should be the same 
+as that of the specified value in this standard. 
+
+0.7 This standard is intended chiefly to cover the technical provisions 
+relating to the testing of concrete, and it does not include all the necessary 
+provisions of a contract. 
+
+
+
+1. SCOPE 
+
+1.1 This standard covers tests for the determination of compressive 
+strength, ftexural strength and modulus of elasticity of cement concrete. 
+
+2. MAKING AND CURING COMPRESSION 
+TEST SPECIMENS IN THE LABORATORY 
+
+2.1 This clause specifies the procedure for making and curing compression 
+test specimens of concrete in the laboratory where accurate control of the 
+quantities of materials and test conditions are possible and where the 
+maximum nominal size of aggregate docs not exceed 38 mm. The method 
+is specially applicable to the making of preliminary compression tests 
+to ascertain the suitability of the available materials or to determine 
+suitable mix proportions. 
+
+2.2 Sampling of Material* - Representative samples of the materials 
+of concrete for use i n the particular concrete construction work shall be 
+
+~~ •Sinle "revised. 
+f Second revision issued in I9d7. 4 
+
+' Second revision issued in 19M. 
+
+
+
+IS: 516- 1959 
+
+obtained by careful sampling. Test samples of cement shall be made up 
+of a small portion taken from each of a number of bags on the site. Trst 
+samples of aggregate shall be taken from larger lots by quartering. 
+
+2.3 Preparation of Materials - All materials shall be brought to room 
+temperature, preferably 27 +3C before commencing the tests. 
+
+The cement samples, on arrival at the laboratory, shall be thoioughly 
+mixed dry either by hand or in a suitable ini\er in such a manner as to 
+ensure the greatest possible blending and uniformity in the material, c:\n- 
+being taken to avoid the intrusion of foreign matter. The cement shall 
+then be stored in a dry place, preferably in air-tight metal containers. 
+
+Samples of aggregates for each batch of concrete shall be of the desired 
+grading and shall be ir. an ait-dried condition. In general, the aggregate 
+shall be separated into fine and coarse fractions and recombined for each 
+concrete batch in such a manner as to produce the desired grading. Is 
+Sieve 480 shall be normally used for separating the fine and coarse frac- 
+tions, but where special gradings are being investigated, both tine and 
+coarse fractions shall be further separated into different sizes. 
+
+2.4 Proportioning — The proportions of the materials, including water, 
+in concrete mixes used for determining the suitability of the materials 
+available, shall be similar in all respects to those to be employed in the 
+A'ork. Where the proportions of the ingredients of the concrete as used 
+jn the site are to be specified by volume, they shall be calculated trorn 
+the proportions by weight used in the test cubes and the unit wtiehis of 
+the materials. 
+
+2.5 Weighing The quantities of cement, each si/.e of aggregate, and 
+water for each batch shall be determined by weight, to an accuracy of 
+0-1 percent of the total weight of the batch. 
+
+2.6 Mixing Concrete - The concrete shall be mixed by hand, or pre- 
+ferably, in a laboratory batch mixer, in such a manner as to avoid loss of 
+water or other materials. Each batch of concrete shall be of such a sue 
+as to leave about 10 percent excess after moulding the desired number of 
+test specimens. 
+
+2.6.1 Machine Mixing —When the mixing drum is chaigcd by a powci 
+loader, all the mixing water shall be introduced into the drum bef<ue the 
+solid materials; the skip shall be loaded with about one-hall ot the coarse 
+aggregate, then with the fine aggregate, then with the cement and finally 
+with the remaining coarse aggregate on top. (If all in-aggiegate is used, 
+the skip shall be loaded first with about one-half of the aggregate then 
+with the cement and finally with the remaining aggregate on top.) 
+Where the mixing drum is hand-loaded it shall be chaiged with the dry 
+materials in a similar manner, and the water shall be added immediately 
+before the .rotation of the drum is started. The period of mixing shall 
+
+
+
+IS: 516 -1959 
+
+be not less than 2 minutes after all the materials are in the drum, and shall 
+continue till the resulting concrete is uniform in appearance. When using 
+pan mixers, the concrete shall be heaped together before sampling. 
+
+2.6.2 Hand Mixing-- The concrete batch shall be mixed on a water- 
+tight, non-absorbent platform with a shovel, trowel or similar suitable 
+implement, using the following procedure: 
+
+a) The cement and fine aggregate shall be mixed dry until the mixture 
+is thoroughly blended and is uniform in colour, 
+
+b) The coarse aggregate shall then be added and mixed with the 
+cement and fine aggregate until the coarse aggregate is uniformly 
+distributed throughout the batch, and 
+
+c) The water shall then be added and the entire batch mixed until 
+the concrete appears to be homogeneous and has the desired con- 
+sistency. If repeated mixing is necessary, because of the addition 
+of water in increments while adjusting the consistency, the batch 
+shall be discarded and a fresh batch made without interrupting 
+the mixing to make trial consistency tests. 
+
+2.7 Workability — Each batch of concrete shall be tested for consistency 
+immediately after mixing, by one of the methods described in IS: 
+1199-1959. Provided that care is taken to ensure that no water or other 
+material is lost, the concrete used for the consistency tests may be re- 
+mixed with the remainder of batch before making the test specimens. 
+The period of re-mixing shall be as short as possible yet sufficient to produce 
+a homogeneous mass. 
+
+2.8 Size of Test Specimens - Test specimens cubical in shape shall be 
+15 X IS x 15 cm. If the largest nominal size of the aggregate does not 
+exceed 2 cm, 10 cm cubes may be used as an alternative. Cylindrical test 
+specimens shall have a length equal to twice the diameter. They shall 
+be 15 cm in diameter and 30 cm long. Smaller test specimens shall have 
+a ratio of diameter of specimen to maximum size of aggregate of not less 
+than 3 to 1, except that the diameter of the specimen shall be not less 
+than 7-5 cm for mixture? containing aggregate more than 5 percent of 
+which is retained on IS Sieve 480. 
+
+2.9 Moulds 
+
+2 9.1 Cube Moulds — The mould shall be ol metal, preferably steel or 
+cast iron, and stout enough to prevent distortion. It shall be constructed 
+in such a manner as to facilitate, the removal of the moulded specimen 
+without damage, and shall be s<> machined that, when it is assembled ready 
+for use. the dimensions and internal faces shall be accurate within the 
+following limits: 
+
+The height of the mould and the distance between opposite faces 
+shall be the specified size + 02 mm. The angle between adjacent 
+
+
+
+18:516-1959 
+
+internal faces and between internal faces and top and bottom planes 
+of the mould shall be 90° + 0-5°. The interior faces of the mould 
+shall be plane surfaces with a permissible variation of 0-03 mm. 
+Each mould shall he provided with a metal base plate having a plane 
+surface. The base plate shall be of such dimensions as to support 
+the mould during the filling without leakage and it shall be preferably 
+attached to the mould by springs or screws. The parts of the mould 
+when assembled shall be positively and rigidly held together, and 
+suitable methods of ensuring this, both during the filling and on 
+subsequent handling of the filled mould, shall be provided. 
+
+2.9.1.1 In assembling the mould for use, the joints between the 
+sections of mould shall be thinly coated with mould oil and a similar 
+coating of mould oil shall be applied between the contact surfaces of the 
+bottom of the mould and the base plate in order to ensure that no water 
+escapes during the filling. The interior surfaces of the assembled mould 
+shall be thinly coated with mould oil to prevent adhesion of the concrete 
+
+2.9.2 Cylinders — The cylindrical mould shall be of metal which shall 
+be not less than 3 mm thick. Each mould shall be capable of being opened 
+longitudinally to facilitate removal of the specimen and shall be provided 
+with a means of keeping it closed while in use. The ends shall not depai t 
+from a plane surface, perpendicular to the axis of the mould, by more than 
+0-05 mm. When assembled ready for use, the mean internal diameter of 
+the mould shall be 15-0 cm ±0-2 mm and in no direction shall the internal 
+diameter be less than 14-95 cm or more than 15-05 cm. The height shall 
+be 30-0 cm + 0-1 cm. Each mould shall be provided with a metal base 
+plate, and with a capping plate of glass or other suitable material. The 
+base plate and the capping plate shall be at least 6-5 mm thick, and such 
+that they do not depart from a plane surface by more than 0-02 mm. 
+The base plate shall support the mould during filling without leakage and 
+■diall be rigidly attached to the mould. The mould and base plate shall 
+be coated with a thin film of mould oil before use, in order to prevent 
+adhesion of the concrete. 
+
+2.9.3 Tamping Bar — The tamping bar shall be a steel bar 16 mm in 
+diameter, 0-6 m long and bullet pointed at the lower end. 
+
+2.10 Compacting - The test specimens shall be made as soon as prac- 
+ticable after mixing, and in such a way as to produce full compaction ol 
+the concrete with neither segregation nor excessive laitance. The con- 
+crete shall be filled into the mould in layers approximately 5 "cm deep. 
+In placing each scoopful of concrete, the scoop shall He moved around the 
+top edge ot the mould as the concrete slides from it, m order to ensure a 
+symmetrical distribution of the concrete within the mould. Each layer 
+shall be compacted either by hand or by vibration as described below 
+(see 2.10.1 and 2.10.2). After the top layer has been compacted, the 
+
+
+
+IS: 516 -1959 
+
+surface of the concrete shall be finished level with the top of the mould, 
+using a trowel, and covered with a glass or metal plate to prevent 
+evaporation. 
+
+2.10.1 Compacting by Hand —When compacting by hand, the stan- 
+dard tamping bar shall be used and the strokes of the bar shall be distri- 
+buted in a uniform manner over the cross-section of the mould. The 
+number of strokes per layer required to produce specified conditions will 
+vary according to the type of concrete. For cubical specimens, in no 
+case shall the concrete be subjected to less than 35 strokes per layer for 
+15 cm cubes or 25 strokes per layer for 10 cm cubes. For cylindrical speci- 
+mens, the number of strokes shall not be less than thirty per layer. The 
+strokes shall penetrate into the underlying layer and the bottom layer 
+shall be rodded throughout its depth. Where voids are left by the tamp- 
+ing bar, the sides of the mould shall be tapped to close the voids. 
+
+2.10.2 Compacting by Vibration — When compacting by vibration, each 
+layer shall be vibrated by me?ns of an electric or pneumatic hammer or 
+vibrator or by means of a suitable vibrating table until the specified con- 
+dition is attained. 
+
+Note — The mode and quantum of vibration of the laboratory specimen shall 
+be as nearly the s.mic as those adopted in actual connrtinR operations. 
+
+2.1 1 Capping Specimens — The ends of all cylindrical test specimens 
+that are not plane within 0-05 mm shall be capped. Capped surfaces 
+shall not depart from a plane by more than 005 mm and shall be approxi- 
+mately at right angles to the axis of the specimens. The planeness of the 
+cap shall be checked by means of a straight edge and feeler gauge, making 
+a minimum of three measurements on different diameters. Caps shall be 
+made as thin as practicable and shall not flow or fracture when the specimen 
+is tested. Capping shall be carried out according to one of the following 
+methods. 
+
+2.11.1 Neat Cement — Test cylinders may be capped with a thin layer 
+of stiff, neat Portland cement paste after the concrete has ceased settling 
+in the moulds, generally for two to four hours or more after moulding. 
+The cap shall be formed by means of glass plate not less than 6-5 mm in 
+thickness or a machined metal plate not less than 13 mm in thickness and 
+having a minimum surface dimension at least 25 mm larger than the dia- 
+meter of the mould. It shall be worked on the cement paste until its 
+lower surface rests on the top of the mould. The cement for capping shall 
+be mixed to a stiff paste for about two to four hours before it is to be 
+used in order to avoid the tendency of the cap to shrink. Adhesion of 
+paste to the capping plate may be avoided by coating the plate with a 
+thin coat of oil or grease. 
+
+2.11.2 Sulphur -- Just prior to testing, the cylindrical specimens may be 
+capped with a sulphur mixture consisting of 2 or 3 parts sulphur to 1 part 
+of inert filler, such as fire-clay. . The specimens shall be securely held in a 
+
+8 
+
+
+
+18:516-1959 
+
+special jig so that the caps formed have true plane surfaces. Care shall be 
+taken to ensure that the sulphur compound is not over-heated as it will 
+not then develop the required compressive strength. Sulphur caps shall be 
+allowed to harden for at least 2 hours before applying the load. 
+
+2.11.3 Hard Plaster — Just prior to testing, specimens may be capped 
+with hard plaster having a compressive strength of at least 420 kg/sq cm 
+in one hour. Such plasters are generally available as proprietory material. 
+The cap shall be formed by means of a glass plate not less than 13 mm in 
+thickness, having a minimum surface dimension at least 25 mm larger than 
+the diameter of the mould. The glass plate shall be lightly coated with 
+oil to avoid sticking. 
+
+Note Ordinary plaster of p.-iris will not serve the purpose of the capping 
+materia! duo to itt low compressive stri-n^Ui 
+
+2.11.4 As soon as possible after the concrete is mixed, a mortar shall 
+be gauged using a cement similar to that used in the concrete and sand 
+which passes IS Sieve 30 but is retained on IS Sieve 15. The mortar shall 
+have a water/cement ratio not higher than that of the concrete of which 
+the specimen is made, and shall be of a stiff consistence. If an excessively 
+wet mix of concrete is being tested, any free water which has collected 
+on the surface of the specimen shall be removed with a sponge, blotting 
+paper or other suitable absorbent material before the cap is formed. The 
+mortar shall then be applied firmly and compacted with a trowel to a 
+slightly convex surface above the edges of the mould, after which the 
+capping plate shall be pressed down on the cap with a rotary motion uatil 
+it makes complete contact with the rim of the mould. The plate shall 
+be left in position until the specimen is removed from the mould. 
+
+2.12 Curing — The test specimens shall be stored in a place, free from 
+vibration, in moist air of at least 90 percent relative humidity and at a 
+temperature of 27° + 2°C for 24 hours ± \ hour from the time of addition 
+of water to the dry ingredients. After this period, the specimens shall be 
+marked and removed from the moulds and, unless required for test within 
+24 hours, immediately submerged in clean, fresh water or saturated lime 
+solution and kept there until taken out just prior to test. The water or 
+solution in which the specimens are submerged shall be renewed every 
+seven days and shall be maintained at a temperature of 27° + 2°C. The 
+specimens shall not be alloweo to become dry at any time until they have 
+been tested. 
+
+3. MAKING AND CURING COMPRESSION TEST 
+SPECIMEN IN THE FIELD 
+
+3.1 This clause deals with the procedure for making and curing compres- 
+sion test specimens of concrete sampled during the progress of construction 
+where the nominal maximum size of the aggregate does not exceed 38 mm. 
+
+
+
+IS: 516- 1959 
+
+3.2 Size of test specimen, apparatus to be used and procedure to prepare 
+specimens shall be the same as specified in 2. 
+
+3.3 Curing — The test specimens shall be stored on the site at a place 
+free from vibration, under damp matting, sacks or other similar material 
+for 24 hours ± £ hour from the time of adding the water to the other 
+ingredients. The temperature of the place of storage shall be within the 
+range of 22° to 32°C. After the period of 24 hours, they shall be marked 
+for later identification, removed from the moulds and, unless required for 
+testing within 24 hours, stored in clean water at a temperature of 24° to 
+30°C until they are transported to the testing laboratory. They shall be 
+sent to the testing laboratory well packed in damp sand, damp sacks, or 
+other suitable material so as to arrive there in a damp condition not less 
+than 24 hours before the time of test. On arrival at the testing laboratory, 
+the specimens shall be stored in water at a temperature of 27° ± 2°C until 
+the time of test. Records of the daily maximum and minimum tempe- 
+rature shall be kept both during the period of the specimens remain on 
+the site and in the laboratory. 
+
+4. SECURING AND PREPARING SPECIMENS OF 
+
+HARDENED CONCRETE FOR COMPRESSION TEST 
+
+4.1 This clause deals with the procedure for securing and preparing com- 
+pression test specimens obtained from hardened concrete after the con- 
+crete has been laid in position. 
+
+4.2 The test specimens shad be procured from hardened concrete according 
+to the method described in 4 of IS: 1199-1959.* 
+
+4.3 Cores to be tested for compression strength shall have ends that are 
+reasonably even, perpendicular to the axis and of the same diameter as 
+the body of the specimen. A core which, before capping, has a maximum 
+height of less than 95 percent of the diameter, or after capping, a height 
+less than its diameter shall not be used. 
+
+4.4 Capping — The ends of the specimen shall be capped before testing. 
+The material used for the capping shall be such that its compressive 
+strength is greater than that of the concrete in the core. Caps shall be 
+made as thin as practicable and shall not flow or fracture before the con- 
+crete fails when the specimen is tested. The capped surfaces shall be at 
+right angles to the axis of the specimen and shall not depart from a plane 
+by more than 005 mm. The capping of specimens shall be carried out 
+as described in 2.11. 
+
+4.5 After checking for irregularities, the core shall be placed in water at a 
+temperature of 24° to 30°C for 48 hours before testing. The overall height 
+of the specimens, with capping shall be measured to the nearest millimetre. 
+
+'Since revised. 
+
+10 
+
+
+
+IS: 516- 1959 
+
+5. TEST FOR COMPRESSIVE STRENGTH OP 
+CONCRETE SPECIMEN 
+
+5.1 This clause deals with the procedure for determining the compressive 
+strength of concrete specimens. 
+
+5.2 Apparatus 
+
+5.2.1 Testing Machine — The testing machine may be of any reliable 
+type, of sufficient capacity for the tests and capable of applying the load 
+at the rate specified in 5.5. The permissible error shall be not greater 
+than ± 2 percent of the maximum load. The testing machine shall be 
+equipped with two steel bearing platens with hardened faces. One of the 
+platens (preferably the one that normally will bear on the upper surface 
+of the specimen) shall be fitted with a ball seating in the form of a portion 
+of a sphere, the centre of which coincides with the central point of the 
+face of the platen. The other compression platen shall be plain rigid 
+bearing block. The bearing faces of both platens shall be at least as large 
+as, and preferably larger than the nominal size of the specimen to which 
+the load is applied. The bearing surface of the platens, when new, shall 
+not depart from a plane by more than 0-01 mm at any point, and they 
+shall be maintained with a permissible variation limit of 0-02 mm. The 
+movable portion of the spherically seated compression platen shall be held 
+on the spherical seat, but the design shall be such that the bearing face 
+can be rotated freely and tilted through small angles in any direction. 
+
+5.3 Age at Teat — Tests shall be made at recognized ages of the test 
+specimens, the most usual being 7 and 28 days. Ages of 1 3 weeks and one 
+year are recommended if tests at greater ages are required. Where it may 
+be necessary to obtain the early strengths, tests may be made at the ages 
+of 24 hours ± J hour and 72 hours + 2 hours. The ages shall be cal- 
+culated from the time of the addition of water to the dry ingredients. 
+
+5.4 Number of Specimens — At least three specimens, preferably from 
+different batches, shall be made for testing at each selected age. 
+
+Note — When a full investigation is being carried out. it is advisable for three 
+separate batches to be made for each given variable. An equal number of speci- 
+mens for each variable should lie made. 
+
+5.5 Procedure — Specimens stored in water shall be tested immediately 
+on removal from the water and while they are still in the wet condition. 
+Surface water and grit shall be wiped off the specimens and any projecting 
+fins removed. Specimens when received dry shall be kept in water for 
+24 hours before they are taken for testing. The dimensions of the speci- 
+mens to the nearest 0-2 mm and their weight shall be noted before testing. 
+
+5.5.1 Placing the Specimen in the Testing Machine — The bearing surfaces 
+of the testing machine shall be wiped clean and any loose sand or other 
+material removed from the surfaces of the specimen which are to be in 
+
+11 
+
+
+
+IS: 516 -1959 
+
+contact with the compression platens. In the case of cubes, the specimen 
+shall be placed in the machine in such a manner that the load shall be ap- 
+plied to opposite sides of the cubes as cast, that is, not to the top and 
+bottom I he axis of the specimen shall be carefully aligned with the 
+centre of thrust of the spherically seated platen No packing shall be 
+used between the faces of the test specimen and the steel platen of the 
+testing machine As the spherically seated block is brought to bear on 
+the specimen, the movable portion shall be rotated gently by hand so 
+that uniform seating may be obtained. The load shall be applied without 
+shock and increased continuously at a rate of approximately 140 kg/sq 
+cm/min until the resistance of the specimen to the increasing load breaks 
+down and no greater load can be sustained. The maximum load applied 
+to the specimen shall then be recorded and the appearance of the concrete 
+and any unusual features in the type of failure shall be noted. 
+
+5.6 Calculation — The measured compressive strength of the specimen 
+shall be calculated by dividing the maximum load applied to the specimen 
+during the test by the cross-sectional area, calculated from the mean di- 
+mensions of the section (see also 4.5.1 of IS- 1199-1959) and shall be 
+expressed to the nearest kg per sq cm. Average of three values shall be 
+taken as the representative of the batch provided the individual variation 
+is not more than + IS percent of the average. Otherwise repeat tests 
+shall be made. 
+
+5.6.1 A correction factor according to the height/diameter r*tio of 
+specimen after capping shall be obtained from the curve shown in Fig. 1. 
+The product of this correction factor and the measured compressive 
+strength shall be known as the corrected compressive strength, this being 
+the equivalent strength of a cylinder having a height/diameter ratio of two. 
+The equivalent cube strength of the concrete shall be determined by 
+multiplying the corrected cylinder strength by 5/4 
+
+5.6.2 Report — The following information shall be included in the report 
+on each test specimen: 
+
+a) identification mark, 
+
+b) date of test, 
+
+c) age of specimen, 
+
+d) curing conditions, including date of manufacture of specimen in 
+the field, 
+
+e) weight ot specimen, 
+
+f) dimensions of specimen, 
+
+g) cross-sectional area, 
+h) maximum load, 
+
+]) compressive strength, and 
+k) appearance of fractured faces of concrete and type of fracture, 
+
+if the se are unusual. 
+•Since revised 
+
+1Z 
+
+
+
+IS: 516 -1959 
+
+
+
+• •CO 
+
+
+
+j o-»» 
+
+
+
+o*ta 
+
+
+
+»•• 
+
+
+
+— — — «y p '[ ■ ' ■■■" ■ ■■■■■ ■■■ m ■«■■■ « ■ ■ ■ 
+
+
+
+••o 
+
+
+
+!•» 
+
+
+
+1*4 
+RATIO-. 
+
+
+
+1-6 
+
+HEIGHT 
+
+
+
+!•■ 
+
+
+
+*0 
+
+
+
+MAMCTCB 
+
+Fie 1 Cokrbctiox Factok for Hrioht/Diametbr katio of a Con* 
+
+
+
+6. DETERMINATION OF COMPRESSIVE 
+
+STRENGTH OF CONCRETE USING PORTIONS Of 
+BEAMS BROKEN IN FLEXURE ( " EQUIVALENT 
+CUBE " METHOD ) 
+
+6.1 This clause specifies tlio procedure for determining the compressive 
+strength of concrete using portions of beams broken in flexure as the test 
+specimens. The results obtained from this test are approximately equal to, 
+and on the average may be up to 5 percent greater than those obtained 
+by the test specified in 5. 
+
+Note - For method of nuikinn and t«iUing flexure test spi omens, see 7. 
+
+6J Apparatus 
+
+6.2.1 Compression Testing Machine — The testing machine shall comply 
+in all respects with the requirements of 5.2.1. 
+
+6.2 J Bearing Plates — Two metal bearing plates not less than 6-5 mm 
+or more than 19 mm thick shall be provided. The plates shall be 10 cm 
+square for the beams 10 cm in depth and 15 cm square for the beams 15 cm 
+in depth with the surfaces machined to a permissible variation not 
+exceeding 002 mm. The distance between the opposite edges shall be 
+the specified size ± 002 mm and the angle between the edges shall be 
+90° ± 0-5°. 
+
+
+
+13 
+
+
+
+18:516-1959 
+
+6.3 Test Specimens — The length of the broken portions of the beams 
+selected for the compression test shall be at least 5 cm greater than the 
+depth of the beam and the broken portions shall be free from cracks, 
+chipped surfaces or other obvious defects within the length to be tested. 
+
+6.4 Procedure — During the interval between testing the specimens as 
+beams and testing the broken portions as cubes, the specimens shall be 
+stored in water at a temperature of 24° to 30°C and shall be tested im- 
+mediately on removal from the water and while still in the wet condition. 
+
+6.4.1 Placing the Specimen in the Testing Machine — The bearing sur- 
+faces of the testing machine and the bearing plates shall be wiped clean 
+and any loose sand or other material shall be removed from the surfaces 
+of the specimen which are to be in contact with the bearing plates. The 
+specimen shall be placed between the bearing plates in such a manner 
+that the upper bearing plate is directly over the lower plate and the bear- 
+ing plates extend at least 25 mm from each end of the specimen. A device 
+which ensures the proper location of the upper plate with reference to the 
+lower plate is shown in Fig. 2. No packing shall be used between the 
+faces of the specimen and the bearing plates. The specimens shall be 
+tested with the moulded sides in contact with the plates Thr load shall 
+
+
+
+cuioe SUPPORT 
+
+6OLTE0 OR WELOEO 
+TO BOTTOM PLATE 
+
+
+
+
+TOP BEARING 
+
+PLATE 
+
+
+
+BOTTOM BEARING 
+PLATE 
+
+
+
+Fig 2 Devici- for Alignino Blarinc Plmes 
+14 
+
+
+
+IS : Sit . 1*59 
+
+be applied without shock and increased continuously at a rate of approxi- 
+mately 140 kg/sq cm/min until the resistance of the specimen to the in- 
+creasing load breaks down and no greater load can be sustained. The 
+maximum load applied to the specimen shall then be recorded and the 
+appearance of the concrete and any unusual features in the type of failure 
+shall be noted. 
+
+6.5 Calculation — The equivalent cube strength of the specimen shall 
+be calculated by dividing the maximum load by the area of contact of 
+the bearing plates and shall be expressed to the nearest kg/sq cm. 
+
+6.6 Report — The following information shall be included in the report 
+
+on each specimen: 
+
+a) identification mark, 
+
+b) date of test, 
+
+c) age of specimen, 
+
+d) curing conditions, 
+
+e) nominal size of specimen, 
+
+f) maximum load, 
+
+g) equivalent cube strength, and 
+
+h) appearance of the concrete and type of fracture, if these are unusual. 
+
+7. MAKING AND CURING FLEXURE TEST 
+SPECIMENS IN THE LABORATORY 
+
+7.1 This clause specifies the procedure for making and curing flexure test 
+specimens of concrete in the laboratory where accurate control of the 
+quantities of materials and test conditions is possible, provided the maxi- 
+mum nominal size of the aggregate does not exceed 38 mm. The method 
+is specially applicable to the making of preliminary flexure tests to ascertain 
+the suitability of the available material or to determine suitable mix 
+proportions. 
+
+7.2 Sampling of Material — Preparation of materials, proportions, 
+weighing, mixing of concrete shall be done in the same way as in the case 
+of making compression test specimens in the laboratory (see 2). 
+
+7 .3 Size of Specimens — The standard size shall be 15 x 15 x 70 cm. 
+Alternatively, if the largest nominal =>i/e of the aggregate docs not exceed 
+19 mm, specimens 10 x 10 x 50 cm may be usecL 
+
+7.4 Apparatus 
+
+7.4.1 The mould shall be of metal, preferably steel or cast iron and the 
+metal shall be of sufficient thickness to prevent spreading or warping. 
+The mould shall be constructed with the longer dimension horizontal and 
+in such a manner as to facilitate the removal of the moulded specimens 
+
+15 
+
+
+
+18:516-1959 
+
+without damage. The mould shall be u> machined that when assembled 
+ready for use the dimensions shall be accurate within the following limits: 
+
+a) The height of the mould shall be either 15-0 ± 0-005 cm or 
+10-0 ± 0-005 cm, and the corresponding internal width of the 
+mould shall be 15-0 ± 0-02 cm or 10-0 ± 0-02 cm respectively. 
+The angle between the interior faces and the top and bottom 
+planes of the mould shall be 90° ± 0-5°. The internal surfaces of 
+the mould shall.be plane surfaces with a permissible variation of 
+0-02 mm in 15-0 cm and 0-1 mm overall. 
+
+b) Each mould shall be provided with a metal base plate and two 
+loose top plates of 4-0x0-6 cm cross-section and 5-0 cm longer than 
+the width of the mould. The base plate and top plate shall have 
+plane surfaces with a permissible variation of 0-05 mm. The base 
+plate shall support the mould without leakage during the filling, 
+and shall be rigidly attached to the mould. 
+
+c) The parts of the mould when assembled shall be positively and 
+rigidly held together, and suitable methods of ensuring this, both 
+during the filling and on subsequent handling of the filled mould, 
+shall be provided. 
+
+d) In assembling the mould for use, the joints between the sections 
+of the mould shall be thinly coated with mould oil and a similar 
+coating of mould oil shall be applied between the contact surfaces 
+of the bottom of the mould and the base plate in order to ensure 
+that no water escapes during the filling. The interior faces of the 
+assembled mould shall be thinly coated with mould oil to prevent 
+adhesion of the concrete. 
+
+7.4.2 Tamping Bar — The tamping bar shall be a steel bar weighing 
+2 kg, 40 cm long, and shall have a ramming face 25 mm square. 
+
+7.5 Procedure, curing, age at test, number of specimens shall be the same 
+as in 2 and 5. 
+
+8. TEST FOR FLEX URAL STRENGTH OF 
+MOULDED FLEXURE TEST SPECIMENS 
+
+8.1 This clause deals with the procedure for determining the flexural 
+strength of moulded concrete flexure test specimens. 
+
+8.2 Apparatus 
+
+8.2.1 The testing machine may be of any reliable type of sufficient 
+capacity for the tests and capable of applying the load at the rate specified 
+in 8.3. The permissible errors shall be not greater than ± 0-5 percent 
+of the applied load where a high degree of accuracy is required and not 
+greater than ±1-5 percent of the applied load for commercial type of use. 
+The bed of the testing machine shall be provided with two steel rollers, 
+
+16 
+
+
+
+IS: 516- 1959 
+
+38 mm in diameter, on which the specimen is to be supported, and these 
+rollers shall be so mounted that the distance from centre to centre is 60 cm 
+for 15-0 cm specimens or 40 cm for 100 cm specimens. The load shall be 
+applied through two similar rollers mounted at the third points of the 
+supporting span, that is, spaced a f 20 or 13-3 cm centre to centre. The load 
+shall be divided equally between the two loading rollers, and all rollers 
+shall be mounted in such a manner that the load is applied axially and 
+without subjecting the specimen to any torsional stresses or restraints. 
+One suitable arrangement which complies with these requirements is 
+indicated in Fig. 3. 
+
+8.3 Procedure — Test specimens stored in water at a temperature of 
+24° to 30°C for 48 hours before testing, shall be tested immediately on 
+removal from the water whilst they are still in a wet condition. The di 
+mensions of each specimen shall be noted before testing No pieparation 
+of the surfaces is required. 
+
+8.3.1 Placing the Specimen in the Testing Machine - The bearing sur- 
+faces of the supporting and loading rollers shall be wiped cUan, and any 
+loose sand or other material removed from the surfaces of the specimen 
+where thev are to make contact with the rollers. The specimen shall then 
+be placed in the machine in such a manner that the load shall be applied to 
+the uppermost surface as cast in the mould, along two line* spaced 200 or 
+13-3 cm apart. The axis of the specimen shall be carefully aligned with 
+the axis of the loading device. No packing shall be used between the 
+bearing surfaces of the specimen and the rollers. The load shall be applied 
+without shock and increasing continuously at a rate such that the extreme 
+fibre stress increases at approximately 7 kg/sq cii./min, that is, at a 
+rate of loading of 400 kg/min for the 15-0 cm specimens and at a rate of 
+180 kg/min for the 10-0 cm specimens. The load shall be increased until 
+the specimen fails, and the maximum load applied to the specimen during 
+the test shall be recorded. Th«" appearance of the fractured faces of con- 
+crete and any unusual features in the type of failure shall be noted. 
+
+8.4 Calculation — The flexural strength of the specimen shall be ex- 
+pressed as the modulus of rupture f h , which, if ' a ' equals the distance 
+between the line of fracture and the nearer support, measured on the 
+centre line of the tensile side of the specimen, in cm, shall be calculated 
+to the nearest 0-5 kg/sq cm as follows: 
+
+fh ~ b ■ d* 
+
+when ' a ' is greater than 200 cm for 150 cm specimen, or greater than 
+13-3 cm for a 10-0 cm specimen, or 
+
+3/k - a 
+Jb ~ b'd* 
+when ' a ' is less than 200 cm but greater than 170 cm for 150 cm speci- 
+men, or less than 13-3 cm but greater than 110 cm for a 100 cm specimen 
+
+17 
+
+
+
+IS : 516 - 1959 
+
+where 
+
+b = measured width in cm of the specimen, 
+
+i = measured depth in cm of the specimen at the point of 
+failure, 
+
+/ ~ length in cm of the span on which the specimen was sup- 
+ported, and 
+
+p — maximum load in kg applied to the specimen 
+
+If ' a ' is less than 17-0 cm for a 15-0 cm specimen, or less than 11-0 cm 
+for a 10-0 cm specimen, the results of the test shall be discarded 
+
+8.5 Report — The following information shall be included in the report 
+on each specimen: 
+
+a) identification mark, 
+
+b) date of test, 
+
+c) age of specimen, 
+
+d) curing conditions, 
+
+e) size of specimen, 
+
+f) span length, 
+
+g) maximum load, 
+
+h) position of fracture ( value ' a ' ), 
+
+j) modulus of rupture ( kg per sq cm ), and 
+
+k) appearance of concrete and type of fracture if these are unusual 
+
+9. DETERMINATION OF THE MODULUS OF 
+
+ELASTICITY BY MEANS OF AN EXTENSOMETER 
+
+9.1 This clause specifies the procedure for making and curing test speci- 
+mens, determining the modulus of elasticity of concrete in compression 
+by means of an extensometer where the maximum nominal size of aggre- 
+gate does not exceed 38 mm. 
+
+9.2 Size of Specimens — The test specimens shall consist of concrete 
+cylinders 15-0 cm in diameter and 30-0 cm long. Alternately, other sizes 
+of cylinders or square prisms may be used provided that the height/dia- 
+meter or height/width ratio is at least 2 
+
+9.3 Sampling, apparatus and procedure shall be as described in 2. 
+
+9.4 Preparation of Test Specimens — The test specimens shall be pre- 
+pared in accordance with 2 and shall be stored in water at a temperature of 
+24° to 30°C for at least 48 hours before testing At least three specimens 
+shall be made and tested. 
+
+9.5 Age at Test — Normally test shall be made when the specimens 
+reach the age of 28 days 
+
+18 
+
+
+
+' '■' 'ufA/( ""■> 
+
+
+
+
+
+
+
+SECTION CC 
+
+
+
+
+-10CATMC feyrs KMOVCO KTOflC 
+
+LO40M6 » COUMCWCO 
+
+
+
+
+
+
+
+
+7777 
+
+c 
+
+
+
+«> O* 400 
+
+
+
+Fig. 3 Arrangement for Loading or Flexure Test Specimen 
+
+
+
+
+; >?/\tmk>. h >> 
+
+
+
+777 
+
+
+
+SECTION ft» 
+
+
+
+CO 
+
+w 
+
+
+
+<6 
+
+
+
+IS: 516- 1959 
+
+9.6 In order to determine the compressive strength of the concrete, three 
+test specimens for compressive strength shall be made together with each 
+set of cylinders or prisms in accordance with 9.2. The test specimens for 
+compressive strength shall be made from the same sample of concrete as 
+the cylinders or prisms and shall be cured and stored under identical 
+conditions. 
+
+9.7 Apparatus 
+
+9.7.1 Testing Machine — The testing machine shall comply in all 
+respects with the requirements of 5.2.1 and in addition shall be capable 
+of maintaining the load at any desired value. 
+
+9.7.2 Extensometers — Two extensometers are required each having a 
+gauge length of not less than 10-2 cm and not more than half the length 
+of the specimen. They shall be capable of measuring strains to an accu- 
+racy of 2 X 10"*. Mirror extensometers of the roller or rocker type are 
+suitable. 
+
+9.8 Procedure — The three test specimens for compressive strength shall 
+first be tested in accordance with 5 and the average compressive strength 
+shall be recorded. Immediately on removing the cylinder or prism 
+from the water and while it is still in a wet condition, the exte- 
+nsometers shall be attached at the ends, or on opposite sides of 
+the specimen and parallel to its axis, in such a way that the gauge points 
+are symmetrical about the centre of the specimen and in no case are nearer 
+to either end of the specimen than a distance equal to half the diameter 
+or half the width of the specimen. The extensometers shall be fixed with 
+the recording points at the same end. The specimen shall be immediately 
+placed in the testing machine and accurately centred. The load shall be 
+applied continuously and without shock at a rate of 140 kg/sq cm/min 
+until an average stress of (C-h5) kg sq cm is reached, wheie C is one- 
+third of the average compressive strength of the cubes calculated to the 
+nearest 5 kg/sq cm. The load shall be maintained at this stress for at 
+least one minute and shall then be reduced gradually to an average stress 
+of 1-5 kg/sq cm when extensometer readings shall be taken. The load 
+snail be applied a second time at the same rate until an average stress of 
+(C-+-T5) kg/sq cm is reached. The load shall be maintained at this figure 
+while extensometer readings are taken. The load shall again be reduced 
+gradually and readings again taken at 1-5 kg sq cm. The load shall then 
+be applied a third time and extensometer readings taken at ten approxi- 
+mately equal increments of stress up to an average stress of (C-t-1-5) kg/ 
+sq cm. Readings shall be taken at each stage of loading with as little 
+delay as possible. If the overall strains observed on the second and third 
+readings differ by more than 5 percent, the loadiiig cycle shall be repeated 
+until the difference in strain between consecutive readings at ((,' f IS) kg/ 
+sq cm does not exceed 5 percent. 
+
+20 
+
+
+
+18:516-1959 
+
+9.9 Calculation — The strains at the various loads in the last two cycles 
+shall be calculated separately for each extensorneter and the results shall 
+be plotted graphically against the stress. Straight lines shall be drawn 
+through the points for each extensorneter; the slopes of these two lines 
+shall be determined and from them the average value shall be found. If 
+the difference between the individual values is less than 15 percent of the 
+average value, this average value, expressed in kg/sq cm to the nearest 
+1 000 kg/sq cm shall be recorded as the modulus of elasticity of the con- 
+crete. If the difference is greater than 15 percent, the specimen shall be 
+re-centred in the testing machine and the test repeated. If the difference 
+after re-centring and testing is still greater than 15 percent of the average 
+value, the results of the test shall be discarded. 
+
+9.10 Report — The following information shall be included in the report: 
+
+a) identification mark; 
+
+b) date of test; 
+
+c) age of specimen; 
+
+d) shape and nominal dimensions of specimen ; 
+
+e) modulus of elasticity; and 
+
+f) remarks, such as number of loading cycles. 
+
+10. DETERMINATION OF THE MODULUS OF 
+
+ELASTICITY BY ELECTRODYNAMIC METHOD 
+
+10.1 This clause specifies the procedure for determining the modulus of 
+elasticity of concrete by an electrodynamic method, namely by measuring 
+the natural frequency of the fundamental mode of longitudinal vibration 
+of concrete prisms. This is a non-destructive test and therefore the same 
+specimen 1 * may subsequently be used for the flexural strength test specified 
+in 8. 
+
+10.2 Specimens — The specimens bhall in all respects comply with the 
+requirements of 9.2. 
+
+10.3 Apparatus — The apparatus shall consist of the following. 
+
+10.3.1 A variable frequency oscillator with a working range up to 
+10 000 cycles per second, reading to an accuracy of ±0-5 percent. A means 
+of varying the output power shall be incorporated, and the output power 
+shall be not less than 2 watts. 
+
+10.3.2 An electro-magnetic exciter unit of the moving-coil or variable 
+air-gap type. If the moving-coil type is used, the former and coil should 
+have as low an inertia as possible, the mass being not more than 0-2 percent 
+of the mass of the specimen ( the former should be of light card or paper ). 
+A suitable type of instrument is shown in Fig. 4. If a variable air-gap 
+exciter unit is used, this shall be of a similar type to the pick-up unit. 
+
+21 
+
+
+
+8 
+
+
+
+SPECIMEN 
+
+
+
+•KK>UP UNIT 
+
+
+
+~\ 
+
+
+
+UCHT MM* FOMKR. THE FORMER 
+
+ANO COM. MUST SLIDE LOOSELY IN 
+
+THE ANNULAR SPACE BETWEEN THE 
+
+POLES OF THE MAGNET 
+
+CLAMP OP SOPPOPT 
+
+
+
+EXCITER 
+
+
+
+
+VA\V\\V\\VvVVV\\VAVsA 
+
+
+
+NOT TO EICEEO jgl* LENGTH 
+OP SPECIMEN 
+
+
+
+
+ADHESIVE 
+
+
+
+
+aVs^aVavCv 
+
+
+
+I / I /COIL C# SO TO lOO TURNS 
+
+
+
+
+DETAIL OF EXCITER 
+
+•The adhesive or other method of attachment should preferably allow paper cylinder to be detached after 
+teat for further oae. 
+
+
+
+0B 
+
+
+
+i 
+
+
+
+fic. 4 aftftamgemekt of specimen for the determination of modulus of 
+Elasticity »y Rlectrodykamic Method 
+
+
+
+IS: 516- 1959 
+
+10.3.3 An electro-magnetic pick-up unit ol the ordinary telephone type. 
+Alternatively, a piezo-clcctric gauge may be used, provided that its mass 
+\S not more than 0-2 percent of the mass of the specimen. 
+
+10.3.4 An audio-frequency amplifier. 
+
+10.3.5 An amplitude indicator consisting of a voltmeter, millianimrter 
+or cathode-ray oscilloscope. 
+
+10.3.6 A fixed clamp or support with a maximum width of t \\X\ of the 
+length of the specimen. If a variable air-gap exciter unit is used in con- 
+I unction with a variable air-gap pick-up, the support shall he metallic 
+arid earthed. 
+
+10.4 Procedure — Immediately on removal from water, except when 
+the specimen is less than 24 hours. old, and while still in a wet condition, 
+the specimen shall be clamped or balanced at its centre on the fixed sup- 
+port. Where a moving-coil type of exciter unit is used, the moving-coil por- 
+tion shall be fixed to the middle of one end face of the specimen as indicated 
+in Fig. 4. It may be fixed to the specimen by means of resin or other 
+suitable adhesive. The resin can conveniently be applied with an electric 
+soldering iron. A disk of tinfoil, of 5 cm diameter, shall be lightly greased 
+to ensure adhesion and placed on the centre of the other end of the speci- 
+men, and the pick-up unit shall be placed with thr diaphragm as close 
+as possible to the foil but the pick-up unit shall not be allowed to touch 
+the tinfoil or the specimen. If a variable air-gap exciter is used, this shall 
+be mounted in a. similar manner to the pick-up, using a disk of tinfoil. 
+The exciter unit shall be driven by the variable frequency oscillator, and 
+the oscillations received by the pick-up unit shall be amplified bv the 
+audio-frequency amplifier and applied to the indicator in such a manner 
+as to show the amplitude of the oscillations received. The frequency of 
+excitation shall be varied until resonance is obtained in the fundamental 
+mode of longitudinal vibration. The frequency shall be recorded as the 
+natural frequency of the fundamental mode of longitudinal vibration. 
+
+Note - ■ Resonance is indicated by a maximum deflection of the indicator, but 
+teverat mamma may I* obtained, and experience is necessary to know which in the 
+maximum required Frequencies within + 10 percent of the expected value, 
+which may be calculated Irom the formula given in 10.6 should be investi- 
+gated Values ol Ihe modulus of elasticity range from 1 4 X 10* kg/sq cm for low- 
+qualttv concretes at earl> axes to 5 x 10* kg/sq cm for high-quality concretes .it 
+greater ages This represents a frequent \ ra'nge of U5O0O7/ cycles per second to 
+2230007/ cycles per second where I n the length ol the specimen in cm It it usually 
+possible to obtain resonance also at the Irequi-nry of the first harmonic which 
+is twice the fundamental frequency and these two conditions arc normally the 
+most well defined 
+
+10.5 Measurement! - The following measurements shall be made on 
+the specimen : 
+
+a) Weight — The wet specimen shall be weighed to an accuracy of 
+0-25 percent. 
+
+23 
+
+
+
+18: 516 . 1959 
+
+b) Length — The length of the specimen shall be determined to .in 
+accuracy of ± 1 mm, the average being taken of at least four »ym- 
+meirically placed measurements. 
+
+c) Depth and Breadth — The average depth and breadth of the speci- 
+men shall be determined to an accuracy of + 0-2 mm, the average 
+being taken in each case of at least six measurements rpac d 
+equally along the length of the specimen. 
+
+10.6 Calculation — The density of the wet concrete shall be calculated 
+from the formula: 
+
+- l0 ** w 
+w ~ Ixbxd 
+
+10.6.1 The dynamic modulus of elasticity shall then be calculated to 
+the nearest 1 000 kg/sq cm from the formula : 
+
+£-4083 X 10r B n*Pw 
+
+where 
+
+E = dynamic modulus of elasticity in kg per sq cm, 
+
+n — natural frequency of the fundamental mode of longitudinal 
+
+vibration of the specimen, in cycles per second, 
+w = density in kg per cu m, 
+W = weight in kg of the specimen, 
+/ = length in cm of the specimen, 
+b = breadth in cm of the specimen, and 
+d = depth in cm of the specimen. 
+
+10.7 Number of Specimens — At least three specimens shall be tested 
+for each age of test. 
+
+10.8 Report — The following information shall be included in the report 
+on each specimen : 
+
+a) identification mark, 
+
+b) date of test, 
+
+c) age of specimen, 
+
+d) curing conditions, 
+
+e) average dimensions of specimen, 
+
+f) weight of wet specimen. 
+
+g) natural frequency of the fundamental mode of longitudinal vibration 
+of specimen, and 
+
+h) dynamic modulus of elasticity. 
+
+
+
+24 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Haadquartart: 
+
+Manak Bhavan, 9 Bahadur Shah Zalar Marg, NEW DELHI 110002 
+
+Telephones: 23230131, 23233375, 23239402 Fax: 91+011 23239399, 23239382 
+
+E • Malt : bis©vsnl.com website : httpV/www.bis org.in 
+
+Central Laboratory: 
+
+Plot No. 20/9, Site IV, Sahibabad Industrial Area, SAHIBABAD 201010 
+
+Regional Otficaa: 
+
+Central: Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 110002 
+•Eastern: 1/14 CIT Scheme VII M, VIP. Road, Kankurgachi, KOLKATA 700054 
+Northern: SCO 335-336, Sector 34-A, CHANDIGARH 160022 
+Southern: C.I.T. Campus, IV Cross Road, CHENNAI 600113 
+Western: Manakalaya, E9, MIDC, Behind Marol Telephone Exchange, 
+Andheri (East), MUMBAI 400093 
+
+Branch Oftlcaa: 
+
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur, AHMEDABAD 380001 
+Peenya Industrial Area, 1" Stage, Bangalore-Tumkur Road, BANGALORE 
+Commercial-cum-Office Complex, Opp. Dushera Maidan, E-5 Arera Colony, 
+
+Bittan Market, BHOPAL 462016 
+62-63, Ganga Nagar, Unit VI, BHUBANESHWAR 751001 
+5* Floor, Kovai Towers, 44 Bala Sundaram Road, COIMBATORE 641018 
+SCO 21, Sector 12, Fandabad 121007 
+Savitri Complex, 116 G.T. Road, GHAZIABAD 201001 
+
+Plot No A-20-21, Institutional Area, Sector 62, Goutam Budh Nagar, NOIDA-201307 
+53/5 Ward No. 29, R.G. Barua Road, 5th By-lane, Apurba Sinha Path, 
+
+QUWAHATI 781003 
+5-8-56C, L.N Gupta Marg, Nampally Station Road, HYDERABAD 500001 
+E-52, Chitaranjan Marg, C-Scheme, JAIPUR 302001 
+117/418 B, Sarvodaya Nagar, KANPUR 208005 
+Sethi Bhawan, 2" Floor, Behind Leela Cinema, Naval Kishore Road, 
+
+LUCKNOW 226001 
+NIT Building, Second Floor, Gokulpat Market, NAGPUR 440010 
+Mahatxr Bhavan, 1" Floor, Ropar Road, NALAGARH 174101 
+Patliputra Industrial Estate, PATNA 800013 
+First Floor, Plot Nos 657-660, Market Yard, Gultkdi, PUNE 411037 
+'Sahajanand House" 3 M Floor, Bhaktinagar Circle, B0 Feet Road. 
+
+RAJKOT 360002 
+T.C. No. 14/1421, University P.O. Palayam, THIRUVANANTHAPURAM 695034 
+1" Floor, Udyog Bhavan, VUDA, Sinpuram Junction, VISHAKHAPATNAM-03 
+
+
+
+Talaphona 
+
+
+27700 32 
+
+
+2323 76 17 
+
+
+2337 86 62 
+
+
+260 38 43 
+
+
+2254 19 84 
+
+
+2832 92 95 
+
+
+560 13 48 
+
+
+839 49 55 
+
+
+242 34 52 
+
+
+240 31 39 
+
+
+221 01 41 
+
+
+229 2175 
+
+
+286 1498 
+
+
+240 22 06 
+
+
+254 1 1 37 
+
+
+2320 10 84 
+
+
+237 38 79 
+
+
+221 82 92 
+
+
+221 56 98 
+
+
+252 51 71 
+
+
+22 14 51 
+
+
+226 28 08 
+
+
+426 86 59 
+
+
+237 82 51 
+
+
+232 21 04 
+
+
+271 28 33 
+
+
+
+Sales Office is at 5 Chowrmghee Approach, P.O. Pnncep Street, KOLKATA 700072 22 12 6215 
+Sales Office is at Novelty Chambers, Grant Road, MUMBAI 400007 2309 65 28 
+
+
+
+Printed at Simco Printing Press, Delhi 
+
+
+

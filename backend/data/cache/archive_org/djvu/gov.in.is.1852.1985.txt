@@ -1,0 +1,2927 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 1852 (1985) : Rolling and cutting tolerances for hot 
+rolled steel products [CED 7: Structural Engineering and 
+structural sections] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+Indian Standard 
+
+
+
+IS : 1852 - 1985 
+
+(Reaffirmed 2003) 
+
+
+
+SPECIFICATION FOR 
+
+ROLLING AND CUTTING TOLERANCES FOR 
+
+HOT-ROLLED STEEL PRODUCTS 
+
+
+
+( Fourth Revision ) 
+
+
+
+Second Reprint AUGUST 1993 
+
+
+
+UDC 669-14-423-122*4 t 621*753*1 
+
+
+
+© Copyright 1986 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARO 
+NEW DELHI 110002 
+
+Gr 6 October 1986 
+
+
+
+IS > 1852 - 1985 
+
+
+
+Indian Standard 
+
+
+
+SPECIFICATION FOR 
+
+ROLLING AND CUTTING TOLERANCES FOR 
+
+HOT-ROLLED STEEL PRODUCTS 
+
+
+
+( Fourth Revision ) 
+
+
+
+Structural Sections Sectional Committee, SMDG 6 
+
+
+
+Chairman 
+Shbi M. Dhab 
+
+Members 
+Shbi V. K. Aohawal 
+
+Shbi N. G. Shabma ( Alternate ) 
+Shbi R. N. Aggarwal 
+
+Shbi B. K. Sbivastava {Alternate 
+Shbi S. Banerjee 
+
+ShbiN. Bhatxachabya 
+
+Shbi A. P. Bhatnagab 
+
+Shbi P. K. Debnath ( Alternate ) 
+Shbi B. B. Chakbavebti 
+
+Shri A. K. Shome ( Alternate ) 
+Shbi D. S. Desai 
+Shbi B. K. Dutta 
+
+Shbi S. S. Saha ( Alternate ) 
+Shbi S. K. Ganguly 
+Shbi S. B. Gupta 
+
+
+
+Representing 
+KEC Internationa] Ltd, Bombay 
+
+
+
+Shbi M. P.Jasua 
+
+
+
+Hindustan Aluminium Corporation Ltd, 
+Renukoot 
+
+Steel Authority of India Ltd ( Bokaro Steel 
+Plant ), Bokaro 
+
+Steel Re-Rolling Mills Association of India, 
+
+Calcutta 
+Garden Reach Shipbuilder & Engineers Ltd, 
+
+Calcutta 
+Steel Authority of India Ltd ( Durgapur Steel 
+
+Piant ), Durgapur 
+
+Superintendence Co of India ( Pvt ) Ltd, 
+Calcutta 
+
+M. R Dastur & Co Pvt Ltd, Calcutta 
+Iron & Steel Control, Calcutta 
+
+Institution of Engineers ( India ), Calcutta 
+Directorate General of Supplies & Disposals 
+
+( Inspection Wing ), New Delhi 
+Steel Authority of India Ltd ( Research & 
+
+Development Centre for Iron & Steel ), 
+
+Ranchi 
+
+( Continued on page 2 ) 
+
+
+
+® Copyright 19BS 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act, 
+
+
+
+IS : 1852 - 1985 
+
+( Continued from page 1 ) 
+
+Members * Representing 
+
+Joint Director, Standards Ministry of Railways 
+(Wagon I ), RDSO 
+Joint Director Standards 
+
+( B & S) SB, RDSO ( Alternate ) 
+Shri A. J. Joshi Steel Authority of India Ltd ( Bhilai Steel 
+
+Plant ), Bhilai 
+Shri A. G. Rama Rao ( Alternate ) 
+Lt-Gol Kulwant Singh Engineer-in-Chiefs Branch, Army Headquar- 
+
+ters, New Delhi 
+Major S. B, Puri ( Alternate ) 
+Shri S. K. Mitra Indian Iron & Steel Go Ltd, Burnpur 
+
+Shri S. Dutta ( Alternate ) 
+Shri P. K. Mujlhbrjee Braithwaite & Co Ltd, Calcutta 
+
+Shri A m i t Kumar 
+Bhattacharya ( Alternate) 
+Shri M. V. NaOeshaiah Metallurgical & Engineering Consultants 
+
+( India ) Ltd, Ranchi 
+Shri Kakmal Prakash ( Alternate ) 
+Shri P. V. Naik Richardson & Cruddas Ltd, Bombay 
+
+Shri N. S. R. V. Raju Hindustan Shipyard Ltd, Visakhapatnam 
+
+Shri D. Kkishnamurthy ( Alternate ) 
+Shri S. K. Sadhu Jessop & Co Ltd, Calcutta 
+
+Shri S. C. Chakravarti ( Alternate ) 
+Shri M, C. Sarangdhau Stup & Co Ltd, Bombay 
+
+Shri M. K. Chattekjee ( Alternate ) 
+Shr£ K. R. Sengupta Joint Plant Committee, Calcutta 
+
+Shri B. P. Ghosh ( Alternate ) 
+Shrj S. N. Singh EMC Steelal Ltd, Calcutta 
+
+Shri C. K. Nag ( Alternate ) 
+Shri K. S. Srinivasan National Buildings Organization, Ntw Delhi 
+
+Shri A. K. Lal ( Alternate ) 
+Shri K. Suryanarayanan Indian Aluminium Co Ltd, Calcutta 
+
+Shri G. M. Menon ( Alternate ) 
+Shri D. Thiruvengadam Tube Products of India, Madras 
+
+Shri K. V. Vijayaraghavan ( Alternate) 
+Shri S. G. Tudekar Steel Authority of India Ltd ( Rourkela Steel 
+
+Plant ), Rourkela 
+Shri J. N. Bhambry ( Alternate ) 
+Shri K. Raghavendran, Director General, BIS ( Ex-offdo Member ) 
+
+Director ( Struc & Met ) 
+
+Secretary 
+
+ShriS. S. Sethi 
+
+Joint Director ( Struc & Met ),BIS 
+
+
+
+( Continued on page 24 ) 
+
+
+
+IS : 1852 - 1985 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+ROLLING AND CUTTING TOLERANCES FOR 
+
+HOT-ROLLED STEEL PRODUCTS 
+
+
+
+( Fourth Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( Fourth Revision ) was adopted by the Indian 
+Standards Institution on 20 December 1985, after the draft finalized by 
+the Structural Sections Sectional Committee had been approved by the 
+Structural and Metals Division Council. 
+
+0.2 This standard, first published in 1962 was revised in 1967, 1973 and 
+1979. As a result of the experience gained during these years it has been 
+decided to revise this standard again. The main modifications made in 
+this revision are: 
+
+a) Scope has been modified to cover the types of hot rolled 
+products. Specific standards which refer to IS : 1852 for rolling 
+and cutting tolerances are given in Appendix A for information 
+only. 
+
+b) Rolling and cutting tolerances for strips and sheets have been 
+extended to additional widths and range of thicknesses for tolera- 
+nces have been rationalized. 
+
+0.3 This standard keeps in view the manufacturing and trade practice* in 
+the country in this field. Assistance has also been derived from the follow- 
+ing ISO Standards : 
+
+a) ISO 657/V Hot-rolled steel sections — Part V Equal leg angles 
+and unequal leg angles — Tolerances for metric and inch series. 
+
+b) ISO 1035/IV Hot-rolled steel bars — Part IV Tolerances of 
+round, square and flat bars — Metric series. 
+
+c) ISO 657/13 Tolerances on sloping flange beam, column and 
+channel sections. 
+
+d) ISO 4995-1978 Hot rolled steel sheet for structural quality. 
+
+
+
+IS : 1852 - 1985 
+
+0.4 For the purpose of deriding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expres- 
+sing the result of a test or analysis, shall be rounded off in accordance 
+with IS : 2-1960*. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in this 
+standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard lays down rolling and cutting tolerances for hot-rolled 
+structural steel beams, channels, equal and unequal-leg angles, tee bars, 
+bulb angles, round and square bars ( other than bars meant for fasteners ), 
+flats, plates, strips and sheets rolled from structural steels including 
+medium and high strength steels. 
+
+1.1.1 A list of Indian Standards covering material and dimensions of 
+various hot-rolled sections is given in Appendix A for information. 
+
+1.2 This standard does not cover dimensional tolerances for carbon and 
+alloy constructional steel products which are covered by IS : 3739-1972f. 
+
+1.3 For any specific end uses, such as shipbuilding, machine components, 
+pressure vessels, etc, special tolerances finer than those specified in this 
+standard, reference shall be made to the appropriate Indian Standard 
+if available or otherwise these shall be as agreed to between the purchaser 
+and the supplier. 
+
+2. TERMINOLOGY 
+
+2.1 For the purpose of this standard, the definitions given in the appro- 
+priate Indian Standards on rolled steel products and those given in the 
+relevant parts of IS : 1 956-1 976J shall apply. 
+
+3. CALCULATION OF NOMINAL WEIGHT 
+
+3.1 The nominal weight of hot-rolled steel products shall be calculated on 
+the basis that steel weighs 7*85 g/cm 3 . 
+
+
+
+*Rulesfor rounding off numerical values ( revised ). 
+
+tDimensional tolerances for carbon and alloy constructional test products. 
+
+{Glossary of terms relating to iron and steel. 
+
+
+
+IS : 1852 - 1985 
+4. ROLLING TOLERANCE FOR STRUCTURAL STEEL SECTIONS 
+
+* 
+
+4,1 Beams and Columns 
+
+4.1.1 Depth — The tolerance on depth of beams shall be as follows: 
+
+
+
+
+
+Depth 
+
+A, 
+
+
+
+
+Toleram 
+
+
+i ■ 
+
+Over 
+
+
+
+
+Up to and 
+
+including 
+
+
+
+
+mm 
+
+
+
+
+mm 
+
+
+mm 
+
+
+200 
+400 
+
+
+
+
+200 
+
+400 
+600 
+
+
++ 3-0 
+- 2*0 
+± 3*0 
+± 4-0 
+
+
+
+Note — Tolerances specified above for depth of up to and including 200 mm 
+will remain in force for a period of 4 years from the date of publication of this 
+standard. At the end of this period the above provision shall stand amended 
+as ± 2*0 mm. 
+
+
+
+4.1.2 Width of Flange — The tolerance on flange width shall be as 
+follows: 
+
+
+
+Width of Flange 
+Over Up to and 
+
+
+
+mm 
+
+
+
+100 
+125 
+
+
+
+Tolerance 
+
+
+
+including 
+
+
+
+
+mm 
+
+
+mm 
+
+
+100 
+125 
+250 
+
+
++ 20 
+±2-5 
+± 4'0 
+
+
+
+4.1.3 Flanges Out-of-Square or Out- of -Parallel — The flanges shall be 
+parallel within the following tolerances ( see Fig. 1 ). 
+
+Width of Flange, B 
+
+
+
+Over 
+
+
+— . ^ 
+
+Up to and 
+including 
+
+
+A + A' 
+( Max ) 
+
+
+mm 
+
+
+mm 
+
+
+
+
+100 
+
+
+100 
+250 
+
+
+3-0 mm 
+
+3 percent of flange 
+width 
+
+
+
+IS t 1852 - 1985 
+
+
+
+*1 
+
+
+*=4=U 
+
+
+X 
+
+
+-"vzzZZZ 
+
+
+p^ 
+
+
+UJ 
+
+o 
+
+1 
+
+
+* 
+
+
+222* 
+
+
+A-J 
+
+
+w 
+
+
+1 
+
+
+
+♦Back of square and centreline of web to be parallel when measuring c out-of-square\ 
+
+Fig, 1 Out-of-Souare of Flange 
+4.1.4 Off-centre of Web — The off-centre of the web shall be within the 
+following limits ( see Fig. 2 ). 
+
+
+
+i" 
+
+
+
+
+
+
+B= ACTUAL 
+FLANGE 
+WiDTH 
+
+
+
+
+Fig. 2 Off-Centre Web 
+6 
+
+
+
+
+
+
+
+IS x 1K>2 - 
+
+
+
+
+Depth of Section 
+
+
+OfCentreo/Web, 
+
+
+Over 
+
+
+Up to and 
+including 
+
+
+e Ma* 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+_ 
+
+
+300 
+
+
+3-0 
+
+
+300 
+
+
+450 
+
+
+4-0 
+
+
+450 
+
+
+600 
+
+
+5-0 
+
+
+
+4.L5 Weight — The tolerance on weight per metre shall be ± 2*5 
+percent ( or ± 4 percent for steel conforming to Fe 310-0 of IS : 1977- 
+1975* ) of the weight per metre specified in Table 1 of IS : 808-1 964f, 
+Table 1 of IS : 808 ( Pait 1 )-1973J and Table 1 of IS: 808 ( Part 2 )-I978§. 
+
+4.1.6 Camber and Sweep — The permissible limits for camber and sweep 
+shall be 0'2 percent of the length ( see Fig. 3 ). 
+
+
+
+
+r-SWEEP 
+
+
+
+
+Fig. 3 Measurement of Camber and Sweep 
+
+
+
+•Specification for structural stee! ( ordinary quality ) ( second revision ). 
+tSpecification for rolled steel beam, channel and angle sections ( revised). 
+{Dimensions for hot-rolled steel sections: Part 1 MB series ( Beams ) ( second revision ). 
+§Dimensions for hot-rolled stee! sections: Part 2 Columns — SC series (second 
+revision ). 
+
+
+
+IS : 1852 - 1985 
+
+4.2 Channels 
+
+4.2.1 Depth — The tolerance on depth of channels shall be as follows: 
+Depth Tolerance 
+
+Over 
+
+
+
+Up to and 
+including 
+
+
+
+
+mm 
+
+
+mm 
+
+
+200 
+
+
+±2-5 
+
+
+400 
+
+
+± 3-0 
+
+
+
+200 
+
+4.2.2 Width of Flange — ■ The tolerance on flange width up to and includ- 
+ing 100 mm shall be ± 2 mm. 
+
+4.2.3 Flanges Out-of Square or Out-of-Parallel — The flanges shall be 
+parallel within 1 in 60 tolerances ( see Fig. 4 ). 
+
+
+
+
+< 
+a 
+
+IL 
+
+o 
+
+
+
+y^ 
+
+
+
+T 
+
+Fig. 4 Flanges Qut-of-S&uare or Out-of-Parallel 
+
+
+
+4;2.4 Flatness of Web — The tolerance on flatness of outer face of web 
+shall be as follows ( see Fig. 5 ) : 
+
+
+
+.Convexity 
+
+Concavity 
+
+
+
+Not permitted 
+
+1 5 percent of nominal thickness 
+
+of web 
+
+
+
+IS : 1852 - 1985 
+
+
+
+—-CONCAVITY 
+
+
+
+
+— ' —CONVEXITY 
+
+
+
+Fig. 5 Flatness of Web 
+
+4,2.5 Camber and Sweep — The maximum permissible camber and sweep 
+for channels shall be 0*20 percent of the length ( see Fig. 6 ). 
+
+rSWEEP 
+
+
+
+
+Fig, 6 Measurement of Sweep 
+
+4.2.6 Weight — The tolerance on weight per metre shall be ± 2-5 
+percent ( or ± 4 percent for steel conforming to Fe 310-0 of IS : 1977- 
+1975* ) of the weight per metre specified in Table 2 of IS : 808-1964t, 
+and in Table 1 and Table 2 of IS : 808 ( Part 3 )-1979J. 
+
+
+
+♦Specification for structural steel ( ordinary quality ) ( second revision ). 
+fSpecification for rolled steel beam, channel and angle sections (revised ). 
+JDimensions for hot-rolled steel beam, channel and angle scciions: Part 3 Channel, 
+MC and MGP series ( second revision ). 
+
+
+
+IS : 1852 - 1985 
+
+
+
+4.3 Equal and Unequal Leg Angles 
+
+4.3.1 Leg Length — The tolerance on leg length shall be as follows: 
+Leg Length Tolerance 
+
+Over 
+
+
+
+mm 
+
+
+
+Up to and 
+
+including 
+
+mm 
+
+45 
+100 
+
+
+
+± 1*5 mm 
+45 100 ± 2-0 mm 
+
+100 — ±2 percent 
+
+4.3.1.1 In the case of unequal leg angle 45 x 30 mm, the tolerance 
+
+on longer leg length shall be _ , - mm. The tolerance on the shorter leg 
+
+length shall be specified in 4.3.1. 
+
+Note — The provision contained in 4.3.1.1 shall be applicable only for a period 
+of 3 years from the date of publication of this Standard after which it shall stand 
+withdrawn. 
+
+4.3.2 Out-of- Square — The legs of angles shall be perpendicular to each 
+other within a tolerance of ±1*0 degree. 
+
+4.3.3 The differences between the leg lengths of equal leg angles shall 
+be limited to 75 percent of the total tolerance ( plus and minus ) specified 
+on the leg length. 
+
+4.3-4 Camber — The permissible limits for camber ( see Fig. 7 ) shall be 
+as follows: 
+
+Leg Length 
+mm 
+Less than 100 
+
+
+
+Including and over 100 
+
+
+
+Camber 
+Max, mm 
+To be agreed between the manu- 
+facturer and the purchaser 
+0*2 percent of length 
+
+
+
+
+r\ 
+
+
+
+Fig, 7 Camber in Angles 
+10 
+
+
+
+IS : 1852 - 1985 
+
+4.3.5 Weight — The tolerance on weight per metre shall be ± 5 percent 
+in the case of angles 3 mm in thickness and +5, —3 percent in the case of 
+angles over 3 mm in thickness of the weight per metre specified in 
+IS : 808 ( Part 5 )-1976* and IS : 808 ( Part 6 )-1976|. 
+
+4.4 Tee Bars 
+
+4.4.1 Depth — The tolerances on depth of rolled tee bars shall be as 
+follows: 
+
+Depth Tolerance 
+
+Over Up to and Plus Minus 
+
+including 
+mm mm mm mm 
+
+— 60 2 1*5 
+
+60 100 2*5 15 
+
+100 — 3-0 2-0 
+
+4.4.1.1 Tee bars produced by slitting beam sections shall have the 
+same tolerance as the corresponding beams from which they are pro- 
+duced, except that an additional reduction in depth of 2 mm due to slitt- 
+ing shall be permitted. 
+
+4.4.2 Width of Flange — The tolerance on flange width shall be as 
+follows: 
+
+Width Tolerance 
+
+mm 
+Up to and including 100 ± 2*0 mm 
+
+Over 100 ± 2 percent 
+
+4.4.2.1 The tolerance on width of flange for tee bars produced by 
+splitting beam sections shall be the same as for the corresponding beams 
+from which they are produced. 
+
+4.4.3 Out-of- Square — The flange shall be perpendicular to the web 
+within a tolerance of 1 in 60. In the case of slit tecs, the tolerance shall 
+be the same as specified for the corresponding I-section from which the 
+tees are slit. 
+
+4.4.4 Camber — The maximum permissible camber shall be 0*20 percent 
+of the length. 
+
+4.4.4.1 Slit tee bars shall have the same tolerance on camber as the 
+corresponding beams from which they are produced. 
+
+
+
+•Dimensions for hot-rolled steel beam, channel and angle sections : Part 5 Equal leg 
+angles ( second revision ) . 
+
+tDimension for hot-rolled steel beam, channel and angle sections : Part 6 Unequal 
+leg angles ( second revision ). 
+
+
+
+11 
+
+
+
+IS : 1852 - 1985 
+
+4.4,5 Weight — The tolerance on weight per metre shall be ±2*5 per- 
+cent ( or ±4 percent for steel conforming to Fe 310-0 of IS : 1977-1975*) 
+in the case of tee bars above 3*0 mm web thickness and ±5 percent 
+in the case of tee bars of 30 mm web thickness of the weight per metre 
+specified in Table 1 of IS : 1173-19781". 
+
+4*5 Bulb Angles 
+
+
+
+4.5.1 Depth ( Length of J onger Leg ) 
+shall be as follows: 
+
+
+
+The tolerances on the longer leg 
+
+
+
+
+
+Depth 
+
+L ,A, 
+
+
+
+
+Tolerance 
+
+___A — — 
+
+
+Over 
+
+
+Up to and 
+including 
+
+
+Plus 
+
+
+
+
+Minus 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+
+
+mm 
+
+
+— 
+
+
+125 
+
+
+2*5 
+
+
+
+
+1-5 
+
+
+125 
+
+
+200 
+
+
+3*0 
+
+
+
+
+2-0 
+
+
+200 
+
+
+400 
+
+
+35 
+
+
+
+
+25 
+
+
+
+4.5.2 Width of Flange ( Length of Shorter Leg ) — The tolerance on the 
+width of flange ( length of shorter leg ) up to and including 100 mm shall 
+be ±2*0 mm. 
+
+4.5.3 Out-qf-Square — The legs of the bulb angles and angles with legs 
+of unequal width and thickness shall be perpendicular to each other 
+within a tolerance of ±1*0 degree. 
+
+
+
+4.5.4 Camber 
+of the length. 
+
+
+
+The maximum permissible camber shall be 0*20 percent 
+
+
+
+4.5.5 Weight — The tolerance on weight per metre shall be ±2*5 
+percent ( or ±4 percent for steel conforming to Fe 310-0 of IS : 1977- 
+1975J ) of weight per metre specified in Table 1 of IS : 1252-1958§. 
+
+
+
+•Specification for structural steel ( ordinary quality ) (second revision ). 
+fSpecificaiion for hot-rolled and slit steel tec bars ( second revision ). 
+^Specification for rolled steel sections bulb angles. 
+§Specification for structural steel ( ordinary quality ) ( second revision ). 
+
+
+
+12 
+
+
+
+IS : 1852 » 1985 
+
+5, ROLLING TOLERANCES JWX& ROUND AND SQUARE BARS 
+5.1 Bars in Straight Length 
+
+5,1.1 Size — The tolerance on size, diameter in the case of round bar 
+and side width in the case of square bar shall be as follows: 
+Size Tolerance 
+
+
+
+_>^_ 
+
+
+
+Over Up to and 
+
+including 
+mm mm mtn 
+
+— 25 ± 0-5 
+
+25 35 ± 0*6 
+
+35 50 ± 0*8 
+
+50 80 ± 1-0 
+
+80 100 ± 1-3 
+
+100 — ± 1*6 percent of dia- 
+
+meter or side 
+width 
+
+5.1.2 Ovality and Out-qf-Square — The permissible ovality for round bars 
+measured as the difference between the maximum and minimum diame- 
+ters, and the out-of-square of square bars measured as the distance 
+between parallel faces across any cross section shall be 75 percent of total 
+tolerance ( plus and minus ) specified on the size. 
+
+5.1.3 Weight — The tolerances on weight per metre for round and 
+square bars shall be the following percentages of the calculated weight 
+per metre specified in Tables i and 2 respectively of IS : 1732-1971*. 
+
+Size Tolerance 
+
+Over Up to and 
+
+including 
+
+mm mm percent 
+
+— 10 ±7 
+
+10 16 ±5 
+
+16 — ±3 
+
+Note — The tolerances for machined bars and bars for specialized uses are not 
+covered in this standard. 
+
+5.2 Bars in Coil 
+
+5.2.1 Size — The tolerances on size and diameter in the case of coiled 
+round bar and side width in the case of coiled square bar up to and 
+including 12 mm shall be ±0*5 mm. 
+
+Note — Kf casurement shall be taken at a point sufficiently away from the ends 
+
+ensuring exclusion of heavy ends. 
+
+♦Dimensions for round and square steel bars for structural and general engineering 
+purposes (first revision ). 
+
+13 
+
+
+
+IS : 1852 - 1985 
+
+5.2.2 Out of Shape — The diffYrence between the maximum and 
+minimum diameters in the case of coiled-round bars and between the two 
+adjoining sides in the case of coiled square bar, at any cross section, shall 
+not exceed 0*65 mm. 
+
+Note — No weight tolerance is applicable in the case of coiled round and 
+square bars. 
+
+6. ROLLING TOLERANCE FOR FLATS 
+
+
+
+6.1 Width - 
+
+
+-The 
+
+
+tolera 
+
+
+nces on width of flats shall be as follows: 
+
+
+
+
+
+
+Width 
+
+
+
+
+Tolerance 
+
+
+t 
+
+Over 
+
+
+
+
+
+
+Up to and 
+including 
+
+
+
+
+mm 
+
+
+
+
+
+
+mm 
+
+
+mm 
+
+
+— 
+
+
+
+
+
+
+50 
+
+
+± 1-0 
+
+
+50 
+
+
+
+
+
+
+75 
+
+
+± 1-5 
+
+
+75 
+
+
+
+
+
+
+100 
+
+
+± 2-0 
+
+
+100 
+
+
+
+
+
+
+— 
+
+
+± 2 percent subjected to a 
+
+
+
+maximum of 60 mm 
+
+6.2 Thickness — The tolerances on thickness of flats shall be as follows: 
+
+Thickness Tolerance 
+
+mm 
+Up to and including 12 ± 5 mm 
+
+Over 12 ±4 percent subject to a 
+
+maximum of 1*5 mm 
+
+6.3 Out-of-Square — The permissible tolerance for the out-of-squareness 
+of the overall width in case of parallelogram sections shall be as agreed 
+to between the purchaser and the supplier. 
+
+< '■•. / 
+
+6.4 Weight — The tolerances on weight per metre shall be ±5 percent 
+
+in the case of flats of 3 mm thickness and _„ percent for flats over 3 mm 
+thickness of weight specified in Table 1 of IS : 1731-1971*. 
+
+
+
+♦Dimensions for steel flats for structural and general engineering purposes 
+(first revision ). 
+
+14 
+
+
+
+IS : 1852 ■ 1985 
+
+
+
+7. ROLLING AND CUTTING TOLERANCE FOR PLATES 
+7.1 Width 
+
+7.1.1 The tolerances on width of plate shall be as follows: 
+
+
+
+Length 
+mm 
+
+
+Width 
+mm 
+
+
+Thickness 
+mm 
+
+
+Tolerance on 
+Width 
+
+
+Up to and 
+including 
+8 000 
+
+
+Up to and 
+including 
+2 000 
+
+
+Up to and 
+including 
+20 
+
+
+- 0-0 
++ 10 mm 
+
+
+
+
+
+
+Over 20 
+
+
+- 0-0 
++ 15 mm 
+
+
+Up to and 
+including 
+8 000 
+
+
+Over 2 000 
+
+
+Up to and 
+including 
+20 
+
+
+- 0-0 
+
++ 0'5 percent of width 
+
+
+Over 8 000 
+
+
+All widths 
+
+
+Over 20 
+
+Up to and 
+including 
+20 
+
+
+- 0-0 
+
++ 20 mm 
+
+- 0-0 
+
++ 0*2 percent of length 
+
+
+
+Over 20 - 0-0 
+
++ 0-3 percent of length 
+
+Note 1 — Plates over 32 mm in thickness may be supplied with either as-rolled 
+or gas-cut edges. The tolerances on width in such cases shall be subject to agreement 
+between the purchaser and the supplier. 
+
+Note 2 — In case plates below 32 mm in thickness are supplied in as-rolled 
+condition the tolerances on width shall be mutually agreed to between the purchaser 
+and the supplier, 
+
+7.2 Length 
+
+7.2.1 The tolerances on length of plate produced in non-continuous 
+mill shall be as follows: 
+
+
+
+
+
+Length 
+
+K.—. — — ^. 
+
+
+Thickness 
+mm 
+
+
+Tolerance on 
+Length 
+
+
+Over 
+mm 
+
+
+Up to and 
+including 
+mm 
+
+
+
+
+2 200 
+
+
+Up to and 
+
+including 20 
+Over 20 
+
+
+- 0-0 
+
++ 10 mm 
+
+- 0-0 
+
++ 15 mm 
+
+
+\ 200 
+
+
+3 000 
+
+
+Up to and 
+including 20 
+
+
+- o-o 
+
++ 0*5 percent 
+
+
+
+15 
+
+
+
+IS : 1852 • 1985 
+
+
+
+
+
+
+
+
+Length 
+
+
+1 hickness 
+
+
+< 
+
+Over 
+
+mm 
+
+
+Up to and 
+
+including 
+
+mm 
+
+
+mm 
+Over 20 
+
+
+3 000 
+
+
+6 300 
+
+
+Up to and 
+including 20 
+
+Over 20 
+
+
+6 300 
+
+
+8 000 
+
+
+Up to and 
+
+including 20 
+Over 20 
+
+
+8 000 
+
+
+— 
+
+
+Up to and 
+including 20 
+Over 20 
+
+
+
+l olerance on 
+Length 
+
+
+
+- 0-0 
++ 15 mm 
+
+-0-0 
+
++ 0-5 percent 
+
+- 0-0 
++ 0*5 percent 
+
+- 00 
++ 35 mm 
+
+- 0-0 
++ 0*5 percent 
+
+- 0-0 
++ 35 mm 
+
+- 0*0 
+
++ 40 mm 
+
+7.2.2 The tolerances for length of plates from 5 to 10 mm thickness 
+when produced in continuous mill shall be as follows: 
+Length Tolerance 
+
+mm 
+Up to 2 500 f 25 mm 
+
+- ■ 
+
+Over 2 500 + 1 percent of the length 
+
+subject to a maximum of 
+70 mm 
+
+- 
+
+Notb — Plates over 32 mm in thickness may be supplied with either as-rolled 
+or gas-cut edges. The length tolerance in such cases shall be subject to agreement 
+between the purchaser and the supplier. 
+
+7.3 Thickness — The tolerances on thickness shall be as follows: 
+
+Thickness Tolerance in Percentage 
+
+of Nominal Thickness 
+
+Less than 8 mm 
+
+From 8 mm up to and 
+including 12 mm 
+
+Over 12 mm 
+
+
+
++ 
+
+
+12-5 
+5-0 
+
+
++ 
+
+
+7-5 
+50 
+
+
+± 
+
+
+5-0 
+
+
+
+16 
+
+
+
+IS : 1852 - 1985 
+
+7.3,1 The thickness shall be measured at the following points: 
+
+a) One at each corner of the plate; 
+
+b) One in the middle of the width; and 
+
+c) One in the middle of the length. 
+
+These measurements shall be 25 mm away from the edge at points 
+randomly chosen. The thickness measured at each of these points shall 
+satisfy the tolerances specified in 7.3. 
+
+7.4 The consignment weight shall not vary from the theoretical weight 
+specified in Table 3 of IS : 1730 (Part 1 )-1974* by more than 
+
++ 5 
+
+— 2*5 P ercent * 
+
+8. ROLLING AND CUTTING TOLERANCE FOR STRIPS 
+
+8.0 The tolerances specified in 8.1, 8.2, 8.3 and their sub-clauses apply to 
+strips supplied in coiled form as well as in cut lengths. 
+
+8.1 Width 
+
+8.1.1 The tolerances on width of strip with trimmed edges shall be as 
+follows: 
+
+
+
+Width 
+
+
+
+Tolerance 
+
+
+
+Total Margin 
+
+
+
+Over 
+
+
+Up to and 
+including 
+
+
+
+
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+— 
+
+
+160 
+
+
+± 1-25 
+
+
+2-5 
+
+
+160 
+
+
+250 
+
+
+± 1-50 
+
+
+3-0 
+
+
+250 
+
+
+400 
+
+
+± 1*75 
+
+
+3*5 
+
+
+400 
+
+
+500 
+
+
+± 2-25 
+
+
+4-5 
+
+
+500 
+
+
+750 
+
+
++ 5-0 
+- 0-0 
+
+
+5*0 
+
+
+750 
+
+
+1 250 
+
+
++ 60 
+- 
+
+
+60 
+
+
+1250 
+
+
+1 550 
+
+
++ 8-0 
+
+- 0-0 
+
+
+8-0 
+
+
+1 550 
+
+
+1 850 
+
+
++ 100 
+
+- 0*0 
+
+
+10-0 
+
+
+
+•Dimensions for steel plate, sheet and strip for structural and general engineering 
+purposes : Part 1 Plate {first revision ). 
+
+
+
+17 
+
+
+
+IS : 1852 - 1985 
+
+8.1,2 The tolerances on width of strip supplied with as-rolled edges 
+shall be as follows: 
+
+
+
+Width 
+
+
+
+Tolerance 
+
+
+
+Over 
+mm 
+
+250 
+
+600 
+
+800 
+
+1 250 
+
+1 550 
+
+
+
+Up to and 
+includiug 
+
+
+
+
+mm 
+
+
+mm 
+
+
+250 
+
+
++ 4 
+- 
+
+
+600 
+
+
++ 6 
+
+- 
+
+
+800 
+
+
++ 10 
+- 
+
+
+I 250 
+
+
++ 30 
+- 
+
+
+1 550 
+
+
++ 35 
+- 
+
+
+1 850 
+
+
++ 40 
+
+- 
+
+
+
+8.1.3 For slit coils, the total margin specified under 8.1.1 shall be taken 
+on plus side only and the minus tolerance shall be zero. 
+
+8.2 Thickness 
+
+
+
+8.2.1 The tolerances on thickness for strip up to and including 500 mm 
+width shall be as follows: 
+
+
+
+Width 
+
+
+
+t 
+
+Over 
+
+mm 
+
+
+Up to and 
+
+including 
+
+mm 
+
+
+— 
+
+
+200 
+
+
+200 
+
+
+320 
+
+
+320 
+
+
+400 
+
+
+400 
+
+
+500 
+
+
+
+Tolerance on Thickness 
+
+
+
+mm 
+± 0-20 
+± 0-23 
+± 0-25 
+±0-30 
+
+
+
+18 
+
+
+
+IS : 1852 - 1985 
+
+8.2.2 The tolerances on thickness for strip above 500 mm width shall 
+be as follows: 
+
+
+
+Width 
+
+
+
+Tolerance on Thickness, mm 
+
+,A ^ 
+
+
+
+mm From 1*60 
+
+mm up to 
+and inclu- 
+ding 20 
+mm 
+
+Over 500 up ±0-18 
+to and inclu- 
+ding 1 250 
+
+Over 1 250 
+
+
+
+Over 2-0 Over 30 Over 5 
+
+
+
+Over 8 
+
+
+
+mm up to mm up to mm up to mm up to 
+and inclu-* and inclu- and inclu- and inclu- 
+
+
+
+ding 3-0 
+mm 
+
+± 0-20 
+
+
+
+ding 5 
+mm 
+
+
+
+ding 8 
+mm 
+
+
+
+± 0-25 ± 0-30 
+
+
+
+ding 10 
+mm 
+
+± 0-35 
+
+
+
+up to and 
+including 
+1 550 
+
+Over 1 550 
+up to and 
+including 
+1 850 
+
+Over 1 850 
+
+
+
+± 0-20 ± 0-25 
+
+
+
+± 22 ± 0*28 
+
+
+
+±0-28 
+
+
+
+± 0-30 ± 0*35 ± 0-40 
+
+
+
+± 0-35 ± 0-40 ± 0-40 
+
+
+
+± 0-35 ± 0-40 ± 0-40 
+
+
+
+8.2.2.1 Tolerances on thickness of strips exceeding 10 mm thick shall 
+be agreed to between the purchaser and the supplier. 
+
+8.2.2.2 Width and thickness measurement of strip in coil form shall 
+be done leaving the fish tail/tongue portion of the coil both at outer and 
+inner layers of the coil. 
+
+8.3 Weight — The tolerance on weight per metre shall be ± 10 percent 
+of the weight per metre specified in Table 1 of IS : 1730 ( Part 3 )-1974*. 
+
+8.3.1 The tolerance on weight of individual bundles and consignment 
+for straight lengths up to and including 5 tonnes shall be ±7 percent of 
+the theoretical weight. The theoretical weight of strip is specified in 
+IS : 1730 ( Part 3 )-1974*. 
+
+8.3*1.1 The tolerances on weight of individual consignment above 
+5 tonnes shall be ± 5 percent of the theoretical weight. 
+
+
+
+♦Dimensions for steeJ pJate, sheet and strip for structural and general engineering 
+purposes : Part 3 Strip {first revision ). 
+
+
+
+19 
+
+
+
+IS 1 1852 - 1985 
+
+9. ROLLING AND CUTTING TOLERANCE FOR SHEETS 
+
+9.1 Width — The tolerances on width of sheets with trimmed edges 
+shall be as follows: 
+
+
+
+Width 
+
+
+Tolerance 
+
+
+mm 
+
+
+
+
+Up to and including 1 250 
+
+
++ 6 mm 
+— 
+
+
+Over 1 250 up to and 
+
+including 1 550 
+Over 1 550 
+
+
++ 0*5 percent 
+
+- 
+
++ 06 percent 
+
+- 
+
+
+
+9.1.1 Tolerance on width of sheet with as-rolled edges shall be the 
+same as specified in 8.1*2. 
+
+9.2 Length 
+
+9.2.1 For sheets produced in non-continuous mills, the tolerances on 
+length shall be as follows: 
+
+Length Tolerance 
+
+mm 
+
+Up to and including -f- 10 mm 
+
+2 000 - 
+
+Over 2 000 + 0*5 percent 
+
+- 
+
+9.2.2 For sheets produced in continuous millj the tolerance on length 
+shall be as follows: 
+
+Length Tolerance 
+
+Up to 2 500 + 25 mm 
+
+-0 
+
+Over 2 500 + 1 percent of the sheet 
+
+length subject to a 
+maximum of 70 mm 
+— 
+
+Note — These may be required and supplied to tolerances given in 9.2.1 subject 
+to mutual agreement between the supplier and the purchaser. 
+
+9w3 Thickness 
+
+9.3.1 Thickness tolerances for sheets when rolled in continuous hot 
+strip mill shall be those given in 8.2.2. 
+
+20 
+
+
+
+IS : 1852 - 15*85 
+
+9.3.2 For sheets produced in hand mills the thickness tolerances are 
+subject to mutual agreement between the purchaser and the manufacturer. 
+
+The following thickness tolerances are given for guidance: 
+
+
+
+Thickness 
+
+
+Tolerance 
+
+
+mm 
+
+
+mm 
+
+
+0-40 
+
+
+±0*06 
+
+
+0-50 
+
+
+±0-07 
+
+
+0-63 
+
+
+± 0-09 
+
+
+0-80 
+
+
+± 0-10 
+
+
+90 
+
+
+± Oil 
+
+
+1*00 
+
+
+±0-12 
+
+
+112 
+
+
+± 0-12 
+
+
+1-25 
+
+
+± 0-13 
+
+
+1*40 
+
+
+± 0-14 
+
+
+1*60 
+
+
+± 015 
+
+
+1-80 
+
+
+± 0-16 
+
+
+1-90 
+
+
+±0-17 
+
+
+2 00 
+
+
+± 18 
+
+
+2-24 
+
+
+± 0*19 
+
+
+2*50 
+
+
+±0-20 
+
+
+280 
+
+
+±0-21 
+
+
+3-15 
+
+
+± 0-22 
+
+
+3-55 
+
+
+± 0-24 
+
+
+4*00 
+
+
+±0-25 
+
+
+4-30 
+
+
+±0 25 
+
+
+4-67 
+
+
+±0 27 
+
+
+
+9.3.3 The thickness shall be measured at the following points: 
+
+a) One at each corner of the sheet; 
+
+b) One in the middle of the width; and 
+
+c) One in the middle of the length. 
+
+These measurements shall be 25 mm away from the edge at points 
+randomly chosen. The thickness measured at each of these points shall 
+satisfy the tolerances specified in 9.3.1 and 9.3.2. 
+
+21 
+
+
+
+IS : 1852 - 1985 
+
+9.4 Weight 
+
+9.4.1 The tolerances on weight of individual sheets shall be within the 
+following percentage limits of the theoretical weights specified in Table 2 
+of IS : 1730 (Part 2 )-1974*: 
+
+Thickness Tolerance on Calculated Weight 
+
+Over Up to and 
+
+including 
+mm mm 
+
+— 1-25 ±9 
+
+1-25 1-60 ± 8 
+
+1*60 4-00 ± 7 
+
+9.4*2 The tolerance on weight of individual bundles and consignment 
+up to and including 5 tonnes shall be ±7 percent of the theoretical weight. 
+The theoretical weigth of sheet is specified in Table 2 of IS : 1730 
+(Part 2)- 1974*. 
+
+9.4*2.1 The tolerances on weight of individual consignment 
+above 5 tonnes shall be ±5 percent of the theoretical weight. 
+
+10. CUTTING TOLERANCE 
+
+10.1 Cutting tolerance for all lengths of hot rolled steel products except 
+
+plate, strip, and sheet shall be "*" « mm. 
+
+
+
+APPENDIX A 
+( Clause 1.1.1 ) 
+
+INDIAN STANDARDS ON MATERIALS AND DIMENSIONS 
+OF HOT-ROLLED STEEL PRODUCTS 
+
+a) Materials 
+
+IS: 
+
+226-1975 Structural steel ( standard quality ) {fifth revision ) 
+961-1975 Structural steel ( high tensile ) ( second revision ) 
+1079-1973 Hot-rolled carbon steel sheet and strip ( third revision ) 
+1977-1975 Structural steel ( ordinary quality ) ( second revision ) 
+
+
+
+•Dimensions for steel plate, -sheet and strip for structural and general engineering 
+purposes: Part 2 Sheets (first revision ). 
+
+22 
+
+
+
+IS : 1852 - 1985 
+
+IS: 
+
+2041-1982 Steel plates for pressure vessels used at moderate and low 
+temperature ( first revision ) 
+
+2062-1984 Weldable structural steel ( third revision ) 
+
+2385-1977 Hot-rolled mild steel sheet and strip in coil form for cold- 
+reduced tinplate and cold-reduced blackplate (first revision ) 
+
+3747-1982 Hot-rolled steel plates and sheets for flanging and pressing 
+
+(first revision ) 
+
+3945-1966 Steel for naval purposes 
+
+5986-1970 Hot-rolled steel plates and flats for cold-forming and flanging 
+operations 
+
+6240-1976 Hot-rolled steel plate ( up to 6 mm ) sheet and strip for the 
+manufacture of low pressure gas cylinders ( first revision ) 
+
+8500-1977 Weldable structural steel ( medium and high strength 
+
+qualities } 
+10748-1984 Hot-rolled steel skelp/strips for welded tubes and pipes 
+
+10787-19&4 Hot-rolled micro alloyed steel plates ( up to 6 mm ) sheets 
+and strips for manufacture of low pressure Iiquefiable gas 
+cylinders 
+
+b) Dimensions 
+
+808-1964 Rolled steel beam, channels and angle section ( revised ) 
+( Part 1 )-1973 MB series ( second revision ) 
+( Part 2 )-I978 CoIumns-SC series ( second revision ) 
+( Part 3 ) -1979 Channels, MC and MCP series ( second revision ) 
+( Part 4 )-1976 Equal leg angles ( second revision ) 
+( Part 5 )-1976 Unequal leg angles ( second revision ) 
+
+1173-1978 Hot-rolled and slit steel tee bars ( second revision ) 
+
+1252-1958 Rolled steel sections, bulb angles 
+
+1730 (Part 1)-1974 Plates 
+
+1730 (Part 2)-1974 Sheets 
+
+1730 (Part 3)-1974 Strips 
+
+1731-1971 Flats 
+
+1732-1971 Round and square steel bars for general engineering purposes 
+
+3954-1966 Hot-rolled steel channel sections for general engineering 
+purposes 
+
+
+
+23 
+
+
+
+IS : 1852 - 1985 
+
+
+
+( Continued from page 2 ) 
+
+Panel for Tolerances on Hot-Rolled Steel Products, SMDG 6 : P6 
+
+
+
+Convener 
+
+Joint Dibector Standards 
+( B & S ), RDSO, Lctcknow 
+
+Members 
+
+Deputy Director Standards 
+( B & S)/SB[ Alternate to 
+Joint Director Standards ( B & S ), 
+RDSO, Lucknow ] 
+
+Shbi S. K. Ahuja 
+
+Shri S. K. Mitra ( Alternate ) 
+
+Shri S. N. Aindley 
+
+Shri S. Banerjee 
+Shri S. Choudhtjry 
+
+Shri P. B. Rao ( Alternate ) 
+Shri S. D. Dand 
+
+Shri R. D. Mistry ( Alternate ) 
+ShbiJ. C.Erry 
+
+Shri K. K. Gupta 
+
+Shri B. Saka ( Alternate } 
+Shbi S. N. Mukherjee 
+
+
+
+Representing 
+Ministry of Railways 
+
+
+
+Indian Iron & Steel Co Ltd, Burnpur 
+
+Rail India Technical and Economic Services 
+
+Ltd, New Delhi 
+Steel Re-Rolling Mills Association of India, 
+
+Calcutta 
+Steel Authority of India Ltd ( Rourkela Steel 
+
+Plant ), Rourkela 
+
+KEC International Ltd, Bombay 
+
+Steel Authority of India Ltd ( Bokarc Steel 
+
+Plant ), Bokaro 
+Braithwaite & Co ( India ) Ltd, Calcutta 
+
+
+
+Steel Authority of India Ltd ( Durgapur Steel 
+Plant ), Durgapur 
+Skri A. Bkattacharyya ( Alternate ) 
+Shri N. S. R. V. Raju Hindustan Shipyard Ltd, Visakhapatnam 
+
+Shri V. A. S. Narayana Rao ( Alternate ) 
+Shri S. K. Sadhtj Jessop & Co Ltd s Calcutta 
+
+Shri S. C. Charraborty ( Alternate ) 
+Shri R. N. Saha Directorate General of Supplies & Disposals 
+
+( Inspection Wing ). New Delhi 
+Shri M. Senoupta Steel Authority of India Ltd ( Bhilai Steel 
+
+Plant ), Bhilai 
+Shri A, G. Rama Rao ( Alternate ) 
+ShriK. Veeraraohavachary Bharat Heavy Electricals Ltd, Tiruchirapalli 
+
+Shbi V. N. Rama Murtby ( Alternate I ) 
+Shri P. R. R. Roy ( Alternate II ) 
+Shri P. Vishwakabma Tata Iron & Steel Co Ltd, Jamshedpur 
+
+Shbi M. Akhoubi ( Alternate ) 
+
+
+
+24 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters; 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg. NEW DELHI 110002 
+Talephones : 331 01 31, 331 13 75 Telegrams : Manaksanstha 
+
+( Common to all offices ) 
+
+
+
+Regional Offices; 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, 
+
+NEW DELHI-1 10002 
+•Eastern : 1/14 C.I.T. Scheme VII M, V. !. P. Road, 
+
+Maniktola, CALCUTTA 700054 
+Northern : SCO 445-446, Sector 35-C, 
+
+CHANDIGARH 160036 
+
+
+
+Southern 
+tWestern 
+
+
+
+C. I. T. Campus, MADRAS 600113 
+
+
+
+Telephones 
+
+F331 01 31 
+
+L331 13 75 
+
+36 24 99 
+
+
+
+Manakalaya, E9 MI DC, Marol, Andheri (East), 
+BOMBAY 400093 
+Branch Offices; 
+'Pushpak' Nurmohamed Shaikh Marg, Khanpur, 
+
+AHMEDABAD 380001 
+tPeenya Industrial Area, 1st Stage, Bangalore Tumkur Road 
+
+BANGALORE 560058 
+Gangotri Complex, 5th Floor, Bhadbhada Road, T. T. Nagar, 
+
+BHOPAL 462003 
+Plot No. 82/83, Lewis Road, BHUBANESHWAR 751002 
+63/5, Ward No. 29, R. G. Barua Road, 5th Byelane, 
+
+GUWAHATI 781003 
+6-8-56C L. N. Gupta Marg ( Nampally Station Road), 
+
+HYDERABAD 500001 
+
+R14 Yudhlster Marg, C Scheme, JAIPUR 302005 
+
+117/418 B Sarvodaya Nagar, KAN PUR 208005 
+
+Patliputra Industrial Estate, PATNA 800013 
+T.C. No. 14/1421, University P.O., Palayam 
+
+TRIVANDRUM 695035 
+Inspection Office (With Sale Pj#pt) : 
+Pushpanjali, 1st Floor, 205-A|pVest High Court Road, 
+^Shankar Nagar Square^*flt3PUR 440010 
+(Ntitution of Engineers ( India ) Building, 1332 Shivajl Nagar, 
+PUNE 411005 
+
+
+
+♦Sales Office In Calcutta it at 5 Chowringhaa Approach, P.O. Prlncap 
+Straet, Calcutta 700072 
+
+tSales Office In Bombay Is at Novelty Chambers, Grant Road, 
+Bombay 400007 
+
+tSales Office in Bangalore is at Unity Building, Naraslmharaja Square 
+Bangalore 560002 ^____ 
+
+
+
+T21I 
+
+L31I 
+
+
+
+I8 43 
+16 41 
+f41 24 42 
+^41 25 19 
+1 41 2916 
+6 32 92 95 
+
+
+
+f2 63 48 
+L2 63 49 
+
+[38 49 55 
+
+L38 49 56 
+
+66716 
+
+5 36 27 
+3 3177 
+
+231083 
+
+f6 34 71 
+L6 98 32 
+68 76 
+82 92 
+
+6 23 05 
+
+
+
+F 21 
+L21 
+
+€ 
+
+\6 21 04 
+L6 21 17 
+
+2 51 71 
+6 24 35 
+
+27 68 00 
+89 65 28 
+22 36 71 
+
+
+
+prlnttd at Slroco Printing Press. D«lhl. tnof« 
+
+
+
+AMENDMENT NO. 1 JULY 1992 
+
+TO 
+
+IS 1852 : 1985 SPECIFICATION FOR ROLLING AND 
+
+CUTTING TOLERANCES FOR HOT-ROLLED STEEL 
+
+PRODUCTS 
+
+( Fourth Revision ) 
+
+(Page 5, clause 4.1.1, Note, line 2 ) — Substitute '8 years' for '4 years'. 
+
+( Page 7, clause 4.13 ) — Insert the following Note at the end: 
+
+'Note — For beams up to depth of 200 mm (inclusive) tolerance on weight per metre may 
+alternatively be +4, -1 percent This provision wilt remain valid for a period of 4 years from the 
+date of publication of this amendment and shall stand withdrawn at the end of 4 years/ 
+
+( Page 8, Fig 4) — Substitute the following for the existing figure: 
+
+
+
+
+
+< ui 
+
+1.1 2 
+
+l_.ll. 
+
+
+
+
+(Page 9, clause 4.2.6 ) — Insert the following Note at the end: 
+
+'Note — For channels up to depth of 200 mm (inclusive) tolerance on weight per metre may 
+alternatively be +4, -1 percent This provision will remain valid for a period of 4 years from the 
+date of publication of this amendment and shall stand withdrawn at the end of 4 years.' 
+
+
+
+(CED8) 
+
+
+
+Printfd at Slmco Printing Press. Delhi, India 
+
+
+
+AMENDMENT NO. 2 APRIL 2001 
+
+TO 
+
+IS 1852:1985 SPECIFICATION FOR ROLLING 
+
+AND CUTTING TOLERANCES FOR HOT-ROLLED 
+
+STEEL PRODUCTS 
+
+( Fourth Revision ) 
+
+[ Page 5, clause 4.1.1, Note, first sentence ( see also Amendment No A )] — 
+Substitute the following for the existing: 
+
+"Tolerances specified above for depth of up to and including 200 mm will remain valid for further 
+period of 4 years from the date of publication of this amendment.' 
+
+[ Page 7, clause 4.13, Note ( see also Amendment No. 1 ) ] — Substitute the 
+following for the second sentence: 
+
+'The provision will remain valid for a further period of 4 years from the date of publication of this 
+amendment.' 
+
+[ Page 9, clause 4.2.6, Note ( see also Amendment No. 1 ) ] — Substitute the 
+following for second sentence: 
+
+"Die provision will remain valid for a further period of 4 years from the date of publication of this 
+amendment/ 
+
+( Page 17, clause 73.1 ) — Substitute the following for the existing clause: 
+
+'The measurement shall be taken at a distance of at least IS mm inside from the 
+edge/ 
+
+( Page 17, clause 7.4 ) — Delete. 
+
+
+
+(CED8) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

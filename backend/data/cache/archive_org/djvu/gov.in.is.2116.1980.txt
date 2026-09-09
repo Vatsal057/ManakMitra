@@ -1,0 +1,797 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 2116 (1980) : Sand for masonry mortars - Specification 
+[CED 13: Building Construction Practices including 
+Painting, Varnishing and Allied Finishing] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 1 2116 -1980 
+
+( Reaffirmed 2002 ) 
+
+Indian Standard 
+
+SPECIFICATION FOF 
+SAND FOR MASONRY MORTARS 
+
+{ First Revision ) 
+
+Fifth Reprint FEBRUARY 1999 
+UDC 691.223:691.53 
+
+
+
+© Copyright 1981 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAM /AFAR MARG 
+NEWDICLHI 11(H.02 
+
+Gr 2 March 1981 
+
+
+
+Indian Standard 
+
+
+
+IS « 2116 •1960 
+
+( Reaffirmed 2002 ) 
+
+
+
+SPECIFICATION FOR 
+SAND FOR MASONRY MORTARS 
+
+( First Revision ) 
+
+Building Construction Practices Sectional Committee, BDC 13 
+
+Chairman 
+
+Shbi C. p. Malik 
+C-4/38, Safdarjung Development Area, New Delhi 
+
+Members Representing 
+
+Shri SubaJ S.J, Bahadur Housing & Urban Development Corporation Ltd, 
+
+New Delhi 
+Shri a. N. Bajaj Forest Research Institute & Colleges, Dehra Dun 
+
+Shri D. R. Batlivala Bhabha Atomic Research Centre, Bombay 
+
+Shri J. R. Bhalua Indian Institute of Architects, New Delhi 
+
+Shri M. G, Bhahgava Public Works Department, Government of Uttar 
+
+Pradesh, Lucknow 
+Shri R. K. Mathur ( Alternate ) 
+CniKE Engineer { Bldgs;, PWD, Public Works Department, Government of Tamil 
+Madras Nadu, Madras 
+
+Superintending Engineer , 
+( Special Building Circle ), 
+PWD, Madubai ( Alternate ) 
+Chief E n g i n e e r-cum-Addl Public Works Department, Government of Raj- 
+Secretary to the Government asthan, Jaipur 
+
+(B&R) 
+Executive Engineer ( Design 
+& Specification > ( Alternate ) 
+Chief Engineer ( NDZ ) Central Public Works Department, New Delhi 
+
+Superintending Surveyor 
+or Works ( NDZ ) ( Alternate ) 
+Director ( Architecture ), Railway Board ( Ministry of Railways ) 
+
+RDSO, Lucknow 
+Joint Director ( Architec- 
+ture ), RDSO, Lucknow { Alternate ) 
+Shri H. S. Dugal Builders' Association of India, New Delhi 
+
+Brig Harish Chandra ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+® Cofrright 1981 
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS s 2116 -1980 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri B. S. Gbbwal Public Works Department, Government of Punjab, 
+
+Chandigarh 
+Shbi R. L. Kumar Institution of Surveyors, New Delhi 
+
+Shbi K. S. Kharb ( Alternate) 
+Shri M. Z. Kurien Tata Consulting Engineers, Bombay 
+
+Skri G. K. Majumdab Hindustan Prefab Ltd, New Delhi 
+
+Shri H. S. Pasbioha ( Alternate ) 
+Shri R. G. Manoal Central Building Research Institute ( CblR ), 
+
+Roorkee 
+
+Shbi M. P.Jaisingh {AUernate) 
+Shri R, K. Pandabe Life Insurance Corporation of India, Bombay 
+
+Dy Chibf E^^GtNEEB ( North ) ( Alternate) 
+Shri G. M. Ranadb Public Works & Housing Department, Bombay 
+
+Shbi T. K. Saran Bureau of Public Enterprises ( Ministry of 
+
+Finance ), New Delhi 
+
+Shbi S. S. Kaimal ( Alternate ) 
+Shri R. D. Sinoh Engineer-in-Chief *s Branch, Army Headquarters 
+
+Shbi M. G. Virmani ( Alternate ) 
+Shri S. R. Sivaswamy Gammon India Ltd, Bombay 
+
+Shbi H. D. Matange ( Alternate ) 
+Shbi K, S, Srinivasan National Buildings Organization, New Delhi 
+
+Dy Director ( Alternate ) 
+Shbi Sttshil Kumar National Buildings Construction Corporation Ltd, 
+
+New Delhi 
+Shri B, T, Unwalla Concrete Association rf India, Bombay; and Insti- 
+
+tution of Engineers ( India ), Calcutta 
+
+Shbi Y. K. Mehta ( Alternate ) Concrete Association of India, Bombay 
+
+Shbi JiVAN Dutt ( Alternate ) Institution of Engineers ( India ) , Calcutta 
+Shri G. Raman, Director Genera!, ISI ( Ex-officio Member) 
+
+
+
+Director ( Civ Engg ) 
+
+
+
+Secretary 
+
+Shri S. Senoupta 
+
+Assistant Director (Civ Engg), ISl 
+
+
+
+Masonry Construction Subcommittee, BDC 13 : 7 
+
+Convener 
+Shri R. K. Ghosh Central Road Research Institute ( CSIR ), New 
+
+Delhi 
+
+Members 
+Chief Engineer National Buildings Construction Corporation Ltd, 
+
+New Delhi 
+Shri Daljit Singh ( Alternate ) 
+Shbi I. S. Chopra Tirath Ram Ahuja Pvt Ltd, New Delhi 
+
+Shri K. S. Kharb Institution of Surveyors, New Delhi 
+
+SuBi Jbet Maluotra Indian Institute of Architects, Punjab, Chandi- 
+
+garh 
+
+( Continued on page 8 ) 
+
+
+
+IS $2116. 1980 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+SAND FOR MASONRY MORTARS 
+
+
+
+( First Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( First Revision ) was adopted by the Indian 
+Standards Institution on 30 September 1980, after the draft finalized by 
+the Building Construction Practices Sectional Committee had been 
+approved by the Civil Engineering Division Council. 
+
+0.2 This standard was first published in 1965, The revision has been 
+prepared in the light of experience gained in the use of the standard 
+during course of these years.- A number of modifications in the provisions 
+of the standard have been made, important among which is the particle 
+size grading of sand for masonry work. The grading has been made more 
+practicable by specifying only one limit of grading for both reinforced 
+and unreinforced masonry work. 
+
+0.2.1 The performance of masonry mortars is characterised by properties 
+like strength, volume change, water retcntivity, workability, etc. The role of 
+sand in the mortar is to obtain these properties in the mortar to the best 
+extent as would be possible with the amount of binder materials, such as 
+cement, lime, etc, that are used in the mortar. It is not widely apprecia* 
+ted that sand for use in masonry mortar has got certain essential require- 
+ments to satisfy, namely, freedom from detrimental impurities and 
+particle size distribution within specific limits of grading. Quite often sand 
+is specified naming the localities from which it should be procured and 
+probably it is the experience in many places that sands so available give 
+satisfactory performance in normal construction work. While it would not 
+be practicable often to change existing practice completely, there is room 
+for improvement in the light of research and some of the basic require- 
+ments for sand to serve as an ingredient in masonry mortar can be 
+specified, by choosing, if need be, better sources of supply and also by 
+proper blending of sands from different sources. This standard specifies 
+the basic requirements for sand for use in masonry mortars, 
+
+0.3 In the formulation of this standard, due weightage has been given to 
+co-ordination among the standards and practices prevailing in different 
+
+
+
+IS 12116-1980 
+
+countries in addition to relating it to the practices in this field in 
+the country. 
+
+0,4 This standard contains clause 7 which requires the supplier to furnish 
+some technical information at the request of the purchaser. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied vlih, the final value, observed or calculated, express- 
+ing the result of a test or analysis, shall be rounded off in accordance with 
+IS : 2-1960*. The number of significant places retained in the rounded 
+off value should be the same as that of the specified value in this 
+standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard covers the requirements of naturally occurring sands, 
+crushed stone sands and crushed gravel sands used in mortars for 
+construction of masonry. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions shall apply, 
+
+2.1 Sand — A fine aggregate which is either natural sand or crushed 
+stone sand or crushed gravel sand, 
+
+2.2 Natural Sand — A fine aggregate produced by the natural disinte- 
+gration of rock and which has been deposited by streams or glacial 
+agencies. 
+
+2.3 Crushed Stone Sand and Crushed Gravel Sand — A fine aggre- 
+gate produced by crushing stone or natural gravel. 
+
+3. QUALITY OF SAND 
+
+3.1 General —The sand shall consist of natural sand, crushed stone sand 
+or crushed gravel sand or a combination of any of these. The sand shall 
+be hard, durable, clean and free from adherent coatings and organic 
+matter and shall not contain the amount of clay, silt and fine dust more 
+than specified under 3.3 (a), 
+
+3.2 Deleterious Material — The sand shall not contain any harmful 
+impurities such as iron pyrites, alkalis, salts, coal or other organic 
+impurities, mica, shale or similar laminated materials, soft fragments, sea 
+shells in such form or in such quantities as to affect adversely the harden- 
+ing, strength or durability of the mortar. 
+
+3.3 Limits of Deleterious Material — Unless found satisfactory as a 
+result of further tests as may be specified by the engineer-in-charge, or 
+unless evidence of such performance is offered which is satisfactory to him. 
+
+
+
+•Rules for rQunding off numerical values ( revised ), 
+
+
+
+IS : 2116 . 1980 
+
+the maximum quantities of clay, fine silt, fine dust and organic impurities 
+in the sand shall not exceed the following limits: 
+
+a) Clay, fine silt and fine dust when determined in accordance with 
+IS : 2386 ( Part II ).1963*. 
+
+1) In natural sand or crushed gravel Not more than 5 percent 
+sand by mass 
+
+2) In crushed stone sand Not more than 5 percent 
+
+by mass 
+
+b) Organic impurities when determined Colour of the liquid shall 
+in accordance with IS : 2386 be lighter than that 
+( Part II )-l963* indicated by the stan- 
+dard solution specified 
+in IS : 2386 ( Part II )- 
+1963* 
+
+Note — In particular cases, crushed stone sand with even higher proportions 
+of fine dust than specified above may be satisfactory and the limit so permitted may 
+be subject to the agreement between the supplier and the purchaser. 
+
+4. GRADING OF SAND 
+
+4.1 The particle size grading of sand for use in mortars shall be within 
+the limits as specified in Table L 
+
+
+
+TABLE 1 GRADING OF SAND FOR USE IN MASONRY MORTARS 
+
+
+IS Sieve Designation 
+
+[See IS: 460 ( Part I )- 
+
+1978*] 
+
+
+Percentage Passing 
+BY Mass 
+
+
+Ref to Method of Test 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+4'75 mm 
+
+
+100 
+
+
+IS : 2386 ( Part I )-1963t 
+
+
+2-36 mm 
+
+
+90 to 100 
+
+
+
+
+1-18 mm 
+
+
+70 to 100 
+
+
+
+
+600 micron 
+
+
+40 to 100 
+
+
+
+
+300 micron 
+
+
+5 to 70 
+
+
+
+
+150 micron 
+
+
+Oto 15 
+
+
+
+
+♦Specification for test sieves : Part I Wire cloth test sieves ( second revision ), 
+fMethods of test for aggregates for concrete : Part I Particle size and shape. 
+
+
+
+4.2 A sand whose grading falls outside the specified limits due to excess or 
+deficiency of coarse or fine particles may be processed to comply with the 
+standard by screening through a suitably sized sieve and/or blending with 
+required quantities of suitable sizes of sand particles. Based on test results 
+
+•Methods of test for aggregates for concrete : Part 11 Estimation of deleterious 
+materials and organic impurities. 
+
+
+
+ISt 2116. 1980 
+
+and in the light of practical experience with the use of local materials, 
+deviation in grading of sand given in 4»1 may be considered by the 
+engineer-in-charge. 
+
+4.3 The various sizes of particles of which the sand is composed shall be 
+uniformly distributed throughout the mass. 
+
+4.4 The required grading may often be obtained by screening and/or by 
+blending together either natural sands or crushed stone screenings, which 
+are, by themselves unsuitable. 
+
+5. SAMPLING AND TESTING 
+
+5.1 Sampling — The method of sampling shall be in accordance with 
+IS : 2430-1969*. The amount of material required for each test shall be 
+as specified in relevant parts of IS : 2386-1963f . 
+
+5.2 Testing — Any test which the purchaser or his representative may 
+require in connection with this standard shall be carried out in accordance 
+with the relevant parts of IS : 2386-1963t. Unless otherwise stated in the 
+enquiry or order, duplicate tests shall be made to all cases and the results 
+of both tests reported. 
+
+5.2.1 If further confirmation as to the satisfactory nature of the 
+material is required, compressive test on cement mortar cubes (1:6) 
+may be made in accordance with IS : 2250-1981J using the supplied 
+material in place of standard sand and the strength value so obtained 
+shall be compared with that of another mortar made with a sand 
+of acceptable and comparable quality, 
+
+6. SUPPLIER'S CERTIFICATE AND COST OF TESTS 
+
+6.1 The supplier shall satisfy himself that the material supplied conforms 
+to the requirements of this standard and, if requested, shall furnish a 
+certificate to this effect to the purchaser or his representative. 
+
+6.2 If the purchaser or his representative requires independent tests to be 
+made, the sample for such tests shall be taken before or immediately after 
+delivery, at the option of the purchaser or his representative, and the tests 
+shall be carried out in accordance with this standard and on the written 
+instructions of the purchaser or his representative. 
+
+6.3 The supplier shall supply, free of charge, the material required 
+for tests. 
+
+
+
+'Methods for sampling of aggregates for concrete, 
+
+tMethod of tests lor aggregates for concrete, 
+
+JCode of practice for preparation and use of masonry 
+
+
+
+mortars {first tevision ). 
+
+
+
+18:2116-1980 
+
+6.4 The cost of the tests carried out under 6.2 shall be borne as follows: 
+
+a) By the supplier, if the results show that the material does not 
+comply with the requirement of this standard; and 
+
+b) By the purchaser, if the results show that the material complies 
+with the requirement of this standard. 
+
+?• INFORMATION TO BE FURNISHED BY THE SUPPLIER 
+
+7.1 When requested by the purchaser or his representative, the supplier 
+shall provide the following particulars: 
+
+a) Source of supply, precise locality from where the materials were 
+obtained, with the name of quarry or pit; 
+
+b) Trade group of principal rock type used in the case of manu- 
+factured sand ( see Appendix G of IS : 383-1970* ); and 
+
+c) Particle size grading when determined in accordance with 
+IS : 2386 ( Part I )-1963t. 
+
+7.2 Subject to prior agreement, the supplier shall furnish the following 
+additional information when required by the purchaser or his representa- 
+tive: 
+
+a) Specific gravity of sand when determined in accordance with 
+IS : 2386 ( Part III )-1963t; and 
+
+b) Bulk density when determined in accordance with IS : 2386 
+{ Part III )-1963t. 
+
+
+
+♦Specification for coarse and fine aggregates from natural source for concrete 
+{second revision ) . 
+
+tMethods of test for aggregates for concrete : Part I Particle size and shape. 
+JMethods of test for aggregates for concrete : Part III Specific gravity, density, 
+voids, absorption and bulking. 
+
+
+
+IS s 2116 - 1980 
+
+{ Continued from page 2 ) 
+
+Members Representing 
+
+Shki Y. K. Mehta Concrete Association of India, Bombay 
+
+Shbi V. D. LoNDHE ( Alternate ) 
+Dn S. S. Rehsi Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Shbi B. K. Jindal ( Alternate ) 
+Sbniob Civil Engineek ( Designs/ Railway Board ( Ministry of Railways ) 
+
+Spl ), Northern Railway 
+Shbi K. S. Sbinivasan National Buildings Organization, New Delhi 
+
+Assistant Director ( Alternate) 
+Superintending Engineer Public Works Department^ Government of Tamil 
+( Planning & Designs ) Nadu, Madras 
+
+Executive Engineer ( Buil- 
+ding Centbe ) ( Alternate ) 
+Superintending Engineer and Public Works & Housing Department, Govern* 
+
+Dy Secretary (B) ment of Maharashtra, Bombay 
+
+Superintending Surveyor of Central Public Works Department, New Delhi 
+Works ( Food ) 
+Surveyors or Wokks ( Food ) ( Alternaie ) 
+Shbi K. M, Tandon Engineer-in-Chief *s Branch, Army Headquarters 
+
+Shbi B. S. Gopalan ( Alternate ) 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquartms: 
+
+Manak Bhavan. 9 Bahadur Shah Zafar Marg, NEW DELHI 110002 
+
+Telephones: 323 0131, 323 3375, 323 9402 
+
+Fax : 9i 11 3234062, 91 11 3239399, 91 11 3239382 
+
+Telegrams : Manaksanstha 
+(Common to all Offices) 
+
+Central Laboratory: 
+
+Plot No. 20/9, Site IV, Sahlbabad Industrial Area, SAHIBABAD 201010 
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 110002 
+*Eastern : 1/14 CIT Scheme VII M, VI,P. Road. Maniktola, CALCUTTA 700054 
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 
+Southern : C.I.T Campus, IV Cross Road, CHENNA! 600113 
+tWestern : Manakalaya, E9 Behind Maro! Telephone Exchange, Andhsri (East), 
+MUMBAI 400093 
+
+Branch Offices: 
+
+'Pushpak'. Nurmohamed Shaikh Marg, Khanpur, AHMEDABAD 380001 
+tPeenya Industrial Area, 1st Stage, Bangalore • Tumkur Road, 
+
+BANGALORE 560058 
+Gangotri Complex, 5th Floor, Bhadbhada Road, T T Nagar, BHOPAL 462003 
+Plot No. 62-63. Unit VI. Ganga Nagar, BHUBANESHWAR 751001 
+Kalaikathir Buildings. 670 Avinashi Road, COJMBATORE 641037 
+Plot No. 43. Sector 16 A. Mathura Road, FARIDABAD 121001 
+Savitri Complex, 116 G. T Road, GHAZIABAD 201001 
+53/5 Ward No. 29, R. G. Barua Road. 5th By-lane, GUWAHATI 781003 
+5-8-58C, L N. Gupta Marg, Nampally Station Road, HYDERABAD 500001 
+E-52. Chitar^hjan Marg. C-Scheme, JAIPUR 302001 
+117/418 B. Sarvodaya Nagar, KANPUR 208005 
+Seth Bhawan, 2nd Floor. Behind Leela Cinema, Naval Kishore Road, 
+
+LUCKNOW 226001 
+Patliputra Industrial Estate, PATNA 800013 
+T C. No. 14/1421, University P O. Palayam, 
+
+THIRUVANANTHAPURAM 695034 
+NIT Building, Second Floor, Gokutpat Market, NAGPUR 440010 
+Institution of Engineers ( India ) Building, 1332 Shivaji Nagar, PUNE 411005 
+
+
+
+*Sales Office is at 5 Chowringhee Approach, R O. Princep Street, 
+
+CALCUTTA 700072 
+tSates Office is at Novelty Chambers. Grant Road, MUMBAI 400007 
+tSales Office is at 'F' Block, Unity Building, Narashimaraja Square, 
+
+BANGALORE 560002 
+
+
+
+Telephone 
+
+
+8-77 00 32 
+
+
+323 76 17 
+
+
+337 86 62 
+
+
+60 38 43 
+
+
+235 23 15 
+
+
+832 92 95 
+
+
+550 13 48 
+
+
+839 49 55 
+
+
+55 40 21 
+
+
+40 36 27 
+
+
+21 01 41 
+
+
+8-28 88 01 
+
+
+8-71 19 96 
+
+
+54 11 37 
+
+
+20 10 83 
+
+
+37 29 25 
+
+
+21 68 76 
+
+
+23 89 23 
+
+
+26 23 05 
+
+
+6 21 17 
+
+
+52 51 71 
+
+
+32 36 35 
+
+
+27 10 85 
+
+
+309 65 28 
+
+
+222 39 71 
+
+
+
+PrlRtsd at Nsw India Printing Press, Khurja, India 
+
+
+

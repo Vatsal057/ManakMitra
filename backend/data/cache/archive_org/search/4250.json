@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":37,"params":{"query":"identifier:gov.in.is.4250.*","qin":"identifier:(gov.in.is.4250.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.4250.1980","title":"IS 4250: Domestic Electric Food-Mixers (Liquidizes and Grinders)"}]}}

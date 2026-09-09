@@ -1,0 +1,1047 @@
+**************** 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 5461 (1984) : Method for sieve analysis of metal powders 
+[MTD 25: Powder Metallurgical Materials and Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS (5461 ' 19B4 
+
+(Reaffirmed 2002) 
+
+Indian Standard 
+
+METHOD FOR 
+SIEVE ANALYSIS OF METAL POWDERS 
+
+
+
+( Firsi Revision ) 
+
+
+
+Vnc GG^M^a 2 : 62CH6f^' 32 
+
+
+
+
+© Ciffifrighi L^5 
+
+INDIAN STANDARDS INSTITUTION 
+
+MAN^K BHAVAN. & BAHAl^UR SHAH ZAFAR MARO 
+
+Gr 2 Febrmrjf 1985 
+
+
+
+IS : 5461 - 1984 
+
+
+
+Indian Standard 
+
+
+
+METHOD FOR 
+SIEVE ANALYSIS OF METAL POWDERS 
+
+( First Revision ) 
+
+
+
+Powder Metallurgical Materials and Products 
+Sectional Committee, SMDC 30 
+
+Chairman Representing 
+
+Dr R. Vijayauaghavan Bhabha Atomic Research Centre, Bombay 
+
+Members 
+
+Shui V, G, Date ( Alternate to 
+Dr R. Vijayaraghavan ) 
+Shbi S. L. N. Achakyulu Research & Development Organization, Ministry of 
+
+Defence 
+
+Shki N. Maitra ( Alternate ) 
+Sbri S. Bai^erjee Ministry of Defence ( DGOF ) 
+
+Shri S. K. Basu Indian Oxygen Ltd, Calcutta 
+
+Shri R. Banerjee ( Alternate ) 
+Shri A. M. Biswas National Test House, Calcutta 
+
+Shri K. 1.. Baruai ( Alternate ) 
+Dr R. D. Bhargava Assotex Engineering Industries ltd, Bombay 
+
+Shri Anoop Saxeka ( Alternate ) 
+Shri P. G. Bhatt Flexicons Ltd, Bombay 
+
+Shri B. G. Bhatt ( Alternate ) 
+Shri J. Bhattacharyya Ministry of Defence (DGI) 
+
+Shri R. N. Paul ( Alternate ) 
+Shri A. K. Dutta Tata Engineering and Locomotive Co Ltd, 
+
+Jamshedpur 
+Shri N. T. George Powder Metallurgy Association of India, Hyderabad 
+
+Shri T. R. Gupta India Hard Metals Ltd, Calcutta 
+
+Shri K. C. Mittal ( Alternate ) 
+Shri B, M. Kataria Mahindra Sintered Products Ltd, Pune 
+
+Dr K. D. Krishnanand ( Alternate ) 
+Shri K. Kesavan The Metal Powder Co Ltd, Thirumangalam 
+
+Shri K. Pabthasarathy Ashok Leyland Ltd, Madras 
+
+Shri R. Narayanswamy ( Alternate ) 
+Shri T. RamasubramaniaH Directorate General of Technical Development, 
+
+New Delhi 
+
+Shri Y. H. Raut ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1985 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the ^ 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+18:5461-1984 
+
+( Continued from page \ ) 
+
+Members Representing 
+
+Dr M. Naqesv/ara R.AO Mishra Dhatu Nigam Ltd, Hyderabad 
+
+Shri S. N. Jha ( Alternate ) 
+Shri U. Mohax Rao Bharat Heavy Electricals Ltd, Hyderabad 
+
+Drt P. R. Kkishkamxjktby ( Alternate ) 
+Dr N. R. Sanjajsta Sandvik Asia Ltd, Pune 
+
+Dr R. M. Pakdkshi ( Alternate ) 
+Shri Anil R. Skah Khosla Metal Powders Pvt Ltd, Pune 
+
+Shri B. H. Shktty ( Alternate ) 
+Shri M.J. Shahani National Metallurgical Laboratory, Jannshedpur 
+
+Shri J. P. Tiwari ( Alternate ) 
+Shri R. Srtnivasak Widia ( India ) Ltd, Bangalore 
+
+Shri K. Sadanand ( Alternate ) 
+ShriR. Srinivasan Central Electro Chemical Research Institute, 
+
+Karaikudi 
+
+Shri P. V. Vasudt^ivarao ( Alternate ) 
+Shri K. Raghavendran, Director General, ISI ( Ex-officio Member ) 
+
+Director ( Struc & Metals ) 
+
+Secretary 
+
+Shri Jagmohan Singh 
+Deputy Director ( Metals ), ISI 
+
+
+
+IS : 5461 - 1984 
+
+Indian Standard 
+
+METHOD FOR 
+SIEVE ANALYSIS OF METAL POWDERS 
+
+
+
+( First Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard [ First Revision ) was adopted by the Indian 
+Standards Institution on 21 February 1984, after the draft finaHzed by the 
+Powder Metallurgical Materials and Products Sectional Committee had 
+been approved by the Structural and Metals Division Council. 
+
+0.2 This standard was first published in 1969. On the basis of 
+experience gained by the indigenous industry in the field of powder 
+metallurgy, the concerned Sectional Committee decided to undertake 
+the revision. 
+
+0,3 In this revision the details to be given while reporting the results, 
+have been included ( see 9 ). 
+
+0.4 For the convenience of the users, comparable foreign standards are 
+given below: 
+
+a) ASTMB 214-76 
+
+b) DIN 81-69 
+
+c) MPIF05, 1973 
+
+d) ISO 4497-1983 
+
+0.5 In reporting the result of a test or analysis made in accordance with 
+this standard, if the final value, observed or calculated, is to be rounded 
+off, it shall be done in accordance with IS : 2-1960*. 
+
+
+
+1. SCOPE 
+
+1.1 This standard prescribes the method for sieve analysis of dry 
+unlubricated metallic powders. The method is not applicable to powders 
+in which the morphology differs markedly from being equiaxial and the 
+particle size wholly or mostly under 45 ftm. 
+
+*Rules for rounding off numerical values ( revised ). 
+
+3 
+
+
+
+IS : 5461 - 1984 
+
+2. TERMINOLOGY 
+
+2.1 For the purpose of this standard, the definitions given in IS : 5432- 
+1982* shall apply. 
+
+3. PRINCIPLE OF TEST 
+
+3,1 Tjxis test consists of separation of the powder into particle size 
+fractions by shaking through a set of wire cloth, test sieves arranged in 
+consecutive order of size of aperture openings and weighing the fractions 
+retained on each sieve. 
+
+4. TESTING APPARATUS 
+
+4.1 Sieves — A set of standard sieves ( see Table 1 ) conforming to 
+IS : 460 ( Part 1 )-1978t. 
+
+The test sieve frames shall rest singly with one another and the set 
+shall be completed with a lid on top and a collecting pan below the 
+bottom sieve. 
+
+TABLE 1 STANDARD SIEVE SET 
+
+Sieve Destgnatiok 
+
+180 
+150 
+125 
+106 
+
+90 
+
+75 
+
+63 
+
+53 
+
+45 
+
+Note — The nearest eaulvalent mesh are 80 ( 180 t^m ), 100 ( 150 t^m ), 150 ( 106 
+EJtm ), 200 ( 75 am ) and 325 ( 45 [xm ). 
+
+4.2 Sieve Shaker — A mechanically operated sieve shaker with follow- 
+ing details may be used: 
+
+Number of revolutions 270-300/min 
+
+Number of tappings 140-160/min 
+
+
+
+♦Glossary of terms relating Xo powder metallurgy {first revision ). 
+tWire cloth test sieves ( second revision ) . 
+
+
+
+IS : 5461 - 1984 
+
+Hammer mass 3 kg 
+
+Amplitude 30 mm 
+
+Free falling height of 60 mm 
+
+hammer 
+
+The sieve shaker shall be fitted with a plug to receive the impact of 
+tapping device. 
+
+4.3 Balance — A balance having a sufficient capacity to weigh 100 g of 
+powder to an accuracy of ±0*01 g, 
+
+5. SAMPLING 
+
+5.1 Sampling shall be carried out in accordance with IS : 6492-1972*. 
+
+5.2 In general the powder shall be tested in the as-received condition. In 
+certain instances, the powder may be dried at temperature 110 ^ 5^G 
+for 1 hour. However, if the powder is susceptible to oxidation, the 
+drying should take place in an inert gas. 
+
+6. TEST SPECIMEN 
+
+6.1 The size of the test specimen shall be 100 g for any metal powder 
+having an apparent density greater than 1'5 g/cc when determined in 
+accordance with IS : 4848-19811. A 50 g specimen shall be used when 
+the apparent density of the powder is less than 1*5 g/cc. 
+
+7. TEST PROCEDURE 
+
+7.1 The group of sieves selected shall be assembled in consecutive order 
+as to size of openings with the coarsest sieve at the top, the assembly 
+being completed by a collecting pan below the bottom sieve. The test 
+specimen shall be placed on the top sieve and this sieve closed with a 
+cover. The sieve assembly shall then be fastened securely in a suitable 
+mechanical sieve shaking device and the m.achine operated for a period 
+of 15 minutes. 
+
+7.2 The screened fractions shall be removed from the nest of sieves by 
+removing the coarsest sieve from the nest gently tapping its contents to 
+one side and pouring them upon a glazed paper. Any material adhering 
+to the bottom of the sieve and frame shall be brushed with a soft brush 
+into the next finer sieve. The sieve just removed shall be tapped, upside 
+down, on the paper containing the portion that had been retained on it. 
+This fraction shall be weighed to the nearest 0*1 g. This process shall 
+
+
+
+♦Methods for sampling of powders for powder metallurgical purposes. 
+fMethod for determination of apparent density of powders for powders metallurgical 
+purposes {first revision ). 
+
+
+
+IS : 5461 - 1984 
+
+be repeated for each sieve in the nest and the fraction collected in the 
+pan shall also be removed and weighed. The sum of the masses of all 
+the fractions shall not be less than 99 percent of the mass of test speci- 
+men, and the difference between this sum and the mass of the test 
+specimen shall be added to the mass of the fraction collected in the 
+pan. 
+
+7,3 The standard sieves will, after a period of time will become less 
+accurate. The sieves shall, therefore, be periodically checked and the 
+correction factor to be applied to the results shall be determined. The 
+method of checking of sieves is illustrated in Appendix A. 
+
+8. TEST RESULTS 
+
+8.1 The masses of the fractions retained on each sieve and the mass of 
+the fraction collected in the pan shall be expressed as percentages of the 
+mass of the test specimen to the nearest O'l percent, and reported in the 
+form shown in Table 2. Any fraction, that is less than 0*5 percent of the 
+mass of the test specimen, shall be reported as 'trace'. 
+
+
+
+Pkkcknt by Mass 
+(3) 
+
+
+
+
+
+TABLE 2 ] 
+
+
+REPORTING OF 
+
+
+Retained on 
+
+
+Sieve 
+
+
+Passing Sieve 
+
+
+jxm 
+
+
+
+
+[im 
+
+
+(1) 
+
+
+
+
+(2) 
+
+
+180 
+
+
+
+
+— 
+
+
+150 
+
+
+
+
+180 
+
+
+125 
+
+
+
+
+150 
+
+
+106 
+
+
+
+
+125 
+
+
+90 
+
+
+
+
+106 
+
+
+75 
+
+
+
+
+90 
+
+
+63 
+
+
+
+
+75 
+
+
+53 
+
+
+
+
+63 
+
+
+45 
+
+
+
+
+53 
+
+
+— 
+
+
+
+
+45 
+
+
+8.2 Precision 
+
+
+
+
+
+
+
+8.2.1 Repeatability — The results of tests on the same sample, by the 
+same operator using same apparatus shall not be considered suspect 
+unless values differ by ±3 percent. 
+
+8.2.2 Reproducibility — The results of tests on the same sample in 
+different laboratories should not be considered suspect unless the values 
+differ by ± 10 percent. 
+
+
+
+IS : 5461 - 1984 
+
+9, TEST REPORT 
+
+9»1 The test report shall include the following informations: 
+
+a) Reference to IS : 5461-1984; 
+
+b) All details necessary for identification of the test sample; 
+
+c) The drying procedure, if the powder has been dried; and 
+
+d) The results obtained. 
+
+APPENDIX A 
+
+( Clause 7.3 ) 
+
+CHECKING OF SIEVES AGAINST A STANDARD SET 
+
+A-1. When used continually, the sieves in a set, after a period of time, 
+will become less accurate and might no longer be acceptable as certified 
+sieves. These sieves shall be checked against a master set of standard 
+sieves by comparing sieve tests on the same sample, run in both the 
+master set and the working set, A correction factor shall be established 
+as shown in Table 3, and all results obtained on the working sieves 
+shall be multiplied by the factor so obtained before reporting. 
+
+TABLE 3 EXAMPLES OF METHOD FOR OBTAINING SIEVE 
+CORRECTION FACTOR 
+
+Retained on Passing Sieve Results Results Correction 
+
+Sieve Obtained Obtained Factor 
+
+ON Certified on Worknig 
+Sieve Sieve 
+
+(1) (2) (3) (4) (5) 
+
+
+
+a/b 
+c/d 
+e/f 
+
+
+
+tim 
+
+
+{xm 
+
+
+
+
+
+
+180 
+
+
+— 
+
+
+_ 
+
+
+
+
+150 
+
+
+180 
+
+
+a 
+
+
+b 
+
+
+125 
+
+
+150 
+
+
+c 
+
+
+d 
+
+
+106 
+
+
+125 
+
+
+e 
+
+
+f 
+
+
+90 
+
+
+106 
+
+
+— 
+
+
+
+
+75 
+
+
+90 
+
+
+— 
+
+
+
+
+63 
+
+
+75 
+
+
+— 
+
+
+- 
+
+
+53 
+
+
+63 
+
+
+— 
+
+
+
+
+45 
+
+
+53 
+
+
+— 
+
+
+
+
+
+
+
+45 
+
+
+— 
+
+
+- 
+
+
+
+Note — ■ To obtain ' corrected values ' for reporting, multiply the ' correction 
+factor ' with the values obtained in col 4, on the working sieve. 
+
+
+
+INTERNATIONAL SYSTEM OF UNITS ( SI UNITS ) 
+
+
+
+Base Units 
+
+
+
+
+
+
+QUAKTITY 
+
+
+Unit 
+
+
+Symbol 
+
+
+Length 
+
+
+metre 
+
+
+m 
+
+
+Mass 
+
+
+kilogram 
+
+
+kg 
+
+
+Time 
+
+
+second 
+
+
+S 
+
+
+Electric current 
+
+
+ampere 
+
+
+A 
+
+
+Thermodynamic 
+
+
+kelvin 
+
+
+K 
+
+
+temperature 
+
+
+
+
+
+
+Luminous intensity 
+
+
+candela 
+
+
+cd 
+
+
+Amount of substance 
+
+
+mole 
+
+
+mol 
+
+
+Supplementary Units 
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+Plane angle 
+
+
+radian 
+
+
+rad 
+
+
+Solid angle 
+
+
+steradian 
+
+
+sr 
+
+
+Derived Units 
+
+
+
+
+
+
+QUAKTITY 
+
+
+Unit 
+
+
+Symbol 
+
+
+Force 
+
+
+newton 
+
+
+N 
+
+
+Energy 
+
+
+joule 
+
+
+J 
+
+
+Power 
+
+
+watt 
+
+
+W 
+
+
+Flux 
+
+
+weber 
+
+
+Wb 
+
+
+Flux density 
+
+
+tesla 
+
+
+T 
+
+
+EFrequency 
+
+
+hertz 
+
+
+Hz 
+
+
+lectric conductance 
+
+
+Siemens 
+
+
+S 
+
+
+Electromotive force 
+
+
+volt 
+
+
+V 
+
+
+Pressure, stress 
+
+
+pascal 
+
+
+Pa 
+
+
+
+Definition 
+
+1 N = 1 kg.m/s* 
+1 J = 1 N.m 
+
+1 W - 1 J/s 
+1 Wb = 1 V.s 
+1 T = 1 Wb/m» 
+1 Hz -= 1 c/s (s-^) 
+1 S = 1 A/V 
+1 V == 1 W/A 
+1 Pa = 1 N/m^ 
+
+
+
+INDIAN STANDARDS INSTITUTION 
+
+
+
+Manflk BhBvan. 9 Bili»dui Stiafi ^star Metft. MEW DELHI 110002 
+
+T*lnpti€ine«: 2fi 60 ?1 27 01 31 TAl^gfnmjc MAnekiLinfitfit 
+
+{CofTimon TO all 0<f1cj**) 
+
+*WB9Carn : lVldnah4l»v«. E9 MIOC. Marol. AndhcH ( €BBt I, fiOMSAT 4L»00$3 § 32 92 35 
+
+HASlern : 1/H C. I. T. Schema Vll M. V. I. P. ftoed^ Wsniktdft, J6 24 99 
+CALCUTTA 700054 
+
+South srti I C. I. T, Campva, MADRAS 6001^3 4t 2* 4j! 
+
+lJn(th»rn : H69 Ph«9e Vll. Induitrim Focal ^omi 9 T3 2B 
+5. A S NftriAft I4n061 ( ^urnlah J 
+
+PliShDlk^ Hurrnohameo Shiikh Moffl. Khanpur. ahmadabaq jsquoi / Z B4 4b 
+
+\Ze3 49 
+
+F' Blpck^ Uftllv B'^JB' NHraS'iTthirajH Square, BAr4GAL0f?E btiOUDZ 22 4B 05 
+
+GartBolri Complsx, Bhadbhada ftoad. T. T. Ns^ar. B HOPAL 463003 6 27 H 
+
+226 Kill psna Araa . a HU B AN £S H W A R 7 S 1 14 5 36 2 7 
+
+6-8'BBC L. N. Gupt* Ntarg, HYDERABAO SoOOOI 22 10 83 
+
+U U Vudhistfl r M a rfl. C Sche ni&, J Al PU R 302005 6 9B 32 
+
+117^4 IB B SaFVOtlaya Nsger. KAMPUR 20&D06 4 7i 92 
+
+Pilli pu tf B I ndu tlri »l E sta [e. ? A T N A 800 Q 1 3 & 2 3 06 
+
+HbHIpji Bidg { 2rni floor ). ftiv Station Road. tftlVAMOftUM Q4600^ J2 2? 
+
+tiiSMcmn Of fie* < With Salt Point ;■ 
+
+IfiUllullon 0I Cnflinasr* f tnjjia J Bulldkno. 1332 Shiwar^ N«gdt f^UNE 4T1Q0R 5 ?a 15 
+
+
+
+•SaFvs OfFca ii^ Bombay li «I NovaIIv ChairbeTi, Gram Hahi, 69 &B ZS 
+
+Bombay 400007 
+
+tSalus Offica In Calcutta \^ at & Chowrlnflh«« Approach. P, O. 27 08 00 
+
+ft I n can Str«4l CaFcu ila 700072 
+
+PrinTAd atFrip^tograDOl^ur D«itil findi 
+
+
+

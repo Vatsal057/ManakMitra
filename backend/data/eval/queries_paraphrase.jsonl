@@ -1,0 +1,40 @@
+{"query": "binder 33 MPa strength class for plaster coat", "relevant": ["IS 269"], "query_type": "descriptive_paraphrase", "notes": "OPC-33 by strength class, not grade"}
+{"query": "binder 43 MPa strength class for slab work", "relevant": ["IS 8112"], "query_type": "descriptive_paraphrase", "notes": "OPC-43 by strength class, not grade"}
+{"query": "binder 53 MPa strength class for precast elements", "relevant": ["IS 12269"], "query_type": "descriptive_paraphrase", "notes": "OPC-53 by strength class, not grade"}
+{"query": "flyash blended binder for mass concreting low heat", "relevant": ["IS 1489-1-2"], "query_type": "descriptive_paraphrase", "notes": "PPC without saying pozzolana/cement"}
+{"query": "furnace by-product blended binder for marine substructure low heat", "relevant": ["IS 455"], "query_type": "descriptive_paraphrase", "notes": "PSC (slag cement) without saying slag/cement"}
+{"query": "stone chips and river sand for concreting", "relevant": ["IS 383"], "query_type": "descriptive_paraphrase", "notes": "aggregate without saying aggregate"}
+{"query": "red masonry blocks for load-bearing walls", "relevant": ["IS 1077"], "query_type": "descriptive_paraphrase", "notes": "burnt clay bricks without saying bricks/clay"}
+{"query": "governing code for RCC design", "relevant": ["IS 456"], "query_type": "descriptive_paraphrase", "notes": "the RCC code without saying structural/concrete"}
+{"query": "TMT rods Fe 500 for column framework", "relevant": ["IS 1786"], "query_type": "descriptive_paraphrase", "notes": "TMT rebar shorthand, avoids reinforcement/concrete/bars"}
+{"query": "RCC hume conduits for storm water disposal", "relevant": ["IS 458"], "query_type": "descriptive_paraphrase", "notes": "precast pipes without saying pipes"}
+{"query": "moulding panels for cast-in-place walls", "relevant": ["IS 4990"], "query_type": "descriptive_paraphrase", "notes": "shuttering ply without saying shuttering/form/plywood"}
+{"query": "superplasticizer dosage for workability enhancement", "relevant": ["IS 9103"], "query_type": "descriptive_paraphrase", "notes": "concrete admixture, trade term"}
+{"query": "head gear for construction site impact cover", "relevant": ["IS 2925"], "query_type": "descriptive_paraphrase", "notes": "safety helmet without saying helmet/protection/falling"}
+{"query": "coagulant chemical for water purification plant", "relevant": ["IS 260"], "query_type": "descriptive_paraphrase", "notes": "alum without saying aluminium/sulphate"}
+{"query": "rigging hook for sling thimble assembly", "relevant": ["IS 2759"], "query_type": "descriptive_paraphrase", "notes": "wire rope hook, trade phrasing"}
+{"query": "monkey cap woollen for winter uniform issue", "relevant": ["IS 2783"], "query_type": "descriptive_paraphrase", "notes": "balaclava, colloquial Indian term"}
+{"query": "bituminous varieties for damp sealing coats", "relevant": ["IS 216"], "query_type": "descriptive_paraphrase", "notes": "coal tar pitch without saying pitch/binder/proofing"}
+{"query": "pedestal fan for home AC circuit use", "relevant": ["IS 2997"], "query_type": "descriptive_paraphrase", "notes": "electric fan, trade phrasing"}
+{"query": "table spread dairy substitute product", "relevant": ["IS 12451"], "query_type": "descriptive_paraphrase", "notes": "margarine without saying margarine"}
+{"query": "anti-loosening ring washer for fastening assembly", "relevant": ["IS 3063"], "query_type": "descriptive_paraphrase", "notes": "spring lock washer, trade phrasing"}
+{"query": "cranking motor 12V for diesel engine", "relevant": ["IS 3141"], "query_type": "descriptive_paraphrase", "notes": "starter motor, trade phrasing"}
+{"query": "modular almirah rack with hinge access", "relevant": ["IS 3312"], "query_type": "descriptive_paraphrase", "notes": "steel shelving cabinet, colloquial Indian term"}
+{"query": "raincoat fabric plastic laminated waterproof", "relevant": ["IS 3322-1"], "query_type": "descriptive_paraphrase", "notes": "PVC-coated clothing without saying coated"}
+{"query": "ceramic disc unit for high tension transmission network", "relevant": ["IS 3188"], "query_type": "descriptive_paraphrase", "notes": "porcelain string insulator without saying porcelain/insulator/overhead"}
+{"query": "clothes press appliance safety clearance", "relevant": ["IS 302-2-3"], "query_type": "descriptive_paraphrase", "notes": "electric iron without saying iron/electric/household"}
+{"query": "instant geyser rod hot coil element", "relevant": ["IS 368"], "query_type": "descriptive_paraphrase", "notes": "immersion water heater without saying immersion/portable/heating"}
+{"query": "pillion crash cap for daily commute", "relevant": ["IS 4151"], "query_type": "descriptive_paraphrase", "notes": "two-wheeler helmet without saying scooter/motorcycle/two/wheeler"}
+{"query": "point with lockout mechanism for permanent wiring at 32A", "relevant": ["IS 4160"], "query_type": "descriptive_paraphrase", "notes": "interlocked socket-outlet without saying interlock/socket/outlet/household"}
+{"query": "kitchen blending appliance home use", "relevant": ["IS 4250"], "query_type": "descriptive_paraphrase", "notes": "food mixer-grinder without saying mixer/grinder/food/motor/domestic"}
+{"query": "shock device hospital cardiac resuscitation", "relevant": ["IS 13450-2-4"], "query_type": "descriptive_paraphrase", "notes": "defibrillator, trade phrasing (target's own text has an OCR typo 'Cardia' for 'Cardiac')"}
+{"query": "binder for coastal marine works with enhanced soil-attack durability", "relevant": ["IS 12330"], "query_type": "descriptive_paraphrase", "notes": "sulphate-resisting cement without saying sulphate/resistant/chemical"}
+{"query": "fibre optic patch cords for structured cabling", "relevant": [], "query_type": "no_answer", "notes": "plausible Indian procurement item, no answer in the 287-row corpus"}
+{"query": "CCTV dome camera housing for perimeter surveillance", "relevant": [], "query_type": "no_answer", "notes": "plausible Indian procurement item, no answer in the 287-row corpus"}
+{"query": "solar inverter mounting brackets for rooftop array", "relevant": [], "query_type": "no_answer", "notes": "plausible Indian procurement item, no answer in the 287-row corpus"}
+{"query": "biometric attendance access control device", "relevant": [], "query_type": "no_answer", "notes": "plausible Indian procurement item, no answer in the 287-row corpus"}
+{"query": "modular workstation partition panels for office fitout", "relevant": [], "query_type": "no_answer", "notes": "plausible Indian procurement item, no answer in the 287-row corpus"}
+{"query": "UPS battery backup unit 1kVA for server room", "relevant": [], "query_type": "no_answer", "notes": "plausible Indian procurement item, no answer in the 287-row corpus"}
+{"query": "epoxy floor coating for industrial warehouse", "relevant": [], "query_type": "no_answer", "notes": "plausible Indian procurement item, no answer in the 287-row corpus"}
+{"query": "aluminium composite panel cladding for building facade", "relevant": [], "query_type": "no_answer", "notes": "plausible Indian procurement item, no answer in the 287-row corpus"}
+{"query": "borewell submersible pump motor for irrigation", "relevant": [], "query_type": "no_answer", "notes": "plausible Indian procurement item, no answer in the 287-row corpus"}

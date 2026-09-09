@@ -1,0 +1,1260 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 13782 (1993) : Permeable sintered metal materials - 
+Determination of fluid permeability [MTD 25: Powder 
+Metallurgical Materials and Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 13782 : 1993 
+ISO 4022 : 1987 
+
+Reaffirmed 1999 
+
+Indian Standard 
+
+PERMEABLE SINTERED METAL MATERIALS — 
+DETERMINATION OF FLUID PERMEABILITY 
+
+
+
+UDC 669-138-8 :620-193-19 
+
+
+
+©BIS 1993 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK 8HAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+June yB93 Price Qroup 5 
+
+
+
+Powder Metallurgical Materials and Products Sectional Committee, MTD 25 
+
+
+
+NATIONAL FOREWORD 
+
+This Indian Standard which is identical with ISO 4022: 1987 'Permeable sintered metal 
+materials — Determination of fluid permeability', issued by the International Organization for 
+Standardization ( ISO ), was adopted by the Bureau of Indian Standards on the recommendations 
+of the Powder Metallurgical Materials and Products Sectional Committee ( MTD 25 ) and 
+approval of the Metallurgical Engineering Division Council. 
+
+The text of ISO Standard has been approved as suitable for publication as Indian Standard without 
+deviations. Some terminology and conventions are, however, not identical with those used in 
+Indian Standards. Attention is especially drawn to the following: 
+
+a) Wherever the words 'International Standard' appear, referring to this standard, it should 
+be read as 'Indian Standard'. 
+
+b) Comma ( , ) has been used as a decimal marker while in Indian Standards the current 
+practice is to use a point ( . ) as the decimal marker. 
+
+In this adopted standard, reference appears to ISO 2738. The Indian Standard IS 5642 : 1991 
+'Permeable sintered metal materials — Determination of density, oil content and open porosity 
+( second revision )'. which is identical with ISO 2738 : 1987, is to be substituted in its place. 
+
+In reporting the results of a test made in accordance with this standard, if the final value, 
+observed or calculated, is to be rounded off, it shall be done in accordance with IS 2 : 1960 
+'Rules for rounding off numerical values ( revised)'. 
+
+
+
+IS 13782 : 1993 
+ISO 4022 : 1987 
+
+
+
+Indian Standard 
+
+PERMEABLE SINTERED METAL MATERIALS — 
+DETERMINATION OF FLUID PERMEABILITY 
+
+
+
+1 Scope and field of application 
+
+This International Standard specifies a method for the deter- 
+mination of the fluid permeability of permeable sintered metal 
+materials in which the porosity is deliberately continuous or in- 
+terconnecting, testing being carried out under such conditions 
+that the fluid permeability can be expressed in terms of viscous 
+and inertia permeability coefficients (see annex A). 
+
+This International Standard does not apply to very long hollow 
+cylindrical test pieces of small diameter, in which the pressure 
+drop of the fluid in passing along the bore of the cylinder may 
+not be negligible compared with the pressure drop of the fluid 
+passing through the wall thickness (see annex A, clause A. 5). 
+
+
+
+2 Reference 
+
+ISO 2738, Permeable sintered metal matenals ~ Determination 
+of density, oil content and open porosity. 
+
+3 Principle 
+
+Passage of a test fluid of known viscosity and density through a 
+test piece, and measurement of the pressure drop and the 
+volumetric flow rate. 
+
+Determination of the viscous and inertia permeability coeffi- 
+cients, which are parameters of a formula describing the rela- 
+tionship between the pressure drop, the volumetric flow rate, 
+the viscosity and density of the test fluid, and the dimensions of 
+the porous metal test piece permeated by this fluid. 
+
+
+
+IS 13782: 1993 
+ISO 4022: 1987 
+
+
+
+4 Symbols and definitions 
+
+For the purposes of this International Standard, the symbols and definitions given in the table apply: 
+
+Table — Symbols and definitions 
+
+
+
+Term 
+
+
+Symbol 
+
+
+Definition 
+
+
+Unit 
+
+
+Permeability 
+
+
+— 
+
+
+Ability of a porous metal to pass a fluid under the action of a 
+pressure gradient 
+
+
+- 
+
+
+Test area 
+
+
+A 
+
+
+Area of a porous metal normal tc the direction of the fluid flow 
+
+
+m2 
+
+
+Thickness 
+
+
+e 
+
+
+Dimension of the test piece in the direction of fluid flow 
+
+a) for flat test pieces: equal to the thickness 
+
+b) for hollow cylinders: given by the equation in 6.1.2 
+
+
+m 
+
+
+Length 
+
+
+L 
+
+
+Length oi c\/\mder (see figure 2) 
+
+
+m 
+
+
+Viscous permeability coefficient 
+
+
+^. 
+
+
+Volume flow rate at which a fluid of unit viscosity is transmitted 
+through unit area of porous metal permeated under the action of 
+unit pressure gradient when the resistance to fluid flow is due only 
+to viscous losses. It is independent of the quantity of porous metal 
+considered. 
+
+
+m2 
+
+
+Inertia permeability coefficient 
+
+
+^\ 
+
+
+Volume flow rate at which a fluid of unit density is transmitted 
+through unit area of porous metaf permeated under the action of 
+unit pressure gradient when the resistance to fluid flow is due only 
+to inertia losses. It is independent of the quantity of porous metal 
+considered. 
+
+
+m' 
+
+
+Volume flow rate 
+
+
+Q 
+
+
+Mass flow rate of the fluid divided by its density 
+
+
+m3/s 
+
+
+Upstream pressure 
+Downstream pressure 
+Mean pressure 
+
+
+Pi 
+P 
+
+
+Pressure upstrean of the test piece 
+
+Pressure downstream of the test piece 
+
+Half the sum of the upstream and downstream pressures 
+
+
+N/m2 
+
+
+Pressure drop 
+
+
+Ap 
+
+
+Difference between the pressures on the upstream and down- 
+stream surfaces of the porous test piece 
+
+
+N/m2 
+
+
+Pressure gradient 
+
+
+t^ple 
+
+
+Pressure drop divided by the thickness of porous test piece 
+
+
+N/m3 
+
+
+Velocity 
+
+
+QIA 
+
+
+Ratio of the volumetric flow rate to the test area 
+
+
+m/s 
+
+
+Density 
+
+
+Q 
+
+
+Density of the test fluid at the mean temperature and pressure 
+
+
+kg/m3 
+
+
+Dynamic viscosity 
+
+
+n 
+
+
+Absolute dynamic viscosity coefficient as defined by Newton's law 
+
+
+N.s/m2 
+
+
+Apparatus correction (to be subtracted 
+from the observed pressure drop) 
+
+
+
+
+Pressure difference observed between the upstream and 
+downstream pressure tappings when the test apparatus ^s used 
+without a porous test piece in position. {It varies with the flow rate 
+through the apparatus and arises from venturi effects at the 
+pressure tappings and other causes) 
+
+
+N/m2 
+
+
+Mean absolute temperature 
+
+
+T 
+
+
+Half the sum of the temperatures of the fluid at the upstream side 
+and the downstream side of the test piece 
+
+
+K 
+
+
+
+5 Test piece 
+
+Before testing with gas, all liquid shall be removed fronn the 
+pores of the test piece. Oil and grease shall be removed by 
+using a suitable solvent with the extraction method given in 
+ISO 2738. The test piece shall be dried before testing. 
+
+
+
+6 Apparatus 
+
+6.1 Equipment 
+
+The choice of apparatus is mainly dictated by the size, shape 
+and physical characteristics of the test piece. 
+
+
+
+This Internationa! Standard refers to two different types of ap- 
+paratus suitable for determining the fluid permeability of porous 
+test pieces. 
+
+6.1.1 Guard ring test head for flat test pieces 
+
+This is a type of test apparatus which is recommended for 
+carrying out non-destructive testing of partial areas of flat 
+porous sheets. 
+
+The permeable metal sheet is clamped between two pairs' of 
+flexible seals. The inner pair, corresponding to the test area, 
+has a mean diameter of D^. The outer pair, of mean diameter 
+Z?2/ forms a guard ring surrounding the test-area, which is 
+
+
+
+IS 13782: 1993 
+ISO 4022: 1987 
+
+
+
+pressurized to prevent side leakage from the test area (see 
+figure 1). The width of the annulus formed by the guard ring 
+test head shall be not less than the thickness of the sheet, i.e. : 
+
+
+
+Do - D, 
+
+
+
+> e 
+
+Test fluid (for example air) from 
+adjustable pressure-control valve 
+
+
+
+The guard ring test head minimizes side leakage by ensuring 
+that the pressure is the same in the inner and outer chambers. 
+On the upperstream face of the test piece, this is achieved by 
+arranging that the port area connecting the upper chambers (as 
+shown in figure 1} is as large as possible. On the downstream 
+face of the test piece, the inner chamber leads to a flowmeter, 
+usually subject to a small back pressure, and the outer chamber 
+
+
+
+{Alternative entry for test fluid) 
+
+
+
+Port area as large as possible 
+
+
+
+Outer seal 
+
+
+
+Inner seal {'0' rings) 
+
+
+
+Adjustable pressure- 
+equalizing valve 
+
+
+
+
+Air to 
+atmosphere 
+
+
+
+^1 
+D2 
+
+Q2 
+
+Po 
+P3 
+P2 
+
+
+
+Po 
+
+
+
+- Mean diameter of the inner seals 
+
+= Test head diameter 
+
+= Volumetric flow rate, at pressure /?2 
+
+= Atmospheric pressure 
+
+= Downstream guard ring pressure, adjusted to be equal to P2 
+
+= Pressure drop across flowmeter 
+
+
+
+7-b 
+
+Q 
+
+T 
+P 
+
+
+
+1 
+
+
+
+Lineb 
+
+
+
+Flowmeter 
+
+
+
+P\ ~ P2 ~ Pressure drop across porous metal 
+
+
+
+''^'\/X/XX/j\ ^^^^ p'®c® 
+
+
+
+/"a 
+/'a=P2 
+
+
+
+Line a 
+
+
+
+Figure 1 ~ Guard ring test head 
+3 
+
+
+
+IS 13782 : 1993 
+ISO 4022 : 1987 
+
+
+
+leads to atmosphere via a pressure-equalizing valve. This valve 
+is adjusted to equalize the pressure in the inner and outer 
+chambers. The fitting of a restrictor between the test piece and 
+the flowmeter, to increase the back pressure and thus permit 
+more stable control of the pressure-equalizing valve. Is allowed. 
+
+However, ideally, the pressure on the downstream face of the 
+test piece should be as near as possible to atmospheric 
+pressure and a restrictor should not be used unless necessary 
+for the adjustment of the pressure drop in the flowmeter. 
+
+Toroidal sealing rings ("0"-rings) are recommended for the 
+inner seals. 
+
+The seals shall be sufficiently flexible to overcome all surface 
+imperfections and lack of flatness of the porous metal. In some 
+instances it may be necessary to load the inner and outer seals 
+separately to ensure leak-free sealing. 
+
+Two upper and two lower seals are required and these shall be 
+in line with each other. 
+
+
+
+6.1.2 Jig for hollow cylindrical test pieces 
+
+The permeability of hollow cylindrical test pieces is convenient- 
+ly measured by clamping the cylinder axially between two flat 
+surfaces and causing the test fluid to permeate outwards 
+through the wall of the cylinder. An example is shown in 
+figure 2. The flowmeter is placed upstream of the test piece. 
+When clamping the porous metal cylinder under test, suffi- 
+ciently flexible seals shall be used to overcome surface 
+irregularities so as to ensure leak-free sealing, 
+
+6.2 Test fluids 
+
+In the majority of cases, gases are more convenient test fluids 
+than liquids (see annex B). 
+
+Test gases shall be clean and dry. 
+
+By agreement between the interested parties, liquids may be 
+used where the permeability with reference to a specific liquid 
+is required. This liquid shall be clean and free from dissolved 
+gases. 
+
+
+
+Clamping force 
+
+
+
+Line a 
+
+
+
+Seal 
+
+
+
+
+Test piece \//////r ^ 
+
+
+
+Lineb 
+
+
+
+7-a 
+
+Q 
+
+T 
+[P 
+
+Qb=Q2 
+Tb 
+
+
+
+NOTE — The diameter cIq should be approximately equal to diameter d and the 
+distance h should be as small as possible to minimize the apparatus correction. 
+
+
+
+Figure 2 — Jig for testing hollow cylindrical test pieces 
+
+4 
+
+
+
+IS 13782: 1993 
+ISO 4022: 1987 
+
+
+
+7 Procedure 
+
+
+
+7.4 Measurement of pressures and temperatures 
+
+
+
+7.1 Measurement of thickness and area of the 
+test piece 
+
+7.1.1 Flat test pieces 
+
+The size of micrometer anvils shall not be larger than the size of 
+the surface irregularities, nor smaller than the pore size. 
+
+The test area is defined as that area normal to the direction of 
+fluid flow, and, provided that the pressure gradient is uniform, 
+this definition is meaningful and the test area is readily 
+measured. 
+
+7.1.2 Hollow cylindrical test pieces 
+
+For hollow cylinders, the thickness e and the test area A are 
+given by the following relationships: 
+
+
+
+/?2 
+
+
+- D, 
+2 
+
+D X 
+
+
+> e 
+
+(In r)2 
+
+
+
+
+
+
+e ~ 
+
+
+2{r 
+
+
+- \) 
+
+
+
+
+
+
+A = 
+
+
+n X 
+
+
+D X L 
+
+
+X 
+
+
+Inr 
+
+
+
+r - 1 
+
+
+
+D 
+
+
+
+where r = — (see figure 2) 
+d 
+
+
+
+D ~ d 
+When the wall thickness is small compared with d, for 
+
+example less than 0,1 d, the thickness e and test area A are 
+given by the following equations: 
+
+
+
+It is necessary to measure the pressure and temperature at the 
+flowmeter and the test piece in order to 
+
+— correct the reading of the flowmeter; 
+
+— calculate the mean flow rate through the test piece; 
+
+— determine the density and the viscosity of the test fluid. 
+
+
+
+8 Expression of results 
+
+8.1 Mean flow rate 
+
+The reading of the flowmeter Qf is corrected if it is not being 
+used at its calibration pressure and temperature, by using the 
+flowmeter correction factor Cf given by the manufacturer. The 
+corrected flowmeter reading Q^ is given by the following equa- 
+tion: 
+
+Qa= CfX Qf 
+
+The corrected flowmeter reading Q^ is converted to the mean 
+fk)w rate Q within the porous test piece using the correction 
+term Q, which can be calculated from the gas law equation : 
+
+
+
+Cs = 
+
+
+
+The mean flow rate is Q = Q x Qg. 
+
+When tabulating data, it is convenient to use the overall correc- 
+tion factor Cq: 
+
+
+
+Cq - Cf X Cg 
+
+
+
+D ~ d 
+
+
+
+e = 
+
+
+
+to obtain the mean flow rate Q = C^ x Q^. 
+
+
+
+n X L X {D -^ d) 
+
+
+
+7.2 Measurement of pressure drop 
+
+The pressure drop may be determined either by measuring the 
+upstream and downstream pressures separately and taking the 
+difference or by using a differential pressure gauge. 
+
+The apparatus correction is obtained by using the equipment 
+with no test piece in place and observing the pressure drop over 
+the required range of flow rates. The apparatus correction 
+should preferably not exceed 10 % of the pressure drop (see 
+the table). 
+
+
+
+8.2 Mean density and viscosity 
+
+The mean pressure and the mean absolute temperature within 
+the test piece will enable mean density and mean viscosity to be 
+obtained from published data. 
+
+8.3 Calculation of results 
+
+The viscous and inertia permeability coefficients are determined 
+by taking a number of simultaneous flow rate and pressure 
+drop readings. The number of flow rate readings shall be at 
+least five, equally spaced within an interval of flow rate 
+readings where the highest is at least ten times greater than the 
+lowest. 
+
+
+
+7.3 Measurement of flow rate 
+
+A primary standard for the measurement of the flow rate of the 
+test fluid is preferred. The flow rate shall be corrected to the 
+mean pressure and temperature of the test piece. However, a 
+standard flowmeter (previously calibrated against a primary 
+standard) may be more convenient to use. 
+
+
+
+The results are processed using the following equation: 
+
+
+
+Ap X A 1 Q ^ P 1 
+
+— X — + 
+
+W\ A X rj y/^ 
+
+
+
+e X Q X ri 
+[see annex A, equation {2)1. 
+
+
+
+!S 13782: 1993 
+ISO 4022 : 1987 
+
+
+
+This equation can be re-written in the form y - ax + b where 
+
+Ap x A 
+c X Q X rj 
+
+Q X Q 
+
+
+
+A X rj 
+
+
+
+The values x and y are calculated at each level of flow 
+rate/pressure drop. The corresponding values of x and y are 
+plotted on linear graph paper and the straight line which best 
+fits the points is drawn. 
+
+The intercept of this line on the >'-axis gives the reciprocal of 
+the viscous pernneability (l/t/Zy). 
+
+The slope of this line gives the reciprocal of the inertia 
+permeability iVw). 
+
+In case of doubt, the straight line should be determined by the 
+least-squares method. 
+
+NOTE — If measurement is made with flow in the laminar regime, only 
+the viscous permeability coefficient can be determined (see annex A). 
+
+
+
+8.4 Final result 
+
+Report of the viscous permeability coefficient in 10 ^^ fx^i 
+(1 pm2) and the inertia permeability coefficient in 10 ^ m 
+{^ pm). to an accuracy of ± 5 % in relative value. 
+
+NOTE - The unit of viscous permeabilitv coefficient (micrometre 
+squared) is sometimes called a darcy. 
+
+
+
+9 Test report 
+
+The test report shall include the following information. 
+
+a) reference to this Internationa! Standard; 
+
+b) all details necessary for identification of the test 
+sample; 
+
+c) the type of apparatus used; 
+
+d) the test fluid used; 
+
+e) the result obtained; 
+
+f) all operations not specified by this international Stan- 
+dard or regarded as optional; 
+
+g) details of any occurrence which may have affected the 
+result. 
+
+
+
+IS 13782: 1993 
+ISO 4022 : 1987 
+
+
+
+Annex A 
+The flow of fluid through porous materials 
+
+(Thi3 annex does not form an integral part of the Standard.) 
+
+
+
+A.I Viscous flow 
+
+The empirical formula for the flow of fluids through porous materials was first given by Darcy, following experiments with water, and 
+expresses the proportionality between the pressure drop per unit thickness and the flow rate per unit area and the viscosity. It can be ' 
+written 
+
+Ap Q ^ n 
+
+e A X tj/^ 
+
+and assumes that the losses are all due to viscous shear. 
+
+
+
+A. 2 Viscous and inertia flow 
+
+In reality, the flow of fluid through porous materials can involve several mechanisms, many of which can be operating simultaneously. 
+However, experience shows that in the majority of cases involving the flow of fluids through porous metals only three mechanisms are 
+usually involved. They are: viscous flow, inertia flow and slip flow. Inertia flow concerns the loss of energy due to the changes in the 
+direction of the fluid in passing through tortuous porosity and to the onset of local turbulences in the pores, and has been combined 
+with the viscous loss equation of Darcy by Forchheimer to give the equation (slip flow usually absent) 
+
+Ap Q ^ n Q^ ^ Q 
+
+= + (2) 
+
+which is used in 8.3 of this International Standard. However, at low velocities of flow [Ql A ) of viscous fluids, the inertia term of equa- 
+tion (2) is usually insignificant compared with the viscous term and can be ignored to give the simpler equation (1). 
+
+A. 3 Slip flow 
+
+Equation (1) assumes that the pore size is large compared with the mean free path of the molecules of the test fluid. This assumption 
+is most likely to be invalid with a very small pore size and with gases at reduced pressure or high temperature. When the mean free 
+path of the gas molecules approaches the same order of size as the pores of the metal, slip flow occurs. When slip flow is present, the 
+porous metal appears to be more permeable than when slip flow is absent. Also, when slip flow is present, inertia losses are usually 
+absent, so that equation (2) may be written in the form 
+
+^ X // X e 
+
+^^ ^ ~A 1 ■ ■ *3^ 
+
+/I X A/7 
+
+where t//^ is the permeability coefficient with slip flow present. 
+The correction for slip flow is given by 
+2 X /? 
+
+
+
+t/y, - w^y- 1 + 
+
+
+
+Pi t P2 
+
+
+
+where 
+
+
+
+^//^ is the observed viscous permeability with slip flow present; 
+
+v/v is the true viscous permeability coefficient; 
+
+B is the Klinkenberg factor, which is a constant for a given gas and porous material, and has the dimensions of a pressure. 
+
+
+
+IS 13782: 1993 
+ISO 4022: 1987 
+
+
+
+This relationship between t/Zg and v^^ may be re-written in the form 
+
+
+
+- + t^v 
+
+
+
+(//g = 5 X (//^ X I \ + W^f ... (5) 
+
+Pi + P2 
+
+2 
+
+Hence, by measuring (//.over a range of different pressures (i.e., p^ and/72) by plotting ^g against astraight line is obtained. 
+
+P^ + P2 
+The slope of this line is equal to B x i//^. The intercept of this line on the ^g-axis is equal to the viscosity permeability v^^. 
+
+The value of the Klinkenberg factor. B increases with decreasing pore size, decreasing relative molecular mass, and increasing 
+
+temperature and viscosity of the gas. 
+
+A. 4 Wall and end effects 
+
+Equation (2), relating to the flow of fluids, assumes that the porosity is uniformly continuous, whereas at the surfaces of a test piece 
+discontinuities occur. There are two cases to consider: 
+
+— the wall effect for test pieces edge-sealed into a container; 
+
+— the end effect at the upstream and downstream surfaces of all test pieces. 
+
+In general with granular materials, if the diameter of the test piece is not less than about 100 times the diameter of the particles com- 
+prising the porous metal, the wall effect is usually negligible and with a test piece diameter of about 40 times the particle diameter, the 
+
+error is less than about 5 %. 
+
+End effects are usually negligible when the test piece thickness is not less than 10 times the diameter of the particles comprising the 
+porous metal. As in the case of the wall effect, the end effect also depends upon the difference between the porosity at the surface 
+and the internal porosity. 
+
+A. 5 Long tubes of porous materials 
+
+Equation (2) {see A. 2) and the calculation of area and thickness in 7.1.2, as well as the measurement of the pressure drop in 7.2, 
+assume that the upstream pressure is uniform for all parts of the specimen. With long small bore tubes this assumption may not be 
+valid. To establish that the error caused by the fall in pressure of the fluid along the bore of the tube is less than 5 %, the following 
+
+procedures can be used: 
+
+a) Insert a second pressure tapping at the end furthest from the fluid iniet, and compare this value with the value obtained from 
+the pressure tapping nearest to the fluid inlet. 
+
+b) Mask about half of the area of the tube from one end. Measure the permeability of this masked tube when the unmasked por- 
+tion is 
+
+— nearest to 
+
+— farthest from 
+
+the fluid inlet end. Compare the two measured permeabilities. 
+
+
+
+IS 13782: 1993 
+ISO 4022 : 1987 
+
+
+
+Annex B 
+Test fluids 
+
+(This annex does not form an integral part of the Standard,} 
+
+In the majority of cases, gases are more convenient test fluids than liquids. The problems with liquids are the foHovving: 
+
+— it is more difficult to remove all solid particles which could be captured by the porosity of the porous metal and thereby 
+change the permeability; 
+
+— dissolved gases may be precipitated within the pores, causing "gas locks" to occur; 
+
+— static heads of liquid may add difficulty in measuring the pressure drop; 
+
+— liquids are more expensive and messy to work with; 
+
+— some metals can have an adsorptive reaction with some liquids, whereby the pore size tends to be reduced; 
+
+— owing to capillary and surfactant effects, the degree of surface wetting of the pore surface by the liquid can effect the ob- 
+served permeability, especiaiiy with porous metals of small pore size. 
+
+However, in rare cases liquids may be used where the permeability with respect to a specific liquid is required, provided that it is a 
+Newtonian liquid and the following precautions are observed ; 
+
+— the liquid must be free of solid particles and dissolved gases; 
+
+— the whole of the porous metal must be filled with the liquid and no pockets of gas shall be allowed to form either on the sur- 
+faces or in the pores of the porous metal test pieces. 
+
+In general, liquids will only give permeability results concordant with those obtained from gases when the pore size is large. For all 
+these reasons, gases are the preferred test fluids. 
+
+However, with gases inertia losses are more likely to be present and hence equation (2) of annex A is more likely to be required. 
+
+
+
+Primed at Dee Kay Priiiten, New Delhi, India 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 19S6 and the Rules and Regulations made thereunder. The Standard Mark 
+on products covered by an Indian Standard conveys the assurance that they have been 
+produced to comply with the requirements of that standard under a well defined system 
+of inspection, testing and quality control which is devised and supervised by BIS and 
+operated by the producer. Standard marked products are also continuously checked by 
+BIS for conformity to that standard as a further safeguard. Details of conditions under 
+which a licence for the use of the Standard Mark may be granted to manufacturers or 
+producers may be obtained from the Bureau of Indian Standards, 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to 
+promote harmonious development of the activities of standardization, marking and quality 
+certification of goods and attenting to connected matters in the country. 
+
+Copyright 
+
+BIS has copyright of all its publications. No part of these publications may be reproduced 
+in any form without the prior permission in writing of BIS. This does not preclude the free use, 
+in the course of implementing the standard, of necessary details, such as symbols and sizes, type 
+or grade designations. Enquiries relating to copyright be addressed to the Director 
+(Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards 
+are also reviewed periodically; a standard along with amendments is reaffirmed when such review 
+indicates that no changes are needed; if the review indicates that changes are needed, it is taken 
+up for revision. Users of Indian Standards should ascertain that they are in possession of the 
+latest amendments or edition by referring to the latest issue of 'BIS Handbook' and 'Standards 
+Monthly Additions'. Comments on this Indian Standard maybe sent BIS giving the following 
+reference: 
+
+Doc : No. MTD 25 ( 3400 ) 
+
+Aendments Issued Since Publication 
+
+Amend No. Date of Issue Text AflFected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 11002 
+
+Telephones : 331 01 31, 331 13 75 Telegrams : Manaksanstha 
+
+( Common to all Offices ) 
+
+Regional Offices : Telephone 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+
+NEW DELHI 11002 
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola r37 84 99, 37 85 61 
+
+CALCUTTA 700054 |37 86 26, 37 86 62 
+
+f 53 38 43, 53 16 40 
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 < 33 23 §4 
+
+r235 02 16, 235 04 42 
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 600113 i 235 15 19 235 23 15 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) f632 92 95, 632 78 51 
+
+BOMBAY 400093 |632 78 91 , 632 78 92 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+r3310131 
+1331 13 75 
+
+(.37 
+
+
+
+Printed at Printwell Printers, Aligarh, India 
+
+
+

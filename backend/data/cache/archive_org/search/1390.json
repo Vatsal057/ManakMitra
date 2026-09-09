@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":46,"params":{"query":"identifier:gov.in.is.1390.*","qin":"identifier:(gov.in.is.1390.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.1390.1983","title":"IS 1390: Methods for determination of pH value of aqueous extracts of textile materials"}]}}

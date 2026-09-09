@@ -1,0 +1,1204 @@
+**************** 
+
+
+
+-k is^ 
+
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+"^^ ^ ^ ^ % ?R^" 
+
+Jawaharlal Nehru 
+
+Step Out From the Old to the New 
+
+
+
+^viiTSsiVSfS^^i^*?*:: 
+
+
+
+
+•^■•■^^^■r 
+
+
+
+
+li^ i/ir w w w w w WW ^ ^ ^ tIt w w w 
+
+
+
+BLANK PAGE 
+
+
+
+^<ii^ 
+
+
+
+
+
+UI> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS: 3535- 198ft 
+
+( Reaffirmed 2004 ) 
+
+Indian Standard 
+
+METHODS OF 
+SAMPLING HYDRAULIC CEMENTS 
+
+(First Revision) 
+
+Third Reprint DECEMBER 1998 
+UDC 666.942.31:620.113 
+
+
+
+© Copyright 1986 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+^^ ^ August 1986 
+
+
+
+15:3535-1986 
+
+Indian Standard 
+
+METHODS OF 
+SAMPLING HYDRAULIC CEMENTS 
+
+
+
+( First Revision ) 
+
+
+
+Building Materials and Components Sampling Sectional Committee, 
+
+BDC 31 
+
+Chairman Representing 
+
+Du Mohan Rai Central Building Research Instituie ( CSIR ), 
+
+Roorkee 
+
+Members 
+
+Shbi S. K. Gosvvami ( Alternate to 
+Dr Mohan Rai ) 
+Shri S. K. Banehjee National Test House, Calcutta 
+
+Dk p. Ray Chaudhuri Central Road Research Institute ( CSIR ), New 
+
+Delhi 
+Shri P. S. Gopinath Central Public Works Department, New Delhi 
+
+SuHVBYCB OF WoBKS ( NZ ) ( Alternate ) 
+Shbi S. C, KhmaTi Development Commissioner, Small Scale Industries, 
+
+New Delhi 
+Shbi K. V. K. Raju ( Alternate ) 
+Shri M. V. Lakshmanasamy Indian Statistical Institute, Calcutta 
+
+Dr a. G, Madhava Rao Structural Engineering Research Centre ( CSIR ), 
+
+Madras 
+Shri D. S. Ramachandua 
+MuRTHY ( Alternate ) 
+Shui J. P. Maikhuri Export Inspection Council of India ( Ministry of 
+
+Commerce ), New Delhi 
+Shri P. P. Saxena ( Alternate ) 
+Shri S. M. Mittal Railway Board ( Ministry of Railways ), New Delhi 
+
+Deputy Director Resfa)ich 
+( B & S )-I ( Alternate ) 
+Dii A. K, MuLLTCK National Council for Cement and Building Material!, 
+
+New Delhi 
+Shri K. H. Babu { Alternate') 
+Shri S. S. Rajput Forest Research Institute and Colleges, Dehra Dun 
+
+Shri K. S. Srinivasan National Buildings Organization, New Delhi 
+
+Shri T. R. Bhatia ( Alternate ) 
+
+( C«ntinu*d on page 2 ) 
+
+
+
+© Copyright 1986 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher ihall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 3535 - 1986 
+
+{ Continued from page 1 ) 
+
+Members Representing 
+
+Shbi G. Vemkatesulu Ministry of Shipping and Transport ( Roads Wing ), 
+
+New Delhi 
+Sh»i Pbafulla Kitmar ( Alternate ) 
+Shsi G. W. Daiey, Director Genera], ISl ( Ek-effido Member ) 
+
+
+
+Director ( Statistics 
+
+
+
+Seeretary 
+
+Shri a. K. Talwar 
+Joint Director ( Statistics ), ISI 
+
+
+
+Panel on Sampling of Hydraulic Cements, BDC 31/P-4 
+
+Members 
+Shrt p. S. Gopinath Central Public Works Department, New Delhi 
+
+Db. a. K. Mcllick National Council for Cement and Building 
+
+Materials, New Delhi 
+Shki K. H. Babu ( Alternate ) 
+Shri Y. R. Phull CentTal Road Research Institute ( CSIR ), New 
+
+Delhi 
+Shrt C. S. Sharma Cement Corporation of India Ltd, New Delhi 
+
+
+
+IS : 3535 - 1986 
+
+Indian Standard 
+
+METHODS OF 
+SAMPLING HYDRAULIC CEMENTS 
+
+
+
+( First Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( First Revision ) was adopted by the Indian 
+Standards Institution on 24 January 1986, after the draft finalized by the 
+Building Materials and Components Sampling Sectional Committee had 
+been approved by the Civil Engineering Division Council. 
+
+0.2 With the considerable increase in production and consumption of 
+cement which is of vital importance to the building industry, it is 
+imperative that due consideration is given to sampling procedures which 
+will help in the proper and objective evaluation of the various character- 
+istics of cement. 
+
+*).2.1 Proper quality control during process of manufacture would also 
+substantially reduce quality fluctuations of the material. The sampling 
+procedures recommended in the standard, therefore, include the 
+provisions for both process and lot inspection. 
+
+0.3 This standard was first issued in 1966. It is being revised so that 
+various modifications necessary in the light of experience gained in its 
+use could be ihcorporated. 
+
+0.4 In this revised version, inspection levels for routine control have been 
+incorporated for those characteristics that have been included in various 
+cement specifications from time to time by Cement and Concrete 
+Sectional Committee, BDC 2. In order to provide a better quality 
+
+a lot has been provided. The frequency of testing/inspection in process 
+inspection for various characteristics has been modified so as to bring it 
+in line with current nractices in the cement industry. Keeoinc in view 
+the practical difficulties in some cases in taking the requisite quantity of 
+material in a single operation of the sampling equipment, provision for 
+taking the material in two or three operations has been included. The 
+quantity of material required for the laboratory sample has been 
+increased so that sufficient material is available for carrying out various 
+tests on laboratory samples and the composite sample. In order to obtain 
+
+
+
+IS I 3535 - 1986 
+
+the increased quantity of laboratory sample, the provision for increasing 
+the weight of increment particularly for smallier sub-lots, has been 
+included. 
+
+0.5 This standard covers the methods for sampling of hydraulic cements 
+only. The methods for sampling of concrete and cement prodticts will 
+be covered in separate standards. 
+
+9.€ In reporting the results of a test or analysis, if the final value, observed 
+or calculated, is to be rounded off, it shall be done in accordance with 
+IS : 2-1960*. 
+
+
+
+1. SCOPE 
+
+1.1 This standard prescribes the methods for sampling and the criteria 
+for conformity of hydraulic cements from bags, bulk storage (silos), 
+ship's hold, wagons and conveyors. Broad outlines with regard to the 
+controls to be exercised during the manufacturing process have also been 
+indicated. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions shall 
+apply. 
+
+2.1 Hydraulic Cement — Finely ground material which on addition 
+of requisite quantity of water is capable of hardening both under water 
+and in air by the cheinical interaction of its constituents with water, and 
+is also capable of binding together appropriate materials. 
+
+2.2 Lot — r The quantity of cement from the same manufacturing unit 
+and offered for inspection at one time, not exceeding 2 000 tonnes. 
+
+2.3 Sub-Lot — The quantity of cement in each of the parts into which 
+a lot is divided for the purpose of sampling. 
+
+2.4 Increment — The quantity of cement taken at a time by the sampl- 
+ing implement. 
+
+2.5 Gross Sample — Sample as collected from a sub-lot, that is, the 
+quantity of cement obtained by aggregating together all the increments 
+from the same sub-lot. 
+
+2.6 Laboratory Sample — The- quantity of cement obtained by 
+reducing the gross sample by following a specified procedure for 
+laboratory testing. 
+
+
+
+*Rulesfor rouiiding off numerical values ( rtvisid). 
+
+
+
+IS : 3535 - 1986 
+
+2.7 Composite Sample — The quantity of cement obtained by mixing 
+together equal quantities of cement from each of the laboratory samples 
+representing the sub-lots into which the lot has been divided. 
+
+3. GENERAL RULES 
+
+3.1 In drawing, preparing, storing and handling test samples, the 
+following precautions and directions shall be observed: 
+
+a) The sampling instrument shall be clean and dry when used. 
+
+b) Precautions shall be taken to protect the sample, the material 
+being sampled, the sampling implement and the containers for 
+samples from adventitious contamination. 
+
+c) The sample containers shall be of such a size that they are almost 
+completely filled by the sample. 
+
+d) The sample containers shall be sealed air-tight after filling and 
+marked with full particulars of the material and the date of 
+sampling. 
+
+e) Samples shall be stored in such a manner that the temperature of 
+the material does not vary unduly from the normal temperature. 
+
+f ) The place of sampling shall be clean and dry and free from 
+draught. 
+
+3.2 The interval of drawing the increments shall be, as far as possible, 
+uniform in terms of mass throughout the whole quantity of the lot. How- 
+ever, if the rate of handling quantity is uniform, the interval of drawing 
+the increments may be based on time unit in place of quantity unit. 
+
+4. PROCESS INSPECTION 
+
+4.1 The object of inspecting cement by the purchaser is to ensure its 
+conformity to the specification requirements whereas inspection done by 
+the manufacturer during production is to ensure uniformity and reduce 
+quaHty fluctuations to minimum. For process control, the manufacturer 
+shall take representative samples of the product at regular intervals to 
+control the quality fluctuations. The inspection levels given in Table 1 
+are recommended for routine control over the manufacturing process. 
+
+4.2 Methods of Drawing Samples 
+
+4.2.1 Clinker — Every hour, a sample shall be drawn from each kiln 
+immediately after it comes out of the cooling chamber. All the hourly 
+samples drawn during a day shall be'mixed together and shall constitute 
+the composite sample for the day. After taking out a sufficient quantity 
+of clinker from this composite sample for chemical analysis, the remain- 
+ing clinker in the composite sample shall be mixed together and 
+pulverized with a proper proportion of gypsum or both or the additives 
+and tested for all other characteristics of the specification. 
+
+5 
+
+
+
+IS : 3535 - 1986 
+
+
+
+
+
+TABLE 1 RECOMMENDED INSPECTION LEVELS FOR 
+ROUTINE CONTROL 
+
+
+
+
+
+
+( Clause 4. 1 ) 
+
+
+
+
+
+
+No. 
+
+
+Chakacteristics/ 
+Tests 
+
+
+FllKQlKNCY OF InsPEi TlOX/TliSTS 
+
+
+CI inker / Pozzolana 
+
+
+Cement 
+Grinding 
+
+
+Cement 
+
+Packing 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+i) 
+
+
+Chemical composition 
+( complete analysis ) 
+
+
+One composite 
+sample every 
+day for clinker 
+and every week 
+for pozzolana 
+
+
+One composite 
+sample every 
+week , 
+
+
+One composite 
+sample every 
+week 
+
+
+ii) 
+
+
+Fineness 
+
+
+One composite 
+sample every 
+day ( clinker 
+taken hourly ) 
+
+
+One sample 
+every alternate 
+hour and one 
+composite sam- 
+ple every day 
+
+
+One composite 
+sample ev<ry 
+day 
+
+
+iii) 
+
+
+Setting time 
+
+
+do 
+
+
+a) One sample 
+every hour 
+
+b) One com- 
+posite sample 
+every day 
+
+
+do 
+
+
+iv) 
+
+
+Soundness 
+
+
+do 
+
+
+do 
+
+
+One composite 
+sample every 
+
+day 
+
+
+v) 
+vi) 
+
+
+Compressive strength 
+
+Degree of whiteness ( for 
+white Portland cement 
+only ) 
+
+
+do 
+do 
+
+
+do 
+do 
+
+
+do 
+do 
+
+
+vii) 
+
+
+Heat of hydration ( for 
+low-heat Portland ce- 
+ment only ) 
+
+
+do 
+
+
+One composite 
+sample every 
+week 
+
+
+One composite 
+sample every 
+week 
+
+
+viij) 
+
+
+Drying shrinkage ( for 
+Portland-pozzolana ce- 
+ment only ) 
+
+
+" 
+
+
+do 
+
+
+do 
+
+
+\x) 
+
+
+Transverse strength ( for 
+Portland and Portland 
+blast furnace cement 
+only ) 
+
+
+
+
+do 
+
+
+do 
+
+
+x) 
+
+
+A,ir content ( for maso- 
+nry cement only ) 
+
+
+— 
+
+
+do 
+
+
+do 
+
+
+xi) 
+
+
+Water retention ( for 
+masonry cement only ) 
+
+
+■ — 
+
+
+do 
+
+
+do 
+
+
+xii) 
+
+
+Hydrophobicity ( for 
+hydrophobic Portland 
+cement only ) 
+
+
+" 
+
+
+do 
+
+
+do 
+
+
+
+Note — For physical requirements under col .3, cement samples prepared in the 
+laboratory ball mill by adding clinker with different suitable additives as per the 
+relevant specification, shall be tested. 
+
+
+
+IS : 3535 - 1986 
+
+4.2.2 Cement Grinding — Every hour, a sample shall be drawn from the 
+grinding mill and tested for setting time. For fineness, a sample taken 
+every alternate hour shall be tested. The remaining portions of the 
+hourly samples shall be mixed together to give the composite sample 
+for the day. Similarly, a composite sample for a week shall be prepared. 
+The frequency of testing for various characteristics shall be according 
+to col 4 of Table 1 . 
+
+4.2.3 Cement Packing — One composite sample every day from the 
+packing machine shall be tested for fineness, setting time, soundness, 
+compressive strength and degree of whiteness. The remaining portions of 
+the daily samples, shall be mixed together to give the composite sample 
+for the week which shall be tested for other characteristics of the specifi- 
+cation. 
+
+4.2.4 For effective process control, the use of statistical quality control 
+techniques is recommended and helpful guidance may be obtained in 
+this respect from IS : 397 ( Part 1 )-1972*, IS : 397 ( Part 2 )-I975t and 
+IS : 397 (Part 3)-iy80+. 
+
+4.2.4.1 The inspection data or the results of tests done at the place of 
+manufacturer may be made available along with the materials supplied 
+to enable the purchaser to judge the acceptability of the lot. 
+
+4.2.5 When such information cannot be made available or when the 
+purchaser so desires, the procedure laid down in 5 shall be followed for 
+judging conformity of the lot of hydraulic cements to the requirements of 
+the relevant material specifications. 
+
+5. LOT INSPECTION 
+
+5.1 The samples shall be selected and examined for each lot separately 
+for ascertaining their conformity to the requirements of the relevant 
+specification. 
+
+5.1.1 For obtaining reUable conclusions, it is recommended that as far 
+as possible, cement be sampled when it is in motion; that is, from 
+conveyors or during loading or unloading. 
+
+5.2 Sampling from Conveyors 
+
+5.2.1 Sub-Lots — For the. purpose of sampling, a lot while it is being 
+discharged over a conveyor shall be divided into a number of sub-lots in 
+accordance with Table 2. 
+
+
+
+•Method for statistical quality control during production: Part 1 Control charts for 
+variables {first revision ). 
+
+tMethod for statistical quality control during production: Part 2 Control charts 
+for attributes and count of defects ( second revision ). 
+
+JMethod *br statistical quality control during production: Part 3 Special control 
+charts. 
+
+
+
+IS: 3535 -1988 
+
+5.2.1.1 A representative gross sample shall be drawn from each of 
+the sub-lots and shiaU be kept separately. Thus, there will be as many 
+gross samples as the number of sub-lots into which the lot has been 
+divided. 
+
+
+
+TABLE 2 NUMBER OF SUB-LOTS INTO WHICH A LOT 
+IS TO BE DIVIDED 
+
+( Clauses 5.2.1, 5.3.1, 5.4.1, 5.5.2 and 5.6.1 ) 
+
+Weight op the Lot No. of Sub-Lots 
+
+( IN Tonnes ) 
+
+Up to 100 2 
+
+101 "200 3 
+
+201 " 300 4 
+
+301 " 500 5 
+
+501 " 1 000 6 
+
+1 001 " 2 000 7 
+
+
+
+5.2.2 Gross Sample — The gross sample shall be collected by taking a 
+number of increments at regular intervals such that one increment is 
+taken for every 10 tonnes or part thereof from the material discharged. 
+The increment shall preferably be taken from the full cross-section and 
+thickness of the stream and in one operation. The best possible way of 
+taking the increment is to collect the material in a receptacle which cuts 
+across the entire stream at the time when the material is discharged from 
+the conveyor. If it is not possible to take the increment at the point of 
+discharge, it may be taken from the moving belt by means of a scoop 
+which can sJweep across the whole cross-section of the material. For this 
+purpose, if practicable, the conveyor may be stopped while the increment 
+is taken. The weight of increment shall not be less than 2 kg. It shall be 
+ensured that the quantity of sample so collected is sufficient for the tests 
+as per 5.7. 
+
+5.2.3 As increments are taken from the sub-lot, they shall be placed 
+directly in moisture-proof, air-tight containers to avoid moisture absorp- 
+tion and aeration of the sample. If the increments are placed in cans, 
+the cans shall be completely filled and sealed immediately. Moisture- 
+proof multiple wall paper bags or plastic bags may be used, if they are 
+strong enough to avoid breakage and if they can be sealed immediately 
+after filling in such a manner as to eliminate excess air in the bag and 
+avoid moisture absorption and aeration of the sample. The containers 
+shall carry suitable identification marks so that they can be related back 
+to the particular sub-lot from which the gross sample has been taken. 
+
+8 
+
+
+
+IS : 3535 - 1986 
+
+5.3 Sampling from Bulk Storage ( Silo* ) 
+
+5.3.1 Sub-Lots — For the purpose of sampling, the quantity of cement 
+in the bulk storage shall be divided into a number of sub-lots depending 
+upon the weight of the lot, in accordance with Table 2. The division 
+into sub-lots shall be indicated by placing suitable markers on top of the 
+
+cement. 
+
+5.3.2 Gross Sample — The gross sample shall be taken from a sub-lot by 
+taking increments at regular intervals when the cement is being charged 
+into the bulk storage or is being discharged from the bulk storage. If 
+there is more than one opening for charging or discharging, the incre- 
+ments shall be taken from each opening. The number of increments 
+shall be such that one increment is obtained for every 10 tonnes of the 
+cement or part thereof. Each increment shall weigh at least 2 kg. It 
+shall be ensured that the quantity of sample so collected is sufficient for 
+tests as per 5.7. 
+
+5.3.3 The increments taken from the sub-lot shall be stored in the 
+manner described in 5.2.3, 
+
+5.4 Sampling from Ship's Hold 
+
+5.4.1 Sub-Lots — For the purpose of sampling, the quantity of cement 
+in the ship's hold shall be divided into a number of sub-lots depending 
+upon the weight of the lot, in accordance with Table 2, 
+
+5.4.2 Gross Sample — When the depth of the cement to be sampled 
+does not exceed 2 m, increments may be obtained by a slotted tube 
+sampler as shown in Fig. 1. The slotted tube-sampler shall be between 
+r5 to r8 m long and about 35 mtn in outside diameter and shall consist 
+of two polished brass telescopic tubes with registering slots which are 
+opened or closed by rotation of the inner tube; the outer tube being 
+provided with a sharp point to facilitate penetration. Where applicable, 
+for depths of cement greater than 2 m, a sampling pipe activated by an 
+air jet which is capable of removing cement from different depths may 
+be used. The increments obtained by the slotted tube-sampler or sampl- 
+ing pipe shall be taken from well-distributed points and various depths 
+of the cement in the sub-lot The number of increments shall be such 
+that one increment is obtained for every 10 tonnes or part thereof from 
+the cement. The increment shall weigh at least 2 kg. The material 
+may be drawn in two or three operations. It shall be ensured that the 
+quantity of sample so collected is sufficient for tests as per 5.7. 
+
+5.4.3 The increments taken from the sub-lot shall be stored in the 
+manner described in 5.2.3, 
+
+5.5 Sampling from Wagons 
+
+5.5.1 This method shall apply when loose cement or cement in bulk is 
+received in wagons. If the cement is supplied in bags, 5.6 shall apply, 
+
+9 
+
+
+
+IS t 3535 • 1986 
+
+
+
+5.5.2 Sub-Lots — For the purpose of sampling, the quantity of cement 
+in wagons shall be divided into a number of sub-lots depending upon the 
+weight of the lots in accordance with Table 2. The sub-lots shall consist 
+of approximately equal number of wagons. 
+
+5.5.3 Gross Sample — The gross sample shall be taken from a sub-lot 
+with the help of a slotted tube-sampler of the same design as shown in 
+Fig. 1 but about 60 cm in length. The sampler shall be taken in the 
+manner described in 5.4.2 from at least six evenly distributed points in 
+each selected wagon. 
+
+
+
+
+-8 SLOTS IN BOTH THE TUBES 
+-35' OD X 2-24 mm THICK BRASS TUBE 
+
+
+
+
+-HARD-WOOO 
+HANDLE 
+
+
+
+INNER TUBE IS FREE 
+TO ROTATE INSIDE 
+
+
+
+
+28-5 ODX2'00mm 
+THICK INNER BRASS 
+TUBE 
+
+
+
+Fio. 1 
+
+
+
+ENLARGED VIEW OF A SLOT 
+All dimensiom in millimetres. 
+Slotted Tube-Sampler for Bulk Cement 
+
+
+
+5.5.3.1 From each selected wagon approximately equal number of 
+increments shall be taken and weight of increment shall be not less 
+than 2 kg. The material may be drawn in two or three operations. It 
+shall be ensured that the quantity of sample so collected is sufficient for 
+tests as per 5.7. 
+
+5.5.4 The increments taken for the sub-lot shall be stored in the 
+mannec described in 5.2.3. 
+
+5.6 Sampling from Bags 
+
+5.6.1 Sub-Lots — For the purpose of sampling, the quantity of cement 
+in the lot shall be divided into a number of sub-lots, depending upon 
+the weight of the lot, in accordance with Table 2. The sub-lots shall 
+consist of approximately equal number of bags. 
+
+5.6.2 Gross Sample — F^r drawing representative sample from a sub- 
+lot, at least 2 percent of the bags subject to a minimum of five shall be 
+sampled. In case fractional numbers are obtained, the number of bags 
+to be selected shall be taken to be equal to the next higher integer. 
+
+10 
+
+
+
+IS : 3535 - 1986 
+
+
+
+5.6.2.1 These bags shall be chosen at random from the sub-lot. To 
+ensure the randomness of selection, a random number table as agreed to 
+between the purchaser and the supplier shall be used ( see IS : 4905- 
+1968* ). In case such a table as not available, the following procedure 
+may be followed: 
+
+Starting from any bag at random, count the bags in the sub-lot 
+in one order as 1,2, 3, up to r and so on. Every rth bag so counted 
+shall be removed, where r --= NjU, N being the number of bags in 
+the sub-lot and n the number of bags to be selected. In case the 
+value of 'r' comes out to be a fractional number, its value shall be 
+taken as equal to the integral part of it. 
+
+5.6.2.2 The sampling tube shown in Fig. 2 shall be inserted 
+diagonally into the valve of the bag and the thumb placed over the air- 
+hole and then shall be withdrawn. The material may be drawn in two 
+or three operations. 
+
+
+
+-730 
+
+
+
+
+
+
+i^ioo — 
+
+
+
+520 
+
+
+
+50 I— 
+
+
+
+-^^^^ 
+
+
+
+3<^A)R HOLE 
+
+
+
+t: 
+
+
+
+HARD-WOOD HANDLE 
+
+
+
+! [ _ J -32 0D 
+
+L^l 
+
+
+
+-28 ID 
+
+
+
+All dimensions in millimetrea. 
+
+Fio. 2 Tube-Sampler for Packaged Cement Volume 
+
+300 cm3 AppRox 
+
+5.6.2.3 From each selected bag, approximately equal number of 
+increments shall be taken and weight of each increment shall be not less 
+than 2 kg. It shall be ensured that the quantity of sample so collected 
+is sufficient for tests as per 5.7. 
+
+5.6.3 The increments taken from the sub-lot shall be stored in the 
+manner described in 5.2.3. 
+
+5.7 Reduction of Gross Sample 
+
+5.7.1 Each gross sample shall be reduced separately. The material 
+collected in the gross sample shall be thoroughly mixed, breaking the 
+lumps and removing the foreign materials. It shall then be passed 
+through 850-micron IS sieve. The foreign materials and hardened 
+lumps that do not break on sieving or brushing, shall be discarded. 
+
+
+
+•Methods for random sampling. 
+
+
+
+11 
+
+
+
+IS : 3535 - 1986 
+
+5.7.2 Coning and Qjiartering — The material shall be scooped into a cone* 
+shaped pile. Care shall be taken to drop each scoopful exactly over the 
+same spot as otherwise the central axis of the cone will be slackened. 
+After the cone- is formed, it shall be flattened by pressing the top of the 
+cone with the smooth surface of the scoop. Then the cone is cut into 
+quarters by two lines which intersect at right angles at the centre of the 
+cone. The reduction is achieved by rejecting any two diagonally opposite 
+quarters. 
+
+5.7.2.1 Sample splitter or riffle samplers of the appropriate size may 
+Be used for reducing the gross sample mechanically. 
+
+5.7.3 The reduction of the sample m the manner described in 5.7.2 
+shall be continued till 11 kg of the material required for the laboratory 
+sample is obtained. 
+
+5.7.4 Equal quantities'of the material shall be taken from each of the 
+laboratory samples representing the sub-lot into which the lot has been 
+divided and mixed together to constitute a composite sample represent- 
+ing the lot as a whole. The weight of the composite sample shall be 
+about 21 kg, 
+
+5.7.5 The laboratory sample and the composite sample shall be 
+divided into three equal parts, one for the purchaser, another for tLe 
+supplier and the third to be used as a referee sample. The reicree 
+sample shall be used in case of a dispute between the purchaser arfd the 
+supplier. Each of these parts shall then be placed in a moisture-P''c6f 
+air-tight container to avoid moisture absorption and aeration oithe 
+samples. They shall be labelled with full identification particulars such 
+as supplier's name, the lot and the sub-lot number, the date of sampling, 
+etc. 
+
+5.8 Number of Tests 
+
+5.8.1 The chemical and physical requirements for which individual 
+laboratory samples shall be tested are: 
+
+a) Total sulphur content as sulphuric anhydride, and 
+
+b) Fineness. 
+
+5.8.2 A composite sample shall be tested for all the requirements. 
+
+5.9 Criteria for Conformity 
+
+5.9.1 For those characteristics where a composite sample has been 
+tested for a lot, only one test result will be available and that result shall 
+satisfy the requirements of the specification. 
+
+12 
+
+
+
+IS : 3535 < 1986 
+
+5.9.2 VVUen two laboratory samples have been analyzed individually 
+from a lot for any characteristic, the lot shall be considerod as conform- 
+ing to the requirement for that characteristic only if both of them 
+pass. 
+
+5.9.3 When three or more laboratory samples have been analyzed 
+individually from a lot for any characteristic, the following procedure 
+shall be followed forjudging the conformity to the requirements of that 
+characteristic. 
+
+5.9.3.1 For different test results obtained by analyzing different 
+laboratory samples, the average {x) and the range ( R ) shall be 
+calculated as follows: 
+
+. , _ , The sum of test results 
+
+Average ( x ) = -— r— jr- — r. — 
+
+^^ INumber of test results 
+
+Range { R) = The difference between the maximum and the 
+minimum values of the test results. 
+
+5,9<3.2 If the specification limit for the characteristic is given as a 
+minimum, the value of the expression ( x — 05 R ) shall be calculated 
+from the relevant test results. If the value so obtained is greater than or 
+equal to the minimum limit, the lot shall be declared as conforming to 
+the requirement of that characteristic. 
+
+5.9.3.3 If the specification limit for the characteristic is given as a 
+mayimum, the value of the expression {x + 0*5 R ) shall be calculated 
+*"rom the relevant test results. If the value so obtained is less than or 
+equal to the maximum limit, the lot shall be declared as conforming to 
+the requirement of that characteristic. 
+
+5.9.3.4 If the characteristic has two-sided specification limits the 
+value of the expression ( x — 5 R ) and ( x + 0-5 R) shall be calculated 
+from the relevant test results. If the values so obtained lie between the 
+two specification limits, the lot shall be declared as conforming to the 
+requirement of that characteristic. 
+
+
+
+13 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters. 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 1 1 0002 
+
+Telephones: 323 0131 , 323 3375, 323 9402 
+
+Fax: 91 11 3234062, 91 11 3239399, 91 11 3239382 
+
+Telegrams : Manaksanstha 
+
+(Common to all Offices) 
+
+Central Laboratory: Telephone 
+
+Plot No. 20/9, Site IV, Sahlbabad Industrial Area, Sahibabad 201010 8-77 00 32 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 1 1 0002 323 76 1 7 
+
+*Eastern : 1/14 GIT Scheme VII M, V.I. P. Road, Maniktola, CALCUTTA 700054 337 86 62 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 60 38 43 
+
+Southern : C.I.T. Campus, !V Cross Road. CHENNAI 6001 13 235 23 15 
+
+tWestern : Manakalaya, E9, Behind Marol Telephone Exchange, Andheri (East), 832 92 95 
+MUMBAI 400093 
+
+Branch Offices:: 
+
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur, AHMEDABAD 380001 550 13 48 
+
+tPeenya Industrial Area, 1 st Stage, Bangaiore-Tumkur Road, 839 49 55 
+BANGALORE 560058 
+
+Gangotri Complex, 5th Floor, Bhadbhada Road, T.T. Nagar, BHOPAL 462003 55 40 21 
+
+Plot No. 62-63, Unit VI, Ganga Nagar, BHUBANESHWAR 751001 40 36 27 
+
+Kalaikathir Buildings, 670 Avinashi Road, COIMBATORE 641037 21 01 41 
+
+Plot No. 43, Sector 16 A, Mathura Road, FARIDABAD 121001 8-28 88 01 
+
+Savitri Complex, 1 1 6 G.T. Road, GHAZIABAD 201 001 8-7119 96 
+
+53/5 Ward No.29, R.G. Barua Road, 5th By-!ane, GUWAHATI 781003 54 1 1 37 
+
+5-8-56C, L.N. Gupta Marg, Nampally Station Road, HYDERABAD 500001 20 1 83 
+
+E-52, Chitaranjan Marg, C-Scheme, JAIPUR 302001 37 29 25 
+
+117/418 B, Sarvodaya Nagar, KANPUR 208005 21 68 76 
+
+Seth Bhawan, 2nd Roor, Behind Leela Cinema, Naval Kishore Road, 23 89 23 
+LUCKNOW 226001 
+
+NIT Building, Second Floor, Gokulpat Market, NAGPUR 440010 52 51 71 
+
+Patllputra Industrial Estate, PATNA 800013 26 23 05 
+
+Institution of Engineers (India) Building 1 332 Shivaji Nagar, PUNE 41 1 005 32 36 35 
+
+TO. No. 1 4/1 421 , University P. O, Palayam, THIRUVANANTHAPURAM 695034 6 2117 
+
+
+
+*Sales Office is at 5 Chowringhee Approach, P.O. Princep Street, 27 10 85 
+
+CALCUTTA 700072 
+
+tSales Office is at Novelty Chambers, Grant Road, MUMBAI 400007 309 65 28 
+
+^Sales Office is at 'F' Block, Unity Building, Narashimaraja Square, 222 39 71 
+
+BANGALORE 560002 
+
+
+
+Printed at Printograph, New Delh, Ph.: 5726847 
+
+
+

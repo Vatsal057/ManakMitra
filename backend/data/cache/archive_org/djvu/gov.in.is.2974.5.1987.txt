@@ -1,0 +1,826 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+IS 2974-5 (1987) : Code of practice for design and 
+construction of machine foundations, Part 5: Foundations 
+for impact machines other than hammer (forging and stamping 
+press, pig breaker, drop crusher and jolter) [CED 43: Soil 
+and Foundation Engineering] 
+
+
+
+a^v j i imzzmn^a rafrg amsBs 
+
+
+
+£«> \\ i %^s^^^>9i^: 
+
+
+
+^^CVVVfa^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 2974 ( Part 5)- 1987 
+
+( Reaffirmed 2003 ) 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR 
+
+DESIGN AND CONSTRUCTION OF 
+
+MACHINE FOUNDATIONS 
+
+PART 5 FOUNDATIONS FOR IMPACT MACHINES OTHER THAN HAMMER 
+( FORGING AND STAMPING PRESS, PIG BREAKER, DROP CRUSHER 
+
+AND JOLTER ) 
+
+( First Revision ) 
+
+
+
+Second Reprint FEBRUARY 1998 
+
+
+
+UDC 624.159.11 
+
+
+
+® Copyright 1988 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR* SHAH ZAFAR MARG 
+NEW DELHI 1 10002 
+
+Gr 2 May 1988 
+
+
+
+IS > 2974 ( Part 5 ) - 1987 
+
+
+
+Indian Standard 
+
+
+
+CODE OF PRACTICE FOR 
+
+DESIGN AND CONSTRUCTION OF 
+
+MACHINE FOUNDATIONS 
+
+PART 5 FOUNDATIONS FOR IMPACT MACHINES OTHER THAN HAMMER 
+( FORGING AND STAMPING PRESS, PIG BREAKER, DROP CRUSHER 
+
+AND JOLTER ) 
+
+f First Revision ) 
+
+0. FOREWORD 
+
+
+
+0.1 This Indian Standard ( Part 5) ( First 
+Revision) was adopted by the Bureau of 
+Indian Standards on 26 September 1987, after 
+the draft finalized by the Foundation Engineer- 
+ing Sectional Committee had been approved 
+by the Civil Engineering Division Council. 
+
+0.2 The installation of machines and equip- 
+ments such as forging, sheet metal and stamp- 
+ing presses, pig breakers and jolters involves 
+careful design of their foundations taking into 
+consideration the impact and related vibration 
+characteristics of the load and the condition of 
+the soil on which the foundation rests. While 
+many of the special features relating to design 
+and construction of such machine foundations 
+will have to be as advised by the manufacturers 
+of these machines, still most of the details will 
+have to be according to the general principles 
+of design. This standard lays down the general 
+principles of planning and design of reinforced 
+concrete foundations supporting impact causing 
+
+
+
+machines 
+hammers. 
+
+
+
+and equipment other than the 
+
+
+
+0.3 This standard was first published in 1970. 
+This revision has been prepared based on 
+general experience gained in the implementa- 
+tion of this standard in the past 15 years. The 
+principal modifications made in this revision 
+are deletion of elevator and hoist tower struc- 
+tures ( which do not fit into the scope of this 
+code ), and inclusion of provisions for the foun- 
+dations for jokers. 
+
+0.4 For the purpose of deciding whether a 
+particular requirement of this standard is com- 
+plied with, the final value, observed or calcula- 
+ted, expressing the result of a test or analysis, 
+shall be rounded off in accordance with IS : 2- 
+1960*. The number of significant places retai- 
+ned in the rounded off value should be the 
+same as that of the specified value in this 
+standard. 
+
+
+
+♦Rules for rounding off numerical values ( revised ). 
+
+
+
+1. SCOPE 
+
+1.1 This standard ( Part 5 ) deals with design 
+and construction of block type foundations of 
+reinforced concrete for the installation of the 
+following machines: 
+
+a) Forging, sheet metal and stamping 
+presses, 
+
+b) Scrap breakers or pig breakers, and 
+
+c) Jolters. 
+
+2. TERMINOLOGY 
+
+2.1 For the purpose of this standard, the defi- 
+nitions given in IS : 2974 ( Part 1 )-1982* 
+shall apply. 
+
+
+
+•Code of practice for design and construction of 
+machine foundations: Part 1 Foundation for reciprocat- 
+ing type machines ( second revision ). 
+
+
+
+3. NECESSARY DATA 
+
+3.1 The following information shall be obtain- 
+ed from the manufacturers of the machinery 
+for guidance in design. 
+
+a) Forging Sheet Metal and Stamping Presses 
+
+1) Layout and outline drawing of the 
+installation, 
+
+2) Details of anchor bolts and other 
+embedded parts, 
+
+3) Pressure to be exerted by the press 
+
+4) Stroke of the press ( S ), 
+
+5) Weight of the cross head ( w e ), 
+
+6) Gross weight ( w p ), 
+
+7) Weight of material to be forged 
+( ^m )» 
+
+
+
+1 
+
+
+
+IS t 2974 ( Part 5 ) - 1987 
+
+
+
+8) Load-time relationship of the pulse 
+realized during the action of the 
+press ( p versus *), 
+
+9) Dynamic force and moment in the 
+case of eccentric presses ( M ), and 
+
+10) Height and cross section of steel 
+columns. 
+
+b) Pig and Scrap Breaker Installations 
+
+1) As in (a) (1) above, 
+
+2) As in (a) (2) above, 
+
+3) Weight of ram and. height of fall, 
+
+4) Weight of pig scrap, and 
+
+5) Constructional loads. 
+
+c) Jolter 
+
+1) As in (a) (1) above 
+
+2) As in (a) (2) above 
+
+3) Weight of jolting table with rated 
+charge on it ( w x ), 
+
+4) Weight of anvil ( W* ), 
+
+5) Frequency of jolts ( Blows/min ), 
+
+6) Height of fall of the table or stroke 
+( S ), and 
+
+7) Maximum pressure of the steam/ 
+compressed air ( p ). 
+
+3.2 Data of Ground and Site Conditions— 
+
+The following soil data shall be known: 
+
+a) Soil profile and soil characteristics up 
+
+to a depth at least 3 times the mean 
+
+plan dimensions of the foundation 
+
+(which can be taken as the square 
+
+root of the expected area) or hard 
+strata, whichever is less. 
+
+b) Soil investigation to the extent necess- 
+ary in accordance with IS : 1892- 
+1979* and for determination of 
+dynamic properties of the soil in 
+accordance with IS : 5249*1977f. 
+
+c) The relative position of the water 
+table below ground at different times 
+of the year. 
+
+4. DESIGN CRITERIA 
+4.1 General 
+
+4.1.1 To avoid transmission of vibration, no 
+part of the machine foundation shall be allowed 
+to have a rigid contact with parts of adjoining 
+structures. For best isolation, a gap is recomm- 
+ended between parts of the machine foundation 
+and adjacent structures. 
+
+4.1.2 In case it becomes necessary to sup- 
+port unimportant parts of a neighbouring 
+structures, sensitive to vibration measures shall 
+
+•Code of practice for subsurface investigition for 
+foundation ( first revision ). 
+
+tM^thod of test for determination of dynamic pro- 
+perties of soil (first revision ). 
+
+
+
+be taken to make a resilient connection using 
+rubber, cork, fait or any other soft resilient 
+material. 
+
+4.1.3 Overhanging cantilever supports for 
+walkways shall be avoided as far as possible. 
+Where unavoidable, they shall be designed to 
+ensure adequate rigidity against vibrations. 
+
+4.2 Permissible Stresses 
+
+4.2.1 Full value of permissible stresses for 
+steel and concrete as specified in IS : 456-1978* 
+may be allowed if dynamic loads are considered 
+in detail design by applying suitable dynamic 
+and fatigue factors. 
+
+4.2.2 The approximate values of dynamic 
+elastic modulus of concrete for different grades 
+is given below: 
+
+Grade of Concrete Dynamic Elastic 
+
+Modulus 
+
+
+
+
+
+kgf/cm* 
+
+
+Af-20 
+
+
+300 0C0 
+
+
+Af-25 
+
+
+340 000 
+
+
+Af-30 
+
+
+370 000 
+
+
+
+4.2.3 Soil — The soil stress below the found- 
+ations, under the combined static and dynamic 
+loads shall not exceed 80 percent of the allowa- 
+ble stress under static loading determined in 
+accordance with IS : 6403- 198 If. 
+
+4.2.4 When seismic forces are considered in 
+design, the allowable stresses in soil may be 
+increased as specified in IS : 1893-1984}. 
+
+4.3 General Provisions of Design 
+
+a) The centre of gravity of the machine 
+as well as the foundation shall prefera- 
+bly lie on the same vertical line 
+passing through the centroid of the 
+base area. 
+
+b) The natural frequency of the founda- 
+tion soil system ( w n ) shall not be a 
+whole number multiple of the operat- 
+ing frequency of impact ( <o m ). To 
+avoid resonance, the following inequa- 
+lity relation is suggested: 
+
+0-7 > ^- > 1-5 
+
+4.4 Dynamic Analysis 
+
+4.4.1 When the Duration of Impact is Negligible 
+but the Effect of Repeated Blows ( Poriodkity of 
+Blows ) needs to be Considered : The amplitude 
+( A ) of the foundation considered as a rigid 
+body resting on a spring ( represented by soil 
+
+
+
+♦Code of practice for plain and reinforced concrete 
+( third revision ) . 
+
+fCode of practice for determination of bearing 
+capacity of shallow foundations {first revision ). 
+
+JCriteria for earthquake resistant design of struc- 
+tures ( third revision ) . 
+
+
+
+IS : 2974 ( Part 5 ) - 19*7 
+
+
+
+springs or other underlaycrs as the case may be 
+obtained from the relation: 
+
+A = 
+
+
+
+2 V km Sin 
+
+
+
+( r ^) 
+
+
+
+where lis the impact momentum, k is the stiff- 
+ness of the subgrade of the foundation, m is the 
+total mass of the machine foundation, 7"i is the 
+periodicity of blows and T is the natural 
+period. 
+
+As a measure of simplification, in cases 
+where the impulse momentum is not specified, 
+the amplitude of motion of the foundation 
+body may be obtained from the following 
+approximate relation: 
+
+Wv 
+
+
+
+A = 
+
+
+
+2co n WSin 
+
+
+
+■(^) 
+
+
+
+where W is falling weight, v is terminal 
+velocity and a>„ is natural frequency. 
+
+4.4.2 When the Duration of Impact is Not Negli- 
+gible* and the Effect of One Blow Alone need be 
+Considered: Following steps may be followed: 
+
+a) Step 1 — Obtain the natural period 
+( T ) of the foundation-soil system as 
+given in IS : 2974 ( Part 1 )-1982*. 
+
+
+
+♦Code of practice for design and construction of 
+machine foundations *: Part 1 Foundation for recipro- 
+cating type machines (second revision). 
+
+
+
+b) Step 2 — Obtain the dynamic magni- 
+fication factor corresponding to the 
+period ratio /i/7", where t\ is the dura- 
+tion of the blow. Fig. 1 gives values of 
+7) for three standard forms of pulse 
+loading where tj is dynamic magnifi- 
+cation factor. For any other arbitrary 
+loading, rigorous dynamic analysis 
+needs to be carried out. 
+
+c) Step 3 — The dynamic force Fa may 
+be obtained from the relation: 
+
+Fa = %n Pa 
+Where £ is the fatigue factor which 
+may be taken as two for normal 
+machinery and P d is the peak dynamic 
+force induced by the machine in each 
+blow. 
+
+4.5 Forging and Stamping Presses 
+
+4.5.1 Forging sheet metal and stamping 
+presses may be hydraulic, eccentric or friction 
+type. The dynamic analysis of the foundation 
+may be carried out as explained in 4.4. 
+
+4.5-2 Alternatively, for stamping machines 
+having anchor columns and resting on hard 
+rock, in the absence of pressure time data the 
+dynamic magnification factor may be obtained 
+
+
+
+from the relation 
+
+
+
+and 
+
+
+
+Wh 
+
+
+
+h 
+
+
+
+_=- where ft = _ . 
+*gt EA 
+
+A being the height and area of cross 
+
+
+
+RECTANGULAR 
+
+
+
+TRIANGULAR 
+-**t 
+
+
+
+
+20 
+
+
+
+IMPULSE RATIO. ti/T 
+Fig. 1 Displacement Response Spectra for Three Standard Pulses 
+
+
+
+IS : 2974 ( Part 5 )- 1987 
+
+
+
+section of anchor columns, W is the weight of 
+the machine without the cross head and V is 
+the velocity at the middle of stroke ( S ) given 
+by 27c/ m iS, f m being the operating frequency of 
+the moving cross head in cycles/sec. In the case 
+of large eccentric presses, other forms of 
+dynamic loads also occur. For design purposes, 
+a dynamic moment equal to five times the 
+normal torque and dynamic force equal to five 
+times the centrifugal force, both acting at the 
+centre of the fly wheel may be considered. 
+
+4.6 Pig Breakers or Scrap Breakers 
+
+4.6*1 Hammers inducing very high impact 
+energy should be located, as far as possible, 
+from other structures susceptible to vibration, 
+namely laboratory buildings, shops, housing 
+precision equipment and complete process lines, 
+etc. 
+
+4.6.2 The foundation for crushing platform 
+should preferably be designed as a hollow cyli- 
+nder or hollow cup and made of RCG and 
+filled with well compacted sand, and scrap 
+ingots to increase the crushing efficiency. 
+
+4.6.3 The crushing anvil may also be placed 
+on RCG block in a rectangular or circular well. 
+Block foundation under the anvil should be 
+made of richer concrete and suitably reinforced 
+to withstand the high impact energy. 
+
+4.6.4 Timber battens should be suspended 
+on hinges from a metallic ring installed above 
+the wall and tied to each other at places by a 
+rope so that they can intercept the flying chips. 
+Rubber lining may also be provided at the 
+inner face for the same purpose. 
+
+4.7 Jokers 
+
+4.7.1 Block foundations supporting jolter 
+tables often used in foundry-forge plants are 
+designed following the procedure outlined 
+in 4.4. The moving weight in a jolter installa- 
+tion is the total weight of the jolter table 
+together with the charge on it. 
+
+5. CONSTRUCTION DETAILS 
+
+5.1 The concrete for foundations and support- 
+ing structures should be controlled concrete 
+
+
+
+and designed and placed in accordance with 
+IS : 456-1978*. Concrete should be specified 
+on the basis of 28 days cube strength and shall 
+be of grade not less than M-20. 
+
+5.2 The concrete used should be of plastic con- 
+sistency without excessive water. A slump of 
+5 to 8 cm is allowable. The same consistency 
+should be maintained throughout the con- 
+creting. 
+
+5.3 Continuous concreting should be done as 
+far as possible for the entire block leaving pro- 
+visions for grouting. 
+
+5.4 If a construction joint is unavoidable, the 
+plane of joint should be horizontal and measu- 
+res should be taken to ensure perfect bond at 
+the joint. Reinforcement should be continuous 
+across the joint. Before placing the new layer 
+of concrete, the previously laid surface should 
+be roughened, thoroughly cleaned and washed 
+by a jet of water and then covered by a layer 
+of rich 1:2 cement grout 2-cm thick. Concrete 
+should be placed not later than 2 hours after 
+the grout is laid. 
+
+5.5 Grouting of the machine bed plate and the 
+pockets of anchor bolts should be done in a 
+continuous operation. The surfaces should be 
+thoroughly cleaned prior to grouting. All 
+exposed surfaces should be made rough so as 
+to secure good bond with the fresh concrete. 
+Cement grout with non-shrinkage additive 
+should be used for purpose of grouting. 
+
+5.6 All units of foundation should be provided 
+with reinforcements both ways and amount of 
+reinforcement should be not less than 25 kg/m 3 
+of concrete. 
+
+5.7 The minimum diameter of bar should be 
+12 mm and the maximum spacing 200 mm in 
+order to take care of shrinkage in concrete. 
+Unless specified otherwise, the concrete cover 
+for the protection of reinforcement should be 
+a minimum of 75 mm thick at the bottom and 
+50 mm thick on the sides and top. 
+
+
+
+5.8 Foundation 
+anchored. 
+
+
+
+bolts should be properly 
+
+
+
+*Code of practice for plain and reinforced concrete 
+( third revision ). 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods and 
+attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publication), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue 
+of *BIS Handbook 5 and 'Standards Monthly Additions'. 
+
+This Indian Standard has been developed from Doc: No. CHD 025 ( 0251 ) 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters: 
+
+
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+Telephones: 323 01 31, 323 33 75, 323 94 02 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C.I.T. Scheme VII M, V.I.P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 
+
+
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 600113 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400093 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. 
+HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+PATNA. PUNE. THIRUVANANTHAPURAM. 
+
+
+
+Telegrams: Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+323 76 17,323 38 41 
+
+
+
+f337 84 99,337 85 61 
+1337 86 26,337 9120 
+
+T60 38 43 
+160 20 25 
+
+f235 02 16,235 04 42 
+1235 15 19,235 23 15 
+
+f 832 92 95, 832 78 58 
+1832 78 91,832 78 92 
+
+
+
+Printed by Reprography Unit, BIS, New Delhi 
+
+
+

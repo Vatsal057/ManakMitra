@@ -1,0 +1,2151 @@
+**************** 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live'' 
+
+
+IS  1498  (1970)  :  Classification  and  identification  of  soils 
+for  general  engineering  purposes  [CED  43:  Soil  and 
+Foundation  Engineering] 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New" 
+
+
+aj^&vi  iJii^s:y%K^  isb^^ni^seg 
+
+
+:<>5&i|  mT'5K^5?::5:^>^i»l 
+
+
+K^^^iXSVCd^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+^'^^^r 
+
+
+k 
+
+
+BLANK  PAGE 
+
+
+^*-^^^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  :  1498-  1970 
+(Reaffirmed  2007) 
+
+Indian  Standard 
+
+CLASSIFICATION  AND  IDENTIFICATION   OF 
+
+SOILS  FOR  GENERAL  ENGINEERING 
+
+PURPOSES 
+
+
+( First  Revision) 
+
+
+(  Eighth  Reprint  JUNE  2000  ) 
+
+
+UDC    624131-2 
+
+
+©  Copyright  1972 
+BUREAU     OF     INDIAN      STANDARDS 
+
+MANAK     BHAVAN,  BAHADUR  SHAH  ZAFAR   MARG 
+NEW    DELHI- 110002 
+
+
+Gr  10  June  1972 
+
+
+I8tl4M-lf7t 
+
+Indian  Standard 
+
+CLASSIFICATION  AND  IDENTIFICATION  OF 
+
+SOILS  FOR  GENERAL  ENGINEERING 
+
+PURPOSES 
+
+(  First  Revision ) 
+
+Soil  Engineering  Sectional  Committee,  BDC  23 
+
+Chairman 
+
+Prof  S.  R.  Mehaa 
+
+Manak,  Nehru  Road,  Ranikhct,  Uttar  Pradesh 
+
+MtmbiTS  Rtpnseniing 
+
+Dr  Alam  Sinoh  University  of  Jodhpur,  Jodhpur 
+
+Shri  B.  B.  L.  Bhatmaoar  Land    Reclamation,    Irrigation   &   Power   Research 
+
+Institute,  Amritsar 
+Shri  K.  N.  Dadina  In  personal  capacity  (  P'820,  New  Aiipore,  Calcutta  53 ) 
+
+Shri  A.  G.  Dastidar  Cementation  Co  Ltd,  Bombay 
+
+Shri  J.  Datt  Concrete  Association  of  India,  Bombay 
+
+Shri  T.  M.  Mrnon  (  AlUmate  ) 
+Shri  R.  L.  Dbwan  Bihar    Institute  of  Hydraulic  and  Allied  Research, 
+
+Khagaul,  Patna 
+Prof  Dinesh  MoRAvr  Central  Building  Research  Institute  (  CSIR  ),  Roorkec 
+
+Shri  D.  R.  Narahari  (  AltemaU) 
+DiRBCTOR,  Central  Soil  Mbcha-   Central  Water  &  Power  Commission,  New  Delhi 
+NIC!  Research  Station 
+
+Director  (  Dams  1 1 )  (  AUtmatt ) 
+Prof  R.  N.  Doora  Indian  Institute  of  Technology,  New  Delhi 
+
+Smri  B.  N.  Gufta  Irrigation  Research  Institute,  Roorkee 
+
+Dr  Jaodish  Narain  University  of  Roorkee,  Roorkee 
+
+Joint  Director  Research  (  FL  ),    Railway  Board  (  Ministry  of  Railways ) 
+RDSO 
+
+Depiht  Director,  Research 
+
+,  (  Soil  Mechanics  ),  RDSO  (  AlUmaU  ) 
+Shri*S.  S.  Joski  Enginecr-in-Chief 's  Branch,  Army  Headquarters 
+
+Shri  S.  V'aradaraja  (  AUtmate  ) 
+Shri  G.  Kiteckblmann  Rodio  Foundation  Engineering  Ltd;  mi  Hazarat  & 
+
+Co,  Bombay 
+
+Shri  A.  H.  Divanji  (  AlUrnatt ) 
+Shri  O.  P.  Malhotra  Public  Works  Department,  Government  of  Punjab 
+
+Shri  C.  B.  Patel  M.  N.  Dastur  &  Co  (  Private  )  Ltd,  Calcutta 
+
+Shri  Ravindbr  Lal  National  Buildings  Organisation,  New  Delhi 
+
+Shri  S'.  H.  Balchandani  (  AtttmaU  ) 
+
+( Cmtimitd  an  pagi  2  ) 
+
+BUREAU     OF     INDIAN     STANDARDS 
+
+MANAK  BHAVAN,  9  BAHADUR  SHAH  ZAFAR  MARO 
+NEW  DELHI  110002 
+
+
+Ut  MM- 1970 
+
+( CmaUmdfrmpoit  1 ) 
+
+Mtmbtfs 
+Repmsentativb 
+
+Reprssbntativb 
+
+RSPRtSENTATlVE 
+
+RtSEARCH  Officer 
+
+RjtfBARCH  Officer 
+Sboretary 
+Shm  S.  N.  Sinma 
+
+Shri  a.  S.  Bishnoi  (  Alternate  ) 
+
+Supbrintendino     Engineer 
+
+(  Planning  &  Design  Circle  ) 
+
+Executive    Engineer    (  Soil 
+
+Mechanics    &    Research 
+
+Division  )  (  Alternate ) 
+
+Shri  C.  G.  Sv^aminathan 
+
+Dr  H.  L.  Uppal 
+
+Shri  H.  G.  Verma 
+
+
+Ripnseniing 
+
+All  India  Instruments  Manufacturers  &  Dealers 
+Association,  Bombay 
+
+Indian  National  Society  of  Soil  Mechanics  & 
+Foundation  En^neering,  New  Delhi 
+
+Public  Works  ( Special  Roads )  Directorate,  Govern- 
+ment of  West  Bengal 
+
+Building  and  Roads  Research  Laboratory,  Public 
+Works  Department,  Government  of  Punjab 
+
+Engineering  Research  Laboratories,  Hyderabad 
+
+Central  Board  of  Irrigation  and  Pow^r,  New  Delhi 
+
+Roads  Wing  (  Ministry  of  Transport  &  Shipping  ) 
+
+Concrete  and  Soil  Research  Laboratory,  Public  Works 
+Department,  Government  of  Tamil  Nadu 
+
+
+Institution  of  Engineers  ( India  ),  Calcutta 
+Central  Road  Research  Institute  ( CSIR  )»  New  I>clhi 
+Public   Works   Department,    Government    of    Uttar 
+Pradesh 
+Srri  D.  O.  Chaivrvbdi  (  Alum^U ) 
+Shri  D.  Ajitra  Simha,  Director  General,  B\S  ( Ex-officio  Member ) 
+
+Director  (  Civ  Engg  ) 
+
+Seeretatj 
+
+Shri  G,  Raman 
+
+Deputy  Director  (  Civ  Engg ),  BIS 
+
+
+Panel  for  Classification  and  Identification  of  Soils  for  General 
+Engineering  Purposes,  BDC  23  :  P2 
+
+
+Comfener 
+Dr  I.  C.  Dos  M.  Pais  Cuodou 
+
+
+Central  Water  &  Power  Commission,  New  Delhi 
+
+
+Members 
+Director  (  Dams  1 1 )  (  Alternatr  to 
+
+
+Dr  I.  C.  Dos  M.  Pais  Cuddou  ) 
+
+
+Dr  a  lam  Singh 
+Prop  Dinesh  Mohan 
+Director 
+
+Research  Opficer  (  Alternate  ) 
+Shri  S.  S.  Joshi 
+Dr  H.  L.  Uppal 
+
+
+Univcrsily  ofjodhpur,  Jodhpur 
+
+Ccniral  Building  Research  Institute  (  CSIR  ),  Roorkee 
+
+Irrigation  Research  Institute,  Roorkee 
+
+Enginccr-in-Chief*s  Branch,  Army  Headquarters 
+Central  Road  Research  Institute  (  CSIR  ),  New  Delhi 
+
+
+AMENDMENT  NO.  1        AUGUST  1982 
+
+TO 
+
+IS  :  1498-1970     CLASSIFICATION  AND 
+
+IDENTIFICATION  OF  SOILS  FOR  GENERAL 
+
+ENGINEERING  PURPOSES 
+
+(  First  RevUion) 
+
+Addenda 
+
+(  Page  13,  clause  3.8  )  —  Add  the  following  new  clause  after  3.8: 
+
+*3.9  Degree  of  Expansion  —  Fine  grained  soils  depending  upon  the 
+presence  of  clay  mineral  exhibit  low  to  very  high  degree  of  expansion. 
+Based  upon  Atterberg's  limits  and  free  swell  of  the  soils  the  degree  of 
+expansion  and  degree  of  severity  for  soils  is  shown  in  Table  8.* 
+
+[  Page  14,  col  5  against  SI  No.  (ii)  ]  —  Add  the  following  new  matter 
+at  the  end: 
+
+*  Coarse:  75  uiicron  to  7*5  micron 
+
+Fine:  7*5  micron  to  2  micron' 
+
+(Page2\^  Table  5,  Note  4)  — Add    the    following    new    note    after 
+note  4: 
+
+*NoTE  5  —  In  most  of  the  expansive  soils,  the  CBR  values  alter  soaking 
+are  often  found  to  be  less  than  2.  The  thickness  of  the  pavements  for  such 
+small  values  turn  out  to  extremely  high  and  impracticable.  A  minimum  CBR 
+Falue  of  2  is  recommended  for  use  for  design  purposes  in  such  soil.  * 
+
+(  Page  23,  Table  7  )  —  Add  the  following  new  table  after  Table  7: 
+
+
+TABLE  8     SHOWING  THE  DEGREE  OF  EXPANSION  OF  FINE 
+GRADED  SOILS 
+
+( Clause  3.9 ) 
+
+LiQUiT)  Limit 
+{Wl) 
+
+Plasticity 
+
+Ini>ex 
+
+(/P  ) 
+
+SHuiNKAaE       Frke  Swbll 
+Index  (Is)       (  Peucent  ) 
+
+Deoiiee  Of 
+Expansion 
+
+Degree  Of 
+Skvebity 
+
+20-35 
+
+<  12 
+
+<  15                  <  50 
+
+Low 
+
+Non-critical 
+
+35-50 
+
+12-23 
+
+15-30                50-100 
+
+Medium 
+
+Marginal 
+
+50-70 
+
+23-32 
+
+30^0                100-200 
+
+High 
+
+Critical 
+
+70-90 
+
+>32 
+
+>60                 >  200 
+
+Very  High 
+
+Severe 
+
+(BDC2S) 
+
+
+>clnurd  at  8lmco  Printing  PrMt,  Delhi,  India 
+
+
+AMENDMENT  NO.  2    SEPTEMBER  1987 
+
+TO 
+
+15:1498-1970  CLASSIFICATION  AND  IDENTIFICATION  OF 
+SOILS  FOR  GENERAL  ENGINEERING  PURPOSES 
+
+(First  Revision) 
+
+
+(Page  4 ,  clause  2.3,  line  5 ) : 
+
+(Page  6,  clause  3.4,  para  1,  lines  10  and  12 
+and  para  2,  line  3); 
+
+[Page  7,  clause  3.4.4(b)  and  (c)]: 
+
+(Page  14,  Table  1,  col  5,  lines  6  and  8): 
+
+(Page    24,    Appendix    A,    matter  against 
+IS: 1498-1970); 
+
+Substitute   VS  mm*   for   *80  mm'   wnerever 
+existing. 
+
+(Page  21,  Table  5»   Note   3)   -   Substitute 
+'IS:2720(Part  8)-I983'  for  •IS:2720(Part  8)-1965'* 
+
+(Page  21,  footnote  with  **'  mark)  -  Substitute 
+the  following  for  the  existing  footnote: 
+
+**Method   of   test   for   soils:    Part   8 
+Determination  of  water  content  -  Dry  density 
+relation   using  heavy  compaction  (second 
+revision). ' 
+
+
+(BDC  23) 
+
+Printed  It  Simco  Printing  Pf«Bt»  Delhi.  India 
+
+
+IS  1 1498.1970 
+
+Indian  Standard 
+
+CLASSIFICATION  AND  IDENTIFICATION  OF 
+
+SOILS  FOR  GENERAL  ENGINEERING 
+
+PURPOSES 
+
+(First  Revision) 
+
+0.     FOREWORD 
+
+0.1  This  Indian  Standard  (  First  Revision  )  was  adopted  by  the  Indian 
+Standards  Institution  on  19  December  1970,  after  the  draft  finalized  by  the 
+Soil  Engineering  Sectional  Committee  had  been  approved  by  the  Civil 
+Engineering  Division  Council. 
+
+0.2  Soil  survey  and  soil  classification  are  at  present  being  done  by  several 
+organizations  in  this  country  for  different  purposes.  The  engineering 
+departments  and  research  laboratories  have  done  a  great  deal  of  work  in 
+regard  to  soil  exploration  and  classification  in  fields  relating  to  irrigation, 
+buildings,  roads,  etc.  The  investigations  relating  to  the  field  of  irrigation 
+have  two  objectives  namely,  the  suitability  of  soil  for  the  construction  of 
+dams  and  other  kinds  of  hydraulic  structures  and  the  effect  on  the  fertility 
+of  soil  when  it  is  irrigated.  With  regard  to  roads  and  highways,  investi- 
+gations have  been  undertaken  to  classify  them  from  the  point  of  view  of 
+their  suitabihty  for  construction  of  embankments,  sub-grades,  and  wearing 
+surfaces.  In  the  field  of  buildings,  soil  investigation  and  classification  is 
+done  to  evaluate  the  soil  as  regards  its  bearing  power  to  a  ceitain  extent. 
+Soil  survey  and  soil  classification  arc  also  done  by  agriculture  departments 
+from  the  point  of  view  of  the  suitability  of  the  soil  for  crops  and  its  fertility. 
+Each  of  these  agencies  was  adopting  different  systems  for  soil  classification. 
+The  adoption  of  different  methods  by  various  agencies  led  to  difficulties  in 
+interpreting  the  results  of  soils  investigated  by  one  agency  by  the  other  and 
+quite  often  results  were  found  to  be  not  easily  comparable.  This  Indian 
+standard  was,  therefore,  published  in  1959  to  provide  a  common  basis  for 
+soil  classification. 
+
+0.3  Soils  seldom  exist  in  nature  separately  as  sand,  gravel  or  any  other 
+single  component  but  are  usually  found  as  mixture  with  varying  propor- 
+tions of  particles  of  different  sizes.  This  revision  is  essentially  based  on 
+the  Unified  Soil  Classification  System  with  the  modification  that  the  fine- 
+grained soils  have  been  subdivided  into  three  subdivisions  of  low,  medium 
+and  high  compressibility,  instead  of  two  subdivisions  of  the  original  Unified 
+Soil  Classification  System.     The  system  is  based  on  those  characteristics  of 
+
+
+Ifa498-]970 
+
+the  soil  which  indicate  how  it  will  behave  as  a  construction  material.  This 
+system  is  not  limited  to  a  particular  use  or  geographical  location.  It  does 
+not  conflict  with  other  systems;  in  fact,  the  use  of  geologic^  pedologic, 
+textural  or  local  terms  is  encouraged  as  a  supplement  to,  but  not  as  a 
+substitute  for,  the  definitions,  terms  and  phrases  established  by  this  system 
+and  which  are  easy  to  associate  with  actual  soils. 
+
+0.4  In  the  formulation  of  this  standard  due  weightage  has  been  given  to 
+international  co-ordination  among  the  standards  and  practices  prevailing 
+in  different  countries  in  addition  to  relating  it  to  the  practices  in  this  field 
+
+in  this  country. 
+
+0.5  For  the  purpose  of  deciding  whether  a  particular  requirement  of  this 
+standard  is  complied  with,  the  final  value,  observed  or  calculated,  expressing 
+the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accordance  with 
+IS:  2-1960*.  The  number  of  significant  places  retained  in  the  rounded 
+off  value  should  be  the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+1.  SCOPE 
+
+1«1  This  standard  covers  a  system  for  classification  and  indentification  of 
+soils  for  general  engineering  purposes.  The  information  given  in  this 
+standard  should  be  considered  as  for  guidance  only  for  treating  the  soil  foi 
+engineering  purposes. 
+
+2.  TERMINOLOGY 
+
+2.0  For  the  purpose  of  this  standard,  the  definitions  given  in  IS  :  2809-19721 
+and  the  following  shall  apply. 
+
+2.1  Clay  —  An  aggregate  of  microscopic  and  sub-microscopic  particles 
+derived  from  the  chemical  decomposition  and  disintegration  of  rock  consti- 
+tuents.    It  is  plastic  within  a  moderate  to  wide  range  of  water  content. 
+
+2.2  Silt  —  A  fine-grained  soil  with  little  or  no  plasticity.  If  shaken  in  the 
+palm  of  the  hand,  a  part  of  saturated  inorganic  silt  expels  enough  water  to 
+make  its  surface  appear  glossy.  If  the  pat  is  pressed  or  squeezed  between 
+the  fingers,  its  surface  again  becomes  dull. 
+
+2.3  Sand  and  Gravel  —  Cohesionless  aggregates  of  angular,  sub-angular, 
+sub-rounded,  rounded,  flaky  or  flat  fragments  of  more  or  less  unaltered 
+rocks  or  minci  als. 
+
+According  to  this  system,  gravel  is  a  fraction  of  the  soil  material 
+between  80  mm  and  the  4'75-mm  IS  Sieve  size  and  sand  is  the  material 
+between  the  4*75-mm  IS  Sieve  size  and  the  75-micron  IS  Sieve  size. 
+
+*Rules  for  rouniliiig  off  numerical  values  ( revised ). 
+
+tGloMary  of  tenons  and  symbols  refuting  to  soil  engineering  (first  rmiion  ] . 
+
+
+IStl4M«rlf7t 
+3.  CaLASSmCATION  AND  IDENTTnGATION 
+
+3.1  Division  —  Soib  shall  be  broadly  divided  into  three  divisions  as  given 
+in  3.1.1  to  3.1 .3. 
+
+3.1.1  Coarse-Grained  Soils  —  In  these  soils,  more  than  half  the  total  material 
+by  weight  is  larger  than  75-micron  IS  Sieve  size. 
+
+3.1.2  Fine-Grained  Soils  —  In  these  soils,  more  than  half  of  the  material 
+by  weight  is  smaller  than  75-micron  IS  Sieve  size. 
+
+3.13  Highly  Organic  Soils  and  Other  Miscellaneous  Soil  Materials  —  These 
+soils  contain  large  percentages  of  fibrous  organic  matter,  such  as  peat,  and 
+particles  of  decomposed  vegetation.  In  addition,  certain  soib  containing 
+shells,  concretions,  cinders,  and  other  non-soil  materiab  in  sufficient  quanti- 
+ties are  also  grouped  in  this  division. 
+
+3.2  Subdivision  —  The  first  two  divisions  {see  3.1.1  and  3.1.2)  shall  be 
+further  divided  as  given  in  3.2.1  and  3.2.2. 
+
+3.2.1  Coarse- Grained  Soils  —  The  coarse-grained  soib  shall  be  divided  into 
+two  subdivisions,  namely: 
+
+a)  Gravels  —  In  these  soib,  more  than  half  the  coarse  fraction 
+(4-75  micron  )  is  larg^tr  than  4*75-mm  IS  Sieve  size  Thb  sub- 
+division includes  gravels  and  gravelly  soib. 
+
+b)  Sands  —  In  these  soils,  more  than  half  the  coarse  fraction 
+(  -f  75  micrcm  )  is  smaller  than  4*75-mm  IS  Sieve  size.  Thb  sub- 
+division includes  sands  and  sandy  soib. 
+
+3.2.2  Fine- Grained  Soils  —  The  fine-grained  soib  shall  be  further  divided 
+into  three  subdivisions  on  the  basis  of  the  following  arbitrarily  selected 
+values  of  liquid  limit: 
+
+a)  Silts  and  clays  of  low  compressibility  —  having  a  liquid  limit  less  than 
+35  (represented  by  symbol  L), 
+
+b)  Silts  and  clays  of  medium  compressibility  —  having  a  liquid  limit 
+greater  than  35  and  less  than  50  ( represented  by  symbol  /),  and 
+
+c)  Silts  and  clays  of  high  compressibility  —  having  a  liquid  limit  greater 
+than  50  (  represented  by  symbol  //). 
+
+Note  —  In  this  system  the  fine-graine4  soils  are  not  divided  according  to  particle 
+size  but  according  to  plasticity  and  compressibility.  The  tcnn  *  compressibility  *  here 
+shall  imply  volume  change,  Uinnkage  during  d|ry  periods  and  s%ireUing  during  wet  periods, 
+as  %irell  as,  consolidation  under  load.  Soil  partidei  finer  than  2-micron  may,  however,  be 
+designated  as  clay-size  panicles  and  the  particles  bet%^een  75-micnm  and  2-micron  as  tilt- 
+size  particles. 
+
+
+ISt  1496- 1970 
+
+3.3  Graups  —  The  coarse-grained  soils  shall  be  further  divided  into  eight 
+basic  soil  groups.  The  fine-grained  soils  shall  be  further  divided  into  nine 
+basic  soil  groups  (  see  Table  2  ). 
+
+3.3.1  Highly  organic  soils  and  other  miscellaneous  soil  materials  shall  be 
+placed  in  one  group.     The  groups  shall  be  designated  by  symbols. 
+
+Note  —  These  groups  are  broad,  based  on  basic  properties  of  soil;  therefore,  supple- 
+mental detailed  word  descriptions  are  required  to  point  oat  pecularity  of  a  particular 
+soil  and  differentiate  it  from  others  in  the  same  group. 
+
+3.3.2  The  basic  soil  components  are  given  in  Table  1 . 
+
+3*3*3  The  various  subdivisions,  groups  and  group  symbols  arc  given  in 
+Table  2. 
+
+3*4  Field  Identification  and  Classification  Procedure  —  The  f.eld 
+method  is  used  primarily  in  the  field  to  classify  and  describe  soils.  Visual 
+observations  are  employed  in  place  of  precise  laboratory  tests  to  define  the 
+basic  soil  properties.  The  procedure  is,  in  fact,  a  process  of  elimination 
+beginning  on  the  left  side  of  the  classification  chart  (  Table  2  )  and  working 
+to  the  right  until  the  proper  group  name  is  obtained.  The  group  name 
+should  be  supplemented  by  detailed  word  descriptions,  including  the 
+description  of  the  in-place  conditions  for  soils  to  be  used  in  place  as  founda- 
+tions. A  representative  sample  of  the  soil  is  selected  which  is  spread  on  a 
+flat  surface  or  in  the  palm  of  the  hand.  All  particles  larger  than  80  mm 
+arc  removed  from  the  sample.  Only  the  fraction  of  the  sample  smaller  than 
+80  mm  is  classified.  The  sample  is  classified  as  coarse-grained  or  fine- 
+grained by  estimating  the  percentage  by  weight  of  individual  particles  which 
+can  be  seen  by  the  unaided  eye.  Soils  containing  more  than  50  percent 
+visible  particles  arc  coarse-grained  soils,  soils  containing  less  than  50  per- 
+cent visible  particles  are  fine-grained  soils. 
+
+If  it  has  been  determined  that  the  soil  is  coarse  grained,  it  is  further 
+identified  by  estimating  and  recording  the  percentage  of:  (a)  gravel  sized 
+particle,  size  range  from  80  mm  to  4*75-mm  IS  Sieve  size  (  or  approximately 
+5  mm  size);  (b)  sand  size  particles,  size  range  from  4*75  to  75-micron 
+IS  Sieve  size;  and  (c)  silt  and  clay  size  particles,  size  range  smaller  than 
+75-micron  IS  Sieve. 
+
+Note  —  The  fraction  of  soil  smaller  than  75-micron  IS  Sieve,  that  is,  the  clay  and  silt 
+fraction  b  referred  to  as  fines. 
+
+3.4.1  Gravelly  Soils  —  If  the  percentage  of  gravel  is  greater  than  that  of 
+sand,  the  soil  is  a  gravel.  Gravels  are  further  identitied  as  being  clean  (  con- 
+taining little  or  no  fines^  that  is  less  than  5  per  cent )  or  dirty  ( containing 
+appreciable  fines,  that  is  more  than  12  per  cent)  depending  upon  the 
+percentage  of  particles  not  visible  to  the  unaided  eye.  Gravels  contaii[iing 
+5  to  12  percent  fines  are  given  boundary  classification.  If  the  soil  is  obviously 
+
+
+IS:14M*1970 
+
+olcan,  the  classification  shall  be  either :  ^a)  well  graded  gravel  ( GW ),  if 
+there  is  good  representation  of  all  particle  sizes;  or  (b)  poorly  graded 
+gravel  (  GP  ),  if  there  is  an  excess  or  absence  of  intermediate  particle  sizes. 
+A  well-graded  soil  has  a  reasonably  large  spread  between  the  largest  and 
+the  finest  particles  and  has  no  marked  deficiency  in  any  size.  If  the  soil 
+obviously  is  dirty,  the  classification  will  be  either  (c)  silty  gravel  (  GM  ),  if 
+the  fines  have  little  or  no  plasticity;  or  (d)  clayey  gravel  (  GC  ),  if  the  fines 
+are  of  low  to  medium  or  high  plasticity  (  sec  3,2.2  ). 
+
+3.4*2  Sandy  Soils  —  If  the  percentage  of  sand  is  greater  than  gravel,  the 
+soil  is  a  sand.  The  same  procedure  is  applied  as  for  gravels  except  that  the 
+word  sand  replaces  gravel  and  the  symbol  S  replaces  G.  The  group  classi- 
+fication for  the  clean  sands  will  be  either :  (a)  well-graded  sand  (  SW  )  or 
+
+(b)  poorly-graded  sand  (  SP  ),  and  the  dirty  sands  shall  be  classified  as 
+
+(c)  silty  sand  (  SM  ),  if  the  fines  have  little  or  no  plasticity;  or  (d)  clayey 
+sand  (  SO),  if  the  fines  are  of  low  to  medium  or  high  plasticity  (  see  3*2«2  ). 
+
+3.4.3  Boundary  Classijicalion  for  Coarse-Grained  Soils  —  When  a  soil  possesses 
+characteristics  of  two  groups,  e**her  in  particle  size  distribution  or  in  plasti- 
+city, it  is  designated  by  combinations  of  group  symbols.  For  example^ 
+a  well-graded  coarse-grained  soil  with  clay  binder  is  designated  by  GWGC. 
+
+3.4.3.1  Boundary  classifications  can  occur  within  the  coarse-grained 
+soil  division,  between  soils  v^ithin  the  gravel  or  sand  grouping,  and  between 
+gravelly  and  sandy  soils.  Tlie  procedure  is  to  assume  the  coarser  soil,  when 
+there  is  a  choice,  and  complete  the  classification  and  assign  the  propcf 
+group  symbol;  then,  beginning  where  the  choice  was  made,  assume  a  finer 
+soil  and  complete  the  classification,  assigning  the  second  group  symbol. 
+
+3.4*3.2  Boundary  classifications  within  gravel  or  sand  groups  can 
+occur.  Symbols  such  as  GW-GP,  GM-GC,  GW-GM,  GW-GC,  SW-SP, 
+SM-SC,  SW-SM  and  SW-SC  are  common. 
+
+3.4.3.3  Boundary  classifications  can  occur  between  tjie  gravel  and  sand 
+groups.  Symbols  such  as  GW-S\V,  GP-SP,  GM-SM  and  GC-SC  are 
+common. 
+
+3.4.3.4  Boundary  classifications  can  also  occur  between  coarse  and  fine 
+grained  soils.     Classifications  such  as  SM-ML  and  SC-CL  are  coounoo* 
+
+3.4.4  Descriptive  Information  for  Coarse-Grained  Soils  —  The  following  des- 
+criptive information  shall  be  recorded  for  coarse -grained  soils: 
+
+a)  Typical  name; 
+
+b)  Maximum  size,   and   fraction   larger  than   80  mm  in  the  UAal 
+material; 
+
+c)  Percentage  of  gravel,  sand  and  fines  in  the  soil  or  firacdoii  6i  wA 
+
+smaller  than  80  mm; 
+
+d)  Description  of  average  size  of  sand  of  gravel; 
+
+
+l8tl4M.1970 
+
+e)  Shape  of  the  particles — angular,  subangular,  subrounded,  rounded ; 
+
+f)  The  surface  coatings,  cementation  and  hardness  of  the  particles  and 
+possible  breakdown,  when  compacted; 
+
+g)  The  colour  and  organic  content; 
+h)  Plasticity  of  fines; 
+
+j)  Local  or  geologic  name,  if  known;  and 
+k)  Group  symbol. 
+
+3.4.5  Fine-Grained  Soils  —  If  it  has  been  determined  that  the  soil  is  fine- 
+grained, it  is  further  identified  by  estimating  the  percentage  of  gravel,  sand^ 
+silt  and  clay  size  particles  and  performing  the  manual  identification  tests 
+for  dry  strength,  dilatancy,  and  toughness.  By  comparing  the  results  of 
+these  tests  with  the  requirements  g'ven  for  the  nine  fine-grained  soil  groups, 
+the  appropriate  group  name  and  symbol  is  assigned.  The  same  procedure 
+is  used  to  identify  the  fine-grained  fraction  of  coarse-grained  soil  to  deter- 
+mine whether  they  are  silty  or  clayey. 
+
+3.4.6  Manual  Identification  Tests  —  The  following  tests  for  identifying  the 
+fine-grained  soils  shall  be  performed  on  the  fraction  of  the  soil  finer  than 
+the  425-micron  IS  Sieve: 
+
+a)  Dilatancy  (  reaction  to  shaking )  —  Take  a  small  representative  sample 
+in  the  form  of  a  soil  pat  of  the  size  of  about  5  cubic  centimetres  and 
+add  enough  water  to  nearly  saturate  it.  Place  the  pat  in  the  open 
+palm  of  one  hand  and  shake  horizontally,  striking  vigorously  agamst 
+the  other  hand  several  times.  Squeeze  the  pat  between  the  fingers. 
+The  appearance  and  disappearance  of  the  water  with  shaking  and 
+squeezing  is  referred  to  as  a  reaction.  This  reaction  is  called  quick, 
+if  water  appears  and  disappears  rapidly;  slow,  if  water  appears  and 
+disappears  slowly;  and  no  reaction,  if  the  water  condition  does  not 
+appear  to  change.  Observe  and  record  type  of  reaction  as  des- 
+criptive information. 
+
+b)  Toughness  (  consistency  near  plastic  limit )  —  Dry  the  pat  used  in  the 
+dilatancy  test  by  working  and  moulding,  until  it  has  the  consis- 
+tency of  putty.  The  time  required  to  dry  the  pat  is  the  indication 
+of  its  plasticity.  Roll  the  pat  on  a  smooth  surface  or  between  the 
+palms  into  a  thread  about  3  mm  in  diameter.  Fold  and  reroll  the 
+thread  repeatedly  to  3  mm  in  diameter  so  that  its  moisture  content 
+is  gradually  reduced  until  the  3  mm  thread  just  crumbles.  The 
+moisture  content  at  this  time  is  called  the  plastic  limit  and  the 
+resistance  to  moulding  at  the  plastic  limit  is  called  the  toughness. 
+After  the  thread  crumbles,  lump  the  pieces  together  and  continue 
+the  slight  kneading  action  until  the  lump  crumbles.  If  the  lump 
+can  sull  be  moulded  slightly  drier  than  the  plastic  limit  and  if  h%h 
+pressure  is  required  to  role  the  thread  between  the  palms  of  the 
+fiand^  the  soil  is  described  as  having  high  toughness.    Medium 
+
+8 
+
+
+ISsl49e.l970 
+
+toughness  is  indicated  by  a  medium  thread  and  a  lump  formed  of 
+the  threads  slightly  below  the  plastic  limit  will  crumble;  while  low 
+toughness  is  indicated  by  a  weak  thread  that  breaks  easily  and  can- 
+not be  lumped  together  when  drier  than  the  plastic  limit.  Highly 
+organic  clays  have  very  weak  and  spongy  feel  at  the  plastic  limit. 
+Non-plastic  soils  cannot  be  rolled  into*thread  of  3  mm  in  diameter 
+at  any  moisture  content.  Observe  and  record  the  toughness  as 
+descriptive  information. 
+
+c)  Dfy  strength  (  crushing  resistance  )  —  Completely  dry  the  prepared  soil 
+pat.  Then  measure  its  resistance  to  crumbling  and  powdering 
+between  fingers.  This  resistance,  called  dry  strength,  is  a  measure 
+of  the  plasticity  of  the  soil  and  is  influenced  largely  by  the  colloidal 
+fraction  content.  The  dry  strength  is  designated  as  low,  if  the  dry 
+pat  can  be  easily  powdered;  medium,  if  considerable  finger  pressure 
+IS  required  and  high,  if  it  cannot  be  powdered  at  all.  Observe  and 
+record  the  dry  strength  as  descriptive  information. 
+
+NoTB  —  The  presence  of  high-strength  water  soluble  cementing  materials, 
+such  as  calcium  carbonates  or  iron  oxides  may  cause  high  dry  strength.  Non- 
+plastic  soils,  such  as  caliche,  coral,  crushed  lime  stone  or  soils  containing 
+carbonaceous  cementing  agents  may  have  high  dry  strength,  but  this  can  be 
+detected  by  the  effervescence  caused  by  the  application  of  diluted  hydrochloric 
+acid. 
+
+d)  Organic  content  and  colour  —  Fresh  wet  organic  soils  usually  have  a 
+distinctive  odour  of  decomposed  organic  matter.  This  odour  can 
+be  made  more  noticeable  by  heating  the  wet  sample.  Another 
+indication  of  the  organic  matter  is  the  distinctive  dark  colour.  In 
+tropical  soib,  the  dark  colour  may  be  or  may  not  be  due  to  organic 
+matter;  when  not  due  to  organic  matter,  it  is  associated  with  poor 
+drainage.  Dry  organic  clays  develop  an  earthy  odour  upon 
+moistening,  which  is  distinctive  from  that  of  decomposed  organic 
+matter. 
+
+e)  Other  identification  tests 
+
+1)  Add  test  —  Acid  test  using  dilute  hydrochloric  acid  (  HCl  )  is 
+primarily  a  test  for  the  presence  of  calcium  carbonate.  For 
+soils  with  high  dry  strength,  a  strong  reaction  indicates  that 
+the  strength  may  be  due  to  calcium  carbonate  as  cementing 
+agent  rather  than  colloidal  clay.  The  results  of  this  test  should 
+be  included  in  the  soil  description,  if  i>ertinent. 
+
+2)  Shine  test  —  This  is  a  quick  supplementary  procedure  for 
+determining  the  presence  of  clay.  The  test  is  performed  by 
+cutting  a  lump  of  dry  or  slightly  moist  soil  with  a  knife.  The 
+shiny  surface  imparted  to  the  soil  indicates  highly  plastic  clay^ 
+while  a  dull  surface  indicates  silt  or  clay  of  low  plasticity. 
+
+3)  Miscellaneous  test  —  Other  criteria  undoubtedly  may  be  deve- 
+loped by  the  individual  as  he  gains  experience  in  classifying 
+
+9 
+
+
+ISs  1498-1970 
+
+the  soils.  For  example,  differentiation  between  some  of  the 
+fine-grained  soils  depends  largely  upon  the  experience  in  the 
+feel  of  the  soils.  Also  wet  clay  sticks  to  the  fingers  and  dries 
+slowly  but  silt  dries  fairly  quickly  and  can  be  dusted  off  the 
+fingers  leaving  only  a  stain.  Frequent  checking  by  laboratory 
+tests  is  necessary  to  gain  this  experience. 
+
+3»4*7  Boundary  Classification  for  Fine- Grained  Soils  —  Boundary  classifications 
+can  occur  within  the  fine-grained  soil  divisions,  between  low  and  medium 
+or  between  medium  and  high  liquid  limits  and  between  silty  and  clayey 
+soils.  The  procedure  is  comparable  to  that  given  for  coarse-grained  soils 
+( see  3 A3 ),  that  is,  first  assume  a  coarse  soil,  when  there  is  a  choice,  and 
+then  a  finer  soil  and  assign  dual  group  symbols.  Boundary  classifications 
+which  are  common  arc  as  follows: 
+
+ML-MI,  CL-CI,  OL-OI,  MI-MH,  GI-GH,  OI-OH,  CL-ML,  ML-OL, 
+CL-OL,  CI-MI,  MI-OI,  CI-OI,  MH-CH,  MH-OH,  and  CH-OH. 
+
+3.4.8  Very  Highly  Organic  Soils  —  Peat  or  very  highly  organic  soils  may  be 
+readily  identified  by  colour,  sponginess  or  fibrous  texture. 
+
+3.4.9  Descriptive  Information  for  Fine-Grained  Soils  —  The  following  descrip- 
+tive information  shall  be  recorded  for  fine-grained  soils: 
+
+a)  Typical  name; 
+
+b)  Percentage  of  gravel,  sand  and  fines; 
+
+c)  Colour  in  moist  condition  and  organic  content; 
+
+d)  Plasticity  characteristics; 
+
+c)  Local  or  geologic  name,  if  known;  and 
+f)  Group  symbol. 
+
+3.4.10  Description  of  Foundation  Soils  —  The  following  information  shall  be 
+recorded  to  define  the  in-place  condition  of  soils  which  are  to  be  utilized 
+as  foundation  for  hydraulic  or  other  structures: 
+
+a)  For  coarse-grained  soils: 
+
+1)   Natural  moisture  content  (  as  dry,  moist,  wet  and  saturated  ); 
+?)   Pcrviousness  or  drainage    properties  in  the  natural  condition; 
+3)   Structure   (as  stratified,    uniform,    uncemented,    lensed;    and 
+attitude,  that  is,  strike  and  dip  ) ; 
+
+4}  Type  and  degree  of  cementation;  and 
+
+5)   Degree  of  compactness  (  as  loose  or  dense  ). 
+
+b)  For  fine-grained  soils: 
+
+1)  Natural  moisture  content  (  as  dry,  moist,  wet  and  saturated ); 
+
+2)  Pcrviousness  or  drainage  properties; 
+
+10 
+
+
+IStl4M-lf7» 
+
+3)  Structures  ( as  stratifiedi  homogenous,  varved^  honeycomb, 
+root-holes,  blocky,  fissured,  lenscd;  and  attitude,  that  is,  strike 
+and  dip  ).     The  thicirness  of  lenses,  fissures,  etc,  shall  be  noted; 
+
+4)  Type  and  degree  of  cementation;  and 
+
+5)  Consistency  (very  sofl,  soft,  firm,  hard,  very  hard,  sticky, 
+brittle,  friable  and  spongy  ). 
+
+NoTB  —  The  cofMiitcncy  and  the  compactness  of  undisturbed  soil  should  be 
+defined  clearly  from  the  consistency  of  the  soil  when  disturbed  and  manipulated. 
+For  example,  a  very  thick  stratum  of  hard,  dense  shale  or  pre>consolidated  clay 
+of  high  bearing  capacity,  not  requiring  piling,  may  be  correctly  classified  as  a  £it 
+clay  (  CH )  of  high  plasticity.  Obviously  the  classification  without  description 
+of  undisturbed  condition  might  cause  the  interpreter  to  erroneously  conclude 
+that  it  is  soft  and  plastic  in  its  natural  state. 
+
+3.5  Labcnrmtory    Identificat&oii  and  Clmgsificatiosi  Procedure  —  The 
+
+laboratory  method  is  intended  for  precise  delineation  of  tlie  soil  groups  by 
+using  results  of  laboratory  tests,  for  gradation  and  moisture  limits,  rather 
+than  visual  estimates.  Classification  by  these  tests  alone  does  not  fulfil  the 
+requirements  for  complete  classification,  as  it  does  not  provide  an  adequate 
+description  of  the  soil.  Therefore,  the  descriptive  information  required  for 
+the  field  method  should  also  be  included  in  the  laboratory  classification. 
+
+3.5.1  Classification  Criteria  for  Coarse-Grairud  Soils  —  The  laboratory  classi- 
+fication criteria  for  classifying  the  coarse-grsdned  soils  are  inven  in  Tables 
+3  aud  4. 
+
+3«5«2  Boundary  Classification  for  Coarse-Grained  Soils  —  The  coarse-grained 
+soils  containing  between  5  and  12  percent  of  fines  are  classified  as  border- 
+line cases  between  the  clean  and  the  dirty  gravels  or  sands  as  for  example, 
+GW-GC,  or  SI^-SM.  Similarly  border-line  cases  might  occur  in  dirty 
+gravels  and  dirty  sands,  where  the  /,  is  between  4  and  7  as,  for  example, 
+GM-GC  or  SM-SC.  It  is  possible,  therefore,  to  have  a  border  Une  case  of 
+a  border  line  case.  The  rule  for  correct  classification  in  this  case  is  to 
+favour  the  non-plastic  classification.  For  example,  a  gravel  with  10  percent 
+fines,  a  Cu  of  20,  a  Cc  of  20  and  /,  of  6  would  be  classified  GW^GM  rather 
+than  GW-GC  (  /,  is  the  plasticitv  index  of  the  soil ). 
+
+3*5.3  Classification  Criteria  for  Fine-Grained  Soils  —  The  laboratory  classi- 
+fication criteria  for  classifying  the  fine-grained  soils  are  given  in  the 
+plasticity  chart  shown  in  Fig.  1  and  Table  4.  The  '  A  '  line  has  the  following 
+linear  equation  between  the  liquid  limit  and  the  plasticity  index: 
+
+/,  «  0-73  {wi,- 20) 
+
+where 
+
+/p  •"•  plasticity  index,  and 
+wl  «"  liquid  Umit. 
+
+11 
+
+
+IS:  1498*  1970 
+
+so 
+
+a 
+
+S    «0 
+
+
+t:    30 
+
+Si 
+i    20 
+
+
+10 
+
+7 
+4 
+
+
+/' 
+
+CM 
+
+y\ 
+
+W^ 
+
+eSO 
+
+ki 
+
+r 
+
+"^ 
+
+>39 
+
+Ct 
+
+/I 
+
+CL 
+
+/ 
+
+y^ 
+
+MH  <M  OH 
+
+1 
+
+I-Z; 
+
+Mt 
+
+^ 
+
+IL 
+
+MI  on  01 
+
+1 
+
+20         30        40         SO        60         70 
+LIQUID  LIMIT,  ^l 
+
+Pio.  1     Plasticity  Chart 
+
+
+•0 
+
+
+90 
+
+
+^0 
+
+
+3.5.3.1  Organic  silts  and  clays  are  usually  distinguished  from  in- 
+organic siltF  which  have  the  same  position  on  the  plasticity  chart,  by  odour 
+and  colour.  However,  when  the  organic  content  is  doubtful,  the  material 
+can  be  oven  dried,  remixed  with  water,  and  rctested  for  liquid  limit.  Th^^ 
+plasticity,  of  fine-grained  organic  soils  is  greatly  reduced  on  oven  drying, 
+owing  to  irreversible  changes  in  the  properties  of  the  organic  material. 
+Oven  drying  also  affects  the  Uquid  limit  of  inorganic  soils,  but  only  to  a 
+small  degree.  A  reduction  in  liquid  limit  after  oven  drying  to  a  vduc  less 
+than  three-fourth  o^'  the  liquid  limit  before  oven  drying  is  positive  identifi- 
+cation of  organic  soils. 
+
+3.5.4  Bowidary  Classification  for  Fine-Graiud  Soils  —  The  fine-grained  soib 
+whose  plot  on  the  plasticity  chart  falls  on,  or  practically  on: 
+
+a)  MMine 
+
+b)  '  a;£.  =  35  '  line 
+
+c)  'wi  —  bO'  line 
+
+shall  be  assigned  the  proper  boundary  classification.  Soils  which  plot  above 
+the  *  A  '  line,  or  practically  on  it,  and  which  have  plasticity  index  between 
+4  and  7  arc  classified  ML-CL. 
+
+3.6  Black  Cotton  Soils  —  Black  cotton  soils  arc  inorganic  clays  of  medium 
+to  high  compressibility  and  form  a  major  soil  group  in  India.  They  arc 
+predominantly  montmorillonitic  in  structure  and  black  or  blackish  grey  in 
+colour.  They  arc  characterized  by  high  shrinkage  and  swelling  properties. 
+The  majority  of  the  soils,  when  plotted  on  the  plasticity  chart,  Ce  along  a 
+
+
+12 
+
+
+IStl4M-1970 
+
+band  above  the  *  A^  line.  The  plot  of  some  of  the  black  cotton  soils  is 
+also  found  to  lie  below  the  *  A  '  line.  Care  should  therefore  be  taken  in 
+classifying  such  soils. 
+
+3.7  Some  other  inorganic  clays,  such  as  kaolin,  behave  as  inorganic  silts 
+and  usually  lie  below  t!ie  '  A  '  line  and  shall  be  classified  as  such  (  ML, 
+MI,  MH  ),  although  they  arc  clays  from  mincralogical  stand-point. 
+
+3.8  Relative  Suitability  for  General  Engineering  Purposes  —  Table  5 
+gives  the  characteristics  of  the  various  soil  groups  pertinent  to  roads  and 
+airfields.  Table  6  gives  the  characteristics  pertinent  to  embankments  and 
+foundations.  Table  7  gives  the  characteristics  pertinent  to  suitability  for 
+canal  section:*,  compressibility,  workability  as  a  construction  material  and 
+shear  strength.  The  information  given  in  these  tables  should  be 
+considered  as  a  guidance  only  for  treating  a  soil  for  a  particular  engineer- 
+ing purpose. 
+
+
+13 
+
+
+I8il4M-1970 
+
+
+TABLE  1    BASEC  SOIL  COMPONENTS 
+
+( damt  3.3.^  ) 
+
+
+No. 
+
+Soa 
+
+Soil  Com- 
+
+POIfBNT 
+
+Symbc 
+
+(«) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+i) 
+
+Coane*grained 
+componenu 
+
+Boulder 
+
+None 
+
+Cobble 
+
+
+Gravel 
+
+
+None 
+
+
+Sand 
+
+
+ii)     Fine-grained 
+componenu 
+
+
+Silt 
+
+
+Qay 
+
+
+Organic 
+matter 
+
+
+M 
+
+
+Partigle-Si£b  Ranob 
+
+AND  DlSClUPTlOlt 
+
+(3) 
+
+Rounded  to  angular,  bulky,  hard,  rock 
+particle;  average  diameter  more  Chan 
+300  mm 
+
+Rounded  to  angular,  bulky,  hard,  rock 
+particle;  average  diameter  smaller  than 
+300  mm  but  retained  on  80-mm  IS  Sieve 
+
+Rounded  to  angular,  bulky,  hard,  rock 
+particle;  passing  80>mm  IS  Sieve  but 
+retained  on  4*75-nrun  IS  Sieve 
+
+Coarse :  80-nun  to  20-mm  IS  Sieve 
+Fine :  20-mm  to  4'75-mm  IS  Sieve 
+
+Rounded  to  angular,  bulky,  hard,  rock 
+particle;  passing  4'75-mm  IS  Sieve  but 
+retained  on  75-micron  IS  Sieve 
+
+Coarse  :  4*75-mm  to  2'0-mm  IS  Sieve 
+Medium  :  2 *0-mm  to  425-micron  IS  Sieve 
+Fine        :  425-micron  to  75-micron  IS  Sieve 
+
+Particles  smaller  than  75-micron  IS  Sieve; 
+identified  by  behaviour,  that  is,  slightly 
+plastic  or  non-plastic  regardless  of  mois- 
+ture and  exhibits  little  or  no  strength 
+when  air  dried 
+
+Particles  smaller  than  75-micron  IS  Sieve; 
+identified  by  behaviour,  that  is,  it  can  be 
+made  to  exhibit  plastic  properties  within 
+a  certain  range  of  moisture  and  exhibits 
+considerable  strength  when  air  dried 
+
+Organic  matter  in  various  sizes  and  stages 
+of  decomposition 
+
+
+Note  —  A  comparison  between  the  size  classifications  of  IS :  1498-1959  *  Classification 
+and  identification  of  soils  for  general  engineering  purposes  *  and  the  present  revision  is 
+shown  in  Appendix  A. 
+
+
+14 
+
+
+if  Hi 
+
+
+mi  mm  'm 
+?ii  lilii  Sill! 
+
+
+ISs  14M.1970 
+
+
+1 
+
+s 
+1 
+
+
+17 
+
+
+HIGHLY  ORGANIC  SOILS 
+
+(Put) 
+
+Fibrouilnlw,  colour,  oili»ir,my|iii;li 
+
+(iwiilu[((oiilnil,|Hrlirlno(  vendible 
+
+miller  (siiclijavfieic) 
+
+
+COARSEGRAINED 
+
+50y,i)rleii|»«IS'mitroiiISSiew 
+
+
+Ruiiiiev!ai)il|fiii 
+
+
+GRAVEL (C) 
+
+Gfejletperceiiu'eoftoaritfrjctioii 
+
+ifUindonflS-niiiilSSieve 
+
+
+LeiiiliiiiJ'/,|»H 
+IS-microii  IS  Sieve' 
+
+
+BeiwM5'/,il2'/, 
+
+pssIS-mimnll) 
+
+Sieve 
+
+
+Eumintiinii 
+liie  curve 
+
+
+More  lb  12'/,  (Si) 
+IS-riiicroi)  IS  Sieve 
+
+
+toi(ierliiic,t(iliive(loul)li 
+
+lyitiMippriiieiojnd- 
+
+in|li|)liiiicilycl»nclerisiict, 
+
+fcre«mpl«,GW.CM 
+
+
+bibStpifl 
+IS'inicroii  IS  Sieve 
+
+
+Riiii»ib,oii 
+iniiiunZkicioii 
+IS  Sieve  friciioii 
+
+
+Emmliiejnir 
+liie  curve 
+
+
+Wo* 'A' lint 
+orhiichtdioiK 
+onpliiiicilycbin 
+
+
+Limiiiploiiri 
+UcMzoneon 
+plaslicilycliiri 
+
+
+Above 'A' line 
+iiidbilcym 
+oopltiliciiycluri 
+
+
+imm 
+
+
+TANK  AIlXllilllYLllOXATORyilSNTinGATIONnmilE 
+
+{dmrnm] 
+
+
+Milt  visual  euHtioii  of  mil  10  dcltHwlKlliirllli 
+HICHLYORCANIC,  COARSE  GRAINED  OR  FIGRAINED-, 
+in  borderline  caiei  deiermine  amnt  pu>iii|  lUm  IS  Sitvt 
+
+
+FINEGRAINED 
+
+More  ihu'SO'/,|ii»Ucron  IS  Sieve 
+
+
+Runivibionininui 
+llkicion  IS  Sieve  fliaiefial 
+
+
+SAND(S) 
+
+Greater  peiceniije  of  coane 
+frKiion  pan  Wkni  IS  Sieve 
+
+
+Li(|uiiiliinilleiiihanU 
+
+
+Ileiwen5%iil2'/, 
+
+piMlkicmnlS 
+
+Sieve 
+
+
+More  lb  12*/,  pais 
+Ikiicron  IS  Sieve 
+
+
+Borderline,  to  litve  double 
+
+symbol  appnpriite  10  ;rad- 
+
+irijimd  plasticity  cbcterisiics 
+
+for  example,  SW-SM 
+
+
+Below 'A' line 
+orkyzonc 
+on  plasticity  cbart 
+
+
+Run  w/ hi,  on 
+
+iiiiiiiijfil'microii 
+IS  Sieve  fraciion 
+
+
+Pdy 
+
+
+Below 'A' line 
+or  Wed  w 
+on  plasticity  dun 
+
+
+Li(|uid  limit  between  P 
+
+
+Limits  ploi  in 
+latcWwi'ii 
+plasticity  chart 
+
+
+Colour,  odour,  possibly 
+
+iiiiandw,oiioven 
+
+dry  soil 
+
+
+Limits  plot  in 
+batckdzoneon 
+pbiticiiycbiri 
+
+
+Above'A'line 
+and  hatclied  tone 
+on  plasticity  cbari 
+
+
+Iiorjanic      Orjanic 
+
+
+Above'A'line 
+and  batched  lone 
+on  plasticity  chart 
+
+
+Lli|iiidliiiiii||niitrtbil) 
+
+
+Below 'A' Line  on 
+plaiticiiy  chart 
+
+
+Above ''A' Line 
+on  plasticity  chart 
+
+
+Colour,  odour,  possibly 
+
+i«iandu<,onoveii 
+
+dry  soil 
+
+
+Inorganic     Orjanic 
+
+
+Helow'A'Lineon 
+plasticity  chart 
+
+
+Above 'A' Line 
+on  plasticity  chin 
+
+
+Colour,  odour,  pooibly 
+
+u'l  and  It,  on  oven 
+
+dry  soil 
+
+
+0BSB000       S   0000    0   000    00    0 
+
+
+•inliijiiid  limit,      iiiyaplaalicliiDiL 
+•IfSntiinltrfere  with  free  drjinajepwideaiiK  double  symbol,  diiaGW-GM, 
+
+
+ttil4N.1979 
+
+
+TABLE  5  dURACTEMSTICS  RRtlNENT  TO  ROAM  AND  AOUniLDI 
+
+(atuut  3.8) 
+
+
+Ion.      Vuos  Ai  Svs*  Vauis  ai  Svb*  Value  ai  Baii           PoninuL        CouruntBiuTy 
+
+Glow     OtAMWHtN  NOT  BaSE  WHBN  NOT  WHIN  NOT  SUB'            pROir  ACTION           AND  EXPANSION 
+
+SinjBGTTO          Subject  TO  jbottoFroit 
+
+F»oiT  Action  F»o»t  Action  Action 
+
+
+(I)  (2) 
+
+3W       Excellent 
+
+
+(3) 
+Excellent 
+
+
+(♦) 
+
+
+(5) 
+
+
+(6) 
+
+
+None     to    very      Alrooitnone 
+slight 
+
+
+GP        Good  to  excellent   Good 
+
+
+'d  Good  to  excellent    Good 
+
+
+GM 
+
+
+F«irtogooo        None     to     very      Almost  none 
+slight 
+
+
+Fair  to  good        Slight  to  medium      Very  slight 
+
+
+.u  Good 
+
+I  GO        Good 
+
+|SW        Good 
+
+]  SP        Fur  to  good 
+
+\        (i  Fair  to  good 
+isMJ 
+
+loFair 
+
+ISC         Poor  to  fair 
+
+^  MI  Poor  tc  bir 
+
+
+Fair 
+
+Fair 
+
+Fair  to  good        Poor 
+
+Fair 
+
+Fair  to  good        Poor 
+
+
+Poor  to  not         Slight  to  medium      Slight 
+ndtable 
+
+Poor  to  not         Slight  to  mediiun      Slight 
+luiuble 
+
+
+None     to     very      Almoitnone 
+slight 
+
+Poor  to  not         None     to     very      Almost  none 
+suiuble  slight 
+
+
+Slight 
+
+
+high       Very  light 
+
+
+DtAiNAOi  CoMPAonoN  E^^umuNT        UNtrDiY     GBR       Stn-GtAOE 
+
+Cti.vRACTEaurict  Weiort     Value       MoDt;Lus 
+
+g/cm»      Percent    (*)  kg/cm* 
+
+(7)  (8)  (9)  (10)  (11) 
+
+Excellent  Crawler-typt    tractor,    rubber-     2-00.2-24     4040         8-H3ft4 
+
+tyred    roller,    steel-wheeled 
+ruiler 
+
+Excellent  Orawier-type    tractor,    rubber-     1-76-224     30-60  83-lS'84 
+
+tyred     roller,    steel-wheeled 
+roller 
+
+Fair  to  poor  Rubber-tyred     roller,    shecps-     2'00-2'32     40-60  8'3.13'84 
+
+foot  roller,  close  control  of 
+moisture 
+
+Poor  to  practically   Rubber-tyred     roller,     sheeps-     184-216     20-30  5-53-83 
+
+imperviout  foot  roller 
+
+Poor  to  practically   Rubber-tyred     roller,     shcepi-     208-2-32     20-40  5-53-83 
+
+impervious  foot  roller 
+
+Fjtcellent 
+Excellent 
+Fair  to  poor 
+
+
+Crawler-type    tractor,    rubber-     I76.2-08     20-40        553-1 1-07 
+tyred  roller 
+
+Crawler-type    tractor,    rubber-     r68-2i6     10-40        415-1107 
+tyred  roller 
+
+Rubbcr-tyred     roller,     sheeps-     192-216     15-40         4-15-1 1-07 
+foot  roller,  close  control  of 
+moisture 
+
+Poor  to  fair         Not  suitable        Slinht     to     high      Slight  to  medium   Poor  to  practically   Rubbcr-tyred  roller,  shecps-foot     r60-2-08     10-20  2-77-83 
+
+impervious  roller 
+
+Poor  Not  suitable         Slight     lo     high      Slight  to  medium    Poor  to  practically    Rubber-tyred     lollcr      .hceps-     160-2i6       5-20         2'77.8-3 
+
+impervious  foot  roller 
+
+
+Not  suitable         Not  suiuble         Medium   to   very      Slight  to  medium    Fair  to  poor 
+
+
+^CI    Poor  to  fair  Not  suitable         Not  suiuble         Medium  to  hiEh      Medium 
+
+OL,OI  Puor  Not  suitable         Not  suitable         Medium  to  high      Medium  to  high       Poor 
+
+MH       Poor  Not  suiuble         Not  suiuble         Medium  to   vcr)       High  Fair  to  poor 
+
+high 
+
+CH         Poor  to  fair  Not  suitable         Not  tuitablr         N!rdium  High 
+
+OH        Poor  to  very  poor    Not  suiuble        Not  suitable         Medium  High 
+
+vioui 
+
+Pt  Not  tuiublc  Not  suitable        Not  suitable         Slight  Very  high  Fair  to  poor 
+
+
+Rubber-tvred     roller,     sheep?-      r44-2-0a    15  or  less      2-77-5-53 
+foot  roller,  close  control  of 
+moisture 
+
+Practically     imper-    Rubbcr-tyred     lullr,     sheeps-     r44-208    15 oriels      1'38-415 
+vious  foot  roller 
+
+
+Rubber-tyred     roller,     sheeps-      1  ■44- 1  "68      5  or  leu      r38-2'77 
+foot  roller 
+
+Sheeps-foot   roller,   rubber-tyred     l'28-r68    10  or  less     1  •38-277 
+roller 
+
+Practically    iniptr-      Shccps-fool    roller,    rubbcr-tyred      M4-1 84     13  or  lens      138-415 
+vious  roller 
+
+Practically     imper-    Sheeps-foot   roller,   rubber-tyred     1 28-1 76     5  or  less     0'69-2'77 
+vioui  roller 
+
+Compaction  not  practical  _  _  _, 
+
+
+Nor  1  —  tiolunn  1 :  Dtvitton  of  GM  tnd  SM  groups  into  sub^iivision  of  d  and  u  are  for  roads  and  airfields  only;  sub-division  is  on  basis  of  Atterbetg  limiu;  sufHx  d  ( for  example  GM  d  )  will  be 
+uied  when  the  liquid  limit  ii  25  or  leu  and  the  plasticity  index  is  5  or  lets;  the  suffix  u  will  be  used  otherwise. 
+
+Norn  2— The  equipment  listed  in  col  8,  will  jiually  produce  the  required  densities  with  a  »casonable  number  of  passes  when  moisture  condition  and  thickness  of  layer  arc  properly  controlled, 
+la  KMM  iastancei,  several  types  of  equipment  arc  lilted  bMause  variable  soil  characteristics  within  a  given  soil  group  may  require  different  equiprncnt.  In  some  instancdi,  a  combination  of  two  types 
+«iy  be  necenary. 
+
+»)  Pnctutd  hut  mUmhi  tihtr  MfiJaT  moUruih  —  Steel->^  heeled  and  rubber-t>red  rollers  are  recommended  for  hard,  angular  materials  with  limited  fine*  or  screenings.  Rubbcr-tyred 
+equipment  it  recofflmended  for  softer  materials  subject  to  degradation. 
+
+b)  fiMiAuv-- Rubber-tyred  equipment  is  recommended  for  rolling  during  fmal  shapmg  operations  for  most  soils  and  processed  materiab. 
+
+c)  EaiubmnUSUt  —  'tht  following  lites  of  equipment  are  nectuary  to  assure  the  high  densities  required  for  airfield  construction:  Crawler-type  tractor:  Total  weight  in  excess  of 
+IS  600kg.  Rubber-tyred  equipment:  Wheel  load  in  exeei*  of  6  800  kg,  wheel  loads  u  high  as  18  100  kg  may  be  necessary  to  obtain  the  require^  densitia  for  some  materials 
+( bued  on  contact  pre»ure  of  approximately  4'57  to  10*5  kg/cm* ).  Sheeps-foot  roller:  Unit  pressure  ( on  387  to  774  cm> )  to  be  in  excess  of  175  kg/cm*  and  unit  pressure  as 
+lu|h  u  46  kg/cm»  may  be  necessary  to  obuin  the  required  densities  for  some  materials.  The  area  of  the  feet  should  be  at  least  5  percent  of  the  total  peripheral  area  of  die  drums 
+uiuig  the  diameter  measured  to  the  face  of  the  feet. 
+
+N«n  S  -  Unit  dry  weighu  in  column  9  arc  for  completed  soil  at  optimum  moiiture  content  for  Indian  Sundud  neavy  compaction  effort  [  im  IS :  2720  ( Part  VIII  )-1965*  ]. 
+
+Nfn4— Goluna  10:  The  maximum  value  that  can  be  used  is  doiga  of  airfieldi,  ii  in  tome  cues,  limited  by  gradation  and  plasticity  requirements.  The  values  are  represenutive  of  saturated 
+m  Muly  Mturated  ooaditiou. 
+
+*llllhl4i •( lot forioik :   Pkrt VIII Dctermioatioo of mokture  content-dry deuity  reUtkxMhip utinf  heavy compacUo<i. 
+
+
+21 
+
+
+ttiimaiTO 
+
+
+SoilGkow 
+
+(J) 
+CW 
+
+GP 
+
+GM 
+
+GC 
+SW 
+SP 
+
+SM 
+
+
+a,  CI 
+
+OL,OI 
+
+MH 
+CH 
+OH 
+Pi 
+
+
+TASLE  6  dHARACinurnCS  FIRIINENT  TO  EMBANXMINn  AND  lOUNDAllONS 
+
+(a«t»3.8) 
+
+
+VM.oior 
+
+
+(2) 
+
+
+PuuoAiiury 
+
+cm/i 
+
+(3) 
+
+
+CoupAonoN  Cmaxaoteimmp 
+
+
+(4) 
+
+
+JmtDry 
+
+Vaiotw 
+
+RlQinUMURI 
+
+WmifT 
+
+FOONDATIOll 
+
+WkUxHM 
+
+l/m* 
+
+OONIIOt 
+
+(5) 
+
+
+(6) 
+
+
+(7) 
+
+
+Very  lUble;  pervioui  ihdli  of  dikes  and  duni      K  >  1(H  Good;  tractor,  rubber  tyred,  iteel-wheded        2'00-2'16  Good  bearing  value       Podtive  cutoff 
+
+roller  ' 
+
+
+ReaMiably  luUe,  pervioui  ihdli  of  dikes     K  >  1(H 
+
+
+1'84>200 
+
+
+Rttwubly  ttible;not  particularly  tuited     K«1H         Good;  with  doie  coatrol,  rubbe^tyred,        l'92-2-16 
+to  ibells,  but  may  be  uied  for  impervioui        to  t(H  ibeq»foot  roller 
+
+com  or  Uanketi 
+
+
+Fairiy  itable;  may  be  used  for  impervioui     K  « 10 
+OOR  to  l(h^ 
+
+
+Fair;  rubber-tyred,  ihcepi-ibot  roller 
+
+
+Very  itable:  pervioui  lectiooi,  ilope  protec'  K  >  1(H         Good;  tractor 
+tko  required 
+
+Reawoably  suble;  may  be  uied  in  dike  K  >  10-*         Good;  trKtor 
+Kctioa  with  flat  ilopa 
+
+Fairly  itaUe;  not  particulariy  luited  to  K « 10'*  Good;   with  doie  coatrol,   rubber-tyred, 
+
+shelli,  but  may  be  uied  for  impervioui        to  1(H  iheepi-foot  roller 
+
+cora  or  dikes 
+
+SO  Fairiy  stable;  use  for  impervious  core  for  K  "  IH         Fair;  ibeepi-foot  roller,  rubber  tyred 
+
+flood  control  structures  to  l(H 
+
+ML,  MI         Poor  subility;  may  be  used  for  embank-  K  *  KT*  Good  to  poor,  doie   control  essential; 
+
+ro«nts  with  proper  control  to  IH  rubbc^tyr«d  roller,  sheepi-foot  tolh 
+
+
+Suble;  impen'ious  cores  and  blankrti 
+Not  suitable  for  embankmenu 
+
+
+K-1(H 
+tollH 
+
+
+Fair  to  good;  sheepi-foot  roller,  rubber- 
+tyred 
+
+
+K  <•  1(H  Fair  to  poor;  iheepi'foot  roller 
+
+toJH 
+
+
+Poor  stability;  core  of  hydraulic  fill  dams  K  « 1(H          Poor  to  very  poor;  sheeps-foot  nia 
+
+not  desirable  in  rolled  nil  construction  to  l(H 
+
+Fair  stability  with  flat  %\o^;  thin  cores,  K  ••  1(H         Fair  to  poor;  sheep»>foot  roller 
+
+blanket!  and  dike  sections  to  1(H 
+
+
+Not  suitable  f(T  embankments 
+Not  used  fcr  construction 
+
+
+K  « 10-< 
+tollh* 
+
+
+Poor  to  very  poor;  ihfeps-foot  rf  'rr 
+Compaction  not  practical 
+
+
+l-8i-2-08 
+1'76.2'08 
+1'60.1'92 
+
+l'76-2'00 
+
+I-68-2-00 
+l"52.l-92 
+1 •52-1-92 
+1'2B.1'60 
+
+1'12.1'52 
+l'20.1-68 
+
+
+do 
+do 
+
+do 
+
+do 
+
+Good  to  poor  belling 
+value  oqpendiag  on 
+deaiity 
+
+do 
+
+
+Good  to  poor  bearing 
+
+value 
+
+Wtn  poor,  luscnti' 
+bletoliqueftctMO 
+
+Good  to  poor  bearing 
+
+Fair  to  poor  bearing, 
+may  have  excenve 
+
+
+do 
+Toe  tiendi  to  noac 
+
+None 
+
+Upitream  bliaket  and 
+toe  drainage  or  Weill 
+
+
+Poor  bearing 
+Fair  to  poor  bearing 
+Very  poor  bearing 
+Remove         from 
+
+
+None 
+
+Toe  trench  to  M 
+None 
+do 
+
+do 
+do 
+do 
+
+
+Vion  1  —ValuM  in  Column  2  and  6  are  for  guidance  only,   Deugn  ilMuld  be  bated  on  test  results. 
+
+Non  2  —The  equipment  liited  in  Column  4  will  usually  produce  densitio  with  a  reasonable  number  of  pastes  when  moisture  conditions  and  thickness  of  liA  m  properly  conlroilod. 
+Non  3  *-  Unit  dry  weighu  in  column  5  are  for  compacted  soil  at  optimum  moisture  content  for  Indian  Standard  light  compaction  effort  [  m  IS :  2720  ( Part  VII  )-1965^  ]. 
+'Methods  of  test  for  toils:  Part  VII  Determinaiion  of  moisture  content-dry  density  rdation  using  light  o 
+
+
+1S>14M-1970 
+
+
+lil 
+
+
+i 
+
+111 
+
+
+1 
+
+
+31 
+
+
+■^ll 
+
+
+s 
+
+
+I  i 
+
+
+iUUsililiil  I 
+
+
+I 
+
+
+ill 
+
+!P 
+
+
+I 
+
+"4  2 
+
+
+a 
+
+
+11 
+
+
+I   I 
+
+
+I  5 
+
+•ft 
+
+
+2 
+
+
+I    i 
+
+
+ff 
+
+
+0«     •^«^«^«^6a«ft 
+
+6  ?s    h: 
+
+
+1 '  j 
+
+
+n 
+
+
+i  0. 
+
+o  o 
+
+
+^  J 
+
+u   S 
+
+
+a^ 
+
+
+s  5  o 
+
+
+o 
+
+
+9 
+
+z 
+
+
+I8tMM.1970 
+
+
+%•%" 
+
+
+•t- 
+
+
+oc 
+
+
+(A 
+
+O 
+
+«o 
+Z 
+
+o 
+
+% 
+
+
+f — 
+
+
+a: 
+o 
+
+
+^t 
+
+
+z 
+
+
+to 
+
+
+IQ 
+
+
+fO-0 
+
+
+tcv-o 
+
+
+«o-o 
+
+
+O 
+
+< 
+
+o 
+
+
+5^ 
+
+
+24 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+HeadquBrters: 
+
+Manak  Bhavan.  9  Bahadur  Shah  Zafar  Marg.  NEW  DELHI  11 0002 
+
+Telephones  323  0131,  323  3375.  323  9402 
+
+Fax    91  11  3234062.  91  11  3239399.  91  11  3239382 
+
+Telegrams    Manaksanstha 
+
+(Common  to  all  Offices) 
+
+Central  Laboratory:  Telephone 
+
+Plot  No  20/9,  Site  IV.  Sahibabad  Industrial  Area.  Sahibabad  201010  8-77  0032 
+
+Regional  Offices: 
+
+Central    Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  NEW  DELHI  1 10002  323  76  17 
+
+•Eastern    1/14  CIT  Scheme  VII  M,  VI  P  Road,  Maniktola.  CALCUTTA  700054  337  86  62 
+
+Northern    SCO  335-336,  Sector  34- A.  CHANDIGARH  160022  60  38  43 
+
+Southern    C  I  T  Campus.  IV  Cross  Road,  CHENNAI  6001 13  235  23  15 
+
+t  Western    Manakalaya  E9.  Behind  Marol  Telephone  Exchange,  Andheri  (East),       832  92  95 
+MUMBAI  400093 
+
+Branch  Offices. 
+
+•Pushpak'.  Nurmohamed  Shaikh  Marg.  Khanpur.  AHMEOABAD  380001  550  13  48 
+
+tPeenya  Industrial  Area.  1st  Stage,  Bangalore-Tumkur  Road.  839  49  55 
+BANGALORE  560058 
+
+Gangotri  Complex,  5th  l-loor.  Bhadbhada  Road.  TT  Nagar,  BHOPAL  462003  55  40  21 
+
+Plot  No  62-63,  Unit  VI,  Ganga  Nagar.  BHUBANESHWAR  751001  40  '^6  27 
+
+Kalaikalhir  Buildings.  670  Avinashi  Road.  COIMBATORE  641037  21  01  41 
+
+Plot  No  43,  Sector  16  A.  Mathura  Road,  FARIDABAD  121001  8-288801 
+
+Savitn  Complex,  1 16  G  T  Road.  GHAZIABAD  201001  8-71 1996 
+
+53/5  Ward  No  29.  R  G  Barua  Road.  5th  By-lane,  GUWAHATI  781003  54  11  37 
+
+5-8-56C,  L  N  Gupta  Marg.  Nampally  Station  Road,  HYDERABAD  500001  20  10  83 
+
+E-52,  Chitaranjan  Marg,  C-Scheme.  JAIPUR  302001  37  29  25 
+
+1 17/418  B.  Sarvodaya  Nagar.  KANPUR  208005  21  68  76 
+
+Seth  Bhawan,  2nd  Floor.  Behind  Leela  Cinema.  Naval  Kishore  Road,  ^3  89  23 
+LUCKNOW  226001 
+
+NIT  Building,  Second  Floor,  Gokulpat  Market,  NAGPUR  440010  52  51  71 
+
+Patliputra  Industrial  Estate.  PATNA  800013  26  23  05 
+
+Institution  of  Engineers  (India)  Building  1332  Shivap  Nagar,  PUNE  411005  32  36  35 
+
+TC  No  14/1421.  University  PO  Palayam.  THIRUVANANTHAPURAM  695034        6  21  17 
+
+
+'Sales  Office  is  at  5  Chowrtnghee  Approach,  PO  Princep  Street,  27  10  85 
+
+CALCUTTA  700072 
+
+t  Sales  Office  is  at  Novelty  Chambers,  Grant  Road,  MUMBAI  400007  309  65  28 
+
+t  Sales  Office  is  at  T  Block,,  Unity  Building,  Narashimaraja  Square.  222  39  71 
+
+BANGALORE  560002 
+
+
+Printed  at  Simco  Printing  Pru$s  Delhi 
+
+

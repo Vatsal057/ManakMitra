@@ -1,0 +1,4797 @@
+**************** 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live" 
+
+
+IS  3792  (1978) :  Guide  for  heat  insulation  of  non  industrial 
+buildings  [CED  12:  Functional  Requirements  in  Buildings] 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New' 
+
+
+■K^y  / 1  juaaaws^fea  rs^^TTF^ 
+
+
+2*S<  W I  *>S*V2^NK^ 
+
+
+^frcvvv^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+?TR  TJ^  ^TT  teMHI  |  ^t  ^Wt  ^^PTT  ^f  ^TT  ^T^?TT  \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+.^^_ 
+
+
+• 
+
+
+BLANK  PAGE 
+
+
+*rt*2V^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+15  f 3792-  1978 
+
+( Reaffirmed  2004 ) 
+
+Indian  Standard 
+
+GUIDE  FOR  HEAT  INSULATION  OF 
+
+NON-INDUSTRIAL  BUILDINGS 
+
+
+(  First  Revision ) 
+
+
+UDG    69?]:  699*86  {Q<36) 
+
+
+©  Copyright  ]V79 
+
+INDIAN     STANDARDS     INS  I  I  I   ITION 
+
+MANAK     HHAVAN.     9     BAHADUR       I  [All      ZAFAR     MARO 
+
+NEW  DELHI  M1K" 
+
+
+icrtiiM-to 
+
+
+Mce-foJW     v*   &  July  I97S 
+
+
+IS  :  3792  - 1978 
+
+
+Indian  Standard 
+
+
+GUIDE  FOR  HEAT  INSULATION  OF 
+NON-INDUSTRIAL  BUILDINGS 
+
+( First  Revision ) 
+
+Functional  Requirements  in  Buildings  Sectional  Committee,  BDG  12 
+
+
+Chairman 
+Shri  B.  N.  Banerjea 
+
+Members 
+
+Prof  A.J.  Contractor 
+Smt  E.  S.  Ghuman 
+Shri  R.  G.  Gokhale 
+Shri  P.  C.Jaitly 
+
+Shri  J.  C.  Kapur 
+
+Col  N.  G.  Gupta  (  Alternate  ) 
+Shri  K.  K.  Khanna 
+
+Shri  M.  M.  Mistry  (  Alternate 
+Shri  B.  D.  Kshirsagar 
+
+Shri  L.  R.  Lalla  (  Alternate ) 
+Shri M.  M.  Pande 
+Shri  M.  D.  Patel 
+Shri  S.  Ptjrushothama 
+
+Shri  Parelkar  (  Alternate  ) 
+Shri  M.  M.  Rana 
+Shri  R.  K.  S.  Saxena 
+Shri  Sayed  S.  Shafi 
+
+Shri  D.  P.  Sharma  (  Alternate  ) 
+Shri  M.  R.  Sharma 
+
+Shri  S.  Sxtbba  Rao 
+
+Shri  A.  V.  Rao  (  Alternate  ) 
+
+
+Representing 
+Public  Works  Department,  Government  of  West 
+Bengal,  Calcutta 
+
+University  of  Roorkee,  Roorkee 
+
+Indian  Institute  of  Architects,  Bombay 
+
+In  personal  capacity  (  838  Shivaji  Nagar,  Pune  ) 
+
+Directorate   General    of   Health    Services,    New 
+
+Delhi 
+Danfoss  ( India  )  Limited,  New  Delhi 
+
+National  Buildings  Organization,  New  Delhi 
+
+) 
+
+Engineer-in-Chief  's  Branch,  Army  Headquarters, 
+New  Delhi 
+
+Voltas  Limited,  Bombay 
+Institution  of  Engineers  (  India  ),  Calcutta 
+Directorate  General  of  Factory  Advice  Service  & 
+Labour  Institute,  Bombay 
+
+Central  Public  Works  Department,  New  Delhi 
+Directorate  General  of  Observatories,  New  Delhi 
+Institute  of  Town  Planners,  New  Delhi 
+
+Central    Building   Research    Institute    ( CSIR ), 
+
+Roorkee 
+All  India  Institute  of  Hygiene  &  Public  Health, 
+
+Calcutta 
+
+
+(  Continued  on  page  2  ) 
+
+
+®  Copyright  1979 
+
+INDIAN   STANDARDS   INSTITUTION 
+
+This    publication   is  protected  under  the   Indian  Copyright  Act  (  XIV  of  1957  )  and 
+
+reproduction  in  whole  or  in  part  by  any  means  except  with  written  permission  of  the 
+
+publisher  shall  be  deemed  to  be  an  infringement  of  copyright  under  the  said  Act. 
+
+
+IS:  3792 -1978 
+
+(  Continued  from  page  1 ) 
+
+Members  Representing 
+
+Col  Sukhdev  Singh  National  Safety  Council,  Bombay 
+
+Shri  N.  C.  Mukher  jee  ( Alternate  ) 
+Shri  R.  L  Suri  Suri    &    Suri   Consulting    Acoustical    Engineers, 
+
+New  Delhi 
+Shri  Gautam  Suri  (  Alternate  ) 
+Shri  L.  G.  Toye  Research,    Designs   and    Standards   Organization 
+
+(  Ministry  of  Railways  ),  Lucknow 
+Shri  V.  K.  Pttnj  (  Alternate  ) 
+Shri  D.  A jitha  Simha,  Director  General,  ISI  (  Ex-officio  Member ) 
+
+Director  (  Civ  Engg ) 
+
+Secretary 
+
+Shri  Suresh  Malkani 
+Assistant  Director  (  Civ  Engg  ),  ISI 
+
+Architectural  Acoustics,  Sound  and  Heat-Insulation  Subcommittee, 
+
+BDG  12  :  5 
+
+Convener 
+Shri  R.  L.  Suri  Suri    &   Suri     Consulting     Acoustical    Engineers, 
+
+New  Delhi 
+
+Members 
+
+Shri  Gautam  Suri  (  Alternate  to 
+Shri  R.  L.  Suri) 
+Dr  K.  N.  Aggarwal  Central     Building    Research     Institute   (  CSIR  ), 
+
+Roorkee 
+Shri  P.  S.  Bhandari  (  Alternate  ) 
+Shri  T.  D.  Bansal  In    personal    capacity   (  XV-5352-D  Laddu    Ghati, 
+
+New  Delhi ) 
+Dr  A.  F.  Chhapgar  National     Physical     Laboratory     ( CSIR),    New 
+
+Delhi 
+Shri  M.  M.  Mistry  National  Buildings  Organization,  New  Delhi 
+
+Shri  B.  D.  Dhawan  (  Alternate) 
+Shri  P.  R.  Narasimhan  Directorate  General  of  All    India   Radio,    New 
+
+Delhi 
+Dr  M.  Pancholy  In    personal   capacity   (  Emeritus   Scientist,    National 
+
+Physical  Laboratory,  New  Delhi  ) 
+Shri  S.  Ptjeushothama  Directorate  General  of  Factory  Advice  Service  & 
+
+Labour  Institute,  Bombay 
+Shri  Parelkar  (  Alternate  ) 
+Shri  Surekdra  Sharma  Indian  Institute  of  Architects,  Bombay 
+
+Shri  N.  Srinivas  Lloyd  Insulations  (  India  ),  New  Delhi 
+
+Shri  C.  V.  Yegnanarayanan  Voltas  Limited,  Bombay 
+
+Shri  M.  M.  Pande  (  Alternate) 
+Representative  Fibreglass  Pilkington,  New  Delhi 
+
+
+IS  j  3792  -1978 
+
+Indian  Standard 
+
+GUIDE  FOR  HEAT  INSULATION  OF 
+NON-INDUSTRIAL  BUILDINGS 
+
+
+( First  Revision ) 
+
+
+0.    FOREWORD 
+
+0.1  This  Indian  Standard  ( First  Revision )  was  adopted  by  the  Indian 
+Standards  Institution  on  28  December  1978,  after  the  draft  finalized  by 
+the  Functional  Requirements  in  Buildings  Sectional  Committee  had  been 
+approved  by  the  Civil  Engineering  Division  Council. 
+
+0.2  This  standard  was  first  issued  in  1966.  In  view  of  the  experience 
+gained  in  the  country  in  this  field,  the  Committee  responsible  for  the 
+preparation  of  this  standard  felt  the  necessity  for  its  revision.  Some  of 
+the  significant  changes  made  in  this  revision  are  highlighted  in  0.2.1. 
+
+0.2.1  The  new  terms  such  as  thermal  performance  index  and  shade 
+factor  have  been  introduced.  Recommendations  to  attain  desirable 
+thermal  conditions  in  the  buildings  have  been  modified.  Figures  2,  3  and  4 
+have  been  revised  and  new  sections  describing  the  figures  have  been 
+introduced.  The  values  of  shade  factor  for  various  shading  devices  have 
+been  included.  Appendix  C  has  been  modified  to  cover  the  latest  building 
+and  insulating  materials  in  vogue  in  the  country.  Tables  2  and  3  in 
+Appendix  D  have  been  deleted. 
+
+0.3  General  principles  of  heat  transfer  have  been  given  in  Appendix  A, 
+mainly  for  the  purpose  of  providing  some  additional  information  relevant 
+to  the  recommendations  made  in  this  guide. 
+
+0.4  In  the  formulation  of  this  guide  the  Sectional  Committee  has  also 
+considered  the  recommendations  and  practices  in  vogue  in  other  countries, 
+with  regard  to  heat  insulation  of  buildings  wherein  no  mechanical  cooling 
+or  heating  aids,  such  as  air-conditioning  plants,  have  been  used.  In  major 
+parts  of  this  country,  the  problem  is  mainly  prevention  of  undue  heat  gain 
+of  structures  during  hot-dry  and  hot-humid  periods.  This  guide  lays 
+down  recommendations  for  the  reduction  of  heat  flow  from  outside  to 
+inside  the  building  and  also  gives  necessary  data  required  in  this  connec- 
+tion.    It   may,   however,    be    noted   that   thermal   insulation   applied  to 
+
+
+IS  j  3792 -1978 
+
+minimize  heat  gain  of  a  structure  during  the  hot  season  will  assist  in 
+reducing  the  heat  loss  of  the  same  structure  in  the  cold  season,  though  the 
+exact  extent  may  vary. 
+
+0.5  This  standard  is  one  of  a  series  of  Indian  Standards  on  functional 
+requirements  of  buildings.  A  list  of  standards  published  so  far  in  the 
+series  is  given  on  page  40. 
+
+0.6  For  the  purpose  of  deciding  whether  a  particular  requirement  of  this 
+standard  is  complied  with,  the  final  value,  observed  or  calculated,  express- 
+ing the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accordance 
+with  IS  :  2-1960*.  The  number  of  significant  places  retained  in  the 
+rounded  off  value  should  be  the  same  as  that  of  the  specified  value  in  this 
+standard. 
+
+
+1.  SCOPE 
+
+1.1  This  guide  is  intended  to  cover  heat  insulation  of  non-industrial 
+buildings,  such  as  dwellings,  hospitals,  schools  and  office  buildings  wherein 
+no  mechanical  cooling  or  heating  aids,  such  as  air-conditioning  plants, 
+are  used. 
+
+2.  DEFINITIONS  OF  TERMS,  SYMBOLS  AND  UNITS  OF 
+QUANTITIES  USED  IN  HEAT  INSULATION 
+
+2.1  Definitions  of  terms,  symbols  and  units  of  quantities  commonly  used 
+in  expressing  the  results  of  measurements  or  in  calculating  the  extent  of 
+heat  flow  through  building  units  are  given  in  Table  1. 
+
+3.  TEMPERATURE-CtfM-HUMIDITY  ZONES  IN  INDIA 
+
+3.1  Keeping  in  view  the  fact  that  for  indoor  comfort  the  heat-insulation 
+requirements  for  buildings  in  relation  to  different  climatic  regions  would 
+be  different,  for  the  purpose  of  this  guide  the  country  may  be  divided  into 
+zones  as  detailed  under  3.1.1  to  3.1.4. 
+
+3.1.1  Hot  and  Arid  Zone  —  Regions  where  mean  daily  maximum  dry 
+bulb  temperatures  of  38°C  or  higher,  and  relative  humidity  of  40  percent 
+or  less,  prevail  during  the  hottest  month  of  the  year  and  where  the  altitude 
+is  not  more  than  500  m  above  mean  sea  level,  may  be  classified  as  hot  and 
+arid  zones.  Some  representative  towns  falling  under  this  zone  are  given 
+in  Appendix  B. 
+
+
+♦Rules  for  rounding  off  numerical  values  (  revised  ). 
+
+
+IS  1 3792  - 1978 
+
+
+TABLE  I    DEFINITIONS  OF  TERMS,  SYMBOLS  AND  UNITS  OF  QJUANTITD2S  USED  IN  HEAT  INSULATION 
+
+(Claust  2.1) 
+
+
+Sl  No.  Term  Svmbol 
+
+(1)  -(2)  (3) 
+
+j)     Thermal    transmission  or  q 
+
+rate  of  heat  flow 
+ii)     Thermal  conductivity  k 
+
+
+iii)     Thermal  resistivity 
+
+
+Definition 
+(4) 
+The  quantity  of  heat   flowing  in   unit    time   under   the  conditions 
+
+prevailing  at  that  time 
+The  quantity  of  heat  in  the  'steady  state*    conditions  flowing    in 
+unit  time  through  a  unit  area  of  a  slab  of  uniform  material   of 
+infinite  extent  and  of  unit    thickneu,   when    unit    difference  of 
+temperature  is  established  between  its  faces 
+
+Thermal  resistivity  is  the  reciprocal  of  thermal  conductivity 
+
+
+Unit 
+
+(5) 
+W 
+
+
+Explanation 
+
+(6) 
+
+
+W,,'(inK)  The  thermal  conductivity  is  a  characteristic  property  of  a  material 
+and  its  value  may  vary  with  a  number  of  factory  including 
+density,  porosity,  moisture  content,  fibre  diameter,  pore  size. 
+type  of  gas  in  the  material,  mean  temperature  and  outside 
+temperature  range 
+mK/W  _ 
+
+
+iv)     Thermal  conductance  per  C 
+
+unit  area 
+
+
+v)     Thermal  resistance  R 
+
+vi)     Surface  coefficient  f 
+
+vii)     Surface  resistance  1 
+
+J 
+viii)     Total    thermal   resistance  Rv 
+
+ix)     Thermal  transmittance  U 
+
+
+x)     Thermal  damping 
+
+
+xi)     Thermal  time  constant 
+
+
+The  thermal  transmission  of  a  single  layer  structure  per  unit  area 
+divided  by  the  temperature  difference  between  the  hot  and  cold 
+faces 
+
+
+Thermal  resistance  is  reciprocal  of  thermal  conductance.  For  a 
+structure  having  plane  parallel  faces,  thermal  resistance  is 
+equal  to  thickness  (L)  divided  by  thermal  conductivity  (  k )  as 
+given  below: 
+
+Surface  coefficient  is  thermal  transmission  by  convection,  conduction 
+and  radiation  from  unit  area  of  the  surface,  for  unit  temperature 
+difference  between  the  surface  and  the  surrounding  medium 
+
+Surface  resistance  is  the  reciprocal  of  surface  coefficient 
+
+The  total  thermal  resistance  is  the  sum  of  the  surface  resistances 
+and  the  thermal  resistance  of  the  building  unit  itself 
+
+Thermal  transmittance  is  thermal  transmission  through  unit  area 
+of  the  given  building  unit  divided  by  the  temperature  difference 
+between  the  air  or  other  fluid  on  either  side  of  the  building  unit 
+in  '  steady  state '  conditions.  It  is  reciprocal  of  total  thermal 
+resistance 
+
+
+xii)     Thermal     performance 
+index 
+
+
+ciii)     Shade  factor 
+
+
+xiv)     Time   lag 
+xv)     Emissivity 
+
+
+_VV_         Thermal    conductance    is    a    measure  of    the    thermal   transmission 
+m-K  per  unit  area   through   the  total   thickness  of  the   structure  under 
+
+consideration.  Thermal  conductivity  on  the  other  hand  refers 
+to  unit  thickness  of  a  material.  Further,  this  term  applies  only 
+to  a  single  layer  of  material  and  not  to  a  composite  insulation  or 
+to  a  structure  made  up  of  several  layers,  materials  of  mediums 
+m^K/W  The  usefulness  of  this  quantity  is  that  when  heat  passes  in  succession 
+through  two  or  more  components  of  the  building  unit  the 
+resistance  may  be  added  together  to  get  the  total  resistance  of 
+the  structure 
+
+
+(To-Ti) 
+
+
+X  100 
+
+
+■'-&-(£+-«*• 
+
+
+W/(m2K)    The  value  of/ depends  on  many  factors,  such  as  air  or  fluid  move- 
+ment in  contact  with  the  surface,    roughness  and    emissivity  of 
+the    surface  and  upon  the  temperature  and    nature  of  surroun- 
+dings 
+m2K  — 
+
+W 
+
+m'K  — 
+
+W 
+W/(m2K)  Thermal  transmittance  differs  from  'Thermal  conductance'  in  so 
+far  as  temperatures  are  measured  on  the  two  surfaces  of  material 
+or  structure  in  the  latter  case  and  in  the  surrounding  air  or 
+other  fluid  in  the  former.  The  conductance  is  a  characteristic 
+of  the  structure  whereas  the  transmittance  depends  on  conduc- 
+tance and  surface  coefficients  of  the  structure  under  the  condi- 
+tions of  use 
+
+
+Percent 
+
+
+where 
+
+To  =  outside  temperature  range 
+Xi  =  inside  temperature  range 
+Ratio  of  heat  stored  to  thermal  transmittance  of  the  structure 
+a)  For  homogeneous   wall    or  roof,    thermal    time     constant    may 
+be  calculated  from  the  following  formula: 
+
+
+Thermal  damping  or  decreased  temperature  variation  is  a  charac- 
+teristic dependent  on  the  thermal  resistance  of  the  materials  used 
+in  the  structure 
+
+
+where 
+
+Q_=*  quantity  of  heat  stored 
+£/=  thermal  transmittance 
+fa  =■  surface  coefficient  of  the  outside  surface 
+k  =  thermal  conductivity  of  the  material 
+L  =  thickness  of  the  component 
+p  a=  density  of  the  material 
+c  =' specific  heat  capacity  of  the  material 
+b)  For    composite     wail  or  roof,     T    may     be    obtained     from    the 
+formula: 
+
+'-  =  *-(*+&)(*"•) 
+
+
+777  =  i  r,.  -  30  .■  x  12-5 
+
+
+where 
+Tis* 
+
+
+peak  inside  surface  temperature 
+
+
+S  = 
+
+
+Instantaneous  heat  gain  through  the  shading  device 
+
+the 
+
+
+itaneous     heat     gain      through 
+
+3-0  mm  plain  glass  sheet 
+
+It  is  the  time  difference  between  the  occurrences  of  the  temperature 
+
+maximum  at    the  outside  and  inside  when  subjected  to  periodic 
+
+conditions  of  heat  flow 
+
+It  is  the  rate  of  the  heat  emitted  bv  a  surface  as  compared  to  that 
+
+of  an  absolutely  black  surface  under  similar  conditions.     It  varies 
+
+with  the  temperature  of  emitting  surfaces 
+
+
+Percent  A  temperature  of  8  K  has  been  considered  over  a  base  temperature- 
+of30K.  It  depends  upon  the  total  heat  gain  through  the  build- 
+ing section  both,  by  steady  and  periodic  part  and  is  a  function 
+of  outside  surface  temperature 
+
+Percent      It  takes   into  account  the    heat  gain  through  glazing  both  by  direct 
+transmission  and  air  to  air  transfer 
+
+
+As  in  the  Original  Standard,  this  Page  is  Intentionally  Left  Blank 
+
+
+IS:  3792- 1978 
+
+3.1.2  Hot  and  Humid  gone  —  Regions  where  mean  daily  maximum  dry 
+bulb  temperatures  above  32°C,  and  relative  humidity  above  40  percent, 
+prevail  during  the  hottest  month  of  the  year  and  where  the  altitude  is 
+not  more  than  500  m  above  mean  sea  level,  may  be  classified  as  hot  and 
+humid  zones.  Some  representative  towns  falling  under  this  zone  are  given 
+in  Appendix  B. 
+
+3.1.3  Warm  and  Humid  gone  —  Regions  where  mean  daily  maximum 
+dry  bulb  temperatures  of  26  to  32°C,  and  relative  humidity  of  70  percent 
+or  above  prevail  during  the  hottest  month  of  the  year  and  where  the 
+altitude  is  not  more  than  100  m  above  mean  sea  level,  may  be  classified 
+as  warm  and  humid  zones.  Some  representative  towns  falling  under  this 
+zone  are  given  in  Appendix  B. 
+
+3.1.4  Cold  Zone  —  Regions  where  mean  daily  minimum  dry  bulb 
+temperatures  of  6°C  or  less,  prevail  during  the  coldest  month  of  the  year 
+and  where  the  altitude  is  more  than  1  200  m  above  mean  sea  level,  may 
+be  classified  as  cold  zones.  Some  representative  towns  falling  under  this 
+zone  are  given  in  Appendix  B. 
+
+4.  RECOMMENDATION  FOR  HEAT  INSULATION 
+
+4.1  Heat  Insulation  of  Roofs  and  Exposed  Walls  —  To  achieve  the 
+desirable  thermal  conditions  in  the  buildings  located  in  the  zones  described 
+under  3.1.1  to  3.1.4  the  maximum  values  of  overall  thermal  transmittance 
+and  thermal  performance  index  (  TPI )  for  roofs  and  exposed  walls  given 
+in  Table  2  may  be  used.  The  minimum  values  for  thermal  damping  and 
+thermal  time  constant  for  roofs  and  exposed  walls  are  also  given  in 
+Table  2.  The  relationship  between  thermal  damping  and  the  thermal  time 
+constant  is  given  by  the  limiting  curves  given  in  Fig.  1. 
+
+
+TABLE  2 
+
+THERMAL  PERFORMANCE  STANDARDS 
+
+No. 
+
+Build-            Hot  Dry  and 
+ing                                   Zoe 
+
+Hot  Humid 
+
+rES 
+
+T,  Min    D,  Min 
+
+Warm  Humid  Zone 
+
+, ,          ,        ,                            K 
+
+nents      U,  Max 
+
+TPI9 
+Max 
+
+U,  Max        TPI,     T,  Min 
+Max 
+
+D,  Min 
+
+(1) 
+
+(2)             (3) 
+
+(4) 
+
+(5)         (6) 
+
+(7)               (8)          (9) 
+
+(10) 
+
+1 
+
+W/(m2K)  percent 
+Roof              2*33              100 
+
+h      percent 
+20          75 
+
+W/(maK)    percent      h 
+2*33            125          20 
+
+percent 
+75 
+
+2 
+
+Exposed        2*56 
+wall 
+
+125 
+
+16          60 
+
+2*91            175          16 
+
+60 
+
+18:3792-1978 
+
+
+U 
+
+a. 
+
+
+o 
+
+0- 
+
+< 
+
+Q 
+
+—I.' 
+< 
+
+
+90 
+80 
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+
+•_- 
+
+8        16        24       32       40       48       56       64       72       80       88       96  100 
+THERMAL  TIME  CONSTANT,-^-(h) 
+
+Fig.  1  Limiting  Curves  Showing  Relationship  Between  Thermal  Time 
+Constant  in  Hours  and  Thermal  Damping  in  Percent 
+
+4.2  Heat  insulation  is  usually  not  needed  for  buildings  situated  in  places 
+being  not  covered  under  any  of  the  zones  mentioned  in  3. 
+
+Note  1  —  Representative    towns    under    this    category     are     Indore,     Seoni, 
+Bangalore,  Belgaum,  Mysore,  Pune,  Ranchi  and  Sagar. 
+
+Note  2  —  Marginal  cases  may  be  dealt  with  by  users  themselves  in  the  light  of 
+the  principles  enumerated  in  this  guide. 
+
+4.3  It  is  recommended  that  no  exposed  window  located  in  the  zones 
+described  under  3.1.1  to  3.1.4  should  have  a  shade  factor  more  than  0*5 
+and  transmittance  more  than  651  W/(  m2K  ). 
+
+5.  METHODS  OF  HEAT  INSULATION 
+
+5.1  General  Methods 
+
+5.1.1  Heat  Insulation  by  Orientation  —  The  orientation  of  a  building  with 
+respect  to  the  sun  has  a  very  important  bearing  on  its  thermal  behaviour. 
+
+
+IS  :  3792  -  1978 
+
+For  optimum  orientation  there  are  usually  conflicting  requirements. 
+Minimum  transfer  of  solar  heat  is  desired  during  the  day  in  summer,  while 
+maximum  heat  of  rooms  by  solar  heat  is  required  during  winter. 
+
+5.1.2  Heat  Insulation  by  Shading  —  While  shading  of  roof  brings  down 
+the  surface  temperature,  it  is  very  difficult  to  achieve  this  effect  in  practice, 
+especially  when  the  altitude  angle  of  the  sun  is  quite  high  during  the 
+period  of  peak  heat  gain  in  the  afternoons,  between  1100  h  and  1500  h. 
+Raising  the  parapet  walls  can  help  only  when  the  altitude  angle  of  the 
+sun  is  low,  but  the  cost  may  not  commensurate  with  the  effect  obtained. 
+
+5.1.3  Height  of  Ceiling  —  While  the  surface  temperature  of  the  ceiling 
+does  not  vary  with  its  height,  the  intensity  of  long  wave  radiation  emitted 
+by  the  ceiling  decreases  as  it  travels  downwards,  but  the  effect  of  vertical 
+gradient  of  radiation  intensity  is  not  significant  beyond  1  to  1*3  m.  Hence, 
+it  should  be  adequate  to  provide  ceiling  at  a  height  of  about  1  to  l"3m 
+above  the  occupants, 
+
+5.2  Heat  Insulation  of  Roofs  —  Heat  gain  through  roofs  may  be 
+reduced  by  one  or  more  of  the  following  methods: 
+
+a)  Application  of  Heat  Insulating  Material — Heat  insulating  materials 
+may  be  applied  externally  or  internally  to  the  roofs.  In  case  of 
+external  application,  heat  insulating  material  may  be  laid  over 
+the  roof  but  below  a  waterproof  course.  In  case  of  internal 
+application,  heat  insulating  material  may  be  fixed  by  adhesive  or 
+otherwise  on  the  underside  of  roofs  from  within  the  rooms.  False 
+ceiling  of  insulating  material  may  be  provided  below  the  roof 
+with  air  gaps  in  between. 
+
+b)  Shining  and  reflecting  material  may  be  laid  on  the  top  of  the 
+roof. 
+
+c)  Roofs  may  be  flooded  with  water  in  the  form  of  sprays  or  other- 
+wise. Loss  due  to  evaporation  may  be  compensated  by  make  up 
+arrangement. 
+
+d)  Movable  covering  of  suitable  heat  insulating  material,  if  practi- 
+cable, may  be  considered. 
+
+e)  White  washing  of  the  roof  before  on-set  of  each  summer. 
+
+Note  —  The  methods  given  in  (b)  and   (e)  would  be  fully  effective  in  case 
+the  surfaces  are  kept  clean  to  avoid  accumulation  of  dust. 
+
+5.3  Heat  Insulation  of  Exposed  Walls  —  Heat  insulation  of  exposed 
+walls  may  be  achieved  by  the  following  ways: 
+
+a)  The  thickness  of  the  wall  may  be  increased; 
+
+b)  Cavity  wall  construction  may  be  adopted; 
+
+
+IS  :  3792  -  1978 
+
+c)  The  wall  may  be  constructed  out  of  suitable  heat  insulating 
+material  provided  structural  requirements  are  met; 
+
+d)  Heat  insulating'material  (see  6)  may  be  fixed  on  the  inside  or 
+outside  of  the  exposed  wall.  ( In  the  case  of  external  application, 
+overall  waterproofing  is  essential );  and 
+
+e)  Light  coloured  white  wash  or  distemper  may  be  applied  on  the 
+exposed  side  of  the  wall. 
+
+5*4  Heat  Insulation  of  Exposed  Windows  and  Doors  —  In  dealing 
+with  heat  insulation  of  exposed  windows  and  doors,  suitable  methods 
+should  be  adopted  to  reduce: 
+
+a)  incidence  of  solar  heat,  and 
+
+b)  reduction  of  heat  transmission. 
+
+5.4.1  Reduction  of  Incidence  of  Solar  Heat  —  This  may  be  achieved  by 
+any  one  of  the  following  means: 
+
+a)  External  shading,  such  as  louvered  shutters,  sun  breakers  and 
+CHHAJJAS; 
+
+b)  Internal  shading,  such  as  curtains  and  Venetian  blinds;  and 
+
+c)  Use  of  heat  resistant  glasses/films. 
+
+5.4.2  Reduction  of  Heat  Transmission  —  Where  glazed  windows  and  doors 
+are  provided  reduction  of  heat  transmission  may  be  achieved  by  providing 
+insulating  glass  or  double  glass  with  air  space  or  by  any  other  suitable 
+means. 
+
+6.  THERMAL  CONDUCTIVITY  VALUES 
+
+6.1  Typical  building  and  insulating  materials  and  their  thermal  conducti- 
+vity values  are  given  in  Appendix  G.  It  may,  however,  be  noted  that  the 
+values  are  typical  and  approximate  and  should  be  checked  with  the 
+values  declared  by  the  manufacturers,  or  users  should  get  them  tested  at 
+one  of  the  recognized  testing  laboratories. 
+
+7.  CALCULATION  OF  OVERALL  THERMAL  TRANSMITTANCE 
+
+AND  THERMAL  TIME  CONSTANT 
+7.1  Examples  showing  calculations  of  thermal  transmittance  and  thermal 
+time  constant  for  typical  cases  are  given  in  Appendix  D. 
+
+8.  VALUES  OF  THERMAL  TRANSMITTANCE;  THERMAL  DAM- 
+PING, THERMAL  PERFORMANCE  INDEX  AND  THERMAL 
+TIME  CONSTANT  FOR  TYPICAL  BUILDING  CONSTRUC- 
+TIONS 
+
+8.1  Typical  building  constructions  and  the  values  of  thermal  transmit- 
+tance, thermal  damping,  thermal  performance  index  and  thermal  time 
+constant  are  given  in  Tables  3,  4  and  5  read  correspondingly  with  Fig.  2, 
+3  and  4  for  information, 
+
+10 
+
+
+IS:  3792  -1978 
+
+
+xc 
+
+
+3 
+
+
+4 
+
+
+5 
+
+
+U       =  3*00 
+Q/U  -  7-72 
+D        =  58-90 
+TPI    «  164 
+
+
+U       =  228 
+Q/U  =  17-44 
+D       =87  60 
+TPI    =  97 
+
+
+U        =  2*13 
+Q/U  =  21*16 
+D        =  78-90 
+TPI    =  93 
+
+
+U        -  1-65 
+Q/U  =  41-00 
+D        =  87-60 
+TPI    =64 
+
+
+U        =  1-35 
+Q/U  -  67-13 
+D        =  90-90 
+TPI    =  61 
+
+
+6 
+
+
+U       -  1*80 
+Q/U  =  18*17 
+D        =  79-40 
+TPI    =  109 
+
+
+U        =  1-55 
+Q/U  =  30-50 
+D        «  85-40 
+TPI    =  78 
+
+
+U       =1*69 
+Q/U  =  4100 
+D        =  81-00 
+TPI    =  85 
+
+
+U        =  0-97 
+Q/U  =  43-20 
+D        =  81-00 
+
+TPI    =  95 
+
+
+U  =  Transmittance  [  W/(  m2K  )  ] 
+D  =  Damping  (  percentage  ) 
+
+
+Q/U  =  Thermal  Time  Constant  (  hours  ) 
+TPI  =  Thermal  Performance  Index  (  percentage  ) 
+
+
+Fig.   2     Thermal  Performance  of  Walls  —  Continued 
+
+
+11 
+
+
+IS  i  3792  -1978 
+
+
+10 
+
+
+11 
+
+
+12 
+
+
+13 
+
+
+i — ' — r 
+
+1 — """^ 
+
+i — r< 1 
+
+» 
+
+U       =  0*97 
+Q,/U  =  11-30 
+D        «  89-00 
+TPI    =92 
+
+
+U        =  0-85 
+Q,/U  -  52-00 
+D        =  85-80 
+TPI    =  79 
+
+
+U        =  0-85 
+Q,/U  -  16-70 
+D        =  92-40 
+TPI    =  82 
+
+
+U        =  2*09 
+Q,/U  =  31-90 
+D        »  75*00 
+TPI    =  102 
+
+
+u 
+
+15 
+
+16 
+
+17 
+
+
+N^    \2^ 
+
+
+U        =4-12 
+Q,/U  -  12*5 
+D        =41 
+TPI    =  223 
+
+
+U        =  3-29 
+QJU  =14  0 
+D        =56 
+TPI    =  173 
+
+
+U        =2-12 
+Q,/U  =  14-00 
+D        =  57-00 
+TPI    -  112 
+
+
+18 
+
+
+19 
+
+
+^g^j^o^ 
+
+
+U  =  3-01 
+
+Q./U  =  14-50 
+
+D  =  61-00 
+
+TPI  =  136 
+
+20 
+
+
+U        =  2-79 
+
+U        =  2*90 
+
+a/U  =  12-00 
+
+Q./U  =  12-00 
+
+D        =  67-00 
+
+D        =  49*00 
+
+TPI     =  131 
+
+TPI    =  193 
+
+U        =  2-07 
+Q./U  =  40*00 
+D        =81-00 
+TPI    =  101 
+
+U  =  Transmittance  [  W/(  m2K  )']    Q  /U  =  Thermal  Time  Constant  (  hours  ) 
+D  =  Damping  ( percentago  )  TPI  =  Thermal  Performance  Index  (  percentage  ) 
+
+Fig.  2     Thermal  Performance  of  Walls  —  Continued 
+
+
+12 
+
+
+IS :  3792  •  1978 
+
+
+22 
+
+
+21 
+
+
+V^s3^K\ 
+
+
+23 
+
+
+N^ftsfcftftS\ 
+
+
+U        =  1-93 
+
+U        =  0*99 
+
+U        =  3-27 
+
+O  /U  =  18-00 
+
+O  /U  =  45-00 
+
+O  /U  =  14*00 
+
+D         =  73*00 
+
+D        =  80-00 
+
+D        =  57-00 
+
+TPI     =  107 
+
+TPI    ^  90 
+
+TPI     =  214 
+
+24 
+
+
+25 
+
+
+^Wt&^\ 
+
+
+U        -  2*56 
+
+U        »  0*80 
+
+U        =  3-47 
+
+Q./U  «  180 
+
+Q/U  =  56-40 
+
+Q,/U  =  6-50 
+
+D        -  68*0 
+
+D        =  86-00 
+
+D        -  32  0 
+
+TPI    =  132 
+
+TPI    =  79 
+
+TPI    ^  103 
+
+27 
+
+
+-&te} 
+
+k    fcfe:  •*'. 
+
+'     tOt 
+
+1 
+
+>^lb<^ 
+
+U        =1-03 
+
+U        =  4*88  to  6*28 
+
+Q./U  -  28-0 
+
+Q./U  -  4*90 
+
+D        =  82*0 
+
+D        ~  30 
+
+U  =  Transmittance  [  W/(  m2R  )  ]    Q./U  =  Thermal  Time  Constant  (  hours ) 
+
+D  =  Damping  (  percentage  )  TPI  —  Thermal  Performance  Index  ( percentage  ) 
+
+Fig.  2     Thermal  Performance  of  Walls 
+13 
+
+
+U  =  3*59 
+Q/U  =  4-30 
+D  =  30-0 
+TPI    =  184 
+
+
+U        =2-78 
+
+Q/U  =  1030 
+D  =  71*00 
+TPI    =  131 
+
+
+U  =  1*08 
+Q  /U  =  59-0 
+D  ==  88-0 
+TPI    =  70 
+
+
+U  =  1*08 
+Q/U  =  1-80 
+D  =  84*0 
+TPI    =  64 
+
+
+(0 
+
+
+8 
+
+
+U  =  0*62 
+Q/U  ^40*0 
+D  =  83  0 
+TPI    =61 
+
+
+U  »  1*09 
+Q/U  =  21*0 
+D  =  78*0 
+TPI     =  72 
+
+10 
+
+
+U        =  2*07 
+Q/U  =  14-00 
+D        =85*0 
+TPI    =  90 
+
+
+nzx 
+
+
+U  =  1-76 
+Q/U  -  15*0 
+D  «  85*0 
+TPI    =  80 
+
+
+12 
+
+
+U        =  2*31 
+Q/U  =  24*50 
+D        =  87-30 
+TPI    =  84 
+
+
+u 
+
+==  2-01 
+
+Q/u 
+
+=  31*20 
+
+D 
+
+«  91-30 
+
+TPI 
+
+==84 
+
+U        -  3*15 
+Q/U  =  22-70 
+D        =  75*0 
+TPI    =  125 
+
+
+U        -  2*99 
+Q/U  =  14*50 
+D        =  730 
+TPI    =  115 
+
+
+13 
+
+
+U 
+
+
+15 
+
+
+16 
+
+
+U        -  2-21 
+
+Q/U  =  2270 
+D        =  73*0 
+TPI    ^  125 
+
+17 
+
+
+U        =  3*07 
+Q/U  =   12-60 
+D        -  49-0 
+TPI    =  173 
+
+
+U        =  2*14 
+Q/U  =  14-50 
+D        -  73  00 
+1PI    =115 
+
+18 
+
+
+'//////A 
+
+zzzzzzzz; 
+
+
+U.4  ' 
+
+
+ZZZZZZZZ& 
+
+
+U        -  2*27 
+Q/U  -  16-50 
+D        -  69-00 
+TPI    =  104 
+
+
+19 
+
+**^;^>., 
+
+•*u*-/ 
+
+-  #*/<•*> 
+
+S       R 
+
+*         •  - 
+
+U  -  3-65 
+Q/U  -6-70 
+D  =  430 
+TPI    -  181 
+
+
+U        =  2-13 
+Q/U  =  16-50 
+D        =  76*0 
+TPI    =  95 
+
+
+20 
+
+
+^ka 
+
+
+::*;•'.•***:* 
+
+
+l^SSMSsIE 
+
+
+U  =  Transmittance  [  W/(  m2K  )  ] 
+D  =  Damping  (percentage) 
+
+
+U        -  2*45 
+Q/U  =  10-70 
+D        =  53  0 
+TPI    =  123 
+Q/U  =  Thermal  Time  Constant  (  hours  ) 
+TPI  =  Thermal  Performance  Index  (  percentage  ) 
+
+
+Fig.  3     Thermal  Performance  of  Flat  Roofs 
+
+
+U        -  4-02 
+
+Q/U  =  3*50 
+
+D        =  20  0 
+
+TPI    =211 
+
+©5 
+
+•• 
+
+&e) 
+
+■ 
+
+I— 
+<© 
+
+2 
+
+U  =  547 
+Q,/U  =  002 
+D  =  12*0 
+TPI    =  186 
+
+
+U        =  2-44 
+QJU  =  0-03 
+D        =  39  00 
+TPI    =  111 
+
+
+w 
+
+ID 
+K9 
+
+
+CO 
+
+CO 
+
+
+U  =  1-40 
+Q/U  =  0*09 
+D  =  18'0 
+TPI    =  80 
+
+
+Os 
+
+
+U  =  0-65 
+O  ,/U  =  1-80 
+D        =  170 
+
+TPI    ~  75 
+
+
+U        »  1*22 
+O  ,/U  «  058 
+D        =21 
+TPI    =  90 
+
+
+U        »  6*16 
+Q./TJ  =  0-21 
+D        =  6-0 
+TPI    =  198 
+
+
+U        =  3-56 
+Q/U  =*  7-70 
+D        =  53 
+TPI    =  138 
+
+
+U  ---  3-20 
+Q/U  «  12-2 
+D  =  39-0 
+TPI    =  127 
+
+
+U        =  2*38 
+Q,/U  -  160 
+D        =20 
+TPI    =*  116 
+
+
+U        =  1-69 
+Q  /U  =  18-0 
+D        =26 
+TPI    =  102 
+
+
+T1 
+
+
+U        =  4*07 
+Q/U  =  6-0 
+D        =78 
+TPI    =  150 
+
+
+U  «  Transmittance  [  W/(  m2K  )  ]    Q,/U  =  Thermal  Time  Constant  (  hours  ) 
+
+D  =  Damping  (  percentage  )  TPI  =  Thermal  Performance  Index  (percentage  ) 
+
+Fig.  4    Thermal  Performance  of  Sloped  Roofs 
+
+
+CO 
+N9 
+
+
+(0 
+
+3 
+
+
+IS  t  3792  -  1978 
+
+8.1,1  The  thermal  performance  index  (  TPI)  values  given  in 
+Tables  3,  4  and  5  are  for  a  typical  summer  design  day  with  a  fixed  surface 
+absorption  coefficient  (  a  ~  0*7  ).  The  correction  factors  may  be  applied 
+to  the  TPI  values  for  other  climatic  zones,  orientations  and  surface 
+finish  as  given  in  Table  6.  Corrected  TPI  values  for  unconditioned 
+buildings  are  obtained  from  the  following  equation: 
+
+Corrected  TPI  =  (  TPI  -  50  )  C  +  50 
+where  C  indicates  the  correction  factor  as  obtained  from  Table  6. 
+
+8.2  Typical  values  of  thermal  transmittance  for  different  types  of  doors 
+and  windows  are  given  in  Fig.  5. 
+
+9.  VALUES  OF  SHADE  FACTOR 
+
+9.1  The  values  of  shade  factor  for  various  types  of  shading  devices  are 
+given  in  Table  7, 
+
+
+18 
+
+
+/    / 
+
+
+V  7 
+
+}  \ 
+
+y  ? 
+
+t  S 
+
+
+U  =  4-83 
+
+
+U  =  4*83 
+
+
+U  =  4*83 
+
+
+U  =518 
+
+
+5A    Door  Ledged  and      5B    Door  Flush  Single        5C    Door  Panelled        5D     Door  Panelled 
+Braced  Hung  and  Glazed 
+
+
+*     I 
+
+-II  !!■    ^— 
+
+
+^  ^  * 
+
+^ 
+
+^  ^ 
+
+^ 
+
+^  ^ 
+
+
+U  =  5-12  U  =  5-23 
+
+5F    Window  Glazed  5G    Metal  Window 
+
+U  =  Overall  Thermal  Transmittance 
+
+Fig.  5    Thermal  Transmittance  of  Doors  and  Windows 
+
+
+U  =  568 
+5E    Door  Glazed 
+
+
+GO 
+
+•* 
+
+w 
+<o 
+
+
+to 
+
+3 
+
+
+IS  $  3792  -  1978 
+
+
+TABLE  3     THERMAL  PERFORMANCE  OF  WALLS 
+
+(  Clauses  &A  and  8.1.1  ) 
+Specification  of  Walls 
+
+
+Sl 
+No. 
+
+
+(1) 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+15. 
+
+
+U-        Thermal  Damping 
+Values        Time  ( D ) 
+
+Cons- 
+tant 
+
+
+TP1 
+
+
+(2) 
+
+
+1-25  cm  PL*  4-11*25  cm  brick  +  1*25  cm 
+PL 
+
+1-25  cm  PL  +  20-00  cm  brick  +  1*25  cm 
+PL 
+
+1*25  cm  PL  4-  22*5  cm  brick  4-  1'25  cm 
+PL 
+
+1-25  cm  PL  +  33-75  cm  brick  +  1'25  cm 
+PL 
+
+1-25  cm   PL  4-  45'0  cm  brick  4-  1*25  cm 
+PL 
+
+1*25  cm  PL  +  7*5  cm  brick  +  5*0  cm  air 
+gap  4-  7*5  cm  brick  +  1*25  cm  PL 
+
+1*25    cm  PL  +  11*25  cm  brick  +  5*0  cm 
+air  gap  4-  11*25  cm  brick  +  1*25  cm  PL 
+
+22*5  cm  cavity  brick  wall 
+
+1*25  cm    PL  4-  2'5   cm    expanded    poly- 
+styrene +  11-25  cm  brick  +  1*25  cm  PL 
+
+1-25    cm   PL  +  11*25  cm  brick  +  2*5  cm 
+expanded  polystyrene  4-  1*25  cm  PL 
+
+1'25   cm   PL  +  2*5    cm    expanded    poly- 
+styrene +  22*5  cm  brick  +  1*25  cm  PL 
+
+1-25   cm   PL  4-  22*5   cm  brick  +  2*5   cm 
+expanded   polystyrene  +  1*25   cm    PL 
+
+1*25  cm  PL  +  20  cm   cin.  cont  block  + 
+1-25  cm  PL 
+
+10  cm  con  block 
+
+15  cm  con  block 
+
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+W/(m«K) 
+
+h 
+
+percent 
+
+percent 
+
+3  00 
+
+7-72 
+
+58-9 
+
+164 
+
+2*28 
+
+17-44 
+
+87*6 
+
+97 
+
+2-13 
+
+21-16 
+
+78*8 
+
+93 
+
+1-65 
+
+41*0 
+
+87*6 
+
+64 
+
+1-35 
+
+67-13 
+
+90-9 
+
+61 
+
+1-80 
+
+1817 
+
+79*4 
+
+109 
+
+1-55 
+
+30-5 
+
+85*4 
+
+78 
+
+1-69 
+
+41*0 
+
+81-0 
+
+85 
+
+0*97 
+
+43*2 
+
+81-0 
+
+95 
+
+0*97 
+
+11-3 
+
+89-0 
+
+92 
+
+0*85 
+
+52-0 
+
+85*80 
+
+79 
+
+0*85 
+
+16-7 
+
+92*4 
+
+82 
+
+2-09 
+
+31*9 
+
+75-0 
+
+102 
+
+4-12 
+
+8*2 
+
+41-0 
+
+223 
+
+3-29 
+
+14 
+
+56 
+
+173 
+
+(  Continued ) 
+
+
+Wf^PBPJF'BW'.'iHHiiliMi.iLjpMiijiiM 
+
+
+2Q 
+
+
+IS  :  3792  -  1978 
+
+
+TABLE  3    THERMAL  PERFORMANCE  OF  WALLS  —  Contd 
+
+
+Sl  Specification  of  Walls 
+
+No. 
+
+(1)  (2) 
+
+16.  10  cm  cellular  con 
+
+17.  20  cm  dense  con-hollow  block  (2  holes) 
+
+18.  20  cm  dense  con-hollow  block  (  3  holes  ) 
+
+19.  10  cm  light  weight  con-block 
+
+20.  20  cm  light  weight  con-block  (  2  holes  ) 
+21.     20  cm  light  weight  con-block  (  3  holes  ) 
+
+22.  1*25  cm  PL  +  5  cm  foam  con  4-  11*25  cm 
+
+con  +  1-25  cm  PL 
+
+23.  10  cm  hollow  pan 
+
+24.  15  cm  hollow  pan 
+
+25.'  1*25  cm  PL  4-  11*4  cm  brick  wall  +  5*08 
+cm  reed  board  +  3*8  cm  cement  con 
+plaster 
+
+25.  25-4   cm   rubble   wall  +  L25   cm  PL 
+
+27.  7-62  X  7-62  cm  wooden  studs  +  381   cm 
+
+wooden   boarding   with  fireproof  paint 
+spray  on  each  side 
+
+28.  Mud  wall  based  on  wooden  lacings 
+
+*PL  =  cement  plaster 
+fcon  =  concrete 
+
+
+U-        Thermal 
+Values        Time 
+Cons- 
+
+Damping 
+
+TPI 
+
+TANT 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+W/(m2K) 
+
+h 
+
+percent 
+
+percent 
+
+2-12 
+
+14 
+
+57 
+
+112 
+
+3-01 
+
+14-5 
+
+61 
+
+136 
+
+2*79 
+
+12 
+
+67 
+
+131 
+
+2*90 
+
+12 
+
+49 
+
+193 
+
+2-07 
+
+40 
+
+81 
+
+101 
+
+1-93 
+
+18 
+
+73 
+
+107 
+
+0-99 
+
+45 
+
+80 
+
+90 
+
+3-27 
+
+14 
+
+57 
+
+214 
+
+2-56 
+
+18 
+
+68 
+
+132 
+
+080 
+
+56*4 
+
+86 
+
+79 
+
+3-47 
+
+65 
+
+32 
+
+103 
+
+1-03 
+
+280 
+
+82 
+
+92 
+
+4-88  to 
+
+4*9 
+
+30 
+
+628 
+
+21 
+
+
+IS:  3792 -1978 
+
+
+TABLE   4    THERMAL  PERFORMANCE  OF  FLAT  ROOFS 
+
+(Clauses  8  A  ardSAA) 
+Specification  of  Roof  Sections 
+
+
+Sl 
+
+No. 
+
+
+(1) 
+
+1. 
+
+2. 
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+9. 
+
+10. 
+
+11. 
+
+12. 
+13. 
+
+14. 
+15. 
+
+16. 
+
+17. 
+
+18. 
+
+19. 
+
+20. 
+
+
+(2) 
+
+
+lOcmRGG 
+
+10  cm  RCG  +  10  cm  lime  concrete 
+
+10  cm  RGC  +  5  cm  foam  con  +  water 
+proofing 
+
+5  cm  RGC  +  2*5  cm  expanded  polysty- 
+rene 
+
+5  cm  expanded  polystyrene  +  5  cm 
+RGC  +  waterproofing 
+
+2*5  cm  expanded  polystyrene  +  5  cm  RGC 
+
+10  cm  RCG  +  5  cm  cin.  4-  5  cm  brick 
+tile 
+
+10  cm  RCG  +  7*5  cm  cin.  +  5  cm  brick 
+tile 
+
+11 '5  cm  RCG  +  5  cm  Mud  Phuska  4-  5 
+cm  brick  tile 
+
+11*5  cm  RCG  +  7-5  cm  Mud  Phuska  f  5 
+cm  brick  tile 
+
+15  cm  clay  unit 
+
+13*75  cm  clay  unit 
+
+15  cm  clay  unit   -f  10  cm  lime  con 
+
+13*75  cm  clay  unit  +   10  cm  lime  con 
+
+10  cm  cellular  unit  4-  8*5  cm  lime  con- 
+crete 
+
+12*5  cm  cord  unit  4-  8*5  cm  lime  con- 
+crete 
+
+15*4  cm  lime  con  using  stone  aggregate 
+4-  7*6  cm  stone  slab 
+
+8*89  cm  concrete  using  brick  aggregate  4- 
+2*54  Kotah  stone  slab  on  each  side 
+
+5*03  cm  lime  con  using  ballast  aggregate 
+4-  11*4  cm  reinforced  brick  and  bitumen 
+wash  on  top 
+
+5*08  cm  lime  con  using  brick  ballast 
+aggregate  +  5*08  cm  RCG  slab  +  bitu- 
+men wash  on  top  surface 
+
+
+u- 
+
+Thebmal 
+
+Damp- 
+
+TPI 
+
+Values 
+
+Time 
+
+ing 
+
+Cons- 
+
+(D) 
+
+tant 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+W/(m*K) 
+
+h 
+
+percent 
+
+percent 
+
+3*59 
+
+4*3 
+
+30 
+
+184 
+
+2-78 
+
+10-3 
+
+71 
+
+131 
+
+108 
+
+5-9 
+
+88 
+
+70 
+
+108 
+
+1-8 
+
+84 
+
+64 
+
+0-62 
+
+400 
+
+83 
+
+61 
+
+109 
+
+21*0 
+
+78 
+
+72 
+
+2-07 
+
+14*0 
+
+81 
+
+90 
+
+1*76 
+
+15-0 
+
+85 
+
+80 
+
+2-31 
+
+24*5 
+
+87*3 
+
+97 
+
+2*01 
+
+31*2 
+
+91*3 
+
+84 
+
+315 
+
+8*8 
+
+520 
+
+183 
+
+2*99 
+
+7*7 
+
+53-0 
+
+170 
+
+2*21 
+
+22*7 
+
+75*0 
+
+125 
+
+2*14 
+
+14*5 
+
+73'0 
+
+115 
+
+2*27 
+
+140 
+
+69*0 
+
+104 
+
+2'13 
+
+16*5 
+
+76*0 
+
+95 
+
+307 
+
+12-6 
+
+49 
+
+173 
+
+3*65 
+
+6-7 
+
+43 
+
+181 
+
+2*45 
+
+10*7 
+
+53 
+
+123 
+
+4*02 
+
+
+3*5 
+
+
+20 
+
+
+211 
+
+
+22 
+
+
+IS:  3792 -1978 
+
+
+TABLE  5    THERMAL  PERFORMANCE  OF  SLOPED  ROOFS 
+
+(Clauses  8.)  and  8.1.1  ) 
+
+
+Sl 
+
+No. 
+
+
+(1) 
+
+
+Specification  of  (  Sloped  )  Roof 
+
+
+(2) 
+
+
+1.  0-625  cm  AG  sheet 
+
+2.  0-625    cm      AC      sheet  +  2*5     cm       air 
+
+space  +  insulating  board 
+
+3.  0*625  cm  AC   sheet  -f  air    space  -f  5    cm 
+
+fibre  glass  +  0-625  hard  board 
+
+4.  0*625    cm     AC     sheet  +  air     space  +   5 
+
+cm  sandwich   of  fibreboard/expanded 
+polystyrene 
+
+5.  0*625    cm     AC    sheet  +  air    space  +  2*5 
+
+cm  sandwich   of   fibre  board/expanded 
+polystyrene 
+
+6.  0*3  cm  GI  sheet 
+
+7.  2*5   cm   tile  +  2*5  cm  bamboo  reinforce- 
+
+ment 
+
+8.  5   cm    tile  +  2*5    cm    bamboo   reinforce- 
+
+ment 
+
+9.  2*5    cm   thatch   roof  +  2'5    cm    bamboo 
+
+reinforcement 
+
+10.  5    cm     thatch     roof  +  2*5     cm     bamboo 
+
+reinforcement 
+
+11.  Mangalore  tiles  on  wooden  rafters 
+
+
+u- 
+
+Valtjes 
+
+Thermal 
+Time 
+Cons- 
+tant 
+
+Damp-        TPI 
+
+ING 
+
+(D) 
+
+(3) 
+
+(4) 
+
+(5)          (6) 
+
+W/(m2K) 
+
+h 
+
+percent  percent 
+
+5*47 
+
+0*015 
+
+12            186 
+
+2-44 
+
+0-029 
+
+39            111 
+
+1-40 
+
+0-085 
+
+18              80 
+
+0*65 
+
+1-8 
+
+17              75 
+
+1-22 
+
+
+0-58 
+
+
+21 
+
+
+90 
+
+
+6*16 
+
+0-21 
+
+6 
+
+198 
+
+3-56 
+
+7*7 
+
+55 
+
+138 
+
+3-20 
+
+12-0 
+
+39 
+
+127 
+
+2-38 
+
+16*0 
+
+26 
+
+116 
+
+1*69 
+
+18-0 
+
+20 
+
+102 
+
+4-07 
+
+6 
+
+78 
+
+150 
+
+23 
+
+
+IS: 
+
+3792-1978 
+
+TABLE  6     CORRECTION  FACTORS  FOR  THERMAL 
+PERFORMANCE  INDEX  (  TPt  ) 
+
+(Clause  8,1.1  ) 
+
+No. 
+
+Characteristics 
+
+Hot  Dry 
+Zone 
+
+Hot  Humid 
+Zone 
+
+Warm  Humid 
+Zone 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+1. 
+
+Building  Component 
+
+a)  Roof 
+
+1 
+
+0-95 
+
+0'92 
+
+b)  Wall  (  W  ) 
+
+1 
+
+085 
+
+0*75 
+
+2. 
+
+Orientation  of  Wall 
+
+a)  N 
+
+0-45 
+
+0<38 
+
+0*34 
+
+b)  NE 
+
+0*70 
+
+059 
+
+0-54 
+
+c)  E 
+
+0*85 
+
+0*72 
+
+0*63 
+
+d)  SE 
+
+0*67 
+
+0'57 
+
+0*50 
+
+e)  S 
+
+0"55 
+
+0*47 
+
+0*42 
+
+f)  SW 
+
+0*75 
+
+0-64 
+
+0-57 
+
+g)  NW 
+
+0*70 
+
+0*68 
+
+0*60 
+
+3. 
+
+External  Surface  Finish 
+a)  Roof 
+
+i)  Dark 
+
+TOO 
+
+095 
+
+0*92 
+
+ii)  Light 
+
+075 
+
+071 
+
+0*69 
+
+b)  Wall 
+
+i)  Dark 
+
+VOO 
+
+0*85 
+
+075 
+
+ii)  Light 
+
+0*78 
+
+0*66 
+
+0*59 
+
+4. 
+
+Shading 
+
+a)  Roof 
+
+0-32 
+
+031 
+
+0*30 
+
+b)  Wall 
+
+035 
+
+030 
+
+0*26 
+
+24 
+
+
+IS :  3792  - 1978 
+
+
+TABLE  7    THERMAL  PERFORMANCE  OF  DIFFERENT 
+SHADING  DEVICES 
+
+(  Clause  9. 
+
+i) 
+
+Sl 
+
+No. 
+
+Name  or  the  Shading  Device 
+
+Tkansmittance 
+U -Value 
+
+Shade  Factor 
+
+(I) 
+
+(2) 
+
+(3) 
+W/(m*K) 
+
+(4) 
+
+1. 
+
+Plain  glass  sheet  (  3*0  mm  thick  ) 
+
+523 
+
+1-00 
+
+2. 
+
+Plain  glass  +  wire  mesh  outside 
+
+500 
+
+0*65 
+
+3. 
+
+Painted  glass 
+
+i)  White  paint 
+
+5*22 
+
+035 
+
+ii)  Yellow  paint 
+
+5-22 
+
+0-37 
+
+iii)  Green  paint 
+
+5-22 
+
+0*40 
+
+4. 
+
+Heat  absorbing  glass 
+
+4*65 
+
+0-45 
+
+5. 
+
+Plain  glass  sheet  -f-  Venetian  blind 
+inside 
+
+i)  Light  colour 
+
+ii)  Dark  colour 
+
+3*72 
+
+0*35 
+0-40 
+
+Plain  glass  sheet  4-  curtain  inside 
+i)  Light  colour 
+ii)  Dark  colour 
+
+Plain  glass  sheet 
+i)   100  percent  shaded 
+ii)   75  percent  shaded 
+iii)  60  percent  shaded 
+
+
+3-14 
+
+
+5*23 
+
+
+0*35 
+0-40 
+
+0*14 
+0-34 
+056 
+
+
+25 
+
+
+IS  :  3792  -  1978 
+
+APPENDIX     A 
+
+(  Clause  0.3 ) 
+
+GENERAL  PRINCIPLES  OF  HEAT  TRANSFER 
+
+A-l.  Heat  is  a  form  of  energy  that  is  transferred  from  one  side  of  a 
+building  unit  to  the  other  due  to  the  existence  of  temperature  difference. 
+The  rate  of  this  flow  depends  on  the  capacity  of  component  material  to 
+transmit  the  same.  This  property  of  the  building  unit  made  up  of  these 
+components  is  referred  to  as  its  thermal  transmittance. 
+
+A-2.  Regarding  transfer  of  heat,  the  simplest  system  is  a  homogeneous 
+material  which  is  enclosed  between  flat  parallel  hot  and  cold  faces  at  given 
+temperature.  In  the  steady  state  condition,  the  rate  of  heat  flow  under 
+given  constant  temperatures  is  directly  proportional  to  the  area  of  these 
+faces  and  inversely  proportional  to  the  distance  between  them.  In 
+practice,  however,  homogeneous  materials  are  rarely  met  with.  Build- 
+ing construction  consists  of  various  building  units  which  are  formed  out 
+of  two  or  more  homogeneous  materials. 
+
+A-3.  The  combinations  of  various  homogeneous  materials  actually  met 
+with  in  practice  may  be  defined  as  building  units,  whose  thermal  transmit- 
+tances  are  calculated  by  knowing  the  thermal  conductivity  of  the 
+individual  homogeneous  materials  and  by  the  thickness  of  these  materials. 
+
+A-4.  In  the  design  of  non-airconditioned  dwellings,  hospitals,  schools  and 
+office  buildings,  it  becomes  necessary  to  examine  the  amount  of  heat 
+transfer  as  well  as  the  rate  of  heat  penetration  through  the  building  unit 
+and  the  extent  to  which  the  external  diurnal  range  of  temperature  is 
+damped  by  the  building  unit. 
+
+A-5.  The  decreased  temperature  variation  inside  the  building  and  time 
+delay,  in  other  words,  thermal  damping  and  time  lag,  are  dependent  on 
+the  thermal  properties  of  the  building  unit.  The  thermal  damping  is 
+mainly  due  to  the  overall  thermal  transmittance  of  the  materials  forming 
+the  building  unit,  whereas  time  lag  is  mostly  dependent  upon  its  heat 
+storage  capacity.  The  combined  action  of  these  two  properties  under  a 
+given  climatic  condition  will  decide  the  thermal  performance  of  building 
+section.  It  has  been  found  that  total  thermal  performance  is  a  function 
+of  internal  surface  temperatures.  This  temperature  depends  upon  the 
+thermal  characteristics  of  building  section  and  outside  climatic  data. 
+
+
+26 
+
+
+IS:  3792 -1976 
+
+APPENDIX    B 
+
+(  Clauses  3.1.1,  3.1.2,  3.1.3  and  3.1.4  ) 
+
+SOME  REPRESENTATIVE  TOWNS  UNDER  HOT  AND  ARID, 
+HOT  AND  HUMID,  WARM  AND  HUMID,  AND  COLD  ZONES 
+
+
+Hot  and  Arid 
+
+Hot  and  Humid 
+
+Warm  and  Humid 
+
+Cold  Zone 
+
+Zone 
+
+Zone 
+
+Z°ne 
+
+Agra 
+
+Ahmadabad 
+
+Cochin 
+
+Darjeeling 
+
+Ajmer 
+
+Asansol 
+
+Dwarka 
+
+Dras 
+
+Akola 
+
+Bhavanagar 
+
+Gauhati 
+
+Gulmarg 
+
+Aligarh 
+
+Bhuj 
+
+Puri 
+
+Leh 
+
+Allahabad 
+
+Bombay 
+
+Sibsagar 
+
+Mussoorie 
+
+Ambala 
+
+Calcutta 
+
+Silichar 
+
+Nainital 
+
+Bareilly 
+
+Calicut 
+
+Tezpur 
+
+Ootacamund 
+
+Bikaner 
+
+Cuttack 
+
+Trivandrum 
+
+Shillong 
+
+Gaya 
+
+Dohad 
+
+Veraval 
+
+Simla 
+
+Jabalpur 
+
+Jamnagar 
+
+Skardu 
+
+Jaipur 
+
+Jamshedpur 
+
+Srinagar 
+
+Kanpur 
+
+Madras 
+
+Khandwa 
+
+Madurai 
+
+Kota 
+
+Mangalore 
+
+Lucknow 
+
+Masulipatam 
+
+Ludhiana 
+
+Midnapur 
+
+Nagpur 
+
+Nellore 
+
+Neemuch 
+
+Patna 
+
+New  Delhi 
+
+Rajkot 
+
+Roorkee 
+
+Ratnagiri 
+
+Sambalpur 
+
+Salem 
+
+Sholapur 
+
+Surat 
+
+Umaria 
+
+Tiruchirapalli 
+
+Varanasi 
+
+Vellore 
+Vishakhapatnam 
+
+27 
+
+
+K  s3?92 -1978 
+
+
+APPENDIX 
+
+(  Clause  6.1  ) 
+
+
+L 
+
+
+THERMAL  PROPERTIES  OF  BUILDING  AND  INSULATING 
+MATERIALS  AT  MEAN  TEMPERATURE  OF  50°C 
+
+
+Si, 
+No. 
+
+Type  of  Material 
+
+Density 
+
+Thermal 
+Conducti- 
+vity* 
+
+Specific 
+
+Heat 
+Capacity 
+
+(1) 
+
+a) 
+1. 
+
+(2) 
+
+Building  Materials 
+Burnt  brick 
+
+(3) 
+kg/m3 
+
+1820 
+
+(4) 
+W/(mK) 
+
+0*811 
+
+(5) 
+
+y/(kgK) 
+
+0*88 
+
+2. 
+
+Mud  brick 
+
+1  731 
+
+0-750 
+
+0-88 
+
+3. 
+
+Dense  concrete 
+
+2  410 
+
+1-74 
+
+0-88 
+
+4. 
+
+RCC 
+
+2  288 
+
+1-58 
+
+0*88 
+
+5. 
+
+Limestone 
+
+2  420 
+
+1*80 
+
+0-84 
+
+6. 
+
+Slate 
+
+2  750 
+
+1-72 
+
+0'84 
+
+7. 
+
+Reinforced  brick 
+
+1920 
+
+M0 
+
+0-84 
+
+8. 
+
+Brick  tile 
+
+1892 
+
+0-798 
+
+0-88 
+
+9. 
+
+Lime  concrete 
+
+1646 
+
+0-730 
+
+0-88 
+
+10. 
+
+Mud  Phuska 
+
+1622 
+
+0-519 
+
+0-88 
+
+11. 
+
+Cement  mortar 
+
+1648 
+
+0-719 
+
+092 
+
+12. 
+13. 
+
+Cement  plaster 
+Cinder  concrete 
+
+1762 
+1406 
+
+0-721 
+0-686 
+
+0-84 
+084 
+
+14. 
+
+Foam  slag  concrete 
+
+1320 
+
+0-285 
+
+0-88 
+
+15. 
+
+Gypsum  plaster 
+
+1  120 
+
+0-512 
+
+0-96 
+
+16. 
+
+Cellular  concrete 
+
+704 
+
+0-188 
+
+1-05 
+
+17. 
+
+AC  sheet 
+
+1520 
+
+0-245 
+
+0-84 
+
+18. 
+
+GI  sheet 
+
+7  520 
+
+61-06 
+
+0-50 
+
+19. 
+
+Timber 
+
+480 
+
+0-072 
+
+1-68 
+
+20. 
+
+Timber 
+
+720 
+
+0-144 
+
+1-68 
+
+21. 
+22. 
+
+Plywood 
+
+Glass 
+
+640 
+2  350 
+
+0-174 
+0-814 
+
+1-76 
+0-88 
+
+23. 
+
+24. 
+
+Alluvial  clay  (  40  percent  sands  ) 
+Sand 
+
+1  958 
+
+2  240 
+
+1-211 
+
+1-74 
+
+0*84 
+0*84 
+
+25, 
+
+Black  cotton  clay  (  Madras  ) 
+
+1899 
+
+0  735 
+
+0*88 
+
+26. 
+
+Black  cotton  clay  (  Indore  ) 
+
+1683 
+
+0-606 
+
+0*88 
+
+27. 
+
+Tar  felt  (  2*3  kg/m.2  ) 
+
+— 
+
+0-479 
+
+088 
+
+> 
+
+"The  thermal  conductivity  ( k  )  values  have  been  detei 
+
+1)  Guarded  Hot  Plate  Method,  and 
+
+2)  ASTM  Heat  Flow  Method. 
+
+:mim.d  by: 
+
+28 
+
+
+IS  t3792-1978 
+
+
+Sl 
+
+Type  of  Material 
+
+Density 
+
+Thermal 
+
+Specific 
+
+No. 
+
+Conducti- 
+vity* 
+
+Heat 
+Capacity 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+kg/m3 
+
+W/(mK) 
+
+kJ/(kgK) 
+
+b) 
+
+Insulating  Materials 
+
+1. 
+
+Expanded  polystyrene 
+
+16-0 
+
+0-038 
+
+1-34 
+
+2. 
+
+Expanded  polystyrene 
+
+24*0 
+
+0-035 
+
+1-34 
+
+3. 
+
+Expanded  polystyrene 
+
+340 
+
+0-035 
+
+1*34 
+
+4. 
+
+Foam  glass 
+
+127-0 
+
+0*056 
+
+0-75 
+
+5. 
+
+Foam  glass 
+
+160*0 
+
+0-055 
+
+0-75 
+
+6. 
+
+Foam  concrete 
+
+320-0 
+
+0070 
+
+0-92 
+
+7. 
+
+Foam  concrete 
+
+400-0 
+
+0-084 
+
+0-92 
+
+8. 
+
+Foam  concrete 
+
+704-0 
+
+0*149 
+
+0-92 
+
+9. 
+
+Cork  slab 
+
+1640 
+
+0*043 
+
+0-96 
+
+10. 
+
+Cork  slab 
+
+192-0 
+
+0  044 
+
+0-96 
+
+11. 
+
+Cork  slab 
+
+304*0 
+
+0*055 
+
+0-96 
+
+12. 
+
+Rock  wool  (  unbonded  ) 
+
+92*0 
+
+0-047 
+
+084 
+
+13. 
+
+Rock  wool  (  unbonded  ) 
+
+150-0 
+
+0043 
+
+084 
+
+14. 
+
+Mineral  wool  (  unbonded  ) 
+
+73-5 
+
+0*030 
+
+0-92 
+
+15. 
+
+Glass  wool  (  unbonded  ) 
+
+69*0 
+
+0*043 
+
+0-92 
+
+16. 
+
+Glass  wool  (  unbonded  ) 
+
+189-0 
+
+0-040 
+
+092 
+
+17. 
+
+Resin  bonded  mineral  wool 
+
+48-0 
+
+0-042 
+
+1*00 
+
+18. 
+
+Resin  bonded  mineral  wool 
+
+64-0 
+
+0-038 
+
+100 
+
+19. 
+
+Resin  bonded  mineral  wool 
+
+990 
+
+0036 
+
+1*00 
+
+20. 
+
+Resin  bonded  glass  wool 
+
+160 
+
+0040 
+
+1-00 
+
+21. 
+
+Resin  bonded  glass  wool 
+
+24-0 
+
+0  036 
+
+1*00 
+
+22. 
+
+Exfoliated  vermiculite  ( loose  ) 
+
+2640 
+
+0-069 
+
+0-88 
+
+23. 
+
+Asbestos  mill  board 
+
+1  397-0 
+
+0  249 
+
+0-84 
+
+24. 
+
+Hard  board 
+
+979-0 
+
+0-279 
+
+1-42 
+
+25. 
+
+Straw  board 
+
+310-0 
+
+0-057 
+
+1-30 
+
+26. 
+
+Soft  board 
+
+320*0 
+
+0*066 
+
+1-30 
+
+27. 
+
+Soft  board 
+
+249*0 
+
+0047 
+
+1-30 
+
+28. 
+
+Wall  board 
+
+262*0 
+
+0047 
+
+1-26 
+
+29. 
+
+Chip  board 
+
+432-0 
+
+0*067 
+
+1-26 
+
+30. 
+
+Chip  board  (  perforated  ) 
+
+352*0 
+
+0  066 
+
+1-26 
+
+31. 
+
+Particle  board 
+
+7500 
+
+0098 
+
+1*30 
+
+32. 
+
+Coconut  pith  insulation  board 
+
+520-0 
+
+0-060 
+
+1-09 
+
+33. 
+
+Jute  fibre 
+
+3290 
+
+0067 
+
+1*09 
+
+34. 
+
+Wood     wool     board     ( bonded     with 
+cement ) 
+
+3980 
+
+0081 
+
+1-13 
+
+35. 
+
+Wood   wool     board     ( bonded     with 
+cement ) 
+
+6740 
+
+0-108 
+
+1-13 
+
+36. 
+
+Coir  board 
+
+97-0 
+
+0-038 
+
+1-00 
+
+37. 
+
+Saw  dust 
+
+1880 
+
+0051 
+
+1*00 
+
+38. 
+
+Rice  husk 
+
+1200 
+
+0-051 
+
+1-00 
+
+39. 
+
+Jute  felt 
+
+291-0 
+
+0042 
+
+088 
+
+40. 
+
+Asbestos  fibre  ( loose  ) 
+
+640-0 
+
+0060 
+
+0*84 
+
+♦The  thermal  conductivity  (  k  )  values  have  been  determined  by: 
+
+1)  Guarded  Hot  Plate  Method,  and 
+
+2)  ASTM  Heat  Flow  Method. 
+
+
+29 
+
+
+IS:  3792  -1978 
+
+APPENDIX    D 
+
+(  Clause  1 A  ) 
+
+EXAMPLES  SHOWING  CALCULATION  OF  THERMAL 
+TRANSMITTANCE  AND  THERMAL  TIME  CONSTANT 
+
+D-l.  CALCULATION  OF  THERMAL  TRANSMITTANCE    V  FOR 
+TYPICAL  CASES 
+
+D-l.l  Procedure 
+
+a)  Calculate  thermal  resistance  R  of  each  uniform  material  which 
+constitutes  the  building  unit  as  follows: 
+
+R=  -j-[see$l  No.   (v),  Table  1  ] 
+
+where 
+
+L  —  thickness  of  material  in  m,  and 
+
+W 
+
+k  =  thermal  conductivity   in    — ^. 
+
+b)  Find  the  total  thermal  resistance  RT  as  follows: 
+
+Jo  Ji 
+
+where 
+
+f0  =  outside  surface  conductance  (  see  Note  ), 
+fi  =  inside  surface  conductance  (  see  Note  ),  and 
+/?i,  i?2,  /?3  =  thermal  resistance  of  different  materials. 
+
+Note  —  The   following    values    of   surface    heat    transfer   coefficient    and   air 
+conductance  have  been  taken  for  the  computation  of  various  parameters: 
+
+a)  Outside  film  coefficient  at  an  air  velocity  of  19*86  W/(  m2  K  ) 
+8-0km/h  (/o) 
+
+b)  Inside  film  coefficient  at  still  air  (fi)  936  W/(  m2  K  ) 
+
+c)  Enclosed  air  space  conductance  [  W/(  m^K )  ]  For  E  =  0*82    For  E  =  0*2 
+
+1)  Vertical     closed     air     space     thickness  622  272 
+greater  than  2*0  cm  at  50°C 
+
+2)  Horizontal    air    space    thickness    greater  6'22  2'04 
+than  2*0  cm  at  50°G  (heat  flow  downwards ) 
+
+^=^W/(m2K) 
+
+30 
+
+
+IS  1 3792 -1978 
+
+
+D-1.2  Examples 
+
+
+Example  1  —To  find  U  for  19  00  cm  thick  brick  outside  wall  provided 
+with  1  00  cm  thick  cement  plaster  on  both  sides. 
+
+
+tern  THICK  CEMENT 
+PLASTER 
+
+
+1)  *i  -  0-721  W/(mK) 
+h  =0-811  W/(mK) 
+k3  =  0-721  W/(mK) 
+Lx  =  0-01  m,  Is  =  0-19  m,  L3  =  0-01  m 
+
+
+Lx 
+
+
+'L. 
+
+
+Rl  = 
+
+J I_ 
+
+/i        9-36 
+
+J__ 1_ 
+
+/o  ~~  1986 
+
+1 
+
+
+0-01 
+
+
+0-721 
+0-19 
+
+
+=  0-013  9 
+
+
+0-811 
+0-01 
+
+
+=  0-234  3 
+
+
+0-721 
+=  0-106  8 
+
+
+=  0-013  9 
+
+
+2)  #T  = 
+
+
+=  0-050  4 
+1      , 
+
+
+/< 
+
+
+/ 
+
+
+7?!  +  Ra  4-  Rs  =  0-419  3 
+
+
+3>  ^—TC-O^J- 2-383  W/(m-K) 
+
+
+31 
+
+
+IS  :  3792  -  1978 
+
+
+Example  2  —  To  find  U  for  outside  wall  of  two  layers  of  9*00  cm  brick 
+with  5  cm  air  gap  in  between  and  plastered  with  1-00  cm 
+thick  cement  plaster  on  both  sides. 
+
+
+5  cm  AIR  GAP 
+
+
+Icm  THICK  CEMENT 
+PLASTER 
+
+
+1)  *!=:A;5c=  0-721  W/(mK) 
+*i  =  *4  =  0'811  W/(mK) 
+
+Lx  =  0*01  m,  L2  =  0-09  m,  Li  =  0*09  m,  L5  =  0'01  m 
+C3  =  622  W/(  m2K  )  (  for  emissivity  =  0*82  ) 
+Lx  0*01 
+
+
+Ri 
+
+
+*2  = 
+
+
+U 
+
+1 
+
+
+0-721 
+0  09 
+
+
+=  0-0139 
+
+
+^3 
+
+
+0*811 
+1 
+
+
+=  0*111  0 
+
+
+Rt  =  -^= 
+
+
+/?«=■ 
+
+
+k, 
+
+
+6-22 
+009 
+0*811 
+0*01 
+
+
+0*160  8 
+
+
+-0-1110 
+
+
+1 
+
+/i 
+
+1 
+
+
+936 
+
+
+0-721 
+.=  0*106  8 
+
+
+0*013  9 
+
+
+1 
+
+
+r    ^low;  =  0  050  4 
+jo         19-86 
+
+
+2)  i?T=0-567  8 
+
+3)  U=     l 
+
+
+1 
+
+
+R?         0-567  8 
+1*761  W/(m»K) 
+
+
+32 
+
+
+IS  i  3792  -  1978 
+
+Example  3  —  To  find  Ufor  19*00  cm  brick  outside  wall  insulated  with 
+2*50  cm  expanded  polystyrene  and  finished  on  both 
+sides  with  1*00  cm  cement  plaster. 
+
+
+1cm  THICK  CEMENT 
+PLASTER 
+
+
+2.5cm  THICK   EXPANDED 
+POLYSTYRENE 
+
+
+1)  £1  = 
+
+*2  = 
+^3  = 
+
+J__ 
+1__ 
+
+2)  RT- 
+
+
+--h  =0-721  W/(mK) 
+
+=  0*811  W/(mK) 
+
+=  0-035  W/(mK) 
+
+=  0-01  m,  L2  =  0-19  m,Z3 
+
+,  J±-  =    001 
+kx   ""    0-721 
+
+
+0-025  m,  L4  =  0-01  m 
+
+
+-=0-013  9 
+
+
+-1^°:"  0-234  3 
+
+A;2  0-811 
+
+
+0025 
+
+
+U  ^ 
+
+kz  0035 
+
+L4  _    0;01_ 
+
+IT 
+i 
+
+9-36 
+J 
+19-86 
+
+
+=  0*714  3 
+
+
+0  721 
+
+=-0-106  8 
+
+
+=  0-013  9, 
+
+
+■  0-050  4 
+
+
+1-1336 
+
+
+=  0882  W/(  m«K  ) 
+
+
+33 
+
+
+IS  :  m%  -  1976 
+
+
+Example  4  —  To  find  U  for  a  15-cm  thick  RCC  roof  slab  plastered  on 
+both  sides  with  1  cm  thick  cement  plaster. 
+
+
+r1cm  THICK  CEMENT 
+PLASTER 
+
+
+vlfe 
+
+
+■'mm 
+
+
+\-15c 
+
+
+5cm  THICK 
+RCC  SLAB 
+
+k3  =  0-721  W/(mK) 
+
+l'58W/(mK) 
+
+0*01  m,  L2  =  0-15  m*  Z,3  = 
+
+*i   ""    0  721   -UU1^  J 
+
+^=9T6=°-1068 
+7-=  T7thf=  0-050  4 
+
+
+1)   Ax 
+
+
+i?a 
+
+
+0-01  m 
+
+
+i?3  = 
+
+1 
+
+j 
+
+/o 
+2)  RT 
+
+
+19-86" 
+=  0-279  9 
+
+3>   U~l£  =C^27T9  =  3-573  W/(mSK) 
+Example  5  —  To  find  £/  for  a   15-cm  thick  RCC  roof  slab  insulated 
+with  5  cm  thick  expanded  polystyrene  and  finished  with 
+4  cm  thick  brick  tiles  on  the  top  and  1  cm  thick  cement 
+plaster  on  the  bottom. 
+
+-5cm  THICK  EXPANDED 
+POLYSTYRENE 
+
+
+-15cm  THICK  RCC  SLAB 
+-1cm  THICK  CEMENT   PLASTER 
+
+
+34 
+
+
+IS:  3792 -1978 
+
+
+1)  A1  = 
+
+#4  = 
+^1  = 
+
+
+_1^ 
+
+/i 
+
+J_ 
+
+/o 
+2)  *T: 
+
+
+0*798  VV/(  mK  ) 
+0-035  W/(  mK  ) 
+1-58    W/(mK) 
+0*721  W/(mK) 
+0*04  m,  L%  =  0*05  m,  Z,3  =  0*15  m,  U 
+
+Lx        0-04 
+
+Ax  ~"    0-798 
+
+_L2        0-05 
+
+k2  ~    0*035 
+
+L3        0-15 
+
+A8  "    1*58 
+
+L4  _0-01 
+
+h  ""0-721 
+1 
+
+
+0-01  m 
+
+
+*3 
+
+
+**  =  4^= 
+
+
+-  =  0-050  1 
+
+
+■=  1-4286 
+
+
+=  0-094  9 
+
+
+0-013  9 
+
+
+9*36 
+
+1 
+
+:  19-86 
+
+1-744  7 
+
+
+=  0-1068 
+
+
+=  0*050  4 
+
+
+1 
+
+
+3)  U=\IR?=    W447 
+=  0-573  W/(  m*K  ) 
+
+Example  6 —To  find  U  for  a  roof  of  construction  as  in  Example  4  and 
+having  a  false  ceiling  made  of  two  layers  of  1*2  cm  soft 
+board  with  an  air  gap  of  2  cm. 
+
+
+-1cm  THICK  CEMENT   PLASTER 
+
+
+A 
+
+
+15  cm  THICK  RCC  SLAB 
+
+
+M\'£>V"Vv  Y^-t-'-  "'  •'/   -  *    ' '•-  "•.•'•..       Vv*.  ;'-'v.:i^V7*: 
+
+
+?   s  j  ;  )   j   >  >  ;  }   >  ;  Z 
+
+
+>   ^  *  J  -1 
+
+
+\_ 
+
+
+j  fs  j  />>.*>////  /i 
+
+
+2  cm  AIR  GAPS 
+V2cm  THICK  SOFT  BOARDS 
+
+
+35 
+
+
+IS  :  3792  ■  1978 
+
+1)  k1  =  k3  =  0-721  W/(mK) 
+h2  =  1-58  W/(  mK  ) 
+ks  =  k7  =  0-047  W/(  mK  ) 
+
+Ci  =  C6<=  6-22  W/(  m*K  )  (  for  emissivity  =  0-82 ) 
+A  =  0-01  m,  Ia  =  0-15  m,..£8  =  0-01  m,  Ls  =  0  012  m, 
+L1  =  0  012  m 
+
+*-£-■?»- ■"»" 
+
+„  _  L,         0  012         „.,„  . 
+
+
+1        1 
+
+
+0-106  8 
+0-050  4 
+
+
+/i         9-36 
+
+J _J_ 
+
+/o~  19  86 
+
+2)  RT=  1-112  1 
+
+3)£7=^-Fr1f2i 
+
+=  0-899  W/(  m2K  ) 
+
+D-2.  CALCULATION  OF  THERMAL  TIME  CONSTANT  FOR 
+TYPICAL  CASES 
+
+D-2.1  Procedure  —  Thermal  time  constant  for  homogeneous  or  composite 
+wall  or  roof  may  be  calculated  from  the  formula  ffiven  in  Table  1. 
+SI  No.  (xi). 
+
+36 
+
+
+15:3792-1978 
+
+
+D-2.2  Examples 
+
+
+Example  1  — To  find  T  for  19-cm  thick   brick   wall   provided   with 
+1*00  cm  thick  cement  plaster  on  both  sides. 
+
+
+1cm  THICK  CEMENT 
+PLASTER 
+
+
+1)  For  cement  plaster 
+
+L  —  0-01  m 
+k  -0-721  W/(mK) 
+P  =  1  648  kg/m* 
+c^.0-84kJ/(kgK) 
+
+2)  For  brick 
+
+L  =  0-19  m 
+k  =0-811  W/(mK) 
+p  =  1  820  kg/  m3 
+*  =  0-88kJ/(kgK) 
+
+3)  For  plaster 
+
+Lx  PlCl=-0-01  X  1  648  x  0-84 
+-  13-843  kJ/(  m^K  ) 
+=  13  843  .Ws/(  m2K) 
+
+Vs=TOr=°-°139m8K/w 
+
+37 
+
+
+IS  i  3792  -  1978 
+
+4)  For  brick 
+
+La  PaCa^O'19  X  1  820  X  0-88 
+=  304-304  kJ/(  m«K  ) 
+—  304  30lWs/m*K 
+0-19 
+
+
+L^jki 
+
+
+0-811 
+
+
+=  0-234  3  m2  K/W 
+
+
+5)   T=2 
+
+
+U 
+
+
+=  ( 0-050  4  +  0*006  95  )  X  13  843  4-  (  0-050  4  +  0-013  9  + 
+0-117  15)  x  304  304  +  (0*050  4  +  0-013  9  +  0-234  3  + 
+0-006  95)  X  13  843 
+
+=  0-057  4  x  13  843  +  0-181  5  x  304   304  +  0-3056x  13  843 
+
+=  794-59  +  55  231-18  +  4  230-42 
+
+=  60  256-19  seconds 
+cs  17  hours 
+
+Example  2  —  To  find  T  for  a  sloped  roof  of  6-25  mm  AC  sheets  with 
+an  air  gap  and  a  false  ceiling  of  softboard  12  mm  thick. 
+
+
+AIR    GAP 
+
+
+S-25mm  THICK 
+AC  SHEET 
+
+
+■12mm  THICK   SOFT     BOARD 
+
+i)  For  AC  sheet 
+Z,!  =  0-006  25  m 
+Jfcx  =  0-245  W/(mK) 
+
+Pl    =  1  520  kg/m3 
+cx    =0-84kJ/(kgK) 
+
+|L.    O^L-0.025  5 
+
+kx         0-245 
+
+^  Pi  Ci  =  0-006  25  x  1  520  X  0-84  =  7-98  kJ/(  m^K  ) 
+=  7  980  Ws/(  m*K  ) 
+
+
+38 
+
+
+!$:  3592 -19*8 
+
+2)  For  air  gap 
+L%  PiC2  =  0 
+
+3)  For  softboard 
+Lg=  0-012  m 
+
+k3  =  0-047  W/(  mK) 
+Ps  =  249  kg/m3 
+rs  =  1-30  kJ/(  kgK  ) 
+
+k3        0-047  u^00-5 
+
+L3P3C3  =  0012  X  249  x  1-3 
+=  3-884  4  kJ/(  m2K  ) 
+=  3  884-4  Ws/(  m»K  ) 
+
+•=  (  0-050  4  4-  0-012  75  )  x  7  980  +  0  +  (  0-050  4  +  0-025  5  + 
+0  +  0-127  65)  x  3  884-4 
+
+=  0-063  2  X  7  980  +  0-203  6x3  884-4 
+
+=  503-94  +  790-86 
+
+=  1  294*8  seconds 
+
+=2  0-36  hours. 
+
+
+30 
+
+
+Indian  standards 
+on 
+functional  requirements  in  buildings 
+
+IS: 
+
+1950-1962  Code  of  practice  for  sound  insulation  of  ncn-mdustrial  buildings 
+
+2440-1975  Code  of  practice  for  daylighting  of  buildings  (  second  revision  ) 
+
+2526-1963  Code  of  practice  for  acoustical  design  of  auditoriums  and  conference  halls 
+
+3103-1975  Code  of  practice  for  industrial  ventilation  {first  revision) 
+
+3362-1977     Code     of    practice     for     natural      ventilation    of    residential     buildings 
+
+(first  revision ) 
+3483-1965     Code  of  practice  for  noise  reduction  in  industrial  buildings 
+3792-1978     Guide  for  heat  insulation  of  non-industrial  buildings  (first  revision  ) 
+4954-1968     Recommendations  for  noise  abatement  in  town  planning 
+
+4963-1968     Recommendations   for   buildings  and  facilities  for   the   physically  handi- 
+capped 
+
+5499-1969     Code  of  practice  for  construction  of  underground  air-raid  shelters  in  natural 
+soil 
+
+6060-1971     Code  of  practice  for  daylighting  of  factory  buildings 
+
+6074-1971     Code   for   functional   requirements   of  hotels,   restaurants   and   other   food 
+service  establishments 
+
+7662  (  Part  I  )-1974     Recommendations  for  orientation  of  buildings:  Part  I  Non-indus- 
+trial buildings 
+
+7942-1976     Code  of  practice  for  daylighting  of  educational  buildings 
+
+8827-1978    Recommendations  for  basic  requirements  of  school  buildings 
+
+
+INTERNATIONAL   SYSTEM   OF   UNITS   (SI    UNITS) 
+
+
+UflIU 
+
+Quantity 
+Len-glri 
+
+Mass 
+
+Time 
+
+Electric  current 
+
+Thormodyn*irtir- 
+leniperaiuna 
+
+Luminous  fnl^nsiiy 
+
+Amount  vt  sub stan cb 
+
+
+Untt 
+
+kilogram 
+
+second 
+
+ampere 
+
+kelvln 
+
+mole 
+
+
+Symbot 
+
+m 
+
+ho 
+
+A 
+K 
+
+cd 
+ma  I 
+
+
+Supplementary  Units 
+
+Quantity 
+
+Plane  angle 
+Solid  angle 
+
+
+radian 
+Eta  radian 
+
+
+Symbol 
+rad 
+
+
+Derived  Unfile 
+Quantity 
+
+Force 
+
+Energy 
+
+Fewer 
+
+Flux 
+
+Flux  Penalty 
+
+Frequency 
+
+Electric  conductance 
+
+EFectromuiivu  loree 
+Pressure,  ctrosa 
+
+
+Unit 
+
+newton 
+
+joule 
+
+watl 
+
+webcr 
+
+testa 
+
+hertz 
+
+Siemens 
+
+volt 
+
+pascal 
+
+
+Symbol 
+
+N 
+
+J 
+
+W 
+
+Wb 
+
+T 
+
+Hz 
+
+5 
+
+V 
+
+Pa 
+
+
+Definition 
+
+H  «  1  Jtg.m's* 
+J  —  1  N.m 
+W  =  1  Ji 
+%  Wb  -  1  V.b 
+1     T  -  1  Wb/rn* 
+1   Hi  -  1  cs  (B-1) 
+1      S  =  t  A  V 
+1     V  =  1  W.'A 
+1   Pa  -  1  N/m> 
+
+
+INDIAN   STANDARDS   INSTITUTION 
+Ma  nek  Bhavan,  e  Bahadur  Shah  2  afar  Maru. 
+
+Telephone  a  ;  2S  60  H,  17  01  31 
+Riglonii  Officii 
+
+Wniarn   ;      Novalty  Cham  bar*  h  Grant  Read 
+
+Eastern     |     6  Chcwrlnghee  Approach 
+
+Southern  :     C,  L  T*  Carnpua,  Adyar 
+
+flrancfl  Qfflct  u 
+
+'Pustipafc',  Nurmenanied  Shaikh  Mary,.  Khanpar 
+
+'f  '  Blot*,  Unity  Bldg,  N  a  rati  m  ha  raja  Sauarn 
+
+San  get  r  I  Complex,  Bhadbhada  Road,  T.  T,  Naaar  BHOPAL  iii^QOJ 
+
+
+NEW  DELHI  flMQ* 
+
+Tel  ear  a  mi  : 
+
+BOMBAY  400007 
+CALCUTTA  7M07S 
+MADRAS  eOQuSO 
+
+
+Manama  null  a 
+
+Telephone 
+
+37  07  99 
+23-Ufl  OS 
+41  24 -IS 
+
+
+AHMAUABAD  3B0001 
+BANGALORE  56iJW2 
+
+
+22 E  Kolpana  Area 
+
+Ahlmef  BJdg.  SCO  B2-83.  S»c|ar  17C 
+
+SU-5rJ,'57  L.  N.  Gupta  Mara 
+
+U-27J  Todarmal  Marfl,  Banlparh 
+
+117/418  K  Sarvodeva  Najjar 
+
+B.C. I.  Bfda  I  3rd  Fleer  K  Gandhi  Maldan  Ea&l 
+
+HantaR  BldO  *  2nd  Floor  ),  Hly  Station  floed 
+
+
+BHUBANESHWAR  761QH 
+
+CHANDIGARH  1tiOUl7 
+
+HYDERABAD  jOU&OI 
+
+JAIPUR  30SOOS 
+
+KANPUR5QB00S 
+
+PATNA  fiQDuDJ 
+
+TRJ  VANPRUM  GHODl 
+
+
+2  03  91 
+2  7G4B 
+6  27  Ifl 
+&3S27 
+a  S3  20 
+33  10  A3 
+G  93  32 
+1  IS  72 
+S  36  5" 
+32  27 
+
+
+Pi  in  ma  >l  N#n  India  Printing  Prtis.  Khurla.  Ind.a 
+
+

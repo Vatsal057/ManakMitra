@@ -1,0 +1,767 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 2726 (1988) : Code of practice for fire safety of 
+industrial buildings: Cotton ginning and pressing 
+(including cotton seed delintering) factories [CED 36: Fire 
+Safety] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi f 7ui^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 2726 - 1988 
+
+( Reaffirmed 2002 ) 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR FIRE SAFETY OF 
+
+INDUSTRIAL BUILDINGS: COTTON GINNING 
+
+AND PRESSING ( INCLUDING COTTON SEED 
+
+DELINTERING ) FACTORIES 
+
+( First Revision ) 
+
+
+
+UDC 69981 : 725-42 : 67705 1152 
+
+
+
+® Copyright 1988 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr 2 August 1988 
+
+
+
+!S : 2116 - 1988 
+
+
+
+Indian Standard 
+
+CODE OF PRACTICE FOR FIRE SAFETY OF 
+
+INDUSTRIAL BUILDINGS: COTTON GINNING 
+
+AND PRESSING ( INCLUDING COTTON SEED 
+
+DELINTERING ) FACTORIES 
+
+( First Revision ) 
+
+0. FOREWORD 
+
+
+
+0.1 This Indian^ Standard ( First Revision ) was 
+adopted by the Bureau of Indian Standards on 
+29 February 1988, after the draft finalized by the 
+Fire Safety Sectional Committee had been 
+approved by the Civil Engineering Division 
+Council, 
+
+0.2 Fires occur quite frequently in the gin 
+houses, delintering machines and cotton openers 
+usually installed in press houses due to frictional 
+heat of high speed machines and also sparks from 
+foreign material coming in along with kapas, 
+cotton or cotton seeds. Further, oily and greasy 
+cotton waste and cotton seeds are subject to 
+spontaneous heating. The other causes of fire 
+in this type of factories are bad house-keeping, 
+congestion and faulty electrical equipment. In 
+order to reduce fire losses, besides installation of 
+adequate fire-fighting equipment, it is necessary 
+to plan carefully and layout of buildings and the 
+
+
+
+arrangements for storage of kapas, cotton seeds, 
+waste cotton, if any, and fully pressed bales. 
+This standard has been formulated to cover all 
+these aspects. This standard was first published 
+in 1964. Based on the recommendations of 
+Tariff Advisory Committee on the basis of 
+experience gained by them in the past 24 years, 
+this revision has been prepared. 
+
+0.3 For the purpose of deciding whether a parti- 
+cular requirement of this standard is complied 
+with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall 
+be rounded off in accordance with IS : 2-1960*. 
+The number of significant places retained in the 
+rounded off value should be the same as that of 
+the specified value in this standard. 
+
+
+
+♦Rules for rounding off numerical values ( revised ). 
+
+
+
+1. SCOPE 
+
+1.1 This standard lays down the essential require- 
+ments for fire safety of cotton ginning, cotton 
+seed delintering and pressing factories 
+
+2. TERMINOLOGY 
+
+2*0 For the purpose of this standard, the defi- 
+nitions of the following terms shall apply. 
+
+2.1 Kapas — Cotton with seed, that is, unginned 
+cotton. 
+
+
+
+pressed bales by means of mechanical or electrical 
+power. 
+
+2.7 Cotton Opener — A machine designed to 
+open-up and clean ginned cotton by the combing 
+action of spiked or knifed beatersj the cotton to 
+the opener being conveyed by an endless lattice. 
+2«g Fully Pressed Bales ( FP Bales ) — Iron- 
+bound bales hydraulically pressed by mechanical 
+or electric power to a density of 560 kg/m*. 
+2.9 Gin — A machine used for separating cotton 
+from its seeds. 
+
+
+
+2*2 Cotton — Ginned kapas or 
+which seeds have been removed. 
+
+
+
+kapas from 3. LOCATION 
+
+
+
+23 Linters — Fibres removed from, cotton seeds 
+which are separated from kapas during the 
+process of ginning. 
+
+2.4 Waste Cotton — Ginned or unginned cotton 
+containing impurities like dust, oil, grease, etc. 
+
+2.5 Gin House — Place where seeds from kapas 
+are removed by means of mechanical or electrical 
+power. 
+
+2.6 Press House — Place where ginned cotton 
+or linters are hydraulically pressed into fully 
+
+
+
+3.1 The factories should be located in their 
+own compound and preferably in mofussil 
+districts or outside the limits of municipal areas 
+in close proximity to pucca roadways leading to 
+towns so that the town's fire brigade can come 
+to assistance, should a serious fire occur. 
+3*2 If factories are located near each other, a 
+minimum clear distance of 90 m should be main- 
+tained between the factory compounds. 
+3.3 Factories should be at least 275 m away 
+from railway sidings, yards and 30 m away from 
+high tension electrical lines. 
+
+
+
+1 
+
+
+
+18:2726-1988 
+
+
+
+4. COMPOUND 
+
+4.1 The compound surrounding the factories 
+should be of sufficient area to store all the in- 
+coming kapas. The area should necessarily corre- 
+late to capacity of the plants but at least two 
+hectares are necessary when one hundred bales or 
+an equivalent amount of kapas is ginned, delin- 
+tered or pressed in a day in the factory. The area 
+of the compound should be increased if the 
+pressing capacity of the plant is more. 
+
+4.2 Areas where goods are 'to be stored in the 
+open should be raised at least 25 cm above the 
+general ground level. 
+
+5. BUILDING CONSTRUCTION 
+
+5.1 All buildings where kapas is cleaned, ginned 
+and pressed, shall be of at least Type II con- 
+struction (^ee IS : 1642-1988 )*. 
+
+5.2 Godowns for cotton seeds, kapas, ginned 
+cotton, linters, pressed bales should be of at least 
+Type L Construction ( see IS : 1642-1988* ). 
+
+5.3 Store godowns, engine or transformer house 
+buildings should be of at least Type II construc- 
+tion ( ^^^ IS : 1642-1988*). 
+
+5.4 There shall be at least three door openings 
+in every working block. 
+
+
+
+$. SEPARATING WALLS 
+
+6.1 Separating walls should be constructed bet- 
+ween fully pressed bales godowns, kapas godowns 
+seed godowns, ginned cotton godowns and stores, 
+and between gin or press houses and delintering 
+section. 
+
+6.2 Engine houses or motor rooms and boiler 
+houses should have similar separating walls if 
+they adjoin the ginning, delintering and pressing 
+sections. 
+
+7. DISTANCES 
+
+7.1 A minimum distance of 15 m should be 
+maintained between any two buildings or between 
+a building and storage in the open or between 
+two different kinds of storages in the open 
+except as specified in 7.2 to 7*5. 
+
+7.2 Kapas and ginned cotton should be stored at 
+least 30 m away from the factories and the 
+godowns. In case pneumatic conveyors are pro- 
+vided in the gin house, a limited quantity oi kapas 
+may be stored near the gin house to feed the 
+conveyors but in no case, the storage shall be 
+within 6 m of the gin house. 
+
+7.3 Heaps of kapas or cotton or linters in boras 
+in the compound should not exceed 10 000 kg 
+and their height should not exceed 2 m. A mini- 
+tnum distance of 6 m should be maintained 
+between any two such heaps. 
+
+
+
+♦Code of practice for fire safety, of buildings ( general ): 
+Details of construction (first revision ). 
+
+
+
+7.4 Fully. pressed bales should be stored at least 
+30 m away from the press house, gin house, or 
+from cotton or kapas stored in the open. 
+
+7.5 Residences and offices should be at least 50 m 
+away from the nearest storage of kapas or ginned 
+cotton or cotton bales and the ginning and press- 
+ing houses. 
+
+7.6 No bay fodder, grass, bhoosa ( chaff ) or 
+other similar stocks should be stored within 90 m 
+of any factory building, godown or storage area. 
+
+7.7 No lighting by mineral or vegetable oil 
+should be allowed in the premises within 60 m 
+of cotton storage areas. 
+
+7.8 No oily or greasy waste^should be deposited 
+in open in the compound. 
+
+7.9 No loose cotton should be stored in open 
+within 30 m of stocks of kapas or fully pressed 
+bales of cotton. 
+
+8. GODOWNS 
+8.1 Geaeral 
+
+8.1.1 Godowns should not be used for mixed 
+storage of kapa^, cotton, cotton seeds, linters, 
+fully pressed bales and cotton waste. 
+
+8.1.2 No godown should have a storage capa- 
+city of more than 2000 fully pressed cotton 
+bales or ginned or unginned cotton or linters 
+equivalent to 500 fully pressed bales. Stacking 
+height in the fully pressed cotton godowns should 
+not exceed 4 m ( a height of about 8 bales ) or up 
+to a level which is not Jess than one metre below 
+the roof or ceiling, whichever is less. A colour 
+band, about 15 cm wide, should be painted on 
+the inside of walls at this height to serve as a 
+guide to the workers when stacking. 
+
+8.1.3 Passages should be provided beween 
+stacks of bales and goods. These passages should 
+not be less than 2 m wide and not more than 
+10 m apart. The passage should always be kept 
+clear of bales by night fall. 
+
+8.1.4 A minimum clear distance of 60 cm 
+should be maintained between stacks of fully 
+pressed bales and the godown walls. 
+
+8.1.5 Packing materials and engineering goods 
+including oils and lubricants should be stored in 
+the store godown. 
+
+8.2 The floor levels of godowns should at least 
+be 075 m above the surrounding ground level 
+and the floor should be made sloping towards 
+the door sills; a slope of 1 in 100 is considered 
+adequate. 
+
+8.3 Doors and Windows — Door should not 
+exceed 6'25 m in area and should be close- 
+fitting. All doors should be protected against 
+damage by lorries, trucks and falling bales. There 
+
+
+
+IS: 2726 -1988 
+
+
+
+should be no other external wiadows or openings 
+except ventilators and windows. Ventilators 
+should be located at a height of not less than 3 m 
+from the ground level and same should be pro- 
+tected by 6 mm thick wired glass in steel frames. 
+Windows which are meant for exclusive use of 
+firemen in an emergency should be of 6 mm 
+thick wired glass in steel framework and normally 
+kept locked. They should be placed at a height 
+convenient for fire fighting operations and not 
+more than 15 m apart and 7 m from a blind 
+corner. 
+
+8.4 Roofs — Roofs should be directly supported 
+from wall to wall without any intermediate 
+columns or posts. If the roofs are covered 
+with corrugated iron sheets, it is necessary to 
+insert corrugated asbestos sheets at intervals of 
+6 m along the lower edge of the roof to facilitate 
+entry through the roof for fire fighting purposes. 
+It is advisable to leave the undersides of roofs of 
+corrugated iron sheets unpainted but if they are 
+paitited, non-flammable paint should be used. 
+
+8.5 Ventilation — It is necessary ta provide 
+ventilator openings in corrugated iron sheet roofs. 
+The ventilator openings should not exceed 
+1*2 X 0*3 m and at least one ventilator should be 
+provided in every other bay. AH ventilators 
+should be protected by either expanded metal or 
+wire netting having apertures of 12'5 mm size. 
+
+9, MACHINERY 
+
+9.1 All machinery and line shafts should be fitted 
+with ball or roller bearings. 
+
+9.2 Machinery should be so installed, arranged 
+and worked as to prevent, as far as is practicable, 
+the access of kapas, cotton or cotton seeds to 
+moving parts or the machinery not intended to 
+receive kapas, cotton or cotton seeds. 
+
+9.3 Immediately before any material is intro- 
+duced into any machinery for the first time in 
+any ginning season, all the machinery should be 
+run for at least four hours and during and at the 
+end of this running, all bearings should be tested 
+for over-heating. 
+
+9.4 In case of any replacement of a bearing or 
+shaft during the season, the machinery should be 
+run empty for two hours and the bearings tested 
+for over-heating before any material is passed 
+through them. 
+
+9.5 Gins should be equipped with efficient and 
+practicable stripping arrangements. 
+
+10. ELECTRICAL INSTALLATION 
+
+10.1 The electrical installation shall be in accord- 
+ance with IS: 1646-1982*. 
+
+
+
+10.L1 All wiring shall be carried out in steel 
+conduits ( 5ee IS : 1653.1972* ). 
+
+10.1.2 All lighting fittings shall be of dust- 
+tight type, 
+
+10.1.3 All electrical motors shall be of totally 
+enclosed type ( see IS : 1646-1982t )- 
+
+10.1.4 Switchgear installed in gin house, press 
+house, delintering rooms and godowns should be 
+of dust-tight type. 
+
+11. ILLUMINATION 
+
+11.1 For effective fire fighting purposes, . the 
+factory shall be fully illuminated as indicated 
+below: 
+
+
+
+Godowns 
+
+
+
+Minimum Illumination 
+50 lux 
+
+
+
+Ginning, delintering arid 100 lux 
+pressing sections 
+
+
+
+Open compound 
+
+
+
+20 lux 
+
+
+
+12. FIRE FIGHTING ARRANGEMENTS 
+
+12.1 All fire fighting arrangements should be in 
+accordance with the following. 
+
+12.1.1 The hydrant pump should be of not 
+less than 1 800 litres per minute capacity, deliver- 
+ing water at a minimum pressure of 7 kgf/cm* 
+and located at least 15 m away from all the 
+buildings and 90 m away from any storage area, 
+
+12.1.2 Pump should draw water from a pucca- 
+hned ground reservoir of not less than 180 000 
+litres capacity. 
+
+12.1.3 All underground hydrant mains and 
+hydrant branches should be not less than 100 
+mm and 80 mm in diameter, respectively. Large 
+size mains should be provided in case of factories 
+which are larger than average or which have 
+ginning seasons above normal. The mains should 
+be so designed that a minimum pressure of 
+7 kgf/cm* is available at the hydraulically most 
+remote point whilst considering full flow in the 
+mains. 
+
+12.1.4 Hydrants should be distributed in the 
+compound in such a way that every portion of a 
+storage area is protected by at least two hydrants 
+at a distance not exceeding 35 m and at least two 
+hydrants exist within 15 m of godowns or sheds 
+used for the storage of cotton or kapas. There 
+should also be at least three hydrants within 3 m 
+of pressing, ginning or delintering houses. 
+
+
+
+*Code of practice for fire safety of building ( general ): 
+Electrical installations. 
+
+
+
+♦Specification for rigid steel conduits for electrical 
+wiring ( second revision ). 
+
+tCode of practice for fire safety of buildings ( general ): 
+Electrical installations. 
+
+
+
+IS : 2726 - 1988 
+
+
+
+12.1.5 One fire bucket ( 5i'e IS : 2546-1974*) 
+should be provided for every two gins in the case 
+of gin houses and for every 45 m* area in the 
+case of press houses and delintering rooms. One 
+fire extinguisher of dry powder type 10 kg capa- 
+city ( vee IS : 217!-I985t ) should be provided 
+for every 275 m* in both the gin and the press 
+houses and in no case, should two extinguishers 
+be spaced more than 15 m apart. 
+
+12.1.6 At least 2 hoses of 63*5 mm dia and 
+15 m length conforming to IS : 4927-1968t and 
+one nozzle of 19 mm size should be provided for 
+each hydrant installed. Half the nozzles should 
+preferably be fog nozzles. 
+
+12.2 Each cotton ginning and pressing factory 
+should be equipped with a warning system for 
+fire so that the warning is clearly audible through- 
+out the factory and the compound. The appliance 
+or appliances for giving such warning or the means 
+of operating the same should be located in a 
+conspicuous position and shall be painted fire-red 
+( see shade No, 536 specified in IS : 5-1978§ ). 
+
+
+
+*Specification for galvanize^ mild steel fire bucket {first 
+
+revision ). 
+
+tSpecification for portable fire extinguishers, dry powder 
+type ( third revision ). 
+
+^Specification for unlined fiax canvas hose for fire 
+fighting. 
+
+§ Colours for ready mixed paints and enamels ( third 
+evisian ). 
+
+
+
+13. HOUSE KEEPING 
+
+13.1 All sweepings from gin houses, delintering 
+rooms and press houses should be removed before 
+nightfall and seed alleys in the gin houses and 
+delintering rooms should be cleaned after every 
+four hours of working All machinery, walls, 
+floors, roof structures, platforms, and other 
+parts of the buildings should be cleaned at least 
+once a week 
+
+13.2 All buildings, machinery, electrical wiring 
+and equipment should be carefully maintained in 
+sound condition at all times. 
+
+13.3 Open fires, naked^lights and smoking in the 
+factory compound should be prohibited. 
+
+13.4 Every boiler chimney in a factory com- 
+pound should be fitted with an efficient spark 
+arrestor which should be properly maintained. 
+
+13.5 Care should be taken to ensure that cotton, 
+linters and cotton seeds do not fall on floor 
+during processing, and suitable arrangements 
+should be made for the immediate removal there- 
+of, should this happen. 
+
+13.6 Self-closing waste bins should be provided 
+where needed near machinery and all oily and 
+greasy waste should be kept in them until re- 
+moved from the factory premises. 
+
+13.7 Fire safety requirements and orders should 
+be prominently displayed at conspicuous places 
+in the factory. 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 110002 
+Telephones: 3310131. 3311375 
+
+Regional Offices: 
+
+Central: Manak Bhavan, 9 Bahadur Shah Zafar Marg, 
+NEW DELHI 110002 
+
+♦Eastern: 1/14 C.IT. Scheme VII M, V.LP. Road, Maniktola, 
+CALCUTTA 700054 
+
+Northern: SCO 445-446, Sector 35-C, CHANDIGARH 160036 
+
+Southern: CJ.T. Campus, MADRAS 600113 
+
+fWestern; Manakalaya, E9 MIDC, Marol, Andherl ( East ), 
+BOMBAY 400093 
+
+Branch Offices: 
+
+'Pushpak' Nurmohamed Shaikh Marg, Khanpur, AHMADABAD 380001 
+
+Peenya Industrial Area, 1st Stage, Bangalore-Tumkur Road, 
+BANGALORE 560058 
+
+Gangotri Complex, 5th Floor, Bhadbhada Road, T.T. Nagar, 
+BHOPAL 462003 
+
+Plot No. 82/83, Lewis Road, BHUBANESHWAR 751002 
+
+53/5 Ward No. 29, R.G. Barua Road, 5th By-lane, GUWAHATI 781003 
+
+5-8-56C L. N. Gupta Marg ( Nampally Station Road ), 
+HYDERABAD 500001 
+
+R14 Yudhister Marg, C Scheme, JAIPUR 302005 
+
+117/418 B Sarvodaya Nagar, KANPUR 208005 
+
+Patliputra Industrial Estate, PATNA 800013 
+
+T.C. No. 14/1421, University P.O. Palayam, TRIVANDRUM 695035 
+
+Inspection Offices ( With Sale Point ): 
+
+Pushpanjali, First Floor, 205A West High Court Road, Shankar Nagar 
+Square, NAGPUR 440010 
+
+Institution of Engineers ( India ) Building, 1332 Shivaji Nagar, 
+PUNE 411005 
+
+
+
+Telegrams : Manaksanstha 
+( Common to all offices ) 
+
+Telephone 
+3310131. 3311375 
+
+362499 
+
+21843, 31641 
+
+412442, 412519, 412916 
+
+6329295 
+
+
+
+26348, 26349 
+384955, 384956 
+
+66716 
+
+53627 
+
+231083 
+
+63471. 69832 
+
+216876, 218292 
+
+62305 
+
+62104.62117 
+
+25171 
+52435 
+
+
+
+♦Sales Office in Calcutta is at 5 Chowringhiee Approacli. P, O. Princep Street, Calcutta 700072 
+tSales Office in Bombay is at Novelty Chambers, Grant Road, Bombay 400097 
+
+
+
+276800 
+896528 
+
+
+
+Printed at Saini Printers, Delhi, India 
+
+
+

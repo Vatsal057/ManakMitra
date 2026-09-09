@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":21,"params":{"query":"identifier:gov.in.is.731.*","qin":"identifier:(gov.in.is.731.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.731.1971","title":"IS 731: Porcelain insulators for overhead power lines with a nominal voltage greater than 1000 V"}]}}

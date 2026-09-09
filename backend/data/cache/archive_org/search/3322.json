@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":26,"params":{"query":"identifier:gov.in.is.3322.*","qin":"identifier:(gov.in.is.3322.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.3322.1.1987","title":"IS 3322-1: Water-resistant clothing, Part 1: PVC-coated fabrics"}]}}

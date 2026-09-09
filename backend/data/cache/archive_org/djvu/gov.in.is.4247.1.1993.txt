@@ -1,0 +1,1298 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 4247-1 (1993) : Code of practice for structural design of 
+surface hydroelectric power stations. Part 1: Data for 
+design [WRD 15: Hydroelectric Power House Structures] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 4247 (Parti): 1993 
+^TTcfk m^^ REAFFIRMED 
+
+(dl^<:i "pRl^nr ) 
+
+Indian Standard 
+
+STRUCTURAL DESIGN OF SURFACE 
+HYDROELECTRIC POWER STATIONS 
+
+PART 1 DATA FOR DESIGN - CODE OF PRACTICE 
+
+( Third Revision ) 
+
+
+
+UDC 627-8504 : 621-311-2 : 00676 
+
+
+
+® BIS 1993 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARO 
+
+NEW DELHI 110002 
+
+Ntmrnbtr 1993 Prle* Groap 4 
+
+
+
+AMENDMENT NO. 1 JANUARY 2008 
+
+TO 
+IS 4247 (PART 1) : 1993 STRUCTURAL DESIGN OF 
+SURFACE HYDROELECTRIC POWER STATIONS 
+
+PART 1 DATA FOR DESIGN - CODE OF PRACTICE 
+(Third Revision) 
+
+(Page 1, clause 2) — Substitute iS 7207 : 1992'/or 'IS 7207 : 1991". 
+
+
+
+(WRD 15) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+Hydroelectric Power Houie Structures Sectional Committee, RVD IS 
+
+
+
+FOREWORD 
+
+This Indian Standard ( Part 1 ) was adopted by the Bureau of Indian Standards, after the draft 
+finalized by the Hydroelectric Power House Structures Sectional Committee had been approved by 
+the River Valley Division Council. 
+
+For the structural design of a power house certain basic data with respect to site of the power 
+house equipment to be installed, the features of operation and materials for construction are 
+necessary, and this standard is intended to serve as a guide for designers in collection of these 
+data. 
+
+This standard was first published in 1967. The first revision of the standard was taken up in 1978^ 
+and subsequently revised in 1984. This third revision has been taken up to incorporate the 
+changes in light of the experience gained during the last few years to the use of this standard. 
+The important changes are in respect to meterological data and collection of data from layout 
+drawing. 
+
+This standard has been published in three parts. Part 2 of the standard deals with the design of 
+superstructure while Part 3 deals with the design of substructure. 
+
+For the purpose of deciding whether a particular requirement of this standard is compliced with, 
+the final value, observed or calculated, expressing the result of a test or analysis, shall be rounded 
+off in accordance with IS 2:1960 'Rules for rounding off numerical values (r^v/.yerf)\ The 
+number of significant places retained in the rounded off value should be the same as that of the 
+specified value in this standard. 
+
+
+
+IS 4247 ( Part 1 ) : 1993 
+
+
+
+Indian Standard 
+
+
+
+STRUCTURAL DESIGN OF SURFACE 
+HYDROELECTRIC POWER STATIONS 
+
+
+
+PART 1 DATA FOR DESIGN - CODE OF PRACTICE 
+
+( Third Revision ) 
+
+
+
+1 SCOPE 
+
+
+
+1.1 This standard ( Part 1 ) covers the data 
+required to be collected for the structural design 
+of surface hydroelectric power stations. 
+
+1.1.1 The data will serve only to proceed with 
+the designs. For preparing final construction 
+drawings further details should be collected at 
+different stages for which constant liaison should 
+be maintained with the equipment suppliers, the 
+electrical/mechanical engineers and architects. 
+
+2 REFERENCES 
+
+The Indian Standards listed below are necessary 
+adjuncts to this standard: 
+
+
+
+IS No. 
+
+3177-1977 
+
+
+
+4461-1979 
+
+
+
+7207-1991 
+
+
+
+10060-1981 
+
+
+
+3 GENERAL 
+
+
+
+Title 
+
+Code of practice for electric 
+overhead travelling cranes and 
+gantary cranes other than steel 
+works cranes (first revision ) 
+
+Code of practice for joints in 
+surface hydroelectric power 
+stations (first revision ) 
+
+Criteria for design of generator 
+foundation for hydroelectric 
+power station (first revision ) 
+
+Code of practice for subsurface 
+investigation for power house 
+sites 
+
+
+
+3.1 The comparative layout studies should be 
+earned out and the most advantageous layout 
+from technical feasibility and economic consi- 
+deration should be adopted and designs for the 
+hydroelectric power stations should be prepared 
+for the same. 
+
+3.2 The structural design of a hydroelectric 
+power station consists of the following steps: 
+
+a) Analysis for stability against static and 
+dynamic loads at various stages of con- 
+struction and operation; 
+
+b) Design of the substructure including 
+foundation; 
+
+
+
+c) Design of the intermediate structure 
+including spiral casings and generator 
+support; 
+
+d) Design of the superstructure including 
+roof; and 
+
+e) Design of auxiliary rooms, service bay 
+and any other component where it forms 
+a part of the power house. 
+
+3.2.1 The various components and the sequence 
+of construction of hydroelectric power stations 
+are shown in Fig. 1, 2 and 3 are indicative only. 
+
+4 COLLECTION OF DATA 
+
+4.0 Before the structural design may be under- 
+taken certain data should be collected from the 
+lite and from the equipment suppliers. A 
+consolidated list of such data is given in 4.1 
+and 4.2. 
+
+4.1 Data from the Site 
+
+The following data should be collected from the 
+site: 
+
+a) A contoured/contour plan of the site on 
+a 1 : 1 000 scale with appropriate contour 
+interval including the location of intake 
+structure, water conductor system, surge 
+tank, if any, power house, switchyard 
+(substation), tall race and any other 
+relevant features. 
+
+b) A complete longitudinal section of the 
+water conductor system from the intake 
+up to the tail race with maximum and 
+minimum water levels at both ends, 
+hydraulic particulars of the water con- 
+ductor sytem and any other salient 
+feature occurring in the system. 
+
+c) A chart showing the strata below found- 
+tion level approximately to a depth equal 
+to the width of the power house, in 
+addition exploratory boring may be 
+taken to deeper levels, in case of doubt- 
+ful strata refer to IS 10C60 : 1981. 
+
+d) Propcities of the soil or rock from 
+surface to foundation level and at lower 
+levels, if weaker strata exist, and perme- 
+ability characteristics of overburden. 
+
+
+
+IS 4247 ( Part 1 ) : 1993 
+
+WiRI 
+
+
+
+K-lva FIRST STAGE CONCRETE 
+
+SECOND STAGE CONCRETE 
+
+OAhfTRY CRANE 
+
+
+
+
+DRAFT TUBE 
+STEEL LINER 
+
+
+
+1 A Sequence of Construction 
+
+
+
+
+I Stage 
+
+( Substructure y 
+
+II Stage 
+
+( Concerting of 
+draft tube liner, 
+erection of 
+speed ring and 
+spiral casing ) 
+
+III Stage 
+(Concrete around- 
+spiral casing) 
+
+IV Stage 
+
+( Generator 
+foundation and 
+generator floor y 
+
+
+
+1 B Alternate Sequence of Construction 
+NOTE — The lequence of construction may be modified to suit the construction schedule. 
+Fig. 1 Typical Section of a Hydbl Power Station with Vertical Shaft Reaction 
+Turbine Showing the Components and Sequence of Construction 
+
+2 
+
+
+
+IS 4247 ( Part 1 ) : 1993 
+
+
+
+FTT) FIRST STAGE CONCRETE 
+SECOND STAGE CONCRETE 
+
+
+
+
+AUXIUARY SET PIPE LINE 
+
+
+
+Fio. 2 Typical Section of a Hydroelectric Power Station 
+WITH Horizontal Shaft Reaction Turbine 
+
+
+
+SPOUT . 
+
+
+
+JOINT FILLER 
+
+
+
+or PCNSTOCK 
+
+
+
+SLOPE or DRAIN 
+
+
+
+»PRCCA$T BLOCKS 
+^- TOP OF STRUCTURAL 
+CONCRETE 
+
+
+
+UPLIFT y ' • I 
+
+
+
+•PRESSURE PIPE 
+
+
+
+
+UPLIFT PRESSURE 
+PIPE 
+
+
+
+FIRST STAGE CONCRETE 
+SECOND STAGE CONCRETt 
+
+
+
+Fio. 3 Typical Cross Section of a Surface Hydroelectric Power Station 
+WITH Vertical Shaft Pelton Turbine 
+
+
+
+IS 4247 ( Part 1 ) : 1993 
+
+
+
+e) The results of load test and dynamic 
+characteristics of foundation strata for 
+the foundation of various structures. 
+
+f) Maximum electrical resistivity of found* 
+tion strata observed every month over a 
+period of one year. 
+
+g) The coeflScient friction between concrete 
+and soil or rock and cohesion of unit 
+shear strength under dry and submerged 
+conditions and also of foundation 
+material along weak shear zones and 
+bedding planes. For preliminary design 
+the values given in Table 1 maybe 
+used. 
+
+h) Maximum and ininimum ground water 
+level based on available data. 
+
+j) Physical characteristics of the backfill 
+material, that is cohesion, angle of inter- 
+nal friction, density in dry and saturated 
+conditions, permeability, etc. 
+
+k) Geophysical characteristics of the soil or 
+rock ( geological information, such as 
+presence of solution cavities, faults, 
+seams, bedding planes, seismic status 
+with parameters and possibility of rock 
+falls ). 
+
+m) Meteorological Data— This may include 
+the following: 
+
+i) Monthly minimum and maximum 
+temperature of river water, 
+
+ii) Monthly minimum and maximum 
+temperature of ambient air, 
+
+iii) Average monthly rainfall and its 
+maximum intensity, 
+
+iv) Area of catchment which will drain 
+water through power house site, 
+
+v) Values and directions of wind 
+velocity, and 
+
+vi) Maximum depth of snowfall. 
+
+n) Characteristics and leads of construction 
+materials. 
+
+p) Gauge and discharge data carrying 
+observed flood at tail race exit. 
+
+Table 1 Values of Unit Shear Strength and 
+Coefficient of Friction 
+
+
+
+( Clause 4A ) 
+
+
+
+
+SI No. Material 
+
+
+Unit Shear 
+
+
+Coefficient 
+
+
+
+
+Strength 
+
+
+of 
+
+
+
+
+C. Min 
+
+
+Friction 
+
+
+(1) (2) 
+
+
+(3) 
+N/mm« 
+
+
+(4) 
+
+
+i) Rock ( massive 
+
+
+3 
+
+
+080 
+
+
+and sound ) 
+
+
+
+
+
+
+ii) Concrete 
+
+
+3 
+
+
+0-80 
+
+
+iii) Rock ( fractured, 
+
+
+07 
+
+
+0-60 
+
+
+jointed ) 
+
+
+
+
+
+
+iv) Gravel 
+
+
+
+
+
+0-50 
+
+
+v) Sand 
+
+
+
+
+
+0-40 
+
+
+vi) Clay ( hard ) 
+
+
+007 
+
+
+0-30 
+
+
+vii) Clay (soft) 
+
+
+002 
+
+
+0-20 
+
+
+
+4.2 The information given in 4.2.1 to 4*2.4^ 
+should be finalized by the structural engineer in 
+consultation with the electrical engineer and 
+equipment suppliers. 
+
+4^2.1 Layout Drawings 
+
+These involve the following: 
+
+a) Layout of the power house and appurte- 
+nant works such as cable tunnel, 
+switchyard, by- pass water conductor 
+system including tail race and access 
+road. 
+
+b) General plan of the power house showing 
+the erection bay, control room, offices, 
+workshop, utilities, etc, and other allied 
+structures. 
+
+c) Plan at generator floor level showing, 
+location of staircases, equipment and 
+openings, etc. 
+
+d) Plan at turbine floor level showing 
+location of staircases equipment opening, 
+etc. 
+
+e) Plan at centre line of spiral casing 
+showing location of butterfly/spherical 
+valve, expansion joint, etc. 
+
+f) Plans showing features such as (i) 
+galleries, (ii) draft tube deck, (iii) Trans- 
+formers and fire walls, (iv) Transformer 
+and gantry crane rails, (v) Transformer 
+oil drainage pit, (vi) Draft tube gates 2nd 
+gantry crane, (vii) Drainage and dewater- 
+ing sump, (viii) Water tanks, (ix) Ducts, 
+trenches and openings, etc. 
+
+g) Plans of the erection bay, control rooms 
+and cable room showing dimensions of 
+the erection pits, location of control 
+equipment and cable racks, etc. 
+
+h) Transverse section (along the flow of 
+water) through the centre line of 
+machines, through the control and 
+administration block and erection bay* 
+
+j) Longitudinal section (at right angles to 
+the direction of flow) through the centre 
+line of machines. 
+
+k) Longitudinal section showing the 
+upstream galleries. 
+
+m) Longitudinal section showing the down-- 
+stream galleries. 
+
+n) Longitudinal section through the control 
+bay, oflSces, erection bay, etc. 
+
+p) The shape and profile of the draft tube 
+and its gated control along with hoisting 
+arrangement and its liner with details of 
+supports and turn buckles and access 
+into draft tube, etc. 
+
+q) Shape and profile of spiral casing with 
+details of supports and turn buckles for 
+steel spiral casing including information^ 
+regarding concreting around the spiral 
+casing, location of access for inspection,, 
+etc. 
+
+
+
+IS4247(Partl):199^ 
+
+
+
+, t) Plan and elevations of generator founda- 
+* tions showing details of base plates^ 
+anchor bolts, blockouls. etc.; 
+
+s) Drainage and dewatering arrangement 
+comprisiivg: (1)' penstock, (2) draft tube, 
+(') powerhouse drainage, (4) natural 
+drainage, etc. 
+
+t) Location of constriiction, contraction 
+and expansion joints ( s^e IS 4461 : 
+1979). 
+
+u) Dimension, location and arrangement of 
+speed ring supports. 
+
+v) Dimension, location and arrangement of 
+inlet valve (if provided) supports. 
+
+w) Layout of tail race. 
+
+y) Number, dimensions, clearancces of 
+E.O.T. cranes and drawings giving 
+details of the crane. 
+
+z) Slope protection in the vicinity of power 
+plant and drainage. 
+
+zl) Layout of passage and size of bus ducts. 
+
+z2) Layout of airconditioning and ventilation 
+ducts and general arrangement thereof. 
+
+4.2.2 Loads 
+
+The loads imposed by the equipment and acces- 
+sories should be shown in plan and section such 
+that the point of application of the load as well 
+as its base area are clearly indicated. If during 
+the initial stages it is not possible to give the 
+exact dimensions, orientation and load of the 
+various auxiliary equipment coming on different 
+floors, design for areas listed under Parts A and 
+B of Table 2 may be done for the loads 
+indicated against each area. 
+
+4.2.3 The data including loads and forces for 
+which details should be furnished by the 
+suppliers, are as follows: 
+
+a) Details of maximum loads and dimen- 
+sions of generator stator and rotor 
+components, braking and short-circuit 
+torque and unbalanced megnetic pull in 
+radial direction (see IS 7207 : 1991 ) 
+giving information for the following: 
+
+1) Vertical load on stator sole plates: 
+
+- 2) Tangential force in direction of 
+rotation on stator sole plates; 
+
+3) Tangential force in direction of 
+rotation on stator sole plates; 
+
+4) Vertical force on lower bracket sole 
+plates; 
+
+5) Tangential force in direction of 
+rotation on lower bracket sole 
+plates; 
+
+6) Force due to unbalanced magnetic 
+pull ( radial force ); 
+
+7) Seismic force on stator sole plate; 
+
+
+
+8) Seismic force on lower bracket sole 
+plate; 
+
+9) Impact factor; and 
+
+10) Directions and point of applications 
+of above loads. 
+
+NOTE — Conditions under which the above loads 
+act should be specifi:d as normal conditions, short 
+circuit of stator, double short circuit of rotor, etc. 
+
+Table 2 Minimum Uniformly Distrlbated 
+Live Load 
+
+( Clause 4,2,2 ) 
+
+
+
+SI No. Area of Location 
+
+
+Live Load' 
+
+
+(1) (2) 
+
+
+(3) 
+
+
+
+
+N/m« 
+
+
+PART A 
+
+
+
+
+(The Indicated loads Include equipment load) 
+
+
+i ) Roofs : Accessible 
+Inaccessible 
+
+
+1 500 
+
+750 
+
+
+ii) Stairways 
+
+
+5000 
+
+
+iii) OflSce and corridors 
+
+
+5000 
+
+
+iv) Reception rooms 
+
+
+5000 
+
+
+v) Circuit breaker rooms 
+
+
+20 000 
+
+
+vi) Control room 
+
+
+10 000 
+
+
+vii) Cable spreading room 
+
+
+10 000 
+
+
+viii) Equipment and storage rooms 
+
+
+10 000 
+
+
+jx) Maintenance shop 
+
+
+15 000 
+
+
+x) Fan room (air-conditioning, heating 
+and ventilating equipment) 
+
+
+5 000 
+
+
+xi) Auxiliary electric equipment room 
+
+
+10 000 
+
+
+xii) Steel grating/chequered plate 
+
+
+5 000 
+
+
+xiii) Tool room 
+
+
+10 000 
+
+
+xiv) Galleries with light or no equipment. 
+
+
+10 000 
+
+
+
+namely, carbon dioxide, drainage 
+(no pump), heat exchanger, pipe, 
+dewatering (no pump), ventilating, 
+battery rooms, motor generator 
+room, operating floors (other than 
+generator floor and telephone room) 
+
+xv) Water — treatment room 
+
+
+
+7 500 
+
+
+
+PART B 
+
+i) Erection floor 
+
+
+50 000 
+
+
+ii) Generator floor 
+
+
+10 000 
+
+
+iii) Turbine floor 
+
+
+15 000 
+
+
+iv) Pump rooms and oil purification 
+rooms 
+
+
+10 000 
+
+
+v) Transformer beck 
+
+
+10 000 
+
+
+vi) Gantry deck (outdoor power house), 
+
+
+10 000 
+
+
+
+intake deck (general), power house 
+access and draft tube deck 
+
+vii) Air compressor room, penstock and 10 OOO 
+
+valve floor, generator-protective 
+equipment gallery and switch gear 
+room 
+
+NOTES 
+
+1 If the power house is located in snow-bound areas, 
+suitable snow load should be taken into account. 
+
+2 The above loading h for preliminary design only. 
+The final design should be checked for the actual 
+equipment load. 
+
+
+
+IS 4247 ( Part 1 ) : 1993 
+
+
+
+b) Machine characteristics comprising of: 
+
+1) normal and runaway speed» 
+
+2) permissible tilt in the shaft » and 
+
+3) open'ng and closing time of the 
+governor. 
+
+c) Load of the inlet valves including its 
+auxiliaries. 
+
+d) Load of turbine runner including that of 
+shaft, spiral casing loads ( comprising 
+the mass of embedded parts, such as 
+spiral casing, speed ring and cover plates ) 
+erection load of the spiral casing liner 
+and the load in empty and full condi- 
+tions, transferred by each pedestal. 
+
+•c) Loads induced by the draft tube liner 
+comprising its mass and centre of 
+gravity. 
+
+f) Size, load and permissible alternative 
+position, together with details for access 
+and support of: 
+
+1) mechanical auxiliary equipment of 
+the generator and turbine, such as 
+air compressors, oil resrvoirs and 
+cooling water pumps, oil pump 
+tanks ; governors, strainers, drainage 
+and dewatering pumps; and 
+
+2) electrical auxiliary equipment, such 
+as main and auxiliary transformers. 
+
+g) Load of equipment coming over the 
+control room and cable room floors. 
+
+h) Loads for which the runner and generator 
+supports ( in the erection bay ) are to be 
+designed. 
+
+j) Load and dimensions of the heaviest 
+part/package to be transported in the 
+power house. 
+
+k) Erection and live loads on the various 
+floors ( see Table 2 ). 
+
+m) Details of EOT crane {see IS 3177 : 1977) 
+giving information on: 
+
+1) the number and spacing of wheels 
+of crane/cranes, when placed buffer 
+
+
+
+(o buffer and clearance required 
+from ceiling and inner face of 
+columns {see Annex A). 
+
+2) load and centre of gravity of bridge 
+girders and wheels bogies, 
+
+3) crane surges in longitudinal and 
+transverse directions; 
+
+4) rated capacities and highest levels of 
+^ main and auxiliary hooks; 
+
+5) load of crane girders with rails and 
+level of top of rails; 
+
+6) load and rated capacity of lifting 
+beams, if provided; 
+
+7) traction forces (both in transverse 
+and longitudinal directions) and 
+impact allowance; 
+
+8) Crane striking forces in longitudinal 
+and transverse directions; 
+
+9) crane testing load; and 
+
+10) method of erecting the EOT 
+crane. 
+
+n) Thrust due to servomotors. 
+
+p) Jet reaction of pelton turbine. 
+
+q) Vertical and horizontal loads of each 
+switchyard equipment along with its 
+supporting structures/towers, pulls of 
+conductors and directions and points of 
+application 
+
+4.2.4 Hydraulic Data 
+
+The following should be indicated: 
+
+a) Horizontal thrust due to water to pen- 
+stock indicating mode of transfer; 
+
+b) Water-hammer load due to sudden 
+closure of the machine; 
+
+c) Hydraulic thrust in the vertical direction 
+due to water on runner; 
+
+d) Velocity diagram along the draft tube; 
+and 
+
+e) Pressure diagram along the draft tube 
+during normal running of the machine. 
+
+
+
+ANNEX A 
+[ Clause A.23{m){\)] 
+PROFORMA FOR RECORDING DETAILS OF CRANE LOADING 
+
+1 Capacity of crane.... 5 i) Horizontal distances of main and auxi- 
+
+liary hooks from upstream crane rail when 
+
+2 Span the hooks are at their extreme upstream 
+
+position. 
+
+3 Load of crane without crab along with loca- -x tt • . i j. 
+
+tion of its centre of gravity *'/ Horizontal distances of mam and auxi- 
+
+lary hooks from the downstream crane 
+
+4 Independent crab load with location of its rail when the hooks are at the extreme 
+centre of gravity downstream positions. 
+
+6 
+
+
+
+IS 4247 ( Part 1 ) : 1993^ 
+
+
+
+iii) HorizoBtal distances of the hooks from 
+the end buflfers of the crane. 
+
+6 Position of crane wheels, with respect to end 
+buffers 
+
+7 Side and vertical clearances 
+
+8 Number of wheels and wheel spacing 
+
+9 Wheel loads 
+
+i) For unloaded crane with trolley at its 
+upstream most position 
+
+ii) For unloaded crane with trolley at its 
+downstream most position 
+
+
+
+iii) For loaded crane with trolley at its 
+upstream most position 
+
+iv) For loaded crane with trolley at its 
+downstream most position 
+
+10 Crane surged in transverse and longitudinal 
+distances 
+
+
+
+11 Striking crane surges 
+longitudinal directions 
+
+
+
+in transverse and 
+
+
+
+12 Height of the centre line of the end buffers 
+of the crane above the top of the crane rail. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian Standard conveys the assurance that they have been produced 
+to comply with the requirements of that standard under a well defined system of inspection, 
+testing and quality control which is devised and supervised by BIS and operated by the 
+producer. Standard marked products are also continuously checked by BIS for conformity to 
+that standard as a further safeguard. Details of conditions under which a licence for the use 
+of the Standard Mark may be granted to manufacturers or producers may be obtained from 
+the Bureau of Indian Standards. 
+
+
+
+BoretQ of Indltn Standtrds 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Aet^ 1986 to 
+promote harmonious development of the activities of standardization* marking and quality 
+certification of goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in 
+any form without the prior permission in writing of BIS. This does not preclude the free use» in 
+the course of implementing the standard, of necessary details* . such as symbols and sizes, type or 
+grade designations. Enquiries relating to copyright be addressed to the Director ( Publications ), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are 
+also reviewed periodically; a standard along with amendments is reafiSrmed when such review 
+indicates that no changes are needed; if the review indicates that changes are needed, it is taken 
+up for revision. Users of Indian Standards should ascertain that they are in possession of the 
+latest amendments or edition by referring to the latest issue of 'BIS Handbook' and 'Standards 
+Monthly Additions*. Comments on this Indian Standard may be sent to BIS giving the following 
+reference: 
+
+Doc: RVD15 (31) 
+
+Amendments Issued Since Pobllcatlon 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+
+Telephones : 331 01 31, 331 13 75 Telegrams : Manaksanstha 
+
+( Common to all Offices ) 
+
+Regional Offices: Telephone 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg f 331 01 31 
+
+NEW DELHI 110002 1 331 13 75 
+
+Eastern : 1/14 C.LT. Scheme VII M, V.I.P. Road, Maniktola f 37 84 99, 37 85 61 
+
+CALCUTTA 700054 \ 37 86 26, 37 86 62 
+
+Northern : SCO 445-446, Sector 35.C, CHANDIGARH 160036 f 53 38 43, 53 16 40 
+
+( 53 23 84 
+
+Southern : C.LT. Campus, IV Cross Road, MADRAS 600113 f 235 02 16, 235 04 42 
+
+
+
+Western I Manakalaya, E9 MIDC, Marol, Andheri ( East ) f 632 92 95, 632 78 58 
+
+BOMBAY 40093 I 632 78 91, 632 78 92 
+
+
+
+235 15 19, 235 23 15 
+
+{ 
+
+
+
+Branches: AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. OUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+Printed at Paragon EnterpritM, Delhi, la^t 
+
+
+

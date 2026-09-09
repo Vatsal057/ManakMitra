@@ -1,0 +1,1685 @@
+[
+  {
+    "primary_standard": "IS 1786",
+    "product": "High Strength Deformed (TMT / HYSD) Steel Rebar",
+    "allied_standards": [
+      {
+        "standard": "IS 1608",
+        "title": "Method for Tensile testing of Steel products  – 1972",
+        "relationship": "test_method",
+        "note": "Mandatory tensile testing method prescribed in Clause 8.1 of IS 1786:2008 for determining 0.2% proof stress / yield strength, tensile strength (UTS), and percentage elongation of deformed rebar.",
+        "confidence": "high",
+        "standard_normalized": "IS 1608",
+        "is_number": 1608
+      },
+      {
+        "standard": "IS 1599:2012",
+        "title": "Metallic Materials — Bend Test",
+        "relationship": "test_method",
+        "note": "Mandatory ductility verification method prescribed in Clause 8.3 & 9.3 of IS 1786:2008 for performing bend and rebend tests around specified mandrel diameters without fracture.",
+        "confidence": "high",
+        "standard_normalized": "IS 1599:2012",
+        "is_number": 1599
+      },
+      {
+        "standard": "IS 228",
+        "title": "Methods for Chemical Analysis of Steels (Relevant Parts)",
+        "relationship": "test_method",
+        "note": "Mandatory chemical analysis procedures prescribed in Clause 4.2 of IS 1786:2008 for determining percentages of Carbon, Sulphur, Phosphorus, and Carbon Equivalent (CE).",
+        "confidence": "high",
+        "standard_normalized": "IS 228",
+        "is_number": 228
+      },
+      {
+        "standard": "IS 2502 - 1963",
+        "title": "Code of practice for bending & fixing of bars for concrete reinforcement",
+        "relationship": "installation_application",
+        "note": "Governing site workmanship standard for cutting, bending schedules, minimum internal bend radii, hooks, laps, and tying of TMT bars in RCC members.",
+        "confidence": "high",
+        "standard_normalized": "IS 2502:1963",
+        "is_number": 2502
+      },
+      {
+        "standard": "IS 456",
+        "title": "Code of Practices for plain and reinforced concrete etc.  – 2000",
+        "relationship": "installation_application",
+        "note": "The central Indian RCC code specifying design yield strength, modular ratio, characteristic strength, development length, and concrete cover for IS 1786 rebar.",
+        "confidence": "high",
+        "standard_normalized": "IS 456",
+        "is_number": 456
+      }
+    ],
+    "primary_standard_normalized": "IS 1786",
+    "primary_is_number": 1786,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 269 - 2015",
+    "product": "Ordinary Portland Cement (33, 43, 53 Grade)",
+    "allied_standards": [
+      {
+        "standard": "IS 4031 - 1988",
+        "title": "Methods of physical test for hydraulic cement",
+        "relationship": "test_method",
+        "note": "Mandatory testing protocol prescribed in Clause 6, 7, and 8 of IS 269:2015 for evaluating cement fineness (Part 1/2), soundness (Part 3), setting times (Part 5), and compressive strength (Part 6).",
+        "confidence": "high",
+        "standard_normalized": "IS 4031:1988",
+        "is_number": 4031
+      },
+      {
+        "standard": "IS 4032 - 1985",
+        "title": "Method of chemical analysis of hydraulic cement",
+        "relationship": "test_method",
+        "note": "Mandatory chemical testing protocol prescribed in Clause 5 of IS 269:2015 for determining loss on ignition, insoluble residue, magnesia content, and lime saturation factor.",
+        "confidence": "high",
+        "standard_normalized": "IS 4032:1985",
+        "is_number": 4032
+      },
+      {
+        "standard": "IS 3535 - 1986",
+        "title": "Method of sampling for hydraulic cement",
+        "relationship": "test_method",
+        "note": "Mandatory sampling procedure prescribed in Clause 8 of IS 269:2015 for taking representative lot samples from bulk tankers, silos, and bagged supplies.",
+        "confidence": "high",
+        "standard_normalized": "IS 3535:1986",
+        "is_number": 3535
+      },
+      {
+        "standard": "IS 650 - 1991",
+        "title": "Standard sand testing of cement",
+        "relationship": "normative_reference",
+        "note": "Mandatory reference testing material (Ennore standard sand Grades I, II, III) required to prepare standardized mortar cubes for testing OPC compressive strength under IS 4031 (Part 6).",
+        "confidence": "high",
+        "standard_normalized": "IS 650:1991",
+        "is_number": 650
+      },
+      {
+        "standard": "IS: 4082",
+        "title": "specifications for storage of materials",
+        "relationship": "installation_application",
+        "note": "Prescribes protective stacking and warehouse storage practices (raised wooden platforms, maximum 10-tier bag stack, moisture control) to prevent air-setting of cement bags on construction sites.",
+        "confidence": "high",
+        "standard_normalized": "IS 4082",
+        "is_number": 4082
+      }
+    ],
+    "primary_standard_normalized": "IS 269:2015",
+    "primary_is_number": 269,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 456",
+    "product": "Plain and Reinforced Concrete (RCC Structures)",
+    "allied_standards": [
+      {
+        "standard": "IS 269 - 2015",
+        "title": "Specification for 33,43,53 Grade ordinary Portland cement",
+        "relationship": "normative_reference",
+        "note": "Mandatory primary cementitious constituent specified in Clause 5.1 and Annex A of IS 456:2000 for concrete batching.",
+        "confidence": "high",
+        "standard_normalized": "IS 269:2015",
+        "is_number": 269
+      },
+      {
+        "standard": "IS 383-2016",
+        "title": "Specification for coarse and fine aggregate",
+        "relationship": "normative_reference",
+        "note": "Mandatory mineral aggregate specification governing grading, maximum nominal size, and deleterious substance thresholds in structural concrete.",
+        "confidence": "high",
+        "standard_normalized": "IS 383:2016",
+        "is_number": 383
+      },
+      {
+        "standard": "IS 1786",
+        "title": "Specifications for HYSD bars.  – 1985",
+        "relationship": "normative_reference",
+        "note": "Primary reinforcement steel specification governing yield stress, characteristic strength, and detailing requirements for reinforced concrete.",
+        "confidence": "high",
+        "standard_normalized": "IS 1786",
+        "is_number": 1786
+      },
+      {
+        "standard": "IS 516 - 1959",
+        "title": "Specification for compressive strength , flexural strength",
+        "relationship": "test_method",
+        "note": "Mandatory testing method for compressive strength testing of concrete cubes (150 mm) at 7 and 28 days to establish characteristic strength fck.",
+        "confidence": "high",
+        "standard_normalized": "IS 516:1959",
+        "is_number": 516
+      },
+      {
+        "standard": "IS 1199",
+        "title": "Methods of sampling and analysis of concrete  – 1959",
+        "relationship": "test_method",
+        "note": "Mandatory field sampling procedure and fresh concrete workability test (slump test, compacting factor) required on site before placing.",
+        "confidence": "high",
+        "standard_normalized": "IS 1199",
+        "is_number": 1199
+      },
+      {
+        "standard": "IS: 9103",
+        "title": "specifications for concrete admixtures",
+        "relationship": "normative_reference",
+        "note": "Governing specification for chemical admixtures (accelerators, retarders, water reducers, superplasticizers) added to concrete mixes.",
+        "confidence": "high",
+        "standard_normalized": "IS 9103",
+        "is_number": 9103
+      },
+      {
+        "standard": "IS 10262",
+        "title": "Recommended Guide Lines for Concrete Mix Design  – 1982",
+        "relationship": "installation_application",
+        "note": "Authoritative engineering procedure for calculating water-cement ratio, cementitious contents, and aggregate fractions to produce design mix concrete.",
+        "confidence": "high",
+        "standard_normalized": "IS 10262",
+        "is_number": 10262
+      },
+      {
+        "standard": "IS: 4990",
+        "title": "specifications for plywood formwork for concrete",
+        "relationship": "installation_application",
+        "note": "Material and surface tolerance standard governing shuttering plywood used to contain and support wet concrete during curing.",
+        "confidence": "high",
+        "standard_normalized": "IS 4990",
+        "is_number": 4990
+      }
+    ],
+    "primary_standard_normalized": "IS 456",
+    "primary_is_number": 456,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 383-2016",
+    "product": "Coarse and Fine Aggregates for Concrete",
+    "allied_standards": [
+      {
+        "standard": "IS 2386 (Part I) 1963",
+        "title": "Methods of test for aggregate for concrete particle size and shape",
+        "relationship": "test_method",
+        "note": "Mandatory testing method for particle size distribution (sieve analysis), fineness modulus, flakiness index, and elongation index of aggregates.",
+        "confidence": "high",
+        "standard_normalized": "IS 2386-1:1963",
+        "is_number": 2386
+      },
+      {
+        "standard": "IS 2386 (Part II) 1963",
+        "title": "Methods of test for aggregate for concrete estimation of deleterious materials and organic impurities",
+        "relationship": "test_method",
+        "note": "Mandatory testing method to quantify deleterious materials including clay lumps, fine silt/dust, and organic impurities in fine and coarse aggregates.",
+        "confidence": "high",
+        "standard_normalized": "IS 2386-2:1963",
+        "is_number": 2386
+      },
+      {
+        "standard": "IS 2386 (Part III) 1963",
+        "title": "Methods of test for aggregate for concrete: Specific gravity, density, voids, absorption and bulking",
+        "relationship": "test_method",
+        "note": "Mandatory test method for specific gravity, bulk density, water absorption (capped at 2% for structural aggregate), and bulking of fine aggregate.",
+        "confidence": "high",
+        "standard_normalized": "IS 2386-3:1963",
+        "is_number": 2386
+      },
+      {
+        "standard": "IS 2386 (Part IV) 1963",
+        "title": "Methods of test for aggregate for Mechanical properties",
+        "relationship": "test_method",
+        "note": "Mandatory mechanical test methods for Aggregate Crushing Value (ACV), Aggregate Impact Value (AIV), and Los Angeles Abrasion value.",
+        "confidence": "high",
+        "standard_normalized": "IS 2386-4:1963",
+        "is_number": 2386
+      },
+      {
+        "standard": "IS 2386 (Part V) 1963",
+        "title": "Methods of test for aggregate Soundness",
+        "relationship": "test_method",
+        "note": "Mandatory chemical soundness test subjecting aggregates to alternate immersion cycles in sodium or magnesium sulphate solutions to verify resistance to weathering.",
+        "confidence": "high",
+        "standard_normalized": "IS 2386-5:1963",
+        "is_number": 2386
+      },
+      {
+        "standard": "IS: 2430",
+        "title": "methods of sampling",
+        "relationship": "test_method",
+        "note": "Prescribes standard sampling methodology for taking representative increments from conveyor belts, stockpiles, trucks, and quarries.",
+        "confidence": "high",
+        "standard_normalized": "IS 2430",
+        "is_number": 2430
+      }
+    ],
+    "primary_standard_normalized": "IS 383:2016",
+    "primary_is_number": 383,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 1077 - 1992",
+    "product": "Common Burnt Clay Building Bricks",
+    "allied_standards": [
+      {
+        "standard": "IS 3495 (Parts I TO iv) 1976",
+        "title": "Method of test for burnt-clay building bricks",
+        "relationship": "test_method",
+        "note": "Mandatory testing procedures prescribed in Clauses 6, 7, and 8 of IS 1077:1992 for compressive strength, water absorption (max 20%), efflorescence, and warpage.",
+        "confidence": "high",
+        "standard_normalized": "IS 3495-1-4:1976",
+        "is_number": 3495
+      },
+      {
+        "standard": "IS 5454 - 1978",
+        "title": "Method of sampling of clay building bricks",
+        "relationship": "test_method",
+        "note": "Mandatory sampling procedure prescribed in Clause 9 of IS 1077:1992 for lot inspection, sample sizing, dimensional testing, and compressive test specimen selection.",
+        "confidence": "high",
+        "standard_normalized": "IS 5454:1978",
+        "is_number": 5454
+      },
+      {
+        "standard": "IS 2116 - 1980",
+        "title": "Specification for sand for masonry mortars",
+        "relationship": "installation_application",
+        "note": "Essential companion standard specifying grading and purity of sand used to formulate cement-sand and composite mortar for laying IS 1077 bricks in structural walls.",
+        "confidence": "high",
+        "standard_normalized": "IS 2116:1980",
+        "is_number": 2116
+      },
+      {
+        "standard": "IS 2250 - 1981",
+        "title": "Code of practice for preparation and use of masonry mortar",
+        "relationship": "installation_application",
+        "note": "Governing workmanship and mixing practice standard for mortar proportioning, batching, joint thickness, and application during brick masonry execution.",
+        "confidence": "high",
+        "standard_normalized": "IS 2250:1981",
+        "is_number": 2250
+      },
+      {
+        "standard": "IS 2212:1991",
+        "title": "Code of Practice for Brickwork",
+        "relationship": "installation_application",
+        "note": "The primary Indian civil code of practice governing bonding patterns (English, Flemish), wetting of bricks prior to laying, joint raking, scaffolding, and curing of brickwork.",
+        "confidence": "high",
+        "standard_normalized": "IS 2212:1991",
+        "is_number": 2212
+      }
+    ],
+    "primary_standard_normalized": "IS 1077:1992",
+    "primary_is_number": 1077,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 2925",
+    "product": "Industrial Safety Helmets (Head Protection PPE)",
+    "allied_standards": [
+      {
+        "standard": "IS 7692:1975",
+        "title": "Specification for Wooden Headforms for Testing of Helmets",
+        "relationship": "test_method",
+        "note": "Mandatory testing apparatus standard cited in Clause 6 and Appendix A of IS 2925:1984 for conducting shock absorption (max 5.0 kN transmitted force) and penetration resistance tests.",
+        "confidence": "high",
+        "standard_normalized": "IS 7692:1975",
+        "is_number": 7692
+      },
+      {
+        "standard": "IS 4905:2015",
+        "title": "Random Sampling and Randomization Procedures",
+        "relationship": "test_method",
+        "note": "Prescribes statistical random sampling schemes for quality audit and lot acceptance testing of industrial safety helmets under BIS Certification Scheme.",
+        "confidence": "high",
+        "standard_normalized": "IS 4905:2015",
+        "is_number": 4905
+      }
+    ],
+    "primary_standard_normalized": "IS 2925",
+    "primary_is_number": 2925,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 4151",
+    "product": "Protective Helmets for Two-Wheeler Riders",
+    "allied_standards": [
+      {
+        "standard": "IS 7692:1975",
+        "title": "Specification for Wooden Headforms for Testing of Helmets",
+        "relationship": "test_method",
+        "note": "Mandatory testing apparatus specification cited in Clause 7 and Annex D of IS 4151:2015 for impact attenuation, retention system, and dynamic penetration tests.",
+        "confidence": "high",
+        "standard_normalized": "IS 7692:1975",
+        "is_number": 7692
+      },
+      {
+        "standard": "IS 15575 (Part 1) : 2016",
+        "title": "Electroacoustics — Sound Level Meters: Part 1 Specifications",
+        "relationship": "test_method",
+        "note": "Mandated by Amendment No. 1 (2018) to IS 4151:2015 for conducting hearing attenuation / acoustic audition tests to verify that helmets do not dangerously block traffic sounds.",
+        "confidence": "high",
+        "standard_normalized": "IS 15575-1:2016",
+        "is_number": 15575
+      },
+      {
+        "standard": "IS 9973:1981",
+        "title": "Specification for Visors for Vehicular Helmets",
+        "relationship": "safety",
+        "note": "Mandatory optical and mechanical specification cited in Clause 5.3 of IS 4151 for helmet visors, governing light transmission, optical distortion, and shatter resistance.",
+        "confidence": "high",
+        "standard_normalized": "IS 9973:1981",
+        "is_number": 9973
+      }
+    ],
+    "primary_standard_normalized": "IS 4151",
+    "primary_is_number": 4151,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 2997",
+    "product": "Air Circulator Electric Fans and Regulators",
+    "allied_standards": [
+      {
+        "standard": "IS 302-1:2008",
+        "title": "Safety of Household and Similar Electrical Appliances: Part 1 General Requirements",
+        "relationship": "safety",
+        "note": "Mandatory statutory safety baseline for electrical insulation, protection against access to live parts, leakage current, and moisture resistance under Electrical Appliances QCO.",
+        "confidence": "high",
+        "standard_normalized": "IS 302-1:2008",
+        "is_number": 302
+      },
+      {
+        "standard": "IS 732:1989",
+        "title": "Code of Practice for Electrical Wiring Installations",
+        "relationship": "installation_application",
+        "note": "Governing national electrical wiring code specifying mounting heights, earthing connections, sub-circuit loading, and terminal switches for industrial air circulators.",
+        "confidence": "high",
+        "standard_normalized": "IS 732:1989",
+        "is_number": 732
+      },
+      {
+        "standard": "IS 4160",
+        "title": "Interlocking switch socket outlet, Specification",
+        "relationship": "installation_application",
+        "note": "Standard heavy-duty industrial switch-socket outlet specified for safe local power isolation and connection of pedestal/bracket-mounted air circulator fans.",
+        "confidence": "medium",
+        "standard_normalized": "IS 4160",
+        "is_number": 4160
+      }
+    ],
+    "primary_standard_normalized": "IS 2997",
+    "primary_is_number": 2997,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 3156-3",
+    "product": "Protective Voltage Transformers (PT / VT)",
+    "allied_standards": [
+      {
+        "standard": "IS 3156 (Part 1):1992",
+        "title": "Voltage Transformers: Part 1 General Requirements",
+        "relationship": "normative_reference",
+        "note": "Mandatory parent standard; Clause 1 of IS 3156-3 explicitly dictates that the requirements of Part 1 apply to all protective voltage transformers.",
+        "confidence": "high",
+        "standard_normalized": "IS 3156-1:1992",
+        "is_number": 3156
+      }
+    ],
+    "primary_standard_normalized": "IS 3156-3",
+    "primary_is_number": 3156,
+    "primary_part": "3"
+  },
+  {
+    "primary_standard": "IS 368",
+    "product": "Electric Immersion Water Heaters",
+    "allied_standards": [
+      {
+        "standard": "IS 302-1:2008",
+        "title": "Safety of Household and Similar Electrical Appliances: Part 1 General Requirements",
+        "relationship": "safety",
+        "note": "Mandatory safety baseline cited in Clause 1 and Clause 5 of IS 368:2014 governing electric shock hazard protection, insulation resistance, and abnormal operation.",
+        "confidence": "high",
+        "standard_normalized": "IS 302-1:2008",
+        "is_number": 302
+      },
+      {
+        "standard": "IS 1293:2019",
+        "title": "Plugs and Socket-Outlets for Household and Similar Purposes of Rated Voltage up to and Including 250 V and Rated Current up to and Including 16 A",
+        "relationship": "safety",
+        "note": "Mandates that immersion heaters be fitted with a non-rewireable 3-pin earthed plug conforming to IS 1293 with permanent earthing pin connection for user safety.",
+        "confidence": "high",
+        "standard_normalized": "IS 1293:2019",
+        "is_number": 1293
+      }
+    ],
+    "primary_standard_normalized": "IS 368",
+    "primary_is_number": 368,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 302-2-3",
+    "product": "Electric Irons (Household Electrical Appliances)",
+    "allied_standards": [
+      {
+        "standard": "IS 302-1:2008",
+        "title": "Safety of Household and Similar Electrical Appliances: Part 1 General Requirements",
+        "relationship": "safety",
+        "note": "Mandatory parent standard; Clause 1 of IS 302-2-3 explicitly dictates that it shall be read in conjunction with IS 302-1.",
+        "confidence": "high",
+        "standard_normalized": "IS 302-1:2008",
+        "is_number": 302
+      },
+      {
+        "standard": "IS 366:1991",
+        "title": "Electric Irons — Specification",
+        "relationship": "installation_application",
+        "note": "The primary Indian product performance standard governing heating time, thermostat accuracy, soleplate smoothness, steam output, and endurance for electric irons.",
+        "confidence": "high",
+        "standard_normalized": "IS 366:1991",
+        "is_number": 366
+      },
+      {
+        "standard": "IS 1293:2019",
+        "title": "Plugs and Socket-Outlets for Household and Similar Purposes of Rated Voltage up to and Including 250 V and Rated Current up to and Including 16 A",
+        "relationship": "safety",
+        "note": "Mandates that cords of electric irons terminate in an approved 3-pin earthed plug conforming to IS 1293 to ensure earthing continuity.",
+        "confidence": "high",
+        "standard_normalized": "IS 1293:2019",
+        "is_number": 1293
+      }
+    ],
+    "primary_standard_normalized": "IS 302-2-3",
+    "primary_is_number": 302,
+    "primary_part": "2-3"
+  },
+  {
+    "primary_standard": "IS 1364-3",
+    "product": "Hexagon Nuts (Product Grades A and B, M1.6 to M64)",
+    "allied_standards": [
+      {
+        "standard": "IS 1367 (Part 6):1994",
+        "title": "Technical Supply Conditions for Threaded Steel Fasteners: Part 6 Mechanical Properties and Test Methods for Nuts with Specified Proof Load Values",
+        "relationship": "test_method",
+        "note": "Mandatory testing standard cited in Clause 2 and Table 3 of IS 1364-3 for verifying proof load stress, Vickers/Brinell hardness, and thread stripping strength.",
+        "confidence": "high",
+        "standard_normalized": "IS 1367-6:1994",
+        "is_number": 1367
+      },
+      {
+        "standard": "IS 1364 (Part 1):2002",
+        "title": "Hexagon Head Bolts, Screws and Nuts of Product Grades A and B: Part 1 Hexagon Head Bolts (Size Range M 1.6 to M 64)",
+        "relationship": "installation_application",
+        "note": "The matching primary male threaded fastener standard designed to mate with IS 1364-3 hexagon nuts in mechanical engineering and structural assemblies.",
+        "confidence": "high",
+        "standard_normalized": "IS 1364-1:2002",
+        "is_number": 1364
+      },
+      {
+        "standard": "IS 3063",
+        "title": "Fasteners - Single coil rectangular section spring lock washers",
+        "relationship": "installation_application",
+        "note": "Anti-loosening spring washer standard routinely specified under bolted joint procurement clauses to prevent nut loosening under cyclic vibration.",
+        "confidence": "high",
+        "standard_normalized": "IS 3063",
+        "is_number": 3063
+      }
+    ],
+    "primary_standard_normalized": "IS 1364-3",
+    "primary_is_number": 1364,
+    "primary_part": "3"
+  },
+  {
+    "primary_standard": "IS 3063",
+    "product": "Single Coil Spring Lock Washers (Fasteners)",
+    "allied_standards": [
+      {
+        "standard": "IS 1586 (Part 1):2018",
+        "title": "Metallic Materials — Rockwell Hardness Test: Part 1 Test Method",
+        "relationship": "test_method",
+        "note": "Mandatory testing standard cited in Clause 6 of IS 3063:1994 for verifying Rockwell hardness (specified hardness range: 44 to 51 HRC).",
+        "confidence": "high",
+        "standard_normalized": "IS 1586-1:2018",
+        "is_number": 1586
+      },
+      {
+        "standard": "IS 1364-3",
+        "title": "Hexagon Head Bolts, Screws and Nuts of Product Grades A and B, Part 3: Hexagon Nuts, Style 1 (Size Range M 1.6 to M 64)",
+        "relationship": "installation_application",
+        "note": "The principal threaded fastener with which single coil spring lock washers are assembled to prevent vibrational back-off.",
+        "confidence": "high",
+        "standard_normalized": "IS 1364-3",
+        "is_number": 1364
+      }
+    ],
+    "primary_standard_normalized": "IS 3063",
+    "primary_is_number": 3063,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 260",
+    "product": "Non-Ferric Aluminium Sulphate (Water Treatment Alum)",
+    "allied_standards": [
+      {
+        "standard": "IS 10500:2012",
+        "title": "Drinking Water — Specification",
+        "relationship": "installation_application",
+        "note": "The national drinking water standard that sets the legal purity and chemical residue limits (including maximum permissible aluminium of 0.03 mg/l) achieved via IS 260 coagulation.",
+        "confidence": "high",
+        "standard_normalized": "IS 10500:2012",
+        "is_number": 10500
+      },
+      {
+        "standard": "IS: 3025",
+        "title": "tests on water samples",
+        "relationship": "installation_application",
+        "note": "Authoritative analytical test methods used by water treatment plant chemists to measure turbidity, pH, jar-test optimum alum dose, and residual aluminium in treated water.",
+        "confidence": "medium",
+        "standard_normalized": "IS 3025",
+        "is_number": 3025
+      }
+    ],
+    "primary_standard_normalized": "IS 260",
+    "primary_is_number": 260,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 3771 : 2019",
+    "product": "Bleached Cotton Khadi Long Cloth",
+    "allied_standards": [
+      {
+        "standard": "IS 1964:2001",
+        "title": "Methods for Determination of Mass Per Unit Length and Mass Per Unit Area of Fabrics",
+        "relationship": "test_method",
+        "note": "Mandatory testing standard cited in Clause 2 and Table 1 of IS 3771:2019 for determining fabric mass (grams per square meter - GSM) to verify cloth weight grade.",
+        "confidence": "high",
+        "standard_normalized": "IS 1964:2001",
+        "is_number": 1964
+      },
+      {
+        "standard": "IS 1969 (Part 1):2009",
+        "title": "Tensile Properties of Fabrics — Determination of Maximum Force and Elongation at Maximum Force: Part 1 Strip Method",
+        "relationship": "test_method",
+        "note": "Mandatory testing standard cited in Clause 2 and Table 1 of IS 3771:2019 for determining breaking strength (warp and weft direction) of khadi fabric.",
+        "confidence": "high",
+        "standard_normalized": "IS 1969-1:2009",
+        "is_number": 1969
+      },
+      {
+        "standard": "IS 1390:1983",
+        "title": "Methods for Determination of pH Value of Aqueous Extracts of Textile Materials",
+        "relationship": "test_method",
+        "note": "Mandatory chemical test cited in Clause 2 and Clause 5.4 of IS 3771:2019 to verify that residual bleaching chemicals leave fabric pH in the safe skin-neutral range (6.0 to 8.5).",
+        "confidence": "high",
+        "standard_normalized": "IS 1390:1983",
+        "is_number": 1390
+      }
+    ],
+    "primary_standard_normalized": "IS 3771:2019",
+    "primary_is_number": 3771,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 1489 (part 1&2) 1991",
+    "product": "Portland Pozzolana Cement (PPC)",
+    "allied_standards": [
+      {
+        "standard": "IS 4031 (Relevant Parts)",
+        "title": "Methods of physical test for hydraulic cement",
+        "relationship": "test_method",
+        "note": "Mandatory physical testing methods (fineness by Blaine, setting time, soundness by Le Chatelier, and compressive strength) prescribed in Clause 8 of IS 1489:1991.",
+        "confidence": "high",
+        "standard_normalized": "IS 4031",
+        "is_number": 4031
+      },
+      {
+        "standard": "IS 4032 - 1985",
+        "title": "Method of chemical analysis of hydraulic cement",
+        "relationship": "test_method",
+        "note": "Prescribes standard chemical analysis methods for loss on ignition, magnesia, and insoluble residue for PPC compliance.",
+        "confidence": "high",
+        "standard_normalized": "IS 4032:1985",
+        "is_number": 4032
+      },
+      {
+        "standard": "IS 3812 (Part 1) : 2013",
+        "title": "Pulverized Fuel Ash - Specification: Part 1 For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+        "relationship": "normative_reference",
+        "note": "Mandatory pozzolanic raw material standard referenced in Clause 4 of IS 1489 (Part 1) for fly ash quality and fineness.",
+        "confidence": "high",
+        "standard_normalized": "IS 3812-1:2013",
+        "is_number": 3812
+      },
+      {
+        "standard": "IS 650 - 1991",
+        "title": "Standard sand testing of cement",
+        "relationship": "normative_reference",
+        "note": "Mandatory reference standard sand (Ennore sand) specified in IS 1489 for preparing standard mortar cubes for compressive strength testing.",
+        "confidence": "high",
+        "standard_normalized": "IS 650:1991",
+        "is_number": 650
+      },
+      {
+        "standard": "IS: 4082",
+        "title": "specifications for storage of materials",
+        "relationship": "installation_application",
+        "note": "Mandatory civil site storage code referenced across CPWD specifications to ensure weatherproof stacking and prevent aeration of PPC cement bags.",
+        "confidence": "high",
+        "standard_normalized": "IS 4082",
+        "is_number": 4082
+      }
+    ],
+    "primary_standard_normalized": "IS 1489-1-2:1991",
+    "primary_is_number": 1489,
+    "primary_part": "1-2"
+  },
+  {
+    "primary_standard": "IS 458",
+    "product": "Precast Concrete Pipes (With and Without Reinforcement)",
+    "allied_standards": [
+      {
+        "standard": "IS 3597",
+        "title": "Methods of Tests for concrete pipes",
+        "relationship": "test_method",
+        "note": "Mandatory testing standard prescribed in Clause 9 & 10 of IS 458 for hydrostatic pressure test, three-edge bearing load test, and absorption test.",
+        "confidence": "high",
+        "standard_normalized": "IS 3597",
+        "is_number": 3597
+      },
+      {
+        "standard": "IS 783:1985",
+        "title": "Code of practice for laying of concrete pipes",
+        "relationship": "installation_application",
+        "note": "Governing national installation code for bedding, jointing, trench excavation, and testing of precast concrete pipelines in water supply and drainage works.",
+        "confidence": "high",
+        "standard_normalized": "IS 783:1985",
+        "is_number": 783
+      },
+      {
+        "standard": "IS 269 - 2015",
+        "title": "Specification for 33,43,53 Grade ordinary Portland cement",
+        "relationship": "normative_reference",
+        "note": "Mandatory cement binder specification referenced in Clause 5.1 of IS 458 for manufacturing concrete pipes.",
+        "confidence": "high",
+        "standard_normalized": "IS 269:2015",
+        "is_number": 269
+      },
+      {
+        "standard": "IS 432 (P II) 1966",
+        "title": "Specification for Mild Steel and Medium Tensile steel bars",
+        "relationship": "normative_reference",
+        "note": "Reinforcement steel specification referenced in Clause 5.3 of IS 458 for wire mesh and reinforcement cages used in reinforced concrete pressure and non-pressure pipes.",
+        "confidence": "high",
+        "standard_normalized": "IS 432-2:1966",
+        "is_number": 432
+      }
+    ],
+    "primary_standard_normalized": "IS 458",
+    "primary_is_number": 458,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS: 4990",
+    "product": "Plywood Formwork for Concrete (Shuttering Plywood)",
+    "allied_standards": [
+      {
+        "standard": "IS 1734 (Relevant Parts)",
+        "title": "Methods of Test for Plywood",
+        "relationship": "test_method",
+        "note": "Mandatory test methods cited in Clause 7 & 8 of IS 4990 for moisture content, glue shear strength in dry and wet state, water resistance, and tensile strength.",
+        "confidence": "high",
+        "standard_normalized": "IS 1734",
+        "is_number": 1734
+      },
+      {
+        "standard": "IS 848:2006",
+        "title": "Synthetic Resin Adhesives for Plywood (Phenolic and Aminoplastic) - Specification",
+        "relationship": "normative_reference",
+        "note": "Mandatory adhesive standard referenced in Clause 5.2 of IS 4990; shuttering plywood must use BWP (Boiling Water Proof) grade phenolic resins.",
+        "confidence": "high",
+        "standard_normalized": "IS 848:2006",
+        "is_number": 848
+      },
+      {
+        "standard": "IS 456",
+        "title": "Code of Practices for plain and reinforced concrete etc.",
+        "relationship": "installation_application",
+        "note": "National concrete code governing permissible formwork deflections, surface finish classes, form removal/stripping schedules, and propping for concrete shuttering plywood.",
+        "confidence": "high",
+        "standard_normalized": "IS 456",
+        "is_number": 456
+      }
+    ],
+    "primary_standard_normalized": "IS 4990",
+    "primary_is_number": 4990,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS: 455",
+    "product": "Portland Slag Cement (PSC)",
+    "allied_standards": [
+      {
+        "standard": "IS 4031 - 1988",
+        "title": "Methods of physical test for hydraulic cement",
+        "relationship": "test_method",
+        "note": "Mandatory physical testing methods (fineness, standard consistency, setting times, soundness, and compressive strength) prescribed in Clause 8 of IS 455.",
+        "confidence": "high",
+        "standard_normalized": "IS 4031:1988",
+        "is_number": 4031
+      },
+      {
+        "standard": "IS 4032 - 1985",
+        "title": "Method of chemical analysis of hydraulic cement",
+        "relationship": "test_method",
+        "note": "Prescribes chemical testing methods for determining sulphide sulphur, insoluble residue, and slag constituent ratios in Portland Slag Cement.",
+        "confidence": "high",
+        "standard_normalized": "IS 4032:1985",
+        "is_number": 4032
+      },
+      {
+        "standard": "IS 12089:1987",
+        "title": "Specification for Granulated Slag for the Manufacture of Portland Slag Cement",
+        "relationship": "normative_reference",
+        "note": "Mandatory blast furnace granulated slag raw material specification cited in Clause 4 of IS 455 for hydraulic activity index and glass content.",
+        "confidence": "high",
+        "standard_normalized": "IS 12089:1987",
+        "is_number": 12089
+      },
+      {
+        "standard": "IS 650 - 1991",
+        "title": "Standard sand testing of cement",
+        "relationship": "normative_reference",
+        "note": "Standard testing sand specified in IS 455 for mortar cube preparation during compressive strength verification.",
+        "confidence": "high",
+        "standard_normalized": "IS 650:1991",
+        "is_number": 650
+      }
+    ],
+    "primary_standard_normalized": "IS 455",
+    "primary_is_number": 455,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS: 9103",
+    "product": "Chemical Admixtures for Concrete",
+    "allied_standards": [
+      {
+        "standard": "IS 6925:1973",
+        "title": "Methods of Test for Determination of Water Soluble Chlorides in Concrete Admixtures",
+        "relationship": "test_method",
+        "note": "Mandatory chemical testing procedure cited in Clause 6 & Table 1 of IS 9103 to verify chloride ion content limits to protect steel reinforcement from corrosion.",
+        "confidence": "high",
+        "standard_normalized": "IS 6925:1973",
+        "is_number": 6925
+      },
+      {
+        "standard": "IS 516 - 1959",
+        "title": "Specification for compressive strength , flexural strength",
+        "relationship": "test_method",
+        "note": "Prescribed test method cited in Clause 6 of IS 9103 for determining compressive and flexural strength ratios of concrete mixes containing accelerating, retarding, and superplasticizing admixtures.",
+        "confidence": "high",
+        "standard_normalized": "IS 516:1959",
+        "is_number": 516
+      },
+      {
+        "standard": "IS 1199",
+        "title": "Methods of sampling and analysis of concrete",
+        "relationship": "test_method",
+        "note": "Test method cited in IS 9103 for determining workability (slump and compaction factor), air content, and bleeding of admixed concrete mixes.",
+        "confidence": "high",
+        "standard_normalized": "IS 1199",
+        "is_number": 1199
+      },
+      {
+        "standard": "IS 456",
+        "title": "Code of Practices for plain and reinforced concrete etc.",
+        "relationship": "installation_application",
+        "note": "Structural concrete code governing jobsite admixture compatibility, maximum dosage thresholds, and chloride/sulphate limits under Clause 5.5.",
+        "confidence": "high",
+        "standard_normalized": "IS 456",
+        "is_number": 456
+      }
+    ],
+    "primary_standard_normalized": "IS 9103",
+    "primary_is_number": 9103,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 12778",
+    "product": "Hot Rolled Parallel Flange Steel Sections (Beams and Columns)",
+    "allied_standards": [
+      {
+        "standard": "IS 2062:2011",
+        "title": "Hot Rolled Medium and High Tensile Structural Steel - Specification",
+        "relationship": "normative_reference",
+        "note": "Primary material specification governing the chemical composition (C, Mn, S, P, CE) and mechanical grade requirements (E250, E350, E450) for parallel flange sections.",
+        "confidence": "high",
+        "standard_normalized": "IS 2062:2011",
+        "is_number": 2062
+      },
+      {
+        "standard": "IS 1608",
+        "title": "Method for Tensile testing of Steel products",
+        "relationship": "test_method",
+        "note": "Mandatory mechanical testing standard for determining yield strength, ultimate tensile strength, and percentage elongation of parallel flange sections.",
+        "confidence": "high",
+        "standard_normalized": "IS 1608",
+        "is_number": 1608
+      },
+      {
+        "standard": "IS 1852:1985",
+        "title": "Rolling and Cutting Tolerances for Hot Rolled Steel Products",
+        "relationship": "normative_reference",
+        "note": "Prescribes permissible dimensional tolerances, camber, sweep, and out-of-squareness for hot rolled structural steel sections.",
+        "confidence": "high",
+        "standard_normalized": "IS 1852:1985",
+        "is_number": 1852
+      },
+      {
+        "standard": "IS 800:2007",
+        "title": "General Construction in Steel - Code of Practice",
+        "relationship": "installation_application",
+        "note": "National structural steel design code governing section classification, buckling design, connection detailing, and erection of parallel flange steel beams and columns.",
+        "confidence": "high",
+        "standard_normalized": "IS 800:2007",
+        "is_number": 800
+      }
+    ],
+    "primary_standard_normalized": "IS 12778",
+    "primary_is_number": 12778,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 4160",
+    "product": "Interlocking Switch Socket Outlets",
+    "allied_standards": [
+      {
+        "standard": "IS 1293:2019",
+        "title": "Plugs and Socket-Outlets for Household and Similar Purposes of Rated Voltage up to and Including 250 V and Rated Current up to and Including 16 A",
+        "relationship": "normative_reference",
+        "note": "Normative dimensional and pin configuration standard referenced in Clause 5 of IS 4160 for ensuring standard plug insertion into switch socket outlets.",
+        "confidence": "high",
+        "standard_normalized": "IS 1293:2019",
+        "is_number": 1293
+      },
+      {
+        "standard": "IS 732:1989",
+        "title": "Code of Practice for Electrical Wiring Installations",
+        "relationship": "installation_application",
+        "note": "Mandated wiring code for circuit protection, earthing continuity, mounting enclosures, and load segregation for switched socket outlets in commercial and industrial installations.",
+        "confidence": "high",
+        "standard_normalized": "IS 732:1989",
+        "is_number": 732
+      },
+      {
+        "standard": "IS 3854:1997",
+        "title": "Switches for Domestic and Similar Purposes - Specification",
+        "relationship": "safety",
+        "note": "Companion switch standard governing contact separation, breaking capacity, and mechanical endurance of the integral switch mechanism.",
+        "confidence": "high",
+        "standard_normalized": "IS 3854:1997",
+        "is_number": 3854
+      }
+    ],
+    "primary_standard_normalized": "IS 4160",
+    "primary_is_number": 4160,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 3188",
+    "product": "String Insulator Units for Overhead Power Transmission Lines",
+    "allied_standards": [
+      {
+        "standard": "IS 731:1971",
+        "title": "Porcelain Insulators for Overhead Power Lines with a Nominal Voltage Greater than 1000 V",
+        "relationship": "normative_reference",
+        "note": "Parent electrical specification cited in Clause 1 of IS 3188 establishing mechanical breaking load, power-frequency withstand, and impulse voltage tests.",
+        "confidence": "high",
+        "standard_normalized": "IS 731:1971",
+        "is_number": 731
+      },
+      {
+        "standard": "IS 2486 (Part 1):1993",
+        "title": "Insulator Fittings for Overhead Power Lines with a Nominal Voltage Greater than 1000 V: Part 1 General Requirements and Tests",
+        "relationship": "installation_application",
+        "note": "Governing standard for ball and socket / clevis and tongue metal hardware couplings that join disc string insulator units to transmission line towers and conductors.",
+        "confidence": "high",
+        "standard_normalized": "IS 2486-1:1993",
+        "is_number": 2486
+      },
+      {
+        "standard": "IS 8263:1976",
+        "title": "Methods for Radio Interference Tests on High-Voltage Insulators",
+        "relationship": "test_method",
+        "note": "Mandatory high-voltage test method for measuring radio interference voltage (RIV) and corona discharge generated by string insulator assemblies on EHV lines.",
+        "confidence": "high",
+        "standard_normalized": "IS 8263:1976",
+        "is_number": 8263
+      }
+    ],
+    "primary_standard_normalized": "IS 3188",
+    "primary_is_number": 3188,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 4250",
+    "product": "Domestic Electric Food Mixers and Grinders",
+    "allied_standards": [
+      {
+        "standard": "IS 302-1:2008",
+        "title": "Safety of Household and Similar Electrical Appliances: Part 1 General Requirements",
+        "relationship": "safety",
+        "note": "Foundational electrical safety standard cited in Clause 1 & Clause 5 of IS 4250 for insulation resistance, leakage current, earth continuity, and shock prevention.",
+        "confidence": "high",
+        "standard_normalized": "IS 302-1:2008",
+        "is_number": 302
+      },
+      {
+        "standard": "IS 1293:2019",
+        "title": "Plugs and Socket-Outlets for Household and Similar Purposes of Rated Voltage up to and Including 250 V and Rated Current up to and Including 16 A",
+        "relationship": "safety",
+        "note": "Mandatory plug interface specification cited in Clause 7.2 of IS 4250 requiring molded 2-pin or earthed 3-pin plugs conforming to IS 1293 on supply cords.",
+        "confidence": "high",
+        "standard_normalized": "IS 1293:2019",
+        "is_number": 1293
+      },
+      {
+        "standard": "IS 302-2-14:2009",
+        "title": "Safety of Household and Similar Electrical Appliances - Particular Requirements for Kitchen Machines",
+        "relationship": "safety",
+        "note": "Modern harmonized Indian safety standard defining mechanical interlocks, blade access hazards, and motor thermal overload requirements for kitchen appliances.",
+        "confidence": "high",
+        "standard_normalized": "IS 302-2-14:2009",
+        "is_number": 302
+      }
+    ],
+    "primary_standard_normalized": "IS 4250",
+    "primary_is_number": 4250,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 13450-2-4",
+    "product": "Cardiac Defibrillators (Medical Electrical Equipment)",
+    "allied_standards": [
+      {
+        "standard": "IS 13450 (Part 1):2018",
+        "title": "Medical Electrical Equipment - Part 1: General Requirements for Basic Safety and Essential Performance",
+        "relationship": "normative_reference",
+        "note": "Parent medical electrical safety standard; IS 13450-2-4 Clause 1.1 explicitly mandates reading in conjunction with Part 1 (IEC 60601-1 harmonized).",
+        "confidence": "high",
+        "standard_normalized": "IS 13450-1:2018",
+        "is_number": 13450
+      },
+      {
+        "standard": "IS/ISO 14971:2019",
+        "title": "Medical Devices - Application of Risk Management to Medical Devices",
+        "relationship": "safety",
+        "note": "Mandatory statutory medical device risk management standard governing energy delivery safety, accidental discharge prevention, and patient isolation.",
+        "confidence": "high",
+        "standard_normalized": "IS/ISO 14971:2019",
+        "is_number": 14971
+      }
+    ],
+    "primary_standard_normalized": "IS 13450-2-4",
+    "primary_is_number": 13450,
+    "primary_part": "2-4"
+  },
+  {
+    "primary_standard": "IS 3452-2",
+    "product": "Toggle Switches (Type I and Type II)",
+    "allied_standards": [
+      {
+        "standard": "IS 9000 (Relevant Parts)",
+        "title": "Basic Environmental Testing Procedures for Electronic and Electrical Items",
+        "relationship": "test_method",
+        "note": "Prescribed environmental testing standards cited in Clause 6 of IS 3452-2 for dry heat, cold, damp heat, vibration, and mechanical endurance of toggle switches.",
+        "confidence": "high",
+        "standard_normalized": "IS 9000",
+        "is_number": 9000
+      },
+      {
+        "standard": "IS 6103:1971",
+        "title": "Methods of Test for Direct Current Switches for Domestic and Similar Purposes",
+        "relationship": "test_method",
+        "note": "Electrical testing standard for verifying DC breaking capacity, contact resistance, and dielectric withstand voltage of electronic switches.",
+        "confidence": "high",
+        "standard_normalized": "IS 6103:1971",
+        "is_number": 6103
+      }
+    ],
+    "primary_standard_normalized": "IS 3452-2",
+    "primary_is_number": 3452,
+    "primary_part": "2"
+  },
+  {
+    "primary_standard": "IS 2759",
+    "product": "High Tensile Steel Point Hooks for Wire Rope Thimbles",
+    "allied_standards": [
+      {
+        "standard": "IS 3815:1969",
+        "title": "Specification for Point Hooks with Shank for General Engineering Purposes",
+        "relationship": "normative_reference",
+        "note": "Governing dimensional and geometric hook design specification cited in Clause 2 of IS 2759 for throat opening, shank proportions, and load ratings.",
+        "confidence": "high",
+        "standard_normalized": "IS 3815:1969",
+        "is_number": 3815
+      },
+      {
+        "standard": "IS 1608",
+        "title": "Method for Tensile testing of Steel products",
+        "relationship": "test_method",
+        "note": "Mandatory mechanical proof load and ultimate tensile test method for verifying minimum breaking load and proof force of forged high tensile point hooks.",
+        "confidence": "high",
+        "standard_normalized": "IS 1608",
+        "is_number": 1608
+      },
+      {
+        "standard": "IS 2266:2002",
+        "title": "Steel Wire Ropes for General Engineering Purposes - Specification",
+        "relationship": "installation_application",
+        "note": "Companion wire rope standard for lifting and rigging assemblies where point hooks with thimbles are spliced or socketed onto wire ropes.",
+        "confidence": "high",
+        "standard_normalized": "IS 2266:2002",
+        "is_number": 2266
+      }
+    ],
+    "primary_standard_normalized": "IS 2759",
+    "primary_is_number": 2759,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 3141",
+    "product": "Starter Motors for Automotive and Industrial IC Engines",
+    "allied_standards": [
+      {
+        "standard": "IS 10250:1982",
+        "title": "Methods of Test for Starter Motors for Internal Combustion Engines",
+        "relationship": "test_method",
+        "note": "Mandatory testing code cited in Clause 7 of IS 3141 for lock torque, no-load speed, continuous cranking endurance, and environmental ingress protection.",
+        "confidence": "high",
+        "standard_normalized": "IS 10250:1982",
+        "is_number": 10250
+      },
+      {
+        "standard": "IS 7372:1995",
+        "title": "Lead-Acid Storage Batteries for Motor Vehicles - Specification",
+        "relationship": "installation_application",
+        "note": "Direct mating electrical source standard specifying battery capacity (Ah) and cold cranking amperes (CCA) required to energize automotive starter motors.",
+        "confidence": "high",
+        "standard_normalized": "IS 7372:1995",
+        "is_number": 7372
+      }
+    ],
+    "primary_standard_normalized": "IS 3141",
+    "primary_is_number": 3141,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 4215",
+    "product": "Needle Roller Bearings (Ring Type)",
+    "allied_standards": [
+      {
+        "standard": "IS 5692:1988",
+        "title": "Method for Calculating Dynamic Load Ratings and Rating Life of Roller Bearings",
+        "relationship": "test_method",
+        "note": "Mandatory standard method for evaluating dynamic radial load capacity, static load rating, and L10 fatigue life of needle roller bearings.",
+        "confidence": "high",
+        "standard_normalized": "IS 5692:1988",
+        "is_number": 5692
+      },
+      {
+        "standard": "IS 1586 (Part 1):2018",
+        "title": "Metallic Materials - Rockwell Hardness Test: Part 1 Test Method",
+        "relationship": "test_method",
+        "note": "Prescribed hardness testing standard for verifying 58 to 65 HRC surface hardness on bearing rings and needle rollers.",
+        "confidence": "high",
+        "standard_normalized": "IS 1586-1:2018",
+        "is_number": 1586
+      },
+      {
+        "standard": "IS 6455:1972",
+        "title": "Radial Internal Clearances in Unloaded Radial Rolling Bearings",
+        "relationship": "normative_reference",
+        "note": "Dimensional standard specifying radial clearance groups (C2, Normal, C3, C4) essential for fitting needle bearings into mechanical housings.",
+        "confidence": "high",
+        "standard_normalized": "IS 6455:1972",
+        "is_number": 6455
+      }
+    ],
+    "primary_standard_normalized": "IS 4215",
+    "primary_is_number": 4215,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 13799",
+    "product": "Two-Pack Polyurethane Surfacer for Railway Coaches",
+    "allied_standards": [
+      {
+        "standard": "IS 101 (Relevant Parts)",
+        "title": "Methods of Sampling and Test for Paints, Varnishes and Related Products",
+        "relationship": "test_method",
+        "note": "Mandatory testing series cited in Clause 5 & Table 1 of IS 13799 for drying time, pot life, scratch hardness, flexibility, adhesion, and salt spray resistance.",
+        "confidence": "high",
+        "standard_normalized": "IS 101",
+        "is_number": 101
+      },
+      {
+        "standard": "IS 13213:1991",
+        "title": "Polyurethane Full Gloss Enamel (Two Pack) for Exterior Painting of Railway Coaches - Specification",
+        "relationship": "installation_application",
+        "note": "Companion topcoat enamel specification mandated in RDSO railway coach exterior painting schedules to apply over IS 13799 PU surfacer.",
+        "confidence": "high",
+        "standard_normalized": "IS 13213:1991",
+        "is_number": 13213
+      }
+    ],
+    "primary_standard_normalized": "IS 13799",
+    "primary_is_number": 13799,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 216",
+    "product": "Industrial Coal Tar Pitch",
+    "allied_standards": [
+      {
+        "standard": "IS 1205:1978",
+        "title": "Methods for Testing Tar and Bituminous Materials: Determination of Softening Point",
+        "relationship": "test_method",
+        "note": "Mandatory Ring and Ball softening point test method cited in Clause 4 & Table 1 of IS 216:1961 for grading coal tar pitch (soft, medium, hard).",
+        "confidence": "high",
+        "standard_normalized": "IS 1205:1978",
+        "is_number": 1205
+      },
+      {
+        "standard": "IS 1217:1978",
+        "title": "Methods for Testing Tar and Bituminous Materials: Determination of Mineral Matter (Ash)",
+        "relationship": "test_method",
+        "note": "Prescribed testing standard cited in Clause 4 of IS 216 for determining ash and residue content in industrial pitches used in refractory and binder applications.",
+        "confidence": "high",
+        "standard_normalized": "IS 1217:1978",
+        "is_number": 1217
+      }
+    ],
+    "primary_standard_normalized": "IS 216",
+    "primary_is_number": 216,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 3322-1",
+    "product": "PVC-Coated Waterproof Protective Clothing",
+    "allied_standards": [
+      {
+        "standard": "IS 7016 (Relevant Parts)",
+        "title": "Methods of Test for Coated and Treated Fabrics",
+        "relationship": "test_method",
+        "note": "Mandatory testing methods cited in Clause 6 of IS 3322-1 for hydrostatic head / water penetration resistance, coating adhesion, and low-temperature flexibility.",
+        "confidence": "high",
+        "standard_normalized": "IS 7016",
+        "is_number": 7016
+      },
+      {
+        "standard": "IS 1969 (Part 1):2009",
+        "title": "Tensile Properties of Fabrics - Determination of Maximum Force and Elongation at Maximum Force: Part 1 Strip Method",
+        "relationship": "test_method",
+        "note": "Prescribes strip tensile breaking force and seam strength testing for waterproof PVC-coated protective suits.",
+        "confidence": "high",
+        "standard_normalized": "IS 1969-1:2009",
+        "is_number": 1969
+      }
+    ],
+    "primary_standard_normalized": "IS 3322-1",
+    "primary_is_number": 3322,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 13904",
+    "product": "Polyester-Wool Blended Drab Serge (Uniform Fabric)",
+    "allied_standards": [
+      {
+        "standard": "IS 1964:2001",
+        "title": "Methods for Determination of Mass Per Unit Length and Mass Per Unit Area of Fabrics",
+        "relationship": "test_method",
+        "note": "Mandatory test method cited in Clause 2 & Table 1 of IS 13904 for determining fabric weight / GSM (375 ± 5% g/m²).",
+        "confidence": "high",
+        "standard_normalized": "IS 1964:2001",
+        "is_number": 1964
+      },
+      {
+        "standard": "IS 1969 (Part 1):2009",
+        "title": "Tensile Properties of Fabrics - Determination of Maximum Force and Elongation at Maximum Force: Part 1 Strip Method",
+        "relationship": "test_method",
+        "note": "Mandatory strip tensile test method for verifying warp and weft breaking strength requirements of uniform serge fabric.",
+        "confidence": "high",
+        "standard_normalized": "IS 1969-1:2009",
+        "is_number": 1969
+      },
+      {
+        "standard": "IS 688:1988",
+        "title": "Method for Determination of Colour Fastness of Textile Materials to Washing",
+        "relationship": "test_method",
+        "note": "Standard testing protocol for colour fastness to washing, perspiration, and dry cleaning mandated in defence and police uniform procurement.",
+        "confidence": "high",
+        "standard_normalized": "IS 688:1988",
+        "is_number": 688
+      }
+    ],
+    "primary_standard_normalized": "IS 13904",
+    "primary_is_number": 13904,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 432 (P II) 1966",
+    "product": "Mild Steel and Medium Tensile Deformed Steel Bars",
+    "allied_standards": [
+      {
+        "standard": "IS 1608",
+        "title": "Method for Tensile testing of Steel products",
+        "relationship": "test_method",
+        "note": "Mandatory tensile testing method for yield stress, tensile strength, and percentage elongation under Clause 8 of IS 432 (Part 2).",
+        "confidence": "high",
+        "standard_normalized": "IS 1608",
+        "is_number": 1608
+      },
+      {
+        "standard": "IS 1599:2012",
+        "title": "Metallic Materials - Bend Test",
+        "relationship": "test_method",
+        "note": "Mandatory cold bend testing method around specified mandrels without cracking on the tension zone.",
+        "confidence": "high",
+        "standard_normalized": "IS 1599:2012",
+        "is_number": 1599
+      },
+      {
+        "standard": "IS 456",
+        "title": "Code of Practices for plain and reinforced concrete etc.",
+        "relationship": "installation_application",
+        "note": "Indian concrete design standard specifying permissible stresses, development length, and lap lengths for mild steel reinforcement bars.",
+        "confidence": "high",
+        "standard_normalized": "IS 456",
+        "is_number": 456
+      }
+    ],
+    "primary_standard_normalized": "IS 432-2:1966",
+    "primary_is_number": 432,
+    "primary_part": "2"
+  },
+  {
+    "primary_standard": "IS 3312 : 2021",
+    "product": "Steel Shelving Cabinets (Adjustable Type)",
+    "allied_standards": [
+      {
+        "standard": "IS 513 (Part 1):2016",
+        "title": "Cold Reduced Carbon Steel Sheet and Strip: Part 1 Cold Forming and Drawing Steel - Specification",
+        "relationship": "normative_reference",
+        "note": "Mandatory raw material standard cited in Clause 5.1 of IS 3312:2021 specifying CRCA steel sheets for cabinet shelves, doors, and side panels.",
+        "confidence": "high",
+        "standard_normalized": "IS 513-1:2016",
+        "is_number": 513
+      },
+      {
+        "standard": "IS 101 (Relevant Parts)",
+        "title": "Methods of Sampling and Test for Paints, Varnishes and Related Products",
+        "relationship": "test_method",
+        "note": "Mandatory paint and powder-coating test methods cited in Clause 6 for dry film thickness (DFT), scratch hardness, cross-cut adhesion, and salt spray corrosion resistance.",
+        "confidence": "high",
+        "standard_normalized": "IS 101",
+        "is_number": 101
+      },
+      {
+        "standard": "IS 1364 (Relevant Parts)",
+        "title": "Hexagon Head Bolts, Screws and Nuts of Product Grades A and B",
+        "relationship": "installation_application",
+        "note": "Fastener standard for bolts, nuts, and screws used for modular shelf height adjustment and rigid structural frame assembly.",
+        "confidence": "high",
+        "standard_normalized": "IS 1364",
+        "is_number": 1364
+      }
+    ],
+    "primary_standard_normalized": "IS 3312:2021",
+    "primary_is_number": 3312,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 12269-1987",
+    "product": "53 Grade Ordinary Portland Cement",
+    "allied_standards": [
+      {
+        "standard": "IS 4031 (Relevant Parts)",
+        "title": "Methods of physical test for hydraulic cement",
+        "relationship": "test_method",
+        "note": "Mandatory physical testing methods prescribed in Clause 8.1 of IS 12269:1987 for standard consistency, fineness by Blaine (min 225 m²/kg), soundness by Le Chatelier and autoclave, setting times, and compressive strength (min 53 MPa at 28 days).",
+        "confidence": "high",
+        "standard_normalized": "IS 4031",
+        "is_number": 4031
+      },
+      {
+        "standard": "IS 4032 - 1985",
+        "title": "Method of chemical analysis of hydraulic cement",
+        "relationship": "test_method",
+        "note": "Prescribes standard chemical testing methods for lime saturation factor (LSF 0.80 to 1.02), alumina-iron ratio, loss on ignition, and insoluble residue for 53 Grade OPC compliance.",
+        "confidence": "high",
+        "standard_normalized": "IS 4032:1985",
+        "is_number": 4032
+      },
+      {
+        "standard": "IS 650 - 1991",
+        "title": "Standard sand testing of cement",
+        "relationship": "normative_reference",
+        "note": "Mandatory standard reference sand (Ennore sand) specified in Clause 8.2 of IS 12269 for casting standard 70.6mm mortar cubes for compressive strength verification.",
+        "confidence": "high",
+        "standard_normalized": "IS 650:1991",
+        "is_number": 650
+      },
+      {
+        "standard": "IS: 4082",
+        "title": "specifications for storage of materials",
+        "relationship": "installation_application",
+        "note": "Mandatory site storage code required in CPWD and civil engineering contracts to prevent atmospheric moisture deterioration of high-grade OPC 53.",
+        "confidence": "high",
+        "standard_normalized": "IS 4082",
+        "is_number": 4082
+      }
+    ],
+    "primary_standard_normalized": "IS 12269:1987",
+    "primary_is_number": 12269,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 8112 - 2013",
+    "product": "43 Grade Ordinary Portland Cement",
+    "allied_standards": [
+      {
+        "standard": "IS 4031 (Relevant Parts)",
+        "title": "Methods of physical test for hydraulic cement",
+        "relationship": "test_method",
+        "note": "Mandatory physical testing methods prescribed in Clause 8.1 of IS 8112:2013 for fineness, setting times, soundness, and 28-day compressive strength (min 43 MPa).",
+        "confidence": "high",
+        "standard_normalized": "IS 4031",
+        "is_number": 4031
+      },
+      {
+        "standard": "IS 4032 - 1985",
+        "title": "Method of chemical analysis of hydraulic cement",
+        "relationship": "test_method",
+        "note": "Prescribes chemical testing methods for determining LSF, magnesia, total loss on ignition, and insoluble residue in 43 grade cement.",
+        "confidence": "high",
+        "standard_normalized": "IS 4032:1985",
+        "is_number": 4032
+      },
+      {
+        "standard": "IS 650 - 1991",
+        "title": "Standard sand testing of cement",
+        "relationship": "normative_reference",
+        "note": "Standard sand specification mandatory under IS 8112 Clause 8.2 for mortar cube compressive strength tests.",
+        "confidence": "high",
+        "standard_normalized": "IS 650:1991",
+        "is_number": 650
+      },
+      {
+        "standard": "IS: 4082",
+        "title": "specifications for storage of materials",
+        "relationship": "installation_application",
+        "note": "Standard site storage code referenced in CPWD Section 3.1 to prevent warehouse setting and lump formation of OPC 43 cement bags.",
+        "confidence": "high",
+        "standard_normalized": "IS 4082",
+        "is_number": 4082
+      }
+    ],
+    "primary_standard_normalized": "IS 8112:2013",
+    "primary_is_number": 8112,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 1381-2",
+    "product": "Laboratory Boiling Flasks with Conical Ground Socket",
+    "allied_standards": [
+      {
+        "standard": "IS 1381 (Part 1):1993",
+        "title": "Boiling Flasks - Part 1: Flasks with Plain Neck",
+        "relationship": "normative_reference",
+        "note": "Parent specification establishing overall nominal capacities, spherical bulb dimensions, and glass thermal shock requirements for boiling flasks.",
+        "confidence": "high",
+        "standard_normalized": "IS 1381-1:1993",
+        "is_number": 1381
+      },
+      {
+        "standard": "IS 5165:1969",
+        "title": "Specification for Interchangeable Conical Ground-Glass Joints",
+        "relationship": "normative_reference",
+        "note": "Explicit normative joint standard cited in Clause 4 of IS 1381-2 defining the taper ratio (1:10), socket diameters, and ground glass finish tolerances.",
+        "confidence": "high",
+        "standard_normalized": "IS 5165:1969",
+        "is_number": 5165
+      },
+      {
+        "standard": "IS 2303 (Part 1/Sec 1):1994",
+        "title": "Method of Grading and Test for Chemical Resistance of Glass - Part 1: Resistance to Water at 98 Deg C",
+        "relationship": "test_method",
+        "note": "Prescribed hydrolytic resistance testing standard cited in Clause 5.1 of IS 1381 to verify Type 1 borosilicate glass chemical durability.",
+        "confidence": "high",
+        "standard_normalized": "IS 2303-1-1:1994",
+        "is_number": 2303
+      }
+    ],
+    "primary_standard_normalized": "IS 1381-2",
+    "primary_is_number": 1381,
+    "primary_part": "2"
+  },
+  {
+    "primary_standard": "IS 2783",
+    "product": "Plain-Knitted Woollen Balaclava Caps",
+    "allied_standards": [
+      {
+        "standard": "IS 688:1988",
+        "title": "Method for Determination of Colour Fastness of Textile Materials to Washing",
+        "relationship": "test_method",
+        "note": "Prescribed testing method cited in Clause 5 & Table 1 of IS 2783 for verifying colour fastness to washing and wet scrubbing of dyed woollen balaclava caps.",
+        "confidence": "high",
+        "standard_normalized": "IS 688:1988",
+        "is_number": 688
+      },
+      {
+        "standard": "IS 744:1977",
+        "title": "Method for Determination of Wool Fibre Diameter - Projection Microscope Method",
+        "relationship": "test_method",
+        "note": "Mandatory testing standard for determining mean wool fibre micronaire/diameter and wool grade (56s/58s quality) specified for balaclava yarn.",
+        "confidence": "high",
+        "standard_normalized": "IS 744:1977",
+        "is_number": 744
+      },
+      {
+        "standard": "IS 1964:2001",
+        "title": "Methods for Determination of Mass Per Unit Length and Mass Per Unit Area of Fabrics",
+        "relationship": "test_method",
+        "note": "Standard testing method for determining finished knitted weight and mass per cap in defense textile procurement schedules.",
+        "confidence": "high",
+        "standard_normalized": "IS 1964:2001",
+        "is_number": 1964
+      }
+    ],
+    "primary_standard_normalized": "IS 2783",
+    "primary_is_number": 2783,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 3318",
+    "product": "Surgical Scalpels and Knives",
+    "allied_standards": [
+      {
+        "standard": "IS 6527:1995",
+        "title": "Stainless Steel Surgical Instruments - General Requirements",
+        "relationship": "normative_reference",
+        "note": "Master governing standard for surgical instruments specifying raw material grades (martensitic stainless steel), passivated surface finish, and corrosion resistance.",
+        "confidence": "high",
+        "standard_normalized": "IS 6527:1995",
+        "is_number": 6527
+      },
+      {
+        "standard": "IS 1586 (Part 1):2018",
+        "title": "Metallic Materials - Rockwell Hardness Test: Part 1 Test Method",
+        "relationship": "test_method",
+        "note": "Mandatory hardness testing method cited in Clause 6 of IS 3318 for verifying cutting blade hardness (50 to 56 HRC for carbon steel / martensitic stainless steel).",
+        "confidence": "high",
+        "standard_normalized": "IS 1586-1:2018",
+        "is_number": 1586
+      },
+      {
+        "standard": "IS 7531:1990",
+        "title": "Methods of Testing for Corrosion Resistance of Stainless Steel Surgical Instruments",
+        "relationship": "test_method",
+        "note": "Mandatory boiling water and autoclave corrosion test method (copper sulphate test / autoclave test) for surgical cutting instruments.",
+        "confidence": "high",
+        "standard_normalized": "IS 7531:1990",
+        "is_number": 7531
+      }
+    ],
+    "primary_standard_normalized": "IS 3318",
+    "primary_is_number": 3318,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 3170-1",
+    "product": "Fuel Injection Nozzles for Diesel Engines (Size 'S')",
+    "allied_standards": [
+      {
+        "standard": "IS 3171:1989",
+        "title": "Internal Combustion Engines - Fuel Injection Nozzle Holders - Size 'S'",
+        "relationship": "normative_reference",
+        "note": "Explicit mating component standard; IS 3170-1 defines the nozzle body engineered specifically to fit into IS 3171 nozzle holders for diesel cylinder heads.",
+        "confidence": "high",
+        "standard_normalized": "IS 3171:1989",
+        "is_number": 3171
+      },
+      {
+        "standard": "IS 11006:1984",
+        "title": "Methods of Test for Fuel Injection Nozzles for Diesel Engines",
+        "relationship": "test_method",
+        "note": "Mandatory testing standard for verifying nozzle opening pressure (NOP), spray cone angle, chattering / atomization quality, and back-leakage rate.",
+        "confidence": "high",
+        "standard_normalized": "IS 11006:1984",
+        "is_number": 11006
+      }
+    ],
+    "primary_standard_normalized": "IS 3170-1",
+    "primary_is_number": 3170,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 13103",
+    "product": "Compact Hydraulic Cylinders (160 bar Series)",
+    "allied_standards": [
+      {
+        "standard": "IS 10585:2019",
+        "title": "Hydraulic Fluid Power - Cylinders - Acceptance Tests",
+        "relationship": "test_method",
+        "note": "Mandatory testing code cited in hydraulic cylinder technical specifications for proof pressure testing (1.5x working pressure), internal bypass leakage, and friction breakaway force.",
+        "confidence": "high",
+        "standard_normalized": "IS 10585:2019",
+        "is_number": 10585
+      },
+      {
+        "standard": "IS 8208:1976",
+        "title": "Sizes of Cylinder Bores and Piston Rod Diameters for Fluid Power Cylinders",
+        "relationship": "normative_reference",
+        "note": "Standard series of nominal bore sizes (25 mm to 200 mm) and rod diameters normatively invoked in IS 13103 for compact cylinder sizing.",
+        "confidence": "high",
+        "standard_normalized": "IS 8208:1976",
+        "is_number": 8208
+      },
+      {
+        "standard": "IS 10584:1983",
+        "title": "Fluid Power Systems and Components - Cylinder Rod Wiper Rings",
+        "relationship": "installation_application",
+        "note": "Companion sealing standard specifying elastomer wiper rings installed in cylinder front gland covers to prevent contaminant ingress on 160 bar hydraulic cylinders.",
+        "confidence": "high",
+        "standard_normalized": "IS 10584:1983",
+        "is_number": 10584
+      }
+    ],
+    "primary_standard_normalized": "IS 13103",
+    "primary_is_number": 13103,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 13580",
+    "product": "Internal Fuses and Disconnectors for Power Electronic Capacitors",
+    "allied_standards": [
+      {
+        "standard": "IS 13925 (Part 1):1998",
+        "title": "Shunt Capacitors for A.C. Power Systems Having a Rated Voltage Above 1000 V - Part 1: General - Performance, Testing and Rating",
+        "relationship": "normative_reference",
+        "note": "Explicit parent power capacitor standard; IS 13580 Clause 1.1 dictates that it applies to internal fuses designed in conjunction with capacitors complying with IS 13925 / IS 2834.",
+        "confidence": "high",
+        "standard_normalized": "IS 13925-1:1998",
+        "is_number": 13925
+      },
+      {
+        "standard": "IS 9385 (Part 1):1979",
+        "title": "High Voltage Fuses - Part 1: Current-Limiting Fuses",
+        "relationship": "safety",
+        "note": "Foundational high-voltage fuse safety standard governing prospective breaking current, arc voltage withstand, and coordination for capacitor unit protection.",
+        "confidence": "high",
+        "standard_normalized": "IS 9385-1:1979",
+        "is_number": 9385
+      }
+    ],
+    "primary_standard_normalized": "IS 13580",
+    "primary_is_number": 13580,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 12451",
+    "product": "Table and Industrial Margarine",
+    "allied_standards": [
+      {
+        "standard": "IS 548 (Part 1):1964",
+        "title": "Methods of Sampling and Test for Oils and Fats - Part 1: Sampling, Physical and Chemical Tests",
+        "relationship": "test_method",
+        "note": "Mandatory testing standard cited in Clause 5 & Table 1 of IS 12451 for determining moisture content, fat percentage, melting point of extracted fat, and free fatty acids (FFA).",
+        "confidence": "high",
+        "standard_normalized": "IS 548-1:1964",
+        "is_number": 548
+      },
+      {
+        "standard": "IS 548 (Part 2):1976",
+        "title": "Methods of Sampling and Test for Oils and Fats - Part 2: Purity Tests",
+        "relationship": "test_method",
+        "note": "Mandatory test standard for Baudouin test (to detect sesame oil / vanaspati trace marker), mineral oil detection, and test for synthetic antioxidants in margarine.",
+        "confidence": "high",
+        "standard_normalized": "IS 548-2:1976",
+        "is_number": 548
+      },
+      {
+        "standard": "IS 5887 (Part 1):1976",
+        "title": "Methods for Detection of Bacteria Responsible for Food Poisoning - Part 1: Isolation and Identification of Coliform Bacteria",
+        "relationship": "safety",
+        "note": "Mandatory microbiological safety test method cited in Table 2 of IS 12451 for verifying limits on total plate count, Coliform count, and absence of E. coli and Salmonella.",
+        "confidence": "high",
+        "standard_normalized": "IS 5887-1:1976",
+        "is_number": 5887
+      }
+    ],
+    "primary_standard_normalized": "IS 12451",
+    "primary_is_number": 12451,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 12437",
+    "product": "Zirconium Powder for Pyrotechnics & Defense",
+    "allied_standards": [
+      {
+        "standard": "IS 5461:1984",
+        "title": "Method for Sieve Analysis of Metal Powders",
+        "relationship": "test_method",
+        "note": "Mandatory testing method cited in Clause 5 of IS 12437 for determination of particle size distribution, fineness, and sieve retention of pyrophoric zirconium metal powder.",
+        "confidence": "high",
+        "standard_normalized": "IS 5461:1984",
+        "is_number": 5461
+      },
+      {
+        "standard": "IS 4015 (Part 1):1998",
+        "title": "Guide for Handling and Storage of Explosive and Pyrotechnic Compositions",
+        "relationship": "safety",
+        "note": "Mandatory statutory explosive safety standard for handling, static dissipation, and explosion hazard mitigation of pyrophoric zirconium metal powders.",
+        "confidence": "high",
+        "standard_normalized": "IS 4015-1:1998",
+        "is_number": 4015
+      }
+    ],
+    "primary_standard_normalized": "IS 12437",
+    "primary_is_number": 12437,
+    "primary_part": null
+  }
+]

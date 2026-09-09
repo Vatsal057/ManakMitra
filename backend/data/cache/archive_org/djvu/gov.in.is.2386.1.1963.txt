@@ -1,0 +1,1881 @@
+•••••**••*•**•*• 
+
+
+
+i&Sz 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+'The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+r Step Out From the Old to the New' 
+
+
+
+IS 2386-1 (1963) : Methods of Test for Aggregates for 
+Concrete, Part I: Particle Size and Shape [CED 2: Cement 
+and Concrete] 
+
+
+
+* 
+
+
+
+• 
+
+
+
+j*rfiiii^AK>fe ¥i # mj^wafearoASiiTFS 
+
+
+
+ZS&W I • ^SS>^^N&^> 
+
+
+
+>^frcivfe£a 
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge" 
+
+
+
+?TR rr^ fnj\ <sMMI | Wf ^ft ^TPTT ^f W ^RTT "f 
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+^ *2*~* 
+
+
+
+
+
+5> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+13:2386 (Part I). 1963 
+
+T ( Reaffirmed 2002 ) 
+
+Indian Standard 
+
+xMETHODS OF TEST FOR 
+AGGREGATES FOR CONCRETE 
+
+PART I PARTICLE SIZE AND SHAPE 
+
+( Eleventh Reprint AUGUST 1997 ) 
+
+
+
+UDC 691.322:620.1 
+
+
+
+Copyright 1963 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gf 5 October 1963 
+
+
+
+IS: 2386 (Part I) -1963 
+
+Indian Standard 
+
+METHODS OF TEST FOR 
+AGGREGATES FOR CONCRETE 
+
+PART I PARTICLE SIZE AND SHAPE 
+
+Cement and Concrete Sectional Committee, BDC 2 
+
+Chairman Representing 
+
+Shri K. K. Nambiar The Concrete Association of India, Bombay 
+
+Members 
+Shri K. V. Thadaney ( Alternate to 
+Shri K. K. Nambiar ) 
+Shbi K. F. Antia M. N. Dastur & Co. Private Ltd., Calcutta 
+
+Shbi P. S. Bhatnaoar Bhakra Dam Designs Directorate, New Delhi 
+
+Dr. I. C. Dos M. Pais Cuddou Central Water & Power Commission { Ministry of 
+
+Irrigation & Power ) 
+Shbi Y. K. Murthy { Alternate ) 
+Shri N. D. Daftary Khira Steel Works Private Ltd., Bombay 
+
+Shri N. G. Dewan Central Public Works Department 
+
+Superintending Engineer, 
+2nd Circle ( Alternate ) 
+Dr. R. R. Hattiangadi The Associated Cement Companies Ltd., Bombay 
+
+Shri V. N. Pai ( Alternate ) 
+Shbi P. C. Hazra Geological Survey of India, Calcutta 
+
+Joint Dibectob Standards Research, Designs & Standards Organization 
+( B&S ) ( Ministry of Railways ) 
+
+Assistant Director Stand- 
+ards ( B&S ) ( Alternate ) 
+Shri S. B. Joshi S. B. Joshi & Co. Private Ltd., Bombay 
+
+Shri M. M. Lal U. P. Government Cement Factory, Churk 
+
+Shri B. N. Majumdab Directorate General of Supplies & Disposals 
+
+( Ministry of Economic & Defence Co-ordination ) 
+Shri P. L. Das ( Alternate ) 
+Prop. S. R. Mehra Central Road Research Institute (CSIR), 
+
+New Delhi 
+Shbi N. H. Mohile The Concrete Association of India, Bombay 
+
+Shbi S. N. Mukebji Government Test House, Calcutta 
+
+Shbi N. C. Sen Gupta ( Alternate ) 
+Shri Erach A. Nadibshah Institution of Engineers ( India ), Calcutta 
+
+Shri C. B. Patel National Buildings Organisation ( Ministry of 
+
+Works, Housing & Rehabilitation ) 
+Shri Rabinder Singh ( Alternate ) 
+Prof. G. S. Ramaswamy Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Shri K. Siva Prasad ( Alternate ) 
+
+( Continued on page 2 ) 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+IS : 2386 ( Part I ) - 1963 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri T. N. S. Rao Gammon India Ltd., Bombay 
+
+Shri S. R. Pinheiro ( Alternate ) 
+Representative Martin Burn Ltd., Calcutta 
+
+Shbi Nihab Chandra Roy Dalmia Cement ( Bharat ) Ltd., Calcutta 
+
+Secretary Central Board of Irrigation & Power ( Ministry of 
+
+Irrigation & Power ) 
+Brig G. S. Sihota Engineer -in -Chief's Branch. Army Headquarters 
+
+Shri R. S. Mehandru ( Alternate ) 
+Dr. BH. Subbaraju Indian Roads Congress, New Delhi 
+
+Shri J. M. Tbehan Roads Wing, Ministry of Transport <& Commu- 
+
+nications 
+Shri N. H. Keswani ( Alternate ) 
+Dr. H. C. Visvesvaraya, Director, ISI ( Ex-officio Member ) 
+
+Deputy Director ( Bldg ) 
+
+Secretary 
+
+Shbi A. Prithivi Raj 
+
+Extra Assistant Director ( Bldg ), ISI 
+
+Concrete Subcommittee, BDC 2 : 2 
+Convener 
+Shri S. B. Joshi S.B. Joshi & Co. Private Ltd., Bombay 
+
+Members 
+Assistant Director Standards Research, Designs & Standards Organization 
+
+( B&S ) ( Ministry of Railways ) 
+
+Shri N. H. Bhagwanani Engineer-in-Chief's Branch, Army Headquarters 
+
+Dr. I. C. Dos M. Pais Cuddou Central Water & Power Commission { Ministry of 
+
+Irrigation & Power ) 
+Shri Y. K, Murthy { Alternate ) 
+Shbi P. L. Das Directorate General of Supplies & Disposals 
+
+( Ministry of Economic & Defence Co-ordination ) 
+Shri B. N. Majumdar ( Alternate ) 
+Directob Engineering Research Laboratory, Hyderabad 
+
+Shbi V. N. Gunaji Maharashtra Public Works Department 
+
+Shbi M. A. Hafeez National Buildings Organisation ( Ministry of 
+
+Works, Housing & Rehabilitation ) 
+Shbi B. S. Shivamurthy { Alternate ) 
+Shri C. L. Handa Central Water & Power Commission { Ministry of 
+
+Irrigation & Power ) 
+Shri P. C. Hazra Geological Survey of India, Calcutta 
+
+Shri K. K. Nambiar The Concrete Association of India, Bombay 
+
+Shri C. L. N. Iyengar ( Alternate ) 
+Dr. M. L. Puri Central Road Research Institute { CSIR ), 
+
+New Delhi 
+Prof. G. S. Ramaswamy Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Shbi K, Siva Prasad { Alternate ) 
+Shri T. N. S. Rao Gammon India Ltd., Bombay 
+
+Shri S. R. Pinheiro ( Alternate ) 
+Superintending Engineer, Central Public Works Department 
+
+2ND ClRCIiE 
+
+Shri 0. P. Goel ( Alternate ) 
+Shri J. M. Tbehan Roads Wing, Ministry of Transport & Communi- 
+
+cations 
+Shri R. P. Sikka ( Alternate ) 
+Shri H. T. Yan Braithwaite Burn & Jessop Construction Co. Ltd., 
+
+Calcutta 
+
+
+
+IS : 2386 ( Part I ) - 1963 
+
+Indian Standard 
+
+METHODS OF TEST FOR 
+AGGREGATES FOR CONCRETE 
+
+PART I PARTICLE SIZE AND SHAPE 
+<)• FOREWORD 
+
+0.1 This Indian Standard ( £art I ) was adopted by the Indian Standards 
+Institution on 22 August 1963, after the draft finalized by the Cement 
+and Concrete Sectional Committee had been approved by the Building 
+Division Council. 
+
+0.2 One of the major contributing factors to the quality of concrete is 
+the quality of aggregates used therein. The test methods given in this 
+standard are intended to assist in assessing the quality of aggregates. In 
+a given situation, for a particular aggregate, it may not be necessary to 
+assess all the qualities and therefore it is necessary to determine before- 
+hand the purpose for which a concrete is being used and the qualities of 
+the aggregate which require to be assessed. Accordingly, the relevant 
+test methods may be chosen from amongst the various tests covered in 
+this standard. For the convenience of the users, the test methods are 
+grouped into the following eight parts of Indian Standard Methods of 
+Test for Aggregates for Concrete ( IS : 2386-1963 ): 
+
+Particle Size and Shape 
+
+Estimation of Deleterious Materials and Organic 
+
+Impurities 
+
+Specific Gravity, Density, Voids, Absorption and Bulking 
+
+Mechanical Properties 
+
+Soundness 
+
+Measuring Mortar Making Properties of Fine Aggreg; > 
+
+Alkali Aggregate Reactivity 
+
+Petrographic Examination 
+
+0.3 The Sectional Committee responsible for the preparation of this 
+standard has taken into consideration the views of the concrete special- 
+ists, testing authorities, consumers and technologists and has related the 
+standard to the practices followed in this country. Further the need for 
+
+
+
+Part I 
+
+
+Part II 
+
+
+Part III 
+
+
+Part IV 
+
+
+PartV 
+
+
+Part VI 
+
+
+Part VII 
+
+
+Part VIII 
+
+
+
+IS : 2386 ( Part I ) - 1963 
+
+international co-ordination among standards prevailing in different 
+countries of the world has also been recognized. These considerations led 
+the Sectional Committee to derive assistance from the published standards 
+and publications of the following organizations: 
+
+British Standards Institution 
+
+American Society for Testing and Materials 
+
+0.4 Wherever a reference to any Indian Standard appears in these 
+methods, it shall be taken as a reference to its latest version. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expres- 
+sing the result of a test or analysis, shall be rounded off in accordance 
+with IS :2-1960 Rules for Rounding Off Numerical Values ( Revised). 
+The number of significant places retained in the rounded off value should 
+be the same as that of the specified value in this standard. 
+
+0.6 This standard is intended chiefly to cover the technical provisions 
+relating to testing of aggregates for concrete, and it does not cover all the 
+necessary provisions of a contract. 
+
+
+
+1. SCOPE 
+
+1.1 This standard ( Part I ) covers the following tests for aggregates for 
+concrete: 
+
+a) Sieve analysis, 
+
+b) Determination of materials finer than 75-micron, 
+
+c) Determination of flakiness index, 
+
+d) Determination of elongation index, and 
+
+e) Determination of angularity number. 
+
+2. SIEVE ANALYSIS 
+
+2.1 Object — This method covers the procedure for the determination of 
+particle size distribution of fine, coarse and all-in-aggregates by 
+sieving or screening. 
+
+2.2 Apparatus 
+
+2.2.1 Sieves — Sieves of the sizes given in Table I, conforming to 
+IS -.460-1962 Specification for Test Sieves ( Revised) shall be used. 
+
+
+
+IS: 2386 (Part I). 1963 
+
+
+
+TABLE I IS SIEVES FOR SIEVE ANALYSIS OF 
+AGGREGATES FOR CONCRETE 
+
+( Clause 2.2.1 ) 
+
+Type Sieve Designations 
+
+Square hole, perforated plate 80-mm, 63-ram, 50-mm, 40-mm, 31'5-mm, 
+
+25-mm, 20-mm, 16-ram, 12'5-mm, 10-mra, 
+6 '3-mm, 4* 75-mm 
+
+Fine mesh, wire cloth 3'35-mm, 2*36-mm, 1-18-mra, 600-micron, 
+
+300-mieron, 150-mieron, 75-micron 
+
+
+
+2,2.2 Balance — The balance or scale shall be such that it is readable 
+and accurate to O'l percent of the weight of the test sample. 
+
+2.3 Sample — The weight of sample available shall be not less than the 
+weight given in Table II. The sample for sieving ( see Table II ) shall 
+be prepared from the larger sample either by quartering or by means of 
+a sample divider. 
+
+
+
+TABLE II MINIMUM WEIGHTS FOR SAMPLING 
+
+Maximum Size Present Minimum Weight of 
+
+in Substantial Sample Despatched 
+
+Proportions tor Testing 
+
+mm kg 
+
+63 100 
+
+50 100 
+
+40 r>o 
+
+25 50 
+
+20 25 
+
+16 25 
+
+12-5 12 
+
+10-0 
+
+63 3 
+
+
+
+2.4 Test Procedure for Coarse and Fine Aggregate 
+
+2.4.1 The sample shall be brought to an air-dry condition before 
+weighing and sieving. This may be achieved either by drying at room 
+temperature or by heating at a temperature of 100° to 1 10°C. The air -dry 
+sample shall be weighed and sieved successively on the appropriate 
+sieves starting with the largest. Care shall be taken to ensure that the 
+sieves are clean before use. 
+
+
+
+IS: 2386 (Part I) -1963 
+
+2.4.2 Each sieve shall be shaken separately over a clean tray until not 
+more than a trace passes, but in any case for a period of not less than 
+two minutes. The shaking shall be done with a varied motion, back- 
+wards and forwards, left to right, circular clockwise and anti-clockwise, 
+and with frequent jarring, so that the material is kept moving over the 
+sieve surface in frequently changing directions. Material shall not be 
+forced through the sieve by hand pressure, but on sieves coarser than 
+20 mm, placing of particles is permitted. Lumps of fine material, if 
+present, may be broken by gentle pressure with fingers against the side 
+of the sieve. Light brushing with a soft brush on the under side of the 
+sieve may be used to clear the sieve openings. 
+
+2.4.3 Light brushing with a fine camel hair brush may be used on the 
+150-micron and 75-micron IS Sieves to prevent aggregation of powder 
+and blinding of apertures. Stiff or worn out brushes shall not be used 
+for this purpose and pressure shall not be applied to the surface of the 
+sieve to force particles through the mesh. 
+
+2.4.3,1 On completion of sieving, the material retained on each 
+sieve, together with any materia! cleaned from the mesh, shall be 
+weighed. 
+
+2.4.4 In order to prevent binding of the sieve apertures by over- 
+loading, the amount of aggregate placed on each sieve shall be such that 
+the weight of the aggregate retained on the sieve at completion of the 
+operation is not greater than the value given for that sieve in Table III. 
+Sample weights given in Table IV will thus normally require several 
+operations on each sieve. 
+
+Notk 1 — For many routine purposes mechanical sieving is idvantageous, 
+but if this method is used, care should be taken to ensure that the sieving is 
+complete. 
+
+Xotk 2 -— The following alternative procedure is permissible where it is re- 
+quired to determine only the cumulative percentage figures; 
+
+The weighed sample shall be passed through the largest of the appro- 
+priate sieves as described above. The fraction which passes the sieve shall 
+be weighed, and then passed through the next smaller sieve; the fraction 
+which passes shall be weighed, and so on. 
+
+The cumulative weight passing each sieve shall be calculated as a per- 
+centage of the total sample weight. 
+
+Note 3 — If sieving is carried out with a nest of sieves on a machine, not 
+less than 10 minutes sieving will be required for each test. 
+
+2.5 Test Procedure for All-in-Aggregates, or Mixed Coarse and Fine 
+
+Aggregates — The weight of sample available shall not be less than the 
+
+
+
+IS : 2386 ( Part I ) - 1963 
+
+weight given in Table II. The sample for sieving (see Table iV ) shall 
+be prepared from the larger sample either by quartering or by means of 
+a sample divider. It shall be brought to air-dry condition before weigh- 
+ing and sieving. This may be achieved either by drying at room 
+temperature or by heating at a temperature of 100° to 110°C. 
+
+
+
+TABLE III 
+
+
+MAXIMUM WEIGHT TO BE RETAINED AT THE 
+
+
+
+
+COMPLETION OF SIEVING 
+
+
+
+
+
+
+
+
+{ Clause 2.4.4 ) 
+
+
+
+
+
+
+Coarse 
+
+
+Aggregate 
+
+
+
+
+Fine Aggregate 
+
+
+IS Sieve 
+
+
+Maximum 
+
+
+— i 
+Weight for 
+
+
+< ■ ■ ■ 
+IS 
+
+
+Maximum Weight for 
+
+
+
+
+, — A- _ ^ 
+
+
+Sieve 
+
+
+20-cm dia 
+
+
+
+
+45-cm dia 
+
+
+30-cm dia 
+
+
+
+
+Sieve 
+
+
+
+
+sieve 
+
+
+sieve 
+
+
+
+
+
+
+
+
+kg 
+
+
+kg 
+
+
+
+
+g 
+
+
+50-ram 
+
+
+10 
+
+
+4-5 
+
+
+2*36-mm 
+
+
+200 
+
+
+40-mm 
+
+
+8 
+
+
+35 
+
+
+1'18-mm 
+
+
+100 
+
+
+31'5-mm or 25-mm 
+
+
+6 
+
+
+25 
+
+
+
+
+
+
+20-mm 
+
+
+4 
+
+
+2-0 
+
+
+600-micron 
+
+
+75 
+
+
+16-mm or 12'5-mm 
+
+
+3 
+
+
+1*5 
+
+
+300-micron 
+
+
+50 
+
+
+10 -mm 
+
+
+2 
+
+
+1-0 
+
+
+
+
+
+
+6-3-mm 
+
+
+1-5 
+
+
+0-75 
+
+
+150-micron 
+
+
+40 
+
+
+4'75-mm 
+
+
+1*0 
+
+
+0-50 
+
+
+75-micron 
+
+
+25 
+
+
+3-35-mm 
+
+
+— 
+
+
+0-30 
+
+
+
+
+
+
+
+
+
+TABLE IV MINIMUM WEIGHT OF SAMPLE FOR SIEVE ANALYSIS 
+
+( Clauses 2.4.4, 2.5 and 2.5.2 ) 
+
+
+
+Maximum Size 
+
+Present in Substantial 
+
+Pro portions 
+
+mm 
+
+63 
+
+50 
+
+40 or 315 
+
+25 
+
+20 or 16 
+
+12-5 
+
+10 
+
+6-3 
+
+4*75 
+
+
+
+Minimum Weight op 
+
+Sample to be Taken 
+
+for Sieving 
+
+kg 
+
+50 
+35 
+15 
+
+5 
+
+2 
+
+1 
+
+0-5 
+
+0*2 
+
+0*2 
+
+0*1 
+
+
+
+IS: 2386 (Part I) -1963 
+
+2.5.1 In some cases the sieve analysis of a 11 -in -aggregate can be carried 
+out in accordance with the procedure given in 2.4. Frequently, however, 
+this will result in heavy overloading of the finer sieves. In such cases it 
+will be necessary to make a preliminary separation of the all-in-aggregate 
+into two fractions, coarse and fine, using for this purpose a convenient 
+sieve for example, a 3'35-mm or 4*75-mm IS Sieve. 
+
+2.5.2 If the amount of either the coarse or fine aggregate obtained as 
+above is substantially less than that required for testing in accordance 
+with Table IV, another sample shall be taken which is sufficiently large 
+to produce an adequate sample of both the coarse and the fine aggregate. 
+If the amount of either the coarse or the fine aggregate thus obtained is 
+substantially greater than that required for testing, it shall be reduced by 
+quartering or by means of a sample divider. 
+
+2.6 Reporting of Results — The results shall be calculated and reported 
+as: 
+
+a) the cumulative percentage by weight of the total sample passing 
+each of the sieves, to the nearest whole number ( see Note 
+under 2.6,1 ); or 
+
+b) the percentage by weight of the total sample passing one sieve 
+and retained on the next smaller sieve, to the nearest 0*1 percent. 
+
+2.6.1 Graphical Method of Recording Results — The results of sieve 
+analysis may be recorded graphically on the chart for recording sieve 
+analysis shown in Fig. 1 . 
+
+Note — It is recommended that cumulative percentage figures should be used 
+for comparison with specification requirements, or for reporting results gra- 
+phically. 
+
+3. DETERMINATION OF MATERIALS FINER THAN 75-MICRON 
+
+3.1 Object — This method of test deals with the procedure for determin- 
+ing the total quantity of material finer than 75-micron IS Sieve in 
+aggregates by washing. 
+
+Note — Clay particles that are dispersed by wash water as well as water 
+soluble materials will be removed from the aggregate during the test. 
+
+3.2 Apparatus — The apparatus shall consist of the following: 
+
+a) Balance — The balance or scale shall be of sufficient capacity 
+and sensitivity ( see 3.3.1 and 3.4.1 ) and shall have an accuracy 
+of 0T percent of the weight of the test sample. 
+
+8 
+
+
+
+100 
+
+
+
+(!) 80 
+
+CO 
+
+to 
+£ 60 
+
+LU 
+
+
+
+40 
+
+
+
+O 
+
+q: 
+
+
+
+* £ 20 
+
+
+
+75 
+
+
+
+212 
+
+
+
+L 
+
+
+
+150 
+
+
+
+425 
+
+
+
+300 
+
+
+
+850 
+
+
+
+1-70 
+
+
+
+3-35 
+
+
+
+6-3 
+
+
+
+12-5 
+
+
+
+600 I M8 2-36 V75 
+
+
+
+10 
+
+
+
+20 
+
+16 25 
+
+
+
+40 
+
+
+
+APERTURE SIZE IN MICRONS 
+
+
+
+A 
+
+
+
+63 
+
+50 * S3 
+
+
+
+APERTURE SIZE IN MILLIMETRES 
+
+
+
+SIEVE SIZES 
+Note — The vertical scale of this chart is an arithmetic scale and the horizontal scale is logarithmic. 
+
+Fig. 1 Chart fob Recording Sieve Analysis Results 
+
+
+
+
+
+
+
+
+
+
+
+
+IS: 2386 (Part I)- 1963 
+
+b) Sieve — A nest of two sieves, the lower being 75-micron IS Sieve 
+and the upper approximately ri8-mm IS Sieve [see IS ; 460-1962 
+Specification for Test Sieves ( Revised )]. 
+
+c) Container — A pan or vessel of a size sufficient to contain the 
+sample covered with water and to permit of vigorous agitation 
+without inadvertent loss of any part of the sample or water. 
+
+d) Oven — An oven of sufficient size capable of maintaining an 
+uniform temperature of 110° = t5°G. 
+
+3.3 Sample — The test sample shall be selected from material which has 
+been thoroughly mixed and which contains sufficient moisture to prevent 
+segregation. A representative sample, sufficient to yield not less than the 
+appropriate weight of dried material, as shown below, shall be selected: 
+
+
+
+Maximum Nominal 
+Size of Aggregate 
+
+
+Approximate Minimum 
+Weight of Sample 
+
+
+mm 
+
+
+g 
+
+
+4*75 
+100 
+20 
+40 or over 
+
+
+500 
+2 000 
+2 500 
+5 000 
+
+
+3.4 Procedure 
+
+
+
+
+
+3.4.1 The test sample shall be dried to constant weight at a tempera- 
+ture of 110°±5 o G and weighed to the nearest 0'1 percent. 
+
+3.4.2 The test sample after being dried and weighed shall be placed in 
+the container and sufficient water added to cover it. The contents of the 
+container shall be agitated vigorously. 
+
+3.4.3 The agitation shall be sufficiently vigorous to result in the 
+complete separation from the coarse particles of all particles finer than 
+75-micron and bring the fine material into suspension. 
+
+Care shall be taken to avoid, as much as possible, the decantation of 
+the coarse particles of the sample. The operation shall be repeated until 
+the wash water is clear. 
+
+3.4.4 The wash water containing the suspended and dissolved solids 
+shall be immediately poured over the nested sieves arranged with the 
+coarser sieve on the top. 
+
+10 
+
+
+
+IS: 2386 (Parti) -1963 
+
+3.4.5 All material retained on the nested sieves shall be returned to 
+the washed sample. The washed aggregate shall be dried to constant 
+weight at a temperature not exceeding 1 I0°C and weighed to the nearest 
+0*1 percent. 
+
+3.5 Calculation — The amount of material passing the 75-micron IS Sieve 
+shall be calculated as follows: 
+
+A = -^=^ X 100 
+
+where 
+
+A = percentage of material finer than 75-micron, 
+B = original dry weight, and 
+C — dry weight after washing. 
+
+4. DETERMINATION OF FLAKINESS INDEX 
+
+4.1 Object — This method of test lays down the procedure for determin- 
+ing the nakiness index of coarse aggregate. 
+
+Note — The flakiness index of an aggregate is the percentage by weight of 
+particles in it whose least dimension ( thickness ) is less than three-fifths of their 
+mean dimension. The test is not applicable to sizes smaller than 6'3 mm, 
+
+4.2 Apparatus — The apparatus shall consist of the following: 
+
+a) Balance — The balance shall be of sufficient capacity and 
+sensitivity ( see 4.4.3 ) and shall have an accuracy of 01 percent 
+of the weight of the test sample. 
+
+b) Metal Gauge — The metal gauge shall be of the pattern shown in 
+Fig. 2. 
+
+c) Sieves — IS Sieves of sizes shown in Table V, 
+
+4.3 Sample — A quantity of aggregate shall be taken sufficient to provide 
+the minimum number of 200 pieces of any fraction to be tested. 
+
+4.4 Procedure 
+
+4.4.1 Sieving — The sample shall be sieved in accordance with the 
+method described in 3 with the sieves specified in Table V. 
+
+4.4.2 Separation of Flaky Material — Each fraction shall be gauged 
+in turn for thickness on a metal gauge of the pattern shown in Fig. 2 or 
+in bulk on sieves having elongated slots. The width of the slot used in 
+
+11 
+
+
+
+r? 
+
+
+
+N> 
+
+
+
+^ 
+
+
+
+
+THESE SIZES MARKED ON GAUGE 
+
+
+
+[3) a 
+
+50n 40- 
+
+
+
+-33*90 — 
+
+
+
+r\ 
+
+
+
+r\ 
+
+
+
+/V\0 
+
+i C en 
+
+
+
+H-27tOQ-I 
+
+
+
+/"Tv 
+
+
+
+m-50 
+
+
+
+1-50 
+
+X 
+
+
+
+
+
+
+U- 31-5 TO 25 
+
+
+
+r^\ 
+
+
+
+^0-80 
+
+
+
+^\ 
+
+
+
+y 
+
+
+
+in 
+
+CO 
+
+II 
+
+
+
+© 
+
+
+
+^5 
+
+A-89 
+L_ 10 TO 6-3 
+
+
+
+
+
+
+® 
+
+-70 
+
+
+
+S 
+
+
+
+t 
+
+
+
+© 
+
+
+
+6 mm THICK MS SHEET 
+ROLLED OVER 8mm BAR 
+
+
+
+All dimensions in millimetres. 
+Fig. 2 Thickness Gauge 
+
+
+
+5 
+
+
+
+
+
+
+IS: 2386 (Part I) -1963 
+
+the gauge or sieve shall be of the dimensions specified in col 3 of Table V 
+for the appropriate size of material. 
+
+
+
+TABLE V DIMENSIONS OF THICKNESS AND LENGTH GAUGES 
+
+( Glauses 4.2, 4.4.1, 4.4.2, 5.2 and 5.4.1 ) 
+
+
+
+Size of Aggregate 
+
+
+
+Thickness Gauge* Length GAUGEf 
+
+
+
+Passing Through 
+IS Sieve 
+
+(1) 
+
+
+
+Retained On 
+IS Sieve 
+
+(2) 
+
+
+
+(3) 
+
+
+
+63-mm 
+
+
+50-mm 
+
+
+3390 
+
+
+50-mm 
+
+
+40-mm 
+
+
+27-00 
+
+
+40-mm 
+
+
+25-mm 
+
+
+19-50 
+
+
+31'5-mm 
+
+
+25-mm 
+
+
+16-95 
+
+
+25-mm 
+
+
+20-mm 
+
+
+13*50 
+
+
+20-mm 
+
+
+16-mm 
+
+
+10-80 
+
+
+16-mm 
+
+
+12'5-mm 
+
+
+8'55 
+
+
+12-5-mra 
+
+
+10-mm 
+
+
+6*75 
+
+
+10-mm 
+
+
+6'3-mm 
+
+
+4-89 
+
+
+
+(4) 
+mm 
+
+81-0 
+
+58*5 
+
+40-5 
+32-4 
+25-6 
+20-2 
+14-7 
+
+
+
+♦This dimension is equal to 0-6 times the mean sieve size. 
+fThis dimension is equal to 1*8 times the mean sieve size. 
+
+
+
+4.4.3 Weighing of Flaky Material — The total amount passing the 
+gauge shall be weighed to an accuracy of at least O'l percent of the 
+weight of the test sample. 
+
+4.5 Reporting of Results — The flakiness index is the total weight of the 
+material passing the various thickness gauges or sieves, expressed as a 
+percentage of the total weight of the sample gauged. 
+
+
+
+5. DETERMINATION OF ELONGATION INDEX 
+
+5.1 Object — This method of test lays down the procedure for determin- 
+ing the elongation index of coarse aggregate. 
+
+Note — The elongation index of an aggregate is the percentage by weight 
+of particles whose greatest dimension ( length ) is greater than one and four-fifths 
+times their mean dimension. Normally, the properties of interest to the engineer 
+are sufficiently covered by the flakiness or angularity tests. The elongation 
+test is not applicable to sizes smaller than 6*3 mm, 
+
+13 
+
+
+
+IS: 2386 (Part I). 1963 
+
+5.2 Apparatus — The apparatus shall consist of the following: 
+
+a) Balance — The balance shall be of sufficient capacity and sensiti- 
+vity ( see 5.4.3 ) and shall have an accuracy of O'l percent of the 
+weight of the test sample. 
+
+b) Metal Gauge — The metal gauge shall be of the pattern shown in 
+Fig. 3. 
+
+c) Sieves — IS Sieves of the sizes shown in Table V. 
+
+5.3 Sample — A quantity of aggregate shall be taken, sufficient to provide 
+a minimum number of 200 pieces of any fraction to be tested. 
+
+5.4 Procedure 
+
+5.4.1 Sieving — The sample shall be sieved in accordance with the 
+method described in 3 with the sieves specified in Table V. 
+
+5.4.2 Separation of Elongated Material — Each fraction shall be 
+gauged individually for length on a metal length gauge of the pattern 
+shown in Fig. 3. The gauge length used shall be that specified in col 4 
+of Table V for the appropriate size of material. 
+
+5.4.3 Weighing of Elongated Material — The total amount retained by 
+the length gauge shall be weighed to an accuracy of at least 0' 1 percent 
+of the weight of the test sample, 
+
+5.5 Report of Results — The elongation index is the total weight of the 
+material retained on the various length gauges, expressed as a percentage 
+of the total weight of the sample gauged. 
+
+
+
+6. DETERMINATION OF ANGULARITY NUMBER 
+
+6.1 Object — This method of test lays down the procedure for determin- 
+ing the angularity number of coarse aggregate. 
+
+Note 1 — Angularity or absence of rounding of the particles of an aggre- 
+gate is a property which is of importance because it affects the ease of handling 
+of a mixture of aggregate and binder, for example the workability of concrete, 
+or the stability of mixtures that rely on the interlocking of- the particles. It 
+is emphasized that this is a laboratory method intended for comparing the proper- 
+ties of different aggregates for mix design purposes. 
+
+Note 2 — Since considerably more effort is used than in the test for bulk 
+density and voids [ see IS : 2386 ( Part III )-1963 ], the results of the two tests are 
+different. Also weaker aggregates may be crushed during compaction, and the 
+angularity number test does not apply to any aggregate which breaks down 
+during the test. 
+
+14 
+
+
+
+PASSING 
+IS SIEVE 
+
+RETAINED 
+IS SIEVE 
+
+
+
+
+lA-7-y ^20*2 y-25-6 
+
+
+
+
+All dimensions in millimetres, 
+Fra. 3 Length Gauge 
+
+
+
+x 
+
+
+
+IS: 2386 (Part I) -1963 
+
+6.2 Apparatus — The apparatus shall consist of the following: 
+
+a) Metal Cylinder — A metal cylinder closed at one end and of 
+about 3 litres capacity, the diameter and height of which shall be 
+approximately equal, for example 15 cm and 15 cm. The cylinder 
+shall be made from metal of thickness not less than 3 mm and 
+shall be of sufficient rigidity to retain its shape under rough 
+usage. 
+
+b) Tamping Rod — A straight metal tamping rod of circular cross- 
+section of 16 mm diameter and 60 cm long, rounded at one end. 
+
+c) Balance — Balance or scale of capacity 10 kg readable to one 
+gram. 
+
+d) Scoop — A metal scoop approximately 20 X 12 X 5 cm, that is, 
+about 1 -litre heaped capacity. 
+
+6.3 Calibration of the Cylinder — The cylinder shall be calibrated by 
+determining to the nearest gram the weight of water at 27°C required to 
+fill it, so that no meniscus is present above the rim of the container. 
+
+6.4 Preparation of the Test Sample — The amount of aggregate available 
+shall be sufficient to provide, after separation on the appropriate pair of 
+sieves, at least 10 kg of the predominant size, as determined by the sieve 
+analysis on the 20-mm, 16-mm, 12*5-mm; 10-mm, 6'3-mm and 4*75-mm 
+IS Sieves. 
+
+6.4.1 The test sample shall consist of aggregate retained between the 
+appropriate pair of IS Sieves ( square mesh ) from the following sets: 
+
+20-mm and 16-mm 
+16-mm and 12*5-mm 
+12'5-mm and 10-mm 
+10-mm and 6'3-mm 
+6'3-mm and 4 , 75-mm 
+
+Note — In testing aggregates larger than 20 mm, the volume of the cylinder 
+shall be greater than 3 litres, but for aggregate smaller than 4*75 mm a smaller 
+cylinder may be used. The procedure shall be the same as with 3 litre cylin- 
+der, except that the amount of compactive effect { weight of tamping rod X height 
+of fail x number of blows ) shall be proportioned to the volume of the cylinder. 
+
+6.4.2 The aggregate to be tested shall be dried for at least 24 hours in 
+shallow trays in a well ventilated oven at a temperature of 100° to 110 C C, 
+cooled in an air-tight container and tested. 
+
+16 
+
+
+
+IS : 2386 ( Part I ) - 1963 
+
+6.5 Test Procedure — The scoop shall be filled and heaped to over- 
+flowing with the aggregate, which shall be placed in the cylinder by 
+allowing it to slide gently off the scoop from the least height possible. 
+
+6.5.1 The aggregate in the cylinder shall be subjected to 100 blows of 
+the tamping rod at a rate of about 2 blows per second. Each blow shall 
+be applied by holding the rod vertical with its rounded end 5 cm above 
+the surface of the aggregate and releasing it so that it falls freely. No 
+force shall be applied to the rod. The 100 blows shall be evenly dis- 
+tributed over the surface of the aggregate. 
+
+6.5.2 The process of filling and tamping shall be repeated exactly as 
+described above with a second and third layer of aggregates; the third 
+layer shall contain just sufficient aggregate to fill the cylinder level with 
+the top edge before tamping. 
+
+6.5.3 After the third layer has been tamped, the cylinder shall be filled 
+to overflowing, and the aggregate struck off level with the top using the 
+tamping rod as a straight edge. ( 
+
+6.5.4 Individual pieces shall then be added and 'rolled -in' to the 
+surface by rolling the tamping rod across the upper edge of the cylinder, 
+and this finishing process shall be continued as long as the aggregate 
+does not lift the rod off the edge of the cylinder on either side. The 
+aggregate shall not be pushed in or otherwise forced down, and no down- 
+ward pressure shall be applied to the tamping rod, which shall roll in 
+contact with the metal on both sides of the cylinder. 
+
+6.5.5 The aggregate in the cylinder shall then be weighed to the 
+nearest 5 grams. 
+
+6.5.6 Three separate determinations shall be made, and the mean 
+weight of aggregate in the cylinder calculated. If the result of any one 
+determination differs from the mean by more than 25 grams, three 
+additional determinations shall immediately be made on the same 
+material and the mean of all the six determinations calculated. 
+
+6.6 Calculation — The angularity number shall be calculated from the 
+
+formula: 
+
+,. 100 w 
+Angularity number = 67 ~c~c~ 
+
+where 
+
+W = mean weight in g of the aggregate in the cylinder, 
+C = weight of water in g required to fill the cylinder, and 
+G. = specific gravity of aggregate. 
+
+6.7 Reporting of Results — The angularity number shall be expressed to 
+the nearest whole rrtimber, 
+
+17 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters. 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 1 1 0002 
+
+Telephones: 323 0131 , 323 3375, 323 9402 
+
+Fax : 91 11 3234062, 91 11 3239399, 91 11 3239382 
+
+Telegrams : Manaksanstha 
+
+(Common to all Offices) 
+
+Central Laboratory : Telephone 
+
+Plot No. 20/9, Site IV, Sahibabad Industrial Area, Sahibabad 201010 8-77 00 32 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 1 10002 323 76 17 
+
+'Eastern : 1/1 4 CIT Scheme VII M, V.I.P. Road, Maniktola, CALCUTTA 700054 337 86 62 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 1 60022 60 38 43 
+
+Southern : CIT. Campus, IV Cross Road, CHENNAI 6001 13 235 23 15 
+
+t Western : Manakalaya, E9, Behind Marol Telephone Exchange, Andheri (East), 832 92 95 
+MUMBAI 400093 
+
+Branch Offices:: 
+
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur, AHMEDABAD 380001 550 13 48 
+
+JPeenya Industrial Area, 1 st Stage, Bangalore-Tumkur Road, 839 49 55 
+BANGALORE 560058 
+
+Gangotri Complex, 5th Floor, Bhadbhada Road, T.T. Nagar, BHOPAL 462003 55 40 21 
+
+Plot No. 62-63, Unit VI, Ganga Nagar, BHUBANESHWAR 751001 40 36 27 
+
+Kalaikathir Buildings, 670 Avinashi Road, COIMBATORE 641037 21 01 41 
+
+Plot No. 43, Sector 16 A, Mathura Road, FARIDABAD 121001 8-28 88 01 
+
+Savitri Complex, 116 G.T. Road, GHAZIABAD 201001 8-71 19 96 
+
+53/5 Ward No.29, R.G. Barua Road, 5th By-lane, GUWAHATI 781003 54 1 1 37 
+
+5-8-56C, L.N. Gupta Marg, Nampally Station Road, HYDERABAD 500001 20 1 83 
+
+E-52, Chitaranjan Marg, C- Scheme, JAIPUR 302001 37 29 25 
+
+1 1 7/41 8 B, Sarvodaya Nagar, KANPUR 208005 21 68 76 
+
+Seth Bhawan, 2nd Floor, Behind Leela Cinema, Naval Kishore Road, 23 89 23 
+LUCKNOW 226001 
+
+NIT Building, Second Floor, Gokulpat Market, NAGPUR 440010 52 51 71 
+
+Patliputra Industrial Estate, PATNA 80001 3 26 23 05 
+
+Institution of Engineers (India) Building 1 332 Shivaji Nagar, PUNE 41 1005 32 36 35 
+
+T.C. No. 1 4/1 421 , University P. O. Palayam, THIRUVANANTHAPURAM 695034 6 2117 
+
+
+
+•Sales Office is at 5 Chowringhee Approach, P.O. Princep Street, 27 1 85 
+
+CALCUTTA 700072 
+
+t Sales Office is at Novelty Chambers, Grant Road, MUMBAI 400007 309 65 28 
+
+JSales Office is at 'F' Block, Unity Building, Narashimaraja Square, 222 39 71 
+
+BANGALORE 560002 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 1 JANUARY 1933 
+
+TO 
+
+IS:23C6(Part I)-1963 METHODS OF TEST FOR 
+AGGREGATES FOR CONTRETE 
+
+PART I PARTICLE SIZE AND SHAPE 
+
+Alteration 
+
+[Paje 11, clause 4.2(b)] - Substitute the 
+following for the existing matter: 
+
+*b) Metal Gauge - The metal gauge shall be of 
+the pattern shown in Fig. 2 with elongated 
+slots of dimensions indicated in Fig. 2. 
+The tolerence on dimensions shall be +0.20 mm 
+for dimensions equal to or more than 50 mm and 
++_ 0.10 mm for dimensions less than 50 mm. 1 
+
+(BDC 2) 
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 2 OCTOBER 1991 
+
+TO 
+
+IS 2386 ( Part 1 ) : 1963 METHODS OF TEST FOR 
+
+AGGREGATES FOR CONCRETE 
+
+PART1 PARTICLE SIZE AMD SHAPE 
+
+( Page 12, Fig. 2 ) — Substitute '40 to 31.5' for '40 to 25\ 
+
+( Page 13, Table V, col 2, third entry ) — Substitute '31.5-mm' for '25-mm\ 
+
+( Page 13, clause 4.43 ) — Substitute the following for the existing clause : 
+
+'4.43 The number of pieces passing the appropriate gauge in each size fraction 
+shall be counted separately. The total mass of each size fraction of the sample also 
+shall be determined.' 
+
+( Page 13, clause 4.5 ) — Substitute the following for the existing clause: 
+"4.5 Calculation and Reporting of Results 
+
+4.5.1 The number of pieces passing the appropriate gauge in each fraction 
+shall be calculated as a percentage of the total number of pieces in each sieve 
+fraction (x) . The mass of total number of pieces in each sieve fraction shall then 
+be calculated as a percentage of the total mass of the whole sample (y). The 
+weighted percentage of the mass of pieces passing the appropriate gauge in each 
+sieve fraction shall then be calculated by multiplying V by *y \ 
+
+4.5.2 The flakiness index shall be expressed as the sum of weighted 
+percentages of the material passing the appropriate gauge in each sieve fraction. 
+If required, the flakiness index for each sieve fraction may be reported as 
+weighted percentage of the material passing the appropriate gauge. 1 * 
+
+(CED2) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO, 3 SEPTEMBER 1997 
+
+TO 
+
+IS 2386 ( PART 1 ) : 1963 METHODS OF TEST FOR 
+
+AGGREGATES FOR CONCRETE 
+
+PART 1 PARTICLE SIZE AND SHAPE 
+( To be read with Amendment No. 2) 
+
+( Page 12, Fig. 2 ) — Substitute '21.50' for ' 19.50* . 
+
+(Page 13, Table V, line3, col 3 ) — Substitute '21.50' for '19.50'. ' 
+
+( Page 13, Table V, line 3, col 4 ) — Substitute *64.V for '58^\ 
+
+( Page 13, clause 4.5 ) — Substitute the following for the existing clause: 
+
+'4.5 Calculation and Reporting of Result 
+
+45.1 The mass of pieces passing the appropriate gauge in each sieve fraction 
+shall be calculated as a percentage of mass of the total number of pieces in each 
+fraction (x) . The mass of total number of pieces in each sieve shall then be 
+calculated as a percentage of the total mass of the whole sample that is the 
+sample which is retained on 6.3 mm sieve (v). The weighted percentage of the 
+mass of the pieces passing the appropriate gauge in each sieve fraction shall then 
+be calculated by multiplying **' by *?. 
+
+
+
+(CED53) 
+
+
+
+Reprography Unit, BIS, New Ddbi. ladia 
+
+
+
+AMENDMENT NO. 4 DECEMBER 2010 
+
+TO 
+
+IS 2386 (PART 1) : 1963 METHODS OF TEST FOR AGGREGATES FOR 
+
+CONCRETE 
+
+PART 1 PARTICLE SIZE AND SHAPE 
+
+(Page 15, Fig. 3) — Substitute '64.4' for '58.5'. 
+
+
+
+(CED 2) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

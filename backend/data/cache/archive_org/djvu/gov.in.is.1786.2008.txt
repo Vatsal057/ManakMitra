@@ -1,0 +1,2810 @@
+**************** 
+
+
+-k  is^ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+"^^  ^  ^  ^  %  ?R^" 
+
+Jawaharlal  Nehru 
+
+Step  Out  From  the  Old  to  the  New 
+
+
+^viiT'jsiS'SfSs-^i^*?*:: 
+
+
+•^■•■^^^■r 
+
+
+li^  i/ir  w  w  w  w  w  WW  ^  ^  ^  tIt  w  w  w 
+
+
+BLANK  PAGE 
+
+
+^<ii^ 
+
+
+UI> 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+181786:2008 
+
+mrcfkww 
+
+
+^F^  "^"^oT^  ^  fen?;  ^^  "^T^  pci^rndfRm 
+
+
+Indian  Standard 
+
+HIGH  STRENGTH  DEFORMED 
+STEEL  BARS  AND  WIRES  FOR 
+
+CONCRETE  REINFORCEMENT  — 
+
+SPECIFICATION 
+
+(Fourth  Revision) 
+
+
+ICS  77.140.15;  91.080.40 
+
+
+©  BIS  2008 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+MANAK  BHAVAN,  9  BAHADUR  SHAH  ZAFAR  MARG 
+NEW  DELHI  110002 
+
+
+May  2008  Price  Group  6 
+
+
+Concrete  Reinforcement  Sectional  Committee,  CED  54 
+
+
+FOREWORD 
+
+This  Indian  Standard  (Fourth  Revision)  was  adopted  by  the  Bureau  of  Indian  Standards,  after  the  draft  finalized  by 
+the  Concrete  Reinforcement  Sectional  Committee  had  been  approved  by  the  Civil  Engineering  Division  Council. 
+
+The  standard  was  first  published  in  1961  and  subsequently  revised  in  1966,  1979  and  1985.  In  its  second  revision 
+of  1 979,  the  title  of  the  standard  was  modified  to  'Specification  for  cold-worked  steel  high  strength  deformed  bars 
+for  concrete  reinforcement'. 
+
+In  the  third  revision,  IS  1139  :  1966  'Specification  for  hot  rolled  mild  steel,  medivmi  tensile  steel  and  high  yield 
+strength  steel  deformed  bars  for  concrete  reinforcement'  was  merged  in  the  standard  and  the  title  was  modified  to 
+'Specification  for  high  strength  deformed  steel  bars  and  wires  for  concrete  reinforcement'.  The  restriction  to  cold 
+working  was  removed  in  this  revision  and  the  manufacturers  were  allowed  to  resort  to  other  routes  to  attain  high 
+strength. 
+
+High  strength  deformed  bars  and  wires  for  concrete  reinforcement  are  being  produced  in  the  country  for  many 
+years  by  cold  twisting  and  by  controlled  cooling  and  micro-alloying.  A  brief  note  on  controlled  cooling  process  is 
+given  in  Armex  A  for  information  only.  In  the  past  few  years  there  has  been  increasing  demand  for  higher  strength 
+grades  with  higher  elongation  for  various  applications.  This  revision  has  been  taken  up  to  incorporate  various 
+changes  found  necessary  as  a  result  of  experience  gained  and  technological  advances  made  in  the  field  of  steel  bars 
+and  wires  manufacturing.  This  revision  incorporates  the  properties  of  high  strength  deformed  steel  bars  and  wires, 
+and  it  is  left  to  the  manufacturer  to  adopt  any  process  to  satisfy  the  performance  requirements. 
+
+Following  are  some  of  the  important  modifications  incorporated  in  this  revision: 
+
+a)  A  new  strength  grade  Fe  600  has  been  introduced. 
+
+b)  Two  categories  based  on  elongation  for  each  grade  except  Fe  600  have  been  introduced. 
+
+c)  A  new  parameter  'percentage  total  elongation  at  maximum  force'  has  been  introduced. 
+
+d)  Nominal  sizes  have  been  rationalized  and  nominal  sizes  7  mm,  18  mm,  22  mm,  45  mm  and  50  mm  have 
+been  removed. 
+
+In  the  formulation  of  this  standard,  due  weightage  has  been  given  to  international  coordination  among  the  standards 
+and  practices  prevailing  in  different  countries  in  addition  to  relating  it  to  the  practices  in  the  field  in  this  country. 
+
+The  following  test  methods  given  in  this  standard  correspond  to  those  given  in  ISO  Standards: 
+
+SI  Title  IS  No.  ISO  No. 
+
+No. 
+
+i)      Mechanical  testing  of  metals  —  Tensile  testing 
+
+ii)     Methods  for  bend  test 
+
+iii)     Method  for  re-bend  test  for  metallic  wires  and  bars 
+
+The  composition  of  the  Committee  responsible  for  the  formulation  of  this  standard  is  given  in  Annex  B. 
+
+For  the  purj^ose  of  deciding  whether  a  particular  requirement  of  this  standard  is  complied  with,  the  final  value, 
+observed  or  calculated,  expressing  the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accordance  with 
+IS  2  ;  1960  'Rules  for  rounding  off  numerical  values  (revised)'.  The  number  of  significant  places  retained  in 
+the  rounded  off  value  should  be  the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+1608 
+
+6892 
+
+1599 
+
+7438  and  15630-1 
+
+1786 
+
+15630-1 
+
+AMENDMENT  NO.  1  NOVEMBER  2012 
+
+TO 
+
+IS  1786  :  2008  HIGH  STRENGTH  DEFORMED  BARS  AND  WIRES 
+
+FOR  CONCRETE  REINFORCEMENT  —  SPECIFICATION 
+
+(Fourth  Revision) 
+
+{Second  cover  page.  Foreword)  —  Insert  the  following  after  sixth  para  as  a  separate  para: 
+
+'Provisions  in  this  standard  are  at  variance  with  similar  provisions  in  ISO  6935-2  :  2007  'Steel  for  the 
+reinforcement  of  concrete  —  Part  2:  Ribbed  bars',  in  view  of  the  following: 
+
+a)  Geographical  factors  which  determine  the  earthquake  zoning  and  consequently  the  structural  design 
+considerations,  structural  design  method/principles  adopted,  the  design  parameters  and  the  required 
+material  properties; 
+
+b)  Technological  factors  associated  with  the  process  of  manufacture  of  the  product  (such  as  through 
+secondary  processes/induction  furnace),  which  influence  the  product  characteristics  (like  chemical 
+composition  and  mechanical  properties  like  yield  strength,  tensile  strength,  elongation,  ductility,  etc); 
+and 
+
+c)  Construction  techniques  and  practices  adopted  in  this  country,  the  equipments  used  and  the  skill  level 
+of  construction  workers  which  also  influence  the  product  characteristics  (such  as  bend  and  bond 
+strength). 
+
+The  major  deviations  are: 
+
+a)  The  steel  grades  covered  are  at  variance.  This  standard  covers  requirements  for  high  strength  bars  only 
+whereas  ISO  6935-2  also  covers  bars  of  lower  tensile  strengths. 
+
+b)  Chemical  compositions  vary  from  that  in  ISO  6935-2. 
+
+c)  Mechanical  properties  specified  in  this  standard  are  individual  values,  whereas  the  tensile  properties  in 
+ISO  6935-2  are  primarily  the  specified  characteristic  values. 
+
+d)  Bend  and  re -bend  test  requirements  vary  from  those  in  ISO  6935-2. 
+
+e)  Bond  requirements  in  this  standard  are  specified  on  basis  of  mean  area  of  ribs  whereas  the 
+requirements  in  ISO  6935-2  are  for  rib  geometry.  This  standard  additionally  specifies  pull  out  test  as  a 
+requirement  for  approval  of  new  or  amended  rib  geometry.' 
+
+{Page  1,  clause  1.1)  —  Substitute  the  following  for  the  existing  clause: 
+
+'1.1  This  standard  covers  the  requirements  of  deformed  steel  bars  and  wires  for  use  as  reinforcement  in 
+concrete,  in  the  following  strength  grades: 
+
+a)  Fe415,  Fe415D,  Fe415S; 
+
+b)  Fe  500,  Fe  500D,  Fe  500S; 
+
+c)  Fe  550,  Fe  550D;  and 
+
+d)  Fe600. 
+
+NOTES 
+
+1  The  figures  following  the  symbol  Fe  indicate  the  specified  minimum  0.2  percent  proof  stress  or  yield  stress,  in  N/mm^. 
+
+2  The  letters  D  and  S  following  the  strength  grade  indicates  the  categories  with  same  specified  minimum  0.2  percent  proof  stress/yield 
+stress  but  with  enhanced  and  additional  requirements.' 
+
+{Page  2,  clause  4.2)  —  Substitute  the  following  for  the  existing  clause: 
+
+'4.2  The  ladle  analysis  of  steel  for  various  grades,  when  carried  out  by  the  method  specified  in  the  relevant 
+parts  of  IS  228  or  any  other  established  instrumental/chemical  method,  shall  have  maximum  permissible 
+percentage  of  constituents  as  follows.  In  case  of  dispute,  the  procedure  given  in  IS  228  and  its  relevant  parts 
+
+
+Price  Group  2 
+
+
+Amend  No.  1  to  IS  1786  :  2008 
+
+shall  be  the  referee  method  and  where  test  methods  are  not  specified  shall  be  as  agreed  to  between  the  purchaser 
+and  the  manufacturer/supplier. 
+
+
+Constituent 
+
+Percent,  Maximum 
+
+Fe415 
+
+Fe415D 
+
+Fe415S 
+
+Fe500 
+
+Fe  500D 
+
+Fe  500S 
+
+Fe550 
+
+Fe  550D 
+
+Fe600 
+
+Carbon 
+
+0.30 
+
+0.25 
+
+0.25 
+
+0.30 
+
+0.25 
+
+0.25 
+
+0.30 
+
+0.25 
+
+0.30 
+
+Sulphur 
+
+0.060 
+
+0.045 
+
+0.045 
+
+0.055 
+
+0.040 
+
+0.040 
+
+0.055 
+
+0.040 
+
+0.040 
+
+Phosphorus 
+
+0.060 
+
+0.045 
+
+0.045 
+
+0.055 
+
+0.040 
+
+0.040 
+
+0.050 
+
+0.040 
+
+0.040 
+
+Sulphur  and 
+
+0.110 
+
+0.085 
+
+0.085 
+
+0.105 
+
+0.075 
+
+0.075 
+
+0.100 
+
+0.075 
+
+0.075 
+
+phosphorus 
+
+NOTES 
+
+1  For  guaranteed  weldability,  the  Carbon  Equivalent,  CE  using  the  formula: 
+
+Mn        (Cr    +    Mo    +    V)        (m    +    Cu) 
+
+
+CE  =  C   +    + 
+
+6 
+
+
+15 
+
+
+shall  not  be  more  than  0.53  percent,  when  micro-alloy/low  alloys  are  used.  When  micro-alloys/low  alloys  are  not  used, 
+carbon  equivalent  using  the  formula: 
+
+
+CE  =  C   + 
+
+
+Mn 
+
+
+shall  not  be  more  than  0.42  percent.  Reinforcement  bars/wires  with  carbon  equivalent  above  0.42  percent  should,  however 
+be  welded  with  precaution.  Use  of  low  hydrogen  basic  coated  electrodes  with  matching  strength  bars/wires  is 
+recommended. 
+
+2  Addition  of  micro-alloying  elements  is  not  mandatory  for  any  of  the  above  grades.  When  strengthening  elements  like  Nb, 
+V,  B  and  Ti  are  used  individually  or  in  combination,  the  total  contents  shall  not  exceed  0.30  percent;  in  such  case 
+manufacturer  shall  supply  the  purchaser  or  his  authorized  representative  a  certificate  stating  that  the  total  contents  of  the 
+strengthening  elements  in  the  steel  do  not  exceed  the  specified  limit. 
+
+3  Low  alloy  steel  may  also  be  produced  by  adding  alloying  elements  like  Cr,  Cu,  Ni,  Mo  and  P,  either  individually  or  in 
+combination,  to  improve  allied  product  properties.  However,  the  total  content  of  these  elements  shall  not  be  less  than  0.40 
+percent.  In  such  case,  the  manufacturers  shall  supply  the  purchaser  or  his  authorized  representative  a  test  certificate  stating 
+the  individual  contents  of  all  the  alloying  elements.  In  such  low  alloy  steels  when  phosphorus  is  used,  it  shall  not  exceed 
+0.12  percent  and  when  used  beyond  the  limit  prescribed  in  4.2,  the  carbon  shall  be  restricted  to  a  maximum  of  0.15  percent, 
+and  in  such  case  the  restriction  to  maximum  content  of  sulphur  and  phosphorus  as  given  in  4.2  and  the  condition  of 
+minimum  alloy  content  0.40  percent  shall  not  apply. 
+
+User  may  note  that  there  is  a  danger  of  pitting  and  crevice  corrosion  when  weathering  steels  (that  is  those  with  chemical 
+composition  conforming  to  IS  1 1587)  are  embedded  in  chloride  contaminated  concrete." 
+
+4  Nitrogen  content  of  the  steel  should  not  exceed  0.012  percent  (120  ppm),  which  shall  be  ensured  by  the  manufacturer  by 
+occasional  check  analysis.  Higher  nitrogen  contents  up  to  0.025  percent  (250  ppm)  may  be  permissible  provided  sufficient 
+quantities  of  nitrogen  binding  elements,  like  Nb,  V,  Ti,  Al,  etc,  are  present.  In  order  to  ascertain  whether  sufficient 
+quantities  of  nitrogen  binding  elements  are  present,  following  formula  may  be  used,  where  all  elements  are  in  ppm. 
+
+
+(N-120) 
+
+
+Al 
+
+fret 
+
+10 
+
+
+(Ti  +  V) 
+
+
+Nb 
+14 
+
+
+Amend  No.  1  to  IS  1786  :  2008 
+
+(Page  4,  clause  6.1)  —  Substitute  the  following  for  the  existing  clause: 
+
+'6.1  The  nominal  sizes  of  bars/wires  shall  be  as  follows: 
+
+Nominal  size,  4  mm,  5  mm,  6  mm,  8  mm,  10  mm,  12  mm,  16  mm,  20  mm,  25  mm,  28  mm,  32  mm,  36  mm, 
+40  mm,  45  mm,  50  mm. 
+
+NOTE  —  Other  sizes  may  be  supplied  by  mutual  agreement. ' 
+
+(Page  4,  Table  1)  —  Insert  the  following  at  the  end  of  the  Table  1: 
+
+
+SI  No. 
+
+(1) 
+
+
+Nominal  Size 
+
+mm 
+
+(2) 
+
+
+Cross  Sectional  Area 
+
+Mass  per  Metre 
+
+mm^ 
+
+kg 
+
+(3) 
+
+(4) 
+
+1591.1 
+
+12.49 
+
+1964.4 
+
+15.42 
+
+xiv) 
+xv) 
+
+
+45 
+50 
+
+
+(Page  6,  Table  3)  —  Substitute  the  following  for  the  existing  Table  3 : 
+
+Table  3    Mechanical  Properties  of  High  Strength 
+Deformed  Bars  and  Wires 
+
+(Clause  8.1) 
+
+
+SI  No. 
+
+
+Property 
+
+
+Fe 
+
+Fe  415D 
+
+Fe 
+
+Fe 
+
+Fe 
+
+Fe 
+
+Fe 
+
+Fe 
+
+Fe 
+
+415 
+
+415S 
+
+500 
+
+500D 
+
+500S 
+
+550 
+
+550D 
+
+600 
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7) 
+
+
+(8) 
+
+
+(9) 
+
+
+(10) 
+
+
+(11) 
+
+
+i)       0.2  percent  proof  stress/ yield  415.0  415.0 
+
+stress,  Min,  N/mm^ 
+
+ii)       0.2  percent  proof  stress/ yield  —  — 
+
+stress,  Max,  N/mm^ 
+
+iii)      TS/YS  ratio",  N/mm^                      >  1.10,  but  >  1.12,  but 
+
+TS  not  less  TS  not  less 
+
+than  485.0  than  500.0 
+
+N/mm^  N/mm^ 
+
+iv)      Elongation,  percent,  min.  on  14.5  18.0 
+
+gauge  length  5.65V^,  where  A  is 
+the  cross-sectional  area  of  the 
+test  piece 
+
+v)       Total  elongation  at  maximum  —  5 
+
+force,  percent,  Min,  on  gauge 
+length  5.65VA,  where  A  is  the 
+cross-sectional  area  of  the  test 
+piece  (see  3.9)  ^' 
+
+
+415.0 
+
+
+540.0 
+
+
+1.25 
+
+
+20.0 
+
+
+10 
+
+
+500.0 
+
+
+500.0 
+
+
+>  1.08,  but  >  1.10,  but 
+
+TS  not  less  TS  not  less 
+
+than  545.0  than  565.0 
+
+N/mm^  N/mm^ 
+
+
+12.0 
+
+
+16.0 
+
+
+500.0 
+
+
+625.0 
+
+
+1.25 
+
+
+18.0 
+
+
+550.0 
+
+
+550.0 
+
+
+600.0 
+
+
+>  1 .06,  but  >  1 .08,  but  >  1 .06,  but 
+
+TS  not  less  TS  not  less  TS  not  less 
+
+than  585  than  600.0  than  660 
+
+N/mm^  N/mm^  N/mm^ 
+
+10.0  14.5  10.0 
+
+
+''  TS/YS  ratio  refers  to  ratio  of  tensile  strength  to  the  0.2  percent  proof  stress  or  yield  stress  of  the  test  piece 
+^'  Test,  wherever  specified  by  the  purchaser. 
+
+
+(Page  6,  clause  9.1.2.1)  —  Insert  the  following  note  at  the  end  of  clause: 
+
+'NOTE-  In  case  of  any  dispute,  the  results  obtained  from  full  bar  test  pieces  (without  machining  to  remove  deformations)  shall  be  treated  as 
+final  and  binding. ' 
+
+(Page  7,  clause  9.2.1,  line  7)  —  Substitute  'Fe  415,  Fe  415D  and  Fe  415S  bars/wires' ybr  'Fe  415  and  Fe 
+415D  bars/wires'. 
+
+
+Amend  No.  1  to  IS  1786  :  2008 
+
+{Page  7,  clause  9.2.1,  line  8)  —  Substitute  'Fe  500,  Fe  500D  and  Fe  500S  bars/wires' /«''  'Fe  500  and  Fe 
+500D  bars/wires'. 
+
+{Page  7,  clause  9.3,  line  2)  —  Insert  'maximum'  before  'mandrel'. 
+
+{Page  7,  clause  9.3,  Table  4)  —  Substitute  the  following  for  the  existing  Table  4: 
+
+Table  4  Maximum  Mandrel  Diameter  for  Bend  Test 
+
+{Clause  9.3) 
+
+
+SI  No. 
+
+
+Nominal  Size 
+
+mm 
+
+
+Maximum  Mandrel  Diameter  for  Different  Grades 
+
+
+Fe415       Fe415D  Fe415S  Fe  500  Fe  500D 
+
+(1)                         (2)                         (3)               (4)  (5)  (6)                (7) 
+
+i)         Up  to  and  including  20         3(|)              2  if  2^  A  if                3(|) 
+
+ii)         Over  20                                 4(|)              3(|)  3(|)  5  if                A  if 
+NOTE  —  (|)  is  the  nominal  size  of  the  test  piece,  in  mm. 
+
+
+Fe  500S  Fe  550 
+(8)  (9) 
+
+3(|)  5(|) 
+
+4(|)  6(|) 
+
+
+Fe  550D 
+
+(10) 
+
+4(1) 
+
+
+Fe600 
+(11) 
+5(|) 
+
+6if 
+
+
+{Page  7,  clause  9.4.1)  —  Substitute  the  following  for  the  existing  clause: 
+9.4.1  The  maximum  diameter  of  the  mandrel  shall  be  as  given  below: 
+
+
+5/ 
+No. 
+
+
+(1) 
+
+
+Nominal  Size  of  Maximum  Dia  of        Maximum  Dia  of  Mandrel  for  Maximum  Dia  of  Maximum  Dia 
+
+
+Specimen 
+
+
+(2) 
+
+
+Mandrel  for 
+
+Fe  415  and 
+
+FeSOO 
+
+(3) 
+
+
+Fe  415D, 
+
+Fe  415S 
+
+Fe  50()D 
+
+andFeSOOS 
+
+(4) 
+
+
+Mandrel  for  Fe  550 
+
+and 
+
+FeSOO 
+
+(5) 
+
+
+of  Mandrel  for 
+Fe550D 
+
+
+(6) 
+
+
+i)         Up  to  and 
+
+including  10  mm 
+
+ii)        Over  10  mm 
+
+
+NOTE  —  (|)  is  the  nominal  size  of  the  test  piece,  in  mm. 
+
+
+n 
+
+
+(CED  54) 
+
+
+Reprography  Unit,  BIS,  New  Delhi,  India 
+
+
+IS  1786 :  2008 
+
+
+Indian  Standard 
+
+
+HIGH  STRENGTH  DEFORMED 
+STEEL  BARS  AND  WIRES  FOR 
+CONCRETE  REINFORCEMENT  - 
+SPECIFICATION 
+(Fourth  Revision) 
+
+
+1  SCOPE 
+
+1.1  This  standard  covers  the  requirements  of  deformed 
+steel  bars  and  wires  for  use  as  reinforcement  in  concrete, 
+in  the  following  strength  grades: 
+
+a)  Fe415,Fe415D; 
+
+b)  Fe  500,  Fe  SOQD; 
+
+c)  Fe  550,  Fe  550D;  and 
+
+d)  Fe  600. 
+
+NOTES 
+
+1  Ths  Tigures  following'  the  s^rnbol  F?  indiCiitc  th?  sncc^ficd 
+minimum  0.2  percent  proof  stress   or  yield  stress  in 
+
+N/mm-. 
+
+2  The  letter  D  following  the  strength  grade  indicates  the  category 
+with  same  specified  minimum  0.2  percent  proof  stress/yield  stres.s 
+but  with  enhanced  specified  minimum  percentage  elongation. 
+
+1 .2  This  standard  allows  the  chemical  composition  and 
+carbon  equivalent  to  be  limited  so  that  the  material  can 
+be  readily  welded  by  conventional  welding  procedures. 
+Material  not  conforming  to  these  limits  is  generally 
+difficult  to  weld  for  which  special  care  and  precautions 
+will  have  to  be  exercised, 
+
+1.3  This  standard  applies  to  hot-rolled  steel  without 
+subsequent  treatment,  or  to  hot-rolled  steel  with 
+controlled  cooling  and  tempering  and  to  cold-worked 
+steel.  The  production  process  is  at  the  discretion  of  the 
+manufacturer. 
+
+1 .4  This  standard  also  applies  to  reinforcing  bars  and 
+wires  supplied  in  coil  form  but  the  requirements  of  this 
+Indian  Standard  apply  to  the  straightened  product. 
+
+1 .5  Tuis  standard  also  applies  to  remforcing  bars  and 
+wires  which  may  be  subsequently  coated. 
+
+1.6  Deformed  bars  produced  by  re-rolling  finished 
+products  such  as  plates  and  rails  (virgin  or  used  or  scrap), 
+or  by  rolling  material  for  which  the  metallurgical  history 
+is  not  fully  documented  or  not  known,  are  not  acceptable 
+as  per  this  Indian  Standard. 
+
+
+2  REFERENCES 
+
+The  standards  listed  below  contain  provisions,  which 
+through  reference  in  this  text  constitute  provisions  of 
+this  standard.  At  the  time  of  publication,  the  editions 
+indicated  were  valid.  Ail  standards  are  subject  to 
+revision,  and  parties  to  agreements  based  on  this 
+standard  are  encouraged  to  investigate  the  possibility 
+of  applying  the  most  recent  editions  of  the  standards 
+indicated  below: 
+
+Title 
+
+
+IS  No. 
+228  (Parts  1  to  24) 
+
+1387  :  1993 
+
+1599  :  1985 
+1 608  :  2005 
+
+2062  :  2006 
+
+2770  (Part  I): 
+
+9417:1989 
+
+11587:  1986 
+
+
+Methods  for  chemical  analysis  of 
+steels 
+
+General  requirements  for  the 
+supply  of  metallurgical  materials 
+{second  revision) 
+
+Method  for  bend  test  {second 
+revision) 
+
+Metallic  materials — Tensile 
+testing  at  ambient  temperature 
+{third  revision) 
+
+Hot  rolled  low,  mediimi  and  high 
+tensile  structural  steel  {sixth 
+revision) 
+
+Methods  of  testing  bond  in 
+1967  reinforced  concrete:  Parti 
+Pull-out  test. 
+
+Recommendations  for  welding 
+cold-worked  steel  bars  for 
+reinforced  concrete  construction 
+{first  revision) 
+
+Structural  weather  resistant  steels 
+
+
+3  TERMINOLOGY 
+
+For  the  purpose  of  this  standard,  the  following 
+defmitions  shall  apply. 
+
+3.1  Batch  —  Any  quantity  of  bars/wires  of  same  size 
+and  grade  whether  in  coils  or  bundles  presented  for 
+examination  and  test  at  one  time. 
+
+
+18  1786:2008 
+
+
+3.2  Bundle  —  Two  or  more  coils  or  a  number  of 
+lengths  properly  bound  together. 
+
+3.3  Elongation  —  The  increase  in  length  of  a  tensile 
+test  piece  under  stress.  The  elongation  at  fracture  is 
+conventionally  expressed  as  a  percentage  of  the  original 
+gauge  length  of  a  standard  test  piece. 
+
+3.4  Longitudinal  Rib  —  A  uniform  continuous 
+protrusion,  parallel  to  the  axis  of  the  bar/wire  (before 
+cold-working,  if  any). 
+
+3.5  Nominal  Diameter  or  Size  —  The  diameter  of  a 
+plain  round  bar/wire  having  the  same  mass  per  metre 
+length  as  the  deformed  bar/wire. 
+
+3.6  Nominal  Mass  —  The  mass  of  the  bar/wire  of 
+nominal  diameter  and  of  density  0.007  85  kg/mm' per 
+meter. 
+
+3.7  Nominal  Perimeter  of  a  Deformed  BarAVire  — 
+3.14  times  the  nominal  diameter. 
+
+3.8  0.2  Percent  Proof  Stress  —  The  stress  at  which  a 
+non-proportional  elongation  equal  to  0.2  percent  of  the 
+original  gauge  length  takes  place. 
+
+3.9  Percentage  Total  Elongation  at  Maximum 
+Force  —  The  elongation  corresponding  to  the 
+maximum  load  reached  in  a  tensile  test  (also  termed  as 
+uniform  elongation). 
+
+3.10  Tensile  Strength  —  The  maximum  load  reached 
+in  a  tensile  test  divided  by  the  effective  cross-sectional 
+area  of  the  gauge  length  portion  of  the  test  piece  (also 
+termed  as  ultimate  tensile  stress). 
+
+
+3.11  Transverse  Rib  —  Any  rib  on  the  surface  of  a 
+bar/wire  other  than  a  longitudinal  rib. 
+
+3.12  Yield  Stress  —  Stress  (that  is,  load  per  unit  cross- 
+sectional  area)  at  which  elongation  first  occurs  in  the 
+test  piece  without  increasing  the  load  during  the  tensile 
+test.  In  the  case  of  steels  with  no  such  definite  yield 
+point,  proof  stress  shall  be  appUcable. 
+
+4  MANUFACnJREAP«)CHEMICALCX)MPOSniON 
+
+4.1  Steel  shall  be  manufactured  by  the  open-hearth, 
+electric,  duplex,  basic-oxygen  process  or  a  combination 
+of  these  processes.  In  case  any  other  process  is  employed 
+by  the  manufacturer,  prior  approval  of  the  purchaser 
+should  be  obtained. 
+
+4.1.1  Steel  shall  be  supplied,  semi-killed  or  killed. 
+
+4.1.2  The  bars/wires  shall  be  manufactured  from 
+properly  identified  heats  of  mould  cast,  continuously 
+cast  steel  or  roiled  semis. 
+
+4.1.3  The  steel  bars/wires  for  concrete  reinforcement 
+shall  be  manufactured  by  the  process  of  hot  rolling.  It 
+may  be  followed  by  a  suitable  method  of  cold  working 
+and/or  in-line  controlled  cooling. 
+
+4.2  Chemical  Composition 
+
+The  ladle  analysis  of  steel  for  various  grades,  when  made 
+as  per  relevant  parts  of  IS  228  shall  have  maximum 
+permissible  percentage  of  constituents  as  follows: 
+
+
+Constituent 
+
+
+,  /1 1  <; 
+
+
+FeSOO 
+
+
+Percent,  Maximum 
+
+
+Fe 500D 
+
+
+Fe550 
+
+
+Fe  550D 
+
+
+Fe600 
+
+
+Carbon 
+
+
+0.30 
+
+
+0.25 
+
+
+0.30 
+
+
+0.25 
+
+
+0.30 
+
+
+0.25 
+
+
+0.30 
+
+
+Sulphur 
+
+0.060 
+
+0.045 
+
+0.055 
+
+0.040 
+
+0.055 
+
+0.040 
+
+.0.040 
+
+Phosphorus 
+
+0.060 
+
+0.045 
+
+0.055 
+
+0.040 
+
+0.050 
+
+0.040 
+
+0.040 
+
+Sulphur  and 
+
+0.110 
+
+0.085 
+
+0.105 
+
+0.075 
+
+0.100 
+
+0.075 
+
+0.075 
+
+phosphorus 
+
+NOTES 
+
+1  For  guaranteed  weldability,  the  Carbon  Eiquivalent,  CE  using  the  formula 
+
+Mn       (Cr  +  Mo  +  V)         (Ni  +  Cu) 
+
+CE  =  C  + 1- 1- 
+
+6  5  15 
+
+shall  not  be  more  than  0.53  percent,  when  microalloys/low  alloys  are  used.  When  microalloys/low  alloys  are  not  used,  carbon  equivalent 
+using  the  formula; 
+
+
+CE  =  C  + 
+
+
+Mn 
+
+
+shall  not  be  more  than  0.42  percent.  Reinforcement  bars/wires  with  carbon  equivalent  above  0.42  percent  should,  however  be  welded  with 
+precaution.  Use  of  low  hydrogen  basic  coated  electrodes  with  matching  strength  bars/wires  is  recommended. 
+
+2  Addition  of  microalloying  elements  is  not  mandatory  for  any  of  the  above  grades.  When  strengthening  elements  like  Nb,  V,  B  and  Ti  are 
+used  mdividually  or  in  combination,  the  total  contents  shall  not  exceed  0.30  percent;  in  such  case  manufacturer  shall  supply  the  purchaser 
+or  his  authorized  representative  a  certificate  stating  that  the  total  contents  of  the  strengthening  elements  in  the  steel  do  not  exceed  the 
+
+specified  limit. 
+
+
+IS  1786 :  2008 
+
+3  Low-alloy  steel  may  also  be  produced  by  adding  alloying  elements  like  Cr,  Cu,  Ni,  Mo  and  P,  either  individually  or  in  combination,  to 
+improve  allied  product  properties.  However,  the  total  content  of  these  elements  shall  not  be  less  than  0.40  percent.  In  such  case,  manufacturers 
+shall  supply  the  purchaser  or  his  authorized  representative  a  test  certificate  stating  the  individual  contents  of  alt  the  alloying  elements.  In 
+such  low  alloy  steels  when  phosphorus  is  used,  it  shall  not  exceed  0,12  percent  and  when  used  beyond  the  limit  prescribed  in  4.2,  the 
+carbon  shall  be  restricted  to  a  maximum  of  0, 1 5  percent,  and  in  such  case  the  restriction  to  maximum  content  of  sulphur  and  phosphorus 
+as  given  in  4.2  and  the  condition  of  minimum  alloy  content  0.40  percent  shall  not  apply. 
+
+User  may  note  that  there  is  a  danger  of  pitting  and  crevice  corrosion  when  weathering  steels  (that  is  those  with  chemical  composition 
+conforming  to  IS  1 1587)  are  embedded  in  chloride  contaminated  concrete. 
+
+4  Nitrogen  content  of  the  steel  should  not  exceed  0.01 2  percent,  which  shall  be  ensured  by  the  manufacturer  by  occasional  check  analysis. 
+
+
+4.2.1  In  case  of  product  analysis,  the  permissible 
+variation  from  the  limits  specified  under  4.2  shall  be  as 
+follows: 
+
+
+Constituent 
+
+Variation,  Over  Specified 
+
+Maximum  Limit, 
+
+Percent,  Max 
+
+Carbon 
+
+0.02 
+
+Sulphur 
+
+0.005 
+
+L  AxGspiiorus 
+
+0.005 
+
+Sulphur  and  phosphorus 
+
+0.010 
+
+4.2.2     For    welding    of    deformed    bars, 
+recouimsndations  of  IS  9417  shall  be  followed. 
+
+
+the 
+
+
+4.1.3  In  case  of  deviations  from  the  specified  maximum, 
+two  additional  test  samples  shall  be  taken  from  the  same 
+batch  and  subjected  to  the  test  or  tests  in  which  the 
+original  sample  failed.  Should  both  additional  test 
+samples  pass  the  test,  the  batch  from  which  they  were 
+taken  shall  be  deemed  to  comply  with  this  standard. 
+Should  either  of  them  fail,  the  batch  shall  be  deemed 
+not  to  comply  with  this  standard. 
+
+4.3  Rolling  and  Cold-Working  of  Bars/Wires 
+
+A  1\  All  U^,.c/,,,;.-a,P  oV,nl1  Ua  .■.roll  r,.^A  /.Iconl.r  rn^\aA 
+~r.k'.x     rxix    uuxo/  vvxiuo    .^iiuxx    l/v     vv  ^&x    uuva    wxv..u.xxxY    xvxxvcx 
+
+and  shall  be  soimd  and  free  from  surface  defects  and 
+pipe,  or  other  defects  detrimental  to  its  subsequent 
+processing  and  to  its  end  use.  Rust,  seams,  surface 
+irregularities  or  mill  scale  shall  not  be  the  cause  for 
+rejection  provided  a  hard  wire  brushed  test  specimen 
+fulfils  all  the  requirements  of  this  specification. 
+
+4.3.2  Stretching  may  or  may  not  be  combiaed  with  cold- 
+working.  The  unworked  length  at  each  end  of  the  bar/ 
+wire  shall  not  exceed  100  mm  or  4  times  the  nominal 
+diameter,  whichever  is  greater. 
+
+5  REQUIREMENTS  FOR  BOND 
+
+5.1  High  strength  deformed  bars/wires  shall  satisfy  the 
+requirements  given  in  either  5.2  or  5.7  for  routine  testing. 
+Pull-out  test  in  accordance  with  5.7  shall  be  done  in 
+addition  to  5.2  for  approval  of  new  or  amended  geometry 
+for  first  time. 
+
+5.2  Deformations  and  Surface  Characteristics 
+
+For  high  strength  deformed  bars/wires,  the  mean  area 
+of  ribs  (in  mm^)  per  unit  length  (in  mm)  above  the  core 
+of  the  bar/wire,  projected  on  a  plane  normal  to  the  axis 
+
+
+of  the  bar/wire  calculated  in  accordance  with  5.4  shall 
+not  be  less  than  the  following  values: 
+
+a)  O.]2(t)for(t)<10mm, 
+
+b)  0. 1 5  ())  for  1 0  mm  <  ({)  <  1 6  mm,  and 
+
+c)  0.17  (j>  for  (t)>  16  mm. 
+
+where  (j)  is  the  nominal  diameter  of  bar/wire, 
+in  mm. 
+
+The  mean  projected  area  of  transverse  ribs  alone  .hall 
+be  not  less  than  one-third  of  the  values  given  above. 
+
+5.3  The  ribs  contributing  the  projected  area  considered 
+in  5.2  shall  consist  of: 
+
+a)  Two  longitiidinal  ribs  in  the  form  of  continuous 
+helix  in  case  of  twisted  bars/wires,  and  optional 
+longitudinal  ribs  in  case  of  untwisted  bars/wires 
+which  may  be  continuous  or  discontinuous;  and 
+
+b)  Transverse  ribs  which  after  hot-rolling  or  cold- 
+working  are  uniform  in  size  and  shape  in  each 
+row  along  the  length  of  the  bar/wire,  and  are 
+spaced  along  the  bar/wire  at  substantially  uniform 
+distance,  except  in  the  area  of  marking. 
+
+5.4  The  mean  projected  rib  area  per  unit  length,  A^  (in 
+mm'/ram)  may  be  calculated  from  the  following 
+formula : 
+
+
+^   = 
+
+
+J  =  l 
+
+
+A^  sin  9 
+
+
++ 
+
+
+\d^^ 
+
+
+where 
+
+«,   =  number  of  rows  of  transverse  ribs; 
+
+A^  =  area  of  longitudinal  section  of  a  transverse  rib 
+on  its  own  axis  {see  Fig.  1 )  or  area  of  transverse 
+rib  of  uniform  height  on  its  own  axis,  in  mm^ ; 
+
+e  =  inclination  of  the  transverse  rib  to  the  bar  axis 
+(after  twisting  for  cold-worked  twisted  bars) 
+in  degrees,  Average  value  of  two  ribs  from  each 
+row  of  transverse  ribs  shall  be  taken; 
+
+S^^  =  spacing  of  transverse  ribs,  in  mm; 
+
+Hj^  =  number  of  longitudinal  ribs; 
+
+rfj^  =  height  of  longitudinal  ribs,  in  mm; 
+
+(j)   =  nominal  diameter  of  the  bar/wire,  in  mm; 
+
+6p  =  pitch  of  the  twist,  in  mm;  and 
+
+i    =  variable. 
+
+
+IS  1786  :  2008 
+
+
+NOTES 
+
+
+where 
+
+
+1  In  the  case  of  hot  rolled  bars/wires  which  are  not  subjected  to 
+cold  twisting,  the  value  of  s  in  the  second  term  of  the  expression 
+for  .'i^  shall  be  taken  as  infinity  rendering  the  value  of  the  second 
+term  to  zero. 
+
+2  -■l,_.may  be  calculated  as  2/3  l^^d^whsre  /^-and  rf^are  shown  in 
+Fig.l  or, /lj_  maybe  calculated  as  /^^rf^  where  transverse  ribs 
+are  of  uniibrm  height  on  its  own  axis. 
+
+3  In  the  case  of  cold-worked  bars/wires  with  some  discontinuous 
+longitudinal  nbs,  the  number  of  longitudinal  ribs,  n^  shall  be 
+calculated  as  an  equivalent  number  using  the  following  formula 
+and  accounted  for  in  the  expression  forA^: 
+
+n   I'd' 
+n  ~ — '~7~, — —  +  Number  of  continuous  longitudinal 
+'  ir  ir         ribs 
+
+
+n  'i^  =  number  of  discontinuous  longitudinal  ribs, 
+
+/'     =  average  length  of  discontinuous  longitudinal  ribs, 
+
+d'j_.  =  height  of  discontinuous  longitudinal  ribs, 
+
+s\  =  average  spacing  of  discontinuous  longitudinal  ribs,  and 
+
+rfi_.    =  height  of  continuous  longitudinal  ribs. 
+
+4  The  average  length  of  discontinuous  longitudinal  ribs  shall  be 
+determined  by  dividing  a  measured  length  of  the  bar  equal  to  at 
+least  10  (])  by  the  number  of  discontinuous  longitudinal  ribs  in 
+the  measured  length,  <j)  being  the  nominal  diameter  of  the  bar. 
+The  measured  length  of  the  bar  shall  be  the  distance  from  the 
+centre  of  one  rib  to  the  centre  of  another  rib. 
+
+
+TRANSVERSE 
+RIB 
+
+
+AXIS  OF 
+
+
+SECTION  XX 
+WITHOUT 
+
+
+ENLARGED 
+LONGITUDINAL  SECTION 
+
+
+LONGITUDINAL        OF  TRANSVERSE  RIB  ON 
+
+
+RIBS 
+
+
+ITS  OWN  AXIS 
+
+
+NOTE— ^/<^,  d^  and  l^  represent  longitudinal  sectional  area,  height  and  length  respectively  of  transverse  rib 
+Fig.  1  Determination  of  Longitudinal  Sectionai.  Area  A  op  a  Transverse  Rib 
+
+
+5.5  The  heights  of  longitudinal  and  transverse  ribs  shall 
+be  obtained  in  the  following  manner: 
+
+a)  The  average  height  of  longitudinal  ribs  shall  be 
+obtained  from  measurements  made  at  not  less  than 
+4  pomts,  equally  spaced,  over  a  length  of  10  <j)  or 
+pitch  of  rib,  whichever  is  greater. 
+
+b)  The  height  of  transverse  ribs  shall  be  measured 
+at  the  centre  of  10  successive  transverse  ribs. 
+
+5.6  The  average  spacing  of  transverse  ribs  shall  be 
+determined  by  dividing  a  measured  length  of  the  bar/ 
+wire  equal  to  at  least  10  4)  by  the  number  of  spaces 
+between  ribs  in  the  measured  length,  ^  being  the  nominal 
+diameter  of  the  bar/wire.  The  measured  length  of  the 
+bar/wire  shall  be  the  distance  from  the  centre  of  one  rib 
+to  the  centre  of  another  rib. 
+
+5.7  When  subjected  to  pull-out  testing  in  accordance 
+
+
+with  IS  2770  (Part  1),  the  bond  strength  calculated  from 
+the  load  at  a  measured  slip  of  0.025  mm  and  0.25  mm 
+for  deformed  bars/wires  shall  exceed  that  of  a  plain 
+round  bar  of  the  same  nominal  size  by  40  percent  and 
+80  percent  respectively. 
+
+6  NOMINAL  SIZES 
+
+6.1  The  nominal  sizes  of  bars/wires  shall  be  as  follows: 
+
+Nominal  size,  4  mm,  5  mm,  6  mm,  8  mm,  10  mm, 
+12  mm,  16  mm,  20  mm,  25  mm,  28  mm,  32  mm, 
+36  mm,  40  mm. 
+
+NOTE  —  Other  sizes  may  be  supplied  by  mutual  agreement. 
+
+6.2  The  values  for  the  nominal  cross-sectional  area  and 
+nominal  mass  of  individual  bars/wires  shall  be  as  given 
+in  Table  1  subject  to  the  tolerance  on  nominal  mass  given 
+in  Table  2. 
+
+
+IS  1786 :  2008 
+
+
+6.3  Effective  Cross-Sectional  Area  and  Mass  of 
+Deformed  Bars  and  Wires 
+
+6.3.1  For  bars/wires  whose  pattern  of  deformation  is 
+such  that  by  visual  inspection,  the  cross-sectional  area 
+is  substantially  uniform  along  the  length  of  the  bar/wire, 
+the  effective  cross-sectional  area  shall  be  the  gross 
+sectional  area  determined  as  follows,  using  a  bar/wire 
+not  less  than  0.5  m  in  length: 
+
+w 
+
+
+Gross  cross-sectional  area,  in  mm"  = 
+
+0.007  85  L 
+
+where 
+
+w  =  mass  weighed  to  a  precision  of  ±0.5  percent, 
+in  kg;  and 
+
+L  =  length  measured  to  a  precision  of  ±0.5 
+percent,  in  m. 
+
+Table  1  Nominal  Cross-Sectional  Area  and  Mass 
+
+[Qame  6.2) 
+
+
+S!No. 
+
+Nominal 
+
+Cross- 
+
+Mass  per 
+
+Size 
+
+Stctionaf 
+
+Metre 
+
+mm 
+
+Area 
+
+mm" 
+
+H 
+
+(!) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+i) 
+
+4 
+
+12.6 
+
+0.099 
+
+ii) 
+
+5 
+
+19.6 
+
+0.154 
+
+ill) 
+
+6 
+
+28.3 
+
+0.222 
+
+iv) 
+
+8 
+
+50.3 
+
+0.395 
+
+V) 
+
+10 
+
+78.6 
+
+0.617 
+
+vi) 
+
+12 
+
+113,1 
+
+0.888 
+
+vii) 
+
+16 
+
+201.2 
+
+1.58 
+
+viii) 
+
+20 
+
+314.3 
+
+2.47 
+
+ix) 
+
+25 
+
+491.1 
+
+3.85 
+
+X) 
+
+28 
+
+615.8 
+
+4.83 
+
+xi) 
+
+32 
+
+804.6 
+
+6.31 
+
+xii) 
+
+36 
+
+1  018.3 
+
+7.99 
+
+xiii} 
+
+40 
+
+1  257.2 
+
+9.86 
+
+6.3.2  For  a  bar/wire  whose  cross-sectional  area  varies 
+along  its  length,  a  sample  not  less  than  0.5  m  long  shall 
+be  weighed  (w)  and  measured  to  a  precision  of  ±0.5 
+percent  in  the  as  rolled  and/or  cold-worked  condition, 
+and  after  the  transverse  ribs  have  been  removed,  it  shall 
+be  reweighed  (w').  The  effective  cross-sectional  area 
+shall  then  be  found  as  follows; 
+
+a)  Where  the  difference  between  the  two  masses 
+(w  -  w')  is  less  than  3  percent  of  w',  the  effective 
+cross-sectional  area  shall  be  obtained  as  in  6.3.1. 
+
+b)  Where  the  difference  is  equal  to  or  greater  than 
+3  percent,  the  eifective  cross-sectional  area  in  mm^ 
+shall  be  taken  as: 
+
+1.03  H'' 
+
+
+0.007  85  L 
+
+where 
+
+vv  =  mass  of  the  bar  with  transverse  ribs 
+removed,  in  kg;  and 
+
+L  =    length,  in  m. 
+
+
+For  routine  test  purposes,  a  nominal  ratio  of  effective 
+to  gross  cross-sectional  area  of  bars/wires  covered 
+by  6.3.2(b)  above  shall  be  declared  and  used  by 
+the  manufacturer. 
+
+7  TOLERANCES  ON  DIMENSIONS  AND 
+NOMINAL  MASS 
+
+7.1  Specified  Lengths 
+
+If  bars/wires  are  specified  to  be  cut  to  certain  lengths, 
+
++75 
+each  bar/wire  shall  be  cut  within  deviations  of     '  ^mm 
+
+on  the  specified  length,  but  if  minimum  lengths  are 
+
+specified,  the  deviations  shall  be   ^r  mm. 
+
+7.2  Nominal  Mass 
+
+7.2.1  For  the  purpose  of  checking  the  nominal  mass, 
+the  density  of  steel  shall  be  taken  as  0.007  85  kg/mm^ 
+of  the  cross-sectional  area  per  metre. 
+
+7.2.2  Unless  otherwise  agreed  to  between  the 
+manufacturer  and  the  purchaser,  the  tolerances  on 
+nominal  mass  shall  be  as  in  Table  2.  For  bars/wires 
+whose  effective  cross-sectional  area  is  determined 
+as  in  6.3.2(b),  the  nominal  mass  per  metre  shall 
+correspond  to  the  gross  mass  and  the  deviations  in 
+
+Table  2  shall  apply  to  the  nominal  mass. 
+
+7.2.3  The  nominal  mass  per  metre  of  individual  sample, 
+batch  and  coil  shall  be  determined  as  given  in  7.2.3.1 
+to  7.2.3.3. 
+
+Table  2  Tolerances  on  Nominal  Mass 
+
+(Clauses  6.2  and  7.2.2  ) 
+
+
+SI 
+
+No. 
+
+
+Nominal  Size 
+
+mm 
+
+
+Tolerance  on  the  Nominal 
+Mass,  Percent 
+
+
+(1) 
+
+
+(2) 
+
+
+Batch 
+
+
+(3) 
+
+
+Individual 
+Sample 
+
+
+(4) 
+
+
+Individual 
+
+Sample 
+
+for  Coils 
+
+Only'' 
+
+(5) 
+
+
+i)   Up  to  and  including  10  ±7  -8  ±8 
+
+ii)   Over  10  up  to  and  ±5  -6  ±6 
+
+including  16 
+iii)   Over  16                                  ±3              ^                 ±4 
+For  individual  sample  plus  tolerance  is  not  specified.  A  single 
+sample  taken  from  a  batch  as  defined  in  3.1  shall  not  be 
+considered  as  individual  sample, 
+"'  For  coils  batch  tolerance  is  not  specified. 
+
+7.2.3.1  Individual  sample 
+
+The  nominal  mass  of  an  individual  sample  shall  be 
+calculated  by  determining  the  mass  of  any  individual 
+sample  taken  at  random  as  specified  in  11.1  and  dividmg 
+the  same  by  the  actual  length  of  the  sample.  The  sample 
+shall  be  of  length  not  less  than  0.5  m. 
+
+7.2.3.2  Batch 
+
+The  nominal  mass  of  a  batch  shall  be  calculated  from 
+the  mass  of  the  test  specimens  taken  as  specified  in  11.1 
+and  dividing  the  same  by  the  actual  total  length  of  the 
+specimens.  Each  specimen  shall  be  of  length  not  less 
+than  0.5  m. 
+
+
+IS  1786  :  2008 
+
+
+7.2.3.3  Coils 
+
+The  nominal  mass  of  a  coil  shall  be  calculated  by 
+determining  the  mass  of  two  samples  of  minimum  one 
+metre  length  taken  from  each  end  of  the  coil  and  dividing 
+the  same  by  the  actual  total  length  of  the  samples. 
+
+8  PHYSICAL  PROPERTIES 
+
+8.1  Mechanical  properties  for  all  sizes  of  deformed 
+bars/wires  determined  on  effective  cross-sectional  area 
+{.see  5.3)  and  in  accordance  wdth  9.2  shall  be  as  specified 
+in  Table  3 . 
+
+8.2  The  bars/wires  shall  withstand  the  bend  test 
+specified  in  9.3  and  the  rebend  test  specified  in  9.4. 
+
+8.3  Bond 
+
+Bars/wires  satisfying  the  requirements  given  in  5  shall 
+be  deemed  to  have  satisfied  the  bond  requirements  of  a 
+deformed  bar/wire. 
+
+
+9.1  Selection  and  Preparation  of  Test  Sample 
+
+Unless  otherwise  specified  in  this  standard,  the 
+requirements  of  IS  2062  shall  apply. 
+
+9 .1  .\   K\\  lest  pieces  shall  be  selected  by  the  purchaser 
+or  his  authorized  representative,  either: 
+
+
+a)  from  the  cuttings  of  bars/wires;  or 
+
+b)  if,  he  so  desires,  from  any  bar/wire  after  it  has 
+been  cut  to  the  required  or  specified  size  and  the 
+test  piece  taken  from  any  part  of  it. 
+
+In  neither  case,  the  test  piece  shall  be  detached  from 
+the  bar/wire  except  in  the  presence  of  the  purchaser  or 
+his  authorized  representative. 
+
+9.1 .2  The  test  pieces  obtained  in  accordance  with  9.1 .1 
+shall  be  full  sections  of  the  bars/wires  and  shall  be 
+subjected  to  physical  tests  without  any  further 
+modifications.  No  reduction  in  size  by  machining  or 
+otherwise  shall  be  permissible,  except  in  case  of  bars  of 
+size  28  mm  and  above  {see  9,1.2.1).  No  test  piece  shall 
+be  annealed  or  otherwisp  subjected  to  heat  treatment 
+except  as  provided  in  9.1.3.  Any  straightening  which  a 
+test  piece  may  require  shall  be  done  cold. 
+
+9.1.2.1  For  the  purpose  of  carrying  out  tests  for  tensile 
+strength,  proof  stress,  percentage  elongation  and 
+percentage  elongation  at  maximum  force  for  bars 
+28  mm  in  diameter  and  above,  deformations  of  the  bars 
+only  may  be  machined.  For  such  bars,  the  physical 
+
+properties  shall  be  calculated  using  the  actual  area 
+obtained  after  machining. 
+
+
+Table  3   Mechanical  Properties  of  High  Strength 
+Deformed  Bars  and  Wires 
+
+(Clause  8.1) 
+
+
+SI 
+
+Property 
+
+Fe 
+
+Fe 
+
+Fe 
+
+Fe 
+
+Fe 
+
+Fe 
+
+Fe 
+
+No. 
+
+415 
+
+415D 
+
+500 
+
+500D 
+
+550 
+
+550D 
+
+600 
+
+CO 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+(7) 
+
+(8) 
+
+(3) 
+
+IJ 
+
+0.2  percent  proof  stress/ 
+yield  stress,  Min,  NVmm" 
+
+415.0 
+
+415,0 
+
+500.0 
+
+500.0 
+
+550.0 
+
+550.0 
+
+600.0 
+
+!1) 
+
+Elongation,  percent,  Min.  on  gauge 
+length  5.65^5",  where  A  is  the 
+cross-sectional  area  of  the 
+test  piece 
+
+14.5 
+
+18.0 
+
+12.0 
+
+16.0 
+
+10.0 
+
+14.5 
+
+10.0 
+
+iiij 
+
+Tensile  strength,  Min 
+
+10  percent 
+
+12  percent 
+
+8  percent 
+
+10  percent 
+
+6  percent 
+
+8  percent 
+
+6  percent 
+
+more  than 
+
+more  than 
+
+more  than 
+
+more  than 
+
+more  than 
+
+more  than 
+
+more  than 
+
+the  actual 
+
+the  actual 
+
+the  actual 
+
+the  actual 
+
+the  actual 
+
+the  actual 
+
+the  actual 
+
+0.2  percent 
+
+0,2  percent 
+
+0.2  percent 
+
+0.2  percent 
+
+0.2  percent 
+
+0.2  percent 
+
+0.2  percent 
+
+proof  stress' 
+
+proof  stress/ 
+
+proof  stress/ 
+
+proof  stress/ 
+
+proof  stress/ 
+
+proof  stress/ 
+
+proof  stress/ 
+
+yield  stress 
+
+yield  stress 
+
+yield  stress 
+
+yield  stress 
+
+yield  stress 
+
+yield  stress 
+
+yield  stress 
+
+but  not 
+
+but  not 
+
+but  not 
+
+but  not 
+
+but  not 
+
+but  not 
+
+but  not 
+
+less  than 
+
+less  than 
+
+less  than 
+
+less  than 
+
+less  than 
+
+less  than 
+
+less  than 
+
+485.0 
+
+500.0 
+
+545.0 
+
+565.0 
+
+585.0 
+
+600.0 
+
+660.0 
+
+N/mm^ 
+
+N/mm^ 
+
+N/mm- 
+
+N/mm'^ 
+
+N/mtn' 
+
+N/mm^ 
+
+N/mm^ 
+
+iv)     "Total  elongation  at  maximum 
+force,  percent, 
+Min  ongauge  length 
+5.65  Vrt,  where  A  is  the  cross- 
+sectional  area  of  the  test  piece 
+{see  3.9) 
+
+"Test  wherever  specified  by  the  purchaser. 
+
+
+IS  1786  :  2008 
+
+
+9.1.3  Notwithstanding  the  provisions  in  9.1.2,  test 
+
+pieces  may  be  subjected  to  artificial  ageing  at  a 
+temperature  not  exceeding  100°C  and  for  a  period  not 
+exceeding  2  h. 
+
+9.1.4  Before  the  test  pieces  are  selected,  the 
+manufacturer  or  supplier  shall  furnish  the  purchaser  or 
+his  authorized  representative  with  copies  of  the  mill 
+records  giving  the  mass  of  bars/wires  in  each  bundle/ 
+cast  with  sizes  as  well  as  the  identification  marks, 
+whereby  the  bars/wires  from  that  cast  can  be  identified. 
+
+9.2  Tensile  Test 
+
+The  tensile  strength,  percentage  elongation,  percentage 
+total  elongation  at  maximum  force  and  0.2  percentproof 
+stress  of  bars/ wires  shall  be  determined  in  accordance 
+with  requirements  of  IS  1608  read  in  conjunction  with 
+IS  2062. 
+
+9.2.1  Alternatively  and  by  agreement  between  the 
+purchaser  and  the  supplier,  for  routine  testmg,  the  proof 
+stress  maybe  determined  in  conjunction  with  the  tensile 
+strength  test  and  may  be  taken  as  the  stress  measured 
+on  the  specimen  whilst  under  load  corresponding  to  an 
+increase  measured  by  an  extensometer  of  0.4  percent 
+for  Fe  415  and  Fe  415D  bars/wires,  0.45  percent  for 
+grade  Fe  500  and  Fe  500D  bars/wires  and  0.47  percent 
+for  grade  Fe  550,  Fe  550D  and  Fe  600  bars/wires  the 
+
+LuiuL  oiicim  uii  o.iij'  vuiiwinwni  gaugv^  luiji^ui.    A  HCn  miS 
+
+
+alternative  is  availed,  the  total  strain  shall  be  measured 
+only  by  extensometer  and  not  by  any  other  means.  In 
+case  of  dispute  the  proof  stress  determined  in  accordance 
+with  IS  1608  shall  be  the  deciding  criteria. 
+
+9.2.2  The  stresses  shall  be  calculated  using  the  effective 
+cross-sectional  area  of  the  bar/wire. 
+
+9.3  Bend  Test 
+
+The  bend  test  shall  be  performed  in  accordance  with 
+the  requirements  of  IS  1599  and  the  mandrel  diameter 
+for  different  grades  shall  be  as  specified  in  Table  4.  The 
+test  piece,  when  cold,  shall  be  doubled  over  the  mandrel 
+by  continuous  pressure  until  the  sides  are  parallel.  The 
+specimen  shall  be  considered  to  have  passed  the  test  if 
+there  is  no  rapture  or  cracks  visible  to  a  person  of  normal 
+or  corrected  vision  on  the  bent  portion. 
+
+9.4  Rebend  Test 
+
+The  test  piece  shall  be  bent  to  an  included  angle  of  135° 
+{see  Fig.  2)  using  a  mandrel  of  appropriate  diameter 
+(see  9.4.1).  The  bent  piece  shall  be  aged  by  keeping  in 
+boiling  water  (100°C)  for  30  min  and  then  allowed  to 
+cool.  The  piece  shall  then  be  bent  back  to  have  an 
+included  angle  of  157/4°.  The  specimen  shall  be 
+considered  to  have  passed  the  test  if  there  is  no  rupture 
+or  cracks  visible  to  a  person  of  normal  or  corrected 
+vision  on  the  rebent  r>ortion. 
+
+
+Table  4  Mandrel  Diameter  for  Bend  Test 
+
+(Clause  9.3) 
+
+
+S!  No, 
+
+Nominal  Sifn 
+
+mm 
+
+(2) 
+
+Mandrel  Diameter  for  Different  Grades 
+
+(1) 
+
+'^e415 
+(3) 
+
+Fe415D       Fe500       FeSOOD       Fe550      Fe550D 
+(4)             (5)             (6)             (7)             (8) 
+
+Fe600"^ 
+(9) 
+
+i)     Up  to  and  including  20 
+ii)     Over  20 
+where  ^  is  the  nominal  size  of  the  test  piece,  in  mm. 
+
+
+2<t> 
+34. 
+
+
+4(i) 
+5* 
+
+
+3* 
+4(i) 
+
+
+54, 
+6(t) 
+
+
+4(|) 
+
+
+9.4.1  The  diameter  of  the  mandrel  shall  be  as  given  below: 
+
+
+SI  No. 
+
+
+(1) 
+
+
+Nominal  Size  of 
+Specimen 
+
+(2) 
+
+
+Dia  of  Mandrel    Dia  of  Mandrel    Dia  of  Mandrel    Dia  of  Mandrel 
+for  Fe  415         forFe415D  forFe550  for  Fe  550D 
+
+and  Fe  500  and  Fe  500D         and  Fe  600 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+i)      Up  to  and  including  10  mm  5  (]) 
+
+ii)      Over  10  mm  7  ^ 
+
+where  (j)  is  the  nominal  size  of  the  test  piece,  in  mm. 
+
+
+4(j) 
+6(t) 
+
+
+n 
+
+8(|) 
+
+
+6(|) 
+7(1, 
+
+
+IS  1786  :  2008 
+
+
+MANDREL 
+
+
+NOMINAL  DIA  OF 
+SPECIMEN  =  <|) 
+
+
+REBEND  TO 
+INCLUDED 
+ANGLE  OF  157.5* 
+
+
+BEND  TO  INCLUDED 
+ANGLE  OF  135' 
+
+
+3-- 
+
+
+NOTE — ej)  Represents  ttie  nominal  size  in  mm  of  the  test  piece. 
+Fig.  2  Rebend  Test 
+
+
+9.5  Retest 
+
+Should  any  one  of  the  test  pieces  first  selected  fail  to 
+pass  any  of  the  tests  specified  in  this  standard,  two 
+flirther  samples  shall  be  selected  for  testing  in  respect 
+of  each  failure.  Should  the  test  pieces  from  both  these 
+additional  samples  pass,  the  material  represented  by  the 
+test  samples  shall  be  deemed  to  comply  with  the 
+requirements  of  that  particular  test.  Should  the  test  piece 
+from  either  of  these  additional  samples  fail,  the  material 
+presented  by  the  samples  shall  be  considered  as  not 
+having  complied  with  this  standard. 
+
+10  ROUTINE  INSPECTION  AND  TESTING 
+
+All  material  shall  be  subjected  to  routine  inspection  and 
+testing  by  the  manufacturer  or  supplier  in  accordance 
+with  this  standard  and  a  record  of  the  test  results  of 
+material  conforming  to  this  standard  shall  be  kept  by 
+the  manufacturer  or  the  supplier.  The  records  shall  be 
+available  for  mspection  by  the  purchaser  or  his 
+representative. 
+
+In  the  case  of  material  delivered  to  a  supplier,  the 
+manufacturer  shall  supply  a  certificate  containing  the 
+results  of  all  the  required  tests  on  samples  taken  from 
+the  delivered  material. 
+
+11  SELECTION  OF  TEST  SPECIMENS 
+
+11,1  For  checking  nominal  mass,  mechanical 
+properties,  bend  test  and  rebend  test,  test  specimen  of 
+sufficient  length  shall  be  cut  from  each  size  of  the 
+tinished  bar/wire  at  random  at  a  frequency  not  less  than 
+that  specified  below: 
+
+
+Nominal  Size 
+
+Qu 
+
+^  For  Casts/ 
+
+antity 
+
+For  Casts/^ 
+
+Heats  Below 
+
+Heats  of 
+
+100  tonnes 
+
+100  tonnes 
+or  More 
+
+For  all  sizes 
+
+2  per  cast 
+
+3  per  cast 
+
+11.2  Bond  Test 
+
+The  frequency  of  bond  test  as  required  in  5.7  shall  be 
+as  agreed  to  between  the  manufacturer  and  the 
+purchaser/testing  authority. 
+
+12  DELIVERY,  INSPECTION  AND  TESTING 
+FACILITIES 
+
+12.1  Unless  otherwise  specified,  general  requirements 
+relating  to  the  supply  of  material,  inspection  and  testing 
+shall  conform  to  IS  1387. 
+
+12.2  No  material  shall  be  dispatched  from  the 
+manufacturer's  or  supplier's  premises  prior  to  its  being 
+certified  by  the  purchaser  or  his  authorized 
+representative  as  having  fulfilled  the  tests  and 
+requirements  laid  down  in  this  standard  except  where 
+the  bundle  containing  the  bars/wTres  is  marked  with  the 
+Standard  Mark  {see  13.4). 
+
+12.3  The  purchaser  or  his  authorized  representative 
+shall  be  at  liberty  to  inspect  and  verify  the  steel  maker 's 
+certificate  of  cast  analysis  at  the  premises  of  the 
+manufacturer  or  the  supplier.  When  the  purchaser 
+requires  an  actual  analysis  of  finished  material,  this  shall 
+be  made  at  a  place  agreed  to  between  the  purchaser  and 
+the  manufacturer  or  the  suppUer. 
+
+
+IS  1786  :  2008 
+
+
+12.4  Manufacturer's  Certificate 
+
+In  the  case  of  bars/wires  which  have  not  been  inspected 
+at  the  manufacturer's  works,  the  manufacturer  or 
+suppher,  as  the  case  may  be,  shall  supply  the  purchaser 
+or  his  authorized  representative  with  the  certificate 
+stating  the  process  of  manufacture  and  also  the  test  sheet 
+signed  by  the  manufacturer  giving  the  result  of  each 
+mechanical  test  applicable  to  the  material  purchased, 
+and  the  chemical  composition,  if  required.  Each  test 
+certificate  shall  indicate  the  number  of  the  cast  to  which 
+it  applies,  corresponding  to  the  number  or  identification 
+mark  to  be  found  on  the  material.  The  test  certificate 
+shall  contain  the  following  information; 
+
+a)  Place  of  manufacture  of  the  reinforcing  steel, 
+
+b)  Nominal  diameter  of  the  steel, 
+
+c)  Grade  of  the  steel, 
+
+d)  Rolled-in  marking  on  the  steel, 
+
+e)  Cast/heat  number, 
+
+f)  Date  of  testing, 
+
+g)  Mass  of  the  tested  lot,  and 
+
+h)  Individual  test  results  for  all  the  properties, 
+
+13    IDENTIFICATION  AND  MARKING 
+
+13.1  The  manufacturer  or  supplier  shall  have  ingots, 
+billets  and  bars  or  bundles  of  bars/wires  marked  in  such 
+
+
+a  way  that  all  fmished  bars/wires  can  be  traced  to  the 
+cast  firom  which  they  were  made.  Every  facility  shall  be 
+given  to  the  purchaser  or  his  authorized  representative 
+for  tracing  the  bars/wires  to  the  cast  fi:om  which  they 
+were  made. 
+
+13.2  For  each  bundle/coil  of  bars/wires  a  tag  shall  be 
+attached  indicating  cast/lot  number,  grade  and  size. 
+
+13.3  All  bars/wires  should  be  identifiable  by  marks/ 
+brands  introduced  during  rolling  which  indicate  the 
+name  of  the  manufacturer  or  their  brand  name. 
+
+13.3.1  Identification  marks  like  brand  name,  trade-mark, 
+etc,  that  are  introduced  during  rolling  shall  be  designed 
+and  located  in  such  a  maimer  that  the  performance  in 
+use  of  the  bar  is  not  affected. 
+
+13.4  BIS  Certification  Marking 
+
+Each  bundle  containing  the  bars/wires  may  also  be 
+suitably  marked  with  the  Standard  Mark  in  which  case 
+
+t-X^A  ^y^*^^^-v-**^A  *acii-  ^^vt^fij-%n4-a  l^\-^n^'\  nlnn  V\^n-9-  *Via  Ci'nv^Ani-A 
+LtlW  l..k^lLW»^lLLV./U  H-ai  VV-lWAliV-CXLi.^   iii-till  U.1^U   MV*"    tJ-'V   VJ  ttVl^VAWl- >J- 
+
+Mark. 
+
+13.4.1  The  use  of  the  Standard  Mark  is  governed  by  the 
+provisions  of  the  Bureau  of  Indian  Standards  Act,  1986 
+and  the  Rules  and  Regulations  made  thereunder.  The 
+details  of  conditions  under  which  a  license  for  the  use 
+of  Standard  Mark  may  be  granted  to  manufacturers  or 
+producers  may  be  obtained  from  the  Bureau  of  Indian 
+
+^*n^ArtfArr 
+
+oiaiiuaius. 
+
+
+IS  1786  :  2008 
+
+
+ANNEX  A 
+
+{Foreword) 
+
+INFORMATION  ON  CONTROLLED  COOLING  PROCESS 
+
+
+A-1  The  processing  of  reinforcing  steel  is  usually 
+through  one  or  combination  of  processes  which  may 
+include  hot  rolling  after  microalloying,  hot  rolling 
+followed  by  controlled  cooling  (TMT  process)  and  hot 
+rolling  followed  by  cold  work. 
+
+Heat  treatment  is  a  thermal  process  undergone  by  the 
+steel  in  the  solid  state.  The  most  common  practice  is 
+finishing  online  heat  treatment  while  rolling,  commonly 
+known  as  thermomechanical  treatment  (TMT)  process. 
+After  leaving  the  last  stand  of  the  rolling  mill,  the  bars 
+are  quenched  (rapidly  cooled)  in  water  from  a  final 
+rolling  temperature  of  about  950°C.  The  quenching  is 
+partial,  only  until  a  surface  layer  has  been  transformed 
+from  austenite  (a  steel  phase  stable  only  at  very  high 
+temperatures)  to  martensite  (stable  at  temperatures 
+below  350°C).  This  controlled  quenching  is  achieved 
+in  one  or  more  online  water  cooling  devices  through 
+which  the  steel  passes  at  a  very  high  speed  before 
+reaching  the  cooling  bed;' 
+
+Because  the  quenching  is  only  partial,  a  part  of  the 
+original  heat  remains  in  die  core  of  the  steel  and,  on  the 
+cooling  bed,  this  heat  migrates  towards  the  surface.  This 
+resuhs  in  an  automatic  self-tempering  process  where 
+the  surface  layer  of  martensite  is  tempered;  this 
+'tempering  temperature'  (or  equalization  temperature) 
+refers  to  the  maximum  temperature  attained  by  the  bar 
+surface  after  quenching.  Tempering  enables  a  partial 
+diffusion  of  carbon  out  of  the  extremely  brittle  but  strong 
+martensite,  thus  relieving  the  inherent  stresses  locked 
+
+
+in  dining  the  sudden  quenching  of  the  red-hot  steel  in 
+cold  water.  The  resulting  tempered-martensite  shows 
+improved  deformability  compared  to  the  as-quenched 
+martensite. 
+
+The  core  of  the  heat  treated  reinforcing  bars/wires 
+consist  of  ferrite  and  perlite  -  more  ductile  but  less 
+strong  than  the  martensite.  Computerized  process 
+control  is  used  to  dynamically  adjust  the  many  rapidly 
+changing  parameters  depending  on  the  chemical 
+composition  of  the  steel,  the  desired  grade  and  size  of 
+the  reinforcing  bar/wire  etc.  For  the  larger  diameters, 
+small  addition  of  microalloys  is  usual. 
+
+Sometimes  it  becomes  necessary  to  determine  if  a 
+narticular  reinforcina  bar/wire,  or  lot,  has  undereone 
+proper  heat  treatment  or  is  only  a  mild  steel  deformed 
+bar.  Because  the  two  cannot  be  distinguished  visually, 
+the  following  field  test  may  be  used  for  purposes  of 
+identification.  A  small  piece  (about  12  mm  long}-  can 
+be  cut  and  the  transverse  face  lightly  ground  flat  on 
+progressively  finer  emery  papers  up  to  '0'  size.  The 
+sample  can  be  macroetched  with  nital  (5  percent  nitric 
+acid  in  alcohol)  at  ambient  tenperature  for  a  few  seconds 
+which  should  then  reveal  a  darker  aimular  region 
+corresponding  to  martensite/bainite  microstructure  and 
+a  lighter  core  region.  However,  this  test  is  not  to  be 
+regarded  as  a  criterion  for  rejection.  The  material 
+conforming  to  the  requirements  of  this  standard  for 
+chemical  and  physical  properties  shall  be  considered 
+
+4._1.1» 
+
+aoucjjiauic. 
+
+
+10 
+
+
+IS  1786  :  2008 
+
+
+ANNEX  B 
+
+(Foreword) 
+
+COMMITTEE  COMPOSITION 
+
+Concrete  Reinforcement  Sectional  Committee,  CED  54 
+
+
+Organization 
+Ministry  of  Shipping,  Road  Transport  and  Highways,  New  Delhi 
+
+Bhilai  Steel  Plant  (SAIL),  Bhilai 
+
+Central  Building  Research  Institute,  Roorkee 
+
+Central  Electrochemical  Research  Institute,  Karaikudi 
+
+Central  Public  Works  Department,  New  Delhi 
+
+Central  Road  Research  Institute,  New  Delhi 
+Central  Water  Commission,  New  Delhi 
+
+Construction  Industry  Development  Corporation  Ltd,  New  Delhi 
+
+Durgapur  Steel  Plant  (SAIL),  Durgapur 
+
+Engincer-in-Chief 's  Branch,  New  Delhi 
+
+Fly  Ash  Utilization  Prograirane  (TDFAC),  New  Delhi 
+
+Gammon  India  Limited,  Mumbai 
+
+Indian  Stainless  Steel  Development  Association,  New  Delhi 
+Institute  of  Steel  Development  and  Growth  (INSDAG),  Kolkata 
+
+Larsen  and  Tbubro  Ltd  (ECC  Division),  Chennai 
+
+MECON  Limited,  Ranchi 
+
+Ministry  of  Shipping,  Road  Transport  &  Highways,  New  Delhi 
+
+National  Council  for  Cement  and  Building  Materials,  Ballabhgarh 
+
+National  Highways  Authority  of  India,  New  Delhi 
+
+National  Metallurgical  Laboratory,  Jamshedpur 
+National  Thermal  Power  Corporation,  New  Delhi 
+Nuclear  Power  Corporation  India  Limited,  Mumbai 
+
+P.S.L.  Limited,  Mumbai 
+
+Rashtriya  Ispat  Nigam  Ltd,  Visakhapatnam 
+
+Research,  Designs  and  Standards  Organization,  Lucknow 
+
+Sardar  Sarovar  Narmada  Nigam,  Gandhinagar 
+
+
+Representative(s) 
+
+Shr]  G.  Sharan  (Chairman) 
+ADG  (Road  Transport) 
+
+Shr]  Jagdish  Singh 
+
+Shrj  D.  B.  Shrivastava  (Alternate) 
+
+Shr]  B.  S.  Gupta 
+
+Dr  B.  Kameshwar  Rao  (Alternate) 
+
+Dr  K.  Kumar 
+
+Shri  K.  Saravakan  (Alternate) 
+
+StffERINTENDING  ENGINEER  (CDO) 
+
+Executive  Engineer  (CDO)  (Alternate) 
+
+Shri  Satander  Kumar 
+
+Director  (HCD-NW&S) 
+
+Director  (HCD-N& W)  (Alternate) 
+
+Shri  P.  R.  Swariw 
+
+Shri  Sunil  Mahajan  (Alternate) 
+
+Shrj  Amitabh  Bhattacharyya 
+
+Shri  R.  S.  Tiwari  (Alternate) 
+
+Brig.  A.  L.  Sandhai, 
+
+Major  K.  C.  Tiwari  (Alternate) 
+
+Dr  Vimal  Kumar 
+
+Cuoi  ^>l7lJ'cop  Math"r  ^Altemais^ 
+
+Shrj  V.  N.  Heggade 
+
+Shri  S.  T.  Bagasrawala  (Alternate) 
+
+Shri  Ramesh  R.  Gopal 
+
+Dr  T.  K.  Bandyopadhyay 
+
+Shri  Aruit  Gima  (Alternate) 
+
+Shri  S.  Kanappan 
+
+Shri  Sthaladipti  Saha  (Alternate) 
+
+Shr]  U.  Chakraborty 
+
+Shri  J,  K.  Jha  (Alternate) 
+
+Shrj  A.  B.  Yadav 
+
+Shri  Satish  Kumar  (Alternate) 
+
+Shri  H.  K.  Julka 
+
+Shrj  V.  V.  Aroha  (Alternate) 
+
+Shri  Ashok  Kumar 
+
+Shri  Karamveer  Sharma  (Alternate) 
+
+Shri  D.  D.  N.  Singh 
+
+Shri  A.  Vuayaraman 
+
+Shri  Y.  T.  Praveenchandra 
+
+Shr!  R.  N.  Sarangi  (Alternate) 
+
+Shrj  R.  K.  Bahri 
+
+Shri  R.  Radhakrishnan  (Alternate) 
+
+Shri  G.  V.  N.  Reddy 
+
+Shri  Ch  Srinivasa  Rao  (Alternate) 
+
+Director  (B&S)  CB  II 
+
+Assistant  Design  Engineer  (B&S)  CS-II  (Alternate) 
+
+Shri  Vivek  P.  Kapadia 
+
+Dr  Mukeshbhai  B.  Joshi  (Alternate) 
+
+
+11 
+
+
+IS  1786  :  2008 
+
+Organization 
+
+SAIL  Research  &  Development  Centre,  Ranchi 
+
+Steel  Re-Rolling  Mills  Association  of  India,  Mandi  Gobindgarh 
+
+Structural  Engineering  Research  Centre,  Chennai 
+
+STUP  Consultants  Limited,  Mumbai 
+
+Tata  Steel  Limited,  Jamshedpur 
+
+Tata  Steel  Ltd  (Wire  Division),  Mumbai 
+
+Torsteel  Research  Foundation  in  India,  Bangalore 
+
+BIS  Directorate  General 
+
+
+Represen  ta  tive(s) 
+
+Shri  Debasis  Mukkewee 
+
+Shri  S.  K.  CtuuDHARY  (Alternate) 
+
+Shri  R.  P.  Bkatia 
+
+Shri  Ranjeev  Bhatia  {Alternate) 
+
+DrN.  Lakshamanan 
+
+Shrj  T.  S.  Krishnamoorthy  (Alternate) 
+
+Shri  C.  R.  Alimchandani 
+
+Shri  S.  G.  Joglekar  (Alternate) 
+
+Shri  Indranil  Chakrabarti 
+
+Shri  Tanmay  Bhattacharyya  (Alternaie) 
+
+Shri  Vipul  Joshi 
+
+Shri  S.  V.  Desai  (Alternate) 
+
+Dr  P.  C.  Chowdhury 
+
+Shri  M.  S.  Sudarshan  (Alternate) 
+
+Shri  A.  K.  Saini,  Scientist  'F'  &  Head  (CED) 
+[Representing  Director  General  (Ex-qfficio)] 
+
+
+Member  Secretary 
+
+Shrimati  Madsiuiuma  Mamiav 
+Scientist  'B'  (CED),  BiS 
+
+
+12 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  established  under  the  Bureau  of  Indian  Standards  Act,  1986  to  promote  harmonious 
+development  of  the  activities  of  standardization,  marking  and  quality  certification  of  goods  and  attending  to 
+connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publications.  No  part  of  these  publications  may  be  reproduced  in  any  form  without 
+the  prior  permission  in  writing  of  BIS.  This  does  not  preclude  the  free  use,  in  course  of  implementing  the  standard, 
+of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade  designations.  Enquiries  relating  to  copyright  be 
+addressed  to  the  Director  (Publications),  BIS. 
+
+Review  of  Indian  Standards 
+
+Amendments  are  issued  to  standards  as  the  need  arises  on  the  basis  of  comments.  Standards  are  also  reviewed 
+periodically;  a  standard  along  with  amendments  is  reaffirmed  when  such  review  indicates  that  no  changes  are 
+needed;  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision.  Users  of  Indian  Standards 
+should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or  edition  by  referring  to  the  latest  issue  of 
+'BIS  Catalogue'  and  'Standards:  Monthly  Additions'. 
+
+This  Indian  Standard  has  been  developed  from  Doc  :  CED  54  (7303). 
+
+Amendments  Issued  Since  Publication 
+
+
+Amendment  No. 
+
+
+Date  of  Issue 
+
+
+Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+
+Headquarters: 
+
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi- 110  002 
+Telephones:  2323  0131,  2323  3375,  2323  9402  fVebsite:  www.bis.org.in 
+
+Regional  Offices  Telephones 
+
+Central 
+
+
+Eastern 
+
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg 
+NEW  DELHI-110  002 
+
+1/14,  C.I.T.  Scheme  VII  M,  V.I.R  Road,  Kanyurgachi 
+KOLKATA-700  054 
+
+
+Northern  :   SCO  335-336,  Sector  34-A,  CHANDIGARH-160  022 
+Southern  :  C.I.T.  Campus,  IV  Cross  Road,  CHENNAI-600  1 13 
+
+
+Western 
+
+
+Branches 
+
+
+Manakalaya,  E9  MIDC,  Marol,  Andheri  (East) 
+MUMBAI-400  093 
+
+
+i  2323  7617 
+I  2323  3841 
+
+f  2337  8499,  2337  8561 
+12337  8626,2337  9120 
+
+f  260  3843 
+I  260  9285 
+
+r  2254  1216,  2254  1442 
+12254  2519,2254  2315 
+
+f  2832  9295,  2832  7858 
+12832  7891,2832  7892 
+
+
+AHMEDABAD.  BANGALORE.  BHOPAL.  BHUBANESHWAR.  COIMBATORE.  FARIDABAD. 
+GHAZIABAD.  GUWAHATI.  HYDERABAD.  JAIPUR.  KANPUR.  LUCKNOW.  NAGPUR. 
+PARWANOO.  PATNA.  PUNE.  RAJKOT.  THIRUVANANTHAPURAM.  VISAKHAPATNAM. 
+
+
+Printed  at  Government  of  India  Press,  Faridabad 
+
+

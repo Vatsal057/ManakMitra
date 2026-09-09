@@ -1,0 +1,632 @@
+*••••••••••*•••• 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 1390 (1983) : Methods for determination of pH value of 
+aqueous extracts of textile materials [TXD 5: Chemical 
+Methods of Test] 
+
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" 
+
+
+
+gyiaf/f/raa^^^:^^ 
+
+
+
+S?St^ * I |>&B5^«%^Na«^ 
+
+
+
+\\V^:5^< 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+ic 
+
+
+
+j^- 
+
+
+
+A 
+
+
+
+
+BLANK PAGE 
+
+
+
+^<*i^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+(Reaffirmed 2004) 
+
+Indian Standard 
+
+Mf^TiTODS FOk 
+
+DFTERMINATION OF pH VALUB OF 
+
+AQLIEOUS tXTRACTS OF TEXTILE MATERIALS 
+
+(First Revision) 
+
+(FlrtL Reprint FEERUAliV 1 ^ES) 
+
+
+
+L5DC 677. Dfe:677. {11^.^7:343. 257.1 
+
+
+
+C- Copyright |9B* 
+
+BL^EtEAi: O^ IVniAN STANDARDS 
+
+WAN'AK BHaVaJV. * liiH-hDUR SH\I[ ZAFAH HARO 
+N£W l>ELEH 11-DOQ: 
+
+^j^ 2 Jfiwary 1954 
+
+
+
+IS : 1390 - 1983 
+
+Indian Standard 
+
+METHODS FOR 
+
+DETERMINATION OF p\i VALUE OF 
+
+AQUEOUS EXTRACTS OF TEXTILE MATERIALS 
+
+(First Revision) 
+
+
+
+Chemical Methods of Test Sectional Committee, TDC 5 
+
+Chairman Reprtseniing 
+
+Dr ( KuMABi ) M. D. Bhavsab The Silk & Art Silk Mills' Research Association, 
+
+Bombay 
+Members 
+
+Shri Jamshed D. Adriakvala The Tata Mills Limited, Bombay 
+
+Db V. G. Agnihotri National Peroxide Limited, Bombay 
+
+Shri R. S. Bajekai. Crescent Dyes & Chemicals Limited, Calcutta 
+
+Shki a. K. Bandopadhyay Ministry of Defence ( DGI ) 
+
+Kumar I L. C. Patel ( AltemaU ) 
+Shri p. K. Basu Directorate General of Supplies & Disposals ( Inspec- 
+
+tion Wing ), New Delhi 
+Shri A. K. SArcAL ( Alternate ) 
+Shri M. L, Behrani Ministry of Defence (R&D) 
+
+Shri S. S. Bagga ( Alternate ) 
+Shri B. V. Bhatt Ahmedabad Manufacturing & Calico Printing Co 
+
+Ltd, Ahmadabad 
+Shri K. G. Shah ( Alternate ) 
+Shri C. Bhattacharya Indian Petrochemicals Corporation Limited, 
+
+Vadodara 
+Shrt D. K. Ghattopadhyay ( Alternate ) 
+Dr D. K. Das National Test House, Calcutta 
+
+Shri N. C. Ghatter.tee ( Alternate ) 
+Shri K. S. Desika^st Office of the Textile Commissioner, Bombay 
+
+Shri M. D. Dixit The Bombay Textile Research Association, Bombay 
+
+Dr A. S. DuTT Indian Jute Industries' Research Association, 
+
+Calcutta 
+Dr B. R. Manjunatha Textiles Committee, Bombay 
+
+Dr ( Smt ) G. R. 
+
+Phalgumani ( Alternate ) 
+Shri Sunil S. Mehta Silk & Art Silk Mills' Association, Bombay 
+
+Dh ( Smt ) U. Nandurkar Wool Research Association, Bombay 
+
+Dr a. N. Pandey Cotton Technological Research Laboratory 
+
+( ICAR ), Bombay 
+Kumari I. G. Bhatt ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 19fi4 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 1390 - 1983 
+
+{ Continued from page 1 ) 
+
+Members Representing 
+
+RefrEskntative Ahmedabad Textile Industry's Research Association, 
+
+Ahmadabad 
+Representative The Bombay Millowner's Association, Bombay 
+
+Repuesentative Development Commissioner for Handlooms, 
+
+New Delhi 
+Shut N. S. Saraiya The Bombay Textile Research Association, Bombay 
+
+Shri S. R. Ananthakbtshna Binny Limited, Madras 
+
+Settv 
+
+Dr M. G. Modak ( Alternate ) 
+Shri Jamnadas K. Shah The Arvind Mills Limited, Ahmadabad 
+
+Shri S. S. Tbivedi Ahmedabad Textile Industry's Research Association, 
+
+Ahmadabad 
+Shri J. N. VoHBA Punjab State Hosiery & Knitwear Development 
+
+Corporation Limited, Chandigarh 
+SttRi P. T. Baiterji ( Alternate ) 
+Shri S. M. Chakraborty, Director General, BIS ( Ex-officio Member ) 
+
+Director ( Tex ) 
+
+Secretary 
+
+Shri M. S. Vekma 
+Assistant Director ( Tex ), BIS 
+
+
+
+Chemical Test Methods Subcommittee, TDC 5:14 
+
+Members 
+Dr V. G. AoNiHOTBi National Peroxide Limited, Bombay 
+
+Shri A. K. Bandopadhyay Ministry of Defence ( DGI ) 
+
+Kumar I L. C. Patel ( Alternate ) 
+Shri K. S. Desikak Office of the Textile Commissioner, Bombay 
+
+Director ( Laboratory ) Textiles Committee, Bombay 
+
+Dr ( Smt ) G. R. Phai>o-umani ( Alternate ) 
+Dr S. N. Ghose Indian Jute Industries' Research Association, Calcutta 
+
+Dtt K. P. Das ( Alternate ) 
+Dr ( Smt ) U. NAKDtTRKAR Wool Research Association, Bombay 
+
+Shrimati G. p. Rank ( Alternate ) 
+Represektative Ahmedabad Textile Industry's Research Association, 
+
+Ahmadabad 
+Representative The Hindoostan Spg & VVvg Mills Ltd, Bombay 
+
+Shri N, S. Saraiya The Bombay Textile Research Association, Bombay 
+
+Shri Jamnadas K. Shah Raipur Manufacturing Co Ltd, Ahmadabad 
+
+Shri Ishwarbhai M. Patel ( Alternate ) 
+Shri K. S. Tarapouewala The Silk & Art Silk Mills' Research Association, 
+
+Bombay 
+
+
+
+IS : 1390 - 1983 
+
+Indian Standard 
+
+METHODS FOR 
+
+DETERMINATION OF pU VALUE OF 
+
+AQUEOUS EXTRACTS OF TEXTILE MATERIALS 
+
+(First Revision) 
+
+0. FOREWORD 
+
+0«l This Indian Standard ( First Revision ) was adopted by the Indian 
+Standards Institution on 31 October 1983, after the draft finalized by 
+the Chemical Methods of Test Sectional Committee had been approved 
+by the Textile Division Council. 
+
+0.2 This standard first published in 1961, has been revised to align it 
+with ISO 3071-1980 'Textiles — Determination of />H of the aqueous 
+extracts' issued by the International Organization for Standardization. 
+
+0.3 The pH of aqueous extract of the textiles affords a useful index to 
+its processing history. In addition, it is becoming more common to 
+demand that the textile, in its various forms, shall conform to certain 
+limits in respect of its acidity or-alkalinity, often expressed in terms of 
+pH values of aqueous extracts. The values obtained for the pK of the 
+aqueous extract of samples of textiles, by the methods specified in this 
+standard, should not be used to give quantitative estimate of the acidity 
+or alkalinity of the textile. Such an interpretation may be misleading, 
+particularly for />H values less than 3 or greater than 11. 
+
+
+
+1. SCOPE 
+
+1.1 This standard prescribes methods for determination of /iH value 
+of aqueous extracts of textiles. The methods are applicable to textile 
+in any form ( fibres, yarns or fabrics ) provided, that a small representa- 
+tive sample may be obtained which is in or may be reduced to, a form 
+which permits a ready exchange of liquid between the interior of the 
+material and the water used in preparing the extract. 
+
+1.2 Two methods of preparation of aqueous extracts have been 
+prescribed in this standard. For kier-boiled or scoured and bleached 
+textile materials which have not been finished, pH values of aqueous 
+
+
+
+IS : 1390 - 1983 
+
+extracts prepared by the cold method and by the hot method would be 
+the same. Hence any one of the methods may be followed. However, 
+for finished or proofed fabrics the two vakies may differ depending upon 
+the nature of tinish or proofing of the fabrics; in such cases pH values of 
+cold extract as well as hot extract should be separately determined. 
+
+2. PRINCIPLE 
+
+2.1 A specimen of the material under test is extracted with •distilled 
+or deionized water and the pH of the aqueous extract is determined 
+electrometrically with the use of glass electrodes. 
+
+3. SAMPLING 
+
+3.1 Sample to determine ths conformity of a lot to a specification shall 
+be selected so as to be representative of the lot. 
+
+3.2 Sample drawn in compliance with an agreement between the buyer 
+and the seller to evaluate pH value of the aqueous extract o£ the textile 
+material shall be held to be representative of the lot. 
+
+4. PREPARATION OF TEST SPECIMENS 
+
+4.1 Take a laboratory sample representative of the bulk of the material 
+and sufficient to provide all the test specimens required. Cut the 
+laboratory test sample into pieces approximately 5 mm size or of dimen- 
+sions such that the test samples will rapidly wet out. Manipulate the 
+material as little as possible. 
+
+5. CONDITIONING OF TEST SAMPLE 
+
+5.1 Prior to test, the test sample shall be conditioned to moisture 
+equilibrium in a standard atmosphere at 65 ± 2 percent relative 
+humidity and 27 ± 2''C temperature ( see IS : 6359-1971* ). 
+
+6. APPARATUS 
+
+6.1 Glass Stoppered Flasks — made of chemically resistant glass for 
+preparation of the aqueous extract. 
+
+6.2 Mechanical Shaker — providing a to and fro movement at a 
+rate of 60 per minute or a rotational frequency of 30 per minute. 
+
+6.3 pH Meter — graduated in 01 unit of pH and with suitable 
+electrode system. 
+
+6.4 Beakers — made of chemically resistant glass of capacity 250 ml. 
+
+6.5 Balance — accurate to 0'05 g. 
+
+
+
+•Method for conditioning of textiles. 
+
+4 
+
+
+
+tS : 1390 - 1983 
+
+6.6 Erlenmeyer Flask — made of chemicaUy resistant glass and of 
+250 ml capacity fitted with a glass stopper. 
+
+6.7 Reflux Condenser 
+
+7. REAGENTS 
+
+7.1 Distilled or Deionlzed Water — having a pH between 6'5 and 
+70 and maximum conductivity of 2 X 10"^ S/cm* at 27 ± 2*G. 
+
+7.2 Buffer Solutions — of /H similar to that being determ.ined, for 
+standardization of pH meter before measurement. The solutions 
+recommended are given in 7.2.1 and 7*2*2. 
+
+7,2.1 Primary Standard — potassium hydrogen phthalate ( HOOC.Ce 
+H4 COOK ), 0-05 moJ/1, pB. 4-00 ^t 15°C, 4 001 at 20 ^C, 4 005 at 25°G 
+and 4-011 at 30°C. 
+
+7*2.2 Secondary Standard — disodium tetraborate decahydrate, 
+( NasB^OT'lGHgO ) 0-05 mol/1, I, />H 9*28 at lO'G, 9-21 at 20X, 9*13 at 
+30°C and 9-06 at 40°G. 
+
+8* PROCEDURE 
+
+8.1 Preparation of the Aqueous Extract 
+
+8.1.1 Cold Method — Prepare the extract in triplicate at the tempera- 
+ture of laboratory ( which shall be recorded ) by taking a test specimen 
+weighing 2 ±0*05 g and 100 ml of the distilled or deionlfeed water 
+( see 7.1 ) into a stoppered glass flask ( 6.1 ). Agitate the flask for 
+20-30 min by hand to ensure that the specinnen i? properly wetted out, 
+then shake it mechanically for 20-30 minutes ( see 6.2 ). 
+
+8.1.2 Hot Method — Rinse the Erlenmeyer flask with distilled or deioniz- 
+ed water. Take one test specimen weighing 2 ± 0"05 g and add to this 
+100 ml of distilled or deionized water. Boil the contents for one hour 
+under reflux condenser. Stopper the flask and cool the contents to room 
+temperature. 
+
+8.2 Measurement of ;»H of Aqueous Extract — Follow the pro- 
+cedure specified in either 8.2.1 or 8.2.2. If electrode systems other than 
+those specified below are used, take similar precautions. Carry out each 
+test at the same tem.perature which should be near the ambient tempera- 
+ture, avoiding any increase in temperature greater than S^'G. 
+
+8.2.1 Procedure Using a Morton Cell Type Electrode System 
+
+8*2.1.1 Standardize the meter at the temperature of the extract to 
+be measured ( see 7,2 ). 
+
+
+
+*Siemens per centimetre. 
+
+
+
+IS s 1390 - 1983 
+
+8.2.1.2 Wash the cell several times with distilled water until the 
+indicated pH no longer changes. This requires a considerable volume of 
+distilled water. 
+
+8.2.1.3 Pour into the cell sufficient of the first extract to cover the 
+bulb of the glass electrode. Re-stopper the flask. Allow the cell to stand 
+for 3 min. Read the pH value. Drain the cell and pour in a new portion 
+of the same extract. Re-stopper the flask. Allow the cell to stand for 
+1 min and read the ^H. Repeat these operations until the indicated pH 
+reaches its extreme steady value. Discard the first extract. 
+
+8.2.1*4 Without washing out the cell, pour in a sufficient quantity 
+of the second extract to cover the bulb of the glass electrode. Read the 
+/»H immediately. Drain the cell and introduce a new portion of the 
+extract. Read the pH value again. Repeat these operations until the 
+indicated pH attains its extreme steady value. 
+
+8.2.1.5 Record this value to the nearest 0' I unit of j&H. Discard 
+the extract. 
+
+Note — For an alkaline extract ( />H value greater than?), the highest steady 
+pH. indicated is recorded as the pH value of the extract and for acid extract 
+( pH value less than 7 ) the lowest steady pH indicated is recorded as the pH value of 
+the extract. This is referred to as the 'extreme steady value'. 
+
+8.2.1.6 Determine the pH of the third extract using the above 
+procedure without rinsing the cell. 
+
+8.2.1.7 The pH values of the second and third extracts are recorded 
+as duplicate determination. 
+
+8.2.2 Procedure Using a Dipping Electrode System 
+
+8.2.2.1 Standardize the meter at the temperature of the extract to be 
+measured ( see 7.2 ). 
+
+8.2.2.2 Wash the electrodes until the indicated pH value changes by 
+not more than 0*05 in 5 min. If this cannot be realised, replace the glass 
+and/or reference electrodes. 
+
+8.2.2.3 Decant the first extract, with the exclusion of the textile 
+material, into a beaker ( 6.4 ). Immediately immerse the electrodes to a 
+depth of at least 1 cm and stir very gently with a glass rod until the pH 
+attains its extreme steady value ( see Note under 8.2.1.5 ). 
+
+8.2.2.4 Decant the second extract into a beaker. Transfer the elec- 
+trodes, without washing, into the second beaker, lowering them gently to 
+a depth of at least 1 cm and allow to stand without stirring until the 
+pH attains its extreme steady value. Record this value to the nearest 
+O'l unit of pH ( see Note under 8.2.1.5 ). 
+
+
+
+IS : 1390 . 1983 
+
+8.2.2.3 Decant the third extract in another beaker and transfer the 
+electrodes to this beaker, again without washing. Determine the pH 
+value as described above. 
+
+8.2.2.6 The pH values of the second and third extracts are recorded 
+as duplicate determinations. 
+
+9. CALCULATION AND EXPRESSION OF RESULTS 
+
+9.1 Give the values obtained for the second and third extracts as 'first 
+and second measurements'. 
+
+9.2 Calculate their mean to the nearest 0*05 unit of /jH. 
+
+10. INDEX OF DIFFERENCE 
+
+10.1 If the value of the pH measured is less than 3 or greater than 9 
+determine the index of difference as follows: 
+
+a) Introduce 10 ml of the prepared aqueous extract into a beaker 
+( 6.4 ) and add 90 ml of distilled or deionized water ( 7.1 ). 
+
+b) Measure the /)H of the solution to 0"1 unit of pH following the 
+procedures specified in 8.2.1 or 8.2.2. 
+
+c) The difference between the /)H of the aqueous extract prepared 
+
+as in 8,1 and that of the dilution to 1/10 is the index of 
+difference. 
+
+10.2 This index of difference, which should never be greater than unity, 
+is. especially high when the textile contains strong acids or strong bases 
+and these are not buffered by weak acids or weak bases. 
+
+n. TEST REPORT 
+
+The test report shall include the following information: 
+
+a) Reference to this Indian Standard; 
+
+b) Hot method or cold method; 
+
+c) Type of electrodes used; 
+
+d) The pH of the distilled water used; 
+
+e) The temperature of the laboratory; 
+
+f ) The results obtained, expressed in the form indicated in 9; 
+
+g) If necessary, the index of difference ( see 10 ); and 
+
+h) Any factor likely to have an effect on the results, including any 
+resistance to wetting out of the specimen, 
+
+7 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Manak Bha^fifl. i flihodur Shlh Zl<*r Mar^. «£W OELHI T1O0O2 
+TelephooM : 3 31 Dl 31 . S 31 13 75 Teltgr^ma : MBfiaksansin* 
+
+*Wpttirn J JMinakal^yi. 19 MIDC, M*rcH. Andhffri [ Enii 3, B 33 "SZ &S 
+
+EOM&AY 400093 
+
+fEftSEftrn E T/l-l C I. T. Sch*mi V1I M. V- 1. ^ Flo*d. 3fi 2^ 99 
+
+ManjktDlfl, WLCUTtA 70DD54 
+NgEihfcrn i SCO 4<S-446r Sfc[df 35- C /Z 1fl 43 
+
+CHflJMDlGARH 160036 \3 1G il 
+
+£DutH[Hii i Q. \.r. tnmpus. WAORAS SM1 13 fill 2d i 5 
+
+i 41 2S 1 9 
+1,41 29 1* 
+
+PuBJnoak." |Vu™nciJiaffl*<i Shiikh Who. Kh*h&«^. /2 sa. 4B 
+
+AH M AD Ai AO 35*001 \2 63 i^ 
+
+■f BE^-H^k. UnLtv BIdg. N^r^xiinhirfrja £gLiirt. 22 48 05 
+
+BimtO ALOnE 560M2 
+Gangotrp Complix. Sth FImp. gh^dbtuiii Rfl^d. T. T. Ma^if, e- 2? le 
+
+BHOPAL 462003 
+
+Plo! N D. BZ-'Oa . Lrwis flvad, 9 HUB AN E6 H WAR 75 1 002 Q 56 2? 
+
+fi3fS Ward No. 23. R. G. Bjrufl Rojdr _ 
+
+&th BvBlaiH. H^UWaHaTi 7B1003 
+
+5-E"5AC 1_ N- Cup^p Marg. (NaAipAliv SlAEIOin RfiJCl^ 2^ 10 ^ 
+
+HYDERABAO 5O0OD1 
+
+Rl i VudKisttrr M«r#,. C SchAmA, JAIPUR 30^005 /& 34 71 
+
+1 V7i41 6B SiEV0Cl4Vt NAair, KANPUR 20BD05 /21 ^B ?5 
+
+\21 82 9 Z 
+
+P^tlip-utre Indus^ifF fltif a. PAIT^A SOOQI 3 E 25 05 
+
+Hjnt«^ BLda <f 2imJ Fl&or J, fltv St4lian Hasd. S2 27 
+
+TRiVAN DRUM 695001 
+
+Jnj^^ecrjOiT Offiue i With £>l« PDini J: 
+
+Inslitutjqn f^i En^iAft^^a { India ) BulklinOr 13^2 ^iiivaji Hms^r, i 2d 35 
+PUN E 41 CMS 
+
+
+
+K^prgfrap^ Unitp lISp ttew Delbl, India 
+
+
+

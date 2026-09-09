@@ -1,0 +1,2391 @@
+•*****••*•••***• 
+
+
+
+* i&$z 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 4201 (1983) : Application Guide for Current Transformer 
+[ETD 34: Instrument Transformers] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+:^a^ \ I *7SS^X^^^> 
+
+
+
+>&mix&* 
+
+
+
+[SS^t I I>S£>!^n>» 
+
+
+
+<^CVVV^W 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge " y^/-' 
+
+
+
+^ 
+
+
+
+**±J0> 
+
+
+
+% 
+
+
+
+Bhartrhari — Nltisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+• 
+
+
+
+* 
+
+
+
+• 
+
+
+
+BLANK PAGE 
+
+
+
+
+<_<**££ 
+
+
+
+
+*£j> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 4201 - 1983 
+( Reaffirmed 2001 ) 
+
+
+
+Indian Standard 
+
+APPLICATION GUIDE FOR 
+CURRENT TRANSFORMER 
+
+(First Revision) 
+
+
+
+Third Reprint APRIL 1997 
+UDC 621.314.222.6(026) 
+
+
+
+© Copyright 1983 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr 6 September 1983 
+
+
+
+IS : 4201 • 1983 
+
+Indian Standard 
+
+APPLICATION GUIDE FOR 
+CURRENT TRANSFORMER 
+
+
+
+(First Revision) 
+
+
+
+Instrument Transformers Sectional Committee, ETDC 34 
+
+Chairman Representing 
+
+Shbi J. S. Negi Jyoti Ltd, Vadodara 
+
+Members 
+
+Shri V. B. Dbsai ( Alternate to 
+ShriJ. S. Negi) 
+Shbi C. D. Bagul Siemens India Ltd, Bombay 
+
+Shri S. M. Kklkar ( Alternate ) 
+Shbi A. K. Babman The Calcutta Electric Supply Corporation Ltd, 
+
+Calcutta 
+Shri K. C. Bhattacharyya (Alternate) 
+Shbi V. K. Batra National Physical Laboratory ( CSIR ), New Delhi 
+
+Shri V. N. Sharma ( Alternate ) 
+Shbi A. C. Bedekar Madhya Pradesh Electricity Board, Jabalpur 
+
+Shbi J. J. Daruwala All India Instruments Manufacturers and Dealers' 
+
+Association, Bombay 
+Shri C. P. Sood ( Alternate I ) 
+Shri O. P. Puri ( Alternate II ) 
+Shri P. S. Desbmuxh Maharashtra State Electricity Board, Bombay 
+
+Shri S. G. Kashi ( Alternate ) 
+Director ( Protection & Instru- Central Electricity Authority, New Delhi 
+mentation ) 
+Deputy Director ( Protection 
+& Instrumentation ) (Alternate ) 
+Shbi N. D. Gadgil Gujarat Electiicity Board, Vadodara 
+
+Shbi K. L. Garg Inspection Wing, Directorate General of Supplies 
+
+& Disposals, New Delhi 
+Shbi R. P. Sehgal ( Alternate ) 
+Shbi S. D. Jinsiwale Silkaans, Bombay 
+
+Shbi S. R. Alurkar ( Alternate ) 
+Joint Dibectob ( TI )-2 Research Designs & Standards Organization 
+
+( Ministry of Railways ), Lucknow 
+Deputy Director ( TI )-3 ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1983 
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Cofyright Act ( XIV of 1957) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS 14201 -1983 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri R. N. Kharshingkar Tata Consulting Engineers, Bombay 
+
+Shri R. C. Bajpai ( Alternate ) 
+Shri S. K. Lamba Voltas Ltd, Thane 
+
+Shri E.J. Mahableshwarwalla The Bombay Electric Supply and Transport 
+
+Undertaking, Bombay 
+
+Shri K. G. Mohanraj ( Alternate ) 
+Shri M. B. Mehta Tata Hydro-Electric Power Supply Co Ltd, 
+
+Bombay 
+
+Shbi S. Doraiswamy ( Alternate ) 
+Shbi V. V. Moogi Crompton Greaves Ltd, Bombay 
+
+Shbi A. K. Govil ( Alternate ) 
+Shbi R. Natarajan Central Public Works Department, New Delhi 
+
+Surveyor ov Works 
+( Electrical ) -I (Alternate) 
+ShbI N. Nath The English Electric Co of India Ltd, Madras 
+
+Shri R. Sttbramaniam ( Alternate ) 
+Shri P. U. Patwardhan Prayog Electricals Pvt Ltd, Bombay 
+
+Shbi A. V. Narke ( Alternate ) 
+Shbi O. P. Puri Automatic Electric Ltd, Bombay 
+
+Shri S. V. Karkhanis ( Alternate ) 
+Shbi P. S. Satnam Punjab State Electricity Board, Patiak 
+
+Shbi B. S. Sharma U. P. State Electricity Board, Lucknow 
+
+Shbi D. Subyanabayana Bharat Heavy Electricals Ltd, New Delhi 
+
+Shri A. V. Soman (Alternate I ) 
+
+Shbi H. S. Valia ( Alternate II ) 
+Shbi N. Thy agar a j an Tamil Nadu Electricity Board, Madras 
+
+Shbi S. K. Ramasubramanian 
+( Alternate ) 
+Shbi J. M. Udia Directorate General of Technical Development, 
+
+N«w Delhi 
+
+Shbi L. Gopala Kbishna ( Alternate ) 
+Shri B. K. Venkatesh Karnataka Electricity Board, Bangalore 
+
+Shri S. P. Sachdev, Director General, ISI ( Ex-qfficio Member ) 
+
+Director ( Elec tech ) 
+
+Secretary 
+
+Shri Sukh Bir Singh 
+Assistant Director ( Elec tech ), ISI 
+
+
+
+IS : 4201 - 1983 
+
+Indian Standard 
+
+APPLICATION GUIDE FOR 
+CURRENT TRANSFORMER 
+
+( First Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( First Revision ) was adopted by the Indian 
+Standards Institution on 28 April 1983, after the draft finalized by the 
+Instrument Transformers Sectional Committee had been approved by the 
+Electrotechnical Division Council. 
+
+0.2 This standard was first published in 1967. This revision has been 
+undertaken to upgrade the requirements that are necessary in view of the 
+revision of the Indian Standards on current transformers. 
+
+03 This application guide is divided into four sections. Section 1 deals 
+with general requirements regarding application of current transformers 
+while Sections 2, 3 and 4 deal with special requirements regarding applic- 
+ation of current transformers for use with measuring instruments and 
+meters, with protective devices and for dual purpose ( both for measure- 
+ment and protection ) respectively. 
+
+0.4 This standard is closely associated with and hence should be read 
+along with IS : 2705 ( Part 1 )-1981*, IS : 2705 ( Part 2 J-1981*, IS : 2705 
+( Part 3 )-1981* and IS : 2705 ( Part 4 )-1981*. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expres- 
+sing the result of a test, shall be rounded off in accordance with IS : 2-1960f. 
+The number of significant places retained in the rounded off value should 
+be the same as that of the specified value in this standard. 
+
+
+
+♦Specification for current transformers : 
+
+Part 1 General requirements ( first revision ) . 
+
+Part 2 Measuring current transformer ( first revision ). 
+
+Part 3 Protective current transformer {first revision ). 
+
+Part 4 Protective current transformers for special purpose application (first 
+revision ). 
+fRules for rounding off numerical values ( revised ). 
+
+
+
+18 t 4201 - 1983 
+
+1. SCOPE 
+
+1.1 This guide covers application of current transformers for use with both 
+electrical measuring instruments and meters ( measuring current transfor- 
+mers ) and electrical protective devices in non-balanced protected equip- 
+ment, for example, for the operation of overcurrent devices both of the 
+non-directional and directional types and for the operation of earth fault 
+devices with time-lag characteristics ( protective current transformer ). 
+
+1.1. 1 Reference has been made to the use of current transformers for 
+the dual purpose of measurement and protection and also for the operation 
+of those protective devices which are more precisely dependent upon the 
+magnitude and phase relationship of voltage and current, or upon the 
+balance of the current. 
+
+1.2 This guide does not cover application of special purpose current trans- 
+former. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this guide, the following definition, in addition to 
+those given in IS : 2705 ( Part 1 )-l98l*, IS : 2705 ( Part 2 )-1981*, 
+IS : 2705 ( Part 3 )-1931* and IS : 2705 ( Part 4 )-1981* shall apply. 
+
+2.1 Short-Time Factor ( STF ) — The ratio of the rated short time 
+thermal current to the rated primary current. 
+
+
+
+SECTION 1 GENERAL 
+
+3. RATED CONTINUOUS THERMAL CURRENT 
+
+3.1 The maximum permissible temperature rise of a current transformer, 
+carrying its rated continuous thermal current is given in Table 1 of 
+IS : 2705 ( Part 1 )-1981*. Unless otherwise specified, the rated contin- 
+uous thermal current is equal to the rated primary current. It should, 
+therefore, be noted that normally current transformers have no continuous 
+over-current rating. When selecting a current transformer, therefore, the 
+rated primary current should be so chosen as to make it suitable for all but 
+the momentary oVer-current that will occur in service. Where intermittent 
+over-currents are frequent and severe, the manufacturer should be consulted 
+as to a suitable current rating. 
+
+•Specification for current transformers: 
+
+Part 1 General requirements {first revision )• 
+Part 2 Measuring current transformers {first revision ). 
+Part 3 Protective current transformers {first revision). 
+
+Part 4 Protective current transformers for special purpose application {first 
+revision ) . 
+
+
+
+18:4201-1983 
+
+Note — Attention is drawn to the fact that the rated continuous thermal current 
+o| a current transformer may not be related to the rating of other associated equip- 
+ment that 1s circuit breaker. 
+
+4. SHORT-TIME THERMAL CURRENT AND ITS DURATION 
+
+4.1 When determining the short- time current rating of a current trans- 
+former two factors have to be considered, one is the electromagnetic forces 
+set up tending to damage the transformer mechanically, and the other the 
+thermal effects tending to overheat the windings. The electromagnetic 
+forces produced under short-time current conditions are largely indepen- 
+dent of time, being determined by the highest peak value of the short-time 
+current, the number of turns in the primary winding and the configuration 
+of the coil. The forces experienced are less when the primary winding has 
+the least number of turns. 
+
+4.2 Thermal effects depend on the rated short-time thermal current, its 
+duration and the insulation media. The conditions for satisfactory opera- 
+tion are detailed in 7,7 of IS : 2705 (Part 1 )-1981*. Bar-primaries of 
+current transformers do not normally present any problems, heavy over- 
+currents for periods of three seconds being readily withstood. 
+
+4*3 The rated dynamic current being in turn dependent on the rated 
+short-time thermal current, it is desirable that purchasers should inform 
+the manufacturer regarding the magnitude and duration of the short-time 
+thermal current to be withstood. The value of short-time thermal current 
+should preferably be ascertained from the actual short-circuit level of the 
+system at the point of installation of the current transformer. Alternatively, 
+the short-time thermal current should be determined from the consideration 
+of the rated symmetrical breaking capacity of the circuit breaker with 
+which the current transformer will be employed. 
+
+4.4 It should be borne in mind that lower the class of accuracy and 
+smaller the rated output and the accuracy limit factor, the stronger the 
+transformer can be riia^e mechanically and as will be seen from the Tables 
+1 and 2, the higher may be its short-time current. The higher the rated 
+output, accuracy and short-time current called for, the larger will be 
+transformer and the construction will be more difficult and costly. 
+
+Tables 1 and 2 show the short-time factors normally obtainable 
+economically, corresponding to rated output, accuracy class and rated time 
+of short-time current for wound-primary current transformers. 
+
+Bar primary transformer with a higher rated primary current should 
+be selected if the short time factors are higher than the values indicated 
+in Tables 1 and 2. 
+
+'Specification for current transformers : Part 1 General requirements (first revision ). 
+
+
+
+IS: 4201- 1983 
+
+
+
+TABLE t MAXIMUM SHORT-TIME FACTORS OBTAINABLE ECONOMI- 
+CALLY, CORRESPONDING TO RATED OUTPUT, ACCURACY CLASS, 
+ACCURACY LIMIT FACTOR AND RATED TIME FOR WOUND- 
+PRIMARY MEASURING CURRENT TRANSFORMERS 
+
+{ Clause 4.4 ) 
+
+Accuracy Rated Output VA Short Time Factors Obtainable 
+
+Corresponding to Rated Times Below 
+
+
+
+(1) 
+
+
+
+0*1 
+
+
+
+02 
+
+
+
+05 
+
+
+
+
+
+t — ' 
+
+0*5 sec 
+
+
+l'O sec 
+
+
+3*0 sec 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+5 
+
+
+325 
+
+
+225 
+
+
+125 
+
+
+10 
+
+
+200 
+
+
+125 
+
+
+75 
+
+
+15 
+
+
+150 
+
+
+100 
+
+
+60 
+
+
+30 
+
+
+85 
+
+
+60 
+
+
+35 
+
+
+5 
+
+
+500 
+
+
+350 
+
+
+200 
+
+
+10 
+
+
+325 
+
+
+250 
+
+
+135 
+
+
+15 
+
+
+275 
+
+
+200 
+
+
+110 
+
+
+30 
+
+
+150 
+
+
+100 
+
+
+60 
+
+
+5 
+
+
+750 
+
+
+525 
+
+
+300 
+
+
+10 
+
+
+500 
+
+
+350 
+
+
+200 
+
+
+15 
+
+
+375 
+
+
+275 
+
+
+150 
+
+
+30 
+
+
+200 
+
+
+125 
+
+
+75 
+
+
+5 
+
+
+1000 
+
+
+700 
+
+
+400 
+
+
+10 
+
+
+675 
+
+
+475 
+
+
+275 
+
+
+15 
+
+
+500 
+
+
+350 
+
+
+200 
+
+
+30 
+
+
+275 
+
+
+200 
+
+
+110 
+
+
+5 
+
+
+1000 
+
+
+700 
+
+
+400 
+
+
+10 
+
+
+675 
+
+
+475 
+
+
+275 
+
+
+15 
+
+
+500 
+
+
+350 
+
+
+200 
+
+
+30 
+
+
+275 
+
+
+200 
+
+
+110 
+
+
+5 
+
+
+1000 
+
+
+700 
+
+
+400 
+
+
+10 
+
+
+675 
+
+
+475 
+
+
+275 
+
+
+15 
+
+
+500 
+
+
+350 
+
+
+200 
+
+
+30 
+
+
+.275 
+
+
+200 
+
+
+110 
+
+
+
+IS i 4201 - 1983 
+
+
+
+TA&LE 2 MAXIMUM SHORT-TIME FACTORS OBTAINABLE ECONOMI- 
+CALLY, CORRESPONDING TO RATED OUTPUT, ACCURACY CLASS, 
+ACCURACY LIMIT FACTOR AND RATED TIME FOR WOUND- 
+PRIMARY PROTECTIVE CURRENT TRANSFORMERS 
+
+
+
+
+
+
+
+( Clause 4.4 ) 
+
+
+
+
+
+
+Accuracy 
+
+Class 
+
+
+Rated Output V A 
+
+
+Short. Time Factors Obtainable 
+
+Corresponding to Rated 
+
+Tikes Below 
+
+
+
+
+0'5 Sec 
+
+
+1-0 Sec 
+
+
+3*0 Sec 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+5P5 
+
+
+5 
+10 
+15 
+30 
+
+
+550 
+375 
+275 
+125 
+
+
+400 
+275 
+200 
+75 r 
+
+
+225 
+
+150 
+
+110 
+
+50 
+
+
+5P10 
+
+
+5 
+
+10 
+15 
+
+
+375 
+225 
+150 
+
+
+275 
+150 
+100 
+
+
+150 
+90 
+60 
+
+
+
+
+30 
+
+
+— 
+
+
+— 
+
+
+— 
+
+
+5P15 
+
+
+5 
+10 
+15 
+30 
+
+
+275 
+150 
+85 
+
+
+200 
+100 
+60 
+
+
+110 
+60 
+35 
+
+
+5P20 
+
+
+5 
+
+10 
+
+
+200 
+100 
+
+
+125 
+
+75 
+
+
+75 
+40 
+
+
+
+
+15 
+
+
+— 
+
+
+— 
+
+
+— 
+
+
+
+
+30 
+
+
+— 
+
+
+— 
+
+
+— 
+
+
+5P30 
+
+
+5 
+10 
+15 
+30 
+
+
+125 
+
+
+75 
+
+
+50 
+
+
+
+
+— 
+
+
+— 
+
+
+— 
+
+
+10P5 
+
+
+5 
+10 
+15 
+30 
+
+
+750 
+425 
+375 
+150 
+
+
+525 
+300 
+275 
+100 
+
+
+300 
+
+175 
+
+150 
+
+60 
+
+
+10P10 
+
+
+5 
+10 
+15 
+30 
+
+
+425 
+275 
+200 
+
+
+300 
+200 
+125 
+
+
+175 
+
+110 
+
+75 
+
+
+10P20 
+
+
+5 
+10 
+15 
+
+
+275 
+125 
+85 
+
+
+200 
+75 
+60 
+
+
+110 
+50 
+35 
+
+
+
+
+30 
+
+
+.— 
+
+
+— 
+
+
+— 
+
+
+10P30 
+
+
+5 
+10 
+
+
+150 
+85 
+
+
+100 
+60 
+
+
+60 
+35 
+
+
+
+
+15 
+
+
+— 
+
+
+. — 
+
+
+— 
+
+
+
+
+30 
+
+
+— 
+
+
+~ ■ — 
+
+
+""™ 
+
+
+
+IS : 4201 - 1983 
+
+4.5 Maximum VA Output of Bar-primary and Bushing Cttfrent 
+Transformers — The maximum output at which a current transforms will 
+give a certain class of accuracy is dependent upon its ampere-turns at 
+rated primary current and there is thus an upper limit to the rated output 
+to be expected from a bar-primary or bushing current transformer depen- 
+dent upon its rated primary current. 
+
+Table 3 gives the maximum output normally practicable for bar- 
+primary or bushing current transformers of various accuracy classes and 
+rated primary currents. The table is based on the assumption that the 
+diameter of the bushing insulator over which the core and secondary 
+windings are to be threaded does not exceed 90 mm. The figure may 
+therefore be taken as applying to normal insulators for circuits up to 33 
+kV where the space available is adequate. If, however, the diameter of 
+the bushing insulator exceeds 90 mm or the space available is inadequate 
+it will be necessary for the burden to be reduced or for the permissible 
+errors to be increased. 
+
+TABLE 3 RELATIONSHIP BETWEEN NORMAL PRACTICAL OUTPUT AND 
+
+RATED PRIMARY CURENT OF BAR-PRIMARY AND BUSHING 
+
+CURRENT TRANSFORMERS 
+
+B atkd Primary Current ( Amperes ) 
+
+
+
+Type 
+
+
+Class 
+
+
+60 
+
+
+75 
+
+
+100 
+
+
+150 
+
+
+*, . 
+
+200 
+
+
+300 
+
+
+400 
+
+
+500 
+
+
+
+
+
+
+VA 
+
+
+VA 
+
+
+VA 
+
+
+VA 
+
+
+VA 
+
+
+VA 
+
+
+VA 
+
+
+VA 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+m 
+
+
+(8) 
+
+
+(9) 
+
+
+(10) 
+
+
+
+
+o-i 
+
+
+
+
+
+
+
+
+
+
+2'5 
+
+
+5 
+
+
+10 
+
+
+15 
+
+
+
+
+0-2 
+
+
+
+
+
+
+
+
+25 
+
+
+5 
+
+
+15 
+
+
+30 
+
+
+30 
+
+
+Measuring 
+transformers 
+
+
+0-5 
+
+
+
+
+
+
+5 
+
+
+10 
+
+
+15 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+
+
+1 
+
+
+2*5 
+
+
+5 
+
+
+10 
+
+
+15 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+
+
+3 
+
+
+5 
+
+
+7-5 
+
+
+15 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+
+
+5 
+
+
+5 
+
+
+7-5 
+
+
+15 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+Protective 
+
+
+5P10 
+
+
+— 
+
+
+. — 
+
+
+10 
+
+
+15 
+
+
+15 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+transformers 
+
+
+10P10 
+
+
+7'5 
+
+
+7-5 
+
+
+10 
+
+
+15 
+
+
+15 
+
+
+30 
+
+
+30 
+
+
+30 
+
+
+
+Note — The output of protective transformers quoted are for an accuracy limit 
+factor of 10, and the outputs for other accuracy limit factors will be inversely 
+proportional to the factor. 
+
+4.6 All current transformers other than those used for testing purpose 
+should be capable of withstanding for the prescribed time, the maximum 
+through fault current to which they may be subjected in service. 
+
+
+
+IS t 4201 - 1983 
+
+5. INSULATION LEVEL 
+
+5.1 The insulation level should be coordinated with that of other appara- 
+tus on the system and should be one of the standard levels given in Tables 
+2 and 3 of IS : 2705 ( Part 1 )-1981* In selecting the insulation level of a 
+current transformer for a particular application the following factors should 
+be considered ( each winding should be considered separately ) : 
+
+a) Highest system voltage, 
+
+b) System earthing, and 
+
+c) Degree of exposure to over voltages. 
+
+5.2 Highest System Voltage — The highest system voltages normally 
+associated with the nominal system voltages are stated in Tables 2 and 3 
+of IS : 2705 ( Part 1 )-1981*. The insulation level should be chosen from 
+these tables corresponding to the selected highest system voltage. If system 
+conditions result in a highest system voltage which is greater than that 
+associated with the nominal system voltage given in Tables 2 and 3 of 
+IS : 2705 ( Part 1 )-1981* then consideration should be given to the 
+selection of an insulation level based on the next higher value of highest 
+system voltage in these tables. The highest system voltage should not be 
+confused with either. 
+
+a) nominal system voltage, and 
+
+b) rated voltage of the current transformers. 
+
+53 System Earthing — The usual conditions of the system neutral are 
+described in 5.3.1 to 5.3.4. 
+
+5.3.1 System Neutral Effectively Earthed — System neutral is earthed in such 
+a manner that the co-efficient of earthing does not exceed 80 percent. This 
+condition is met when for all switching, operating and supply conditions, 
+the ratio of zero sequence reactance of the system to its positive sequence 
+reactance is less than 3, and the ratio of the zero sequence resistance to the 
+positive sequence reactance is less than 1 . Reduced insulation level as given 
+in Table 3 of IS : 2705 ( Part 1 )-1981* appropriate to the highest system 
+voltage is normally applicable to this condition. 
+
+Note 1 — A system in which all power transformers have star connected windings 
+With all neutrals solidly (directly ) earthed is regarded as being effectively earthed. 
+
+Notk 2 — A system in which some of the transformers have star connected 
+windings without solidly earthed neutrals or have delta connected windings may be 
+considered as being effectively earthed, if calculations by the method of symmetrical 
+components show that the 80 percent coefficient of earthing criterion given above is 
+met. 
+
+
+
+•Specification for current transformers : Part 1 General requirements {first revision). 
+
+9 
+
+
+
+IS : 4201 - 1983 
+
+Note 3 — The inclusion of a single-turn bar primary current transformer bet- 
+ween the transformer neutral and earth does not preclude the ssytem fronajheing 
+classified as effectively earthed. Similarly, the inclusion of muki turn primary 
+current transformer between the transformer neutral and earth does not preclude the 
+system from being classified as effectively earthed, provided that after allowing for 
+the effective reactance of the primary of the current transformer, the 80 percent 
+coefficient of earthing criterion is met. 
+
+5.3.2 System Neutral Isolated — In such a system no intentional connection 
+is made to earth except through indicating, measuring or protective devices 
+of very high impedance. The operating condition may involve the adoption 
+of an insulation level higher than that would normally be selected for full 
+insulation as given in Table 3 of IS : 2705 ( Part 1 )-1981* appropriate to 
+the highest system voltage. 
+
+5.3.3 System Neutral Resonant Earthed — System neutral is earthed at one 
+or more points through arc suppression coils, where it is usually the inten- 
+tion that line to earth faults shall be either: 
+
+a) self clearing without interruption of supply or cleared by autom- 
+atic disconnections within a few seconds, or 
+
+b) cleared by mannual disconnection but allowed to persist until it 
+is convenient to locate and isolate. 
+
+5.3.3.1 Full insulation level is normally applicable to this condition. 
+
+5.3.3.2 If under condition (b) above, it is contemplated that the 
+system will be operated with one line earthed for a period exceeding 8 hours 
+in any 24 hours, or an aggregate of 125 hours per annum, consideration 
+should be given to the selection of a higher insulation than full insulation, 
+appropriate to the highest system voltage. 
+
+5.3.4 System Neutral Non-effectivety Earthed ■ — System neutral is earthed 
+through resistors or reactors other than those covered by 5.3.3 or earthed 
+directly at a limited number of points such that the coefficient of earthing 
+may exceed 80 percent. Full insulation level appropriate to ihe highest 
+system voltage is applicable to this condition. 
+
+For the other cases where there is no intention for connection to 
+earth except through indicating, measuring or protective devices of a very 
+high impedance or where the duration of earth fault exceed the period 
+referred to above, the manufacturer should be consulted, 
+
+5.4 Exposure to Over Voltages 
+
+5.4.1 Electrically Non-exposed — Here the apparatus is not subjected to 
+over voltages of atmospheric origin. Such installations are usually those 
+connected to networks consisting predominantly of underground cable. An 
+
+
+
+♦Specification for current transformers: Part 1 General requirements (first revision ). 
+
+10 
+
+
+
+IS : 4201 - 1983 
+
+imnulse level need not be specified under this condition. However, 
+consideration should be made regarding Note 1 and Note 2 given in 5.4.2. 
+
+Apparatus may be required for installations which are seini-exposed 
+to over voltages of atmospheric origin, that is, to over voltages of a 
+magnitude less than for an exposed installation. Such installations are 
+usually connected to overhead transmission lines through double winding 
+transformers, or cable, which may reduce the amplitude of incoming over 
+voltages. These cases require special consideration. 
+
+5.4.2 Electrically Exposed — Here the apparatus is subjected to over 
+voltage of atmospheric origin such installations are usually those connected 
+to overhead transmission lines, either directly or through a short length of 
+cable. 
+
+Current transformers for electrically exposed installations should be 
+designed to withstand impulse voltage test, the value should be in accor- 
+dance with Table 3 of IS : 2705 ( Part 1 )^1981* where the earthing 
+conditions permit, the use of a surge diverter of suitable characteristics 
+may justify the choice of an insulation level lower than that corresponding 
+to the highest system voltage. 
+
+Note 1 — In addition to over voltages of atmospheric origin, there may be 
+over voltages generated elsewhere in the system to which current transformers 
+installed in electrically exposed and electrically non-exposed situations may be 
+subjected to over voltages generated elsewhere in the system, for example, over 
+voltages resulting from the operation of a circuit breaker when switching on 
+inductive or capacitive circuit or the forced interruption of the magnetising current 
+of power transformer. 
+
+Note 2 — In all instances it is desirable to ensure that over voltages are 
+limited to a value not exceeding 80 percent of the impulse test level of the wind- 
+ings by installation of suitable protective devices, such as surge diverters or 
+protective rod gaps. 
+
+
+
+SECTION 2 APPLICATION OF MEASURING 
+CURRENT TRANSFORMERS 
+
+6. RATED OUTPUT 
+
+6.1 Since the performance of a current transformer depends to some 
+extent on the connected burden, it is desirable that the rated output should 
+be as near to in value but not less than to the actual output at which the 
+transformer is to operate. Ordering a current transformer with a rated output 
+considerably in excess of required output may result in increased errors 
+under operating conditions. This is due to the turns correction being 
+
+
+
+* Specification for current transformers: Part 1 General requirements {first revision ). 
+
+u 
+
+
+
+IS : 4201 - 1983 
+
+chosen for the rated burden and thus being excessive for a much lover 
+burden. 
+
+6.2 The burden is composed of the individual burdens of the instruments 
+or meters or both and the connecting leads. When the length of the 
+connecting leads is such that the impedance of leads at 5 Amp secondary 
+current would be excessive, consideration should be given to the use of a 
+rated secondary current of a lower value in accordance with IS : 2705 
+( Part 1 )-1981*. 
+
+7. ACCURACY CLASS 
+
+7.1 It is undesirable that a higher class of accuracy should be called for 
+that is necessary for the duty required. To do so is uneconomical and 
+may involve modifications to the switchgear without serving any useful 
+purpose. 
+
+7.2 The accuracy classes recommended below are intended as a guide in 
+the selection of measuring current transformers: 
+
+Application Class of Accuracy 
+
+[see 3.1 of IS: 
+2605(Part3)-1981*] 
+
+a) For precision testing, or as a sub- (H 
+standard or testing laboratory current 
+transformers 
+
+b) For laboratory and test work in con- 0*2 
+junction with high accuracy indicating 
+instruments, integrating meters and 
+
+also sub-standard for testing industrial 
+current transformers 
+
+c) For precision industrial metering 0*5 
+
+d) For commercial and industrial metering 0*5 or 1 
+
+e) For use with indicating and graphic 1 or 3 
+wattmeters and ammeters 
+
+f ) For purpose where the ratio is of less 3 or 5 
+importance, for example, ammeters 
+
+where approximate values are required 
+
+
+
+•Specification for current transformers: Part 3 Protective current transformer 
+( first revision ) . 
+
+12 
+
+
+
+IS : 4201 - 1983 
+
+7.3 Typical values of VA burden imposed by different meters are given 
+below: 
+
+Instrument VA Burden 
+
+a) Ammeters 3 
+
+b) Current coils of wattmeter and power factor 5 
+meters 
+
+c) Current coils of Kwh, kVar meters 5 
+
+d) Recording ammeters 3 
+
+e) Current coils of recording power factor 5 
+meters and wattmeters 
+
+
+
+SECTION 3 APPLICATION OF PROTECTIVE 
+CURRENT TRANSFORMERS 
+
+8. GENERAL 
+
+8*1 This is only a general guide, useful in determination of the appropriate 
+ratings of a protective current transformer for a specific purpose. In case 
+of doubt or difficulty the manufacturer should be consulted. 
+
+8.2 The determination of the rating of a protective current transformer is 
+dependent on its application and guidance is given in respect of rated 
+burden, rated accuracy limit factor and accuracy class. Care is necessary 
+in this determination owing to the diversity of the numbers and the 
+characteristics of the devices intended to be used with protective current 
+transformers and of the ways of expressing the burdens of these devices. 
+
+9. RATED BURDEN 
+
+9.1 The burden on a protective current transformer is composed of the 
+individual burdens of associated relays or trip coils, instruments ( when 
+used ) and the connecting leads. 
+
+9.2 When the individual burdens are expressed in Ohmic values, the total 
+burden may be computed by addition. This total Ohmic burden should 
+then be converted to a VA burden at the rated secondary current. 
+
+9.3 When the individual burdens are expressed in terms of VA, convert 
+at a common base before they may be added together to form the total 
+computed burden. This common base shall be the rated secondary current 
+of the current transformer. 
+
+13 
+
+
+
+IS t 4201 - 1983 
+
+9.4 Although it is usual to add the individual burdens arithmetically, it is 
+more correct to add them vectorially and it may be advantageous to do so, 
+if this would lead to a small or more economical design. 
+
+9.5 Normally, the standard VA rating nearest to the burden computed 
+should be used, but attention is drawn to the fact that a device may have 
+an impedance with one or more of the following characteristics. 
+
+9.5.1 The impedance is constant, regardless of the current setting, 
+subject to 9.5.4 ( for example, untaped relay coils ). 
+
+9.5.2 The impedance changes with the current setting ( notably in trip 
+coils, relays with tapped coils ). 
+
+9.5.3 The impedance decreases when the current passing through the 
+coil exceeds the current setting . 
+
+9.5.4 The impedance changes with the changed position of the armature 
+
+of the relay or trip coil. 
+
+9.6 When the devices having the characteristics referred to in 9.5.1 
+and 1*5.2 are set to operate at current differing from the rated secondary 
+current of the transformer, the VA burden ( Pe ) which is effectively imposed 
+( effective burden ) on the current transformer at rated secondary current 
+is given by the following formula: 
+
+
+
+where 
+
+Pe^Pr 
+
+
+
+m 
+
+
+
+Pe ~* effective VA burden on the current transformer, 
+
+Pr -.= VA burden of the device at the current setting, 
+
+Is =* Rated secondary current of the current transformer, and 
+
+Ir s= Current setting of the device. 
+
+9.7 In selecting the most suitable standard rated output it is undesirable 
+to specify a value which substantially exceeds the burden as computed 
+above to do so might result in a. transformer unduly large dimensions. 
+
+9.8 When nearest standard VA rating is less than the total computed 
+burden, it is usually satisfactory to adopt the standard, particularly when a 
+part of the burden has the characteristics referred to in 9.5.3 above, since 
+this results in a reduced impedance at the accuracy limit current. In 
+instances of doubt, however, the manufacturer should be consulted, 
+
+14 
+
+
+
+IS : 4201 - 1983 
+
+10 RATED ACCURACY LIMIT FACTOR ( CLASSES 5P AND 10P 
+TRANSFORMERS ) 
+
+10.1 In determining the appropriate accuracy limit factor for a given 
+application, the important point to consider is the maximum value of 
+primary current up to which maintenance of ratio is required: other 
+factors, however, are also involved. The capabilities of a protective current 
+transformer are determined by the primary ampere-turns, the core 
+dimensions and material, and they are roughly proportional to the product 
+of the- rated burden and the rated accuracy limit factor. This is dealt 
+with in 11. 
+
+11. CORRELATION OF BURDEN AND ACCURACY LIMIT 
+FACTOR ( CLASS 5P AND 10P TRANSFORMER ) 
+
+11.1 Accuracy limit factor higher than 10 and rated burdens higher than 
+15 VA are not recommended for general purposes. It is possible, however, 
+to combine a higher rated accuracy limit factor with a lower burden rating 
+and vice-versa; but when the product of these two exceeds 150, the resulting 
+current transformer may be uneconomical or of unduly large dimensions 
+or both. Moreover, it may be difficult to attain a product of 150 if the 
+current transformers are of the wound-primary type with low ratio and 
+high rated short-time thermal current. 
+
+11.2 It is important to note that for a given protective current transformer 
+the accuracy limit factor and the burden are interrelated, that is, a 
+decrease in its burden will automatically increase its accuracy limit factor 
+and vice-versa, For example, the reduction in effective connected burden 
+which results from changing the tap setting of an inverse-time overcurrent 
+relay from 100 to 200 percent will enable the current transformer to supply 
+a higher secondary current without its composite error exceeding the limit 
+of its accuracy class. 
+
+12. ACCURACY CLASS 
+
+12.1 The accuracy class required of protective current transformer is 
+dependent upon the particular application and some guidance on its 
+selection with particular regard to associated value of rated accuracy limit 
+factor and rated burden is given in 12.2, 12.3 and 12.4. 
+
+12.2 Instantaneous Over Current Relays and Trip Coils 
+
+12.2.1 In general a class 10P transformer should be sufficiently accurate. 
+A secondary current greatly in excess of the value to cause operation 
+serves no useful purpose, and a rated accuracy limit factor of 5 should be 
+adequate. 
+
+15 
+
+
+
+IS : 4201 - 1983 
+
+12*2.2 When such relays are set to operate at high values of wer 
+current, say from 5 to 15 times the rated primary current, the accuracy 
+limit factor shall be atleast as high as the value of the setting used, or the 
+secondary current may never reach that value. 
+
+12.2.3 When a relay with a high setting forms part of an equipment 
+with a high total VA burden it may often prove advantageous to operate 
+the high set relay from a separate current transformer. This avoids the 
+problem of having to provide a current transformer with a high burden 
+combined with a high accuracy limit factor. For example, if a high set 
+relay with a burden of 5 VA requires an accuracy limit factor of 15 and if 
+the total burden is 20 VA, the product of these two quantities would be 
+300, which as indicated in 11, would present certain difficulties. If, how- 
+ever, this high set relay is operated from a separate current transformers, 
+that current transformer need only have a rated burden of 5 VA and on 
+accuracy limit factor of 15, giving a product of 75, and the other current 
+transformer operating the rest of equipment, a rated burden of 15 VA and 
+an accuracy limit factor of say 10, giving a product of 150. 
+
+12.2.3.1 Moreover, the current transformer operating the high-set 
+relay may be allocated an appropriately higher rated primary current, 
+thereby reducing the required accuracy limit factor. 
+
+12.2.3.2 In these instances both current transformers may be class 
+10 P, one being designated 5 VA class 10P15 and the other 15 VA 
+dass 10P10. 
+
+12.3 Over Current Relays with Inverse and Definite Minimum 
+Time Lag Characteristics — In general for both directional and non- 
+directional relays a class I OP transformer should be used. 
+
+12.4 Earth Fault Protective Relays with Inverse and Definite 
+Minimum Time Lag Characteristics — The requirement of current 
+transformers used with earthfault protective schemes involving the use of 
+3-line current transformers ( with or without a neutral current transformer ) 
+and using relays with inverse and definite minimum time lag characteristics 
+( both non-directional and directional ) are dependent upon the charac- 
+teristics of the protective system itself. These Characteristics and the 
+corresponding current transformer may be classified in accordance with 
+12.4.1, 12.4.2 and 12.4.3. 
+
+12.4.1 Schemes in which phase fault stability and accurate time grading 
+are not required — class 10 P current transformers in which the product 
+of rated burden and rated accuracy limit factor approaches 150 should be 
+used provided that the earth fault relay is not set below 20 percent of the 
+rated secondary current of the associated current transformers and that 
+burden of the relay at its current setting does not exceed 4 VA. 
+
+Note — Fhasefauli stability denotes the non-operation of the earthfault relay 
+
+under phase fault conditions. 
+
+16 
+
+
+
+IS : 4201 - 1983 
+
+4.2 Schemes in which Phasefault Stability of Accurate Time Grading or 
+Both are required 
+
+12.4.2.1 Class 5 P current transformers in which the product of 
+rated burden and rated accuracy limit factor approaches 150 should be 
+used. They are in general suitable for ensuring phasefault stability up to 
+10 times the rated primary current and for maintaining time grading of 
+the earthfault, relay up to values of current of the order of 10 times the 
+earthfault setting provided that: 
+
+a) phase burden effectively imposed on each current transformer 
+does not exceed 50 percent of its rated burden, 
+
+b) rated accuracy limit factor is not less than 10, 
+
+c) earthfault relay is not set below 30 percent, and 
+
+d) burden of the relay at its current setting does not exceed 4 VA. 
+
+12.4.2.2 When system conditions demand the maintenance of time 
+grading up to values of current in excess of 10 times the earthfault 
+setting, consideration should be given to one or more of the following 
+courses: 
+
+a) Use of a higher relay setting, 
+
+b) Use of an earthfault relay having a burden of less than 4 VA at 
+its setting, and 
+
+c) Use of current transformers having a product of rated burden 
+and rated accuracy limit factor in excess of 150. 
+
+12.4.2.3 In certain cases satisfactory time-grading and phasefault 
+stability may be obtained with current transformers having errors exceeding 
+those of class 5P. A protective scheme on this basis should be considered 
+as a whole, and if necessary the advice of the manufacturer should be 
+sought. 
+
+12.4.2.4 For ensuring the correct protection scheme in which phase- 
+fault stability or accurate time-grading are required, the selection of 
+accuracy limit factor should be made carefully. For example, in a system 
+where the earthfault currents are expected to be more than the phasefault 
+currents, the accuracy limit factor selected should be such, so as to give 
+correct working of the earthfault relays. In case it is not possible to select 
+a current transformer with a higher accuracy limit Factor, then the same 
+results may be achieved by imposing a phase burden on each current 
+transformers not exceeding 50 percent of its rated burden thereby increa- 
+sing the accuracy limit factor indirectly to twice the value 
+
+17 
+
+
+
+IS : 4201 - 1983 
+
+Due consideration should be given to the type of relay and the buiabn 
+for selecting proper current transformer. 
+
+12.4.3 Other forms of protection subject to the agreement of the manu- 
+facturer of the protective relays, class 5P and class 10P transformers may 
+be suitable for certain forms of biased differential, directional and distance 
+measuring protection. 
+
+For curren t transformers for certain applications of directional relays, 
+the phase error may be particularly important up to the maximum through 
+fault current which can flow through the primary windings and in this 
+connection it should be noted that there is an upper limit of phase error 
+corresponding to a value of composite error ( see Table 1 and Appendix G ) 
+of IS : 2705 ( Part 3 )-1981*. Current transformers for distance measuring 
+protection should maintain their class accuracy up to the maximum 
+through fault current which can flow through their primary windings when 
+the required relay burden is connected to their secondary windings. It 
+should be noted that the magnitude and power factor of the burden of 
+certain types of distance measuring equipments may change during 
+operation of the various relay equipments may change during opera^on 
+of the various relay elements under fault conditions and this fact should 
+properly be taken into account in calculating the burden which will be 
+imposed on the current transformers. 
+
+Where closer accuracy than that provided by class 5 P or class 10 P is 
+required the requirements should be specified in terms of class PS. 
+
+13. CLASS PS TRANSFORMER PROTECTION 
+
+13.1 It should be noted that IS : 2705 ( Part 3 )-1981* applies to protective 
+current transformers intended for use in non-balanced protective equip- 
+ment, for example, for the operation of over current devices both of the 
+non-directional and directional types and to protective current transformers 
+used for the operation of earthfault devices with time-lag characteristics. 
+When the operation of the protective equipment is more precisely 
+dependent upon the magnitude and phase relationship of voltage and 
+currents, for example, earthfault protection in resonant earthed networks, 
+or upon the balance of current as, for example, instantaneous earthfault 
+protection and differential protection, the current transformers may require 
+characteristics which cannot conveniently be expressed in the terms used 
+for accuracy classes 5 P and 1 P. 
+
+13.2 For such applications, the current transformer characteristics are 
+normally specified in the following terms: 
+a) Knee-point voltage, 
+
+* Specification for current transformers: Part 3 Protective current transformers 
+( first revision ) . 
+
+18 
+
+
+
+IS : 4201 - 19*3 
+
+b) Exciting current at the knee-point voltage or at a percentage 
+thereof or both, and 
+
+c) Resistance of the secondary winding. 
+
+The values of the above terms are so dependent on the protective 
+gear involved and the requirements are so numerous and varied that use- 
+ful guidance cannot be given in this guide. In such cases the designer of 
+the protective system should specify the additional requirements that may 
+be necessary, for example: 
+
+a) For certain applications of directional relays the current trans- 
+former phase error may be particularly important up to the 
+maximum through fault current which can flow through the 
+primary windings, 
+
+b) For distance measuring protection, the current transformers should 
+maintain their accuracy up to the maximum through fault current 
+which can flow through their primary windings when the required 
+relay burden is connected to their secondary windings. It should 
+be noted that the magnitude and power factor of the burden of 
+certain types of distance measuring equipment may change during 
+operation of the various relay elements under fault conditions 
+and this fact should properly be taken into account in calculating 
+the burden which will be imposed on the current transformers, 
+and 
+
+c) For protective schemes requiring close balance of the secondary 
+currents, from different phases or circuits, the current transformer 
+turns ratio error may have to be limited. Such current transfor- 
+mers are required to be so designed, that balance is maintained 
+with the protective system when maximum through fault* current 
+is flowing through the primary windings of the current transfor- 
+mer used for this system, that is, stability of the protection shall 
+be assured, whether in the transient or in the steady state, up to 
+the maximum through fault current which can be passed in 
+service through their primary windings. 
+
+13.3 High speed protective schemes, such as restricted earthfault protec- 
+tion, differential protection, bus-zone protection, etc, which require close 
+balance of the secondary current are subject to the effect of current 
+transformer saturation from both ac and dc components of the fault 
+current. If the power system has a large L/R ratio, the dc component of 
+fault current decays slowly and transient saturation of the current trans- 
+former could occur since the current transformer core is magnetized with 
+a unidirectional current. Residual flux may also be present in the core, 
+the direction *nd magnitude depending upon the point on the primary 
+
+19 
+
+
+
+IS : 4201 - 1983 
+
+current wave at which the previous switching operation occurred, and also 
+upon, the remanance of the current transformer core material. If 4he 
+residual flux and the flux due to the dc component of fault current are in 
+the same direction, then together with the ac component of the fault 
+current, the core may saturate and harmonic spill currents will flow 
+through the relay, possibly causing incorrect tripping. To minimize the 
+effect of current transformer core saturation under a symmetrical fault, it 
+is common practice to use a stabilizing resistor in series with low impe- 
+dance high speed relays. 
+
+14. FACTOR AFFECTING THE CHOICE OF PROTECTIVE 
+CURRENT TRANSFORMERS 
+
+14.1 Certain important factors which should be taken into consideration 
+while choosing the protective current transformers are outlined below. The 
+importance of matching the current transformers to she relays cannot be 
+over stressed and relay and current transformer manufacturers should be 
+consulted on specific applications. 
+
+14.1.1 The operating time of inverse ;.V finite minimum time-lag 
+( IDMTL ) relays may be affected on account of saturation of current 
+transformers. Current transformer saturation may cause harmonics which 
+may increase the time of operation of IDMTL relays. While selecting the 
+current transformers and where fault current is adequate, it should be 
+ensured that current transformers do not saturate up to at least 20 times 
+the rel?y setting. This may be achieved sometime by choosing a relay with 
+a low VA burden or a current transformer with a higher ratio. 
+
+14.1.2 If current transformers with higher VA output and rated accuracy 
+limit factor (and thus higher knee-point voltage ) than what is required is 
+selected, current transformers may be able to produce higher secondary 
+current under fault conditions depending upon the actual primary fault 
+current and the burden connected. This may result in causing excessive 
+heating in the relay. This factor is specially important for current operated 
+relays with time delay as the relay coil may burn out before fault is 
+cleared. 
+
+14.1.3 Time-grading of inverse-time relays in systems employing high 
+ratio current transformers on certain circuits and low ratio current trans- 
+formers on other circuits may not always be as straight forward as would 
+appear at first sight. While a high ratio current transformer may not 
+saturate for high infeed fault, a low ratio current transformer would 
+probably saturate and the secondary current supplied by this current trans- 
+former would contain a considerable proportion of harmonics, the most 
+predominant being the third harmonics. Even if the high ratio current 
+transformer saturates under fault conditions, the harmonic content in the 
+high ratio current transformer would be less than in the low ratio current 
+
+20 
+
+
+
+IS : 4201 - 19tt 
+
+transformer. The performance of induction disc relay under conditions of 
+saturation of current transformers is very considerably affected by the 
+degree of saturation and the attendant harmonic contents at any given 
+multiple of plug setting, higher harmonic contents resulting in higher 
+operating times. The adverse effect is particularly serious when very poor 
+quality current transformers are employed which saturate even at low 
+multiples of plug setting of the over current relay. From the foregoing 
+considerations it is evident that, if sufficient attention is not paid to the 
+actual relay performance, then the desired time-discriminations and times 
+of operation may not be obtained even if superficially satisfactory nominal 
+settings are used on the relay. 
+
+14.1.4 For distance protection, if current transformers are not of adequate 
+knee-point voltage it may result in producing higher operating time. A 
+transient saturation actor ( X/R ) of primary system should be taken into 
+consideration while calculating the knee-point voltage required from the 
+current transformers to allow for transient saturation. 
+
+14.1.5 While selecting the current transformers for balanced protective 
+system, for example, differential protection and restricted earthfault protec- 
+tion, it should be ensured that under external faults current transformers 
+saturation and mismatch does not produce unbalance in the relay operating 
+circuit. At the same time under internal faults, current transformer should 
+produce adequate output to ensure that operating time of the relay is not 
+exceeded. 
+
+14.1.6 Current transformers should not consume excessive magnetizing 
+current. If magnetizing current is high, it may result in higher primary 
+fault settings in case of current operated lays and may use under reaching 
+in case of distance relays. However, a very low value of magnetizing 
+current should not be specified as it may result in larger and costly current 
+transformers. 
+
+
+
+SECTION 4 APPLICATION OF DUAL PURPOSE 
+CURRENT TRANSFORMERS 
+
+
+
+15. DUAL PURPOSE APPLICATION 
+
+15.1 The requirements for a protective current transformer differ radically 
+from those of a measuring current transformer. It is essential that a 
+measuring transformer is accurate within the normal range of current up to 
+120 percent of rated current, or in the case of a transformer with an 
+
+21 
+
+
+
+IS: 4201- 1983 
+
+extended current rating up to one of the values stipulated in 4.2 of IS : Z1Q5 
+(Part 2 )-1981*. Accuracy is not required on high over current. It is, in 
+fact, an advantage if the current transformer saturates at moderate over 
+current, since this tends to relieve the measuring instruments of the severe 
+tn.in caused by heavy over current. A protective current transformer has 
+to be accurate up to the rated accuracy limit primary current whereas on 
+the other hand it is not usually required to be accurate below rated current. 
+
+It follows that the difficulties of producing a dual purpose current 
+transformer are accentuated when high accuracy is required for measuring 
+purposes or when a high accuracy limit factor is needed for protective 
+purposes or both, 
+
+15.2 The question of using a single current transformer for the dual purpose 
+of protection and measurement may be decided by considering all relevant 
+factors, such as design, cost, space, and the capability of the instruments of 
+withstanding high currents. 
+
+15.3 A current transformer for the dual purpose of production and measure- 
+ment will have both a protection and a measurement rating. 
+
+15.4 When dual purpose current transformers are used it should be ensured 
+that under maximum fault current no damage is caused to meters and 
+instruments. 
+
+15.5 When such a transformer is used for both purposes simultaneously 
+and the rated burdens for measurement and protection differ, the total 
+connected burden shall not exceed the lower of the two rated burden. 
+
+
+
+*Specification for current transformers : Fart 2 Measuring current transformers 
+
+( first revision ) . 
+
+22 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarter*. 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 1 1 0002 
+
+Telephones: 323 0131 , 323 3375, 323 9402 
+
+Fax: 91 11 3234062,91 11 3239399, 91 11 3239382 
+
+Telegrams : Manaksanstha, 
+(Common to all Offices)] 
+
+Central Laboratory: Telephone 
+
+Plot No. 20/9, Site IV, Sahibabad i idustrial Area, Sahibabaci 201 01 8-77 00 32 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 1 1 0002 323 76 17 
+
+•Eastern : 1/1 4 CIT Scheme VII M, V.l.P. Road, Maniktola, CALCUTTA 700054 337 86 62 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 1 60022 60 38 43 
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 6001 13 235 23 1 5 
+
+tWestern : Manakalaya, E9, Behind Marol Telephone Exchange, Andheri (East), 832 92 95 
+MUMBAI 400093 
+
+Branch Offices:: 
+
+'Pushpak', Nurmohamed Shaikh Ml- ..-g, Khanpur, AHMEDABAD 380001 550 1 3 48 
+
+JPeenya Industrial Area, 1 si Stags. Bangaiore-Tumkur Road, 839 49 55 
+BANGALORE 560058 
+
+Gangotri Complex, 5th Floor, Bhadbhada Road, T.T. Nagar, BHOPAL 462003 55 40 21 
+
+Plot No. 62-63, Unit VI, Ganga Nagar, BHUBANESHWAR 751001 40 36 27 
+
+Kalaikathir Buildings, 670 Avinashi Road, COIMBATORE 641 037 21 01 41 
+
+Plot No. 43, Sector 1 6 A, Mathura Road, FARIDABAD 1 21 001 8-28 88 01 
+
+Savitri Complex, 1 1 6 G.T. Road, GHA2I ABAD 201 001 8-71 1 9 96 
+
+53/5 Ward No.29, R.G. Barua Road, 5th By Jane, GUWAHATI 781 003 54 1 1 37 
+
+5-8-56C, L.N. Gupta Marg, Nampally Station Road, HYDERABAD 500001 20 10 83 
+
+E-52, Chrtaranjan Marg, C-Scheme, JAIPUR 302001 37 29 25 
+
+1 1 7/41 8 B, Sarvodaya Nagar, KANPUR 208005 21 68 76 
+
+Seth Bhawan, 2nd Floor, Behind Leela Cinema, Naval Kishore Road, 23 89 23 
+LUCKNOW 226001 
+
+NiT BUilding, Second Root, Gokulpat Market, NAGPUR 440010 52 51 71 
+
+Patliputra Industrial Estate, PATNA 80001 3 26 23 05 
+
+institution of Engineers (india) Buiiding 1 332 Shivaji Nagar, PUNE 41 1005 32 36 35 
+
+T.C. No. 1 4/1 421 , University P. O. Palayam, THIRUVANANTHAPURAM 695034 6 2117 
+
+
+
+*Sales Office te at 5 Chowringhee Approach, P.O. Princep Street, 
+CALCUTTA 700072 
+
+tSaJes Office is at Novelty Chambers, Grant Road, MUMBAI 400007 
+
+t Sales Office is at 'P Block, Unity Building, Narashimaraja Square, 
+BANGALORE 560002 
+
+
+
+27 10 85 
+
+309 65 28 
+222 39 71 
+
+
+
+Printed at Printograph, New Deihi (INDIA). 
+
+
+

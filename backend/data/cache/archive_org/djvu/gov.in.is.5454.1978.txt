@@ -1,0 +1,659 @@
+**************** 
+
+
+^  tOTH: 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live" 
+
+
+Jawaharlal  Nehru 
+"Step  Out  From  the  Old  to  the  New"  ' 
+
+
+IS  5454  (1978) :  Methods  of  sampling  of  clay  building  bricks 
+[CED  30:  Clay  and  Stabilized  Soil  Products  for 
+Construction] 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+BLANK  PAGE 
+
+
+^*-:gv 
+
+
+^^35^* 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+Indian  Standard 
+
+METHODS  FOR  SAMPLING  OF 
+CLAY  BUILDING  BRICKS 
+
+(  First  Revision) 
+
+Fourth  Reprint  NOVEMBER  2005 
+UDC  691.421:  620  .113 
+
+
+IS  : 5454-1918 
+*<EAFFIRMgO 
+
+
+©  Copyright  1979 
+
+BUREAU     OF     INDIAN    STANDARDS 
+
+MANAK    BHAVAN,  9  BAHADUR  SHAH  ZAFAR  MARG 
+
+NEW  DELHI  110002 
+
+Gr  2  February  1979 
+
+
+IS  :  5454  - 1978 
+
+Indian  Standard 
+
+METHODS  FOR  SAMPLING  OF 
+CLAY  BUILDING  BRICKS 
+
+
+(First  Revision) 
+
+
+Building  Materials  and  Components  Sampling 
+Sectional  Committee,  BDC  31 
+
+Chairman 
+
+Shri  G.  D.  Joolekar 
+Telegaon  (  Dist  Punc  ) 
+
+Members  Representing 
+
+Shri  J.  S.  Bedi  Doors,  Windows  and  Shutters  Sectional  Committee, 
+
+BDC  11,181 
+Shri  A.  K.  Sobti  (  Alternate  ) 
+Shri  B.  B.  Bhattacharjee  Concrete     Reinforcement     Sectional     Committee, 
+
+BSMDC  8,  ISI 
+Shri  T.  Sen  (  Alternate  ) 
+Shri  J.  D.  Darooa  Italab  Engineering  Pvt  Ltd,  Bombay 
+
+Shri  N.  R.  Patrawala  (  Alternate  ) 
+Shri  K.  H.  Gandhi  Directorate  General  of   Inspection    (  Ministry  of 
+
+Defence ),  New  Delhi 
+Shri  Sat  Pal  Singh  (  Alternate  ) 
+Shri  S.  K.  Ournani  Railway  Board  (  Ministry  of  Railways  ) 
+
+Shri  M.  S.  Ekbote  (  Alternate  ) 
+Shri  P.  J.  Jaous  Pozzolanas  Sectional  Committee,  BDC  16,  ISI 
+
+Shri  M.  R.  Vinayaka  (  Alternate  ) 
+Shri  K.  P.  Jain  Builder's  Hardware  Sectional  Committee,  BDC  15, 
+
+ISI 
+Shri  Karamjit  Sinoh  Central  Public  Works  Department,  New  Delhi 
+
+Shri  K.  K.  Khanna  Construction  Plant  and  Machinery  Sectional  Com- 
+
+mittee, BDC  28,  ISI 
+Shri  A.  C.  Mannan  (  Alternate  ) 
+Dr  T-  Krishnan  Indian  Statistical  Institute,  Calcutta 
+
+Shri  S,  R.  Kshirsaoar  Sanitary  Appliances  and  Water  Fittings  Sectional 
+
+Committee,  BDC  3,  ISI 
+Shri  R.  P.  Mishra  (  Alternate  ) 
+Shri  N.  C.  Majumdar  Clay  Products  for  Building  Sectional  Committee, 
+
+BDC  30,  ISI 
+
+( Continued  on  page  2  ) 
+
+
+t)    Copyright  1979 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+This  publication  it  protected  under  the  Indian  Copyright  Act  ( XIV  of  19S7 )  and 
+reproduction  in  whole  or  in  part  by  any  means  except  with  written  permission  of 
+the  publisher  shall  be  deemed  to  be  an  infringement  of  copyright  under  the  said  Act. 
+
+
+iA. 
+
+
+IS  :  5454  -  1978 
+
+( Continued  from  page  1  ) 
+
+Members  Representing 
+
+Shri  M.  R.  Malya  Bitumen  and  Tar  Products  Sectional  Committee, 
+
+DCDC  2,  ISI 
+Shri  S.  K.  Dutta  (  Alternate  ) 
+Col  Y.  p.  Misra  Woo*  Products  Sectional  Committee,  BDC  20,  ISI 
+
+Dr  MohaS  Rai  Central    Building    Research     Institute     ( CSIR ), 
+
+Roorkee 
+Shri  R.  K.  Ooel  (  Alternate  ) 
+Dr  a.  K.  Mullick  Cement  Research  Institute  of  India,  New  Delhi 
+
+Dr  M.  Pancholy  Sieves  Sectional  Committee,  BDC  19,  ISI 
+
+Shri  S.  S.  Rajput  Forest  Research  Institute  and  Colleges,  DehraDun 
+
+Shri  E.  K.  Ramachandran  National  Test  House.  Calcutta 
+
+Lala  G.  C.  Das  (  Alternate  ) 
+Shri  N.  Mohan  Rao  Research  &  Development  Organization  (  Ministry 
+
+of  Defence  ),  New  Delhi 
+Shri  V.  B.  Ohorpade  (  Alternate) 
+Shri  A.  C.  Sekhar  Timber  Sectional  Committee,  BDC  9,  ISI 
+
+Shri  C.  A.  Taneja  Gypsum  Building'  Materials  Sectional  Committee, 
+
+BDC  21,  ISI 
+Dr  B.  N.  Singh,  Director  General,  ISI  (  Ex-officio  Member  ) 
+
+Director  (  Stat ) 
+
+Secretary 
+
+Shri  N.  C.  Tyaoi 
+
+Deputy  Director  (  Stat ),  ISI 
+
+
+AMENDMENT  NO.  1  MARCH  2008 
+
+TO 
+
+IS  5454  :  1978  METHODS  FOR  SAMPLING  OF  CLAY 
+
+BUILDING  BRICKS 
+
+(  Flrsl  Revision  ) 
+
+(Page  7,  clause  5.2.1.1,  last  line)  —  Substitute  '15  percent'  for 
+'20  percent'. 
+
+
+(CED  30) 
+
+
+Reprography  Unit,  BIS,  New  Delhi,  India 
+
+
+IS  :  5454  -  1978 
+
+Indian  Standard 
+
+METHODS  FOR  SAMPLING  OF 
+CLAY  BUILDING  BRICKS 
+
+
+(First  Revision  J 
+
+
+0.    FOREWORD 
+
+0.1  This  Indian  Standard  (  First  Revision  )  was  adopted  by  the  Indian 
+Standards  Institution  on  10  July  1978,  after  the  draft  finalized  by  the 
+Building  Materials  and  Components  Sampling  Sectional  Committee  had 
+been  approved  by  the  Civil  Engineering  Division  Council. 
+
+0.2  The  clay  building  brick  is  the  most  extensively  used  building  material  in 
+the  construction  work.  Its  quality  is  of  fundamental  importance  in  ensuring 
+the  soundness  of  the  buildings  and  structures.  It  is,  therefore*  imperative 
+that  due  consideration  is  given  to  the  sampling  procedures  which  would 
+help  in  proper  and  objective  evaluation  of  the  quality  of  the  bricks. 
+
+0.3  This  standard  was  originally  issued  in  1969.  However,  in  view  of  the 
+experience  gained  in  the  course  of  years  and  the  introduction  of  new  and 
+revised  quality  characteristics  and  methods  of  test  in  Indian  Standards 
+pertaining  to  various  types  of  clay  building  bricks,  it  was  felt  necessary  to 
+revise  this  standard.  In  this  revision,  sampling  procedures  for  breaking 
+load,  transverse  strength  and  bulk  density  have  been  included.  The  criteria 
+for  conformity  for  efflorescence  and  compressive  strength  have  been  modi- 
+fied to  bring  them  in  line  with  the  latest  Indian  Standards  on  specifications 
+and  methods  of  testing  of  clay  building  bricks. 
+
+0.4  In  reporting  the  result  of  a  test  or  analysis  made  in  accordance  with 
+this  stanclard,  if  the  final  value,  observed  or  calculated,  is  to  be  rounded  off, 
+it  shall  be  done  in  accordance  with  IS: 2-1960'''. 
+
+
+1.  SCOPE 
+
+1.1  This  standard  lays  down  methods  for  sampling  and  criteria  for  ascer- 
+taining conformity  of  solid,  hollow  and  perforated  burnt  clay  building 
+bricks  to  the  relevant  specifications. 
+
+*RuIes  for  rounding  off  numerical  values  (  revised ). 
+
+3 
+
+
+IS  :  5454  •  1978 
+
+2.  TERMINOLOGY 
+
+2.0  For  the  purpose  of  this  standard,  the  following  definitions  shall  apply, 
+
+2.1  Lot  —  A  collection  of  bricks  of  the  same  class  and  size,  manufactured 
+under  relatively  similar  conditions  of  production.  For  the  purpose  of 
+sampling,  a  lot  shall  contain  a  maximum  of  SO  000  bricks.  In  case  a 
+consignment  has  bricks  more  than  50000  of  the  same  classification  and  size, 
+and  manufactured  under  relatively  similar  conditions  of  production,  it  shall 
+be  divided  into  lots  of  50000  bricks  or  part  thereof. 
+
+2.2  Sample  —  A  collection  of  bricks  selected  for  inspection  and/or  testing 
+from  a  lot  to  reach  the  decision  regarding  the  acceptance  or  rejection  of 
+the  lot. 
+
+2.3  Defective  —  A  brick  failing  to  meet  one  or  more  of  the  specified 
+requirements. 
+
+2.4  Average  —  The  sum  of  the  observations  divided  by  the  number  of 
+observations. 
+
+3.  METHODS  OF  SAMPLING 
+
+3.1  The  sample  may  be  drawn  either  by:  (a)  random  sampling,  or 
+(b)  stratified  sampling  method  in  accordance  with  18:4905-1968*. 
+
+3.2  The  sample  shall  be  taken  by  one  of  the  methods  given  in  3.2.1,  3.2.2 
+or  3.23  so  as  to  yield  the  number  of  bricks  required. 
+
+3.2.1  Sampling  in  Motion  —  Whenever  practicable  the  sample  shall  be 
+taken  while  the  bricks  are  being  moved,  for  example,  during  loading  or 
+unloading.  The  lot  shall  be  divided  into  a  number  of  convenient  portions 
+(not  less  than  ten).  Approximately  equal  number  of  bricks  shall  be  drawn 
+from  each  of  these  portions  at  regular  intervals,  such  that  the  requisite 
+number  of  bricks  for  inspection  and  testing  is  provided. 
+
+3.2.2  Sampling  from  a  Stack  —  When  it  is  necessary  to  take  a  sample 
+from  a  stack,  the  stack  shall  be  divided  into  a  number  of  real  or  imaginary 
+sections  and  the  required  number  of  bricks  drawn  from  each  section.  For 
+this  purpose  bricks  in  the  upper  layers  of  the  stack  shall  be  removed  to 
+enable  units  to  be  sampled  from  places  within  the  stack. 
+
+3.2.3  Sampling  from  Lorries  or  Trucks  —  When  it  is  necessary  to  take  a 
+sample  from  bricks  loaded  in  lorries  or  trucks,  the  sample  bricks  shall  be 
+taken  from  a  number  of  lorries/trucks  ( not  less  than  ten.  if  possible )  such 
+that  when  equal  number  of  bricks  are  drawn  from  each  of  the  lorries/trucks 
+the  number  of  bricks  required  for  the  inspection  and  testing  is  provided. 
+
+*  Methods  for  random  sampling. 
+
+
+18:5454-1978 
+
+4.  SCALE   OF    SAMPLING    AND  CRITERIA    FOR    CONFORMITY 
+FOR  VISUAL  AND  DIMENSIONAL  CHARACTERISTICS 
+
+4.1  The  bricks  shall  be  selected  and  inspected  for  each  lot  separately  for 
+ascertaining  their  conformity  to  the  requirements  of  the  relevant 
+specification. 
+
+4.1.1  The  number  of  bricks  to  be  selected  from  a  lot  shall  depend  on  the 
+size  of  the  lot  and  shall  be  in  accordance  with  col  1  and  2  of  Table  1  for 
+visual  characteristics  in  all  cases  and  dimensional  characteristics  if  s]}ecified 
+for  individual  brick.  In  case  dimensions  are  specified  for  a  group  of 
+20  bricks,  the  scale  of  sampling  for  dimensional  characteristics  shall  be  in 
+accordance  with  col  1  and  4  of  Table  I.  All  these  bricks  shall  be 
+selected  following  the  methods  detailed  in  3. 
+
+4.2  Visual  Characteristics — All  the  bricks  selected  as  in  4.1.1  in  accordance 
+with  col  1  and  2  of  Table  1  shall  be  examined  for  visual  characteristics.  If 
+the  number  of  defective  bricks  found  in  the  sample  is  less  than  or  equal  to 
+the  corresponding  number  as  specified  in  col  3  of  Table  1,  the  lot  shall  be 
+considered  as  satisfying  the  requirements  of  the  visual  characteristics. 
+However,  if  the  number  of  defective  bricks  in  the  sample  is  greater  than  the 
+corresponding  permissible  number  of  defectives,  the  lot  shall  be  deemed  as 
+not  having  met  the  visual  requirements. 
+
+
+TABLE  1    SCALE  OF  SAMPLING  AND  PERMISSIBLE 
+
+NUMBER  OP  DEFECTIVES  FOR  VISUAL  AND 
+
+DIMENSIONAL  CHARACTERISTICS 
+
+(  Clauses  4.1.1,  4-2  and  4.3.2  ) 
+
+
+No.  OF  Bricks 
+IN  THE  Lot 
+
+For  Characteristics  Specified 
+FOR  Individual  Brick 
+
+For  Dimensional  Char. 
+
+actbristics  specified 
+
+FOR  Group  of 
+
+20BRICKS— No.  OF 
+
+Bricks  to  be 
+Selected 
+
+No.  of  Bricks 
+to  be  Selected 
+
+> 
+Permissible  No. 
+of  Defectives  "in 
+the  Sample 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+2001  to  10000 
+
+20 
+
+1 
+
+40 
+
+10001  to  35  000 
+
+32 
+
+2 
+
+60 
+
+3S001  toSOOOO 
+
+SO 
+
+3 
+
+80 
+
+Note  —  In  case  the  lot  contains  2  000  or  less  bricks,  the  sampling  shall  be  subject 
+to  agreement  between  the  purchaser  and  the  supplier. 
+
+
+IS  :  5454  -  1978 
+
+
+4.3  Dimensional  Characteristics — The  dimensions  and  tolerances  have  been 
+specified  in  various  standards  for  clay  building  bricks.  In  some  standards 
+the  dimensions  and  tolerances  have  been  specified  for  individual  brick.  In 
+some  other  standards  the  dimensions  and  tolerances  have  been  specified  for 
+a  group  of  20  bricks. 
+
+4.3.1  In  case  the  dimensions  and  tolerances  have  been  specified  for 
+individual  brick,  the  scale  of  sampling  and  criteria  for  conformity  shall  be 
+the  same  as  laid  down  in  4.2  for  visual  characteristics. 
+
+4.3.2  In  case  the  dimensions  and  tolerances  for  bricks  are  specified  as 
+overall  on  a  group  of  20  bricks,  the  number  of  bricks  to  be  selected  for 
+inspecting  the  dimensions  and  tolerances  shall  be  in  accordance  with  col  1 
+and  4  of  Table  1.  These  bricks  will  be  divided  into  groups  of  20  bricks  at 
+random  and  each  of  the  groups  thus  formed  tested  for  all  the  dimensions 
+and  tolerances.  A  lot  shall  be  considered  having  found  meeting  the  require- 
+ments of  dimensions  and  tolerances  if  none  of  the  groups  of  bricks  inspected 
+fails  to  meet  the  specified  requirements. 
+
+5.  SCALE   OF    SAMPLING    AND    CRITERIA   FOR    CONFORMITY 
+FOR  PHYSICAL  CHARACTERISTICS 
+
+5.1  The  lot  which  has  been  found  satisfactory  in  respect  of  visual  and 
+dimensional  requirements  {see  4.2  and  4.3)  shall  next  be  tested  for  physical 
+characteristics  like  compressive  strength,  breaking  load,  transverse  strength, 
+bulk  density,  water  absorption,  efflorescence  and  warpage  as  specified  in 
+relevant  material  specification.  The  bricks  for  this  purpose  shall  be  taken 
+at  random  from  those  already  selected  in  4.1.1.  The  number  of  bricks  to  be 
+selected  and  tested  for  each  of  these  characteristics  shall  be  in  accordance 
+with  relevant  columns  of  Table  2. 
+
+
+TABLE  2    SCALE  OF  SAMPLING  FOR  PHYSICAL  CHARACTERISTICS 
+
+(  Clauses  5.1,  5.2.3  and  5.2.4) 
+
+LotSizb 
+
+Sample  Sizb  for  Compres- 
+sive Strenoth,  Breaking 
+Load,  Transverse  Str- 
+enoth, Bulk  Density. 
+Water  Absorption 
+
+AND  EfFLORESCBNCB 
+
+Permissible  No. 
+OF  Defectives 
+FOR  Efflor- 
+escence 
+
+Warpaoe 
+
+„                                          A. 
+
+Sample 
+Size 
+
+1 
+Permissible 
+
+No.  of 
+Defectives 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+2001  to  10000 
+
+5 
+
+0 
+
+10 
+
+0 
+
+10001  to  35000 
+
+10 
+
+0 
+
+20 
+
+1 
+
+3S001  to  30000 
+
+15 
+
+1 
+
+30 
+
+2 
+
+NoTB  —  In  case  the  lot  contains  2000  or  less  bricks,  the  sampling  shall.be  subject 
+to  agreement  between  the  purchaser  and  the  supplier. 
+
+IS  :  5454  -  1978 
+
+5.2  A  lot  shall  be  considered  having  satisfied  the  requirements  of  physical 
+characteristics  if  the  conditions  stipulated  in  5.2.1,  5.2.2,  5.2.3  and  5.2.4  are 
+all  satisfied. 
+
+5.2.1  From  the  test  results  for  compressive  strength,  breaking  load,  and 
+transverse  strength  (  whichever  applicable  ),  the  average  shall  be  calculated 
+and  shall  satisfy  the  requirements  specified  in  the  relevant  material 
+specification. 
+
+Note  —  In  case  any  of  the  test  results  for  compressive  strength  exceeds  the  upper 
+limit  for  the  class  of  brick,  the  same  shall  be  limited  to  the  upper  limit  of  the  class 
+for  the  purpose  of  averaging. 
+
+5.2.1.1  Wherever  specified  in  the  material  specification  the  compressive 
+strength  of  any  individual  brick  tested  in  the  sample  shall  not  fall  below  the 
+minimum  average  compressive  strength  specified  for  the  corresponding  class 
+of  brick  by  more  than  20  percent. 
+
+5.2.2  From  the  test  results  for  water  absorption  and  bulk  density  the 
+average  for  the  bricks  in  the  sample  shall  be  calculated  and  shall  satisfy  the 
+relevant  requirements  specified  in  the  material  specification. 
+
+5.2.3  The  number  of  bricks  failing  to  satisfy  the  requirements  of  the 
+efflorescence  specified  in  the  relevant  specification  shall  not  be  more  than 
+the  permissible  number  of  defectives  given  in  col  3  of  Table  2. 
+
+5.2.4  The  number  of  bricks  failing  to  satisfy  the  requirements  of  warpage 
+wherever  specified  in  the  relevant  specifications  shall  not  be  more  than  the 
+permissible  number  of  defectives  given  in  col  5  of  Table  2. 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zaf ar  Marg,  New  Delhi  1 1 0002 
+
+Telephone*:  232301 31 .  23233375,  23239402        Fax:  91  +01 1  23234062.  23239399,  23239382 
+
+E-mali:  bIsOvsnI.com  website:  htto:/Awww.bl8.orp.in 
+
+
+Cantnl  Laboratory: 
+
+Plot  No.  20/9,  Site  IV,  Sahibabad  Industrial  Area,  SAHIBABO  201010 
+
+
+Taltphorw 
+
+2770032 
+
+
+Reglotwt  Oftleoa: 
+
+Central:  Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  1 1 0002  2323761 7 
+
+'Eastern;  1/14  CIT  Scheme  Vli  M,  V.I.P.  Road  Kankurgachi.  KOLKATA  700054  23378662 
+
+Northern:  SCO  335-336,  Sector  34-A,  Chandigarh  1 60022  603843 
+
+Southern:  CIT.  Campus,  iV  Cross  Road,  CHENNAI 6001 13  254  19  84 
+
+Western:  Manakalaya,  E9,  MIDC,  Behind   Marol  Telephone  Exchange,  2832  92  95 
+Andheri  (East),  MUMBAI 400093 
+
+
+Branch  offlcaa: 
+
+'Pushpak'  Nunnohamed  Shaikh  Marg,  Khanpur,  AHMEDA8A0  380001 
+Peenya  Industrial  Area,  1*  Stage,  Bangalore-Tumkur  Road,  BANGALORE 
+Commerdai-cum-offtee  Complex,  opp.  Dushera  Maklan,  Arera  Cotony, 
+
+Bittan  Market,  BHOPAL  462016 
+62/63,  Qanga  Nagar,  Unit  VI,  BHUBANESHWAR  751001 
+S^  Fkwr,  Kovai  Towers,  44  Bala  Sundaram  Road,  COIMBATORE  641018 
+SCO  21,  Sector  12,  Faridabad  121007 
+SavHri  Complex  ,116  Q.T.  Road  Ghaziabad  201001 
+53/5  Ward  No.  29,  R.G.  Baraua  Road  5  by-lane,  Apurt>a  Sinha  Path 
+
+GUWAHATI 781003 
+5^560  LN.  Gupta  Marg,  Nampatly  Statkm  Road.  HYBERABAD  S00001 
+E-52,  Chitranjan  Marg,  C-Scheme,  JAIPUR  302001 
+117/418  B  Sannxlaya  Nagar,  KANPUR  208005 
+Sethi  Bhavan:  2^  Fkx>r,  Behind  Leeia  Cinema,  Naval  Kishore  Road, 
+
+LUCKNOW  226001 
+NIT  BuiMIng,  Second  Fk)or,  Qokulpat  Market,  NAQPUR  440010 
+Mahavir  Bhavan,  First  Fk>or,  Ropar  Road,  NAUGARH  174101 
+Patliputra  Industrial  Estate.  PATNA  800013 
+Rrst  Fkxx,  Ptot  Nos  657-660,  Market  Yard,  Gultkdl,  PUNE  41 1037 
+'Sahajanand  House*  3*  Fk)or,  Bhaktinagar  Circle,  80  Feet  Road, 
+
+RAJKOT  360002 
+T.C.  No.  14/1421,  University  P.O.  Palayam,  THIRUVANANTHAPURAM  895034 
+1st  Fk)or,  Udyog  Bhavan,  VUDA,  Slripuram  Junctkxi,  VISHAKHAPATNAM^)3 
+
+
+Sales  Office  is  at  5  Chowringhee  Approach,  P.O.  Princep  Street,  Kdkata  700072 
+Sales  Offtae  is  at  Novelty  Chambers,  Grant  Road.  MUMBAI  400007 
+
+
+5601348 
+839  49  55 
+242  34  52 
+
+2403139 
+221  0141 
+2292175 
+2861498 
+2541137 
+
+23201084 
+2373879 
+2218774 
+2216698 
+
+2525171 
+221451 
+2282806 
+42686S9 
+2378251 
+
+2322104 
+2712833 
+
+22371085 
+23096528 
+
+
+IViatcd  at  PnMutf  OflKtFtCM,  New  Ddhi-2 
+
+

@@ -1,0 +1,1662 @@
+**************** 
+
+
+^  tOTH: 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live" 
+
+
+Jawaharlal  Nehru 
+"Step  Out  From  the  Old  to  the  New"  ' 
+
+
+IS  12269  (1987):  53  grade  ordinary  Portland  cement  [CED  2: 
+Cement  and  Concrete] 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+BLANK  PAGE 
+
+
+^*-:gv 
+
+
+^^35^* 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+18  12269:2013 
+
+f  We77  '^mr) 
+
+Indian  Standard 
+
+ORDINARY  PORTLAND  CEMENT, 
+53  GRADE  —  SPECIFICATION 
+
+( First  Revision  ) 
+
+
+ICS  91.100.10 
+
+
+©  BIS  2013 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+MANAK   BHAVAN,    9    BAHADUR    SHAH   ZAFAR   MARG 
+NEW  DELHI  110002 
+
+
+March  2013  Price  Group  5 
+
+
+Cement  and  Concrete  Sectional  Committee,  CED  2 
+
+
+FOREWORD 
+
+This  Indian  Standard  (First  Revision)  was  adopted  by  the  Bureau  of  Indian  Standards,  after  the  draft  finaHzed  by 
+the  Cement  and  Concrete  Sectional  Committee  had  been  approved  by  the  Civil  Engineering  Division  Council. 
+
+This  standard  was  published  in  1987.  This  revision  incorporates  the  experience  gained  with  the  use  of  this  standard 
+and  brings  the  standard  in  line  with  the  latest  developments  in  this  field. 
+
+Since  the  publication  of  this  standard,  a  large  number  of  amendments  were  issued  from  time-to-time  in  order  to 
+modify  various  requirements  based  on  experience  gained  with  the  use  of  the  standard  and  the  requirements  of  the 
+users,  and  also  keeping  in  view  the  raw  materials  available  in  the  country  and  found  suitable  for  the  manufacture 
+of  cement.  The  important  amendments  included:  use  of  performance  improvers  for  addition  during  clinker  grinding 
+stage,  incorporation  of  requirement  of  chloride  content  for  the  cement  used  in  structures  other  than  prestressed 
+concrete,  permitting  use  of  25  kg,  10  kg,  5  kg,  2  kg  and  1  kg  bags  for  packing  of  cement,  and  requirement  of 
+packing  cement  for  export.  In  view  of  the  large  number  of  amendments,  the  Sectional  Committee  decided  to 
+bring  out  this  first  revision  of  the  standard  incorporating  all  these  amendments  so  as  to  make  it  more  convenient 
+for  the  users.  Further,  following  are  the  other  significant  modifications  incorporated  in  this  revision: 
+
+a)  Requirement  for  insoluble  residue  has  been  specified  as  5.0  percent,  maximum  irrespective  of  addition 
+of  performance  improver(s)  or  otherwise. 
+
+b)  SO3  content  requirement  has  been  revised  to  3.5  percent  maximum  irrespective  of  C3A  content,  primarily 
+to  accommodate  use  of  coal/pet  coke  as  fuel  which  may  have  higher  sulphur  content;  subject  to  the 
+cement  conforming  to  all  the  requirements  of  the  standard. 
+
+c)  A  clause  has  been  introduced  requiring  manufacturer  to  furnish  a  certificate  indicating  alkali  content  if 
+required  by  the  purchaser. 
+
+d)  Requirement  of  marking  of  type  and  amount  of  performance  improver(s)  on  the  bag  has  been  incorporated. 
+
+e)  Requirement  of  testing  the  cement  samples  at  the  earliest  but  not  later  than  3  months  since  the  receipt  of 
+samples  for  testing,  has  been  included. 
+
+With  the  increase  in  SO3  content  limit  in  this  revision,  suitable  caution  needs  to  be  exercised  for  limiting  the 
+sulphates  in  concrete  in  accordance  with  the  provision  of  IS  456  :  2000  'Code  of  practice  for  plain  and  reinforced 
+concrete  (fourth  revisionY . 
+
+Quantity  of  cement  packed  in  bags  and  the  tolerance  requirements  for  the  quantity  of  cement  packed  in  bags  shall 
+be  in  accordance  with  the  relevant  provisions  of  the  Standards  of  Weights  and  Measures  (Packaged  Commodities) 
+Rules,  1977  and  B-1.2  (see  Annex  B).  Any  modification  in  these  rules  in  respect  of  tolerance  on  quantity  of 
+cement  would  apply  automatically  to  this  standard. 
+
+This  standard  contains  SI  No.  (viii)  of  Table  2  and  12.2.1  which  give  option  to  the  purchaser  and  SI  No.  (v)  of 
+Table  3  and  9.2,  9.3,  9.4  and  9.4.3,  which  call  for  agreement  between  the  purchaser  and  the  supplier. 
+
+Specific  requirements  of  ordinary  Portland  cement  for  manufacture  of  railway  sleepers  to  be  designated  as  53-S 
+grade  are  given  in  5.2,  Table  3  and  10.1.  To  differentiate  it  with  normal  grade,  '53-S  grade'  shall  be  marked  on  the 
+bags/packages  for  such  cement  in  place  of  '53  grade'. 
+
+The  composition  of  the  technical  Committee  responsible  for  the  formulation  of  this  standard  is  given  in  Annex  C. 
+
+For  the  purpose  of  deciding  whether  a  particular  requirement  of  this  standard  is  complied  with,  the  final  value, 
+observed  or  calculated,  expressing  the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accordance  with  IS  2  :  1960 
+'Rules  for  rounding  off  numerical  values  (revised)' .  The  number  of  significant  places  retained  in  the  rounded  off 
+value  should  be  the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+IS  12269  :  2013 
+
+
+Indian  Standard 
+
+ORDINARY  PORTLAND  CEMENT, 
+53  GRADE  —  SPECIFICATION 
+
+( First  Revision  ) 
+
+
+1  SCOPE 
+
+This  standard  covers  the  manufacture  and  chemical  and 
+physical  requirements  of  53  grade  ordinary  Portland 
+cement. 
+
+2  REFERENCES 
+
+The  standards  given  in  Annex  A  contain  provisions 
+which,  through  reference  in  this  text,  constitute 
+provisions  of  this  standard.  At  the  time  of  publication, 
+the  editions  indicated  were  valid.  All  standards  are 
+subject  to  revision  and  parties  to  agreements  based  on 
+this  standard  are  encouraged  to  investigate  the 
+possibility  of  applying  the  most  recent  editions  of  the 
+standards  indicated  in  Annex  A. 
+
+3  TERMINOLOGY 
+
+For  the  purpose  of  this  standard,  the  definitions  given 
+in  IS  4845  shall  apply. 
+
+4  MANUFACTURE 
+
+4.1  Ordinary  Portland  cement,  53  grade  shall  be 
+manufactured  by  intimately  mixing  together  calcareous 
+and  argillaceous  and/or  other  silica,  alumina  or  iron 
+
+
+oxide  bearing  materials,  burning  them  at  a  clinkering 
+temperature  and  grinding  the  resultant  clinker  so  as  to 
+produce  a  cement  capable  of  complying  with  this 
+standard.  No  material  shall  be  added  after  burning, 
+other  than  gypsum  (natural  mineral  or  chemical, 
+see  Note),  water,  performance  improver(s),  and  not 
+more  than  a  total  of  1 .0  percent  of  air-entraining  agents 
+or  other  agents  including  colouring  agents,  which  have 
+proved  not  to  be  harmful. 
+
+NOTE  —  Chemical  gypsum  shall  be  added  provided  that  the 
+performance  requirements  of  the  final  product  as  specified  in 
+this  standard  are  met  with. 
+
+4.1.1  Limit  of  addition  of  performance  improver  shall 
+be  as  given  in  Table  1  and  shall  be  inclusive  of  1  percent 
+additives  as  mentioned  above. 
+
+If  a  combination  of  above  performance  improvers  is 
+added,  the  maximum  limit  of  total  addition  shall  be  5 
+percent. 
+
+5  CHEMICAL  REQUIREMENTS 
+
+5.1  When  tested  in  accordance  with  the  methods  given 
+in  IS  4032,  ordinary  Portland  cement,  53  grade  shall 
+comply  with  the  chemical  requirements  given  in  Table  2. 
+
+
+Table  1  Performance  Improvers 
+
+(Clause  4.1.1) 
+
+
+SI  No. 
+
+
+(1) 
+
+
+Performance 
+Improver 
+
+(2) 
+
+
+Percentage  Addition 
+by  Mass,  Max 
+
+(3) 
+
+
+Requirement 
+
+(4) 
+
+
+i) 
+ii) 
+iii) 
+iv) 
+
+V) 
+
+
+vi) 
+
+
+Fly  ash 
+
+Granulated  slag 
+Silica  fume 
+Limestone 
+
+Rice  husk  ash 
+
+
+Metakaolin 
+
+
+Conforming  to  IS  3812  (Part  1) 
+
+Conforming  to  IS  12089 
+
+Conforming  to  IS  15388 
+
+CaCO,  content  calculated  from  CaO  content  shall  not  be  less  than  75  percent 
+
+when  tested  in  accordance  with  IS  1760  (Part  3) 
+
+a)  Reactive  silica  shall  not  be  less  than  80  percent  when  tested  as  per  IS  3812 
+(Part  1) 
+
+b)  Pozzolanic  activity  index  shall  not  be  less  than  90  percent  when  tested  as  per 
+10  of  IS  1727 
+
+c)  Loss  on  ignition  shall  not  be  more  than  5.0  percent  when  tested  as  per  IS  1727 
+
+a)  Silicon  dioxide  (SiOJ  plus  aluminium  oxide  (A1,0,)  in  percent  by  mass 
+shall  not  be  less  than  94.0  percent  when  tested  as  per  IS  1 727 
+
+b)  Loss  on  ignition  shall  not  be  more  than  2.0  percent  when  tested  as  per  IS  1727 
+
+c)  Total  alkalis  as  sodium  oxide  (as  Na,0  equivalent)  in  percent  by  mass  shall 
+not  be  more  than  1.5  percent  when  tested  as  per  IS  4032 
+
+d)  Particles  retained  on  45  micron  IS  sieve  (wet  sieving)  shall  not  be  more  than 
+1.5  percent  when  tested  as  per  IS  1727 
+
+
+IS  12269  :  2013 
+
+
+SI  No. 
+
+(1) 
+
+
+Table  2  Chemical  Requirements  for  Ordinary  Portland  Cement,  53  Grade 
+
+{Foreword  and  Clauses  5.1  and  5.2) 
+
+
+Characteristic 
+
+(2) 
+
+
+Requirement 
+
+(3) 
+
+
+i)       Ratio  of  percentage  of  lime  to  percentages  of  silica,  alumina 
+and  iron  oxide,  when  calculated  by  the  formula: 
+
+
+ii) 
+iii) 
+iv) 
+V) 
+
+vi) 
+vii) 
+viii) 
+
+
+CaO  -  0.7  SO, 
+
+
+2.8  SiO^  +  1.2  AljO,  +  0.65  Fe^O, 
+
+Ratio  of  percentage  of  alumina  to  that  of  iron  oxide,  Min 
+
+Insoluble  residue,  percent  by  mass.  Max 
+
+Magnesia,  percent  by  mass.  Max 
+
+Total  sulphur  content  calculated  at  sulphuric  anhydride 
+
+(SOj),  percent  by  mass.  Max 
+
+Loss  on  ignition,  percent  by  mass.  Max 
+
+Chloride  content,  percent  by  mass.  Max 
+
+Alkali  content 
+
+
+0.80-1.02 
+
+
+0.66 
+4.0 
+6.0 
+3.5 
+
+
+4.0 
+0.1 
+
+0.05  (for  prestressed  structures,  see  Note) 
+
+
+NOTE  —  Alkali  aggregates  reactions  have  been  noticed  in  aggregates  in  some  parts  of  the  country.  On  large  and  important  jobs  where 
+the  concrete  is  likely  to  be  exposed  to  humid  atmosphere  or  wetting  action,  it  is  advisable  that  the  aggregate  be  tested  for  alkali 
+aggregate  reaction.  In  the  case  of  reactive  aggregates,  the  use  of  cement  with  alkali  content  below  0.6  percent  expressed  at  sodium 
+oxide  (Na,0),  is  recommended.  Where,  however,  such  cements  are  not  available,  use  of  alternative  means  may  be  resorted  to  for 
+which  a  reference  may  be  made  to  8.2.5.4  of  IS  456.  If  so  desired  by  the  purchaser,  the  manufacturer  shall  carry  out  test  for  alkali 
+content. 
+
+
+5.2  Cement  used  for  railway  sleepers  shall  additionally 
+satisfy  the  following  chemical/mineralogical 
+requirements  and  shall  be  designated  as  53-S  grade: 
+
+a)  Magnesia,  percent  by  mass,  Max  5.0 
+
+b)  Tricalcium  aluminate  content,  10.0 
+percent  by  mass.  Max 
+
+c)  Tricalcium  silicate,  percent  by  mass,    45.0 
+Min 
+
+NOTE  —  The  tricalcium  aluminate  content  (C,A)  and 
+tricalcium  silicate  content  (C3S)  are  calculated  by  the  formula: 
+
+C,A  =    2.65  (AUO,)-  1.69  (Fe.Oj) 
+
+C3S   =    4.07(CaO)-7.60(SiO2)-6.72(AUO3)-1.43(Fe2O3) 
+-2.85  (SO3) 
+
+where  each  symbol  in  brackets  refers  to  the  percent  (by  mass 
+of  total  cement)  of  the  oxide,  excluding  any  contained  in 
+insoluble  residue  referred  to  at  SI  No.  (iii)  of  Table  2. 
+
+6  PHYSICAL  REQUIREMENTS 
+
+Ordinary  Portland  cement,  53  grade  shall  comply  with 
+the  physical  requirements  given  in  Table  3. 
+
+7  STORAGE 
+
+The  cement  shall  be  stored  in  such  a  manner  as  to 
+permit  easy  access  for  proper  inspection  and 
+identification,  and  in  a  suitable  weather-tight  building 
+to  protect  the  cement  from  dampness  and  to  minimize 
+warehouse  deterioration  (see  also  IS  4082). 
+
+8  MANUFACTURER'S  CERTIFICATE 
+
+8.1  The  manufacturer  shall  satisfy  himself  that  the 
+cement  conforms  to  the  requirements  of  this  standard 
+and,  if  requested,  shall  furnish  a  certificate  to  this  effect 
+
+
+to  the  purchaser  or  his  representative,  within  ten  days 
+of  testing  of  the  cement  (except  for  28  days 
+compressive  strength  test  results,  which  shall  be 
+furnished  after  completion  of  the  test). 
+
+8.2  The  manufacturer  shall  furnish  a  certificate 
+indicating  the  alkali  content,  if  requested. 
+
+9  PACKING 
+
+9.1  The  cement  shall  be  packed  in  any  of  the  following 
+bags: 
+
+a)  jute  sacking  bag  conforming  to  IS  2580; 
+
+b)  multi-wall  paper  sacks  conforming  to 
+IS  11761; 
+
+c)  light  weight  jute  conforming  to  IS  12154; 
+
+d)  HDPE/PP  woven  sacks  conforming  to 
+IS  11652; 
+
+e)  jute  synthetic  union  bags  conforming  to 
+IS  12174;  or 
+
+f)  any  other  approved  composite  bag. 
+
+Bags  shall  be  in  good  condition  at  the  time  of 
+inspection. 
+
+9.1.1  The  net  quantity  of  cement  per  bag  shall  be 
+50  kg  subject  to  provisions  and  tolerance  given  in 
+Annex  B. 
+
+9.2  The  net  quantity  of  cement  per  bag  may  also  be 
+25  kg,  10  kg,  5  kg,  2  kg  or  1  kg  subject  to  tolerances 
+as  given  in  9.2.1  and  packed  in  suitable  bags  as  agreed 
+to  between  the  purchaser  and  the  manufacturer. 
+
+9.2.1  The  number  of  bags  in  a  sample  taken  for 
+
+
+IS  12269  :  2013 
+
+
+Table  3  Physical  Requirements  for  Ordinary  Portland  Cement,  53  Grade 
+
+{Foreword  and  Clause  6) 
+
+
+SI  No. 
+
+(1) 
+
+
+Characteristic 
+
+(2) 
+
+
+Requirement 
+
+(3) 
+
+
+MethodofTest,  Ref  to 
+
+(4) 
+
+
+225 
+
+IS  4031  (Part  2) 
+
+370  for  53-S  grade 
+
+„  o  kSee  Note  1 
+
+IS  4031  (Part  3) 
+
+30                       ^ 
+
+IS  4031  (Part  5) 
+
+60  for  53-S  grade  ISee  Note  2 
+
+600                     J 
+
+IS  4031  (Parte) 
+
+27 
+
+37 
+
+37.5  for  53-S  grade 
+
+53 
+
+See  Notes  3  and  4 
+
+IS  4031  (Parts) 
+
+i)  Fineness,  m"/kg,  Min 
+
+ii)  Soundness: 
+
+a)  By  Le  Chatelier  method,  mm.  Max 
+
+b)  By  autoclave  test  method,  percent.  Max 
+iii)          Setting  time: 
+
+a)  Initial,  min,  Min 
+
+b)  Final,  min.  Max 
+iv)          Compressive  strength,  MPa  {see  Note  4): 
+
+a)  72  ±  1  h,  Min 
+
+b)  168  ±  2  h.  Mm 
+
+c)  672  ±  4  h.  Mm 
+v)          Transverse  strength  (optional) 
+
+NOTES 
+
+1  In  the  event  of  cements  failing  to  comply  with  any  one  or  both  the  requirements  of  soundness  specified  in  this  table,  further  tests  in 
+respect  of  each  failure  shall  be  made  as  described  in  IS  4031  (Part  3),  from  another  portion  of  the  same  sample  after  aeration.  The 
+aeration  shall  be  done  by  spreading  out  the  sample  to  a  depth  of  75  mm  at  a  relative  humidity  of  50  to  80  percent  for  a  total  period  of 
+7  days.  The  expansion  of  cements  so  aerated  shall  be  not  more  than  5  mm  and  0.6  percent  when  tested  by  Le  Chatelier  method  and 
+autoclave  test  respectively.  For  53-S  grade  cement,  the  requirement  of  soundness  of  unaerated  cement  shall  be  maximum  expansion 
+of  5  mm  when  tested  by  the  Le-Chatelier  method. 
+
+2  If  cement  exhibits  false  set,  the  ratio  of  final  penetration  measured  after  5  min  of  completion  of  mixing  period  to  the  initial 
+penetration  measured  exactly  after  20  s  of  completion  of  mixing  period,  expressed  as  percent,  shall  be  not  less  than  50.  In  the  event 
+of  cement  exhibiting  false  set,  the  initial  and  final  setting  time  of  cement  when  tested  by  the  method  described  in  IS  4031  (Part  5)  after 
+breaking  the  false  set,  shall  conform  to  the  value  given  in  this  table. 
+
+3  By  agreement  between  the  purchaser  and  the  manufacturer,  transverse  strength  test  of  plastic  mortar  in  accordance  with  the  method 
+described  in  IS  4031  (Part  8)  may  be  specified.  The  permissible  values  of  the  transverse  strength  shall  be  mutually  agreed  to  between 
+the  purchaser  and  the  supplier  at  the  time  of  placing  the  order. 
+
+4  Notwithstanding  the  compressive  and  transverse  strength  requirements  specified  as  per  this  table,  the  cement  shall  show  a  progressive 
+increase  in  strength  from  the  strength  at  72  h. 
+
+
+weighment  showing  a  minus  error  greater  than 
+2  percent  of  the  specified  net  quantity  shall  be  not  more 
+than  5  percent  of  the  bags  in  the  sample.  Also  the  minus 
+error  in  none  of  such  bags  in  the  sample  shall  exceed 
+
+4  percent  of  the  specified  net  quantity  of  cement  in  the 
+bag.  However,  the  average  of  net  quantity  of  cement 
+in  a  sample  shall  be  equal  to  or  more  than  25  kg,  10  kg, 
+
+5  kg,  2  kg  or  1  kg,  as  the  case  may  be. 
+
+9.3  Supplies  of  cement  in  bulk  may  be  made  by 
+arrangement  between  the  purchaser  and  the  supplier 
+(manufacturer  or  stockist). 
+
+NOTE  —  A  single  bag  or  container  containing  1  000  kg  and 
+more,  net  quantity  of  cement  shall  be  considered  as  the  bulk 
+supply  of  cement.  Supplies  of  cement  may  also  be  made  in 
+intermediate  bags/containers,  for  example,  drums  of  200  kg, 
+by  agreement  between  the  purchaser  and  the  manufacturer. 
+
+9.4  When  cement  is  intended  for  export  and  if  the 
+purchaser  so  requires,  packing  of  cement  may  be  done 
+in  bags  or  in  drums  with  net  quantity  of  cement  per 
+bag  or  drum  as  agreed  to  between  the  purchaser  and 
+the  manufacturer. 
+
+9.4.1  For  this  purpose,  the  permission  of  the  certifying 
+
+
+authority  shall  be  obtained  in  advance  for  each  export 
+order. 
+
+9.4.2  The  words  'FOR  EXPORT'  and  the  net  quantity 
+of  cement  per  bag/drum  shall  be  clearly  marked  in 
+indelible  ink  on  each  bag/drum. 
+
+9.4.3  The  packing  material  shall  be  as  agreed  to 
+between  the  manufacturer  and  the  purchaser. 
+
+9.4.4  The  tolerance  requirements  for  the  quantity  of 
+cement  packed  in  bags/drum  shall  be  as  given  in  9.2.1 
+except  the  net  quantity  which  shall  be  equal  to  or  more 
+than  the  quantity  in  9.4. 
+
+10  MARKING 
+
+10.1  Each  bag  of  cement  shall  be  legibly  and  indelibly 
+marked  with  the  following; 
+
+a)  Manufacturer's  Ucime  and  his  registered  trade- 
+mark; 
+
+b)  The  words  'Ordinary  Portland  Cement,  53 
+Grade'  or  'Ordinary  Portland  Cement,  53-S 
+Grade',  whichever  is  applicable; 
+
+
+IS  12269  :  2013 
+
+
+c)  Net  quantity,  in  kg; 
+
+d)  The  words  'Use  no  Hooks'; 
+
+e)  Batch/control  unit  number  in  terms  of  week, 
+month  and  year  of  packing; 
+
+f)  Address  of  the  manufacturer;  and 
+
+g)  Type  and  percentage  of  performance 
+improver(s)  added,  in  case  of  addition  of 
+performance  improvers. 
+
+10.2  Similar  information  shall  be  provided  in  the 
+delivery  advices  accompanying  the  shipment  of  packed 
+or  bulk  cement  and  cement  drums  (see  9.3). 
+
+10.3  BIS  Certification  Marking 
+
+The  cement  may  also  be  marked  with  the  Standard 
+Mark. 
+
+10.3.1  The  use  of  the  Standard  Mark  is  governed  by 
+the  provisions  of  the  Bureau  of  Indian  Standards  Act, 
+1986  and  the  Rules  and  Regulations  made  thereunder. 
+The  details  of  conditions  under  which  a  license  for  the 
+use  of  the  Standard  Mark  may  be  granted  to 
+manufacturers  or  producers  may  be  obtained  from  the 
+Bureau  of  Indian  Standards. 
+
+11  SAMPLING 
+
+11.1  A  sample  or  samples  for  testing  may  be  taken  by 
+the  purchaser  or  his  representative,  or  by  any  person 
+appointed  to  superintend  the  work  for  the  purpose  of 
+which  the  cement  is  required  or  by  the  latter's 
+representative. 
+
+11.1.1  The  samples  shall  be  taken  within  three  weeks 
+of  the  delivery  and  all  the  tests  shall  be  commenced 
+within  one  week  of  sampling. 
+
+11.1.2  When  it  is  not  possible  to  test  the  samples  within 
+one  week,  the  samples  shall  be  packed  and  stored  in 
+air-tight  containers  and  tested  at  the  earliest  but  not 
+later  than  3  months  since  the  receipt  of  samples  for 
+testing. 
+
+11.2  In  addition  to  the  requirements  of  11.1,  the 
+methods  and  procedure  of  sampling  shall  be  in 
+accordance  with  IS  3535. 
+
+
+11.3  The  manufacturer  or  the  supplier  shall  afford  every 
+facility,  and  shall  provide  all  labour  and  materials  for 
+taking  and  packing  the  samples  for  testing  the  cement 
+and  for  subsequent  identification  of  cement  sampled. 
+
+12  TESTS 
+
+12.1  The  sample  or  samples  of  cement  for  test  shall  be 
+taken  as  described  in  11  and  shall  be  tested  in  the 
+manner  described  in  the  relevant  clauses. 
+
+12.2  Independent  Testing 
+
+12.2.1  If  the  purchaser  or  his  representative  requires 
+independent  tests,  the  samples  shall  be  taken  before  or 
+immediately  after  delivery  at  the  option  of  the 
+purchaser  or  his  representative,  and  the  tests  shall  be 
+carried  out  in  accordance  with  this  standard  on  the 
+written  instructions  of  the  purchaser  or  his 
+representative. 
+
+12.2.2  The  manufacturer/supplier  shall  supply,  free  of 
+charge,  the  cement  required  for  testing.  Unless 
+otherwise  specified  in  the  enquiry  and  order,  the  cost 
+of  the  tests  shall  be  borne  as  follows: 
+
+a)  By  the  manufacturer/supplier,  if  the  results 
+show  that  the  cement  does  not  comply  with 
+the  requirements  of  this  standard,  and 
+
+b)  By  the  purchaser,  if  the  results  show  that  the 
+cement  complies  with  the  requirement  of  this 
+standard. 
+
+12.2.3  After  a  representative  sample  has  been  drawn, 
+tests  on  the  sample  shall  be  carried  out  as  expeditiously 
+as  possible  {see  11.1.1  and  11.1.2). 
+
+13  REJECTION 
+
+13.1  Cement  may  be  rejected  if  it  does  not  comply 
+with  any  of  the  requirements  of  this  standard. 
+
+13.2  Cement  remaining  in  bulk  storage  at  the  factory, 
+prior  to  shipment,  for  more  than  six  months,  or  cement 
+in  bags,  in  local  storage  such  as,  in  the  hands  of  a 
+vendor  for  more  than  3  months  after  completion  of 
+tests,  shall  be  retested  before  use  and  shall  be  rejected 
+if  it  fails  to  conform  to  any  of  the  requirements  of  this 
+standard. 
+
+
+IS  12269  :  2013 
+
+
+ANNEX  A 
+
+{Clause  2) 
+
+LIST  OF  REFERRED  INDIAN  STANDARDS 
+
+
+IS  No.  Title 
+
+456  :  2000  Code  of  practice  plain  and  reinforced 
+
+concrete  (fourth  revision) 
+650  :  1991  Specification  for  standard  sand  for 
+
+testing  of  cement  {second  revision) 
+1727  ;  1967  Methods  of  test  for  pozzolanic 
+
+materials  {first  revision) 
+1760  (Part  3)  :       Methods  of  chemical  analysis  of 
+1992  limestone,  dolomite  and  allied 
+
+materials:  Part  3  Determination  of 
+
+iron  oxide,  alumina,  calcium  oxide 
+
+and  magnesia  {first  revision) 
+2580  :  1995  Textiles  —  Jute  sacking  bags  for 
+
+packing  cement  —  Specification 
+
+{third  revision) 
+3535  ;  1986  Methods  of  sampling  hydraulic 
+
+cements  {first  revision) 
+3812  (Part  1)  :       Specification  for  pulverized  fuel  ash: 
+2013  Part  1  For  use  as  pozzolana  in 
+
+cement,  cement  mortar  and  concrete 
+
+{third  revision) 
+4031  Methods   of  physical   tests   for 
+
+hydraulic  cement 
+(Part  2)  :  1999    Determination  offmeness  by  specific 
+
+surface  by  Blaine  air  permeability 
+
+method  {second  revision) 
+(Part  3)  :  1988    Determination  of  soundness  (first 
+
+revision) 
+(Part  5)  :  1988    Determination  of  initial  and  final 
+
+setting  times  (first  revision) 
+
+
+IS  No.  Title 
+
+(Part  6)  :  1988    Determination  of  compressive 
+
+strength  of  hydraulic  cement  (other 
+
+than    masonry    cement)    {first 
+
+revision) 
+(Part  8)  :  1988    Determination  of  transverse  and 
+
+compressive  strength  of  plastic 
+
+mortar  using  prism  {first  revision) 
+4032  :  1985  Methods  of  chemical  analysis  of 
+
+hydraulic  cement  {first  revision) 
+4082  :  1996  Recommendations  on  stacking  and 
+
+storage  of  construction  materials 
+
+and  components  at  site  (second 
+
+revision) 
+4845  :  1968  Definitions  and  terminology  relating 
+
+to  hydraulic  cement 
+4905  :  1968  Methods  for  random  sampling 
+
+11652:1986        Specification  for  high  density 
+
+polyethylene  (HDPE)/polypropylene 
+
+(PP)  woven  sacks  for  packing  cement 
+
+(second  revision) 
+11761  :  1986        Specification  for  multi-wall  paper 
+
+sacks  for  cement  {first  revision) 
+12089:  1987        Specification  for  granulated  slag  for 
+
+manufacture   of  Portland   slag 
+
+cement 
+12154  :  1987        Light  weight  jute  bags  for  packing 
+
+cement 
+121 74  :  1987        Jute  synthetic  union  bags  for  packing 
+
+cement 
+15388  :  2003         Specification  for  silica  fume 
+
+
+ANNEX  B 
+
+{Foreword  and  Clause  9.1.1) 
+
+TOLERANCE  REQUIREMENTS  FOR  THE  QUANTITY  OF  CEMENT  PACKED  IN  BAGS 
+
+
+B-1  The  average  of  the  net  quantity  of  cement  packed 
+in  bags  at  the  plant  in  a  sample  shall  be  equal  to  or 
+more  than  50  kg.  The  number  of  bags  in  a  sample  shall 
+be  as  given  below: 
+
+
+Batch  Size 
+
+
+Sample  Size 
+
+
+100-150 
+151-280 
+281-500 
+501-1  200 
+1  201-3  200 
+3  201  and  over 
+
+
+20 
+32 
+50 
+80 
+125 
+200 
+
+
+The  bags  in  a  sample  shall  be  selected  at  random.  For 
+methods  of  random  sampling,  IS  4905  may  be  referred 
+to. 
+
+B-1.1  The  number  of  bags  in  a  sample  showing  a  minus 
+error  greater  than  2  percent  of  the  specified  net  quantity 
+(50  kg)  shall  be  not  more  than  5  percent  of  the  bags  in 
+the  sample.  Also  the  minus  error  in  none  of  such  bags 
+in  a  sample  shall  exceed  4  percent  of  the  specified  net 
+quantity  of  cement  in  the  bag. 
+
+NOTE  —  The  matter  given  in  B-1  and  B-1.1  are  extracts  based 
+on  the  Standards  of  Weights  and  Measures  (Packaged 
+Commodities)  Rules,  1977  to  which  reference  shall  be  made 
+
+
+IS  12269  :  2013 
+
+
+for  full  details.  Any  modification  made  in  these  Rules  and  other 
+related  Acts  and  Rules  would  apply  automatically. 
+
+B-1.2  In  case  of  a  wagon/truck  load  of  up  to  25  tonne, 
+the  overall  tolerance  on  net  quantity  of  cement  shall 
+be  0  to  0.5  percent. 
+
+
+NOTE  —  The  mass  of  a  jute  sacking  bag  to  hold  50  kg  of  cement 
+is  53 1  g,  the  mass  of  a  6-ply  paper  bag  to  hold  50  kg  of  cement 
+is  approximately  400  g,  the  mass  of  a  light  weight  jute  bag  to 
+hold  50  kg  of  cement  is  approximately  450  g,  the  mass  of  a 
+HDPE/PP  woven  sack  to  hold  50  kg  of  cement  is  approximately 
+70  g/71  g  respectively,  and  the  mass  of  a  jute  synthetic  union 
+bag  to  hold  50  kg  of  cement  is  approximately  420  g. 
+
+
+ANNEX  C 
+
+(Foreword) 
+
+COMMITTEE  COMPOSITION 
+
+Cement  and  Concrete  Sectional  Committee,  CED  2 
+
+
+Organization 
+
+
+Delhi  Tourism  and  Transportation  Development  Corporation  Ltd, 
+New  Delhi 
+
+ACC  Ltd,  Mumbai 
+
+
+Ambuja  Cements  Limited,  Mumbai 
+
+Association  of  Consulting  Civil  Engineers  (India),  Bangalore 
+
+Atomic  Energy  Regulatory  Board,  Mumbai 
+
+Builders'  Association  of  India,  Mumbai 
+
+Building  Materials  and  Technology  Promotion  Council,  New  Delhi 
+
+Cement  Corporation  of  India  Limited,  New  Delhi 
+
+Cement  Manufacturers'  Association,  Noida 
+
+Central  Board  of  Irrigation  and  Power,  New  Delhi 
+
+Central  Building  Research  Institute  (CSIR),  Roorkee 
+
+Central  Public  Works  Department,  New  Delhi 
+
+Central  Road  Research  Institute  (CSIR),  New  Delhi 
+
+Central  Soil  and  Materials  Research  Station,  New  Delhi 
+
+Central  Water  Commission,  New  Delhi 
+
+Conmat  Technolgies  Pvt  Ltd,  Kolkata 
+
+Construction  Chemicals  Manufacturers'  Association,  Mumbai 
+
+Construction  Industry  Development  Council,  New  Delhi 
+
+Delhi  Development  Authority,  New  Delhi 
+
+Engineers  India  Limited,  New  Delhi 
+
+
+Representative(s) 
+Shri  Jose  Kurian  {Chairman} 
+
+Shri  S.  a.  Khadilkar 
+
+Shri  Sharad  Kumar  Shrivastava  (Alternate) 
+
+Shri  C.  M.  Dordi 
+
+Dr  a.  N.  Vyasa  Rao  (Alternate) 
+
+Shri  Avinash  D.  Shirode 
+
+Shri  K.  K.  Meghashyam  (Alternate) 
+
+Shri  L.  R.  Bishnoi 
+
+Shri  Saurav  Acharya  (Alternate) 
+
+Dr  Narendra  D.  Patel 
+
+Shri  J.  K.  Prasad 
+
+Shri  C.  N.  Jha  (Alternate) 
+
+Shri  R.  R.  Deshpande 
+
+Shri  M.  K.  Aoarwal  (Alternate) 
+
+Shri  N.  A.  Viswanathan 
+
+Dr  S.  K.  Handoo  (Alternate) 
+
+Secretary 
+
+Director  (Civil)  (Alternate) 
+
+Dr  B.  K.  Rao 
+
+Dr  S.  K.  Agarwal  (Alternate) 
+
+Shri  A.  K.  Garg 
+
+Shri  Manu  Amitabh  (Alternate) 
+
+Dr  Rakesh  Kumar 
+
+Dr  Renu  Mathur  (Alternate) 
+
+Shri  Murari  Ratnam 
+
+Shri  N.  Sivakumar  (Alternate) 
+
+Director  (CMDD)(N&W) 
+
+Deputy  Director  (CMDD)  (NW&S)  (Alternate) 
+
+Dr  a.  K.  Chatterjee 
+
+Shri  Samir  Surlaker 
+
+Shri  Upen  Patel  (Alternate) 
+
+Shri  P.  R.  Swarup 
+
+Shri  Ravi  Jain  (Alternate) 
+
+Chief  Engineer  (QAC) 
+
+Director  (Material  Management)  (Alternate) 
+
+Shri  Vinay  Kumar 
+
+Shri  A.  K.  Mishra  (Alternate) 
+
+
+IS  12269  :  2013 
+
+
+Organization 
+Fly  Ash  Unit,  Department  of  Science  and  Technology,  New  Delhi 
+
+
+Representative(s) 
+Dr  Vimal  Kumar 
+
+
+Gammon  India  Limited,  Mumbai 
+
+Grasim  Industries  Limited,  Mumbai 
+
+Hindustan  Construction  Company  Ltd,  Mumbai 
+
+Housing  and  Urban  Development  Corporation  Limited,  New  Delhi 
+Indian  Association  of  Structural  Engineers,  New  Delhi 
+
+Indian  Bureau  of  Mines,  Nagpur 
+
+Indian  Concrete  Institute,  Chennai 
+
+Indian  Institute  of  Technology  Kanpur,  Kanpur 
+
+Indian  Institute  of  Technology  Madras,  Chennai 
+
+Indian  Institute  of  Technology  Roorkee,  Roorkee 
+
+Indian  Roads  Congress,  New  Delhi 
+
+Institute  for  Solid  Waste  Research  &  Ecological  Balance, 
+Visakhapatnam 
+
+Jai  Prakash  Associates  Ltd,  New  Delhi 
+
+Lafarge  India  Pvt  Ltd,  Mumbai 
+
+Madras  Cements  Ltd,  Chennai 
+
+Military  Engineer  Services,  Engineer-in-Chief's  Branch,  Army 
+Headquarter,  New  Delhi 
+
+Ministry  of  Road  Transport  &  Highways,  New  Delhi 
+
+National  Council  for  Cement  and  Building  Materials,  Ballabgarh 
+
+National  Test  House,  Kolkata 
+
+Nuclear  Power  Corporation  of  India  Ltd,  Mumbai 
+
+OCL  India  Limited,  New  Delhi 
+
+Public  Works  Department,  Government  of  Tamil  Nadu,  Chennai 
+
+Research,  Design  &  Standards  Organization  (Ministry  of  Railways), 
+Lucknow 
+
+Sanghi  Industries  Limited,  Sanghi  Nagar 
+
+Structural  Engineering  Research  Centre  (CSIR),  Chennai 
+
+The  India  Cements  Limited,  Chennai 
+
+The  Indian  Hume  Pipe  Company  Limited,  Mumbai 
+
+
+Shri  Venkataramana  N.  Heggade 
+Shri  Manish  Mokal  {Alternate} 
+
+Shri  A.  K.  Jain 
+
+Dr  S.  P.  Pandey  (Alternate) 
+
+Dr  Chetan  Haazaree 
+
+Shri  Manohar  Cherala  (Alternate) 
+
+Shri  Deepak  Bansal 
+
+Prof  Mahesh  Tandon 
+
+Shri  Ganesh  Juneja  (Alternate) 
+
+Shri  S.  S.  Das 
+
+Shri  Meerul  Hasan  (Alternate) 
+
+Shri  Vivek  Naik 
+
+Secretary  General  (Alternate) 
+
+Dr  Sudhir  Misra 
+
+Dr  Sudib  K.  Mishra  (Alternate) 
+
+Prof  Devdas  Menon 
+
+Dr  Manu  Santhanam  (Alternate) 
+
+Prof  V.  K.  Gupta 
+
+Dr  Bhupinder  Singh  (Alternate) 
+
+Secretary  General 
+Director  (Alternate) 
+
+Dr  N.  Bhanumathidas 
+
+Shri  N.  Kalidas  (Alternate) 
+
+Shri  M.  K.  Ghosh 
+
+Ms.  Madhumita  Basu 
+
+Shri  Sanjay  Jain  (Alternate) 
+
+Shri  Balaji  K.  Moorthy 
+
+Shri  Anil  Kumar  Pillai  (Alternate) 
+
+Maj-Gen  N.  R.  K.  Babu 
+
+Shri  S.  K.  Jain  (Alternate) 
+
+Shri  A.  N.  Dhodapkar 
+
+Shri  S.  K.  Puri  (Alternate) 
+
+Shri  V.  V.  Arora 
+
+Dr  M.  M.  Ali  (Alternate) 
+
+Shri  B.  R.  Meena 
+
+Shrimati  S.  a.  Kaushil  (Alternate) 
+
+Shri  U.  S.  R  Verma 
+
+Shri  Arvind  Shrivastava  (Alternate) 
+
+Dr  S.  C.  Ahluwalia 
+
+Superintending  Engineer 
+
+Executive  Engineer  (Alternate) 
+
+Shri  R.  M.  Sharma 
+
+Shri  V.  K.  Yadava  (Alternate) 
+
+Shri  D.  B.  N.  Rao 
+
+Dr  H.  K.  Patnaik  (Alternate) 
+
+Dr  K.  Ramanjaneyulu 
+
+Shri  P.  Srinivasan  (Alternate) 
+
+Dr  D.  Venkateswaran 
+
+Shri  S.  Gopinath  (Alternate) 
+
+Shri  P  R.  Bhat 
+
+Shri  S.  J.  Shah  (Alternate) 
+
+
+IS  12269  :  2013 
+
+
+Organization 
+The  Institution  of  Engineers  (India),  Kolkata 
+
+The  National  Institute  of  Engineering,  Mysore 
+
+Ultra  Tech  Cement  Ltd,  Mumbai 
+
+Voluntary  Organization  in  Interest  of  Consumer  Education, 
+New  Delhi 
+
+In  personal  capacity  (36,  Old  Sneh  Nagar.  Wardha  Road,  Nagpur) 
+
+In  personal  capacity  (EA-92,  Maya  Enclave,  Hari  Nagar,  New  Delhi) 
+
+In  personal  capacity  (E-l,  402,  White  House  Apartments,  R.T.  Nagar, 
+Bangalore) 
+
+BIS  Directorate  General 
+
+
+Representative(s} 
+
+Dr  H.  C.  Visvesvaraya 
+
+Shri  S.  H.  Jain  (Alternate) 
+
+Dr  N.  Suresh 
+
+Shri  H.  N.  Ramathirtha  (Alternate) 
+
+Dr  Subrato  Chowdhury 
+
+Shri  Biswajit  Dhar  (Alternate) 
+
+Shri  M.  A.  U.  Khan 
+
+Shri  H.  Wadhwa  (Alternate) 
+
+Shri  L.  K.  Jain 
+
+Shri  R.  C.  Wason 
+
+Shri  S.  A.  Reddi 
+
+Shri  A.  K.  Saini,  Scientist  'G'  and  Head  (Civ  Engg) 
+[Representing  Director  General  (Ex-officio)] 
+
+
+Member  Secretaries 
+
+Shri  Sanjay  Pant 
+
+Scientist  'E'  &  Director  (Civ  Engg),  BIS 
+
+Shri  S.  Arun  Kumar 
+Scientist  'C  (Civ  Engg),  BIS 
+
+
+Cement,  Pozzolana  and  Cement  Additives  Subcommittee,  CED  2  :  1 
+
+Shri  S.  A.  Reddi  (Convener) 
+
+
+In  personal  capacity  (E-l,  402,  White  House  Apartments,  R.T.  Nagar, 
+Bangalore) 
+
+ACC  Ltd,  Mumbai 
+
+AIMIL  Ltd,  New  Delhi 
+
+All  India  Mini  Cement  Manufacturers'  Association,  Hyderabad 
+
+Ambuja  Cements  Ltd,  Ahmedabad 
+
+Atomic  Energy  Regulatory  Board,  Mumbai 
+
+Building  Materials  and  Technology  Promotion  Council,  New  Delhi 
+
+Cement  Corporation  of  India  Ltd,  New  Delhi 
+
+Cement  Manufactuters'  Association,  Noida 
+
+Central  Building  Research  Institute  (CSIR),  Roorkee 
+
+Central  Electricity  Authority,  New  Delhi 
+
+Central  Pollution  Control  Board,  Delhi 
+
+Central  Public  Works  Department,  New  Delhi 
+
+Central  Road  Research  Institute  (CSIR),  New  Delhi 
+
+Central  Soil  and  Materials  Research  Station,  New  Delhi 
+
+Central  Water  Commission,  New  Delhi 
+
+
+Shri  S.  A.  Khadilkar 
+
+Shri  Sharad  Kumar  Shrivastava  (Alternate) 
+
+Dr  V.  M.  Sharma 
+
+Shri  Aman  Khullar  (Alternate) 
+
+Shri  S.  R  .B.  Ramesh  Chandra 
+
+Shri  S.  Srikanth  Reddy  (Alternate) 
+
+Shri  C.  M.  Dordi 
+
+Dr  a.  N.  Vyasa  Rao  (Alternate) 
+
+Shri  L.  R.  Bishnoi 
+
+Shri  Saurav  Acharya  (Alternate) 
+
+Shri  J.  K.  Prasad 
+
+Shri  C.  N.  Jha  (Alternate) 
+
+Shri  M.  K.  Agarwal 
+
+Shrimati  Saraswathi  Devi  (Alternate) 
+
+Shri  Subrato  Chowdhury 
+
+Dr  K.  C.  Narang  (Alternate) 
+
+Dr  B.  K.  Rao 
+
+Dr  S.  K.  Agarwal  (Alternate) 
+
+Shri  Y.  K.  Sharma 
+
+Shri  Mohan  Kumar  (Alternate) 
+
+Shri  J.  S.  Kamyotra 
+
+Shri  P.  K.  Gupta  (Alternate) 
+
+Shri  A.  K.  Garg 
+
+Shri  Manu  Amitabh  (Alternate) 
+
+Dr  a.  K.  Misra 
+
+Shri  J.  B.  Sengupta  (Alternate) 
+
+Shri  Murari  Ratnam 
+
+Shri  N.  Sivakumar  (Alternate) 
+
+Director,  CMDD  (N&W) 
+
+Deputy  Director,  CMDD  (NW&S)  (Alternate) 
+
+
+8 
+
+
+IS  12269  :  2013 
+
+
+Organization 
+Dalmia  Cement  (Bharat)  Limited,  New  Delhi 
+
+Fly  Ash  Unit,  Ministry  of  Science  and  Technology,  New  Delhi 
+Gammon  India  Limited,  Mumbai 
+
+Grasim  Industries  Limited,  Mumbai 
+
+Gujarat  Engineering  Research  Institute,  Vadodara 
+
+Hindustan  Construction  Company  Limited,  Mumbai 
+
+Indian  Concrete  Institute,  Chennai 
+
+Indorama  Cement  Limited,  Mumbai 
+
+Institute  for  Solid  Waste  Research  &  Ecological  Balance 
+(INSWAREB),  Visakhapatnam 
+
+Lafarge  India  Limited,  Mumbai 
+
+Madras  Cements  Ltd,  Chennai 
+
+Maharashtra  Engineering  Research  Institute,  Nasik 
+
+Military  Engineer  Services,  Engineer-in-Chief  Branch,  Army 
+Headquarter,  New  Delhi 
+
+Ministry  of  Commerce  &  Industry,  New  Delhi 
+
+Ministry  of  Shipping,  Road  Transport  &  Highways,  New  Delhi 
+
+National  Council  of  Cement  and  Building  Materials,  Ballabgarh 
+
+National  Hydrolectric  Power  Corporation  Limited,  Faridabad 
+National  Test  House,  Kolkata 
+
+NTPC  Ltd,  New  Delhi 
+
+OCL  India  Limited,  New  Delhi 
+Orkla  India  Pvt  Ltd,  Navi  Mumbai 
+
+Public  Works  Department,  Government  of  Tamil  Nadu,  Chennai 
+
+Ready  Mixed  Concrete  Manufacturers"  Association,  Mumbai 
+
+Research,  Design  and  Standards  Organization  (Ministry  of  Railways), 
+Lucknow 
+
+Tamil  Nadu  Minerals  Limited,  Chennai 
+
+Tata  Steel  Ltd,  Jamshedpur 
+
+Ultra  Tech  Cement  Ltd,  Mumbai 
+
+In  personal  capacity  (11/69,  President's  Estate,  New  Delhi) 
+
+
+Representative(s) 
+
+Dr  K.  C.  Narang 
+
+Shri  C.  S.  Sharma  (Alternate) 
+
+Dr  Vimal  Kumar 
+
+Shri  Avinash  Y.  Mahendrakar 
+
+Shri  Manish  Mokal  (Alternate) 
+
+Shri  A.  K.  Jain 
+
+Dr  S.  P.  Pande  (Alternate) 
+
+Shri  B.  M.  Rao 
+
+Shri  K.  L.  Dave  (Alternate) 
+
+Shri  S.  K.  Dharmadhikari 
+
+Shri  K.  R.  Viswanath  (Alternate) 
+
+Dr  Anant  M.  Pande 
+
+Secretary  General  (Alternate) 
+
+Shri  Sanieev  Parasrampuria 
+
+Brig  R.  V.  Seetaramaiah  (Alternate) 
+
+Dr  N.  Bhanumathidas 
+
+Shri  N.  Kalidas  (Alternate) 
+
+Shri  M.  K.  Chaudhary 
+
+Shri  Anil  Parashar  (Alternate) 
+
+Shri  Balaii  K.  Moorthy 
+
+Shri  Anil  Kumar  Pillai  (Alternate) 
+
+Scientific  Research  Officer 
+
+Assistant  Research  Officer  (Alternate) 
+
+Brig  Rajesh  Tyagi 
+
+Col  Mukesh  Chopra  (Alternate) 
+
+Shri  R  K.  Jain 
+
+Shri  Shaish  Kumar  (Alternate) 
+
+Shri  A.  K.  Sharma 
+
+Shri  Harichand  Arora  (Alternate) 
+
+Dr  M.  M.  Ali 
+
+Dr  S.  Harsh  (Alternate) 
+
+Shri  A.  K.  Jain 
+
+Shri  D.  V.  S.  Prasad 
+
+Dr  Moitrayee  Devi  (Alternate) 
+
+Shri  A.  Vijayaraman 
+
+Shri  Masoom  Ali  (Alternate) 
+
+Dr  S.  C.  Ahluwalia 
+
+Shri  Kshmendranath  P. 
+
+Shri  Prashant  Jha  (Alternate) 
+
+Joint  Chief  Engineer  (Irrigation) 
+Executive  Engineer  (Alternate) 
+
+Shri  Vijaykumar  R.  Kulkarni 
+
+Deputy  Director  (B&F) 
+
+AssTT  Design  Engineer  (B&F)  (Alternate) 
+
+Shri  K.  Sumanth  Babu 
+
+Shri  Indranil  Chakrabarti 
+
+Shri  Subrato  Chowdhury 
+
+Shri  Biswajit  Dhar  (Alternate) 
+
+Shri  K.  H.  Babu 
+
+
+IS  12269  :  2013 
+
+
+Panel  for  Revision  of  Cement  Standards,  CED  2  :  1/Pl 
+
+
+Organization 
+In  personal  capacity  (11/69,  President's  Estate,  New  Delhi) 
+AIMIL  Ltd,  New  Delhi 
+
+Cement  Manufacturers'  Association,  Noida 
+
+Central  Building  Research  Institute  (CSIR),  Roorkee 
+
+Central  Public  Works  Department,  New  Delhi 
+
+Military  Engineer  Services,  Engineer-in-Chief 's  Branch,  Army 
+Headquarter,  New  Delhi 
+
+National  Council  for  Cement  and  Building  Materials,  Ballabgarh 
+Ready  Mixed  Concrete  Manufacturers'  Association,  Mumbai 
+
+
+Representative{s) 
+
+Shri  K.  H.  Babu  (Convener) 
+
+Dr  V.  M.  Sharma 
+
+Shri  Aman  Khullar  (Alternate) 
+
+Dr  D.  Ghosh 
+
+Shri  Sanjay  Jain  (Alternate) 
+
+Dr  S.  K.  Agarwal 
+
+Shri  Neeraj  Jain  (Alternate) 
+
+Shri  A.  K.  Garg 
+
+Shri  Manu  Amitabh  (Alternate) 
+
+Shri  R  K.  Jain 
+
+Lt-Col  Pradeep  Tiwari  (Alternate) 
+
+Dr  S.  Harsh 
+
+Dr  U.  K.  Mandal  (Alternate) 
+
+Shri  Vijaykumar  R.  Kulkarni 
+
+Shri  S.  D.  Govilkar  (Alternate) 
+
+
+10 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  establisiied  under  the  Bureau  of  Indian  Standards  Act,  1986  to  promote 
+harmonious  development  of  the  activities  of  standardization,  marking  and  quality  certification  of  goods 
+and  attending  to  connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publications.  No  part  of  these  publications  may  be  reproduced  in  any  form 
+without  the  prior  permission  in  writing  of  BIS.  This  does  not  preclude  the  free  use,  in  the  course  of 
+implementing  the  standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade  designations. 
+Enquiries  relating  to  copyright  be  addressed  to  the  Director  (Publications),  BIS. 
+
+Review  of  Indian  Standards 
+
+Amendments  are  issued  to  standards  as  the  need  arises  on  the  basis  of  comments.  Standards  are  also  reviewed 
+periodically;  a  standard  along  with  amendments  is  reaffirmed  when  such  review  indicates  that  no  changes  are 
+needed;  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision.  Users  of  Indian  Standards 
+should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or  edition  by  referring  to  the  latest  issue  of 
+'BIS  Catalogue'  and  'Standards  :  Monthly  Additions'. 
+
+This  Indian  Standard  has  been  developed  from  Doc  No.:  CED  2  (7674). 
+
+
+Amendments  Issued  Since  Publication 
+
+Amend  No.  Date  of  Issue  Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+Headquarters: 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  1 10002 
+
+Telephones  :  2323  0131,  2323  3375,  2323  9402  Website:  www.bis.org.in 
+
+Regional  Offices:  Telephones 
+
+Central       :   Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg  f  2323  7617 
+
+NEW  DELHI  1 10002  \  2323  3841 
+
+Eastern       :    1/14  C.I.T.  Scheme  VII  M,  V.  I.  R  Road,  Kankurgachi  f  2337  8499,  2337  8561 
+
+KOLKATA  700054  \  2337  8626,  2337  9120 
+
+
+Northern    :    SCO  335-336,  Sector  34-A,  CHANDIGARH  160022  J  60  3843 
+
+60  9285 
+
+
+{: 
+
+
+Southern    :    C.I.T.  Campus,  IV  Cross  Road,  CHENNAI  6001 13  f  2254  1216,  2254  1442 
+
+|_  2254  2519,  2254  2315 
+
+Western      :   Manakalaya,  E9  MIDC,  Marol,  Andheri  (East)  f  2832  9295,  2832  7858 
+
+MUMBAI  400093  \  2832  7891,  2832  7892 
+
+Branches:  AHMEDABAD.  BANGALORE.  BHOPAL.  BHUBANESHWAR.  COIMBATORE.  DEHRADUN. 
+FARIDABAD.  GHAZIABAD.  GUWAHATI.  HYDERABAD.  JAIPUR.  KANPUR.  LUCKNOW 
+NAGPUR.  PARWANOO.  PATNA.  PUNE.  RAJKOT.  THIRUVANANTHAPURAM. 
+VISAKHAPATNAM. 
+
+
+Published  by  BIS,  New  Delhi 
+
+

@@ -1,0 +1,12 @@
+{
+  "name": "manakmitra-scripts",
+  "private": true,
+  "type": "module",
+  "description": "Root-level tooling (frontend contract verification, which spans both frontend and backend) -- not the frontend app itself, which lives in frontend/indian-standards-frontend, and not backend-only scripts, which live in backend/scripts/.",
+  "scripts": {
+    "verify-frontend-contract": "node scripts/verify-frontend-contract.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}

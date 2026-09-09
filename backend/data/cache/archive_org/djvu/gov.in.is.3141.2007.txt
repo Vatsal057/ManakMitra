@@ -1,0 +1,4208 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 3141 (2007) : Starter Motors for internal combustion 
+engines used for automotive and other applications [TED 11: 
+Automotive Electrical Equipment] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 3141 : 2007 
+
+Wsfk wj^ 
+
+Indian Standard 
+
+STARTER MOTORS FOR INTERNAL COMBUSTION 
+
+ENGINES USED FOR AUTOMOTIVE AND OTHER 
+
+APPLICATIONS — SPECIFICATION 
+
+( Second Revision ) 
+
+
+
+ICS 43.060.50 
+
+
+
+© BIS 2007 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+Ocioher 2007 Price Group 8 
+
+
+
+Automotive Electrical Equipment and Instruments Sectional Committee, TED 1 1 
+
+
+
+FOREWORD 
+
+This Indian Standard (Second Revision) was adopted by the Bureau of Indian Standards, after the draft finalized 
+by the Automotive Electrical Equipments and Instruments Sectional Committee had been approved by the Transport 
+Engineering Division Council. 
+
+This standard was first published in 1965. It was first revised in 1983 to cover starters for all types of automotive 
+applications and to include environmental and endurance tests. In this revision, considering developments at 
+national and international level, new tests, namely, solenoid life test, salt spray test, thermal shock test, hot 
+storage test, cold storage test, mud water splash test and resistance to media test have been included besides 
+modification in test condifions 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, 
+observed or calculated expressing the result of a test or analysis, shall be rounded off in accordance with IS 2 : 1960 
+'Rules for rounding off numerical values {revisedY .The number of significant places retained in the rounded off 
+value should be the same as that of the specified value in this standard. 
+
+
+
+IS 3141 : 2007 
+
+Indian Standard 
+
+STARTER MOTORS FOR INTERNAL COMBUSTION 
+
+ENGINES USED FOR AUTOMOTIVE AND OTHER 
+
+APPLICATIONS — SPECIFICATION 
+
+( Second Revision ) 
+
+
+
+1 SCOPE 
+
+This standard covers the basic mechanical and 
+electrical requirements and methods of test for 12 and 
+24 V dc starter motors for internal combustion engines 
+used for automotive and other applications. 
+
+2 REFERENCES 
+
+The following standards contain provisions, which 
+through reference in this text, constitute provisions of 
+this standard. At the time of publication the editions 
+indicated were valid. All standards are subject to 
+revision and parties to agreements based on these 
+standards are encouraged to investigate the possibility 
+of applying the most recent edition of the standards 
+indicated below: 
+
+IS No. Title 
+
+4905 ; 1968 Methods for random sampHng 
+9000 (Part 5/ Basic environmental testing 
+Sec 1 and 2) : procedures for electronic and 
+1981 electrical items: Part 5 Damp heat 
+
+(cyclic) test 
+
+3 TERMINOLOGY 
+
+For the purpose of this standard the following 
+definitions shall apply. 
+
+3.1 Starter Motor — A special dc electric motor 
+capable of delivering high torque for short periods of 
+time and to be used as cranking device for starting 
+petrol/diescl/CNG/LPG engines. 
+
+3.2 Inboard Starter Motor — A starter motor on 
+which the pinion moves inward towards the starter 
+motor body to engage with the ring gear. 
+
+3.3 Outboard Starter Motor — A starter motor on 
+which the pinion moves outward from the starter motor 
+body to engage with the ring gear. 
+
+3.4 Inertia Engagement — Engagement effected by 
+axial movement of the pinion along a heUcaily splined 
+shaft due to inertia of the pinion, when the shaft is 
+rotated. 
+
+3.5 Pre-engagement — Engagement effected by 
+
+
+
+power such as solenoid before the rotation of motor. 
+
+3.6 Axial Engagement — Engagement effected by the 
+sliding motion of the armature and drive assembly by 
+the motor electromagnetic circuit before the application 
+of full power to engine crankshaft. 
+
+3.7 Over Running Clutch (ORC) — A device which 
+transmits torque from the starter motor shaft to the 
+pinion and freewheels once the engine has started (see 
+Fig. 1). 
+
+3.8 Rated Voltage — The voltage at which the starter 
+motor is designed to operate. 
+
+3.9 Lock Torque — Torque delivered by a starter motor 
+when connected to a rated voltage and when the pinion 
+is restrained from rotation. 
+
+3»10 Type Tests — Test carried out to prove conformity 
+with the specification. These are intended to prove the 
+general qualities and design of a given type of starter 
+motor. 
+
+3.11Acceptance Tests — Tests carried out on each 
+sample from a lot for the purpose of acceptance of the 
+lot. 
+
+3.12 Routine Tests — Tests carried out on each starter 
+motor to check the functional parameters, which are 
+likely to vary during production. 
+
+3.13 Bell-housing — One which mounts the starter 
+motor into the engine (see Fig. 2). 
+
+3.14 Customer — Original equipment manufacturer 
+(OEM) of engine/vehicles. 
+
+3.15 Supplier — Starter motor manufacturer. 
+
+4 TYPE OF STARTER MOTORS 
+
+The starter motors are classified based on their 
+capabilities to withstand various environmental and 
+operating requirements. 
+
+4.1 Environmental Conditions 
+
+Starter motors are classified into the following types 
+based on the enclosures, suitable for the environmental 
+conditions likely to be encountered during service. 
+
+
+
+IS 3141 : 2007 
+
+
+
+In \ 
+
+
+
+7^ 
+
+
+
+I 
+
+
+
+
+
+^i^m 
+
+
+
+-4' 
+
+
+
+V I ^ 
+
+
+
+.^t— .t^ 
+
+
+
+
+Fig. 1 Over Running Clutch 
+
+
+
+BELL HOUSING 
+
+
+
+
+Fig. 2 Bbll-housing 
+
+
+
+4. LI General Purpose Starter Motor 
+
+Inertia and pre-engaged drive starter motor on petrol/ 
+diesel/CNG/LPG engine vehicles where the starter 
+motor is located in such a position as to be subjected 
+only to water splash experienced on wet roads. 
+
+4.1.2 Externally Protected (Water and OU-Prooffrom 
+Splash Except from. Bell-housing) 
+
+Pre-engaged starter motor on petrol/diesel/CNG/LPG 
+
+
+
+engine vehicles, where the starter motor is subject to 
+direct water splash from wheels and also in diesel 
+applications to fuel oil drip from leaking joints and 
+fuel oil splash during filter change and bleeding. 
+
+4.1.3 Internally Protected (Oil-Sealed from Bell- 
+housing) 
+
+Pre-engaged drive and axial type starter motors on diesel 
+engines having oil immersed clutches where oil level is 
+lower than the mounting position of the starter motor. 
+
+
+
+IS 3141 : 2007 
+
+
+
+4.2 Operating Duty 
+
+4.2.1 Light Duty 
+
+Starter motors suitable basically for passenger car, light 
+commercial vehicles fitted with petrol/LPG/CNG 
+engines and single cylinder diesel/petrol/LPG/CNG 
+
+engines. 
+
+4.2.2 Medium Duty 
+
+Starter motors suitable for light commercial vehicles 
+and tractors fitted with diesel engines and CNG engine 
+
+vehicles. 
+
+4.2.3 Heavy Duty 
+
+Starter motors suitable for heavy commercial vehicles 
+and CNG engine vehicles. 
+
+4.2.4 Extra Heavy Duty 
+
+Starter motors suitable for off -highway equipment (for 
+example, earth moving equipment) with severe 
+operating conditions, industrial engines, construction 
+equipment (for example, screw compressors) and 
+special vehicles. 
+
+5 SFXECTION OF DRIVES 
+
+5 J Inertia Drive 
+
+Inertia drive is recommended only for light duty 
+applications such as 3 wheelers fitted with single 
+cylinder petrol/CNG/LPG engines. 
+
+There are two varieties in this type. One with drive 
+assembly as part of the engine as shown in Fig. 3 and 
+the other with the drive assembly as part of the starter 
+motor itself as shown in Fig. 4. 
+
+
+
+5.2 Pre-engaged Drive 
+
+These types of drives are recommended for light and 
+medium duty applications. It may also be used for 
+heavy and extra heavy-duty applications. There are two 
+types in pre-engaged drives, over hang pinion type (see 
+Fig. 5) and open type {see Fig. 6). 
+
+5.3 Axial T^pe 
+
+These types of drives are recommended for heavy duty 
+and extra heavy duty applications {see Fig. 7). 
+
+6 MARKING 
+
+6.1 Each starter motor shall be marked or affixed with 
+a nameplate with the following information: 
+
+a) Name or trade-mark of starter motor 
+manufacturer, 
+
+b) Type number and part number, 
+
+c) Rated voltage, 
+
+d) Direcdon of rotation, 
+
+e) Year of manufacture, 
+
+f) Country of manufacture, and 
+
+g) Identification for environmental compati- 
+bility. 
+
+6.2 The terminals shall be clearly marked with, '+\ 
+'SOL' and ' -' signs. 
+
+6.3 BIS Certification Marking 
+
+The product may also be marked with the Standard 
+Mark. 
+
+
+
+
+Fig. 3 Starter Motor with Drive Assembly as Part of Engine 
+
+
+
+TERMINAL SEAL 
+
+SCREW 
+
+
+
+ARMATURE £c 
+YOKE ASSV. BRG.ASSV. 
+
+
+
+
+DRIVE «c 
+SHAFT ASSY 
+
+
+
+nx.BRKT 
+ASSY. 
+
+
+
+INTER 
+BRKT.ASSY 
+
+
+
+
+
+
+O 
+
+
+
+Fig. 4 Starter Motor with Drive Assembly 
+
+
+
+IS 3141 : 2007 
+
+
+
+
+Fig. 5 Over Hang Pinion Type 
+
+
+
+3 4 5 6 7 B 9 
+
+
+
+10 
+
+
+
+
+22 
+
+
+
+21 
+
+
+
+20 19 18 17 16 15 
+
+
+
+^ — Pinion, 2 — Engaging lever, 3 — Spool, 4 ~ Cutoff spring, 5 — Return spring, 6 — Solenoid switch, 7 — Hold-in 
+winding, 8 — PuIMn winding, 9 — Moving contact, 10 — Terminal, 11 —Contact. 12 — Brush spring, 13 — Commutator, 
+14 __ Carbon brushes, 15 — Pole shoe, 16 — Field frame, 17 —Armature, 18 — Excitation winding, 19 — Brake disc, 
+20 — Helical spline, 21 — Meshing spring, 22 — Drive end shield. 
+
+Fig. 6 Open Type 
+
+
+
+IS 3141 : 2007 
+
+
+
+8 9 10 11 
+
+
+
+
+1 — Drive spindle, 2 — Drive housing, 3 — Multiplate overrunning clutch, 4 —Armature, 5 — Terminal, 6 — Commutator 
+Gndahield, 7 — Control relay, 9 — Moving contact, 9 — stop, 10 — Tripping lever, 11 — Release lever, 12 — Engagement 
+solenoid, 1 3 — End cover, 1 4 — Commutator, 1 5 — Carbon brush, 1 6 — Brush holder, 1 7 — Pole shoe 1 8 — Excitation 
+winding, 19 — Field frame, 20 — Pinion. 
+
+Fig. 7 Axial Type Drive 
+
+
+
+6.3,1 The use of the Standard Mark is governed by the 
+provisions of Bureau of Indian Standards Act, 1986 
+and the Rules and Regulations made thereunder. The 
+details of conditions under which the licence for the 
+use of Standard Mark may be granted to manufacturers 
+or producers may be obtained from the Bureau of 
+Indian Standards. 
+
+7 TESTS 
+
+7.0 General 
+
+Unless otherwise specified, all tests shall be carried 
+out at an ambient temperature of 20 to45°C. 
+
+7.1 Classification of Tests 
+7.1.1 Type Tests 
+
+The following shall constitute type tests: 
+
+a) Visual examination (see 7.2), 
+
+b) Dimensional check (see 7.3), 
+
+c) High voltage test (see 7.4), 
+
+d) Insulation resistance test (see 7.S), 
+
+e) Performance (see 7.6), 
+
+f) Test for characteristic curves (see IJ), 
+
+g) Pinion engagement test (see 7.8), 
+h) Solenoid life test (see 7.9), 
+
+j) Endurance test (see 7.10), 
+
+k) Continuous cranking test (see 7.11), 
+
+m) Cold cranking test (optional test) (see 7.12), 
+
+n) Sinusoidal vibration test (see 7.13), 
+
+p) Damp heat (cycling) test (see 7.14), 
+
+
+
+q) Thermal shock test (see 7.15), 
+
+r) Salt spray test (see 7.16), 
+
+s) Cold spray test (see 7.17), 
+
+t) Hot storage test (see 7.18), 
+
+u) Mud water splash test (see 7.19), 
+
+v) Media resistance test with motor vehicle fuels 
+
+(see 12^), 
+w) Dust test (5^^ 7.21), 
+x) Water spray test (see 1.22), and 
+y) Test for internally protected (oil sealed) type 
+
+starter motors (see 7.23). 
+
+7.1.1.1 Criteria for approval 
+
+Nine samples shall be submitted for testing together 
+with the relevant data. These shall be tested according 
+to the sequence of tests given in Annex A, The testing 
+authority shall issue a type approval certificate if the 
+starter motors are found to comply with the 
+requirements of tests given in 6.1.1. 
+
+7.1.1.2 In case of failure in one or more type tests, the 
+testing authority shall call for fresh samples not 
+exceeding twice the number of original samples and 
+subject them to the test(s) in which failure occurred. If 
+in repeat test(s) no failure occurs, the tests shall be 
+considered to have been satisfied. 
+
+7.1.2 Acceptance Tests 
+
+The following shall constitute acceptance tests: 
+
+a) Visual examination (see 7.2), 
+
+b) Dimensional check (see 7.3), 
+
+
+
+IS 3141 : 2007 
+
+
+
+c) High voltage test (see 7.4), and 
+
+d) Performance check (see 7.6). 
+
+7.1.2.1 The number of samples for acceptance test shall 
+be as agreed between the purchaser and the 
+manufacturer. However, a recommended plan of 
+sampling is given in Annex B. 
+
+7.1.3 Routine Tests 
+
+The following shall constitute routine tests: 
+
+a) Visual examination (see 7.2), and 
+
+b) Performance check (see 7,6). 
+
+7.2 Visual Examination 
+
+The starter motors shall be visually examined for the 
+following: 
+
+a) Surface condition, 
+
+b) Free from damages, 
+
+c) Intactness of fasteners, and 
+
+d) Markings. 
+
+7.3 Dimensional Check 
+
+The starter motors shall be checked for dimensions 
+using appropriate measuring instruments. The 
+dimensions shall conform to that of the outline drawing 
+mutually agreed between the customer and the supplier. 
+
+7.4 High Voltage Test 
+
+This test shall be carried out only on separate sub- 
+assemblies of brush gear assembly, armature and pole- 
+housing assembly consisting of pole-housing, 
+excitation winding, and pole shoe. On new cleaned and 
+dried sub-assemblies 900-990 V d.c. or 500 V a.c. 
+r.m.s. shall be applied between conducting members 
+and ground. The sub-assemblies shall withstand this 
+test without arcing or puncture indicative of insulation 
+breakdown. The repeat test is not advisable and if 
+unavoidable, the test shall be carried out with 80 
+percent of the previous test voltage after cleaning and 
+drying the sub-assemblies. 
+
+Test duration is 5s. 
+
+NOTE — Before carrying out the high voltage test, the unit 
+under test should be cleaned and thoroughly dried. The high 
+voltage test should be conducted with caution as repeated 
+application of the test voltage on the same unit may injure the 
+insulation and thereby reduce the safety factor. If for any reason 
+it is desired to repeat the conduct additional high voltage test, 
+the test voltage shall be reduced to 200 V a.c. r.m.s. Before 
+applying the supplementary high voltage, the unit under test 
+should be cleaned and thoroughly dried. 
+
+7.5 Insulation Resistance Test 
+
+The insulation resistance shall be measured between 
+terminals and the external metal parts of the starter 
+
+
+
+motor using a 500 V d.c. mega-ohm meter. If any of 
+the terminals is internally grounded, the earth 
+connection shall be disconnected. Prior to carrying out 
+insulation resistance measurements, it should be 
+ensured that the windings are clean and dry. The test 
+shall be carried out on subassemblies of starter motor. 
+
+The test duration is 5 s. 
+
+The insulation value thus measured shall not less than 
+0.5 MQ. 
+
+7.6 Performance Check 
+
+7.6.1 Light Running Test 
+
+With nominal voltage supply, the starter motor shall 
+be run up to full speed at no load. Any excessive noise 
+due to armature rubbing on poles or due to commutator 
+bar lift shall be checked. The speed, current and voltage 
+shall be as per the outline drawing, mutually agreed to 
+between the customer and the supplier. 
+
+7,6,1,1 Test bench 
+
+The following type of test rig may be used. The test 
+bench given below allows performance measurement 
+to be taken by engaging the starter pinion with a ring 
+gear. The backlash between the pinion and ring gear is 
+adjusted in accordance with the starter motor 
+manufacturers recommendations. 
+
+The test rig for the load test of starter motor shall consist 
+of the following: 
+
+a) A suitable braking device (for example 
+Magnetic particle clutch) to apply load on the 
+starter pinion, 
+
+b) Meters for voltage, current, speed and torque 
+measurements, and 
+
+c) Direct current supply with means for adjusting 
+and maintaining voltage. 
+
+NOTES 
+
+1 A low ripple motor generating set or transformer rectifier 
+may be used instead of batteries in which case the permissible 
+ripple shall not exceed 2 percent peak value. 
+
+2 Measurement Accuracy 
+
+
+
+Current 
+
+
+± 1 percent 
+
+
+Voltage 
+
+
+± 1 percent 
+
+
+Speed 
+
+
+± percent 
+
+
+Torque 
+
+
+± percent 
+
+
+
+7.6.2 Locked Torque Test 
+
+7.6.2.1 Procedure 
+
+The pinion gear of the starter motor shall be locked on 
+the test rig by means of suitable application of load. 
+Applying the voltage indicated in the drawing the 
+current and torque shall be measured. The test duration 
+shall be limited to 2.0 s. 
+
+
+
+IS 3141 : 2007 
+
+
+
+7.7 Test for Characteristic Curves 
+
+7.7.1 Procedure 
+
+Run the starter motor at various discrete torque loads 
+and record the torque, voltage, current and rotational 
+speed at each of this discrete loads. Record enough 
+points to develop curves. The performance 
+characteristic curve shall be mutually agreed to 
+between the customer and the supplier. After each 
+measurement point cool all parts of the motor to test 
+temperature. 
+
+In case of continuous loading method the total duration 
+of test shall be with in 12,0 s. 
+
+Correction of torque with ring gear efficiency. 
+
+The correction shall be made using the following formula: 
+
+
+
+M,.^^^^^' 
+
+
+
+Z^ri 
+
+
+
+where 
+
+
+
+A/j = corrected torque with ring gear efficiency, 
+
+M2 = measured torque, 
+
+Zy - number of teeth on the starter motor pinion, 
+
+n(min"'') P(kW) M(N.m) U(V) 
+
+
+
+Z2 = number of teeth on the ring gear of the test 
+rig, and 
+
+Tj = efficiency of the mating gears. 
+
+A suitable method for calculating the performance 
+characteristics of starter motors for different conditions 
+of battery voltages and temperatures from the given 
+condition is given in Annex C. 
+
+The typical performance curve is shown in Fig. 8. 
+7.8 Pinion Engagement Test 
+
+a) Inertia starter — The pinion shall travel to 
+its full engagement till stop when the starter 
+motor is connected to 1 V supply for starters 
+for 12 V systems without any interruption 
+during travel. 
+
+b) Pre-engaged starter — Distance between the 
+ring gear and starter pinion (in static 
+condidon) shall be maintained to minimum 
+value as specified in the outline drawing, 
+mutually agreed to between the customer and 
+the supplier. On application of more than 8 V 
+at ambient to solenoid terminal (terminal 50) 
+the contacts shall close and the pinion shall 
+move forward. 
+
+
+
+7000- 
+
+
+1.4- 
+1.2- 
+1.0- 
+0-8- 
+0.6- 
+0.A- 
+0.2- 
+0- 
+
+
+14.0- 
+
+12.0- 
+
+10.0- 
+
+8-0- 
+
+6-0- 
+
+4.0- 
+
+2.0- 
+
+0- 
+
+
+14- 
+12- 
+10- 
+8- 
+6- 
+4- 
+2- 
+0- 
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6000- 
+
+
+
+
+
+
+\ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+•^ 
+
+
+\ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5000- 
+
+
+
+
+
+
+N 
+
+
+>s. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AOOO- 
+
+
+
+
+
+
+
+
+\ 
+
+
+
+
+
+
+^ 
+
+
+^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\ 
+
+
+
+
+
+
+
+
+^ 
+
+
+^ 
+
+
+
+
+J» 
+
+
+
+
+
+
+
+
+
+
+3000- 
+
+
+
+
+
+
+
+
+
+
+\ 
+
+
+y 
+
+
+'^ 
+
+
+
+
+\ 
+
+
+
+
+> 
+
+
+< 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+\ 
+
+
+
+
+
+
+
+
+y 
+
+
+/^ 
+
+
+
+
+
+
+
+
+
+
+
+
+2000- 
+
+
+
+
+
+
+
+
+/ 
+
+
+r 
+
+
+
+
+\ 
+
+
+
+
+y 
+
+
+^ 
+
+
+I 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+
+
+> 
+
+
+K 
+
+
+
+
+
+
+\ 
+
+
+
+
+
+
+
+
+
+
+
+
+1000- 
+
+
+
+
+
+
+y 
+
+
+
+
+
+
+/ 
+
+
+/^ 
+
+
+
+
+\ 
+
+
+w 
+
+
+N 
+
+
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ 
+
+
+
+
+X 
+
+
+.^.. 
+
+
+
+
+
+
+
+
+\ 
+
+
+V 
+
+
+\ 
+
+
+
+
+
+
+
+
+
+
+oJ 
+
+
+
+
+
+
+£ 
+
+
+^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+[^ 
+
+
+
+
+
+
+
+
+
+
+
+50 100 150 200 250 300 350 I (A) 
+
+
+
+V- 
+
+p ■ 
+
+
+
+Voltage in volts 
+Power in kW 
+
+
+
+n - Speed in rpm 
+1 - Current in amps 
+
+
+
+M - Torque in Nm 
+
+
+
+Fig. 8 Typical Performance Curves 
+8 
+
+
+
+IS 3141 : 2007 
+
+
+
+Measuring duration 2s. 
+c) Axial type starter — The armature shall travel 
+to its full engagement stop when the starter 
+motor is connected to 10 V or 20 V for starter 
+motors for 1 2 V and 24 V systems respectively 
+without any interruption during travel. 
+
+7.9 Solenoid Life Test 
+
+Distance between the ring gear and starter motor pinion 
+(in static condition) shall be maintained to minimum 
+value as specified in the outline drawing. The solenoid 
+of the starter motor alone to be energized. The contact 
+of solenoid is made to carry a current equal to the peak 
+power in corresponding battery. The solenoid is 
+energized for 1 s. During the energization, the moving 
+contact shall be allowed to draw corresponding 
+cranking current of that application. The solenoid off 
+time is decided by the solenoid cooling. Maximum 
+temperature allowed shall be lOO^C. A total of 50 000 
+Cycles shall be conducted. 
+
+At the end of the test the solenoid shall be functional 
+and solenoid contact shall carry the set current. There 
+shall be no dcimage to the solenoid. 
+
+7.10 Endurance Test 
+
+7.10.1 The set-up for the test shall consist of the 
+following: 
+
+a) Engine — Capacity and number of cylinders 
+of the engine shall be as in the vehicle 
+installation. The same make and type of 
+engine for which the starter motor is specified 
+shall be preferable for the test. 
+
+b) Battery — The capacity and type of the battery 
+shall be similar to the one specified for the 
+vehicle and it shall be maintained at not less 
+than 75 percent fully charged condition. 
+
+
+
+7.10.2 The following initial measurements on starter 
+motor shall be conducted before doing the testing: 
+
+a) Pinion static position, 
+
+b) Condition of pinion (visual), and 
+
+c) Starter motor performance as per outline 
+drawing. 
+
+7.10.3 Test Conditions 
+
+a) A new flywheel ring gear shall be fitted on 
+the engine. The ring gear dimensions, profile, 
+tooth chamfer, material and hardness shall be 
+mutually agreed upon by the customer and 
+the supplier. 
+
+b) The starter motor main and solenoid circuit 
+resistance shall not exceed the values 
+specified by the supplier. The starter motor 
+and solenoid terminal voltages shall not be 
+lower than the value specified in the outline 
+drawing mutually agreed by the customer and 
+the supplier. 
+
+c) During the test, the starter motor pole housing 
+temperature shall not exceed 60''C. This 
+decides the test cycle time and therefore the 
+rest period for the starter motor. Fan cooling 
+to the pole housing shall be permitted to 
+reduce the cycle time. 
+
+d) The battery charging circuit shall be 
+disconnected while the starter motor is 
+energized. The charging system shall be so 
+selected that the battery is kept 75 percent 
+charged condition throughout the test. 
+
+e) The throttle shall be set to give an engine 
+speed as recommended by the customer. 
+
+7 AOA Test Cycle 
+
+The test cycle for endurance test for different type of 
+starter motors shall be as given below: 
+
+
+
+Type of 
+Starter 
+Motor 
+
+
+Starter Motor 
+
+Energized 
+
+Period without 
+
+Ignition/Fuel 
+
+
+Starter Motor 
+
+Energized 
+
+Period with 
+
+Ignition/Fuel 
+
+
+Total Starter 
+
+Motor 
+
+Energized 
+
+Period 
+
+
+Total 
+
+Ignition/Fuel 
+
+on Period, 
+
+Min 
+
+
+No, of 
+Starts 
+
+
+Servicing 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(V) 
+
+
+
+
+Second 
+
+
+Second 
+
+
+Second 
+
+
+Second 
+
+
+
+
+
+
+Light 
+duty 
+
+
+0.5 
+
+
+0.5 
+
+
+1 
+
+
+2 
+
+
+30 000 
+
+
+Drive (Inertia type) pinion 
+brush and shaft (pre- 
+engaged type) shall be 
+lubricated after each 5 000 
+starts. Bush change shall be 
+permissible after 15 000 
+starts 
+
+
+
+IS 3141 :2007 
+
+
+
+Type of 
+Starter 
+Motor 
+
+
+Starter Motor 
+
+Energized 
+
+Period without 
+
+Ignition/Fuel 
+
+
+Starter Motor 
+
+Energized 
+
+Period with 
+
+Ignition/Fuel 
+
+
+Total Starter 
+
+Motor 
+
+Energized 
+
+Period 
+
+
+Total 
+
+Ignition/Fuel 
+
+on Period, 
+
+Min 
+
+
+No. of 
+Starts 
+
+
+Servicing 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7) 
+
+
+
+
+Second 
+
+
+Second 
+
+
+Second 
+
+
+Second 
+
+
+
+
+
+
+Medium 
+duty 
+
+
+0.5 
+
+
+I 
+
+
+r/2 
+
+
+2 
+
+
+40 000 
+
+
+a) Pinion and drive end bracket 
+bearing bushes and shaft 
+heHx shall be lubricated 
+after each 5 000 starts 
+
+
+
+
+b) Brush change shall be 
+permissible after 20 000 
+starts 
+
+
+Heavy 
+duty 
+
+
+5 
+
+
+1 
+
+
+6 
+
+
+3 
+
+
+10 000 
+
+
+a) Pinion and drive end bracket 
+bearing bushes and shaft 
+helix shall be lubricated 
+after each 5 000 starts 
+
+
+
+
+b) Brush change shall be 
+
+permissible after 5 000 starts 
+
+
+Extra 
+heavy 
+duty 
+
+
+7 
+
+
+1 
+
+
+8 
+
+
+3 
+
+
+6 000 
+
+
+a) The plate type clutch shall 
+be checked and reset after 1 
+000 starts 
+
+
+
+
+b) Pinion and drive end bracket 
+bearing bushes and shaft 
+helix shall be lubricated 
+after 3 000 starts 
+
+
+
+
+c) Brush change shall be 
+permissible after 3 000 
+starts 
+
+
+
+7,10.5 Requirement 
+
+The starter motor shall complete the specified number 
+of starts without failure. After this test the starter motor 
+shall be functional. 
+
+7.11 Continuous Cranking Test 
+
+7.11.1 Test Equipment 
+
+The set-up for the test shall consists of the following: 
+
+a) Engine — Capacity and type of engine shall 
+be as in the vehicle installation. Grade of oil 
+used shall be as recommended by the 
+customer. 
+
+b) Battery — The battery shall be of the type 
+and capacity specified for the vehicle and 
+maintained at fully charged condition. 
+
+1A\2 Test Condition 
+
+a) Starter motor main and solenoid cable 
+resistance shall be within the values 
+recommended by the supplier. 
+
+b) Ignition/fuel shall be switched 'Off 
+throughout the test. 
+
+
+
+7.11.3 Procedure 
+
+The starter motor shall crank the engine continuously 
+for a period of 5 min. 
+
+After the test, the starter motor shall not show any sign 
+of damage due to excessive temperature raise and shall 
+be able to crank and start the engine with fuel/ignition. 
+
+7,12 Cold Cranking Test 
+
+The engine, battery, starter motor and cables shall be 
+soaked at the temperature (0°C or any other sub-zero 
+temperature as agreed to between the supplier and the 
+customer) for a period of minimum 16 h, the test to be 
+carried out normally at 80 percent charged condition 
+unless otherwise specified by the customer. Oil used 
+shall be as per the recommendation by the customer. 
+The starter motor (without ignition fuel) shall deliver 
+the minimum cranking speed as agreed upon by the 
+customer and the supplier. 
+
+Test duration: 30s. 
+
+
+
+10 
+
+
+
+IS 3141 : 2007 
+
+
+
+7.13 Sinusoidal Vibration Test 
+
+Prior to the vibration test, starter motor shall be 
+subjected to thermal shock test as per 7.15. The starter 
+motor shall be subjected to a vibration level of 300 g 
+for 100 h. The starter motor shall be subjected to a 
+vibration level of 75m/s2 for a period of 4 h in each 
+direction. During the test the sweep frequency to be 
+1 00 000 c/s. After the test the starter motor shall show 
+no damage and shall be functional. 
+
+7.14 Damp Heat (Cycling) Test 
+
+The test shall be conducted as specified in IS 9000 
+(Part 5/Sec 2). The number of conditioning cycles shall 
+be 21. The opening portion of the starter motor shall 
+be kept sealed throughout the test. 
+
+Alter this test the starter motor shall meet the 
+requirements of light running test and lock torque test. 
+
+7.15 Thermal Shock Test 
+
+The starter motor shall be subjected to the following 
+thermal shock test: 
+
+
+
+Temperature 
+Test duration 
+
+
+
+-20'='Cand+110°C 
+
+30 cycles 
+
+
+
+Starter motor is kept without power supply. Soaking 
+duration at each temperature limit shall be 
+approximately 3 h. After the test the starter motor shall 
+show no damage and shall be functional. 
+
+7.16 Salt Spray Test 
+
+The starter motor shall be mounted on the test table as 
+in actual usage orientation. No power supplies to starter 
+motor during testing. Salt spray solution containing 5 
+percent sodium chloride shall be sprayed continuously 
+on to the sample. 
+
+
+
+Temperature 
+Duration 
+
+
+
+35±2°C 
+72 h 
+
+
+
+After the test the starter motor shall be functional. 
+
+7.17 Cold Storage Test 
+
+Store the starter motor at ^O^'C for 50 h. After the test 
+there shall be no damage to any components of the 
+starter motor and it shall be functional. 
+
+7.18 Hot Storage Test 
+
+Store the starter motor at +1 10°C for 50 h. After the 
+test there shall be no damage to any of the starter motor 
+components and it shall be functional. 
+
+7.19 Mud Water Splash Test 
+
+The starter motor shall be mounted on the test chamber 
+as in actual usage condition. The chamber shall be filled 
+
+
+
+with mud water. The starter motor openings are to be 
+closed. The starter motor is subjected to a mud water 
+splash for 4 s duration with 4 min pause. During this 
+pause period the starter motor is energized for light 
+run for 10 s. Totally 300 cycles are to be conducted. 
+
+After the test there shall be no damage to the starter 
+motor or any other component of it and it shall be 
+functional. 
+
+7.20 Media Resistance Test with Motor Vehicle Fuels 
+
+7.20.1 Test Method 
+
+In a test cycle, the starter motor is soaked with test 
+fluid and stored under enhanced ambient temperature. 
+
+7.20.2 Test Equipment 
+
+For wetting with test fluid, following equipment is 
+required based on the need. 
+
+a) Scooping container for dipping, 
+
+b) Spray gun, 
+
+c) Brush, 
+
+d) Forced exhaust for exhausting vapours 
+dangerous to health, and 
+
+e) Explosion proof thermal cabinet. 
+
+7.20.3 Test Conditions 
+Designation and type of test fluids 
+
+a) Window screen cleaner; 
+
+b) Engine cooling fluid; 
+
+c) Engine oil; 
+
+d) Cold cleaning medium; 
+
+e) Diesel; 
+
+f) Gear box oil (manual gear box); 
+
+g) ATF-Oil (automatic and steering aid); 
+h) Rear axle oil; 
+
+j) Protective grease; 
+
+k) Wax remover; 
+
+m) Brake fluid; 
+
+n) Battery acid; and 
+
+p) Petrol. 
+
+7.20.4 Test Cycles 
+
+The test is carried out in cycles, where duration of one 
+test cycle is 24 h. During the test cycle, the starter motor 
+is handled in general as follows: 
+
+a) wet for 5 s with test fluid and there after, and 
+
+b) store for 24 h in thermal cabinet at SC'C. A 
+different temperature can be mutually agreed. 
+
+The above procedure should be repeated for each of 
+the test fluids mentioned above. 
+
+Number of test cycles as agreed. 
+
+
+
+11 
+
+
+
+IS 3141 : 2007 
+
+
+
+7.20.5 Evaluation 
+
+After the test — including a generation phase to be 
+agreed — there shall be no deformation, discoloration, 
+formation of crack and it shall be functional. 
+
+7.21 Dust Test 
+
+This test is a passive test as shown in Fig. 9. 
+
+7.21.1 Test Instructions 
+
+The starter motor under test is brought into the test 
+chamber, fixed and is exposed in a horizontal air- 
+current generated from outside in its ready-condition. 
+The air-current carries with it dust particles. 
+
+72L2 Test Dust 
+
+The mixture of dust contains the following two 
+
+constituents: 
+
+50 percent by weight unburnt — Portland cement + 50 
+
+percent by weight flue-dust. 
+
+The mixture iy passed through a sieve a mesh-width 
+
+0.25 mm. 
+
+The grain size distribution shall be approximately as 
+follows: 
+
+33 percent by weight : < 0.032 mm 
+
+76 percent by weight : > 0.032 < 0.250 mm 
+
+when the dust is contaminated very much by rubbing 
+from the starter motor, the dust is to be renewed. 
+
+
+
+7.21.3 Jest Temperature 
+
+The test temperature shall be between -i-20°C and 
+
++70°C. 
+
+7.21.4 Air-Humidity 
+
+The relative air-humidity shall be for an ambient 
+temperature of 23°C below 60 percent. 
+
+7.21.5 Density of Dust 
+
+The density of dust shall be 5 ± 2 g/m^ at a distance of 
+10 cm before the starter motor, 
+
+7.21.6 Velocity of Air- Current 
+
+The velocity of air-current shall be adjustable between 
+1.5 to 3 m/s. 
+
+7.21.7 Duration of Test 
+
+a) 2 h for starter motors used in passenger cars, 
+commercial vehicles, Omni buses and 
+automobiles where similar stresses are 
+experienced, 
+
+b) 4 h for starter motors used in tractors, 
+harvesters and prime movers. 
+
+7.21.8 Post-treatment 
+
+At the end of test duration, the starter motor is kept 
+in the test device, till the dust settles down completely. 
+If required, it may be kept at temperatures between 
++20X and +23''C till stability of temperatures is 
+achieved. 
+
+
+
+Ventilator-motor 
+
+
+
+Light-beam sensor 
+
+
+
+Test chamber 
+
+
+
+
+Ventilator 
+Housing 
+
+
+
+Dust 
+container 
+
+
+
+Dosing 
+unit 
+
+
+
+Dust collecting funnel 
+
+
+
+Fig. 9 Schematic Diagram Showing the Test Equipment 
+
+12 
+
+
+
+IS 3141 : 2007 
+
+
+
+7.21.9 Evaluation 
+
+After the test the starter motor shall be functional. 
+
+7.22 Water Spray Test 
+
+7.22.1 Test Equipment 
+
+The dripping device shall be capable of spraying water 
+under laboratory atmospheric conditions at a static 
+pressure of 200 kPa± 15 percent from 8 shower heads 
+with the following: 
+
+a) The static pressure shall be measured nearest 
+to each shower head, and 
+
+b) The water used for this test may be re- 
+circulated. 
+
+It shall be possible to direct the spray from 4 of these 
+shower heads downwards, at an angle of 45°, at each 
+of the four uppermost comers of the item under test 
+and from the remaining 4 shower heads, horizontally 
+at the center of the area of each of four sides of the 
+item. It shall also be possible to locate the shower heads 
+at a distance of 0.5 m to 0.75 m from the corners of 
+sides of the item. 
+
+The construction of shower head assembly and details 
+of its parts are given in Fig. 10. 
+
+a) The sketch shown in Fig. 1 1 represents the 
+spray which made out of brass and the 
+tolerance for the dimensions shall be ±0.15 
+with chamfered edges. 
+
+b) Figure 1 2 represents the nut and it is also made 
+out of brass. The tolerance shall be ±0. 1 5 and 
+the edges should be smooth. 
+
+c) Figure 13 represents the filter part of the 
+shower assembly. It is made out of 1 mm cold 
+rolled brass sheet perforated 0.8 diameter 
+holes on staggered pitches 1.5 approximately. 
+
+
+
+NUT 
+
+
+
+
+JWASHER \FILTER 
+
+Fig. 10 Shower Head Assembly 
+
+Figure 14 represents the washer of the shower 
+assembly. It is made out of leather. 
+
+7.22.2 Test Condition 
+
+Starter motor shall be mounted on the rotary table as 
+in actual usage orientation. Spray from the shower 
+heads shall be directed as given in one of the three test 
+conditions as agreed between the supplier and the 
+customer. No power supply to starter motor during 
+testing. 
+
+a) Condition 1 — Spray from four heads shall 
+be directed at an angle 45° at each of the four 
+uppermost corners of the item. 
+
+b) Condition 2 — Spray from four shower heads 
+shall be directed horizontally at the centre of 
+the each of the four sides of the equipment. 
+
+c) Condition 3 — Spray from eight showers four 
+of them being directed horizontally at the 
+centre of the area of each of the four sides of 
+the item. 
+
+After the test, the starter motor shall be dried by 
+applying a blast of air at room temperature. 
+
+
+
+5H0LES<I>1.93 5?(1? 
+EQUISPACED ON 
+12.7 ±0.6 PCD 
+
+
+
+Ry4 
+(IS 554) 
+ti)1d.00 
+
+
+
+
+UNDERCUT 2.5 
+WIDE TO DEPTH 
+OF THREAD 
+
+
+
+Fig. 1 1 Spray for Shower Head Assembly 
+13 
+
+
+
+IS 3141 : 2007 
+
+
+
+RpV4 
+NI^ (IS 554) 
+
+
+
+32.00 
+
+
+
+
+BASIC INCLUDE! 
+ANGLE 120^/ 
+
+
+
+' -^^ 
+
+
+
+29,00 
+
+
+
+11,00 
+
+
+
+
+5.00 
+
+
+
+(IS 554) 
+
+
+
+04.00 t 
+<D13.00 
+
+
+
+JJNDERCUT 3,00 
+WIDE TO DEPTH 
+OF THREAD 
+
+
+
+Fig. 12 Nut for Shower Head Assembly 
+
+
+
+SHEET TO BE FORMED INTO CYLINDRICAL SECTION WITH 
+SLIGHT TAPER TO FACILITATE ENTRY.THIS END THEN TO 
+BE SLITTED AXIALLY AND FORMEDTO POINTAS SHOWN , 
+JOINTS AT POINT ONLYTO BE SOLDERED AFTER FORMI{ 
+
+
+
+
+THIS END TO 
+BE PUSH FIT 
+IN DETAIL AT 2B 
+
+
+
+Fig. 13 Filter for Shower Head Assembly 
+
+
+
+
+Fig. 14 Washer for Shower Head Assembly 
+
+7.22,3 Evaluation 
+
+There shall be no damage to the components of the 
+starter motor and it shall be functional after the test. 
+
+
+
+7.23 Test for Internally Protected (Oil-Sealed) Type 
+Starter Motors 
+
+The testing method and test fixture for this test depend 
+on the design of the starter motor. 
+
+
+
+a) 
+
+
+
+Step I: Seal the opening of the starter motor 
+drive end flange side. Pass the air through the 
+commutator end cover side. 
+
+
+
+Air pressure 
+Test duration 
+Air leakage 
+(pressure drop) 
+
+
+
+50 kPa (0.5 bar), Min 
+
+5s 
+
+0.5 kPa (0.005 bar). Max 
+
+
+
+b) Step 2: Seal the front opening of the starter 
+and pass air through the drive end flange side 
+
+
+
+Air pressure 
+Test duration 
+Air leakage 
+(pressure drop) 
+
+
+
+50 kPa (0.5 bar), Min 
+
+5s 
+
+0.5 kPa (0.005 bar), 
+
+Max 
+
+
+
+14 
+
+
+
+IS 3141 : 2007 
+
+
+
+ANNEX A 
+
+(Clause 7.1.1.1) 
+
+SAMPLING PLAN FOR TESTING 
+
+
+
+The table below indicates the test plan matrix and 
+number of samples required for testing. However the 
+
+
+
+actual number of samples to be tested can be mutually 
+agreed between the manufacturer and supplier. 
+
+
+
+SI 
+No. 
+
+
+Clause 
+No. 
+
+
+Characteristic Test 
+
+
+No. of Samples 
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+4 
+
+
+5 
+
+
+6 
+
+
+7 
+
+
+8 
+
+
+9 
+
+
+10 
+
+
+11 
+
+
+12 
+
+
+13 
+
+
+14 
+
+
+15 
+
+
+16 
+
+
+17 
+
+
+18 
+
+
+19 
+
+
+20 
+
+
+i) 
+
+
+7.2 
+
+
+Visual examination 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+ii) 
+
+
+7.3 
+
+
+Dimensional check 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+iii) 
+
+
+7.4 
+
+
+High voltage test 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+iv) 
+
+
+7.5 
+
+
+Insulation resistance test 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+V) 
+
+
+7.6 
+
+
+Performance check 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+vi) 
+
+
+7.7 
+
+
+Characteristic curves test 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+vii) 
+
+
+7.8 
+
+
+Pinion engagement test 
+
+
+y 
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+viii) 
+
+
+7.9 
+
+
+Solenoid life test 
+
+
+
+
+
+
+X 
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ix) 
+
+
+7.10 
+
+
+Endurance test 
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+X 
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X) 
+
+
+7.11 
+
+
+Continuous cranking test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xi) 
+
+
+7.12 
+
+
+Cold cranking test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xii) 
+
+
+7.13 
+
+
+Sinusoidal vibration test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xiii) 
+
+
+7.14 
+
+
+Damp heat test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xiv) 
+
+
+7.15 
+
+
+Thermal shock test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xv) 
+
+
+7.16 
+
+
+Salt spray test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xvi) 
+
+
+7.17 
+
+
+Cold storage test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xvii) 
+
+
+7.18 
+
+
+Hot storage test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+
+
+xviii) 
+
+
+7.19 
+
+
+Mud water splash test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+
+
+xix) 
+
+
+7.20 
+
+
+Media resistance test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+
+
+XX) 
+
+
+7.21 
+
+
+Dust test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+
+XX i) 
+
+
+7.22 
+
+
+Water spray test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+xxii) 
+
+
+7.23 
+
+
+Internally water protection test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+15 
+
+
+
+IS 3141 : 2007 
+
+
+
+ANNEX B 
+
+(Clause 7.1.2.1) 
+
+RECOMMENDED SAMPLING SCHEME AND CRITERIA FOR ACCEPTANCE 
+
+
+
+BO GENERAL 
+
+B-0,1 If statistical quality control techniques have been 
+used for production control such test results and 
+relevant chart may be made available along with the 
+material supplied to enable the purchaser to judge the 
+acceptability or otherwise of a lot. In case such 
+information is not available, the following procedure 
+is recommended forjudging conformity of a lot to the 
+requirements of this specification. 
+
+B-1 SCALE OF SAMPLING 
+B-1.1 Lot 
+
+In a consignment all the starter motors of the type and 
+ratmg manufactured from the same material under 
+similar conditions of production shall be grouped 
+together to constitute a lot. 
+
+B-L2 The number of starter motors to be selected from 
+each lot shall depend upon the lot size and shall be in 
+accordance with col 2 and col 3 of Table 1. 
+
+B-1.3 The starter motor shall be selected from the lot 
+at random. In order to ensure randomness of selection, 
+procedure given in IS 4905 may be followed. 
+
+
+
+Table 1 Sample Size and Criteria for Conformity 
+
+{Clause B A, 2 and B-2 A) 
+
+
+
+SI 
+
+
+Lot Size 
+
+
+Sample Size 
+
+
+Permissible No. 
+
+
+No. 
+
+
+
+
+
+
+of Defectives 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+i) 
+
+
+Up to 150 
+
+
+13 
+
+
+
+
+
+iO 
+
+
+151-300 
+
+
+20 
+
+
+
+
+
+iii) 
+
+
+301-500 
+
+
+32 
+
+
+
+
+
+iv) 
+
+
+501-1 000 
+
+
+50 
+
+
+1 
+
+
+V) 
+
+
+I 001 and above 
+
+
+80 
+
+
+2 
+
+
+
+B-2 NUMBER OF TESTS AND CRITERIA FOR 
+CONFORMITY 
+
+B-2,1 All the starter motor selected at random in 
+accordance with col 2 and col 3 of Table 1 shall be 
+subjected to the acceptance tests. The starter motor 
+failing to satisfy any of the acceptance tests shall be 
+termed defective, 
+
+A lot shall be considered as conforming to the 
+requirements of acceptance tests if the number of 
+defectives found in the sample is less than or equal to 
+the corresponding acceptance number given in col 4 
+of Table 1; otherwise the lot shall be rejected. 
+
+
+
+ANNEX C 
+
+(Clause in A) 
+
+METHOD OF CALCULATING PERFORMANCE CHARACTERISTICS OF STARTER MOTORS 
+FOR DIFFERENT CONDITIONS OF BATTERY VOLTAGES AND TEMPERATURES, FROM THE 
+
+GIVEN CONDITIONS 
+
+
+
+C-1 CHANGE IN BATTERY VOLTAGE 
+
+C-1.1 Let the new battery characteristics be A^ {see 
+Fig. 15). At a given current Z the starter motor 
+characteristics are as follows: 
+
+Starter motor terminal voltage : XZ 
+Starter motor internal drop : YZ 
+
+Starter motor speed : NZ 
+
+The starter terminal voltage changes to X, Z with the 
+new battery. 
+
+
+
+Than the new speed will be: xZ ~YZ ^ ^^ "^ ^' ^ 
+
+This is based on the principle that the speed of a series 
+motor is proportional to the back electromotive force. 
+
+C-L2 The new speed for different values of current 
+may be calculated based on the above method and the 
+new speed curve for the new battery characteristics may 
+be obtained. 
+
+
+
+16 
+
+
+
+IS 3141 : 2007 
+
+
+
+
+»- CURRENT 
+
+
+
+A - battery voltage characteristics (Starter 
+Terminal Volts - Current) 
+
+B = machine resistance (Stall Volts - Current) 
+
+
+
+C = speed (rev/min - Current) 
+D ~ torque (Nm - Current) 
+
+
+
+Fig. 15 Characteristic Curve 
+
+
+
+C-2 CHANGE IN AMBIENT TEMPERATURE 
+
+C-2.1 The battery performance characteristics and the 
+starter motor resistance changes with the change in 
+ambient temperature. 
+
+If the battery performance changes to A' and the 
+machine resistance changes to B\ the change in speed 
+
+is: 
+
+
+
+XZ~YZ 
+
+
+
+■N^Z 
+
+
+
+C-2.2 The new speed for different values of current 
+may be calculated based on the above method and the 
+new speed curve may be obtained. 
+
+NOTE — The torque-current characteristics is not affected by 
+the change in battery temperature. 
+
+
+
+17 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+'BIS Catalogue' and 'Standards : Monthly Additions'. 
+
+This Indian Standard has been developed from Doc : No TED 1 1 (508). 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters : 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10 002 
+Telephones : 2323 0131, 2323 3375, 2323 9402 
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110 002 
+
+Eastern : 1/14 C.I.T. Scheme VII M, V. I. P. Road, Kankurgachi 
+KOLKATA 700 054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160 022 
+Southern : C.LT. Campus, IV Cross Road, CHENNAI 600 1 13 
+
+
+
+Western 
+
+
+
+Branches 
+
+
+
+Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400 093 
+
+
+
+Telegrams ; Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+r2323 7617 
+L 2323 3841 
+
+r 2337 8499, 2337 8561 
+\ 2337 8626, 2337 9120 
+
+
+
+{ 
+
+
+
+60 3843 
+60 9285 
+
+
+
+/ 2254 1216, 2254 1442 
+L 2254 25 19, 2254 2315 
+
+r 2832 9295, 2832 7858 
+\ 2832 7891, 2832 7892 
+
+
+
+AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. 
+GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+PARWANOO. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM. 
+
+
+
+Printed at : Prabhat Offset Press, New Delhi-2 
+
+
+

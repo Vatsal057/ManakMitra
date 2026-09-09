@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":17,"params":{"query":"identifier:gov.in.is.2987.*","qin":"identifier:(gov.in.is.2987.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.2987.1992","title":"IS 2987: Direction of operation of controls for machine tools - Recommendations"}]}}

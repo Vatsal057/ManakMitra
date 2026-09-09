@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":15,"params":{"query":"identifier:gov.in.is.3141.*","qin":"identifier:(gov.in.is.3141.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.3141.2007","title":"IS 3141: Starter Motors for internal combustion engines used for automotive and other applications"}]}}

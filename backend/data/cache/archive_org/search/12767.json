@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":14,"params":{"query":"identifier:gov.in.is.12767.*","qin":"identifier:(gov.in.is.12767.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.12767.1989","title":"IS 12767: Liquid soap for cleaning painted surfaces"}]}}

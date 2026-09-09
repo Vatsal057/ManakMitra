@@ -1,0 +1,742 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+IS 13082-2 (1991) : Bulk handling equipment - Ship unloader 
+- Gantry mounted grab type - Code of practice for design, 
+manufacture and erection, Part 2 Electro-mechanical 
+requirements [MED 7 : Material Handling Systems and 
+Equipment] 
+
+
+
+re^y / 1 juaaaws^fea is^am^? 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+?TR TJ^ ^TT teMHI | ^t ^Wt ^^PTT ^f ^TT ^T^?TT \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+. ■■ * v - A j- IS 13082 ( Part 2) :1991 
+
+_ (Reaffirmed 2001) 
+
+Indian Standard 
+
+BULK HANDLING EQUIPMENT — 
+SHIP UNLOADER — GANTRY MOUNTED 
+GRAB TYPE - CODE OF PRACTICE FOR 
+DESIGN, MANUFACTURE AND ERECTION 
+
+PART 2 ELECTRO-MECHANICAL REQUIREMENTS 
+
+
+
+UDC 621 , 869'2:62912606 , 76 
+
+
+
+© BIS 1991 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+
+NEW DELHI 110002 
+
+May 1991 Price Gronp 2 
+
+
+
+Bulk Handling Equipment Sectional Committee, HMD 07 
+
+
+
+FOREWORD 
+
+This Indian Standard was adopted by the Bureau of Indian Standards, after the draft finalized by 
+the Bulk Handling Equipment Sectioral Committee had been approved by the Heavy Mechanical 
+Engineering Division Council. 
+
+There are various types of ship ur loaders but, main types being continuous and grab type. These 
+could be mounted on the gantry or crawler/tyres. 
+
+Ship unloaders are important functional sub-system of unloading and transportation of bulk 
+materials shipped. 
+
+This Part 2 is the one in the series of other parts of the standard covering the code of practice 
+for design, manufacture and erection of gantry mounted grab type ship unloader provided with 
+horizontal boom and grab-bucket. Other parts of the standard are: 
+
+IS 13082 ( Part 1 ) : 1991 Mecharical and structural requirements 
+
+IS 13082 ( Part 3 ) : 1991 Information to be supplied by the purchaser and the manufacturer 
+
+The requirements given in this standard are for guidelines and notwithstanding the requirements 
+to be fulfilled by the purchasers and the manufacturers in accordance with any Statutory Acts, 
+Rules, Regulations or otherwise specified by other Authorities. 
+
+This standard is expected to provide uniform practice to be adopted by the purchasers and the 
+manufacturers of such ship unloaders. 
+
+For structural requirements of ship unloaders a reference may be made to Indian Standard Bulk 
+handling equipment — Mobile continuous type — Rules for the design of structures ( under 
+preparation ). 
+
+In the preparation of this standard, reference was made to the publication on Heavy Lifting 
+Appliances — Rules for the Design of Hoisting Appliances by Federation Europeenne De La 
+Manutention. 
+
+
+
+IS 13082 ( Part 2 ) : 1991 
+
+
+
+Indian Standard 
+
+
+
+BULK HANDLING EQUIPMENT — 
+
+SHIP UNLOADER — GANTRY MOUNTED 
+
+GRAB TYPE — CODE OF PRACTICE FOR 
+
+DESIGN, MANUFACTURE AND ERECTION 
+
+
+
+PART 2 ELECTRO-MECHANICAL REQUIREMENTS 
+
+
+
+1 SCOPE 
+
+
+
+1,1 This Indian Standard covers electro-mecha- 
+nical requirements, inspection and testing re- 
+quirements relating to the design, manufacture, 
+and erection of gantry mounted grab type ship 
+unloader provided with horizontal boom and 
+grab-bucket. 
+
+2 GENERAL 
+
+2,1 The unloader shall be complete with all 
+electrical accessories required for its safe, 
+smooth and efficient operation. 
+
+
+
+2.2 Only non-hygroscopic 
+used for insulation. 
+
+
+
+materials shall be 
+
+
+
+Offered shall be suitable 
+system fault level at that 
+
+
+
+2-3 Electrical system 
+for the power supply 
+point. 
+
+2.4 Electrical installation work shall be carried 
+out through licensed electrical contractors, 
+holding valid contractor's licences issued by the 
+concerned Statutory Authority. 
+
+3 ENCLOSURES 
+
+3.1 All electrical equipments shall be properly 
+enclosed or protected to suit the environmental 
+conditions and to prevent inadvertent or 
+accidental contact. 
+
+3.2 All enclosures shall preferably be of cast 
+iron, or cast aluminium; wherever sheet steel 
+has to be used, the thickness of the metal shall 
+not be less than 2 mm. 
+
+3.2.1 All joints in enclosures shall be made 
+dust-proof by gaskets of high quality non- 
+deteriorating rubber or other suitable material; 
+
+3.3 Bare conductors, if used as bus wires, shall 
+be located so as to prevent any form of acci- 
+dental contact. The execution shall ensure 
+complete safety and wherever necessary metallic 
+screens shall be employed, 
+
+3.4 Flame proof/increased safety enclosures 
+shall be provided for electrical equipments 
+wherever required. 
+
+3.5 Wherever it is necessary for an electrical 
+equipment to be adjusted or inspected while in 
+service, necessary clearances from live parts may 
+be provided to ensure safety in operation. 
+
+
+
+3.6 All enclosures of electrical equipments shall 
+be given two coats of anti-corrosive epoxy paint 
+over two coats of primer suitable for epoxy. 
+
+3.7 Various control gears like contactors, 
+relays, control transformers, etc, shall be housed 
+in dust proof, damp proof and vermin proof 
+protective panels having doors interlocked with 
+the supply control switches. Space heaters shall 
+be provided for the panels. 
+
+4 POWER SUPPLY ARRANGEMENTS 
+
+4.1 Power supply shall be controlled by a 
+shore-based circuit breaker on the wharf, from 
+which power shall be taken to the unloader 
+through suitable collector systems like spring- 
+loaded motor operated cable reeling drum 
+etc. 
+
+4.2 It shall be possible to trip the shore-based 
+circuit breaker from the machinery house of the 
+unloader. 
+
+4.3 Circuit breaker to isolate the main supply 
+to the unloader shall be provided in the machi- 
+nery house. It shall be possible to switch off 
+this breaker from the operator's cabin also. 
+
+4.4 A plug and socket arrangement shall be 
+provided at the shore circuit breaker to connect 
+up the unloader's current collecting arrangements 
+( power and control ). 
+
+4.4.1 The plug and socket for power shall 
+interlock so that the plug shall be withdrawn 
+only when the circu ; t breaker is 'OFF'. 
+
+4.5 External control links shall be taken out of 
+the unloader using a current collection system 
+similar to that for power. This system may 
+carry the communication links also. 
+
+5 POWER TRANSFORMERS 
+
+5.1 Power transformers if provided shill be dry 
+type. These shall have overload, voltage and 
+temperature protection. 
+
+6 MOTORS 
+
+6.1 To select a motor the follow : ng shall be 
+established: 
+
+a) The maximum torque required to produce 
+motion in the most unfavourable case. 
+
+
+
+1 
+
+
+
+IS 13082 ( Part 2 ) : 1991 
+
+
+
+b) That it shall allow the unloader to 
+perform its normal duty without abnormal 
+wear. 
+
+6.2 A/C motors shall be of totally enclosed, 
+fan-cooled, weather protected, hose-proof design 
+( IP-55 degree of protection ) with at least 
+class B insulation and shall be suitable for crane 
+duty. 
+
+6.2-1 A/C motors shall have thermistor, overload 
+and short circuit protection. 
+
+6.3 D/C motors shall have at least IP-23 enclosure 
+and shall be housed indoor. 
+
+6.4 The motors shall have at least the following 
+cyclic duty factors: 
+
+
+
+Grab hoisting/closing 
+Trolley travel 
+Other motions 
+
+
+
+60 percent 
+60 percent 
+40 percent 
+
+
+
+6.4.1 Motors shall have built-in thermistors with 
+alarm, and also space heater elements. 
+
+6.5 Thyristor drives if provided shall have 
+current limitation, speed limitation, overload 
+protection, short-circuit protection and fuse 
+protection. 
+
+7 RESISTORS 
+
+7.1 Resistors if provided shall be intermittent- 
+rated for Class IV duty and shall be suitable for 
+the climatic conditions and the corrosive 
+atmosphere described elsewhere. Stainless steel 
+resistance grids are preferred. 
+
+8 BRAKES 
+
+8.1 Electro-mechanical/electro-hydraulic brakes 
+of adequate capacity shall be provided for all 
+motions/motors, in addition to emergency brakes 
+for hoist hold, and hydraulic rail clampers. All 
+brakes shall be of fail-safe type. Smooth braking 
+shall be ensured for hoisting and trolley travel. 
+
+9 CABLES 
+
+9.1 All power cables shall be PVC insulated, 
+armoured and PVC sheathed preferably with 
+copper conductor. All control cables shall be 
+2*5 mm 2 copper. 
+
+9.2 Power and control cables shall be protected 
+with HRC fuses/circuit breakers. 
+
+9.3 The sizes of the cables shall be so chosen 
+that they are rated to carry the full load current 
+continuously after allowing for necessary de- 
+rating factors for the conditions of installation, 
+and also so that the voltage drop in cables shall 
+not exceed 2*5 percent during running. 
+
+9.4 All cables shall be neatly clamped at 
+suitable intervals. All fixing materials shall be 
+given suitable anti-corrosive paint. 
+
+9.5 All cables shall be terminated by suitable 
+cable glands. 
+
+
+
+9.6 Metallic conduits shall be provided wherever 
+necessary for the protection of the cables. 
+
+9.7 Power and control circuits to the cab shall 
+be by a festoon cable system. 
+
+9.8 Electrical circuits may be printed/painted/ 
+pasted at the inside of control cable covers. 
+
+10 EARTHING 
+
+10.1 The unloader shall be earthed through 
+shoes rubbing on the rails. In addition, the 
+correction between the shore-based circuit 
+breaker ard the unloader shall have a fourth 
+conductor to be used as an earth connection. 
+This earth connection shall be linked to the earth 
+connection of the shore-based circuit breaker. 
+
+10.2 Double earthing shall be provided for all 
+equipments. 
+
+11 LIGHTING 
+
+11.1 The unloader shall be provided with 
+suitable illumination to ensure good lighting 
+at all places. 
+
+11.2 Flood lights shall b2 provided at the 
+following points: 
+
+a) On the apron for the operator to see the 
+bucket operation during the night. 
+
+b) In front and rear portions of the unloader 
+to properly light the tracks during 
+unloader travel in the night. 
+
+11.3 All lighting circuits shall be protected with 
+HRC fuses and shall be controlled by one main 
+switch-fuse in addition to separate circuit control 
+switches. 
+
+11-4 Battery operated emergency lights shall be 
+provided at strategic locations. These shall be 
+the automatic typw. The light shall automati- 
+cally come 'ON' when normal power supply 
+fails and shall go 'OFF' automatically when 
+normal supply comes back. The unit shall in- 
+corporate a trickle charger for keeping the 
+battery on charge. The battery shall b^ rated 
+for at least 30 minutes. 
+
+11.5 Air-craft warning/obstruction lights shall 
+be provided on the unloader if required by any 
+Statutory Authorities, for which separate 
+battery units ( one hour rated ) with chargers 
+shall be provided. 
+
+11.6 All light fittings shall be mounted on shock 
+absorbers. 
+
+11.7 Low voltage plug socket outlets, with hand 
+lamps and sufficient lengths of cables, shall be 
+provided. 
+
+12 CONTROLS 
+
+12.1 A safe low voltage shall be employed for 
+the controls. This shall be from the secondary 
+winding of an isolating transformer; one terminal 
+
+
+
+IS 13082 ( Part 2 ) : 1991 
+
+
+
+of this supply shall be earthed and the contactor 
+and the relay coils shall be connected to this 
+terminal. 
+
+13 INTERLOCKS 
+
+13-1 Necessary interlocks for the safe ^ and 
+smooth operation of the unloader shall be 
+provided. 
+
+13.2 'Forward' and 'Reverse' contactors shall 
+be interlocked electrically, and preferably 
+mechanically as well. 
+
+14 OPERATOR'S CABIN 
+
+14.1 Operator's cabin with all necessary controls 
+for performing the various operations shall be 
+located in such a manner as to ensure complete 
+view of the operations. 
+
+14.2 Control facilities for the following are 
+recommended to be provided in the operator's 
+cabin: 
+
+a) Unloader travel — ( additional facility 
+shall be provided to carry out operation 
+from the wharf also ), 
+
+b) Trolley travel, 
+
+c) Bucket operation, 
+
+d) Cab positioning, 
+
+e) Belt feeder operation, 
+
+f ) Cab lighting, 
+
+g) Dust collection equipments!, and 
+
+h) An emergency stop button to switch 'OFF* 
+all unloader motions. This shall not 
+interrupt power to the auxiliary circuits, 
+lighting, signals, etc. 
+
+14.3 Indication and alarm for main supply, 
+control supply, motions, wind pressure, phase 
+failure, etc. 
+
+14.4 The cab shall bs fully insulated and shall 
+be equipped with wall-mounted electric motor- 
+driven ventilating fan with gravity type louvres 
+and air filtration arrangement, to ensure 
+sufficient number of changes per hour. 
+
+14.5 Wirdows shall be tinted and shall be 
+arranged to give the operator an unobstructed 
+view of the bucket operation between the hold 
+of the ship and the gantry hopper. Electrically 
+operated wipers for the glass windows snail be 
+furnished to improve visibility during rains. 
+
+14.6 There shall be a signal horn controlled 
+from the operator's cabin. 
+
+15 PROTECTION 
+
+15.1 In case of excessive wind pressure, an alarm 
+shall sound and all motions shall be cut off 
+
+
+
+and the unloader shall get clamped to rails 
+hydraulically. 
+
+15.2 Shunt and series limit switches shall be 
+provided for all motions. The shunt switch 
+shall operate first and if the motion fails to stop, 
+series limit shall act. Additional limit switches 
+shall be provided for long travel, trolley travel, 
+cabin travel, etc. 
+
+15.2.1 Instead of shunt and series limit switches, 
+mechanical type end-limit switches and magnetic 
+type pre-limit switches may b? provided. The 
+pre-limit switch shall act first to trip the motor 
+and apply mechanical brakes. On reaching the 
+end-limit switch, the breaker on the secondary 
+side of the transformer shall gst tripped. For 
+the troiiey an additional pre-limit switch shall 
+be provided ahead of the two limit switches 
+mentioned above. 
+
+15.3 Phase failure relay shall be provided to 
+trip the main circuit breaker. 
+
+15.4 Smoke detector, operation counter, etc, 
+shall be provided. 
+
+15.5 A warning bell shall sound automatically 
+during long-travel operation. 
+
+16 AIR CONDITIONING 
+
+16.1 In the interest of long life and reliable 
+operation, electronic components and other 
+components sensitive to temperature, humidity 
+and dust, shall preferably bs located in air 
+conditioned space(s). 
+
+17 PRESSURISING 
+
+17.1 The electrical machinery house shall be 
+pressurised to keep dust away. The pressure 
+inside shall be 2 mm by water gauge. Air 
+charges per hour shall be 30. 
+
+18 LIFT 
+
+18.1 An electrically operated lift is recom- 
+mended. 
+
+
+
+19 COMMUNICATION FACILITIES 
+
+19.1 Inter-communication facility within 
+unloader structure is recommended. 
+
+20 AUTOMATION 
+
+
+
+the 
+
+
+
+20.1 Where considered essential, semi-automa- 
+tion may be provided to reduce physical and 
+psychological stress on the unloader operator. 
+Semi-automation may cover all operations of 
+the grab and the trolley, but not operations 
+inside the hatch. There shall be facility to over- 
+side the automatic system at any time. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian Standard conveys the assurance that they have been produced 
+to comply with the requirements of that standard under a well defined system of inspection, 
+testing and quality control which is devised and supervised by BIS and operated by the pro- 
+ducer. Standard marked products are also continuously checked by BIS for conformity to 
+that standard as a further safeguard. Details of conditions under which a licence for the use 
+of the Standard Mark may be granted to manufacturers or producers may be obtained from 
+the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of 
+goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in 
+any form without the prior permission in writing of BIS. This does not preclude the free use, in 
+the course of implementing the standard, of necessary details, such as symbols and sizes, type or 
+grade designations. Enquiries relating to copyright be addressed to the Director ( Publication ), BIS. 
+
+Revision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if any, 
+are issued from time to time. Users of Indian Standards should ascertain that they are in 
+possession of the latest amendments or edition. Comments on this Indian Standard may be sent 
+to BIS giving the following reference : 
+
+Doc : No. HMD 07 ( 5227 ) 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters ; 
+
+
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+Telephones : 331 01 31, 331 13 75 
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C.I.T. Scheme VII M, V.I.P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 
+
+Southern : C.I.T. Campus, IV Cross Road, MADRAS 600113 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) 
+BOMBAY 400093 
+
+
+
+Telegrams : Manaksanstha 
+( Common to all Offices ) 
+
+Telephone 
+
+f 331 01 31 
+1 331 13 73 
+
+
+
+37 86 62 
+53 38 43 
+
+41 29 16 
+
+6 32 92 93 
+
+
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. 
+HYDERABAD. JAIPUR. KANPUR. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+Printed at Swatantra Bharat Press,]Delhl, India 
+
+
+

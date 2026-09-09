@@ -1,0 +1,1187 @@
+***•••**•••**••• 
+
+
+
+tOT3 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+'The Right to Information, The Right to Live'" 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+IS 1785-2 (1983) : plain hard-drawn steel wire for 
+prestressed concrete. Part 2: As drawn wire [CED 54: 
+Concrete Reinforcement] 
+
+
+
+.^^llli^=ac^^fc^ll f fm^>N:>;»gaTCAaiiTgs 
+
+
+
+;5«. \V I iT^ft2i^5c:%^>^ift^ 
+
+
+
+yy^^i^^^K^^ 
+
+
+
+
+-k 
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge'' 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+'^liSSlfi, 
+
+
+
+
+
+5> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 1785 ( Part II ) - 1983 
+
+( Reaffirmed 2003 ) 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+PLAIN HARD DRAWN STEEL WIRE FOR 
+
+PRESTRESSED CONCRETE 
+
+PART li AS-DRAWN WIRE 
+
+( First Revision) 
+
+
+
+Fourth Reprint OCTOBER 1998 
+UDC 669.14-124-426:666.982.4 
+
+
+
+© Copyright 1983 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHIl 10002 
+
+Gr 3 June 1983 
+
+
+
+IS : 1785 ( Part II ) - 1983 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+PLAIN HARD DRAWN STEEL WIRE FOR 
+
+PRESTRESSED CONCRETE 
+
+PART II AS-DRAWN WIRE 
+
+( First Revision ) 
+
+
+
+Joint Sectional Committee for Concrete Reinforcement, BSMDC 8 
+
+Chairman Representing 
+
+Shri G. S. Rao Central Public Works Department 
+
+Members 
+
+SUPE It INTENDING ENGINEEU 
+
+( CDO ) ( Alternate to 
+Shri G. S. Rao ) 
+Dr J. L. Ajmani The Tata Iron & Steel Co Ltd, Jamshedpur 
+
+Shri A. N. Mitua ( Alternate ) 
+Dr ANiii Kumar Cement Research Institute of India, New Delhi 
+
+Shri E. T. Antia The Concrete Association of India, Bombay 
+
+Shr'I p. SitmiVASAN ( Alternate ) 
+Shri S. Banerjee Steel Re-Rolling Mills Association of India, Calcutta 
+
+Shri S. N. Chanda Metallurgical and Engineering Consuhants { India ) 
+
+Ltd, Ranchi 
+Shri R. D. Choudharv ( Alternate ) 
+Chief Engineer ( D&R ) Irrigation Department, Government of Punjab, 
+
+Chandigarh 
+Director ( CD ) { Alternate ) 
+Deputy Director, Stani>ari>s Research, Designs & Standards Organization 
+( B&S )-I ( Ministry of Railways ).. Lucknow 
+
+Assistant DiKtorOR, Stan- 
+dards ( B&S )-Il ( Alternate ) 
+Shri D. I. Desai Gammon India Ltd, Bombay 
+
+Shri A. L. Bhatia ( Alternate ) 
+Shbi M. R. Doctor Special Steels Ltd, Bombay 
+
+Shri S. G. Jos hi ( Alternate ) 
+Shbi Zacharia George Structural Engineering Research Ceniie ( CSIR }, 
+
+Madras 
+Shri G. V. Suryakumar ( Alternate ) 
+
+( Continued on paf^c. 2 ) 
+
+
+
+^^ Copyright 1983 
+BUREAU OF INDIAN STANDARDS 
+
+This pubiication is protected under the Indian Copyright Act ( XI V of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall he deemed to be an infringement of copyright under i lie saul Aci 
+
+
+
+IS : 1785 ( Part II ) - 1983 
+
+( C ntinued from page 1 ) 
+
+Members Representing 
+
+Shri V. K. Ghanekak Structural Engineering Research Centre { GSIR ), 
+
+Roorkee 
+
+Shri D. S. Pkakash Rao ( Alternate ) 
+Shri V. Gulati Heatly & Gresham { India ) Ltd, New Delhi 
+
+Shki P. K. GupTE National Metallurgical Laboratory (GSIR), 
+
+Jamshedpur 
+Sniii N. C. Jain Stup Consultants Ltd, Bombay 
+
+Shri M. C. TaNdon ( Alternate ) 
+Shri M. P. Jasuja Research & Development Centre for Iron and Steel 
+
+( SAIL ), Ranchi 
+Shri A. Jayagopai. Engineer-in-Chief 's Branch, Army Headquarters 
+
+Maj R. Ghandrasekharan ( Alternate ) 
+Shri S. Y. Khan Killick Nixon Ltd, Bombay 
+
+Shri P. S. Venkat ( Alternate ) 
+Shri M. N. Khanna Bhilai Steel Plant { SAIL ), Bhilai 
+
+Shri G. Dasoupta ( Alternate ) 
+Shri H. N. Krishna Mubthy Tor Steel Research Foundation in India, Calcutta 
+
+Da C. S. Visvvanatha ( Alternate ) 
+Shri S. N. M anohar Tata Consulting Engineers, Bombay 
+
+Shhi N. Nauauaj ( Alternate ) 
+Shki R. K. Matjiur Public Works Department, Lucknow 
+
+Shri S. N. Pal M. N. Dastur & Co ( P ) Ltd, Calcutta 
+
+Shri Salil Roy ( Alternate ) 
+Shri B. K. Panthaky Hindustan Construction Co Ltd, Bombay 
+
+Shri P. V. Naik ( Alternate ) 
+Shri T. Sen IRC Steels Ltd, Calcutta 
+
+Shri M. V. SHastry Roads Wing { Ministry of Shipping and Transport ) 
+
+Shbi Shirish H. Shah Tensile Steel Ltd, Bombay 
+
+Shri M. S. Pathak ( Alternate ) 
+Shri C. N. Srinivasan C. R. Narayana Rao, Madras 
+
+Shri G. N. Raohavibndran ( Alternate ) 
+Shri K. S. Srinivasan National Buildings Organization, New Delhi 
+
+Shri A. K. Lal ( Alternate ) 
+Shri G. Raman, Director General, BIS { Ex-^fficio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shri M. N. Neelakandhan 
+
+Assistant Director ( Civ Engg ), BIS 
+
+
+
+IS : 1785 ( Part U } - 1983 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+PLAIN HARD DRAWN STEEL WIRE FOR 
+
+PRESTRESSED CONCRETE 
+
+PART II AS-DRAWN WIRE 
+
+( First Revision ) 
+
+
+
+0. FOREWORD 
+
+Jp.l This Indian Standard ( Part II ) ( First Revision ) was adopted by 
+^he Indian Standards Institution on 14 March 1983, after the draft 
+finalized by the Joint Sectional Committee for Concrete Reinforcement 
+had been approved by the Civil Engineering Division Council. 
+
+0.2 This standard was first published as 1785-1961 to cover the require- 
+ments of plain hard-drawn steel wire for prestressed concrete. This 
+standard was subsequently revised in 1966 and issued in two parts; the 
+first part was a revision of the 1961 version of the standard covering 
+requirements of stress-relieved wire and the second part covered the 
+requirements of cold- drawn plain high tensile wire in 'as-drawn' 
+condition used for prestressed concrete. 
+
+0.2.1 The wire conforming to IS : 1785 ( Part I )-1983 demands 
+straightening and stress-relieving operations, whereas the wires covered 
+in this standard need not be stress-relieved and is not, intended to pay 
+out straight from the coil. The * as-drawn' wire supplied to the user may 
+be tensioned subsequently at the time of use by passing it through smaller 
+dies or milling rollers. 
+
+0.3 This revision ( Part II ) has been formulated with a view to modify- 
+ing the earlier requirements in the light of experience gained in using 
+this standard by both manufacturers and users. This revision incor- 
+porates a number of modifications such as including 3 mm diameter 
+wire in place of 3*15 mm diameter wire and change in the provision 
+relating to stress corrosion. In addition, this revision adopts SI units for 
+specifying the various physical requirements and references to various 
+other Indian Standards have been updated. 
+
+
+
+IS : 1785 ( Part II )- 1983 
+
+0.4 In the formulation of this standard, due weightage has been given to 
+international co-ordination among the standards and practices prevailing 
+in different countries in addition to relating it to the practices in the fieW 
+in this country. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS ; 2-1960*. The number of significant places 
+retained in the rounded off value should be the same as that of the 
+specified value in this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard ( Part II ) covers the requirements for manufacture, 
+supply and testing of plain *as-drawn* steel wire for use in prestressed 
+concrete pipes and similar other purposes. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard the following definitions shall 
+apply. 
+
+2.1 Bundle — Two or more 'coils' or a number of lengths properly 
+bound together. 
+
+2.2 Coil — One continuous length of wire in the form of a coil. 
+
+2.3 Parcel — Any quantity of finished wire presented for examination 
+and test at any one time. 
+
+2.4 Proof Stress — The stress which produces a residual strain of 
+0*2 percent of the original gauge length ( non-proportional elongation ). 
+
+2.5 Tensile Strength — The maximum load reached in a tensile test 
+divided by the original cross-sectional area of the gauge length portion 
+of the test piece. 
+
+3. MANUFACTURE AND CHEMICAL COMPOSITION 
+
+3.1 The wire shall be cold-drawn from the steel made by the open 
+hearth, electric duplex, acid bessemer, basic oxygen, or a combination 
+of these processes. In case any other process is employed in the manu- 
+facture of steely prior approval of the purchaser shall be obtained. 
+
+
+
+•Rules for rounding off numerical values { revised). 
+
+4 
+
+
+
+IS : 1785 (Partll)- 1983 
+
+3.1.1 The ladle analysis when made in accordance with the relevant 
+parts of IS : 228* shall show that the steel contains not more than 
+0*050 percent of sulphur and not more than 0*050 percent of 
+phc;;->horous. 
+
+3.2 The rods or wires shall be treated if required to make it suitable for 
+cold drawing and thereafter the diameter of the wire or bar shall be 
+successively decreased to the required diameter by cold drawing it 
+through a series of dies. The resultant wire shall not be subjected to 
+stress relieving treatment and shall not be expected to pay out straight. 
+
+3.3 Subject to the provisions of 3.2 and 6 all finished wires shall be 
+clearly drawn to the specified size and shall be sound, free from splits, 
+piping and other defects likely to impair its use in prestressed concrete, 
+and finished in a workmanlike manner, 
+
+3.4 The surface of wire shall be clean, uniform, smooth and free from 
+harmful scratches and surface flaws, flat parts, longitudinal or transverse 
+ribs, etc. Unless otherwise agreed to between the purchaser and the 
+manufacturer or supplier, the wire shall not carry on its surface lubricants 
+or other matter to a degree likely to impair its adhesion to concrete. 
+Slight rust may be permitted, provided there is no surface pitting visible 
+to the naked eye. 
+
+3.5 There shall be no welds in the finished wire as supplied to the 
+purchaser. Any welds or joints made during manufacture to promote 
+continuity of operations shall be removed before supply. 
+
+^4. NOMINAL SIZES 
+
+4.1 The nominal diameters of the finished wires shall be 3"00, 4*00 and 
+5*00 mm. 
+
+5. TOLERANCE 
+
+3A Tolerance on nominal diameter shall be as 'below: 
+
+Nominal Dia Tolerance 
+
+3-00 mm ± O02 mm 
+
+4-00 mm ± 0*03 mm 
+
+500 mm ± 003 mm 
+
+5.1.1 For the purpose of determining whether the actual diameter of 
+the wire is within the specified tolerances, the diameter shall be deter- 
+mined with a micrometer by taking two measurements at right angles 
+
+
+
+•Methods of chemical. analysis of steels ( second revision ). ( Being issued in parts. ) 
+
+
+
+IS : 1785 ( Part 11 ) - 1983 
+
+to each other at three places along a length of not less than 250 mm and 
+the average of these six measurements shall be taken as the diameter of 
+the wire. 
+
+6. REQUIREMENTS 
+
+6.0 The wire shall conform to the physical requirements specified in 6.1 
+to 6.4. 
+
+Note — For special purposes, test evidence may be required to show that the wire 
+is not susceptible to stress corrosion. In such case, the test method shall be mutually 
+agreed upon between the manufacturer and the purchaser. 
+
+6.1 Tensile Strength — Unless otherwise agreed to between the 
+purchaser and the manufacturer or supplier, the tensile strength of wire 
+determined in accordance with 7.3 and based on the nominal diameter 
+of the wire, shall be as given below: 
+
+Tensile Strength, Min 
+
+N/mm^ 
+
+1 765 
+1 715 
+1 570 
+
+6.2 Proof Stress — Unless otherwise specified, the proof stress of the 
+wire shall be not less than 75 percent of the minimum specified tensile 
+strength. 
+
+6.3 Ductility — The wire shall withstand the reverse bend test specified 
+in 7.5. 
+
+6.4 When uncoiled the wire shall remain fiat and shall not spring up. 
+
+7. TESTS 
+
+7,1 All test pieces of wire of sufficient length for the specified tests shall 
+be selected by the purchaser or his authorized representative either: 
+
+a) from the cuttings of lengths of wires or ends of coils of wires, 
+or 
+
+b) if he so desires, from the coil or length of wire, after it has been 
+cut to the required or specified length and the test piece taken 
+from any part of it. 
+
+7.1.1 In neither case, the test piece shall be detached from the coil or 
+ength of wire, except in the presence of the purchaser or his authorized 
+presentative. 
+
+
+
+Nominal Diameter 
+
+
+mm 
+
+
+3-00 
+
+
+400 
+
+
+5-00 
+
+
+
+IS: 1785 (Part 11)- 1983 
+
+7,1.2 Before test pieces are selected, the manufacturer or supplier shall 
+
+Turnish the purchaser or his authorized representative with copies of the 
+
+mill records giving the number of coils or bundles in each cast with sizes 
+
+3s well as the identification marks whereby each coil or bundle or wire 
+
+.^an be identified. 
+
+fl,2 Test samples shall not be subjected to any form of heat treatment. 
+Any straightening which the test samples may require shall be done 
+■cold. 
+
+7.3 Tensile Test — The tensile strength shall be determined in accord- 
+ance with IS : 1521-1972*. 
+
+7.4 Test for Proof Stress — Proof stress shall be determined in 
+accordance with IS : 1521-1972*. 
+
+7,4.1 Alternatively, by agreement between the purchaser and the 
+manufacturer, the stress at 1*0 percent extension under load method may 
+be specified. In this method an initial load corresponding to a stress of 
+196 N/mm^ shall be applied to the test piece and a sensitive extensometer 
+then attached. The dial of the extensometer shall be set to a reading 
+equal to 000 1 mm/mm of the gauge length to represent the extension 
+due to the initial load. 
+
+7.4.1.1 The load shall be increased until the extensometer shows an 
+extension corresponding to I'O percent of the gauge length, when the 
+load shall be noted. The stress calculated for this load shall be not less 
+than the value specified for the 0'2 percent proof stress. 
+
+7.5 Reverse Bend Test — One end of the test piece taken in accordance 
+with 7.1 shall be firmly gripped in a vice fitted with radiused jaws. 
+The free end of the wire shall be bent round the appropriate radius 
+specified in Table 1 through an angle of 90° and then back to the 
+original position, this constitutes one bend. The test sample shall then 
+be bent through 90" in the opposite direction and back through 90" and 
+then through 90° in the reverse direction and back through 90". 
+
+7.5.1 The wire shall withstand the three bends without fracture. 
+
+
+
+TABLE 1 PEG RADIUS FOR REVERSE BEND TEST 
+
+Diameter of Wire Radius of Jaws 
+
+mm mm 
+
+3-00 10 
+
+4-00 12*5 
+
+500 15 
+
+
+
+♦Method for tensile testing of steel wire (_first revision ). 
+
+7 
+
+
+
+IS : 1785 { Part H ) - 1983 
+
+8. SAMPLING AND CRITERIA FOR CONFORMITY 
+
+8.1 Scale of Sampling 
+
+8.1.1 Lot — In any consignment, all the coils of wire of the same 
+nominal diameter and manufactured at the same place under similar 
+conditions of production and storage shall be grouped together to 
+constitute a lot. 
+
+8.1.2 The number of coils to be selected at random from each lot 
+shall depend upon the size of the lot and shall be in accordance with 
+Table 2. 
+
+TABLE 2 SAMPLE-SIZE 
+
+No, OF Coils ii>r the Lot No. of Coils to be Selected 
+
+Up to 25 3 
+
+26 to 65 4 
+
+66 to 180 5 
+
+181 to 300 7 
+
+301 and above 10 
+
+8.2 Number of Tests 
+
+8.2.1 All the coils, selected as in 8.1.2 shall be tested for chemical 
+composition ( see 3.1.1 ), diameter ( see 5.1 ), tensile strength ( see 6.1 ), 
+proof stress ( see 6.2 ) and ductility ( see 6.3 ). 
+
+8.2.1.1 From each coil, one test specimen shall be selected for each 
+test and tested in accordance with the appropriate test method. 
+
+8.3 Criteria for Conformity 
+
+8.3.1 The lot shall be considered as conforming to the requirements, 
+of this specification if the conditions specified under 8.3.2 and 8.3.3 are 
+
+satisfied for all the characteristics. 
+
+8.3.2 Chemical Composition^ Diameter ^ Tensile Strength, Proof Stress — For 
+each of the characteristics, the mean and the range calculated from the 
+test results shall satisfy the appropriate condition given below; 
+
+a) ( Mean -f 0*6 Range ) shall be less than c equal to the maximum 
+specification limit. 
+
+b) ( Mean — 0*6 Range ) shall be greater than or equal to the 
+minimum specification limit. 
+
+Note — The range is the difference between the maximum and the minimum 
+value of the test results. 
+
+
+
+IS : 1785 ( Part II ) - 1983 
+
+8.3.3 Ductility — The number of defective test specimens ( those not 
+satisfying the requirements of the test ) shall not exceed the corresponding 
+permissible number given below; 
+
+No, of Specimens Tested Permissible No, of Defective 
+
+Test Specimens 
+
+3 
+
+4 
+
+5 1 
+7 1 
+
+10 2 
+
+9. DELIVERY, INSPECTION AND TESTING FACILITIES 
+
+9.1 Unless otherwise specified, general requirements relating to the 
+sHpply of material, inspection and testing shall conform to IS: 1387- 
+1967*. 
+
+9.2 No material shall be despatched from the manufacturer's ot 
+supplier's premises prior to its being certified by the purchaser or hii 
+authorized representatives as having fulfilled the tests and requirements 
+laid down in this standard except where the bundle or coil containing 
+the wire is marked with the IS I Certification Mark. 
+
+9.3 The purchaser or his authorized representative shall be at liberty to 
+inspect and verify the steel maker's certificate of cast analysis at the 
+premises of the manufacturer or supplier; when the purchaser requires an 
+actual analysis of finished material, this shall be made at a place agreed 
+to between the purchaser and the manufacturer or supplier. 
+
+9.4 Manufacturer's Certificate — In the case of wires which have 
+not been inspected at the manufacturer's works, the manufacturer or 
+supplier, as the case may be, shall supply the purchaser or his authorized 
+representatives with the certificate stating the process of manufacture and 
+also the test sheet signed by the manufacturer giving the result of each 
+mechanical test and the chemical composition, if required. Each test 
+sheet shall indicate the number or identification mark of the cast to 
+which it applies, corresponding to the number or identification mark to 
+be found on the material. 
+
+9.5 When test for susceptibility to stress corrosion is required to be 
+carried out, the cost of testing shall be borne by the purchaser. 
+
+9.6 The wire shall be supplied in the cold drawn condition in ordinary 
+mill coils. The wire is not intended to pay out straight from the coil. 
+The purchaser may specify the diameter of the coil, if he so desires. 
+
+♦General requirements for the supply of metallurgical materials {^rsi revision ). 
+
+9 
+
+
+
+IS : 1785 { Part 11 )- 1983 
+
+10. IDENTIFICATION AND MARKING 
+
+10.1 The manufacturer or supplier shall have ingots, billets and wires or 
+^undies of wires marked in such a way that all finished wire can be 
+traced to the cast from which they were made. Every facility shall be 
+given to the purchaser or his authorized representative for tracing the 
+Vires to the cast from which they were made. 
+
+10.1.1 Each bundle or coil containiner the wires ma,y also be suitably 
+marked with the Standard Mark in ^which case the concerned 
+test certificate shall also bear the Standard Mark . 
+
+10.1.2 The use of the Standard Mark is governed by the provisions of the 
+Bureau of Indian Standards Act, 1986 and the Rules and Regulations made 
+thereunder. The details of conditions under which the licence for the use of 
+Standard Mark may be granted to manufactureis or producers may be obtained 
+from the Bureau of Indian Standards. 
+
+
+
+10 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+HrnKkfuarters: 
+
+ManaK Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 11000^2 
+
+Telephones: 323 0131, 323 3375, 323 9402 
+
+Fax : 91 11 3234062. 91 11 3239399, 91 11 3^39382 
+
+Telegrams : Manaksanstha 
+(Common to all Offices) 
+
+Central Laboratory: 
+
+Plot No. 20/9, Site IV, Sahibabad Industrial Area, SAHIBABAD 201010 
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 110002 
+•Eastern : 1/14 CIT Scheme VII M, VI. P. Road, Maniktola, CALCUTTA 700054 
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 
+Southern | Cf.l.T. Campus, IV Cross Road, CHENNAI 600113 
+fWestern ; Manakalaya, E9 Behind Marol Telephone Exchange, Andheri (East), 
+MUMBAI 400093 
+
+Branch Offices: 
+
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur, AHMEDABAD 380001 
+tPeenya Industrial Area, 1st Stage, Bangalore - Tumkur Road, 
+
+BANGALORE 560058 
+Gangotri Complex, 5th Floor, Bhadbhada Road, T. T. Nagar, BHOPAL 462003 
+Plot No. 62-63, Unit VI, Ganga Nagar, BHUBANESHWAR 751001 
+Kaiaikathir Buildings, 670 Avinashi Road, COIMBATORE 641037 
+Plot No. 43, Sector 16 A. Mathura Road, FARIDABAD 121001 
+Savitri Complex, 116 G. T Road, GHAZIABAD 201001 
+53/5 Ward No. 29. R. G. Barua Road. 5th By-lane. GUWAHATI 781003 
+5-8-58C, L N. Gupta Marg, Nampally Station Road, HYDERABAD 500001 
+E-52, Chitaranjan Marg, C-Scheme, JAIPUR 302001 
+117/418 B, Sarvodaya Nagar, KANPUR 208005 
+
+Seth Bhawan, 2nd Floor, Behind Leela Cinema, Naval Kishore Road, 
+
+LUCKNOW 226001 
+Patliputra Industrial Estate, PATNA 800013 
+T C. No. 14/1421. University P. O. Palayam, 
+
+THIRUVANANTHAPURAM 695034 
+NIT Building, Second Floor, Gokulpat Market, NAGPUR 440010 
+Institution of Engineers ( India ) Building, 1332 Shivaji Nagar, PUNE 411005 
+
+
+
+•Sales Office is at 5 Chowringhee Approach, P. O. Princep Street, 
+
+CALCUTTA 700072 
+tSales Office is at Novelty Chambers, Grant Road, MUMBAI 400007 
+^Sales Office is at 'F' Block, Unity Building, Narashimaraja Square, 
+
+BANGALORE 560002 
+
+
+
+Telephone 
+
+
+8-77 00 32 
+
+
+323 76 17 
+
+
+337 86 62 
+
+
+60 38 43 
+
+
+235 23 15 
+
+
+832 92 95 
+
+
+550 13 48 
+
+
+839 49 55 
+
+
+55 40 21 
+
+
+40 36 27 
+
+
+21 01 41 
+
+
+8-28 88 01 
+
+
+8-71 19 96 
+
+
+54 11 37 
+
+
+20 10 83 
+
+
+37 29 25 
+
+
+21 68 76 
+
+
+23 89 23 
+
+
+26 23 05 
+
+
+6 21 17 
+
+
+52 51 71 
+
+
+32 36 35 
+
+
+27 10 85 
+
+
+309 65 28 
+
+
+??? 39 71 
+
+
+
+Printed at New India Printing Press. Khurja, India 
+
+
+
+AMENDMENT NO. 1 APRIL 1989 
+
+TO 
+
+IS:1785(Part 2) - 1983 SPECIFICATION FOR 
+PLAIN HARD DRAWN STEEL WIRE FOR PRESTRESSED 
+
+con<!rete 
+
+PART 2 AS-DRAWN WIRE 
+
+( First Revision ) 
+
+( Page 5, clause 3.2, first sentence ) - 
+Substitute the following for the existing sentence: 
+
+•The wire rods obtained from the rolling mill shall 
+be heat treated if required to make it suitable for 
+cold drawing and thereafter the diameter of the wire 
+rod shall be successively decreased to the required 
+diameter by cold drawing it through a series of 
+dies.' 
+
+( Page 6, clause 6.1) - Add the follov/ing note 
+below the informal table: 
+
+'NOTE - In cases where the wires are likely to 
+undergo further drawing, for example, in the case of 
+prestressed concrete pipes, 10 percent reduction in 
+tensile strength values specified above may be 
+accepted by agreement between the purchaser and the 
+manufacturer. In such cases, the bend test and/or 
+torsion test requirements are also to be mutually 
+agreed upon by the purchaser and the manufacturer/ 
+
+( Page 7, clause 7.4) - Add the following in the 
+end: 
+
+* Alternatively, stress at 1.0 percent extension 
+under load method as specified in 7.4.1 may be 
+determined.* 
+
+I 
+
+
+
+clause 7.4.1) - Substitute the 
+following for the first two sentences: 
+
+'When stress at 1.0 percent extension under load 
+method is to be determined, an initial load 
+corresponding to a stress of 196 N/mm^ shall be 
+applied to the test piece and a sensitive 
+extensometer then attached. * 
+
+
+
+(BSMDC 8) 
+
+
+
+Pnnted at New India Printing Press. Khurja, India 
+
+
+
+AMENDMENT NO. 2 DECEMBER 1993 
+
+TO 
+
+IS 1785 (Part 2): 1983 SPECIFICATION FOR PLAIN 
+
+HARD-DRAWN STEEL WIRE FOR PRESTRESSED 
+
+CONCRETE 
+
+PART 2 AS-DRAWN WIRE 
+
+( Firsi Revision ) 
+
+( Page 4, clause 2.1 ) — Delete and renumber the subsequent clauses as 2.1 
+to 2.4. 
+
+( Page 5, clause 5.1.1 ) — Add new clause 5.1.2 as follows: 
+
+'5.1.2 Where the diameter measurements (taken in two directions at right angles 
+in the same plane) show an ovality of not more than half of the total diameter 
+tolerance, no checks on section by weighing shall be necessary. Where ovality is 
+more than half of the total diameter tolerance, and tolerance on nominal mass of 
+the finished wire shall be as given below: 
+
+
+
+Nominal Diameter 
+
+
+Nominal Mass 
+
+
+Tolerance 
+
+
+mm 
+
+
+g/m 
+
+
+g/m 
+
+
+8.00 
+
+
+395 
+
+
+±5.9 
+
+
+7.00 
+
+
+302 
+
+
+±4.3 
+
+
+5.00 
+
+
+154 
+
+
+±3.1 
+
+
+4.00 
+
+
+98.9 
+
+
+±2.0 
+
+
+3.00 
+
+
+55.5 
+
+
+±1.5 
+
+
+2.50 
+
+
+38.5 
+
+
+±1.25 
+
+
+
+( Page 6, clause 6.2 ) — Delete 
+beginning of this clause. 
+
+
+
+Unless otherwise specified' from the 
+
+
+
+( Page 9, clause 8.3 J ) — Rewrite as follows: 
+
+* 8.3.3 Ductility — In case one or more of the test pieces first selected fail to 
+pass this test, twice the number of samples originally tested shall be selected for 
+testing. All the samples so tested shall satisfy the requirement of this test. Should 
+any of the test piece from these additional samples fail, the material represented 
+by the samples shall be considered as not having compiled with this standard.' 
+
+i 
+
+
+
+( Page 9, clause 9.4, line 6 ) — Delete 'if required*. 
+
+( Page 9, clause 9.6 ) — Add the following para at the end: 
+
+'It is necessary to protect the wires against damage and contamination during 
+transport and storage. The coils of wire shall be packed as agreed to between the 
+purchaser and the manufacturer.' 
+
+
+
+(CED54) 
+
+
+
+Printed at New India Printing Press, Khurja. India 
+
+
+
+AMENDMENT NO. 3 APRIL 1997 
+
+TO 
+
+IS 1785 (Part2): 1983 SPECIFICATION FOR PLAIN 
+
+HARD DRAWN STEEL WIRE FOR PRESTRESSED 
+
+CONCRETE 
+
+PART 2 AS-DRAWN WIRE 
+
+( First Revision ) 
+
+[ Page 6, clause 5,1.2 ( see also Amendment No. 2 ) ] — Delete in 
+Amendment No. 2 the following values of Nominal Diameter and their 
+corresponding values of Nominal Mass and Tolerance: 
+
+Nominal Diameter Nominal Mass Tolerance 
+
+
+
+mm 
+
+
+g/m 
+
+
+g/m 
+
+
+8.00 
+
+
+395 
+
+
+±5.9 
+
+
+7.00 
+
+
+302 
+
+
+±4.3 
+
+
+
+( Page 5, clause 3.1.1, line 3 ) — Substitute the following for existing 
+matter: 
+
+'0.040 percent of sulphur* and 'not more than 0.040 percent of phosphorus'. 
+
+( Page 5, clause 5.1 ) — Insert the following in the existing clause: 
+
+Nominal Dia Tolerance 
+
+2.50 mm ± 0.02 mm 
+
+( Page 6, clause 6.1 ) — Insert the following in the existing clause: 
+
+Nominal Diameter Tensile Strength, Min 
+
+mm N/mm" 
+
+2.50 1 800 
+
+( Page 7, clause 7.5.1, Table 1 ) — Insert the following in the beginning: 
+
+Diameter of Wire Radius of Jaws 
+
+mm mm 
+
+2.50 7.5 
+
+
+
+( CED 54 ) 
+
+
+
+Printed at New India Punting Press, Faiurja. India 
+
+
+
+AMENDMENT NO. 4 DECEMBER 2004 
+
+TO 
+
+IS 1785 (PART 2) : 1983 SPECIFICATION FOR PLAIN 
+
+HARD DRAWN STEEL WIRE FOR PRESTRESSED 
+
+CONCRETE 
+
+PART 2 AS- DRAWN WIRE 
+( First Revision ) 
+
+( Page 10, clause 10.1 ) — Add the following new clause after 10.1 and 
+renumber 10.1.1 and 10.1.2 as 10.2.1 and 10.2.2 respectively. 
+
+10.2 Marking — Each bundle or coil shall be securely attached with a tag 
+
+bearing the following information: 
+
+a) Identification of the manufacturer, 
+
+b) Lengthor mass of coil, 
+
+c) Nominal diameter of wire, and 
+
+d) Batch/Coil Number\ 
+
+
+
+( CED 54 ) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

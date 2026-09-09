@@ -1,0 +1,799 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 13465-1 (2005) : Solventless Polymerisable Resinous 
+Compounds Used for Electrical Insulation, Part 1 : 
+Definitions and General Requirements [ETD 2 : Solid 
+Electrical Insulating Materials and Insulation Systems] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+a^v j i imzzmn^a rafrg amsBs 
+
+
+
+£«> \\ i %^s^^^>9i^: 
+
+
+
+^^CVVVfa^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 13465 (Parti ) : 2005 
+IEC 60455-1 (1998) 
+
+TFT 1 MR'MmiCj 3fr? <HWI«<(J 3PteTTI? 
+
+( t 7^c77 zpftm ) 
+
+Indian Standard 
+
+RESIN BASED REACTIVE COMPOUNDS USED FOR 
+
+ELECTRICAL INSULATION 
+
+PART 1 DEFINITIONS AND GENERAL REQUIREMENTS 
+
+( First Revision ) 
+
+
+
+ICS 01.020; 29.035.01 
+
+
+
+© BIS 2005 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+April 2005 Price Group 4 
+
+
+
+Solid Electrical Insulating Materials and Insulation Systems Sectional Committee, ET 02 
+
+
+
+NATIONAL FOREWORD 
+
+This Indian Standard ( Part 1 ) ( First Revision ) which is identical with IEC 60455-1 (1998) 'Resin based 
+reactive compounds used for electrical insulation — Part 1 : Definitions and general requirements' 
+issued by the International Electrotechnical Commission ( IEC ) was adopted by the Bureau of Indian 
+Standards on the recommendations of the Solid Electrical Insulating Materials and Insulation Systems 
+Sectional Committee and approval of the Electrotechnical Division Council. 
+
+The text of the IEC Standard has been approved as suitable for publication as an Indian Standard 
+without deviations. In this adopted standard, certain terminology and conventions are, however, not 
+identical to those used in Indian Standards. Attention is particularly drawn to the following: 
+
+a) Wherever the words 'International Standard 1 appear referring to this standard, they should be 
+read as 'Indian Standard'. 
+
+b) Comma ( , ) has been used as a decimal marker while in Indian Standards, the current practice 
+is to use a point ( . ) as the decimal marker. 
+
+Only the English text of the IEC Publication has been retained while adopting it as an Indian Standard 
+and as such the page numbers given here are not same as in IEC publication. 
+
+This standard has been revised to align with the latest IEC Standard. 
+
+In this adopted standard, reference appears to certain International Standards for which Indian Standards 
+also exist. The corresponding Indian Standards which are to be substituted in their respective places 
+are listed below along with their degree of equivalence for the editions indicated: 
+
+International Standard Corresponding Indian Standard Degree of Equivalence 
+
+IEC 60050 ( 212 ) ( 1990 ) IS 1885 ( Part 62 ) : 1993 Identical 
+
+International Electrotechnical Electrotechnical vocabulary: 
+
+Vocabulary ( IEV ) — Chapter 212 : Part 62 Insulating solids, liquids 
+
+Insulating solids, liquids and gases and gases ( first revision ) 
+
+IEC 60455-2 (1 977 ) Specification IS 13465 ( Part 2 ) : 2004 Solventless Technically 
+
+for solventless polymerisable polymerisable resinous compounds equivalent 
+
+resinous compounds used for used for electrical insulation: 
+
+electrical insulation — Part 2 : Part 2 Methods of test 
+Methods of test 
+
+The Technical Committee responsible for the preparation of this standard has reviewed the provisions of 
+the following International Standards referred to in this adopted standard and has decided that they are 
+acceptable for use in conjunction with this standard : 
+
+International Standard Title 
+
+ISO 472 : 1988 Plastics — Vocabulary 
+
+ISO 1 043-1 : 1 987 Plastics — Symbols — Part 1 : Basic polymers and their special characteristics 
+
+ISO 1043-2 : 1988 Plastics — Symbols — Part 2 : Fillers and reinforcing materials 
+
+ISO 4597-1 : 1 983 Plastics — Hardeners and accelerators for epoxide resins — Part 1 : Designation 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with the final 
+value observed or calculated, expressing the result of a test or analysis shall be rounded off in accordance 
+with IS 2 : 1960 'Rules for rounding off numerical values ( revised)'. The number of significant places 
+retained in the rounded off value should be the same as that of the specified value in this standard. 
+
+
+
+Indian Standard 
+
+
+
+IS 13465 (Part 1) : 2005 
+IEC 60455-1 (1998) 
+
+
+
+RESIN BASED REACTIVE COMPOUNDS USED FOR 
+
+ELECTRICAL INSULATION 
+
+
+
+PART 1 DEFINITIONS AND GENERAL REQUIREMENTS 
+
+
+
+1 Scope 
+
+
+
+( First Revision ) 
+
+
+
+This part of IEC 60455 relates to resin based reactive compounds and their components used 
+for electrical insulation. All reactive compounds are solvent-free and may contain reactive 
+diluents and fillers. The reactions involved in curing are polymerization and/or crosslinking. 
+This standard does not relate to reactive compounds used as coating powders. 
+
+NOTE - It is intended to draw up specifications for coating powders as a separate IEC Standard having a different 
+number. 
+
+These materials may be used for a range of applications, of which common ones are shown in 
+table 1. 
+
+Table 1 - Application methods 
+
+
+
+Application 
+
+
+Code letters 
+
+
+Casting compound 
+
+
+CC 
+
+
+- Embedding compound 
+
+
+EBC 
+
+
+- Potting compound 
+
+
+PC 
+
+
+Encapsulating compound 
+
+
+ECC 
+
+
+Impregnating compound 
+
+
+IC 
+
+
+- for dipping procedure 
+
+
+ICD 
+
+
+- for trickling procedure 
+
+
+ICT 
+
+
+- for vacuum-pressure impregnation 
+
+
+VPI 
+
+
+
+The code letters associated with the application may be used as abbreviation of the application 
+description. Further applications and associated code letters may be added if so required. 
+
+2 Designation 
+
+Depending on their composition and reactivity, these compounds cure at ambient or at elevated 
+temperature. The curing reaction may lead to rigid, flexible or elastomeric materials. The 
+designation of a particular compound is based on the composition of its resin content or of its 
+major reactive portion. The commonly used resins are as shown in table 2. For symbols of 
+resins and polymers and their special characteristics see ISO 1043-1. 
+
+
+
+Table 2 - Basic resins 
+
+
+
+Resin 
+
+
+Code letters 
+
+
+Acrylic 
+
+
+A 
+
+
+Epoxy 
+
+
+EP 
+
+
+Polyurethane 
+
+
+PUR 
+
+
+Silicone 
+
+
+SI 
+
+
+Unsaturated polyester 
+
+
+UP 
+
+
+
+The code letters associated with the designation may be used as abbreviation of the polymer 
+description. Further designations and associated code letters may be added if so required. 
+
+NOTE - For symbols of fillers and reinforcing materials see ISO 1043-2. For designations of hardeners and 
+accelerators for epoxy resins, see ISO 4597-1. 
+
+
+
+IS 13465 (Part 1) : 2005 
+IEC 60455-1 (1998) 
+
+3 Normative references 
+
+The following normative documents contain provisions which, through reference in this text, 
+constitutes provisions of this part of IEC 60455. At the time of publication, the editions 
+indicated were valid. All normative documents are subject to revision, and parties to 
+agreements based on this part of IEC 60455 are encouraged to investigate the possibility of 
+applying the most recent edition of the normative documents indicated below 1 ). Members of 
+IEC and ISO maintain registers of currently valid international standards. 
+
+IEC 60050(2 12): 1990, International Electrotechnical Vocabulary (IEV) - Chapter 212: Insulating 
+solids, liquids and gases 
+
+IEC 60445-2:1977, Specification for solventless polymerisable resinous compounds used for 
+electrical insulation - Part 2: Methods of test 
+
+ISO 472:1988, Plastics - Vocabulary 
+
+ISO 1 043-1 :1 987, Plastics - Symbols - Part 1: Basic polymers and their special characteristics 
+
+ISO 1043-2:1988, Plastics - Symbols - Part 2: Fillers and reinforcing materials 
+
+ISO 4597-1:1983, Plastics - Hardeners and accelerators for epoxide resins - Part 1: 
+Designation 
+
+4 Definitions 
+
+NOTE - if available, definitions are taken from IEC 60050(212) or ISO 472. Where a more specific definition is 
+required, its wording is as close as possible to that given in IEC 60050(212) or ISO 472. 
+
+4.1 
+
+reactive compound 
+
+intimate admixture of a casting resin with other reactive components such as hardener, 
+accelerator, inhibitor or reactive diluent, and with or without filler and certain additives, whereby 
+virtually no volatile matter is released during the subsequent curing reaction. Reactive 
+compounds are solvent-free 
+
+NOTE - Small quantities of by-products may be evolved during cure of selected resins. In the case where the 
+resinous part of the reactive compound is diluted by means of a reactive diluent, small quantities of monomeric 
+diluent may evaporate during cure mainly due to the application conditions used. 
+
+4.2 
+
+cured compound 
+
+the reactive compound after it is cured. The cured compound is self-supporting 
+
+4 -3 ^ 
+
+reactive component 
+
+any part of the reactive compound, for example resin, initiator, hardener, accelerator, inhibitor 
+and reactive diluent, that reacts with other components or by chain reaction 
+
+4.4 
+resin 
+
+a solid, semi-solid, or pseudo-solid organic material that has an indefinite and often high 
+relative molecular mass, exhibits a tendency to flow when' subjected to stress, usually has a 
+softening or melting range, and usually fractures conchoidally. In a broad sense, the term is 
+used to designate any polymer that is a basic material for plastics 
+
+
+
+1 ) In case of dispute, the referenced edition is applicable. 
+
+
+
+IS 13465 (Part 1) : 2005 
+IEC 60455-1 (1998) 
+
+
+
+4.5 
+
+acrylic resin (A) 
+
+a resin made of acrylic acid or a structural derivative of acrylic acid, or their copolymers with 
+other monomers, the acrylic monomer(s) being in the greatest amount by mass 
+
+4.6 
+
+epoxy resin (EP) 
+
+a resin containing epoxy groups capable of crosslinking 
+
+4.7 
+
+polyurethane resin (PUR) 
+
+a resin in which, after curing, the repeated structural unit in the chain is of the urethane type 
+
+4.8 
+
+silicone resin (SI) 
+
+a resin in which, after curing, the main polymer chain consists of alternating silicon and oxygen 
+atoms 
+
+4.9 
+
+unsaturated polyester resin (UP) 
+
+a polyester resin characterized by carbon-carbon unsaturation in the polymer chain, which 
+permits subsequent crosslinking with an unsaturated monomer or prepolymer 
+
+4.10 
+
+reactive diluent 
+
+a low-viscosity liquid, which is added to a high-viscosity solvent-free thermosetting resin and 
+which reacts chemically with the resin or the hardener during curing 
+
+NOTE - Reactive diluents allow the decrease of viscosity without significant loss of other properties. 
+
+4.11 
+hardener 
+
+an agent that promotes or regulates the curing reaction of resins by taking part in the reaction 
+
+4.12 
+accelerator 
+
+a substance used in a small proportion to increase the reaction rate of a reactive compound 
+
+4.13 
+inhibitor 
+
+a substance used in a small proportion to suppress a chemical reaction 
+
+4.14 
+filler 
+
+a relatively inert solid material added to a reactive compound to modify its working properties 
+or other qualities of the uncured compound, or the physical, electrical, chemical or thermal 
+properties of the cured compound, or to lower cost 
+
+4.15 
+
+cure; curing 
+
+the process of converting the reactive compound into a stable, usable condition by poly- 
+merization and/or crosslinking 
+
+
+
+IS 13465 (Part 1) : 2005 
+IEC 60455-1 (1998) 
+
+
+
+4.16 
+polymerization 
+
+the process of converting a monomer or a mixture of monomers into a polymer 
+
+4.17 
+crosslinking 
+
+the process of multiple intermolecular covalent or ionic bonding between polymer chains 
+
+4.18 
+pot life 
+
+the period of time during which a reactive compound, prepared for application, remains in a 
+usable state 
+
+4.19 
+shelf life 
+
+the storage time under specified conditions during which a material retains its essential 
+properties 
+
+4.20 
+
+casting compound (CC) 
+
+a reactive compound poured or otherwise introduced into a mould and subsequently cured 
+
+NOTE - Casting compounds in general and casting compounds to be used for specific application such as em- 
+bedding and potting are not defined in IEC 60050(212) or the definition is inadequate as in the case of potting 
+compound. IEC 60050(212) does not distinguish between resin and compound. 
+
+4.20.1 
+
+embedding compound (EBC) 
+
+a casting compound poured into a mould completely encasing an electrical or electronic 
+component. After subsequent curing, the encased component is removed from the mould 
+
+NOTE - Connecting wires or terminals of the electrical or electronic component may protrude from the embedment. 
+
+4.20.2 
+
+potting compound (PC) 
+
+a casting compound poured into a mould completely encasing an electrical or electronic 
+component. After subsequent curing, the mould remains attached to the encased component as a 
+permanent part of the unit 
+
+4.21 
+
+encapsulating compound (ECC) 
+
+a reactive compound applied without a mould as a protective or insulating coating to enclose 
+an electrical or electronic component by suitable means such as brushing, dipping, spraying, or 
+spreading 
+
+4.22 
+
+impregnating compound (IC) 
+
+a reactive compound which is capable of penetrating or impregnating windings and coils or 
+electrical components with the purpose to fill interstices and voids and thus protect and bond 
+the winding and coil. This compound can be applied by dipping (ICD), by trickling (ICT) or by 
+vacuum pressure impregnation (VPI) 
+
+
+
+IS 13465 (Part 1) : 2005 
+IEC 60455-1 (1998) 
+
+
+
+5 Classification 
+
+Table 3 gives a classification of cured compounds based on the glass transition temperature. 
+For the method of test for glass transition temperature see 6.4.4.1 of part 2 of this standard. 
+
+NOTE -The glass transition temperature according to IEC 61006 [1]* is an indication of the thermo-mechanical 
+performance of the material. It provides a means of judgement of the degree of conversion of a reactive compound. 
+It also provides a method to distinguish between different types of material with respect to their thermo-mechanical 
+behaviour. 
+
+
+
+Table 3 - Classification of cured compounds 
+
+
+
+Glass transition class 
+
+
+Glass transition temperature 
+
+°C 
+
+
+Above 
+
+
+Up to and inclusive 
+
+
+1 
+2 
+3 
+4 
+5 
+
+
+160 
+135 
+125 
+110 
+100 
+
+
+160 
+
+135 
+125 
+110 
+
+
+6 
+7 
+8 
+9 
+10 
+
+
+75 
+
+50 
+
+25 
+
+
+
+-20 
+
+
+100 
+
+75 
+
+50 
+
+25 
+
+
+
+
+11 
+
+
+
+
+-20 
+
+
+
+6 General requirements 
+
+All material in a consignment shall comply with the requirements of this standard and shall, in 
+addition, comply with the specifications given in part 3 of this standard. 
+
+
+
+6.1 Colour 
+
+The colour of the cured compound shall match with the colour as agreed between supplier and 
+purchaser. 
+
+
+
+IS 13465 (Part 1) : 2005 
+IEC 60455-1 (1998) 
+
+6.2 Conditions of supply 
+
+The resin and other components shall be supplied in strong, dry and clean containers, which 
+ensure protection during transport, handling and storage. Each container shall be legibly and 
+durably marked with at least the following information: 
+
+- number of this standard; 
+
+- designation of the material; 
+
+- batch number; 
+
+- date of manufacture; 
+
+- manufacturer's name or trade mark; 
+
+- specified storage temperature or range of storage temperature and final date for use; 
+
+- any hazard warning notices, for instance flammability (flash point) and toxicity; 
+
+- mixing instructions where appropriate (for instance for two-pack materials); 
+
+- quantity in the container. 
+
+Preferred sizes of containers are 1; 2,5; 5; 25 and 205 I. 
+
+6.3 Shelf life 
+
+When stored in its original sealed container under specified temperature conditions, the 
+material shall retain its specified properties up to the final date for use. 
+
+
+
+IS 13465 (Part 1) : 2005 
+IEC 60455-1 (1998) 
+
+
+
+Annex A 
+
+(informative) 
+
+Bibliography 
+
+
+
+[1] IEC 61006:1991, Methods of test for the determination of the glass transition temperature 
+of electrical insulating material 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1 986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of 
+goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any 
+form without the prior permission in writing of BIS. This does not preclude the free use, in the course 
+of implementing the standard, of necessary details, such as symbols and sizes, type or grade 
+designations. Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are 
+also reviewed periodically; a standard along with amendments is reaffirmed when such review 
+indicates that no changes are needed; if the review indicates that changes are needed, it is taken 
+up for revision. Users of Indian Standards should ascertain that they are in possession of the latest 
+amendments or edition by referring to the latest issue of 'BIS Catalogue' and 'Standards : Monthly 
+Additions'. 
+
+This Indian Standard has been developed from Doc : No. ET 02 ( 5472 ). 
+
+Amendments issued Since Publication 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 1 002 
+Telephones : 2323 01 31 , 2323 3375, 2323 9402 Website : www.bis.org.in 
+
+Regional Offices : Telephones 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg f 2323 7617 
+
+NEW DELHI 110002 123233841 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachr f 2337 8499, 2337 8561 
+KOLKATA 700 054 12337 8626, 2337 9120 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 1 60 022 f 260 3843 
+
+\260 9285 
+
+Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600 113 ("2254 1216,2254 1442 
+
+\2254 2519,2254 2315 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) f 2832 9295, 2832 7858 
+
+MUMBAI 400 093 12832 7891 , 2832 7892 
+
+Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. 
+VISAKHAPATNAM. 
+
+
+
+Printed at New India Printing Press, Khurja, fndia 
+
+
+

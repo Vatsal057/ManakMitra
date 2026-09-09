@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":139,"params":{"query":"identifier:gov.in.is.10250.*","qin":"identifier:(gov.in.is.10250.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.10250.1982","title":"IS 10250: Severities for Environmental Test for Automotive Electrical Equipment"}]}}

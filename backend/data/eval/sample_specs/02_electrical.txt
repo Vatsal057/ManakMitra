@@ -1,0 +1,5 @@
+1. Supply and installation of interlocking switch socket outlets rated 32A conforming to IS 4160 for panel board wiring.
+2. All wiring installations shall conform to IS 732 : 1989 code of practice.
+3. Industrial safety helmets for site workers shall conform to IS 2925 : 1975.
+4. Toggle switches used in control panels shall be of Type I as per relevant standards.
+* Cable trays shall be hot-dip galvanized.

@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":30,"params":{"query":"identifier:gov.in.is.6909.*","qin":"identifier:(gov.in.is.6909.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.6909.1990","title":"IS 6909: Specification for supersulphated cement"}]}}

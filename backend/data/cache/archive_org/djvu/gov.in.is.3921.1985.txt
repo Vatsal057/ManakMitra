@@ -1,0 +1,1835 @@
+**************** 
+
+
+
+*■ fe^K 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+^^Eti^^tt^n f im^NS ^s^iss^i ra^g^^uiKS a raaa^ 
+
+
+
+IS 3921 (1985) : Aluminium channels - [CED 7 
+Engineering and structural sections] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+Structural 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS: 3921 - 1985 
+
+( Reaffirmed 2006 ) 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+ALUMINIUM CHANNELS 
+
+
+
+( First Revision ) 
+
+
+
+UDC 6G9 7 1-4235 
+
+
+
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAK BKAVAN, y I.MIADUR. SHAH ZAFAK MARG 
+
+MEW DELHI 11 0002 
+
+G r 2 Jut* 1986 
+
+
+
+IS : 3921 - 1985 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+ALUMINIUM CHANNELS 
+
+(First Revision) 
+
+
+
+Structural Sections Sectional Committee, SMDG 6 
+
+Chairman Representing 
+
+Shri M. Dh ar KEC International Ltd, Bombay 
+
+Members 
+Shri V. K. Ageawal Hindustan Aluminium Corporation Ltd, Renukoot 
+
+Shrt N. G. Sharma ( Alternate ) 
+Shri R. N. Aqgarwal Steel Authority of India Ltd ( Bokaro Steel Plant ), 
+
+Bokai o 
+Shri B. K. Srivastava ( Alternate ) 
+Shri S. Banerjee Steel Re-Rolling Mills Association of India, Calcutta 
+
+Shri N. Bhattacharya Garden Reach Shipbuilders & Engineers Ltd, 
+
+Calcutta 
+Shri A. P. Bhatnagar Steel Authority of India Ltd ( Durgapur Steel 
+
+Plant ), Durgapur 
+Shri P. K. Debnath ( Alternate ) 
+Shri B. B. Chakraverti Superintendence Co of India ( Pvt ) Ltd, Calcutta 
+
+Shri A. K. Shome ( Alternate ) 
+Shri D. S. Desai M. N. Dastur & Co Pvt Ltd, Calcutta 
+
+Shri B. K. Dctta Iron & Steel Control, Calcutta 
+
+Shri S. S. Saha ( Alternate ) 
+Shri S. K. Ganguly Institution of Engineers ( India ), Calcutta 
+
+Shri S. B. Gupta Directorate General of Supplies & Disposals 
+
+( Inspection Wing ), New Delhi 
+Shri M, P. Jasuja Steel Authority of India Ltd ( Research & Develop- 
+
+ment Centre for Iron & Steel ), Ranchi 
+Joint Director Standards Ministry of Railways 
+(Wagon I), RDSO 
+Joint Director Standards 
+
+( B & S ) SB, RDSO ( Alternate ) 
+Shri A. J. Joshi Steel Authority of India Ltd ( Bhilai Steel Plant ), 
+
+Bhilai 
+Shri A. G. Rama Rao ( Alternate ) 
+Lt-Col Kulw ant Singh Engineer- in-Chief s Branch, Army Headquarters, 
+
+New Delhi 
+Major S. B. Puri ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1986 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act t 
+
+
+
+IS : 3921 - 1985 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri S. K. Mitba Indian Iron & Steel Co Ltd, Burnpur 
+
+Shri S. Dutta ( Alternate ) 
+Shri P. K. Mukherjee Braithwaite & Co Ltd, Calcutta 
+
+Shri Amit Kumar Bhatta- 
+chaeya ( Alternate ) 
+Shri M. V. Nageshaiah Metallurgical & Engineering Consultants ( India ) 
+
+Ltd Ranchi 
+
+Shri Kammal Prakash ( Alternate ) 
+Shri P. V. Naik Richardson & Cruddas Ltd, Bombay 
+
+Shri N. S. R. V. Raju Hindustan Shipyard Ltd, Visakhapatnam 
+
+Shri D. Krishnamurthy ( Alternate ) 
+Shri S. K. Sadhtj Jessop & Co Ltd, Calcutta 
+
+Shri S. C. Ghakravarti ( Alternate ) 
+Shri M. C. Sarangdhar Stup & Co Ltd, Bombay 
+
+Shri M. K. Chatterjee ( Alternate ) 
+Shri K, R. Sekgupta Joint Plant Committee. Calcutta 
+
+Shri B. P. Ghosh ( Alternate ) 
+Shri S. N. Singh EMC Steelal Ltd, Calcutta 
+
+Shri C. K. Nag ( Alternate ) 
+Shri K. S. Sriniv asan National Buildings Organization, New Delhi 
+
+Shri A. K. Lal ( Alternate ) 
+Shri K. Suryanarayanan Indian Aluminium Co Ltd, Calcutta 
+
+Shri G. M. Menon ( Alternate ) 
+Shri D. Thiruvengadam Tube Products of India, Madras 
+
+Shri K. V. Vijayaraghavan ( Alternate ) 
+Shri S. G. Tudbkar Steel Authority of India Ltd ( Rourkela Steel 
+
+Plant ), Rourkela 
+
+Shri J. N. Bhambry ( Alternate ) 
+Shri K. Raghavkndran, Director General, ISI ( Ex -officio Member ) 
+
+Director ( Struc & Met ) 
+
+Secretary 
+
+Shri S. S. Sethi 
+Joint Director ( Struc & Met ), ISI 
+
+
+
+Panel for Structural Sections in Aluminium and Aluminium Alloys. 
+
+SMDG 6 : P3 
+
+Convener 
+
+Deputy Director Standards, Ministry of Railways 
+Carriage I 
+
+Members 
+
+Deputy Director Standards 
+( B & S ) SB ( Alternate to 
+Deputy Director Standards, 
+Carriage I, RDSO ) 
+Shri V. D. Aggarwal Bharat Aluminium Co, Calcutta 
+
+Shri V. K. Ageawal Hindustan Aluminium Corporation Ltd, Renukoot 
+
+Shri N. G. Sharma ( Alternate ) 
+
+( Continued on page 8 ) 
+
+
+
+IS : 3921 - 1985 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+ALUMINIUM CHANNELS 
+
+(First Revision) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( First Revision ) was adopted by the Indian 
+Standards Institution on 20 December 1985, after the draft finalized by 
+the Structural Sectional Committee had been approved by the Structural 
+and Metals Division Council. 
+
+0.2 Aluminium because of its lightness, strength and better resistance 
+atmospheric corrosion has gained popularity in structures especially for 
+use in hilly areas and in defence installations. 
+
+0.3 A large number of variety of aluminium sections are being produced 
+in the country. In order to standardize these sections for their economic 
+production, the Sectional Committee had formulated an Indian 
+Standard series covering angles, channels, beams and tee sections for 
+structural use and other applications. 
+
+0.4 This Indian Standard was first published in 1966. In this revision 
+alloys with new designations as covered in IS : 733-1983* have been used. 
+0.5 In the preparation of this standard, the Sectional Committee kept in 
+view manufacturing and trade practices followed in the country in this 
+field. 
+
+0.6 A code of practice for use of aluminium alloys in structures, namely, 
+IS : 8 147- 197 of has already been published which covers provisions for 
+the design of structures ( except bridges and pressure vessels ) using 
+aluminium alloys. 
+
+0.7 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in accord- 
+ance with IS : 2-1960J. The number of significant places retained in 
+the rounded off value should be the same as that of the specified value 
+in this standard. 
+
+
+
+♦Specification for wrought aluminium and aluminium alloy bars, rods and sections 
+( for general engineering purposes ) ( third revision ). 
+
+fCode of practice for use of aluminium alloys in structure, 
+{Rules for rounding off numerical values ( revised ). 
+
+
+
+IS : 3921 - 1985 
+
+1. SCOPE 
+
+1.1 This standard covers the material, dimensions and sectional properties 
+of aluminium channels for structural use and other applications. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard the following definitions shall 
+apply. 
+
+2.1 Y-Y Axis — A line parallel to the axis of the web and passing 
+through the centre of gravity of the profile of the section. 
+
+2.2 X-X Axis — ■ A line passing through the centre of gravity of the 
+profile of the section, and at right angles to the Y-Y axis, 
+
+3. SYMBOLS 
+
+3.1 Letter symbols used in the standard have been indicated in the figure 
+appearing along with Table 1. The letter symbols used in Table 1 shall 
+have the meaning indicated against each as given below: 
+
+a — sectional area, 
+M <ss mass of the section, per unit length, 
+I x = moment of inertia about the X-X axis, 
+I y = moment of inertia about the Y-Y axis, 
+e x = distance of extreme fibre from the X-X axis = C x , 
+e y = distance of extreme fibre from the Y-Y axis = b — C Y , 
+Zx — /x/*x — modulus of section about the X-X axis, 
+Zv = iy/tfy — modulus of section about the Y-Y axis, 
+
+
+
+*-v-? 
+
+
+
+radius of gyration about the X-X axis, and 
+
+
+
+ry - 4 4- = 
+
+
+
+radius of gyration about the Y-Y axis. 
+
+4. DESIGNATION 
+
+4.1 Aluminium channels shall be designated as ALC followed by the 
+depth of channel in mm, flange width in mm and mass of the section in 
+kg/m,' 
+
+Example: ALC 80 x 40 — 3 "21 
+
+5. MATERIAL 
+
+5.1 Aluminium sections covered in this standard shall be manufactured 
+from the following alloys in appropriate temper: 19000, 24345, 24534, 
+52C00, 53000, 63400, 64423, 64430, 65032 and 74530. 
+
+
+
+IS : 3921 - 1985 
+
+5.1,1 Aluminium alloys and temper selected shall conform to the 
+provisions of IS : 733-1983*. 
+
+6. DIMENSIONS AND SECTIONAL PROPERTIES 
+
+6.1 Dimensions and mass of Indian Standard aluminium channels shall 
+be as given in Table 1. For convenience of reference sectional properties 
+are also given in Table 1. 
+
+6.1.1 Sections of dimensions other than those included in Table 1 may 
+also be manufactured subject to the agreement between the purchaser 
+and the manufacturer. 
+
+6.1.2 Sections without root radius ( square fillet ) may also be manu- 
+factured subject to the agreement between the purchaser and the 
+manufacturer. 
+
+6.2 Dimensional tolerances for the sections shall be as specified in 
+IS : 3965-1981-f. 
+
+7. PACKING 
+
+7.1 Aluminium channels shall be securely bundled and wraoped in 
+bitumanized hessian cloth or in wooden boxes or as mutually agreed. 
+Weight of each bundle may be as agreed to between the purchaser and 
+the manufacturer. 
+
+8. MARKING 
+
+8.1 Aluminium channels shall be clearly marked with the designation, 
+alloy and temper, manufacturer's name and lot number/year of manu- 
+facture. 
+
+8.2 Channels may also be marked with the ISI Certification Mark. 
+
+Notr — The use of the ISI Certification Mark is governed by the provisions of the 
+Indian Standards Institution ( Certification Marks ) Act and the Rules and Regu- 
+lations made thereunder. The ISI Mark on products covered by an Indian Standard 
+conveys the assurance that they have been produced to comply with the require- 
+ments of that standard under a well-defined system of inspection, testing and quality 
+control which is devised and supervised by ISI and operated by the producer. ISI 
+marked products are also continuously checked by ISI for conformity to that 
+standard as a further safeguard. Details of conditions under which a licence for the 
+use of the ISI Certification Mark may be granted to manufacturers or processors, 
+may be obtained from the Indian Standards Institution. 
+
+
+
+♦Specification for wrought aluminium and aluminium alloys bars, rods and sections 
+( for general engineering purposes) ( third revision ). 
+
+fDimensions for wrought aluminium and aluminium alloys, bars, rods and sections 
+{first revision ). 
+
+
+
+TABLE 1 INDIAN STANDARD ALUMINIUM CHANNELS 
+
+( Clauses 3.1, 6.1 and 6.1.1) 
+
+
+
+o> 
+
+
+
+
+to 
+
+K3 
+
+
+
+8 
+
+
+
+Designation 
+
+
+Mass* 
+
+
+Sec- 
+
+
+Depth 
+
+
+Width 1 
+
+
+"hick- 
+
+
+Thick- 3 
+
+
+Radius 
+
+
+i Cent] 
+
+
+ie Moment 
+
+
+Radius 
+
+
+Modulus 
+
+
+
+
+per 
+
+
+TIONAl 
+
+
+of 
+
+
+OF 
+
+
+NESS 
+
+
+NESS 
+
+
+at 
+
+
+of 
+
+
+of 
+
+
+
+
+OF 
+
+
+of 
+
+
+
+
+Metre 
+
+
+Area 
+
+
+Section Flange 
+
+
+OF 
+
+
+OF 
+
+
+Root 
+
+
+Gravity Inertia 
+
+
+Gyration 
+
+
+Section 
+
+
+
+
+(Af) 
+
+
+(«) 
+
+
+h 
+
+
+b 
+
+
+Web 
+
+
+Flange 
+
+
+r 
+
+
+Cy 
+
+
+* ■*■ , 
+
+
+i •*• ■> 
+
+
+r- * — —^ 
+
+
+
+
+
+
+
+
+
+
+
+
+/w 
+
+
+*f 
+
+
+
+
+
+
+h /y 
+
+
+Tx 
+
+
+'y 
+
+
+Zx Zy 
+
+
+
+
+kg/m 
+
+
+cm* 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+cm 
+
+
+cm 4 cm 4 
+
+
+cm 
+
+
+cm 
+
+
+cm* cm* 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7) 
+
+
+(8) 
+
+
+(9) 
+
+
+(10) (11) 
+
+
+(12) 
+
+
+(13) 
+
+
+(14) (15) 
+
+
+ALC 40x20-0-44 
+
+
+044 
+
+
+1-63 
+
+
+40 
+
+
+20 
+
+
+2-0 
+
+
+2-0 
+
+
+5-0 
+
+
+0'56 
+
+
+3-98 0-58 
+
+
+1-56 
+
+
+0-60 
+
+
+1-99 0-40 
+
+
+ALC 40x20-0-63 
+
+
+063 
+
+
+2-33 
+
+
+40 
+
+
+20 
+
+
+3-0 
+
+
+3-0 
+
+
+5-0 
+
+
+0*60 
+
+
+5-37 0-81 
+
+
+1-52 
+
+
+0-59 
+
+
+2-69 0-58 
+
+
+ALC 50x30-0-88 
+
+
+088 
+
+
+3'27 
+
+
+50 
+
+
+30 
+
+
+3-0 
+
+
+3-0 
+
+
+6*0 
+
+
+0*91 
+
+
+12-75 2-79 
+
+
+1-97 
+
+
+0*92 
+
+
+5-10 1-33 
+
+
+ALC 50x30-1-14 
+
+
+1-14 
+
+
+4*23 
+
+
+50 
+
+
+30 
+
+
+40 
+
+
+40 
+
+
+6-0 
+
+
+095 
+
+
+15-80 3*52 
+
+
+1-93 
+
+
+0-91 
+
+
+6-32 172 
+
+
+
+ALC 60x30-L13 
+ALG 60x30-1-55 
+ALC 60x30-1*95 
+
+
+1-13 
+1*55 
+
+1*95 
+
+
+4*17 
+5*73 
+7-21 
+
+
+60 
+60 
+60 
+
+
+30 
+30 
+30 
+
+
+3*0 
+4-0 
+50 
+
+
+4*0 
+6*0 
+8-0 
+
+
+7*0 
+7-0 
+7*0 
+
+
+0-94 
+1-03 
+1*09 
+
+
+23-62 
+31*10 
+37-14 
+
+
+3-59 
+4*89 
+6*05 
+
+
+2*38 
+2*33 
+2"27 
+
+
+0*93 
+0*92 
+0-92 
+
+
+7*87 
+10*37 
+12*39 
+
+
+1-75 
+2*48 
+3*17 
+
+
+ALG 60x43-1-87 
+ALG 60x40-2-38 
+
+
+1*87 
+2*38 
+
+
+6*93 
+8*81 
+
+
+60 
+60 
+
+
+40 
+40 
+
+
+4'0 
+
+5*0 
+
+
+6*0 
+8*0 
+
+
+7*0 
+7*0 
+
+
+1*46 
+1-53 
+
+
+39*88 
+48-04 
+
+
+11*05 
+13*76 
+
+
+2*90 
+2*84 
+
+
+1*26 
+1*25 
+
+
+13*29 
+16*01 
+
+
+4*35 
+5-57 
+
+
+ALG 80x40-2-10 
+ALC 80x40-2*67 
+ALG 80x40-3*21 
+
+
+2*10 
+2*67 
+3*21 
+
+
+7*79 
+
+9-87 
+
+11*87 
+
+
+80 
+80 
+80 
+
+
+40 
+40 
+40 
+
+
+4-0 
+
+5*0 
+6*0 
+
+
+6*0 
+
+80 
+
+10*0 
+
+
+8*0 
+8 
+8-0 
+
+
+1-32 
+1*40 
+I -45 
+
+
+79-19 
+
+96*72 
+
+111*67 
+
+
+12*22 
+15*28 
+1809 
+
+
+3*19 
+3-13 
+3-07 
+
+
+1*25 
+1-24 
+1*23 
+
+
+1980 
+24-18 
+27*91 
+
+
+4*56 
+5*87 
+7*11 
+
+
+ALC 100x40-295 
+ALG 100x40-3-55 
+
+
+2'95 
+3*55 
+
+
+10-95 
+13*15 
+
+
+100 
+
+100 
+
+
+40 
+40 
+
+
+5*0 
+60 
+
+
+8*0 
+
+10*0 
+
+
+9-0 
+9*0 
+
+
+1*29 
+1*35 
+
+
+166*03 
+193-29 
+
+
+16*52 
+19-60 
+
+
+3*89 
+3*83 
+
+
+1-23 
+1-22 
+
+
+33*21 
+38*66 
+
+
+6-09 
+7-39 
+
+
+ALG 100x50-3-39 
+ALG 100x50-4-09 
+ALG 100x50-4*98 
+
+
+3*39 
+
+4*09 
+4*98 
+
+
+12-55 
+15-15 
+
+18-43 
+
+
+100 
+100 
+100 
+
+
+50 
+50 
+
+50 
+
+
+5*0 
+6*0 
+8*0 
+
+
+8*0 
+100 
+12*0 
+
+
+9*0 
+90 
+9*0 
+
+
+1*70 
+1-76 
+1*78 
+
+
+199*97 
+23396 
+267*54 
+
+
+31*06 
+37*01 
+43-34 
+
+
+3-99 
+3*93 
+3*18 
+
+
+1-57 
+1*56 
+1*53 
+
+
+39-99 
+46*79 
+53-51 
+
+
+9-40 
+11*44 
+1346 
+
+
+ALC 120x50-3*68 
+ALG 120x50-4-43 
+
+
+3*68 
+4-43 
+
+
+13*63 
+16*43 
+
+
+120 
+120 
+
+
+50 
+50 
+
+
+5*0 
+6-0 
+
+
+8*0 
+10-0 
+
+
+10*0 
+10*0 
+
+
+I 59 
+
+1*65 
+
+
+308*82 
+363*14 
+
+
+33-07 
+39-48 
+
+
+4*76 
+4*70 
+
+
+1-56 
+1*55 
+
+
+51*47 
+60-52 
+
+
+9-69 
+11-80 
+
+
+ALG 120x60-4*98 
+ALG 120x60-6*08 
+
+
+4*98 
+
+6-08 
+
+
+18*43 
+22*51 
+
+
+120 
+120 
+
+
+60 
+60 
+
+
+6*0 
+8*0 
+
+
+10-0 
+12*0 
+
+
+10*0 
+10*0 
+
+
+2*07 
+2*08 
+
+
+4?3*8I 
+489*62 
+
+
+66-04 
+
+77-97 
+
+
+4*80 
+
+4-66 
+
+
+1-89 
+1-86 
+
+
+70*63 
+81*60 
+
+
+16-80 
+
+19*87 
+
+
+ALC 150x60-5-51 
+ALC 150x60-6-77 
+
+
+5*51 
+
+6*77 
+
+
+20*42 
+25*10 
+
+
+150 
+150 
+
+
+60 
+60 
+
+
+6*0 
+8*0 
+
+
+10*0 
+120 
+
+
+12'0 
+12-0 
+
+
+1-90 
+1*91 
+
+
+722*88 
+843*19 
+
+
+71-41 
+84*30 
+
+
+5*95 
+580 
+
+
+1-87 
+1-83 
+
+
+96*38 
+112*42 
+
+
+17*43 
+
+20*60 
+
+
+ALG 150x80-6*59 
+ALG 150x80-8*07 
+ALG 150x80-1026 
+
+
+6*59 
+
+8*07 
+10 26 
+
+
+24*42 
+29*90 
+38-02 
+
+
+150 
+150 
+150 
+
+
+80 
+80 
+80 
+
+
+6*0 
+
+8*0 
+
+100 
+
+
+10*0 
+12*0 
+16*0 
+
+
+12*0 
+12*0 
+12'0 
+
+
+2*74 
+273 
+287 
+
+
+919-22 
+072*29 
+311-20 
+
+
+159*60 
+190*37 
+233-10 
+
+
+6*14 
+599 
+
+5*87 
+
+
+2*56 
+2*52 
+2*50 
+
+
+122*56 
+142*97 
+174*83 
+
+
+30*34 
+36*09 
+46*41 
+
+
+ALC 200x80-9*28 928 
+ALC 200x80-11-74 11*74 
+
+
+34*38 
+
+43*50 
+
+
+200 
+200 
+
+
+80 
+80 
+
+
+8*0 
+10*0 
+
+
+120 
+16*0 
+
+
+160 
+16*0 
+
+
+2*43 
+
+2*58 
+
+
+140-69 
+638*55 
+
+
+210*38 
+268-98 
+
+
+7*89 
+
+7-79 
+
+
+2*47 
+2*46 
+
+
+214-07 
+263-86 
+
+
+37*80 
+48*72 
+
+
+ALC 200x100-13*47 13*47 
+ALC 200x100-15-33 15*33 
+
+
+49-90 
+56*78 
+
+
+200 
+200 
+
+
+100 
+100 
+
+
+10*0 
+12-0 
+
+
+16*0 
+18-0 
+
+
+16*0 
+18*0 
+
+
+3*40 
+3*41 
+
+
+181*61 
+499-65 
+
+
+495*96 
+•552*64 
+
+
+7*99 
+7*85 
+
+
+3-15 
+3*12 
+
+
+318-16 
+349-97 
+
+
+75*20 
+83*84 
+
+
+
+♦Based on density of 2*7 g/cm 3 . 
+
+
+
+to 
+
+
+
+to 
+
+
+
+00 
+
+
+
+IS : 3921 - 1985 
+
+
+
+( Continued from page 2 ) 
+
+Members 
+
+Shbi D. K. Babai 
+Shbi B. S. Bbahmaohari 
+
+Shbi A. S. Lakea 
+Shbi A. V. Kelkar 
+
+Shbi B. Y. Deshpande 
+Shbi K. B. Patel 
+
+Shbi D. K. Nimavat ( 
+Shbi K. Purkayastha 
+
+Shbi V. Ramaswamy ( 
+Shbi K. R. Raghunath 
+Representative 
+Repbesentative 
+Repbesentative 
+
+Shbi K. K. Sud 
+
+
+
+Representing 
+
+Cochin Shipyard Ltd, Cochin 
+
+Metallurgical & Engineering Consultants ( India ) 
+
+Ltd, Ranchi 
+Delhi Transport Corporation, Delhi 
+Maharashtra State Road Transport Corporation, 
+Pune 
+( Alternate ) 
+
+Gujarat State Road Transport Corporation, 
+Ahmadabad 
+Alternate ) 
+
+Indian Aluminium Co Ltd, Calcutta 
+Alternate ) 
+
+Jindal Aluminium Ltd, Bangalore 
+
+Integral Coach Factory, Perambur 
+
+Hindustan Shipyard Ltd, Visakhapatnam 
+
+Garden Reach Shipbuilder & Engineers Ltd, 
+
+Calcutta 
+Ministry of Defence (R&D) 
+
+
+
+
+I 
+
+
+
+INDIAN STANDARDS INSTITUTION 
+
+
+
+iteadqaertcrs: 
+
+Manak fihavan, 9 Behodur Shah Zafar Msrg, NEW DELHI 110002 
+
+Telegrams : Manaksanstha 
+( Common to all Offices } 
+
+
+
+Telephones : 331 0131 331 1 375 
+
+
+
+Regional Offices' 
+
+*Wsstern : Mefiakalaye, E9 Ml DC, Mgrol Andheri ( East ) 
+BOMBAY 400093 
+
+tEastern : 1/14 C. 1. T Scheme VII M. V. I. P. Road 
+Maniktola. CALCUTTA 700054 
+
+Northern ; SCO 445-446, Sector 35-C 
+CHANDIGARH 160036 
+
+Southern : C I. T Campus, MADRAS 600113 
+
+
+
+Bisnch Offices: 
+
+-Pushpak', Nurmohanied Shaikh Marg, Khanpur 
+
+AHMADABAD 380001 
+'F' Block, Unity Bldg, Narasimharaja Square, 
+
+BANGALORE 560002 
+
+Gangotri Complex, Eth Floor, Bhadbhada Road, 
+
+T. T. Nagar, BHOPAL 462003 
+Ploi No. 82,83, Lewis Road, BHUBANESHWAR 751002 
+
+53/5 Ward No 29, R. G. Bajus Road. 5th Byelane, 
+GUWAHAT1 7B1003 
+
+6-8 56C L, N. Gupta Marg, HYDERABAD 500001 
+
+R14 Yudhister Marg, C Scheme, JAIPUR 302005 
+
+1 17/418 B SarvorJaya Nagar, KANPUR 208005 
+
+
+
+PatHpuira Industrial Estate, PATNA 80001 3 
+
+HampK Blcig (2nd Floor K Rly Station Road, 
+TRIVANDRUM 695001 
+
+Inspection Office (With Sale Point): 
+Institution of Engineers {India] Building, 1332 Shivaji Nagar, 
+PUNE 411005 
+
+
+
+Jefephone 
+6 32 92 95 
+
+36 24 99 
+
+< 2 1 B 43 
+{ 3 16 41 
+
+f41 24 42 
+J- 41 25 19 
+[41 29 16 
+
+( 2 63 48 
+I 2 63 49 
+
+22 48 05 
+6 67 16 
+5 36 27 
+
+
+
+22 10 03 
+r 6 34 71 
+\ 6 93 32 
+
+J21 63 76 
+\21 82 92 
+
+6 23 OS 
+
+G2 27 
+
+
+
+•Sale* Office In Bombay j» at Novell/ Chum be is. Gram Rood* 
+BOMBAY 4CC: 
+
+tSdlt-s Ollice in CjIcuiu Is at 5 Chcwringhas Appioacll, 
+P.O. Princep Sue a I, CALCUTTA 700072 
+
+
+
+5 24 35 
+
+89 SS2S 
+27 68 00 
+
+
+
+Printed Ut IrMfUDyraph, Mew Delhi, LflUia 
+
+
+

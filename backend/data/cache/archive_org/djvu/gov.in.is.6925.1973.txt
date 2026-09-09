@@ -1,0 +1,741 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 6925 (1973) : Specification for Methods of Test for 
+Determination of Water Soluble Chlorides in Concrete 
+Admixtures [CED 2: Cement and Concrete] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+Indian Standard 
+
+
+
+( Reaffirmed 2004 ) 
+
+
+
+METHODS OF TEST FOR 
+
+DETERMINATION OF WATER SOLUBLE 
+
+CHLORIDES IN CONCRETE ADMIXTURES 
+
+
+
+IJDG 666*9?2*I6:S43 83l j; 546" 131-2} 
+
+
+
+
+■3S 
+
+
+
+■ .-■. .^^T-.-,.. ... j^ _^ . 
+
+
+
+© Copyrigki J 973 
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAK BHAVAN. 9 DAI IAD UU SHAH ZAFAft MAliC 
+
+NEW DELJ-II 110001 
+
+
+
+Price Hi $* 
+
+
+
+fKi 
+
+
+
+Jbk 1973 
+
+
+
+£S:6»25-1973 
+
+
+
+Indian Standard 
+
+
+
+METHODS OF TEST FOR 
+
+DETERMINATION OF WATER SOLUBLE 
+
+CHLORIDES IN CONCRETE ADMIXTURES 
+
+Cement and Concrete Sectional Committee, BDC 2 
+
+
+
+Chairman 
+Dr H. C. Visvesvabaya 
+
+Members 
+
+Db a. S. Bhadxjri 
+
+Shri E. K. Ramachandban 
+( Alternate ) 
+Shri A. Ki Chatterji 
+
+Db S. S. Rehsi ( Alternate ) 
+DiBECrroB 
+
+Dr R. K. Ghosh ( Alternate ) 
+Director (CSMRS) 
+
+Deputy Dibectob ( CSMRS ) 
+( Alternate ) 
+Shbi K. H. Gangwal 
+
+
+
+Representing 
+Cement Research Institute of India, New Delhi 
+
+National Test House, Calcutta 
+
+
+
+Central Building 
+Roorkee 
+
+
+
+Research Institute (CSIR)j 
+
+
+
+Central Road 
+Delhi 
+
+
+
+Research Institute (CSIR), New 
+
+
+
+Central Water & Power Commissionj New Delhi 
+
+
+
+Hyderabad Asbestos Cement Products Ltd, 
+
+Hyderabad 
+Alokudyog Services Ltd, New Delhi 
+
+
+
+Shbi K. C. Ghosal 
+
+Shri A. K. Biswas ( Alternate ) 
+Dr R. K. Ghosh Indian Roads Congress, New Delhi 
+
+Dr R. R. Hattiangadi Associated Cement Companies Ltd, Bombay 
+
+Sh^i p. J. Jagus ( Alternate) 
+Joint Director, Stahdards Research, Designs & Standards Organization, 
+(B & S) Lucknow 
+
+Deputy Director, 
+
+Standards ( B & S ) ( Alternate ) 
+
+
+
+Shri S. B. Joshi 
+Shri M. T. Kanse 
+Shbi S. L. Kathuria 
+Shri S, R. Kulkarni 
+Shri M. A. Mehta 
+Shbi O, Muthachen 
+
+Superintending Engineer 
+2nd Circle ( Alternate ) 
+Shri Erach A. Nadirshah 
+
+
+
+S. B. Joshi & Go Ltd, Bombay 
+Directorate General of Supplies & Disposals 
+Roads Wing, Ministry of Transport & Shipping 
+M. N. Dastur &'Co ( Private) Ltd, Calcutta 
+Concrete Association of India, Bombay 
+Central Public Works Department 
+
+
+
+Institution of Engineers (India ) , Calcutta 
+
+
+
+( Continued on page 2 ) 
+
+
+
+© Copyright \^1Z 
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act {^IV of 1957) and 
+reproduction in whole or in part by any means except with written permission of 
+the publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS:6!I25-1973 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shbi K. K. Nambiar ' In personal capacity {' Ramanalaya^ 11 First Crescent 
+
+Park Roady Gandhinagary Adyar, Madras ) 
+Brig Nabesh Prasad Engineer-in-Chief 's Branch, Army Headquarters 
+
+Col J. M. ToLANi ( Alternate ) 
+Prof G. S. Ramaswamy Structural Engineering Research Centre (CSIR), 
+
+Roorkee 
+
+Dr N. S. Bhal ( Alternate ) 
+Dr a. V. R. Rao National Buildings Organization, New Delhi 
+
+Shri K. S. Srikivasan ( Alternate ) 
+Shri G. S. M. Rao Geological Survey of India, Nagpur 
+
+Shri T. N. S. Rao Gammon India Ltd, Bombay 
+
+Shri S. R. Pinheibo ( Alternate ) 
+Secretary Central Board of Irrigation & Power, New Delhi 
+
+Shri R. P. Sharma Irrigation & Power Research Institute, Amritsar 
+
+Shbi Mohindeb Singh ( Alternate ) 
+Shri G. B. Singh Hindustan Housing Factory Ltd, New Delhi 
+
+Shbi C. L. Kasliwal ( Alternate ) 
+Shbi J. S. Singhota Beas Designs Organization, Nangal Township 
+
+Shri T. C. Gabq ( Alternate) 
+Shbi R. K. Sinha Indian Bureau of Mines, Nagpur 
+
+Shri K. AxSubramaniam India Cements Ltd, Madras 
+
+Shri P. S. Ramachandban 
+( Alternate ) 
+Shbi L. Swaboop Dalmia Cement (Bharat) Ltd, New Delhi 
+
+Shri A. V. Ramana (^//ern^j^c) 
+Shbi D. Ajttha Simha, Director General, ISI ( Ex-qfficio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+Shri Y. R. Teneja 
+Deputy Director ( Civ Engg ), ISI 
+
+
+
+Cement Subcommittee, BDC 2:1 
+
+Convener 
+pR R. R. Hattiakgadi Associated Cement Companies Ltd, Bombay 
+
+Members 
+
+Shri V. B. Desai Hindustan Construction Co Ltd, Bombay 
+
+DiBECTOB ( C&MDD ) Central Water & Power Commission 
+Deputy Dibectob 
+(C&MDD) (Alternate) 
+
+DbR. K.Ghosh Central Road Research Institute (CSIR), New 
+
+Delhi 
+
+Shbi P. Gon Hindustan Steel Ltd, Ranchi 
+
+Shbi P. J. Jagtjs Associated Cement Companies Ltd, Bombay 
+
+( Continued on page 8 ) 
+
+
+
+18:6925-1973 
+
+Indian Standard 
+
+METHODS OF TEST FOR 
+
+DETERMINATION OF WATER SOLUBLE 
+
+CHLORIDES IN CONCRETE ADMIXTURES 
+
+0. F O R E W O R D 
+
+0.1 This Indian Standard was adopted by the Indian Standards 
+Institution on 23 March 1973, after the draft finalized by the Cement 
+and Concrete Sectional Committee had been approved by the Civil 
+Engineering Division Council. 
+
+0.2 Various types of concrete admixtures are being used in this country, 
+such as accelerators, retarders, water-proofers and air entraining agents. 
+Some of these admixtures are likely to contain water soluble chlorides 
+which are likely to cause corrosion of reinforcement in the reinforced 
+conprete. In fact the use of such chlorides containing admixtures has 
+been prohibited by IS : 456-1964*. However, the option of using such 
+admixtures is left to the engineer-in-charge who has to use his discretion 
+on the basis of relevant data in respect of the admixtures. As informa- 
+tion on the percentage of water soluble chlorides in the admixtures is of 
+vital importance it is considered necessary to bring out a standard dealing 
+with the methods of test for determination of water soluble chloride 
+content in concrete admixtures. 
+
+0.3 In reporting the result of a test or analysis made in accordance with 
+this standard, if the final value, observied or calculated, is to be rounded 
+oflf, it shall be done in accordance with IS:2-1960t. 
+
+
+
+1. SCOPE 
+
+1.1 This standard specifies the following methods of test for determina- 
+tion of water soluble chlorides in concrete admixtures: 
+
+a) Volumetric method, 
+
+b) Gravimetric method, and 
+
+c) Turbidimetric method. 
+
+
+
+♦Code of practice for plain and reinforced concrete ( second revision ). 
+fRules for rounding off numerical values {revised ) . 
+
+
+
+IS: 6925 -1973 
+
+2. SELECTION OF METHOD 
+
+2.0 One of the three methods may be used appropriately depending on 
+the concentration of the chlorides in the admixtures as per the declaration 
+of the manufacturer. 
+
+2.1 The volumetric method may be used when the chloride concentra- 
+tion is nearly 1 percent or above. 
+
+2.2 The gravimetric method itiay be used when the chloride concen- 
+tration is more than 2'5 percent. 
+
+2.3 The turbidimetric method may be used when the concentration of 
+chloride is as low as 2 ppm and above. 
+
+2.4 Where a choice is open between volumetric and gravimetric methods 
+volumetric method is preferable as it is quicker and less laborious. 
+Turbidimetric method m.ay be adopted when the chloride concentration 
+is very low. 
+
+3, VOLUMETRIC METHOD 
+3.1 Reagents 
+
+3.1.0 Quality of Reagents — Unless otherwise specified, pure chemicals 
+and distilled water {see IS: 1070-1960*) sjiall be employed in the tests. 
+
+Note — 'Pure chemicals* shall mean chemicals that do not contain impurities 
+which affect the results of analysis. 
+
+3.1.1 Mtric Acid — 1 : 2-5 — 6 N. 
+
+3.1.2 Sodium or Totassium Chloride Solution (Standard) — O'l N. 
+
+3.1.3 Potassium Chromate Indicator Solution 
+
+3.1.4 Stiver Nitrate Solution — O'l N. 
+
+3.1.4.1 Preparation — Wei^h about 8'5 g of silver nitrate, dissolve in 
+distilled water and make up to 500 ml in a volumetric flask. 
+
+3.1.4.2 Standardization — Standardize the solution against 0' 1 N 
+sodium chloride or potassium chloride solution using potassium chromate 
+solution as indicator. Adjust the normality exactly to 0*1. 
+
+3.1.5 Nitrobenzene 
+
+3.1.6 Ferric Alum Indicator Solution 
+
+3.1.7 Ammonium Thiocyanate Solution — 0*1 N. 
+
+
+
+* Specification for water, distilled quality ( revised ), 
+
+4 
+
+
+
+18:6925-^1973 
+
+3.1.7.1 Preparation — Vfei^h about 8*5 g of ammonium thiocyanate 
+and dissolve it in 1 litire of water in a volumetric flask. Shake well, and 
+standardize by titrating against 0*1 N silver nitrate solution using ferric 
+alum solution as indicator. Adjust the normality exactly to O'l. 
+
+3.2 Procedure 
+
+3,2.1 Weigh accurately sufficient quantity of the admixture such that 
+about O'l g of chloridte is present in the sample. Add enough hot water 
+so as to make a volume of 150 ml, stir until dissolution is complete. 
+If there is insoluble matter, filter and wash with water. Make up the 
+clear solution thus obtained to a volume of 250 ml with water, shake 
+well. 
+
+3,2»2 Pipette 50 ml of the solution into a 250-ml conical flask contain- 
+ing 5 ml of 6 -N nitric acid. Add 10 to 15 ml of O'l N silver nitrate 
+solution from, the burette. Then add 2 to 3 ml of nitrobenzene and I ml 
+ferric alum indicator and shake vigorously to coagulate the precipi- 
+tate. Titrate the excess silver nitrate with O'l N ammonium thiocyanate 
+until a permanent faint reddish brown colouration appears. Repeat the 
+titration with another 50 ml portion. 
+
+3.2,3 From the volume of silver nitrate ( AgNOs ) solution added sub- 
+tract the volume of thiocyanate solution required. Take the average of 
+the two determinations. Calculate the percentage of chloride (CI) in the 
+sample: 
+
+1 ml O'l N AgNOs = 0'003 546 g, CI 
+
+4. GRAVIMETRIC METHOD 
+
+4*1 Reagents 
+
+4.1.1 Concentrated Nitric Acid 
+
+4. 1.2 Dilute Nitric Acid — 1 : 50. 
+
+4.1.3 Silver Nitrate Solution — approximately 0*1 N ( see 3.1.4 ). 
+
+4.1.4 Dilute Hydrochloric Acid — 1 : 100, 
+
+4*2 Procedure 
+
+4.2.1 Weigh out accurately sufficient quantity of the admixture such that 
+about 0'05 g of chloride is present in the sample. Add enough hot water 
+so as to make a volume of 150 ml, stir until the dissolution is complete. 
+Filter and wash witH water if there is insoluble matter. Add I to 2 ml 
+of concentrated nitric acid. Then add the silver nitrate solution slowly 
+and with constant stirring until the precipitation is complete. Add a 
+slight excess ( 5 to 10 ml ) of the silver nitrate solution. Heat the sus- 
+pension nearly to boiling, while stirring constantly and maintain it at 
+
+
+
+ISr6925-1973 
+
+this temperature until the precipitate coagulates and the supernatant 
+liquid is clear. Set aside the beaker in the dark for one hour and filter 
+through a previously weighed sintered glass or porcelain crucible. Trans- 
+fer the last traces ' of sUver chloride adhering to the beaker with a 
+policeman. Wash the precipitate in the crucible with 1 : 50 nitric acid 
+added in small portions until 3 to 5 ml of the washings collected in a test 
+tube give no turbidity with 1 or 2 drops of dilute hydrochloric acid. Dry 
+the crucible and contents in an air-oven at 130 to 150°C for one hour. 
+Allow to cool in a desiccator and weigh. Repeat the process of drying 
+and cooling until constant weight is attained. 
+
+4.2-2 Calculate the percentage of chloride in the sample: 
+
+0-1 gAgCl = 0-024 737 Ci 
+
+5. TURBIDIMETRIC METHOD 
+
+5.1 Apparatus 
+5.1.1 Turbidimeter 
+
+5.2 Reagents 
+
+5.2.1 Dilute Nitric Acid — 1:3. 
+
+5.2/1 Silver Nitrate Solution — 5^^4.1.3. 
+
+5.2.3 Standard Sodium Chloride Solution 
+
+5.2.3.1 Preparation — ySfoigh accurately 0*164 9 g of sodium chloride 
+(previously dried at 105 to 110°G for 2 h) and dissolve in 1 000 ml of 
+distilled water in a volumetric flask. This solution contains 100 ppm 
+chloride, that is, 100 mg/1. 
+
+5.3 Procedure 
+
+5.3,1 Calibration of the Turbidimeter — Take 5 ml of dilute nitric acid 
+in a 100-ml volumetric flask, add 5 ml of silver nitrate solution and 
+make up the volume with distilled water. Shake well and use the solu- 
+tion as 'blank' for adjusting the 'zero' of the galv_anometer. Take 
+20 ml of the standard sodium chloride solution in a 100-ml volumetric 
+flask, add 5 ml of dilute nitric acid and 50 to 60 ml distilled water. Shake 
+well and add 5 ml of silver nitrate solution and make up the volume with 
+distilled water. Shake well and use this turbid solution to adjust the 
+galvanometer deflection to full scale. 
+
+5.3.1.1 Run in 1*0, 2-5,5-0, 7*5, 10*0, 15*0, 17*5 and 20'0 ml standard 
+chloride solution from a burette into separate 100-ml volumetric flasks. 
+Take the flrst flask, add 5 ml of dilute nitric acid and 50 to 60 ml distil- 
+led water. Shake well, add 5 ml of silver nitrate solution and make up 
+
+
+
+the volume with distilled water. Shake well and measure the turbidity 
+after checking the galvanometer * zero ' again. Repeat the above proce- 
+dure with the remaining solutions. 
+
+5*3«1*2 Plot the galvanometer readings against chloride concentration 
+in ppm. 
+
+5.3.2 Determination of Chloride in the Test Sample — yjeigh accurately 
+sufficient quantity of admixture such that it contains about O'Ol g of chlo- 
+ride and boil with 100 to 150 ml distilled water. Filter and wash with hot 
+distilled water. Collect the filtrate and washings into a 500-ml volumetric 
+flask and make up the volume. Take 50 ml {see Note) of this solution 
+into a 100-ml volumetric flask, add 5 ml dilute nitric acid and 5 ml 
+silver nitrate solution, and make up the volume with distilled water. 
+Shake well and measure the turbidity after checking the galvanometer 
+' zero '. Read the chloride ion concentration in ppm from the calibra- 
+tion plot prepared earlier and then calculate the percentage of chloride 
+in the sample. 
+
+Percentage chloride = We ight of chloride in g ^ j^^ 
+^ Weight of the sample taken 
+
+Note — Suitable dilutions may have to be carried out such that the galvanometer 
+reading falls within the range 2 to 15 ppm chloride whenever it is found necessary. 
+
+
+
+fe:€925-»73 
+
+
+
+( Continued from page 2 ) 
+
+Members 
+
+Joint Dibector, Research 
+(B&S) 
+Assistant Director, Re- 
+search ( B &.S ) ( Alternate ) 
+Shbi S. V. Maheshwary 
+Shri M. a. Mehta 
+Shbi K, P. Mohiiteen 
+Shri K. K. Nambiar 
+
+Shri E. K. Ramaohandran 
+Dr a. V. R. Rao 
+
+ShEtI G. T. Bhide ( Alternate ) 
+
+Shbi $. A. Redby 
+
+Shbi R. P. Sharma 
+
+
+
+Representing 
+
+Research, Designs & Standards 
+( Ministry of Railways ) 
+
+
+
+Organization 
+
+
+
+Rohtas Industries Ltd, Dalmianagar 
+
+Concrete Association of India, Bombay 
+
+Central Warehousing Corporation, New Delhi 
+
+In personal capacity ( * Ramanalaya ' 11 First Crescent 
+
+Park Road, Gandhinagar^ Adyar, Madras) 
+National Test House, Calcutta 
+National Buildings Organization, New Delhi 
+
+
+
+(jammon India Ltd, Bombay 
+Irrigation & Power Research Institute, Amritsar 
+Shbi Mohinder Singh ( Alternate ) 
+Shri K. K. Somani Shree Digvijay Cement Go Ltd, Bombay 
+
+Shri R. K. Gattani ( Alternate ) 
+Shbi K. A. Stjbramaniam Cement Manufacturers Association, Bombay 
+
+Superintending Engineer Public Works Department, Government of Tamil 
+
+( Planning & Designs Nadu 
+
+Gibole ) 
+Executive Engineer, Build- 
+ing Centre Division {Alternate) 
+Shbi L. Swakoop Dalmia Cement ( Bharat ) Ltd, New DeJhi 
+
+Shri A. V. Ramana ( Alternate ) 
+Dr G. A. Taneja Central Building Research Institute (CSIR), 
+
+Roorkee 
+Db R. K. Datta ( Alternate ) 
+GoL J, M. Tolani Engineer -in-Chief 's Branch, Army Headquarters 
+
+Maj D. D. Sharma {Alternate) 
+Dr S. p. Varma Directorate General of Technical Development 
+
+Shri N. G. Baak {Alternate ) 
+Db H. C. Visvesvaraya Cement Research Institute of India, New Delhi 
+
+Db S. K. Chopra ( Alternate ) 
+
+
+
+INDI4N STANDARDS 
+
+ON 
+
+CEMENT 
+
+IS: 
+
+269^1^6? (irHinaryj rapid-h&rdeimag juid low heat Fortljuid cement {st<ernirtritiiMi} 
+
+4^5-1967 PartUlld blaaLCumacG sblg cemi:tli: { afivfifi ttviikti ) 
+
+tilJO-l'SCG StAn(iaJc6 loind for tnclng (if cumeai {^tH rmmn) 
+
+1489-19^7 Portland-pOiKotaita ceme^m (/nf wpuiwr ) 
+
+2645-1964 Integral ceilient watcr|irnDfing crtmpoundj 
+
+34476-1 9i&7 Masonry cemeat [Jirsi TtmhH ] ^ 
+
+403 L -19GB Metlioda of pUyiieal testa for hydraulic HiaeDt 
+
+403^2-1 [^ Mctki^fi or chcnlicaJ SUmly'fiij of hydraul ic cemen t 
+
+4d45-L9£8 DeElpitioiii ^^ad Vaftmtieitogy reeling rn tiydramtic CE!ni«nt 
+
+6452-1972 High alumina FsmiTic for siruciural lue 
+
+
+
+INDIAN STANDAADS IM5TJTUTION 
+
+Man^k Bhavan, 9 Batiiduf Shah Z^fsr Mjirg, iNew Dethi, 11(]0D1 
+
+TelCiphf>ne : 17 Ol 3( ( 2D llnei > Tek^rtm* : ManAk»nsthi 
+
+BraoeA O^cesi T^(eF^^^ofl« 
+
+' Sadhni ,, NiirmDham«d Shaikh Miro, ICIiinpur, Ahmadibad 36000): 2 03 91 
+
+F Block, U n Ity B I4y, Nar*5l mha r q r » Square, B B n g iJ ors 560005 i 7 6 4& 
+
+634 Sardsr Vflllabhbtial PaiBl RoBd, Bombay 400007 3&69 44 
+
+h CHowiinghee Approacrh, Calcutta 70001 3 ^S-QS 02 
+
+&-S-Z01/2-A ( FJrai RDDr L ChLlrag All Lana. Hvf^aribad G00001 3 44 35 
+
+1 1 7/41 B B SPIVOdaya Naoar, Kanpui ?0fl005 82 72 
+
+M ^Hrverol PaTTere Road, Madras 600002 S 75 7B 
+
+
+
+PnBH4H P^nrotnth. NawCalhf. Indit 
+
+
+

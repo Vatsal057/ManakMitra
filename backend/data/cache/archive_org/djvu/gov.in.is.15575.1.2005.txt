@@ -1,0 +1,3414 @@
+**************** 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live'' 
+
+
+IS  15575-1  (2005) :  Electroacoustics  -  Sound  level  meters. 
+Part  1:  Specification  [LITD  7:  Audio,  Video  and  Multimedia 
+Systems  and  Equipment] 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New" 
+
+
+aj^&vi  iJii^s:y%K^  isb^^ni^seg 
+
+
+:<>5&i|  mT'5K^5?::5:^>^i»l 
+
+
+K^^^iXSVCd^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+^'^^^r 
+
+
+k 
+
+
+BLANK  PAGE 
+
+
+^*-^^^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  15575  (Parti):  2005 
+lEC  61672-1  (2002) 
+
+(Superseding  IS  9779  :  1981) 
+
+
+Indian  Standard 
+
+ELECTROACOUSTICS  —  SOUND 
+LEVEL  METERS 
+
+PART  1     SPECIFICATIONS 
+
+ICS  17.140.50 
+
+
+©BIS  2005 
+
+BUREAU     OF     INDIAN     STANDARDS 
+
+MANAK    BHAVAN,    9    BAHADUR    SHAH    ZAFAR    MARG 
+NEW    DELHI    1  10002 
+
+July  2005  Price  Group  12 
+
+
+Acoustics  and  Recording  Sectional  Committee,  LTD  5 
+
+
+NATIONAL  FOREWORD 
+
+This  Indian  Standard  (Part  1)  which  is  identical  with  lEC  61672-1  (2002)  'Electroacoustics  —  Sound 
+level  meters  —  Part  1  :  Specifications'  issued  by  the  International  Electrotechnical  Commission  (lEC) 
+was  adopted  by  the  Bureau  of  Indian  Standards  on  the  recommendations  of  the  Acoustics  and  Recording 
+Sectional  Committee  (LTD  5)  and  approval  of  the  Electronics  and  Information  Technology  Division  Council. 
+
+Existing  13  9779  ;  1 981  'Sound  level  meters'  is  based  on  lEC  60651  (1 979).  lEC  60651  (1 979)  has  been 
+withdrawn  and  replaced  by  lEC  61672-1  (2002)  and  lEC  61672-2(2003)  .This  revision  has  been  undertaken 
+to  harmonize  the  Indian  Standard  with  the  lEC  Standard.  The  other  part  of  the  series  is  given  below: 
+
+IS  1 5575  (Part  2)  :  2005  Electroacoustics  —  Sound  level  meters:  Part  2  Pattern  evaluation  tests 
+
+The  text  of  the  lEC  Standard  has  been  approved  as  suitable  for  publication  as  an  Indian  Standard 
+without  deviations.  Certain  conventions  are,  however,  not  identical  to  those  used  in  Indian  Standards. 
+Attention  is  particularly  drawn  to  the  following: 
+
+a)  Wherever  tTie  words  'International  Standard'  appear  referring  to  this  standard,  they  should 
+be  read  as  'Indian  Standard'. 
+
+b)  Comma  (,)  has  been  used  as  a  decimal  marker  while  in  Indian  Standards,  the  current 
+practice  is  to  use  a  point  (.)  as  the  decimal  marker. 
+
+In  this  adopted  standard,  reference  appears  to  certain  International  Standards  for  which  Indian  Standards 
+also  exist.  The  corresponding  Indian  Standards  which  are  to  be  substituted  in  their  places  are  listed 
+below  along  with  their  degree  of  equivalence  for  the  editions  indicated: 
+
+
+International  Standard 
+
+
+lEC  60942  (1997)  Elec- 
+troacoustics —  Sound  calibrators 
+
+lEC  61000-4-2  (1995) 
+Electromagnetic  compatibility 
+(EMC)  —  Part  4  :  Testing  and 
+measurement  techniques  — 
+Section  2 :  Electrostatic  discharge 
+immunity  test  —  Basic  EMC 
+Publication 
+
+lEC  61000-6-2  (1999)  Electro- 
+magnetic compatibility  (EMC)  — 
+Part  6-2  Generic  standards  — 
+Immunity        for        industrial 
+
+environments 
+
+
+Corresponding  Indian  Standard 
+
+
+IS  15059 :  2001  Electroacoustics  — Sound 
+calibrators 
+
+IS  14700  (Part  4/Sec  2)  :  1999 
+Electromagnetic  compatibility  (EMC)  : 
+Part  4  Testing  and  measurement 
+techniques,  Section  2  Electrostatic 
+discharge  immunity  test  —  Basic  EMC 
+publication 
+
+IS  14700  (Part  6/Sec  2)^'  Electromagnetic 
+compatibility  (EMC)  :  Part  6  Generic 
+standards,  Section  2  Immunity  for  industrial 
+environments 
+
+
+Degree  of 
+Equivalence 
+
+Identical 
+
+
+do 
+
+
+'  Under  preparation. 
+
+
+{Continued  on  third  cover) 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672-1  (2002) 
+
+Indian  Standard 
+
+ELECTROACOUSTICS  —  SOUND 
+LEVEL  METERS 
+
+PART  1     SPECIFICATIONS 
+1    Scope 
+
+1.1  This  standard  gives  electroacoustical  performance  specifications  for  three  kinds  of 
+sound  measuring  instruments: 
+
+-  a  conventional  sound  level  meter  that  measures  exponential  time-weighted  sound  level; 
+
+-  an  integrating-averaging  sound  level  meter  that  measures  time-average  sound  level;  and 
+
+-  an  integrating  sound  level  meter  that  measures  sound  exposure  level. 
+
+A  single  instrument  may  make  any,  or  all,  of  the  three  kinds  of  measurements.  Additional 
+performance  specifications  are  given  for  the  measurement  of  maximum  time-weighted  sound 
+level  and  peak  C  sound  level.  Frequency-weighting  A  is  mandatory  for  all  sound  level  meters 
+specified  in  this  standard. 
+
+1.2  Sound  level  meters  conforming  to  the  requirements  of  thi^s  standard  have  a  specified 
+frequency  response  for  sound  incident  on  the  microphone  from  one  principal  direction  in  an 
+acoustic  free  field  or  from  random  directions. 
+
+1.3  Sound  level  meters  specified  in  this  standard  are  intended  to  measure  sounds  generally 
+in  the  range  of  human  hearing. 
+
+NOTE  For  measurement  of  audible  sound  in  the  presence  of  ultrasound,  the  AU  weighting,  specified  in  lEC  61012 
+[1],  may  be  applied. "I 
+
+1.4  Two  performance  categories,  class  1  and  class  2,  are  specified  in  this  standard.  In 
+general,  specifications  for  class  1  and  class  2  sound  level  meters  have  the  same  design  goals 
+and  differ  mainly  in  the  tolerance  limits  and  the  range  of  operational  temperatures.  Tolerance 
+limits  for  class  2  specifications  are  greater  than,  or  equal  to,*those  for  class  1  specifications. 
+
+1.5  This  standard  is  applicable  to  a  range  of  designs  for  sound  level  meters.  A  sound  level 
+meter  may  be  a  self-contained  hand-held  instrument  with  an  attached  microphone  and  a  built- 
+in  display  device.  A  sound  level  meter  may  be  comprised  of  separate  components  in  one  or 
+more  enclosures  and  may  be  capable  of  displaying  a  variety  of  acoustical  signal  levels.  Sound 
+level  meters  may  include  extensive  analogue  or  digital  signal  processing,  separately  or  in 
+combination,  with  multiple  analogue  and  digital  outputs.  Sound  level  meters  may  include 
+general-purpose  computers,  recorders,  printers,  and  other  devices  that 'form  a  necessary  part 
+of  the  complete  instrument. 
+
+
+''  Numbers  in  square  bracl<ets  refer  to  the  bibliography. 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+1.6  Sound  level  meters  may  be  designed  for  use  with  an  operator  present  or  for  automatic 
+and  continuous  measurements  of  sound  level  without  an  operator  present.  Specifications  in 
+this  standard  for  the  response  to  sound  waves  apply  without  an  operator  present  in  the  sound 
+field. 
+
+2  Normative  references 
+
+The  following  referenced  documents  are  indispensable  for  the  application  of  this  document. 
+For  dated  references,  only  the  edition  cited  applies.  For  undated  references,  the  latest  edition 
+of  the  referenced  document  (including  any  amendments)  applies. 
+
+CISPR2  16-1:1999,  Specification  for  radio  disturbance  and  immunity  measuring  apparatus  and 
+mettiods  -  Part  1:  Radio  disturbance  and  immunity  measuring  apparatus 
+
+lEC  60050(801),  International  Electrotechnical  Vocabulary  -  Chapter  801:  Acoustics  and 
+electroacoustics 
+
+I  EC  60942,  Electroacoustics  -  Sound  calibrators 
+
+lEC  61000-4-2,  Electromagnetic  compatibility  (EMC)  -  Part  4:  Testing  and  measurement 
+techniques  -  Section  2:  Electrostatic  discharge  immunity  test.  Basic  EMC  Publication 
+
+I  EC  61000-6-2:1999,  Electromagnetic  compatibility  (EMC)  -  Part  6-2:  Generic  standards  - 
+Immunity  for  industrial  environments 
+
+ISO/IEC  GUIDE  EXPRES:1995,  Guide  to  the  expression  of  uncertainty  in  measurement 
+
+ISO  Publication,  ISBN  92-67-01075-1,  International  vocabulary  of  basic  and  general  terms  in 
+
+metrology 
+
+3  Terms  and  definitions 
+
+For  the  purposes  of  this  standard,  the  terms  and  definitions  given  in  lEC  60050(801),  the 
+International  vocabulary  of  basic  and  general  terms  in  metrology,  the  Guide  to  the  expression 
+of  uncertainty  in  measurement,  and  lEC  61000-6-2:1999,  as  well  as  the  following  apply.  All 
+quantities  are  expressed  in  SI  units. 
+
+3.1 
+
+reference  sound  pressure 
+
+reference  quantity  conventionally  chosen  equal  to  20  |iPa  for  airborne  sound 
+
+3.2 
+
+sound  pressure  level 
+
+twenty  times  the  logarithm  to  the  base  ten  of  the  ratio  of  the  root-mean-square  of  a  given 
+sound  pressure  to  the  reference  sound  pressure 
+
+NOTE     Sound  pressure  level  is  expressed  in  decibels  (dB);  symbol  Lp. 
+
+
+2     In  English,  CISPR  stands  for  International  Special  Committee  on  Radio  Interference. 
+
+2 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+
+3.3 
+
+frequency  weighting 
+
+for  a  sound  level  meter,  the  difference  between  the  level  of  the  signal  indicated  on  the  display 
+device  and  the  corresponding  level  of  a  constant-amplitude  steady-state  sinusoidal  input 
+signal,  specified  in  this  standard  as  a  function  of  frequency 
+
+NOTE     The  difference  in  level  is  expressed  in  decibels  (dB). 
+
+3.4 
+
+time  weighting 
+
+exponential  function  of  time,  of  a  specified  time  constant,  that  weights  the  square  of  the 
+instantaneous  sound  pressure 
+
+3.5 
+
+time-weighted  sound  level 
+
+twenty  times  the  logarithm  to  the  base  ten  of  the  ratio  of  a  given  root-mean-square  sound 
+pressure  to  the  reference  sound  pressure,  root-mean-square  sound  pressure  being  obtained 
+with  a  standard  frequency  weighting  and  standard  time  weighting 
+
+NOTE  1     Time-weighted  sound  level  is  expressed  in  decibels  (dB). 
+
+NOTE  2  For  time-weighted  sound  level,  example  letter  symbols  are  L^p.  ^-as-  ^cf-  ^^^  ^cs  fo""  frequency 
+weightings  A  and  C  and  time  weightings  F  and  S. 
+
+NOTE  3     In  symbols,  A-weighted  and  time-weighted  sound  level,  /-at(0.  at  any  instant  of  time  t  is  represented  by 
+
+
+L,,{t)  =  20  lg{[(1/T) j_>^  (|)e-<'-^>'^d^ J'Ypo 
+
+
+(1) 
+
+
+where 
+
+
+r  is  the  exponential  time  constant  in  seconds  for  time  weighting  F  or  S; 
+
+£  is  a  dummy  variable  of  time  integration  from  some  time  in  the  past,  as  indicated  by  -^  for  the  lower  limit  of 
+the  integral,  to  the  time  of  observation  f; 
+
+Pa(^)  's  the  A-weighted  instantaneous  sound  pressure;  and 
+
+po  is  the  reference  sound  pressure. 
+
+In  equation  (1).  the  numerator  of  the  argument  of  the  logarithm  is  the  exponential-time-weighted,   root-mean- 
+square,  frequency-weighted  sound  pressure  at  observation  time  t. 
+
+NOTE  4     The  sketch  in  figure  1  illustrates  the  process  indicated  by  equation  (1). 
+
+
+^ 
+
+Low-pass  filter  with 
+one  real  pole  at  -1/t 
+
+^ 
+
+Square 
+root 
+
+^ 
+
+Square 
+
+Logarithm 
+
+W 
+
+^ 
+
+
+Frequency 
+
+weighted 
+
+input 
+
+
+Result  in  decibels 
+reference  po 
+
+
+Figure  1  -  Principal  steps  Involved  in  forming  an  exponential-time-weighted  sound  level 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+
+3.6 
+
+maximum  time-weighted  sound  level 
+
+greatest  time-weighted  sound  level  within  a  stated  time  interval 
+
+NOTE  1     Maximum  time-weighted  sound  level  is  expressed  in  decibels  (dB). 
+
+NOTE  2    For  maximum  time-weighted  sound  level,  example  letter  symbols  are  L^Fmax.  ^ASmax-  ^CFmax-  ^^^  ^csmax 
+for  frequency  weightings  A  and  C  and  time  weightings  F  and  S. 
+
+3.7 
+
+peak  sound  pressure 
+
+greatest  absolute  instantaneous  sound  pressure  during  a  stated  time  interval 
+
+3.8 
+
+peak  sound  level 
+
+twenty  times  the  logarithm  to  the  base  ten  of  the  ratio  of  a  peak  sound  pressure  to  the 
+
+reference  sound  pressure,  peak  sound  pressure  being  obtained  with  a  standard  frequency 
+
+weighting 
+
+NOTE  1     Peak  sound  level  is  expressed  in  decibels  (dB). 
+
+NOTE  2    This  standard  provides  specifications  for  measurement  of  peak  C  sound  level;  symbol  /-cpeak- 
+
+3.9 
+
+time-average  sound  level 
+
+equivalent  continuous  sound  level 
+
+twenty  times  the  logarithm  to  the  base  ten  of  the  ratio  of  a  root-mean-square  sound  pressure 
+
+during  a  stated  time  interval  to  the  reference  sound  pressure,  sound  pressure  being  obtained 
+
+with  a  standard  frequency  weighting 
+
+NOTE  1     Time-average  or  equivalent  continuous  sound  level  is  expressed  in  decibels  (dB). 
+
+NOTE  2    In  symbols,  time-average.  A-weighted  sound  level,  Lp^T  or  LAeq^"'  's  given  by 
+
+
+*-A7   ~  ^AeqT 
+
+
+=  20  lgj[(1/T)j;_^pJ(|)d|J'yPo|  (2) 
+
+
+where 
+
+^  is  a  dummy  variable  of  time  integration  over  the  averaging  time  interval  ending  at  the  time  of  observation  f; 
+
+T  is  the  averaging  time  interval; 
+
+Pa(^)  's  the  A-weighted  instantaneous  sound  pressure;  and 
+
+Po  's  the  reference  sound  pressure. 
+In  equation  (2),  the  numerator  of  the  argument  of  the  logarithm  is  the  root-mean-square,  frequency-weighted  sound 
+pressure  over  averaging  time  interval  T. 
+
+NOTE  3     In  principle,  time  weighting  is  not  involved  in  a  determination  of  time-average  sound  level. 
+
+3.10 
+
+sound  exposure 
+
+time  integral  of  the  square  of  sound  pressure  over  a  stated  time  interval  or  event 
+
+NOTE  1  Duration  of  integration  is  included  implicitly  in  the  time  integral  and  need  not  be  reported  explicitly, 
+although  the  nature  of  the  event  should  be  stated.  For  measurements  of  sound  exposure  over  a  specified  time 
+interval  such  as  1  h,  duration  of  integration  should  be  reported. 
+
+NOTE  2     In  symbols,  A-weighted  sound  exposure  E^  o^  a  specified  event  is  represented  by 
+
+
+=  \S\{iW  (3) 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC  61672  -1  (2002) 
+
+where  Pa^(0  is  the  square  of  the  A-weighted  instantaneous  sound  pressure  during  an  integration  time  starting  at  t^ 
+and  ending  at  (2- 
+
+The  unit  of  A-weighted  sound  exposure  is  pascal-squared  seconds  if  A-weighted  sound  pressure  is  in  pascals  and 
+running  time  is  in  seconds. 
+
+NOTE  3  Sound  exposure  in  pascal-squared  hours  is  more  convenient  for  applications  such  as  measurement  of 
+exposure  to  noise  in  the  workplace;  see  I^C  61252  [2]. 
+
+3.11 
+
+sound  exposure  level 
+
+ten  times  the  logarithm  to  the  base  ten  of  the  ratio  of  a  sound  exposure  to  the  reference 
+sound  exposure,  reference  sound  exposure  being  the  product  of  the  square  of  the  reference 
+sound  pressure  and  the  reference  time  interval  of  1  s 
+
+NOTE  1     Sound  exposure  level  is  expressed  in  decibels  (dB). 
+
+NOTE  2  In  symbols.  A-weighted  sound  exposure  level,  L^e,  is  related  to  a  corresponding  measurement  of 
+time-average,  A-weighted  sound  level,  Lp^T  or  /-Aeqr»  by 
+
+i-A€=10  lg{j,'>I(0Cf]/(Po'7o)}    =     10  IgCE^/Eo)    =     L^t +^0  \g(TIT,)  (4) 
+
+where 
+
+Ea  is  the  A-weighted  sound  exposure  in  pascal-squared  seconds  (see  equation  (3)); 
+Eq  is  the  referer>ce  sound  exposure  of  (20  uPa)  ^  x  (1  s)  =  400  x  10'^^  Pa^s; 
+Tq  =  1  s;  and 
+
+T  =  ^2  ~  ^  'S  the  time  interval  for  measurement,  in  seconds,  for  sound  exposure  level  and  time-average  sound 
+
+level. 
+
+NOTE  3  Time-average,  A-weighted  sound  level  L^^t  or  /-Aeqr  during  time  interval  T  is  related  to  the  total 
+A-weighted  sound  exposure  E^  occurring  within  that  interval  by 
+
+^A=(Po'^)(lO°-^'-)  (6a) 
+
+L^r-iO  lg[EA/(po'r)]     =     L^^^O\g{T/To)  (5b) 
+
+3,12 
+
+microphone  reference  point 
+
+point  specified  on,  or  close  to,  the  microphone  to  describe  the  position  of  the  microphone 
+
+NOTE    The  microphone  reference  point  may  be  at  the  centre  of  the  diaphragm  of  the  microphone. 
+
+3,13 
+
+reference  direction 
+
+inward  direction  toward  the  microphone  reference  point  and  specified  for  determining  the 
+acoustical  response,  directional  response,  and  frequency  weighting  of  a  sound  level  meter 
+
+NOTE    The  reference  direction  may  be  specified  with  respect  to  an  axis  of  symmetry. 
+
+3.14 
+
+sound-incidence  angle 
+
+angle  between  the  reference  direction  and  a  line  between  the  acoustic  centre  of  a  sound 
+source  and  the  microphone  reference  point 
+
+NOTE     Sound-incidence  angle  is  expressed  in  degrees. 
+
+3.15 
+
+level  range 
+
+range  of  nominal  sound  levels  measured  with  a  particular  setting  of  the  controls  of  a  sound 
+level  meter 
+
+NOTE     Level  range  is  expressed  in  decibels  (dB). 
+
+
+or 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC    61672  -1  (2002) 
+
+
+3.16 
+
+reference  sound  pressure  level 
+
+sound  pressure  level  specified  for  testing  the  electroacoustical  performance  of  a  sound  level 
+meter 
+
+NOTE     Reference  sound  pressure  level  is  expressed  in  decibels  (dB). 
+
+3.17 
+
+reference  level  range 
+
+level  range  specified  for  testing  the  electroacoustical  characteristics  of  a  sound  level  meter 
+and  containing  the  reference  sound  pressure  level 
+
+NOTE     Reference  level  range  is  expressed  in  decibels  (dB). 
+
+3.18 
+
+calibration  check  frequency 
+
+nominal  frequency,  in  the  range  from  160  Hz  to  1  250  Hz,  of  the  sinusoidal  sound  pressure 
+produced  by  a  sound  calibrator  that  is  used  in  checking  and  adjusting  a  sound  level  meter 
+
+3.19 
+
+level  linearity  error 
+
+at  a  stated  frequency,  an  indicated  signal  level  minus  the  anticipated  signal  l^vel 
+
+NOTE     Level  linearity  error  is  expressed  in  decibels  (dB). 
+
+3.20 
+
+linear  operating  range 
+
+on  any  level  range  and  at  a  stated  frequency,  the  range  of  sound  levels  over  which  level 
+linearity  errors  are  within  the  tolerance  limits  specified  in  this  standard 
+
+NOTE     Linear  operating  range  is  expressed  in  decibels  (dB). 
+
+3.21 
+
+total  range 
+
+range  of  A-weighted  sound  levels,  in  response  to  sinusoidal  signals,  from  the  smallest  sound 
+level,  on  the  most-sensitive  level  range,  to  the  highest  sound  level,  on  the  least-sensitive  level 
+range,  that  can  be  measured  without  indication  of  overload  or  under-range  and  within  the 
+tolerance  limits  specified  in  this  standard  for  level  linearity  error 
+
+NOTE     Total  range  is  expressed  in  decibels  (dB). 
+
+3.22 
+toneburst 
+
+one  or  more  complete  cycles  of  a  sinusoidal  signal  starting  and  stopping  at  a  zero  crossing  of 
+the  waveform 
+
+3.23 
+
+toneburst  response 
+
+maximum  time-weighted  sound  level,  time-average  sound  level,  or  sound  exposure  level, 
+measured  in  response  to  a  sinusoidal  electrical  toneburst  minus  the  corresponding  measured 
+sound  level  of  the  steady  sinusoidal  input  signal  from  which  the  toneburst  was  extracted 
+
+NOTE     Toneburst  response  is  expressed  in  decibels  (dB). 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+
+3.24 
+
+reference  orientation 
+
+orientation  of  a  sound  level  meter  for  tests  to  demonstrate  conformance  to  the  specifications, 
+of  this  standard  for  emissions  of,  and  susceptibility  to,  radio  frequency  fields 
+
+4  Reference  environmental  conditions 
+
+Reference  environmental  conditions  for  specifying  the  performance  of  a  sound  level  meter 
+are: 
+
+-  air  temperature  23  "^C; 
+
+-  static  pressure  101,325  kPa; 
+
+-  relative  humidity  50  %. 
+
+5  Performance  specifications 
+
+5.1    General 
+
+5.1.1  Generally,  a  sound  level  meter  is  a  combination  of  a  microphone,  a  signal  processor, 
+and  a  display  device. 
+
+The  signal  processor  includes  the  combined  functions  of  an  amplifier  with  a  specified  and 
+controlled  frequency  response,  a  device  to  form  the  square  of  the  frequency-weighted  time- 
+varying  sound  pressure,  and  a  time  integrator  or  time  averager.  Signal  processing  that  is 
+necessary  to  conform  to  the  specifications  of  this  standard  is  an  integral  part  of  a  sound  level 
+meter. 
+
+In  this  standard,  a  display  device  provides  either  a  physical  and  visible  display,  or  storage,  of 
+measurement  results.  Any  stored  measurement  result  shall  be  available  for  display  by  means 
+of  a  manufacturer-specified  device,  for  instance  a  computer  with  associated  software. 
+
+5.1.2  The  performance  specifications  of  this  clause  apply  under  the  reference  environmental 
+conditions  of  clause  4. 
+
+5.1.3  For  specifying  the  emission  of,  and  susceptibility  to,  radio  frequency  fields,  sound  level 
+meters  are  classified  into  three  groups  as  follows: 
+
+-  group  X  sound  level  meters:  self-contained  instruments  that  include  sound  level 
+measurement  facilities  according  to  this  standard  and  which  specify  internal  battery  power 
+for  the  normal  mode  of  operation,  requiring  no  external  connectionf^  to  other  apparatus  to 
+measure  sound  levels; 
+
+-  group  Y  sound  level  meters;  self-contained  instruments  that  include  sound  level 
+measurement  facilities  according  to  this  standard  and  which  specify  connection  to  a  public 
+supply  of  electric  power  for  the  normal  mode  of  operation,  requiring  no  external 
+connections  to  other  apparatus  to  measure  sound  levels;  and 
+
+-  group  Z  sound  level  meters:  instruments  that  include  sound  level  measurement  facilities 
+according  to  this  standard  and  which  require  two  or  more  items  of  equipment,  which  are 
+essential  constituent  parts  of  the  sound  level  meter,  to  be  connected  together  by  some 
+means  for  the  normal  mode  of  operation.  The  separate  items  may  be  operated  from 
+internal  batteries  or  from  a  public  supply  of  electric  power. 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+5.1.4  The  configuration  of  the  complete  sound  level  meter  and  its  normal  mode  of  operation 
+shall  be  stated  in  the  instruction  manual.  If  appropriate,  the  configuration  of  the  complete 
+sound  level  meter  includes  a  windscreen  and  other  devices  that  are  installed  around  the 
+microphone  as  Integral  components  for  the  normal  mode  of  operation. 
+
+5.1.5  A  sound  level  meter  that  is  stated  in  the  instruction  manual  to  be  a  class  1  or  class  2 
+sound  level  meter  shall  conform  to  all  mandatory  class  1  or  class  2  specifications, 
+respectively,  that  are  provided  in  this  standard.  A  class  2  sound  level  meter  may  provide 
+some  class  1  capabilities,  but  if  any  capability  conforms  only  to  the  class  2  specifications,  the 
+instrument  is  a  class  2  sound  level  meter.  A  sound  level  meter  may  be  specified  as  a  class  1 
+instrument  in  one  configuration  and  a  class  2  instrument  in  another  configuration  (for 
+example,  with  a  different  microphone  or  preamplifier). 
+
+5.1.6  The  instruction  manual  shall  state  the  models  of  microphones  with  which  the  complete 
+sound  level  meter  conforms  to  the  specifications  for  class*  1  or  class  2  performance  for  sound 
+waves  incident  on  the  microphone  from  the  reference  direction  in  a  free  field,  or  with  random 
+incidence,  or  both,  as  appropriate.  The  instruction  manual  shall  describe  appropriate 
+procedures  for  use  of  the  sound  level  meter. 
+
+5.1.7  The  instruction  manual  shall  state  how  the  microphone  is  to  be  mounted,  if  applicable, 
+to  conform  to  the  specifications  for  directional  response  and  frequency  weightings.  A 
+microphone  extension  device  or  cable  may  be  required  to  conform  to  the  specifications.  In  this 
+event,  the  sound  level  meter  shall  be  stated  in  the  instruction  manual  as  conforming  to  the 
+applicable  specifications  for  directional  response  and  frequency  weighting  only  when  the 
+specified  devices  are  installed. 
+
+5.1.8  Computer  software  may  be  an  integral  part  of  the  sound  level  meter.  The  instruction 
+manual  shall  provide  unique  identification  for  all  such  software. 
+
+5.1.9  As  a  minimum,  a  conventional  sound  level  meter  shall  provide  a  means  to  indicate 
+A-frequency-weighted  and  F-time-weighted  sound  level.  As  a  minimum,  an 
+integrating-averaging  sound  level  meter  shall  provide  a  means  to  indicate  A-weighted 
+time-average  sound  level.  As  a  minimum,  an  integrating  sound  level  meter  shall  provide  a 
+means  to  indicate  A-weighted  sound  exposure  level.  Sound  level  meters  may  contain  any  or 
+all  of  the  design  features  for  which  performance  specifications  are  given  in  this  standard.  A 
+sound  level  meter  shall  conform  to  the  applicable  performance  specifications  for  those  design 
+features  that  are  provided. 
+
+5.1.10  A  sound  level  meter  shall  have  frequency-weighting  A.  Sound  level  meters 
+conforming  to  class  1  tolerance  limits  also  shall  have  frequency  weighting  C,  at  least  for 
+pattern  evaluation  tests.  Sound  level  meters  that  measure  peak  C  sound  levels  for  non-steady 
+sounds  shall  also  measure  C-weighted  sound  levels  for  steady  sounds,  at  least  for  pattern 
+evaluation  tests.  The  ZERO  frequency  weighting  (Z-weighting)  is  optional.  The  instruction 
+manual  shall  describe  all  frequency  weightings  that  are  provided. 
+
+5.1.11  A  sound  level  meter  may  have  more  than  one  display  device. 
+
+NOTE    An  a.c,  d.c,  or  digital  output  connection  alone  Is  not  a  display  device. 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+5.1.12  A  sound  level  meter  may  have  more  than  one  level  range  with  a  suitable  level  range 
+control.  The  instruction  manual  shall  describe  the  level  range(s)  by  the  nominal  A-weighted 
+sound  level  at  1  l<Hz.  The  Instruction  manual  shall  describe  the  operation  of  the  level  range 
+controls  and  provide  recommendations  for  selecting  the  optimum  level  range  to  display  the 
+results  of  a  measurement  of  sound  level  or  sound  exposure  level. 
+
+5.1.13  The  reference  sound  pressure  level,  reference  level  range,  and  reference  orientation 
+shall  be  stated  in  the  instruction  manual.  The  instruction  manual  shall  state  the  reference 
+direction  for  each  model  of  microphone  intended  for  use  with  the  sound  level  meter;  the 
+position  of  the  microphone  reference  point  shall  also  be  stated. 
+
+NOTE  A  reference  sound  pressure  level  of  94  dB  is  preferred.  Alternatively,  a  reference  sound  pressure  level  of 
+74  dB,  84  dS,  104  dB,  114  dB,  or  124  dB  may  be  specified.  A  sound  pressure  level  of  94  dB  corresponds  closely  to 
+a  root-mean-square  sound  pressure  of  1  Pa. 
+
+5.1.14  A  hold  feature  shall  be  provided,  for  measurements  of  maximum  time-weighted  sound 
+level  and  peak  C  sound  level  if  the  sound  level  meter  is  capable  of  measuring  these 
+quantities.  The  instruction  manual  shall  describe  the  operation  of  the  hold  facility  and  the 
+means  for  clearing  a  display  that  is  held. 
+
+5.1.15  Determination  of  conformance  to  many  specifications  of  this  standard  requires  the 
+application  of  electrical  signals.  The  electrical  signals  are  to  be  equivalent  to  signals  from  the 
+microphone.  As  appropriate  for  each  specified  model  of  microphone,  the  design  goal  and 
+applicable  tolerance  limits  shall  be  stated  in  the  instruction  manual  for  the  electrical 
+characteristics  of  the  device,  or  the  means,  to  insert  signals  into  the  electrical  input  facility. 
+Electrical  characteristics  include  the  resistive  and  reactive  components  of  the  electrical 
+impedance  at  the  output  of  the  device.  The  design  goal  for  the  impedance  shall  be  specified 
+for  a  frequency  of  1  kHz. 
+
+5.1.16  The  instruction  manual  shall  state  the  highest  sound  pressure  level  at  the  microphone 
+and  the  greatest  peak-to-peak  voltage  that  can  be  applied  at  the  electrical  input  facility 
+without  causing  damage  to  the  sound  level  meter. 
+
+5.1.17  Performance  specifications  in  this  standard  apply,  as  appropriate,  to  any  time  or 
+frequency  weightings  operated  in  parallel  and  to  each  independent  channel  of  a  multi-channel 
+sound  level  meter.  The  instruction  manual  shall  describe  the  characteristics  and  operation  of 
+each  independent  channel. 
+
+NOTE    A  multi-channel  sound  level  meter  may  have  two  or  more  microphone  inputs. 
+
+5.1.18  Specifications  for  the  electroacoustical  response  of  a  sound  level  meter  apply  after 
+an  initial  time  interval  following  switching  on  the  power.  The  initial  time  interval,  stated  in  the 
+instruction  manual,  shall  not  exceed  2  min.  The  sound  level  meter  shall  be  allowed  to  reach 
+equilibrium  with  the  prevailing  ambient  environment  before  switching  on  the  power. 
+
+5.1.19  Tolerance  limits  in  this  standard  include  allowances  for  design  and  manufacturing  and 
+for  the  maximum  expanded  uncertainties  of  measurement  for  the  tests  to  demonstrate 
+conformance  to  the  specifications  (see  annex  A). 
+
+NOTE  In  some  cases,  the  tolerance  limits  in  this  standard  are  larger  than  the  tolerance  limits  for  corresponding 
+characteristics  in  lEC  60651  and  lEC  60804.  Tolerance  limits  in  lEC  60651  [3]  and  in  lEC  60804  [4]  did  not  include 
+allowances  for  uncertainties  of  measurement. 
+
+
+IS    15575  {Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+5.2    Adjustments  to  indicated  levels 
+
+5.2.1  At  least  one  model  of  sound  calibrator  shall  be  stated  in  the  instruction  manual  for 
+checking  and  maintaining  the  correct  indication  on  the  display  of  the  sound  level  meter. 
+
+5.2.2  For  class  1  sound  level  meters,  the  sound  calibrator  shall  conform  to  the  class  1 
+specifications  of  lEC  60942.  For  class  2  sound  level  meters,  the  sound  calibrator  shall 
+conform  to  either  the  class  1  or  the  class  2  specifications  of  lEC  60942. 
+
+NOTE  Laboratory  standard  sound  calibrators  are  not  suitable  for  general  applications  with  sound  level  meters 
+because  their  performance  characteristics  are  specified  in  lEC  60942  only  for  a  limited  range  of  environmental 
+conditions. 
+
+5.2.3  For  the  reference  sound  pressure  level  on  the  reference  level  range  and  for  the 
+calibration  check  frequency,  a  procedure  and  data  shall  be  provided  in  the  instruction  manual 
+to  adjust  the  sound  level  displayed  in  response  to  application  of  the  sound  calibrator  specified 
+in  5.2.1  and  5.2.2.  Application  of  the  procedure  and  the  adjustment  data  shall  yield  the  sound 
+level  or  sound  exposure  level  that  would  be  indicated  in  response  to  plane  progressive 
+sinusoidal  sound  waves  incident  from  the  reference  direction  or  in  response  to  sounds  at 
+random  incidence,  as  appropriate. 
+
+The  procedure  and  data  shall  apply  for  environmental  conditions  at  least  within  the  applicable 
+ranges  specified  in  clause  6,  including  the  reference  environmental  conditions.  The 
+adjustment  data  shall  apply  to  microphones  of  all  models  stated  in  the  instruction  manual  for 
+use  on  the  sound  level  meter  and  to  any  associated  devices  provided  by  the  manufacturer  of 
+the  sound  level  meter  for  mounting  a  microphone  on  the  instrument.  The  data  shall  include 
+corrections  for  the  average  effects  of  a  windscreen  on  microphone  frequency  response  if  a 
+windscreen  is  an  integral  component  of  the  sound  level  meter  for  the  normal  mode  of 
+operation  or  If  the  instruction  manual  states  that  the  sound  level  meter  conforms  to  the 
+specifications  of  this  standard  with  a  recommended  windscreen  installed  around  the  micro- 
+phone. 
+
+5.2.4  For  microphones  of  all  models  that  are  stated  in  the  instruction  manual  to  be  for  use 
+on  the  sound  level  meter,  the  instruction  manual  shall  provide  data  for  corrections  for  the 
+deviation  of  the  average  microphone  frequency  response  from  a  uniform  frequency  response, 
+and  for  the  average  effects  of  reflections  from  the  case  of  the  sound  level  meter  and 
+diffraction  around  the  microphone.  The  average  effects  of  reflections  and  diffraction  are 
+relative  to  the  sound  pressure  level  at  the  position  of  the  microphone  and  in  the  absence  of 
+the  sound  level  meter. 
+
+If  the  instruction  manual  states  that  the  sound  level  meter  conforms  to  the  specifications  of 
+this  standard  both  with  and  without  a  windscreen  installed  around  the  microphone,  the  data 
+described  above  shall  be  given  for  both  configurations.  The  data  for  the  configuration  with 
+windscreen  shall  include  the  corrections  for  the  average  effects  of  a  windscreen  on 
+microphone  frequency  response.  If  a  windscreen  is  an  integral  component  of  the  sound  level 
+meter  for  the  normal  mode  of  operation,  the  windscreen  correction  data  shall  be  given  only  for 
+this  configuration. 
+
+The  corrections  for  the  average  frequency  response  of  a  microphone  and  for  the  average 
+effects  of  reflections,  diffraction,  and  windscreen,  if  applicable,  shall  apply  for  plane 
+progressive  sinusoidal  sound  waves  incident  from  the  reference  direction  and  in  the  absence 
+of  wind.  The  information  shall  include  the  associated  values  for  expanded  uncertainties  of 
+measurement.  The  expanded  uncertainties  of  measurement  and  the  basic  information  shall  be 
+given  in  tabular  form  separately  in  the  instruction  manual. 
+
+NOTE  The  corrections  for  the  average  frequency  response  of  the  microphone  and  for  the  average  effects  of 
+reflections  and  diffraction  may  be  provided  as  two  separate  corrections  or  as  a  single  combined  correction. 
+
+
+10 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+5.2.5  The  data  required  by  5.2.4  shall  be  provided  in  the  following  formats. 
+
+-  For  class  1  sound  level  meters,  the  data  shall  be  stated  in  tabular  form  at  nominal  one- 
+third-octave  intervals  for  frequencies  from  63  Hz  to  1  kHz  and  then  at  nominal  one-twelfth- 
+octave  intervals  for  frequencies  greater  than  1  kHz  to  at  least  16  kHz. 
+
+-  For  class  2  sound  level  meters,  the  data  shall  be  stated  In  tabular  form  at  nominal  one- 
+third-octave  intervals  for  frequencies  from  63  Hz  to  at  least  8  kHz. 
+
+-  Corrections  for  the  average  effects  of  a  windscreen  on  the  microphone  frequency 
+response  shall  be  stated  in  tabular  form  at  nominal  one-third-octave  intervals  from  1  kHz 
+to  16  kHz  for  class  1  sound  level  meters  and  from  1  kHz  to  8  kHz  for  class  2  sound  level 
+meters. 
+
+5.2.6  Deviations  of  the  measured  effects  of  microphone  frequency  response,  reflection, 
+diffraction,  and  windscreen,  if  applicable,  from  the  effects  stated  in  the  instruction  manual, 
+extended  by  the  expanded  uncertainty  of  measurement,  shall  not  exceed  two  thirds  of  the 
+applicable  tolerance  limits  in  table  2. 
+
+5.2.7  If  the  instruction  manual  recommends  a  sound  calibrator  or  an  electrostatic  actuator 
+for  use  during  periodic  testing,  the  instruction  manual  shall  provide  adjustment  data  to  obtain 
+equivalent  A-weighted  sound  levels  that  would  be  displayed  under  reference  environmental 
+conditions  in  response  to  plane  progressive  sinusoidal  sound  waves  incident  from  the 
+reference  direction.  These  adjustment  data  shall  apply  to  the  A-weighted  sound  levels 
+displayed  in  response  to  the  sound  pressure  produced  by  a  calibrated  multi-frequency  sound 
+calibrator  or  in  response  to  simulation  of  sound  pressure  by  an  electrostatic  actuator. 
+
+5.2.8  The  adjustment  data  shall  be  provided  at  least  for  frequencies  of  125  Hz,  1  kHz,  and 
+either  4  kHz  or  8  kHz  and  shall  apply  for  stated  combinations  of  a  microphone,  sound  level 
+meter,  and  a  model  of  sound  calibrator  or  electrostatic  actuator.  The  adjustment  data  shall  be 
+provided  for  all  models  of  microphones  or  microphone-windscreen  configurations  for  which 
+the  sound  level  meter  is  stated  to  conform  to  the  specifications  of  this  standard.  The  deviation 
+of  a  measurement  of  adjustment  data  from  the  data  given  in  the  instruction  manual  shall  not 
+exceed  ±0,4  dB  or  half  the  magnitude  of  the  applicable  adjustment  data  whichever  is  the 
+greater. 
+
+5.3    Directional  response 
+
+5.3.1  Table  1  gives  directional  response  requirements  for  the  configuration  of  a  sound  level 
+meter  as  stated  in  the  instruction  manual  for  the  normal  mode  of  operation  or  for  those 
+compoP'^nts  of  a  sound  level  meter  that  are  intended  to  be  located  in  a  sound  field.  The 
+specifications  in  table  1  apply  for  plane  progressive  sound  waves  at  any  sound-incidence 
+angle  within  the  indicated  ranges,  including  the  reference  direction.  At  any  frequency,  the 
+design  goal  is  equal  response  to  sounds  from  all  directions  of  sound  incidence. 
+
+
+11 
+
+
+IS    15575  (Part  1)  :  2Q05 
+lEC   61672-1  (2002) 
+
+
+Table  1  -  Directional  response  limits  Including  maximum  expanded 
+uncertainty  of  measurement 
+
+
+Frequency 
+
+kHz 
+
+Maximum  absolute  difference  in  dispiayed  sound  levels  at  any  two  sound-incidence 
+angles  within  ±0  degrees  from  the  reference  direction 
+
+dB 
+
+d=30» 
+
+e-90» 
+
+e=150o                      1 
+
+Class                                                                              I 
+
+1 
+
+2 
+
+1 
+
+2 
+
+1 
+
+2 
+
+0,25  to  1 
+
+1.3 
+
+2,3 
+
+1.8 
+
+3,3 
+
+2,3 
+
+5,3 
+
+>1  to  2 
+
+1.5 
+
+2,5 
+
+2,5 
+
+4,5 
+
+4,5 
+
+7,5 
+
+>2  to  4 
+
+2,0 
+
+4,5 
+
+4,5 
+
+7,5 
+
+6.5 
+
+12,5 
+
+>4  to8 
+
+3,5 
+
+7,0 
+
+8,0 
+
+13.0 
+
+11,0 
+
+17.0 
+
+>8to  12,5 
+
+5.5 
+
+11,5 
+
+15,5 
+
+NOTE         Maximum  absolute  differences  in  displayed  sound  levels  are  extended  by  the  expanded  uncertainty  of 
+measurement  for  demonstration  of  conformance  to  the  limits  given  above. 
+
+5.3.2  For  any  frequency  within  the  specified  ranges,  the  requirements  of  table  1  apply  for 
+any  orientation  of  the  sound  level  meter,  or  applicable  components,  around  the  reference 
+direction. 
+
+5.4    Frequency  weightings 
+
+5.4.1  At  1  kHz,  the  design  goal  for  all  frequency  weightings  is  0  dB  with  corresponding 
+tolerance  limits  of  ±1,1  dB  for  class  1  sound  level  meters  and  ±1,4  dB  for  class  2  sound  level 
+
+meters. 
+
+5.4.2  Table  2  gives  the  frequency  weightings  A,  C,  and  Z,  rounded  to  a  tenth  of  a  decibel 
+and  corresponding  tolerance  limits  for  class  1  and  class  2  sound  level  meters.  For  a  given 
+performance  class,  tolerance  limits  in  table  2  apply  on  all  level  ranges  and  after  applying  the 
+adjustment  described  in  5.2  for  the  response  to  the  sound  calibrator  at  the  calibration  check 
+frequency  and  under  reference  environmental  conditions. 
+
+
+12 
+
+
+IS   15575  (Part  1)  :  2005 
+lEC   61672-1  (2002) 
+
+Table  2  -  Frequency  weightings  and  tolerance  limits  including  maximum 
+expanded  uncertainty  of  measurement 
+
+
+Nominal 
+frequency  ^) 
+
+Hz 
+
+Frequency  weightings  ^) 
+
+Tolerance  limits  (dB) 
+
+dB 
+
+Class 
+
+A 
+
+C 
+
+Z 
+
+1 
+
+2 
+
+10 
+
+-70,4 
+
+-14,3 
+
+0,0 
+
++3,5;  -oo 
+
++5,5;  -oo 
+
+12.5 
+16 
+20 
+
+-63,4 
+-56,7 
+-50,5 
+
+-11.2 
+-8.5 
+-6.2 
+
+0,0 
+0,0 
+0,0 
+
++3,0;  -oo 
+
++2,5;  -4,5 
+
+±2,5 
+
++5,5;  -oo 
+
++5,5;  -oo 
+
+±3,5 
+
+25 
+
+31,5 
+40 
+
+-44,7 
+-39,4 
+-34,6 
+
+-4.4 
+-3.0 
+-2.0 
+
+0,0 
+0,0 
+0,0 
+
++2,5;  -2,0 
+±2.0 
+±1.5 
+
+±3.5 
+
+±3,5 
+±2.5 
+
+50 
+63 
+80 
+
+-30.2 
+-26.2 
+-22,5 
+
+-1,3 
+-0.8 
+-0.5 
+
+0.0 
+0.0 
+0,0 
+
+±1.5 
+±1,5 
+±1,5 
+
+±2,5 
+±2.5 
+±2.5 
+
+100 
+125 
+160 
+
+-19.1 
+-16,1 
+-13.4 
+
+-0,3 
+
+-0.2 
+-0.1 
+
+0.0 
+0,0 
+0.0 
+
+±1.5 
+±1.5 
+±1,5 
+
+±2,0 
+±2,0 
+±2,0 
+
+200 
+250 
+315 
+
+-10,9 
+-8.6 
+-6,6 
+
+0.0 
+0,0 
+0.0 
+
+0.0 
+0.0 
+0.0 
+
+±1.5 
+±1.4 
+±1,4 
+
+±2,0 
+±1.9 
+±1.9 
+
+400 
+500 
+630 
+
+-4,8 
+-3,2 
+-1.9 
+
+0.0 
+0.0 
+0.0 
+
+0.0 
+0.0 
+0,0 
+
+±1.4 
+±1.4 
+±1,4 
+
+±1.9 
+±1.9 
+±1.9 
+
+800 
+1  000 
+1  250 
+
+-0.8 
+
+0 
++0,6 
+
+0.0 
+
+0 
+
+0,0 
+
+0.0 
+
+0 
+
+0,0 
+
+±1.4 
+±1.1 
+±1.4 
+
+±1.9 
+±1,4 
+±1.9 
+
+1  600 
+
+2  000 
+2  500 
+
++  1.0 
++  1.2 
++  1,3 
+
+-0,1 
+-0.2 
+-0,3 
+
+0,0 
+0.0 
+0,0 
+
+±1.6 
+±1.6 
+±1,6 
+
+±2,6 
+±2,6 
+±3.1 
+
+3  150 
+
+4  000 
+
+5  000 
+
++  1.2 
++  1.0 
+
++0.5 
+
+-0,5 
+-0.8 
+
+-1.3 
+
+0.0 
+0.0 
+0.0 
+
+±1.6 
+±1,6 
+±2.1 
+
+±3,1 
+±3,6 
+±4,1 
+
+6  300 
+8  000 
+10  000 
+
+-0.1 
+-1.1 
+-2.5 
+
+-2.0 
+-3.0 
+
+-4.4 
+
+0,0 
+0,0 
+0,0 
+
++2.1; -2,6 
++2,1; -3,1 
++2,6: -3,6 
+
+±5.1 
+
+±5.6 
+
++5,6;  -oo 
+
+12  500 
+16  000 
+20  000 
+
+-4.3 
+-6,6 
+-9,3 
+
+-6.2 
+-8,5 
+-11,2 
+
+0,0 
+0,0 
+0.0 
+
++3,0;  -6,0 
+
++3,5; -17,0 
+
++4,0;  -oo 
+
++6,0;  -oo 
++6,0;  -oo 
++6,0;  -oo 
+
+^)      Nominal  frequencies  are  from  the  RIO  series  given  in  table  1  of  ISO  266:1997  [5]. 
+
+^)      C  and  A  frequency  weightings  were  calculated  by  use  of  equations  (6)  and  (7)  with  frequency  f  computed 
+from  f-  (^r)[10°^'""^°']  with  f,  =  1  kHz  and  n  an  integer  between  10  and  43.  The  results  were  rounded  to  a  tenth  of 
+a  decibel. 
+
+13 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC    61672  -1  (2002) 
+
+
+5.4.3  For  the  configuration  of  the  sound  level  meter  stated  in  the  instruction  manual  for  the 
+normal  mode  of  operation,  the  frequency  weightings  and  tolerance  limits  of  table  2  apply  for 
+the  response  to  plane  progressive  sound  waves  incident  on  the  microphone  from  the 
+reference  direction  or  with  random  incidence,  or  both  as  applicable. 
+
+5.4.4  At  any  frequency  in  table  2,  the  deviation  of  a  displayed  sound  level  from  the  sound 
+pressure  level  present  at  the  microphone  position  in  the  absence  of  the  sound  level  meter, 
+extended  by  the  expanded  uncertainty  of  measurement,  shall  not  exceed  the  applicable 
+tolerance  limits.  Sound  pressure  levels  measured  in  the  absence  of  the  sound  level  meter 
+shall  be  weighted  by  the  applicable  frequency  weighting  from  equations  (6),  (7),  or  (8). 
+
+5.4.5  For  frequencies  between  two  consecutive  frequencies  in  table  2,  frequency  weightings 
+C  or  A  shall  be  computed  from  equation  (6)  or  (7)  and  rounded  to  a  tenth  of  a  decibel.  The 
+applicable  tolerance  limits  then  are  the  wider  of  the  limits  given  in  table  2  for  the  two 
+consecutive  frequencies. 
+
+5.4.6  The  C-weighting  characteristic  is  realized  by  two  low-frequency  poles  at  frequency  f-|, 
+two  high-frequency  poles  at  frequency  ^^,  and  two  zeros  at  0  Hz.  With  these  poles  and  zeros, 
+the  power  response  for  the  C-weighting  characteristic,  relative  to  the  response  at  the 
+reference  frequency  f^  of  1  kHz,  will  be  down  by  D^  =  1/2  (approximately  -3  dB)  at  fL  = 
+10'''^  Hz  and  fn  =  10^'^  Hz.  The  A-weighting  characteristic  is  realized  by  adding  two  coupled 
+first-order  high-pass  filters  to  the  C-weighting  characteristic.  For  each  high-pass  filter,  the  cut- 
+off frequency  is  given  by  f^  =  10^-^^  Hz. 
+
+5.4.7  Practical  realizations  of  frequency  weightings  C,  A,  and  Z  in  table  2  may  be  derived 
+from  the  analytical  expressions  in  equations  (6),  (7),  and  (8)  as  functions  of  frequency, 
+respectively. 
+
+5.4.8  For  any  frequency  fin  hertz,  the  C-weighting  C(0  shall  be  calculated,  in  decibels,  from 
+
+
+C(f)  =  20  Ig 
+
+
+2r2 
+
+
+Uf 
+
+
+(^3^f2)(^2^f2) 
+
+
+'1000 
+
+
+(6) 
+
+
+The  A-weighting  A(f)  shall  be  calculated  from 
+
+
+A(f)  =  20  Ig 
+
+
+fff^ 
+
+
+(f='-Hff)(f^-Hf,^y"(f^+fiy"(f^+fi) 
+
+
+MOOO 
+
+
+(7) 
+
+
+where  C^  qqq  and  A-,  qqq  are  normalization  constants,  in  decibels,  representing,  the  electrical 
+gain  needed  to  provide  frequency  weightings  of  zero  decibels  at  1  kHz. 
+
+The  Z-weighting  Z{f)  shall  be  calculated  from 
+
+
+Z(0  =  0. 
+
+
+IS   15575  (Part  1)  :  2005 
+lEC   61672-1  (2002) 
+
+5.4.9    Pole  frequencies  f,  and  f^  shall  be  determined,  in  hertz,  from  the  solution  of  a  bi- 
+quadratic equation  that  yields 
+
+
+f,= 
+
+
+_b_Vb2_4c 
+
+
+n1/2 
+
+
+(9) 
+
+
+and 
+
+
+U  = 
+
+
+-b+Vb^-4c 
+
+
+n1/2 
+
+
+(10) 
+
+
+Constants  b  and  c  shall  be  determined  from 
+
+
+-(iToI'-^^-^K'^'"')] 
+
+
+and 
+
+
+c  =  f,^f„^ 
+
+
+(11) 
+
+(12) 
+
+
+and  where  D^,  fp  fL,  and  f^  are  given  in  5.4.6,  and  D  =  +^JD^ 
+
+5.4.10  With  the  cutoff  frequency  f^^  from  5.4.6,  the  poles  in  the  response  at  frequencies  ^2 
+and  fg,  that  are  required  to  implement  the  additional  high-pass  filters  for  the  A-weighting 
+characteristic,  shall  be  determined,  in  hertz,  from 
+
+
+f3-V5V 
+
+
+and 
+
+
+(13) 
+
+
+(14) 
+
+
+NOTE  The  addition  of  the  coupled  high-pass  fibers  to  the  C-weighting  characteristic  is  equivalent  to  the  addition 
+of  two  zeros  at  0  Hz  and  poles  at  frequencies  ^2  and  fg;  see  5.4.6. 
+
+5.4.1 1  Approximate  values  for  frequencies  f-,  to  i^  in  equations  (6)  and  (7)  are: 
+
+fi  =20,60  Hz,  f2  =  107,7  H2,.f3  =  737,9  Hz.  and  f4  =  12  194  Hz. 
+
+Normalization  constants  C-,  qqo  and  A^  qqq,  rounded  to  the  nearest  0,001  dB,  are  -0.062  dB 
+and  -2,000  dB,  respectively. 
+
+5.4.12  If  a  sound  level  meter  provides  one  or  more  optional  frequency  responses,  the 
+instruction  manual  shall  state  the  design-goal  frequency  response  and  the  tolerance  limits 
+that  are  maintained  around  the  design  goal(s).  If  an  optional  frequency  response  is  specified 
+in  an  International  Standard,  the  design-goal  frequency  response  shall  be  as  specified  in  that 
+International  Standard.  Tolerance  fimits  shall  include  the  applicable  maximum  expanded 
+uncertainties  of  measurement  given  in  annex  A  for  frequency  weightings. 
+
+
+15 
+
+
+15  15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+5.4.13  For  an  optional  FLAT  frequency  response,  the  0  dB  design  goal  for  the  response  to 
+sound  waves  shall  extend  from  less  than  31,5  Hz  to  greater  than  8  kHz.  At  each  frequency  in 
+table  2,  tolerance  limits  around  the  design  goal  shall  be  not  greater  than  those  given  in 
+table  2  for  the  appropriate  performance  class.  Separate  tolerance  limits  may  be  stated  foif 
+acoustical  and  electrical  input  signals.  Tolerance  limits  shall  include  the  applicable  maximum 
+expanded  uncertainties  of  measurement  given  in  annex  A  for  frequency  weightings. 
+
+5.4.14  For  a  steady  sinusoidal  electrical  signal  at  1  kHz,  the  difference  between  the 
+indicated  level  of  any  C-weighted,  Z-weighted,  or  FLAT-response  measurement  quantity  and 
+the  indicated  level  of  the  corresponding  A-weighted  measurement  quantity,  extended  by  the 
+expanded  uncertainty  of  measurement,  shall  not  exceed  ±0,4  dB.  This  requirement  applies  at 
+the  reference  sound  pressure  level  on  the  reference  level  range.  It  does  not  apply  to 
+indications  of  peak  C  sound  level. 
+
+5.5    Level  linearity 
+
+5.5.1  For  the  entire  extent  of  the  total  range,  the  measured  signal  level  should  be  a  linear 
+function  of  the  sound  pressure  level  at  the  microphone.  Level  linearity  specifications  apply  for 
+measurements  of  time-weighted  sound  levels,  time-average  sound  levels,  and  sound 
+exposure  levels. 
+
+5.5.2  Tolerance  limits  on  level  linearity  errors  apply  for  electrical  signals  inserted  through 
+the  applicable  device. 
+
+5.5.3  On  any  level  range  and  for  a  given  frequency,  the  anticipated  signal  level  shall  be  the 
+starting  point  specified  in  the  instruction  manual  on  the  reference  level  range  plus  the  change 
+in  the  level  of  the  input  signal  relative  to  the  level  of  the  input  signal  that  caused  the  display  of 
+the  starting  point.  At  1  kHz,  the  starting  point  at  which  to  begin  tests  of  level  linearity  error 
+shall  be  the  indication  of  the  reference  sound  pressure  level. 
+
+5.5.4  On  the  reference  level  range,  the  extent  of  the  linear  operating  range  shall  be  at  least 
+60  dB  at  1  kHz. 
+
+5.5.5  The  level  linearity  error,  extended  by  the  expanded  uncertainty  of  measurement,  shall 
+not  exceed  ±1,1  dB  for  class  1  and  ±1,4  dB  for  class  2  sound  level  meters. 
+
+5.5.6  Any  1  dB  to  10  dB  change  in  the  level  of  the  input  signal  shall  cause  the  same  change 
+in  the  displayed  sound  level.  Deviations  from  this  design  goal,  extended  by  the  expanded 
+uncertainty  of  measurement,  shall  not  exceed  ±0,6  dB  for  class  1  and  ±0,8  dB  for  class  2 
+sound  level  meters. 
+
+5.5.7  The  specifications  in  5.5.5  and  5,5.6  apply  over  the  total  range  for  any  frequency 
+within  the  frequency  range  of  the  sound  level  meter  and  for  any  frequency  weighting  or 
+frequency  response  provided. 
+
+NOTE  1     In  principle,  the  requirements  for  level  linearity  error  apply  at  least  for  any  frequency  from  16  Hz  to 
+
+16  kHz  for  class  1  sound  level  meters  and  from  20  Hz  to  8  kHz  for  class  2  sound  level  nrieters. 
+
+NOTE  2  If  level  linearity  error  is  measured  at  low  frequencies,  evaluation  of  the  test  results  should  account  for  the 
+ripple  that  occurs  with  F-time-weighted  measurements  of  sinusoidal  signals.  At  16  Hz,  the  ripple  is  approximately 
+0.2  dB. 
+
+
+16 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+5.5.8  At  1  kHz,  linear  operating  ranges  on  adjacent  level  ranges  shall  overlap  by  at  least 
+30  dB  for  sound  level  meters  that  measure  time-weighted  sound  levels.  The  overlap  shall  be 
+at  least  40  dB  for  sound  level  meters  that  measure  time-average  sound  levels  or  sound 
+exposure  levels. 
+
+5.5.9  For  each  level  range,  the  nominal  A-weighted  sound  levels,  and  the  nominal 
+C-weighted  and  Z-weighted  sound  levels,  if  provided,  shall  be  stated  in  the  instruction  manual 
+for  the  lower  and  upper  limits  of  the  linear  operating  ranges  over  which  sound  levels  can  be 
+measured  without  display  of  under-range  or  overload.  Linear  operating  ranges  shall  be  stated 
+in  the  instruction  manual  for  frequencies  of  31,5  Hz,  1  kHz,  4  kHz,  8  kHz,  and  12,5  kHz  for 
+class  1  sound  level  meters  and  for  frequencies  of  31,5  Hz,  1  kHz,  4  kHz,  and  8  kHz  for  class  2 
+sound  level  meters. 
+
+NOTE  The  frequencies  required  for  the  specification  in  5.5.9  were  selected  to  minimize  the  data  to  be  provided  in 
+the  instruction  manual  and  the  cost  of  pattern  evaluation  tests. 
+
+5.5.10  For  the  frequencies  specified  in  5.5.9,  the  instruction  manual  shall  state  the  starting 
+point  at  which  to  begin  tests  of  level  linearity  error  on  a  specified  level  range. 
+
+5.5.11  For  a  sound  level  meter  that  uses  a  display  device  with  a  range  less  than  the  linear 
+operating  range,  a  means  shall  be  described  in  the  instruction  manual  to  test  level  linearity 
+error  beyond  the  limits  of  the  display  range. 
+
+5.6  Self-generated  noise 
+
+5.6.1  For  the  more-sensitive  level  ranges,  sound  levels  shall  be  stated  in  the  instruction 
+manual  that  would  be  indicated  when  the  sound  level  meter  Is  placed  in  a  low-level  sound 
+field  that  does  not  add  significantly  to  the  self-generated  noise.  These  sound  levels  shall 
+correspond  to  the  highest  self-generated  noise  level  anticipated  for  each  model  of  microphone 
+specified  for  use  on  the  sound  level  meter. 
+
+5.6.2  Levels  of  self-generated  noise  shall  be  stated  in  the  instruction  manual  as  time- 
+weighted  sound  levels  or  as  time-average  sound  levels,  as  applicable. 
+
+5.6.3  The  instruction  manual  also  shall  state  the  levels  of  the  highest  anticipated  self- 
+generated  noise  when  the  electrical  input  device  replaces  the  microphone  and  the  input  is 
+terminated  as  stated  in  the  instruction  manual. 
+
+5.6.4  The  sound  levels  stated  in  the  instruction  manual  for  self-generated  noise  shall  be  for 
+reference  environmental  conditions.  Levels  of  self-generated  noise  shall  be  stated  for  all 
+available  frequency  weightings. 
+
+5.6.5  The  instruction  manual  shall  describe  procedures  for  measuring  low-level  sounds  with 
+consideration  of  the  influence  of  self-generated  noise. 
+
+5.7  Time  weightings  F  and  S 
+
+5.7.1  Design-goal  time  constants  are  0,125  s  for  time-weighting  F  (Fast)  and  1  s  for  time- 
+weighting  S  (Slow).  Time  weightings  that  are  provided  shall  be  described  in  the  instruction 
+manual. 
+
+
+17 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC    61672  -1  (2002) 
+
+5.7.2  For  time-weighted  sound  levels,  the  decay  time  constant  Is  specified  from  the 
+response  to  sudden  cessation  of  a  steady  4  kHz  sinusoidal  electrical  input  signal.  Following 
+cessation,  the  rate  of  the  decrease  in  the  displayed  sound  level,  extended  by  the  expanded 
+uncertainty  of  measurement,  shall  be  at  least  25  dB/s  for  time-weighting  F  and  between 
+3,4  dB/s  and  5,3  dB/s  for  time-weighting  S.  This  requirement  applies  for  any  level  range. 
+
+5.7.3  For  a  steady  sinusoidal  electrical  signal  at  1  kHz,  the  deviation  of  the  Indication  of  both 
+A-weighted  sound  level  with  time-weighting  S  and  A-weighted  time-average  sound  level,  if 
+available,  from  the  indication  of  A-weighted  sound  level  with  time-weighting  F,  extended  by 
+the  expanded  uncertainty  of  measurement,  shall  not  exceed  ±0,3  dB.  This  requirement 
+applies  at  the  reference  sound  pressure  level  on  the  reference  level  range. 
+
+5.8    Toneburst  response 
+
+5.8.1  The  specification  for  measurement  of  the  sound  level  for  a  transient  signal  is  given  in 
+terms  of  4  kHz  tonebursts.  Specifications  for  toneburst  response  apply  for  electrical  input 
+signals. 
+
+5.8.2  For  the  A  and  optional  C  and  Z  weightings,  the  reference  toneburst  response  to  a 
+single  4  kHz  toneburst  shall  be  as  given  in  column  2  of  table  3  for  maximum  F  or  maximum  S 
+sound  levels,  and  in  column  3  for  sound  exposure  levels.  The  deviation  of  a  measured 
+toneburst  response  from  the  corresponding  reference  toneburst  response,  extended  by  the 
+expanded  uncertainty  of  measurement,  shall  be  within  the  applicable  tolerance  limits  over  the 
+range  of  toneburst  durations. 
+
+5.8.3  The  reference  toneburst  responses  and  tolerance  limits  of  table  3  also  apply  to 
+integrating-averaging  sound  level  meters  that  do  not  display  sound  exposure  level.  For  such 
+instruments,  the  sound  exposure  level  of  a  toneburst  shall  be  calculated  from  a  measurement 
+of  time-average  sound  level  by  use  of  equation  (4).  The  averaging  time  T  shall  be  that 
+displayed  by  the  sound  level  meter  and  shall  include  the  toneburst. 
+
+5.8.4  For  a  toneburst  duration  between  two  consecutive  toneburst  durations  in  table  3,  the 
+reference  toneburst  response  shall  be  determined  from  equation  (15)  or  (16),  as  applicable. 
+The  applicable  tolerance  limits  are  those  for  the  shorter  toneburst  duration  where  limits  are 
+given. 
+
+5.8.5  Reference  toneburst  responses  and  corresponding  tolerance  limits  apply  for  any 
+toneburst  duration  within  the  ranges  specified  in  table  3  and  on  the  reference  level  range  over 
+a  range  of  steady  input  signals.  The  range  of  steady  4  kHz  Input  signals,  from  which  the 
+tonebursts  are  extracted,  extends  from  an  input  equivalent  to  a  display  at  3  dB  less  than  the 
+specified  upper  limit  of  the  linear  operating  range  down  to  an  input  equivalent  to  a  display  at 
+10  dB  above  the  specified  lower  limit.  Toneburst  responses  shall  be  ^ithin  the  specified 
+tolerance  limits  as  long  as  the  toneburst  response  can  be  observed  on  thie  display  device  and 
+produces  an  indication  at  least  10  dB  greater  than  the  specified  noise  level  caused  by  the 
+inherent  noise  from  the  microphone  and  electronic  elements  within  the  sound  level  meter. 
+
+5.8.6  There  shall  be  no  overload  indication  during  any  measurement  of  toneburst  response 
+over  the  range  of  signal  levels  specified  in  5.8.5. 
+
+
+18 
+
+
+IS   15575  (Part  1):2005 
+lEC  61672-1  (2002) 
+
+Table  3  -  Raference  4  kHz  toneburst  responses  and  tolerance  limits  including 
+maximum  expanded  uncertainty  of  measurement 
+
+
+Toneburst 
+duration,  r^ 
+
+ms 
+
+Reference  4  kHz  toneburst  response,  5r«f, 
+relative  to  the  steady  sound  ievel 
+
+dB 
+
+Tolerance  limits 
+
+dB 
+
+Class 
+
+^AFmax  "  '-A 
+
+'■cFm.x  -  '■c  and 
+
+i-ZFrnax-^zlEq-dS) 
+
+^Af-i-A 
+
+tcE  -  Lq  and 
+Lzf-L2:Eq.(16) 
+
+1 
+
+2 
+
+1  000 
+500 
+200 
+
+0,0 
+-0,1 
+-1»0 
+
+0,0 
+-3,0 
+-7.0 
+
+±0,8 
+±0.8 
+±0,8 
+
+±1.3 
+±1,3 
+±1.3 
+
+100 
+50 
+20 
+
+-2,6 
+-4.8 
+-8,3 
+
+-10,0 
+-13,0 
+-17,0 
+
+±1.3 
+±1.3 
+±1.3 
+
+±1.3 
++  1.3; -1,8 
++1.3; -2,3 
+
+10 
+5 
+2 
+
+-11,1 
+-14,1 
+-18,0 
+
+-20,0 
+-23,0 
+-27,0 
+
+±1.3 
+
+±1.3 
+
++1,3;  -1,8 
+
++  1.3; -2,3 
++  1,3;  -2,8 
++1,3; -2,8 
+
+1 
+0,5 
+0,25 
+
+-21,0 
+-24,0 
+-27.0 
+
+-30,0 
+-33,0 
+-36,0 
+
++  1.3; -2,3 
++  1.3; -2.8 
++  1,3; -3.3 
+
++  1,3; -3,3 
++  1.3; -4,3 
++  1.8; -5.3 
+
+'-ASmax  "  ^A 
+
+^csmax  -  '-c  and 
+
+^ZSmax-i-zlEq.CIS) 
+
+1  000 
+500 
+200 
+
+-2,0 
+-4.1 
+-7,4 
+
+±0,8 
+±0,8 
+±0,8 
+
+±1.3 
+±1.3 
+±1.3 
+
+100 
+50 
+20 
+
+-10,2 
+-13,1 
+-17,0 
+
+±1,3 
+
+±1.3 
+
++1.3; -1,8 
+
+±1.3 
++1.3;  -1,8 
++  1.3: -2,3 
+
+10 
+5 
+2 
+
+-20,0 
+-23,0 
+-27.0 
+
++1.3; -2,3 
+
++1.3; -2,8 
++1.3; -3,3 
+
++  1.3; -3,3 
++  1.3; -4.3 
++  1.3; -5.3 
+
+NOTE  1     For  the  purpose  of  this  standard  and  for  conventional  sound  level  meters,  reference  4  kHz  toneburst 
+response  6ref  for  maximum  time-weighted  sound  levels  is  determined  from  the  following  approximation: 
+
+5„,=10lg(l-e-'"-'^)                                                        (15) 
+
+where 
+
+Tt)  is  a  specified  duration  of  a  toneburst  in  seconds, 
+
+r  is  a  standard  exponential  time  constant  specified  in  5.7.1,  and 
+
+e  is  the  base  of  the  natural  logarithm. 
+
+Equation  (15)  applies  for  isolated  4  kHz  tonebursts. 
+
+NOTE  2    For  the  purpose  of  this  standard  and  for  integrating  and  integrating-averaging  sound  level  meters, 
+reference  4  kHz  toneburst  response  Sr^i  for  frequency-weighted  sound  exposure  leVels  is  determined  from  the 
+following  approximation 
+
+5™,=ioig(r,/ro)                                           (16) 
+
+where 
+
+7b  is  a  specified  duration  of  a  toneburst  in  seconds,  and 
+
+To  =  1  s  is  the  sound-exposure  reference  duration. 
+
+NOTE  3  Reference  4  kHz  toneburst  responses  in. table  3  are  valid  for  the  A,  C,  and  Z  weightings.  Other 
+frequency  weightings  may  have  other  reference  toneburst  responses. 
+
+19 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+5.9  Response  to  repeated  tonebursts 
+
+5.9.1  The  specification  for  the  response  to  repeated  electrical  tonebursts  applies  for  the  A 
+weighting  and  the  C  and  Z  weightings,  where  provided,  and  for  any  sequence  of  4  kHz 
+tonebursts  of  equal  amplitude  and  equal  duration.  The  deviation  of  a  time-average  sound 
+level  from  the  time-average  sound  level  calculated  tpr  the  toneburst  sequence,  extended  by 
+the  expanded  uncertainty  of  measurement,  shall  be  within  the  applicable  tolerance  limits  of 
+table  3  for  the  sound-exposure-level  toneburst  response.  Thrs  specification  applies  on  the 
+reference  level  range  for  toneburst  durations  between  0,25  ms  and  1  s  and  from  3  dB  less 
+than  the  specified  upper  limit  of  the  linear  operating  range  down  to  an  input  equivalent  to  a 
+display  at  10  dB  above  the  specified  lower  limit. 
+
+5.9.2  In  any  total  measurement  duration,  the  difference  S^^^,  in  decibels,  between  the 
+theoretical  time-average  sound  level  of  a  sequence  of  N  tonebursts  extracted  from  the  steady 
+sinusoidal  signal  and  the  time-average  sound  level  of  the  corresponding  steady  sinusoidal 
+signal  is  given  by 
+
+5,,=10lg(N7,/r,)  (17) 
+
+where 
+
+T^  is  a  toneburst  duration  and 
+
+Tf^  is  the  total  measurement  duration,  both  in  seconds. 
+
+The  corresponding  steady  sinusoidal  signal  shall  be  averaged  over  the  total  measurement 
+duration. 
+
+5.10  Overload  Indication 
+
+5.10.1  A  sound  level  meter  shall  be  provided  with  an  overload  indicator  that  shall  be 
+operative  for  each  applicable  display  device.  The  instruction  manual  shall  describe  the 
+operation  and  inte/pretation  of  the  overload  indications. 
+
+5.10.2  An  overload  condition  shall  be  displayed  before  the  tolerance  limits  for  steady  level 
+linearity  or  toneburst  response  are  exceeded  for  sound  levels  above  the  upper  limit  of  a  linear 
+operating  range.  This  requirement  applies  on  all  level  ranges  and  for  any  frequency  from 
+31,5  Hz  to  12,5  kHz  for  class  1  sound  level  meters,  or  from  31,5  Hz  to  8  kHz  for  class  2  sound 
+level  meters. 
+
+5.10.3  The  overload  indicator  shall  operate  for  both  positive-going,  and  negative-going 
+one-half-cygle  signals  extracted  from  a  steady  sinusoidal  electrical  signal.  The  extracted 
+signals  shall  start  and  stop  at  zero  crossings.  For  positive-going  and  negative-going  one-half- 
+cycle  signals,  the  difference  between  the  input  signal  levels  that  first  cause  an  overload 
+indication,  extended  by  the  expanded  uncertainty  of  measurement,  shall  not  exceed  1,8  dB. 
+
+5.10.4  When  a  sound  level  meter  is  used  to  measure  F  or  S  time-weighted  sound  levels,  the 
+overload  indication  shall  be  presented  as  long  as  the  overload  condition  exists  or  1  s, 
+whichever  is  the  greater. 
+
+5.10.5  When  time-average  sound  levels  or  sound  exposure  levels  are  being  measured,  the 
+overload  indicator  shall  latch  on  when  an  overload  condition  occurs.  The  latched  condition 
+shall  remain  until  the  measurement  results  are  reset.  These  requirements  also  apply  to 
+measurements  of  maximum  time-weighted  sound  level,  peak  C  sound  level,  and  other 
+quantities  calculated  during,  or  displayed  after,  the  measurement  interval. 
+
+
+20 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+
+5.11    Under-range  indication 
+
+
+5.11.1  If  any  measurement  of  time-weighted  sound  level,  time-average  sound  level,  or  sound 
+exposure  level  is  less  than  the  specified  lower  limit  of  a  linear  operating  range  at  a  given 
+frequency,  an  under-range  condition  shall  be  displayed  before  the  tolerance  limits  on  level 
+linearity  error  are  exceeded.  The  under-range  display  shall  be  presented  at  least  as  long  as 
+the  under-range  condition  exists  or  1  s,  whichever  is  the  greater.  The  instruction  manual  shall 
+describe  the  operation  and  interpretation  of  the  under-range  indications. 
+
+5.11.2  For  the  more-sensitive  level  ranges,  the  under-range  display  need  not  be  activated  if 
+the  lower  limit  for  level  linearity  error  is  caused  by  the  inherent  noise  from  the  microphone  and 
+electronic  elements  within  the  sound  level  meter. 
+
+5.12    Peak  C  sound  level 
+
+5.12.1  Class  1  and  class  2  sound  level  meters  may  display  peak  C  sound  levels.  On  each 
+level  range,  the  instruction  manual  shall  state  the  nominal  range  of  peak  C  sound  levels  that 
+are  measured  within  the  applicable  tolerance  limits.  On  at  least  the  reference  level  range,  the 
+extent  of  the  peak  level  range  shall  be  at  least  40  dB  for  indications  of  peak  C  sound  levels. 
+Within  the  specified  ranges,  peak  C  sound  levels  shall  be  indicated  without  display  of  an 
+overload  condition. 
+
+NOTE     Peak  Z  or  peak  FLAT  sound  levels  are  not  the  same  as  peak  C  sound  levels. 
+
+5.12.2  Indications  of  peak  C  sound  levels  are  specified  in  terms  of  the  response  to  one- 
+cycle,  and  positive-going  and  negative-going  half-cycle  electrical  signals.  The  one-cycle  and 
+half-cycle  signals  shall  be  extracted  from  steady  sinusoidal  electrical  signals  and  applied  to 
+the  specified  electrical  input  facility.  Complete  cycles  and  half-cycles  shall  start  and  stop  on 
+zero  crossings. 
+
+5.12.3  The  deviation  of  an  indication  of  a  peak  C  sound  level  (/-cpeak)*  '^li'^us  the 
+corresponding  indication  of  the  C-weighted  sound  level  of  the  steady  signal  (Lq),  from  the 
+corresponding  difference  given  in  table  4,  extended  by  the  expanded  uncertainty  of 
+measurement,  shall  not  exceed  the  applicable  tolerance  limits  given  in  table  4. 
+
+Table  4  -  Peak  C  sound  levels  and  tolerance  limits  including  maximum 
+expanded  uncertainty  of  measurement 
+
+
+Number  of  cycles 
+in  test  signal 
+
+Frequency  of  test 
+signal 
+
+Hz 
+
+^Cpeak  -  ^C 
+
+dB 
+
+Tolerance  limits 
+
+dB 
+
+Class 
+
+1 
+
+2 
+
+One 
+One 
+One 
+
+31.5 
+
+500 
+
+8  000 
+
+2,5 
+3,5 
+3,4 
+
+±2,4 
+±1,4 
+±2,4 
+
+±3,4 
+±2,4 
+±3,4 
+
+Positive  half  cycle 
+Negative  half  cycle 
+
+500 
+500 
+
+2,4 
+2.4 
+
+±1,4 
+
+±1,4 
+
+±2,4 
+±2,4 
+
+21 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672-1  (2002) 
+
+5.13  Reset 
+
+5.13.1  Sound  level  meters  intended  for  the  measurement  of  time-average  sound  level,  sound 
+exposure  level,  maximum  time-weighted  sound  level,  and  peak  C  sound  level  shall  cbntain  a 
+facility  to  clear  the  data-storage  device  and  re-initiate  a  measurement. 
+
+5.13.2  Use  of  a  reset  facility  shall  not  cause  spurrous  indications  on  a  display  de\^lfce  or  to 
+
+data  that  are  stored. 
+
+5.14  Thresholds 
+
+If  user-selectable  thresholds  are  provided  for  an  integrating-averaging  or  an  integratir^g  sound 
+level  meter,  their  performance  and  method  of  operation  shall  be  stated  in  the  iniilruction 
+manual  for  measurements  of  time-average  sound  levels  or  sound  exposure  levels. 
+
+5.15  Display 
+
+5.15.1  For  sound  level  meters  that  can  display  more  than  one  measurement  quartrtity,  a 
+means  shall  be  provided  to  indicate  the  quantity  that  is  being  displayed. 
+
+5.15.2  The  acoustical  quantity  that  is  being  measured  shall  be  clearly  indicated  on  the 
+display  or  by  the  controls.  The  indications  shall  be  described  in  the  instruction  manual  and 
+shall  include  the  frequency  weighting  and  the  time  weighting  or  averaging  tim0.  as 
+appropriate.  The  indication  may  be  by  means  of  a  suitable  letter  symbol  or  abbrevisition. 
+Examples  of  appropriate  letter  symbols  are  given  with  the  definitions,  equations,  and  tables  in 
+this  standard. 
+
+5.15.3  The  display  device(s)  shall  be  described  in  the  instruction  manual  and  shall  permit 
+measurements  with  a  resolution  of  0,1  dB,  or  better,  over  the  display  range  of  at  least  60  dB. 
+
+NOTE  Sound  level  meters  with  an  analogue  display  device  may  implement  the  60  dB  display  range  in  tw0 
+portions. 
+
+5.15.4  For  digital  display  devices  updated  at  periodic  intervals,  the  indication  at  each  display 
+update  shall  be  the  value  of  the  user-selected  quantity  at  the  time  of  the  display  update.  Other 
+quantities  may  be  indicated  at  the  time  of  the  display  update  and,  if  so,  the  displayed 
+quantities  shall  be  explained  in  the  instruction  manual. 
+
+5.15.5  If  a  digital  indicator  is  provided,  the  instruction  manual  shall  state  the  display  update 
+rate  and  the  conditions  after  initiating  a  measurement  when  the  first  Indication  is  displayed. 
+
+5.15.6  For  integrating-averaging  and  integrating  sound  level  meters,  the  instruction  manual 
+shall  state  the  time  interval  after  completion  of  Integration  before  a  reading  is  displayed. 
+
+5.15.7  When  results  of  a  measurement  are  provided  at  a  digital  output,  the  instruction 
+manual  shall  describe  the  method  for  transferring  or  downloading  of  digital  data  to  an  external 
+data-storage  or  display  device.  The  computer  software  as  well  as  the  hardware  for  the 
+interface  shall  be  identified. 
+
+
+22 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+5.15.8  Each  alternative  device  for  displaying  the  signal'  level,  stated  in  the  ihstruction 
+manual  as  conforming  to  the  specifications  of  this  standard,  is  an  integral  part  of  the  sound 
+level  meter.  Each  such  alternative  device  shall  be  included  as  part  of  the  components 
+required  for  conformance  to  the  performance  specifications  in  this  clause  and  the  applicable 
+environmental  specifications  of  clause  6. 
+
+5.16  Analogue  or  digital  output 
+
+5.16.1  If  an  analogue  or  digital  output  is  provided,  the  characteristics  of  the  output  signals 
+shall  be  described  in  the  instruction  manual.  The  characteristics  shall  include  the  frequency 
+weighting,  the  range  of  output  signals,  the  internal  electrical  impedance  at  the  output,  and  the 
+recommended  range  of  load  impedances. 
+
+5.16.2  Connecting  a  passive  impedance  without  stored  electrical  energy,  including  a  short 
+circuit,  to  an  analogue  output  shall  not  affect  any  measurement  in  progress  by  more  than 
+0,2  dB. 
+
+5.16.3  If  an  analogue  or  digital  output  is  not  provided  for  general  applications,  an  output 
+shall  be  provided  for  testing  the  characteristics  of  a  class  1  sound  level  meter  and  may  be 
+provided  for  a  class  2  sound  level  meter.  Changes  in  the  levels  of  the  signal  at  the  analogue 
+or  digital  output  in  response  to  changes  in  the  sound  pressure  at  the  microphone,  or  to 
+changes  in  the  electrical  input  signal,  shall  be  identical,  to  a  tenth  of  a  decibel,  to  changes  in 
+the  signal  levels  indicated  on  the  display  devices. 
+
+5.17  Timing  facilities 
+
+5.17.1  A  class  1  sound  level  meter  that  indicates  time-average  sound  level  or  sound 
+exposure  level  shall  be  able  to  display  the  elapsed  time  at  the  end  of  an  integration  period,  or 
+an  equivalent  indication  of  the  integration  time  interval.  The  capability  to  pre-set  an 
+integration  time  interval  may  also  be  provided.  Time  of  day  may  also  be  displayed.  If 
+applicable,  the  instruction  manual  shall  describe  the  procedure  to  pre-set  an  integration  time 
+interval  and  to  set  the  time  of  day. 
+
+NOTE  1     Recommended  pre-set  integration  time  intervals  are  10  s,  1  min,  5  min,  10  min,  30  min.  1  h,  8  h,  and 
+
+24  h. 
+
+NOTE  2  If  the  sound  level  meter  can  display  the  time  of  day,  the  nominal  drift  in  the  displayed  time  over  a  24  h 
+period  should  be  stated  in  the  instruction  manual. 
+
+5.17.2  For  signal  levels  within  the  range  of  a  display  device,  the  instruction  manual  shall 
+state  the  minimum  and  maximum  averaging  and  integration  times  for  measurement  of  time- 
+average  sound  levels  and  sound  exposure  levels,  respectively. 
+
+5.18  Radio  frequency  emissions  and  disturbances  to  a  public  power  supply 
+
+5.18.1  If  the  sound  level  meter  allows  the  connection  of  interface  or  interconnection  cables, 
+the  instruction  manual  shall  state  the  lengths  and  types  (for  example,  shielded  or  unshielded) 
+of  typical  cables  and  the  characteristics  of  all  devices  to  which  the  cables  are  expected  to  be 
+attached. 
+
+5.18.2  The  quasl-peak  level  of  the  radio  frequency  electric  field  strength  emitted  from  the 
+enclosure  port  of  the  sound  level  meter  shall  not  exceed  30  dB  for  frequencies  from  30  MHz 
+to  230  MHz,  and  shall  not  exceed  37  dB  for  frequencies  from  230  MHz  to  1  GHz.  At  230  MHz, 
+the  lower  limit  applies.  Field  strength  levels  are  relative  to  a  field  strength  of  1  |iiV/m.  The 
+requirements  apply  for  complete  sound  level  meters  of  group  X  or  Y  and  at  a  distance  of 
+10  m.  The  instruction  manual  shall  state  the  operating  mode(s)  of  the  sound  level  meter,  and 
+any  connecting  devices,  that  produce  the  highest  radio  frequency  emissions. 
+
+
+23 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+
+5.18.3  For  group  Y  and  group  Z  sound  level  meters,  the  maximum  disturbance  conducted  to 
+the  public  supply  of  electric  power  shall  be  within  the  quasi-peak  and  average  voltage-level 
+limits  given  in  table  5  at  an  a.c.  power  port.  If  the  sound  level  meter  conforms  to  the  limit  on 
+the  average  voltage  of  conducted  disturbances  when  using  a  quasi-peak  measuring  device, 
+the  sound  level  meter  shall  be  deemed  to  conform  to  the  quasi-peak  and  average  voltage 
+limits. 
+
+Table  5  -  Limits  for  conducted  disturbance  to  the  voltage  of  a  public  supply  of  electric 
+power  including  maximum  expanded  uncertainty  of  measurement 
+
+
+Frequency  range 
+
+MHz 
+
+Limits  on  voltage  level  of  disturbance  (re  1^V) 
+dB 
+
+Quasi-peak 
+
+Average 
+
+0,15  to  0,50 
+
+66  to  56 
+
+56  to  46 
+
+0,50  to  5 
+
+56 
+
+46 
+
+5  to  30 
+
+60 
+
+50 
+
+NOTE  1     See  4.1.2  of  CISPR  16-1:1999  for  the  characteristics  of  quasi-peak-measuring  receivers. 
+NOTE  2     Lower  limits  for  voltage  levels  apply  at  the  transition  frequencies. 
+
+NOTE  3    Voltage  level  limits  decrease  linearly  with  the  logarithm  of  the  frequency  in  the  range  from  0,15  MHz 
+
+to  0,50  MHz. 
+
+5.19  Crosstalk 
+
+5.19.1  Crosstalk,  or  leakage  of  signals  between  pairs  of  channels,  is  a  concern  for  multi- 
+channel sound  level  meters. 
+
+5.19.2  At  any  frequency  within  the  range  of  a  class  1  or  class  2  multi-channel  sound  level 
+meter  system,  the  difference  between  the  level  indicated  on  the  display  device,  in  response  to 
+a  steady  electrical  signal  applied  to  the  electrical  input  facility  of  one  channel  and  adjusted  to 
+indicate  the  upper  limit  of  the  applicable  linear  operating  range,  and  the  signal  level  indicated 
+for  any  other  channel  shall  be  at  least  70  dB.  Termination  devices,  as  stated  in  the  instruction 
+manual,  shall  be  installed  in  place  of  the  microphones  on  the  other  inputs. 
+
+5.20  Power  supply 
+
+5.20.1  An  indication  shall  be  provided  to  confirm  that  the  power  supply  is  sufficient  to 
+operate  the  sound  level  meter  within  the  specifications  of  this  standard. 
+
+5.20.2  The  instruction  manual  shall  state  the  maximum  and  minimum  power  supply  voltages 
+at  which  the  sound  level  meter  conforms  to  the  specifications  of  this  standard.  With  a  sound 
+calibrator  applied  to  the  microphone,  the  change  in  the  displayed  sound  level,  extended  by 
+the  expanded  uncertainty  of  measurement,  shall  not  exceed  ±0,3  dB  for  class  1  sound  level 
+meters  and  ±0,4  dB  for  class  2  sound  level  meters  when  the  supply  voltage  is  reduced  from 
+the  maximum  to  the  minimum. 
+
+5.20.3  If  internal  batteries  are  used  to  power  the  sound  level  meter,  the  acceptable  battery 
+types  shall  be  stated  in  the  instruction  manual  and  preferably  on  the  instrument.  The 
+instruction  manual  shall  also  state  the  continuous  operating  time,  under  reference 
+environmental  conditions,  to  be  expected  for  the  specified  normal  mode  of  operation  when  full 
+capacity  batteries  are  installed. 
+
+
+24 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672-1  (2002) 
+
+5.20.4  For  battery-powered  sound  level  meters  designed  to  be  able  to  indicate  sound  levels 
+over  a  duration  that  exceeds  the  nominal  battery  life,  the  instruction  manual  shall  describe  the 
+recommended  means  for  operating  the  sound  level  meter  from  an  external  power  supply. 
+
+5.20.5  For  sound  level  meters  that  are  intended  to  operate  from  a  public  supply  of  a.c. 
+electrical  power,  the  instruction  manual  shall  state  the  nominal  voltage  and  frequency  of  the 
+supply  and  the  associated  tolerance  limits. 
+
+6    Environmental,  electrostatic,  and  radio  frequency  criteria 
+
+6.1  General 
+
+6.1.1  A  sound  level  meter  shall  conform  to  all  specifications  of  clause  6  that  apply  to  the 
+intended  use  of  the  instrument.  When  a  sound  signal  is  applied  to  the  microphone,  the 
+windscreen  should  be  removed,  if  appropriate, 
+
+6.1.2  Each  specification  of  the  influence  of  an  operating  environment  applies  to  a  sound 
+level  meter  that  is  turned  on  and  set  to  perform  a  measurement  in  a  typical  manner,  the 
+instruction  manual  shall  state  the  typical  time  interval  needed  for  the  sound  level  meter  to 
+stabilize  after  changes  in  environmental  conditions. 
+
+6.1.3  Specifications  for  the  influence  of  variations  in  static  pressure,  air  temperature,  and 
+relative  humidity  apply  for  sound  levels  indicated  in  response  to  application  of  a  sound 
+calibrator  operating  at  a  frequency  in  the  range  from  125  Hz  to  1  250  Hz.  The  influence  of 
+variations  in  static  pressure,  air  temperature,  and  relative  humidity  on  the  sound  pressure 
+level  generated  by  the  sound  calibrator  shall  be  known. 
+
+6.1.4  Combinations  of  air  temperature  and  relative  humidity,  that  yield  a  dewpoint  greater 
+than  +39  °C  or  less  than  -15  °C,  shall  not  be  tested  for  conformance  with  these 
+specifications. 
+
+6.2  Static  pressure 
+
+6.2.1  Over  the  range  of  static  pressure  from  85  kPa  to  108  kPa,  the  deviation  of  the 
+displayed  sound  level  from  the  sound  level  displayed  at  the  reference  static  pressure, 
+extended  by  the  expanded  uncertainty  of  measurement,  shall  not  exceed  ±0,7  dB  for  class  1 
+sound  level  meters  or  ±1 ,0  dB  for  class  2  sound  level  meters. 
+
+6.2.2  Over  the  range  of  static  pressure  from  65  kPa  to  less  than  85  kPa,  the  deviation  of  the 
+displayed  sound  level  from  the  sound  level  displayed  at  the  reference  static  pressure, 
+extended  by  the  expanded  uncertainty  of  measurement,  shall  not  exceed  ±1,2  dB  for  class  1 
+sound  level  meters  or  ±1,9  dB  for  class  2  sound  level  meters. 
+
+NOTE  The  frequency  response  of  the  microphone  may  depend  on  the  static  pressure.  Using  a  sound  calibrator  to 
+adjust  the  sensitivity  of  a  sound  level  meter  at  the  calibration  check  frequency  provides  no  information  on  the 
+influence  of  static  pressure  on  frequency  response.  The  instruction  manual  should  provide  guidance  and 
+procedures  to  use  the  sound  level  meter  at  locations  or  under  conditions  where  the  static  pressure  is  less  than 
+85  kPa. 
+
+6.3  Air  temperature 
+
+6.3.1  The  influence  of  variations  in  air  temperature  on  the  measured  signal  level  is  specified 
+over  the  range  of  air  temperatures  from  -10  °C  to  +50  X  for  class  1  sound  level  meters  and 
+for  temperatures  from  0  X  to  +40  °C  for  class  2  sound  level  meters.  Temperature  ranges 
+apply  for  a  complete  sound  level  meter. 
+
+
+25 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+
+6.3.2  For  components  of  a  sound  level  meter  (for  example,  a  computer),  designated  in  the 
+Instruction  manual  as  Intended  to  operate  only  in  an  environmentally  controlled  enclosure  (for 
+example,  indoors),  the  air  temperature  range  may  be  restricted  to  +5  ""C  to  +35  °C.  The 
+restricted  temperature  range  does  not  apply  to  the  microphone. 
+
+6.3.3  The  deviation  of  the  sound  level  displayed  at  any  temperature  from  the  sound  level 
+displayed  at  the  reference  air  temperature,  extended  by  the  expanded  uncertainty  of 
+measurement,  shall  not  exceed  ±0,8  dB  for  class  1  sound  level  meters  or  ±1,3  dB  for  class  2 
+sound  level  meters.  This  specification  applies  over  the  applicable  ranges  of  air  temperatures 
+given  in  6.3.1  or  6.3.2,  for  any  relative  humidity  within  the  range  given  in  6.4. 
+
+6.3.4  The  level  linearity  error  at  1  kHz  over  the  stated  linear  operating  range  on  the 
+reference  level  range  shall  remain  within  the  tolerance  limits  given  in  5.5.  This  level-linearity 
+specification  applies  over  the  ranges  of  air  temperature  given  in  6.3.1  or  6.3.2  and  for  a 
+relative  humidity  that  is  within  ±20  %  relative  humidity  of  the  reference  relative  humidity. 
+
+6.4  Humidity 
+
+The  deviation  of  the  sound  level  displayed  at  any  relative  humidity  from  the  sound  level 
+displayed  at  the  reference  relative  humidity,  extended  by  the  expanded  uncertainty  of 
+measurement,  shall  not  exceed  ±0,8  dB  for  class  1  sound  level  meters  or  ±1,3  dB  for  class  2 
+sound  level  meters.  This  specification  applies  over  the  range  of  relative  humidity  from  25  %  to 
+90  %  for  any  air  temperature  within  the  applicable  ranges  given  in  6.3.1  or  6.3.2,  as  limited  by 
+the  range  of  dewpoints  specified  in  6.1 .4. 
+
+6.5  Electrostatic  discharge 
+
+6.5.1  A  sound  level  meter,  or  multi-channel  sound  level  meter  system,  shall  continue  to 
+operate  as  intended  after  exposure  to  a  contact  discharge  of  electrostatic  voltage  of  up  to 
+±4  kV  and  to  an  air  discharge  of  electrostatic  voltage  of  up  to  ±8  kV.  The  polarity  of  the 
+electrostatic  voltage  is  relative  to  earth  ground.  Methods  for  applying  the  electrostatic 
+discharges  are  given  in  lEC  61000-4-2. 
+
+6.5.2  Exposure  to  the  electrostatic  discharges  specified  in  6.5.1  shall  cause  no  permanent 
+degradation  of  performance  or  loss  of  function  in  the  sound  level  meter.  The  performance  or 
+function  of  a  sound  level  meter  may  be  temporarily  degraded  or  lost  because  of  electrostatic 
+discharges,  if  so  stated  in  the  instruction  manual.  The  specified  degradation  or  loss  of 
+function  shall  not  include  any  change  of  operating  state,  change  of  configuration,  or 
+corruption  or  loss  of  stored  data. 
+
+6.6  AC  power  frequency  and  radio  frequency  fields 
+
+6.6.1  Exposure  to  specified  a.c.  power  frequency  and  radio  frequency  fields  shall  not  cause 
+any  change  in  the  operating  state,  change  of  configuration,  or  corruption  or  loss  of  stored 
+data.  This  requirement  applies  to  a  complete  sound  level  meter  or  to  the  applicable 
+components,  or  to  a  multi-channel  sound  level  meter  system,  and  for  any  operating  mode 
+consistent  with  normal  operation.  The  operating  mode(s)  of  the  sound  level  meter,  and  any 
+connecting  devices,  shall  be  as  stated  in  the  instruction  manual  for  the  greatest  susceptibility 
+(least  immunity)  to  a.c.  power  frequency  and  radio  frequency  fields. 
+
+
+26 
+
+
+IS   15575  (Part  1)  :  2005 
+lEC  61672-1  <2002) 
+
+6.6.2  The  specification  for  susceptibility  to  a.c.  power  frequency  fields  shall  apply  for 
+exposure  to  a  uniform  root-mean-square  magnetic  field  strength  of  80  A/m  at  frequencies  of 
+50  Hz  and  60  Hz.  The  uniformity  of  the  magnetic  field  shall  be  determined  in  the  absence  of 
+the  sound  level  meter. 
+
+6.6.3  The  specification  for  exposure  to  a.c.  power  frequencies  applies  to  the  orientation  of 
+the  sound  level  meter  that  is  stated  in  the  instruction  manual  to  have  greatest  susceptibility 
+(least  Immunity)  to  a.c.  power  frequency  fields. 
+
+6.6.4  The  specification  for  susceptibility  to  radio  frequency  fields  shall  apply  for  exposure 
+over  the  range  of  carrier  frequencies  from  26  MHz  to  1  GHz.  The  signal  at  the  carrier 
+frequency  of  the  radio  frequency  field  shall  be  amplitude  modulated  by  a  1  kHz  steady 
+sinusoidal  signal  to  a  depth  of  80  %.  When  unmodulated  and  in  the  absence  of  the  sound 
+level  meter,  the  radio  frequency  field  shall  have  a  uniform  root-mean-square  electric  field 
+strength  of  10  V/m. 
+
+NOTE  A  sound  level  meter  may  conform  to  the  specifications  of  this  standard  at  unmodulated  root-mean-square 
+electric  field  strengths  greater  than  10  V/m.  If  so,  the  applicable  field  strengths  should  tie  stated  in  the  instruction 
+
+manual. 
+
+6.6.5  immunity  of  a  sound  level  meter  io  a.c.  power  frequency  and  radio  frequency  fields 
+shall  be  demonstrated  with  a  925  Hz  sinusoidal  sound  signal  applied  to  the  microphone.  With 
+no  a.c.  power  frequency  or  radio  frequency  field  applied,  the  sound  source  shall  be  adjusted 
+to  display  an  A-weighted  sound  level  of  74  dB  ±1  dB,  with  time-weighting  F  or  as  a  time- 
+average  sound  level.  The  sound  level  shall  be  displayed  on  the  level  range  for  which  the 
+lower  limit  is  closest  to,  but  not  greater  than,  70  dB,  if  more  than  one  level  range  is  provided. 
+
+NOTE  If  the  sound  level  meter  only  displays  sound  exposure  level,  the  equivalent  time-average  sound  level 
+should  be  calculated  by  means  of  equation  (5b), 
+
+6.6.6  The  deviation  of  a  displayed  sound  level  from  the  sound  level  displayed  in  the  absence 
+of  an  a.c.  power  frequency  or  radio  frequency  field,  extended  by  the  expanded  uncertainty  of 
+measurement,  shall  not  exceed  ±1,3  dB  for  class  1  sound  level  meters  or  ±2,3  dB  for  class  2 
+sound  level  meters. 
+
+6.6.7  For  group  Y  or  group  Z  sound  level  meters  with  an  a.c.  input  power  port  and,  if 
+available,  an  a.c.  output  power  port,  immunity  to  radio  frequency  common-mode  interference 
+shall  be  demonstrated  over  the  frequency  range  from  0,15  MHz  to  80  MHz.  The  radio 
+frequency  field  shall  be  80  %  amplitude  modulated  by  a  1  kHz  sinusoidal  signal.  When 
+unmodulated,  the  root-mean-square  radio  frequency  voltage  shall  be  10  V  when  emitted  from 
+a  source  having  an  output  impedance  of  150  Q.  Immunity  to  fast  transients  on  the  power 
+supply  shall  apply  for  a  signal  having  a  2  kV  peak  voltage  and  a  repetition  frequency  of  5  kHz 
+in  accordance  with  table  4  of  lEC  61000-6-2:1999.  The  additional  specification  given  in 
+table  4  of  lEC  61000-6-2:1999  also  applies  for  immunity  to  voltage  dips,  voltage  interruptions, 
+and  voltage  surges. 
+
+6.6.8  For  group  Z  sound  level  meters  with  signal  or  control  ports,  the  requirements  of  table  2 
+in  lEC  61000-6-2:1999  apply  for  immunity  to  radio  frequency  common-mode  interference  over 
+the  frequency  range  from  0,15  MHz  to  80  MHz  for  a  root-mean-square  voltage  of  10  V  when 
+unmodulated.  These  requirements  apply  where  any  interconnecting  cable  between  parts  of 
+the  sound  level  meter  exceeds  a  length  of  3  m.  Requirements  for  immunity  to  fast  transients 
+
+
+27 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672-1  (2002) 
+
+on  the  public  power  supply  system  apply  for  a  signal  having  a  2  kV  peak  voltage  and  a 
+repetition  frequency  of  5  kHz  in  accordance  with  table  2  of  lEC  61000-6-2:1999. 
+
+6.6.9  A  sound  level  meter  may  be  stated  In  the  instruction  manual  to  conform  to  the 
+specifications  of  this  standard  for  exposure  to  radio  frequency  fields  at  a  sound  level  less  than 
+74  dB.  In  this  event,  the  sound  level  meter  shall  conform  within  the  applicable  tolerance  limits 
+of  6.6.6  for  sound  levels  less  than  74  dB  down  to  the  stated  lower  level.  This  requirement 
+applies  on  all  applicable  level  ranges  for  all  specifications  relevant  to  the  group.  The  lower 
+level,  stated  in  the  instruction  manual  to  the  nearest  1  dB,  shall  apply  to  all  modes  of 
+operation  of  the  sound  level  meter. 
+
+7  Provision  for  use  with  auxiliary  devices 
+
+7.1  An  optional  extension  device  or  cable  may  be  provided  by  the  manufacturer  of  the  sound 
+level  meter  for  installation  between  the  microphone  and  the  microphone  preamplifier  or 
+between  the  microphone  preamplifier  and  the  other  components  of  a  sound  level  meter.  If 
+such  device  or  cable  is  provided,  details  shall  be  given  in  the  instruction  manual  for  any 
+corrections  to  be  applied  to  the  results  of  measurements  made  in  this  manner. 
+
+7.2  The  average  effect  of  optional  accessories  supplied  by  the  manufacturer  of  the  sound 
+level  meter  shall  be  stated  in  the  instruction  manual.  The  data  shall  apply  to  all  relevant 
+characteristics  of  the  sound  level  meter  that  are  affected  by  installation  of  the  accessories. 
+Optional  accessories  include  windscreens  or  rain  protection  devices  to  be  installed  around  the 
+microphone.  Data  shall  be  provided  for  the  typical  effect,  in  the  absence  of  wind,  of  any 
+recommended  windscreen  on  microphone  sensitivity,  directional  response,  and  frequency 
+weighting. 
+
+7.3  The  instruction  manual  shall  state  whether  the  sound  level  meter  conforms  to  the 
+specifications  of  this  standard  for  the  same  performance  class  when  an  optional  accessory  is 
+installed.  If  the  sound  level  meter  does  not  conform  to  the  specifications  for  the  original 
+performance  class  when  an  optional  accessory  is  installed,  the  instruction  manual  shall  state 
+whether  the  sound  level  meter  conforms  to  the  specifications  for  another  class  or  that  it  no 
+longer  conforms  to  the  requirements  for  either  class  1  or  class  2. 
+
+7.4  If  internal  or  external  bandpass  filters  are  provided  for  the  spectral  analysis  of  a  sound 
+pressure  signal,  the  instruction  manual  shall  describe  how  the  sound  level  meter  is  to  be  used 
+to  measure  filtered  sound  levels. 
+
+7.5  Details  shall  be  provided  in  the  instruction  manual  for  the  connection  of  manufacturer- 
+provided  auxiliary  devices  to  a  sound  level  meter  and  the  effects,  if  any,  of  such  devices  on 
+the  characteristics  of  the  sound  level  meter. 
+
+8  IVIarking 
+
+8.1  A  sound  level  meter  that  conforms  to  all  applicable  specifications  of  this  standard  shall 
+be  marked  to  show  the  reference  number  and  year  of  publication  of  this  standard.  The 
+marking  shall  indicate  the  name  or  mark  of  the  supplier  responsible  for  the  technical 
+specifications  applicable  to  the  complete  sound  level  meter.  In  addition,  the  marking  shall 
+include  the  model  designation,  serial  number,  and  performance  class  of  the  complete  sound 
+level  meter  in  accordance  with  the  specifications  of  this  standard. 
+
+8.2  If  the  sound  level  meter  consists  of  several  separate  units,  each  principal  unit  or 
+component  shall  be  marked  as  described  in  8.1,  as  practicable. 
+
+
+28 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672-1  (2002) 
+
+8.3    Suitable  seals  or  marks  shall  be  used  to  protect  those  components  of  a  sound  level 
+meter  that  are  accessible  to  a  user  and  which  might  affect  the  electroacoustical  performance. 
+
+9    Instruction  manual 
+
+9.1  An  instruction  manual  shall  be  supplied  with  each  sound   level  meter  or  equivalent 
+instrument  that  conforms  to  the  specifications  of  this  standard. 
+
+a)  The  instruction  manual  shall  contain  all  the  information  required  by  clauses  4,  5,  6,  and  7. 
+
+It  shall  also  contain  the  information  required  by  9.2  and  9.3  of  this  clause. 
+
+b)  If  the  sound  level  meter  consists  of  several  separate  components,  an  instruction  manual 
+shall  be  available  for  the  combination  that  forms  the  complete  sound  level  meter.  The 
+instruction  manual  shall  describe  all  necessary  components  and  their  mutual  influence. 
+
+c)  An  instruction  manual  shall  be  provided  as  a  printed  document  in  one  or  more  parts. 
+
+9.2  The  instruction  manual  shall  contain  the  following  operational  information  as  appropriate 
+to  the  sound  level  meter. 
+
+9.2.1  General 
+
+a)  A  description  of  the  type  of  sound  level  meter;  the  classification  group  X,  Y,  or  Z  for 
+susceptibility  to  radio  frequency  fields;  and  the  performance  designation  as  class  1  or 
+class  2  according  to  the  specifications  of  this  standard.  If  relevant,  a  description  of  the 
+configurations  of  the  sound  level  meter  that  conform  to  the  specifications  for  class  1  and 
+class  2. 
+
+b)  A  description  of  the  complete  sound  level  meter  and  its  configuration  for  the  normal  mode 
+of  operation  including  a  windscreen  and  associated  devices,  as  appropriate.  The 
+description  shall  include  the  method  of  mounting  the  microphone  with  identification  of 
+additional  items  and  the  procedure  for  installing  a  windscreen  around  the  microphone. 
+Additional  items  include  a  microphone  extension  device  or  cable  that  may  be  needed  for  a 
+particular  sound  level  meter  to  conform  to  the  specifications  of  this  standard  for  the 
+performance  class. 
+
+c)  The  models  of  microphones  with  which  the  complete  sound  level  meter  conforms  to  the 
+specifications  for  class  1  or  class  2  performance  in  a  free  field  or  with  random  incidence, 
+as  appropriate. 
+
+d)  If  a  microphone  extension  device  or  cable  is  required,  a  statement  that  the  sound  level 
+meter  conforms  to  the  specifications  for  directional  response  and  frequency  weighting  only 
+when  the  specified  device  or  cable  is  installed. 
+
+e)  The  characteristics  and  operation  of  each  independent  channel  of  a  multi-channel  sound 
+level  meter. 
+
+9.2.2  Design  features 
+
+a)  A  description   of  the   acoustical   quantities  that  the   sound    level   meter   is   capable   of 
+measuring  on  each  display  device,  for  example  time-weighted  sound  level,  time-average 
+sound    level,    and    sound    exposure    level,    separately   or   in    combinations,    along    with^ 
+explanations  of  all  abbreviations  and  letter  symbols  that  are  displayed. 
+
+b)  Optionally,  detailed  tabular  descriptions,  as  functions  of  sound  incidence  angle  and 
+frequency,  of  the  relative  free-field  response  to  sinusoidal  plane  waves  for  the  sound  level 
+meter  in  the  configuration  for  the  normal  mode  of  operation. 
+
+
+29 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC    61672  -1  (2002) 
+
+c)  A  description  of  \he  frequency  weightings  that  conform  to  the  specifications  of  this 
+standard,  and  the  optional  Z-weighting  and  FLAT  frequency  response,  If  included. 
+
+d)  A  description  of  the  time  weightings  that  are  provided. 
+
+e)  Identification  of  the  level  ranges  by  the  nominal  A-weighted  sound  levels  at  1  kHz. 
+
+f)  A  description  of  the  operation  of  the  level  range  controls. 
+
+g)  A  description  of  all  display  devices,  including  the  modes  of  operation  and  applicable 
+display-update  rates  for  digital  displays.  If  more  than  one  display  device  is  provided,  a 
+statement  as  to  which  of  these  devices  conform  to  the  specifications  of  this  standard  and 
+which  are  for  other  purposes. 
+
+h)  The  total  range  of  A-weighted  sound  level  that  can  be  measured  at  1  kHz  within  applicable 
+tolerance  limits. 
+
+i)     If  provided,  the  ranges  of  peak  C  sound  levels  that  may  be  measured  on  each  level  range. 
+
+j)  A  unique  identification  of  all  computer  program  software  that  is  needed  to  operate  the 
+sound  level  meter  and  the  procedure  for  its  installation  and  use. 
+
+k)  Information  about  the  design-goal  characteristics  and  the  tolerance  limits  that  should  be 
+maintained  for  quantities  that  the  sound  level  meter  is  capable  of  indicating  but  for  which 
+no  performance  specifications  are  provided  in  this  standard.  The  characteristics  include 
+optional  frequency  weightings. 
+
+9.2.3  Power  supply 
+
+a)  For  sound  level  meters  powered  by  internal  batteries,  recommendations  for  acceptable 
+battery  types  and  the  nominal  duration  of  continuous  operation  for  the  normal  mode  of 
+operation   under   reference   environmental   conditions  when  full   capacity   batteries   are 
+
+installed. 
+
+b)  The  method  to  confirm  that  the  power  supply  is  sufficient  to  operate  the  sound  level  meter 
+within  the  specifications  of  this  standard. 
+
+c)  For  battery-powered  sound  level  meters  designed  to  be  able  to  measure  sound  levels  over 
+a  duration  that  exceeds  the  nominal  battery  life,  a  description  of  the  means  to  operate  the 
+sound  level  meter  from  an  external  power  supply. 
+
+d)  For  sound  level  meters  that  are  intended  to  operate  from  a  public  supply  of  a.c.  electrical 
+power,  a  statement  of  the  nominal  voltage  and  frequency  of  the  supply  and  the  acceptable 
+tolerance  limits  around  the  nominal  values. 
+
+9.2.4  Adjustments  to  indicated  levels 
+
+a)  Identifioation  of  the  model(s)  of  sound  calibrator(s)  that  may  be  used  to  check  and 
+maintain  the  correct  indication  of  the  sound  level  meter. 
+
+b)  The  calibration  check  frequency. 
+
+c)  The  procedure  to  check,  and  data  for  adjusting,  the  indication  of  the  sound  level  meter. 
+The  procedure  and  data  shall  apply  for  the  reference  sound  pressure  level  on  the 
+reference  level  range  and  at  the  calibration  check  frequency. 
+
+d)  At  environmental  conditions  close  to  reference  environmental  conditions  and  at  the 
+frequencies  and  under  the  test  conditions  specified  in  5.2.4  and  5.2.5,  for  microphones  of 
+all  models  that  are  stated  to  be  for  use  on  the  sound  level  meter,  the  combination  of 
+corrections  for  deviations  of  the  average  free-field  microphone  frequency  response  from  a 
+
+
+30 
+
+
+IS    15575  {Part  1)  :  2005 
+lEC   61672-1  (2002) 
+
+uniform  frequency  response  and  for  the  average  effects  of  reflections  from  the  case  of  the 
+instrument  and  diffraction  around  the  microphone.  The  information  shall  also  include  the 
+corrections  for  the  average  effects  of  a  windscreen,  if  a  windscreen  is  an  integral  part  of 
+the  configuration  of  the  sound  level  meter  for  the  normal  mode  of  operation  or  if  the  sound 
+level  meter  is  stated  to  conform  to  the  specifications  of  this  standard  with  a  windscreen 
+around  the  microphone. 
+
+NOTE    The  information  may  be  given  as  separate  data  for  the  average  free-field  microphone  frequency  response 
+and  the  average  effects  of  reflections,  diffraction,  and  windscreen. 
+
+9.2.5     Operating  the  sound  level  meter 
+
+a)  The  reference  direction. 
+
+b)  Procedures  for  measuring  sounds  that  arrive  principally  from  the  reference  direction  or 
+with  random  incidence,  including  recommendations  to  minimize  the  influence  of  the 
+instrument  case  and  the  observer,  if  present,  when  measuring  a  sound. 
+
+c)  Recommendations  for  selecting  the  optimum  level  range  for  measurements  of  sound  level 
+or  sound  exposure  level. 
+
+d)  Procedures  for  measuring  low-level  sound  fields  on  the  more-sensitive  level  ranges  with 
+consideration  of  the  influence  of  self-generated  noise. 
+
+e)  After  reaching  equilibrium  with  the  ambient  environment  and  switching  on  the  power,  the 
+elapsed  time  until  the  sound  level  meter  may  be  used  to  measure  the  level  of  sounds. 
+
+f)  For  integrating-averaging  and  integrating  sound  level  meters,  the  time  interval  after 
+completion  of  a  measurement  before  a  reading  is  displayed. 
+
+g)  The  procedure  to  pre-set  an  integration  time  interval  and  to  set  the  time  of  day,  if 
+applicable. 
+
+h)  The  minimum  and  maximum  integration  times  for  measurement  of  time-average  sound 
+levels  and  sound  exposure  levels. 
+
+i)     The  operation  of  the  hold  feature  and  the  means  for  clearing  a  display  that  is  held. 
+
+j)  The  operation  of  the  reset  facility  for  measurements  of  time-average  sound  level,  sound 
+exposure  level,  maximum  time-weighted  sound  level,  and  the  optional  peak  C  sound  level. 
+A  statement  as  to  whether  operation  of  the  reset  facility  clears  an  overload  indication.  The 
+nominal  delay  time  between  operation  of  the  reset  facility  and  re-initiation  of  a 
+measurement. 
+
+k)  The  operation  and  interpretation  of  overload  and  under-range  indications  and  the  means 
+for  clearing  the  indications. 
+
+I)  The  performance  and  operation  of  any  user-selectable  thresholds  for  measurements  of 
+time-average  sound  level  or  sound  exposure  level. 
+
+m)  The  method  to  transfer  or  download  digital  data  to  an  external  data  storage  or  display 
+device  and  identification  of  the  computer  software  and  hardware  to  accomplish  those 
+
+tasks. 
+
+n)  For  sound  level  meters  that  allow  the  connection  of  interface  or  interconnection  cables, 
+recommendations  for  typical  cable  lengths  and  types  (for  example,  shielded  or 
+unshielded)  and  a  description  of  the  characteristics  of  devices  to  which  the  cables  are 
+expected  to  be  attached. 
+
+
+31 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+o)  For  the  more-sensitive  level  ranges  and  for  each  available  frequency  weighting  and 
+frequency  response,  and  for  reference  environmental  conditions,  the  time-weighted  and 
+time-average  sound  levels,  as  appropriate,  corresponding  to  the  highest  level  of  self- 
+generated  noise.  The  self-generated  noise  shalh  be  that  anticipated  from  the  combination 
+of  a  microphone  of  any  specified  model  and  the  other  components  of  the  sound  level 
+meter.  The  averaging  time  for  time-average  sound  level  sliall  be  stated  and  shall  be  at 
+least  30  s. 
+
+p)  For  electrical  outputs,  the  frequency  weighting,  the  range  of  root-mean-square  voltages 
+for  sinusoidal  output  signals,  the  internal  electrical  impedance  at  the  output,  and  the 
+recommended  range  of  load  impedances. 
+
+9.2.6  Accessories 
+
+a)  A  description  of  the  average  effects  on  the  relevant  characteristics  of  a  sound  level  meter, 
+in  the  absence  of  wind,  of  enclosing  the  microphone  within  a  recommended  windscreen, 
+rain  protection  device,  or  other  accessory  provided  or  recommended  in  the  instruction 
+manual.  Relevant  characteristics  include  directional  response  and  frequency  weightings.  A 
+statement  of  the  performance  class  to  which  the  sound  level  meter  conforms  when  such 
+accessories  are  installed,  or  a  statement  that  the  sound  level  meter  no  longer  conforms  to 
+either  class  1  or  class  2  specifications. 
+
+b)  Corrections  to  be  applied  to  the  results  of  measurements  made,  or  a  procedure  to  be 
+followed,  when  an  optional  extension  device  or  cable  is  placed  between  the  microphone 
+preamplifier  and  the  other  components  of  the  sound  level  meter. 
+
+c)  Information  concerning  the  use  of  the  sound  level  meter  when  equipped  with  bandpass 
+
+filters. 
+
+d)  Information  concerning  connection  of  manufacturer-provided  auxiliary  devices  to  a  sound 
+level  meter  and  the  effects  of  such  auxiliary  devices  on  the  characteristics  of  the  sound 
+level  meter. 
+
+9.2.7  influence  of  variations  in  environmental  conditions 
+
+a)  Identification  of  the  components  of  the  sound  level  meter  intended  to  be  operated  only  In 
+an  environmentally  controlled  enclosure. 
+
+b)  The  effects  of  electrostatic  discharges  on  the  operation  of  the  sound  level  meter.  A 
+statement  of  the  temporary  degradation  or  loss,  if  any,  in  the  performance  or  function  of 
+the  sound  level  meter  resulting  from  exposure  to  electrostatic  discharges.  For  sound  level 
+meters  that  require  internal  access  for  maintenance  by  a  user,  a  statement,  if  needed,  of 
+precautions  against  damage  by  electrostatic  discharges. 
+
+c)  A  statement  that  the  sound  level  meter  conforms  to  the  basic  specification  of  this  standard 
+for  the  required  immunity  to  a.c.  power  frequency  and  radio  frequency  fields.  Alternatively,- 
+if  applicable,  a  statement  of  the  F-time-weighted,  or  time-average  sound  levels  less  than 
+74  dB,  on  all  applicable  level  ranges,  for  which  the  sound  level  meter  conforms  to  the 
+specifications  of  this  standard  upon  exposure  to  a.c.  power  frequency  and  radio  frequency 
+fields.  The  information  shall  include  a  specification  for  the  fnequency  of  the  a.c.  power 
+field. 
+
+9.3        The    instruction    manual    shall    contain    the    following    information    for   testing,    as 
+
+appropriate  to  a  sound  level  meter. 
+
+a)  The  reference  sound  pressure  level. 
+
+b)  The  reference  level  range. 
+
+
+32 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672-1  (2002) 
+
+c)  The  microphone  reference  point  for  the  models  of  microphone  stated  to  be  for  use  with  the 
+sound  level  meter, 
+
+d)  For  the  A-weighted  sound  levels  displayed  in  response  to  the  sound  pressure  produced  by 
+a  calibrated  multi-frequency  sound  calibrator,  or  in  response  to  simulation  of  sound 
+pressure  by  an  electrostatic  actuator,  adjustment  data  to  obtain  A-weighted  sound  levels 
+equivalent  to  the  response  to  plane  sinusoidal  sound  waves  incident  from  the  reference 
+direction  and  at  least  at  the  frequencies  required  for  periodic  testing.  The  model  of  sound 
+calibrator  or  electrostatic  actuator,  for  which  the  adjustment  data  are  valid,  shall  be 
+identified. 
+
+e)  Tables  of  the  nominal  A-weighted  sound  levels  at  the  upper  and  lower  limits  of  the  linear 
+operating  ranges  on  each  level  range.  Sound  levels  shall  be  tabulated  at  frequencies  of 
+31,5  Hz,  1  kHz,  4  kHz,  8  kHz,  and  12,5  kHz  for  class  1  sound  level  meters  and  at 
+frequencies  of  31 ,5  Hz,  1  kHz,  4  kHz,  and  8  kHz  for  class  2  sound  level  meters. 
+
+f)  For  each  frequency  for  which  frequency-weighted  sound  levels  are  specified  at  the  lower 
+and  upper  limits  of  the  linear  operating  ranges,  the  starting  point  at  which  to  begin  tests  of 
+level  linearity  error  on  the  reference  level  range.  At  1  kHz,  the  starting  point  shall  be  the 
+reference  sound  pressure  level. 
+
+g)  For  each  specified  model  of  microphone,  a  description  of  the  electrical  design  goal,  and 
+applicable  tolerance  limits,  for  the  input  device,  or  the  means,  to  insert  electrical  signals 
+into  the  electrical  input  facility. 
+
+h)  For  each  model  of  microphone  for  which  the  sound  level  meter  is  stated  to  conform  to  the 
+specifications,  the  time-weighted  and  time-average  sound  levels,  as  appropriate, 
+corresponding  to  the  highest  anticipated  self-generated  noise  produced  when  the  sound 
+level  meter  is  placed  in  a  low-level  sound  field  and  when  a  specified  electrical  input 
+device,  or  the  specified  means,  is  installed  in  place  of  the  microphone  and  terminated  in  a 
+specified  manner.  The  sound  levels  shall  be  stated  for  the  more-sensitive  level  ranges 
+and  for  each  available  frequency  weighting  and  frequency  response. 
+
+i)  For  each  model  of  microphone  for  which  the  sound  level  meter  is  stated  to  conform  to  the 
+specifications,  the  highest  sound  pressure  level  at  the  microphone,  and  the  greatest  peak- 
+to-peak  voltage  at  the  electrical  input  facility,  that  the  sound  level  meter  is  designed  to 
+accommodate. 
+
+j)  The  maximum  and  minimum  power  supply  voltages  at  which  the  sound  level  meter 
+conforms  to  the  specifications  of  this  standard. 
+
+k)  For  sound  level  meters  that  have  a  display  device  with  an  extent  less  than  the  linear 
+operating  range  on  any  level  range,  the  recommended  means  to  test  level  linearity  error 
+beyond  the  limits  of  the  display  range. 
+
+I)     The  typical  time  interval  needed  to  stabilize  after  changes  in  environmental  conditions. 
+
+m)  If  applicable,  the  unmodulated  root-mean-square  electric  field  strength  greater  than 
+10  V/m  for  which  the  sound  level  meter  conforms  to  the  specifications  of  this  standard. 
+
+n)  The  mode(s)  of  operation  of  the  sound  level  meter,  and  of  any  ponnection  devices  that 
+produce  the  greatest  radio  frequency  emission  levels  on  a  stated  level  range.  A 
+description  of  the  configurations  of  the  sound  level  meter  that  produce  the  same,  or  lower, 
+radio  frequency  emission  levels. 
+
+o)  The  operatrng  mode(s)  of  the  sound  level  meter,  and  of  any  connection  devices,  that  have 
+the  greatest  susceptibility  (least  immunity)  to  a.c.  power  frequency  and  radio  frequency 
+fields,  and  the  corresponding  reference  orientation  of  the  sound  level  meter  relative  to  the 
+principal  direction  of  a  field. 
+
+
+33 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC    61672  -1  <2002) 
+
+
+Annex  A 
+
+(normative) 
+
+Maximum  expanded  uncertainties  of  measurement 
+
+
+A.1  Tolerance  limits  for  electroacoustica!  performance  characteristics  in  this  standard 
+include  allowances  for  the  expanded  uncertainties  of  measurement.  This  annex  gives  the 
+maximum  values  of  expanded  uncertainties  permitted  for  tests  to  demonstrate  conformance  of 
+a  sound  level  meter  to  the  specifications  of  this  standard. 
+
+A. 2  The  tolerance  limits  in  this  standard  include  the  associated  expanded  uncertainties  of 
+measurement  calculated  for  a  coverage  factor  of  2  corresponding  to  a  level  of  confidence  of 
+approximately  95  %,  in  accordance  with  the  guidelines  given  in  the  Guide  to  the  expression  of 
+uncertainty  in  measurement.  The  maximum  expanded  uncertainties  of  measurement  for  the 
+relevant  specifications  are  given  in  table  A.1.  Manufacturers  of  sound  level  meters  may 
+calculate  the  tolerance  limits  available  for  design  and  manufacturing  by  subtracting  the 
+maximum  permitted  expanded  uncertainties  of  measurement  from  the  appropriate  tolerance 
+limits  given  in  this  Part  1  of  lEC  61672. 
+
+Table  A.I  -  Maximum  expanded  uncertainties  of  measurement 
+
+
+Requirement 
+
+Subclause  or  table 
+
+Maximum  expanded 
+uncertainty  of  measurement 
+
+dB 
+
+Directional  response 
+
+table  1;  250  Hz  to  1  kHz 
+
+0,3 
+
+Directional  response 
+
+table  1;  >1  kHz  to  4  kHz 
+
+0,5 
+
+Directional  response 
+
+table  1;  >4  kHz  to  8  kHz 
+
+1,0 
+
+Directional  response 
+
+table  1;  >8  kHz  to  12,5  kHz 
+
+1.5 
+
+Frequency  weightings  A,  C,  Z,  FLAT 
+
+table  2,  5.4.13;  10  Hz  to  200  Hz 
+
+0,5 
+
+Frequency  weightings  A,  C,  2,  FLAT 
+
+table  2,  5.4.13;  >200  Hz  to  1,25  kHz 
+
+0,4 
+
+Frequerrcy  weightings  A,  C,  Z,  FLAT 
+
+table  2,  5.4.13;  >1,25  kHz  to  10  kHz 
+
+0,6 
+
+Frequency  weightings  A,  C,  2,  FLAT 
+
+table  2,  5.4.13;  >10  kHz  to  20  kHz 
+
+1,0 
+
+A  vs  C,  Z,  or  FLAT  at  1  kHz 
+
+5.4.14 
+
+0,2 
+
+Level  Ifnearity  error 
+
+5.5.5 
+
+0,3 
+
+1  dB  to  10  dB  change  in  level 
+
+5.5.6 
+
+0,3 
+
+F  and  S  decay  rates 
+
+5.7.2 
+
+2dB/sforF;  0,4  dB/s  for  S 
+
+F  vs  8  level  at  1  kHz 
+
+5.7.3 
+
+0,2 
+
+Toneburst  response 
+
+5.8.2,  table  3 
+
+0,3 
+
+Repeated  tor^ebursts 
+
+5.9.1,  table  3 
+
+0,3 
+
+Overload  indication 
+
+5.10.3 
+
+0,3 
+
+Peak  C  sound  levels 
+
+5.12.3,  table  4 
+
+0,4 
+
+Electrical  output 
+
+5.16.2 
+
+0,1 
+
+Power  supply  voltage 
+
+5.20.2 
+
+0,2 
+
+Static  pressure  influence 
+
+6.2.1;  6.2.2 
+
+0,3 
+
+Air  temperature  influence 
+
+6.3.3 
+
+0,3 
+
+Humidity  influence 
+
+6.4 
+
+0.3 
+
+AC  and  radio  frequency  fields 
+
+6.6.6 
+
+0,3 
+
+34 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+
+Annex  B 
+
+(informative) 
+
+All  weighting 
+
+
+B.1  The  AU  weighting,  specified  in  [1]  in  the  Bibliography,  is  intended  for  applications  where 
+it  is  desired  to  measure  the  audible  component  of  a  sound  in  the  presence  of  ultrasound.  The 
+relative  response  and  tolerance  limits  of  the  AU  weighting  are  specified  for  frequencies  at 
+nominal  one-third-octave  intervals  from  10  Hz  to  40  kHz. 
+
+
+B.2    When    a    sound    level    meter    is    equipped    with    the 
+measurement  is  designated  an  AU-weighted  sound  level. 
+
+
+AU    weighting,    the    result    of   a 
+
+
+B.3  The  design  goals  for  the  AU  weighting  and  the  associated  tolerance  limits  are  consistent 
+with  the  design  goals  and  tolerance  limits  given  in  table  2  of  this  standard  for  A  weighting  over 
+the  frequency  range  from  10  Hz  to  20  kHz.  A  measurement  of  a  sound  level  with  AU  weighting 
+is  also  a  measurement  of  a  sound  level  with  A  weighting. 
+
+B.4  If  AU-weighted  sound  level  is  to  be  measured,  the  sound  level  meter  should  conform 
+within  the  tolerance  limits  to  the  applicable  specifications  of  this  standard  as  well  as  the 
+specifications  in  [1]  for  the  AU  weighting.  A  different  microphone  may  be  needed  from  the 
+microphone  required  for  the  sound  level  meter  to  conform  just  to  the  specifications  of  this 
+standard. 
+
+
+35 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC    61672  -1  (2002) 
+
+
+Annex  C 
+
+(informative) 
+
+Specifications  for  time-weighting  I  (impulse) 
+
+
+C.I       Introduction 
+
+C.1.1  Various  investigations3  have  concluded  that  time-weighting  I  is  not  suitable  for  rating 
+impulsive  sounds  with  respect  to  their  loudness.  Time-weighting  I  is  also  not  suitable  for 
+assessing  the  risk  of  hearing  impairment,  nor  for  determining  the  'impulsiveness'  of  a  sound. 
+Because  of  the  possibility  of  obtaining  misleading  results,  time-weighting  I  is  not 
+recommended  for  the  purposes  described  above. 
+
+C.1.2  Nevertheless,  time-weighting  I  is  referenced  in  some  documents  and  hence,  for 
+historical  reasons,  time-weighting  I  is  included  in  this  informative  annex,  Recommendations 
+given  here  are  from  I  EC  60651  [3],  except  that  the  frequency  of  the  electrical  toneburst 
+signals  is  4  kHz  for  consistency  with  this  standard  instead  of  2  kHz  as  in  lEC  60651 . 
+
+C.I. 3  For  this  annex,  the  tolerance  limits  allowed  for  design  and  manufacturing  were 
+extended  by  the  maximum  permitted  expanded  uncertainties  of  meiasurement  of  0;3  dB. 
+Actual  expanded  uncertainties  should  be  calculated  by  the  testing  laboratory  for  a  level  of 
+confidence  of  95  %,  using  the  necessary  coverage  factor. 
+
+NOTE  Generally  a  coverage  factor  of  2  approximates  to  a  level  of  confidence  of  95  %,  unless  the  contributions 
+are  such  that  it  is  necessary  to  use  a  different  coverage  factor  to  maintain  the  95  %  level  of  confidence. 
+
+C.I. 4  For  the  optional  I  time  weighting,  testing  laboratories  should  not  perform  tests  to 
+demonstrate  conformance  to  the  recommendations  of  this  annex  if  their  actual  expanded 
+uncertainties  of  measurement  exceed  0,3  dB. 
+
+C.I. 5  Conformance  to  the  recommendations  of  this  annex  is  demonstrated  when  the 
+measured  deviations  from  the  design  goals,  extended  by  the  actual  expanded  uncertainties  of 
+measurement  of  the  testing  laboratory,  lie  fully  within  the  specified  tolerance  limits. 
+Uncertainties  of  measurement  should  be  determined  in  accordance  with  the  Guide  to  the 
+expression  of  uncertainty  in  measurement. 
+
+C.2       General  requirements  for  time-weighting  I 
+
+C.2.1  Specifications  for  time  weighting  I  are  similar  to  those  for  time-weightings  F  and  S 
+except  thaf  the  time  constant  is  different  and  a  special  signal  detector  Is  introduced  after  the 
+signal  is  squared  and  time  weighted.  For  time  weighting  I,  the  design  goal  of  35  ms  for  the 
+time  constant  is  the  same  for  signals  that  increase  or  decrease  wUh  time.  The  detector  acts  to 
+store  the  signal  fed  to  it  for  a  sufficient  time  to  allow  the  l-time-weighted  signal  to  be 
+displayed. 
+
+
+For  example  by  ISO  Technical  Committee  43  (Subcommittee  1,  Study  Group  B). 
+
+36 
+
+
+IS    15575  (Part  1)  :  2005 
+lEC   61672-1  (2002) 
+
+C.2.2  The  onset  time  constant  of  the  special  signal  detector  is  small  compared  with  the 
+35  ms  time  constant.  The  design-goal  decay  rate  of  the  detector  is  2,9  dB/s  with  tolerance 
+limits  of  ±0,8  dB/s  and  ±1,3  dB/s  for  class  1  and  class  2  sound  level  meters,  respectively.  The 
+design-goal  decay  rate  and  the  tolerance  limits  for  design  and  manufacture  correspond 
+approximately  to  a  decay  time  constant  of  1  500  ms  ±  250  ms  and  1  500  ms  ±  500  ms  for 
+class  1  and  class  2  sound  level  meters,  respectively. 
+
+C.2.3  Sound  level  meters  with  time-weighting  I  should  respond  to  single  sinusoidal 
+tonebursts  and  to  sequences  of  sinusoidal  tonebursts  in  accordance  with  the  tests  given  in 
+C.3. 
+
+C.2.4  For  steady  sinusoidal  electrical  input  signals  with  frequencies  from  315  Hz  to  8  kHz, 
+sound  levels  measured  with  time-weightings  F  and  I  should  be  the  same  within  0,4  dB.  For  a 
+single  short  toneburst.  the  sound  level  displayed  with  time-weighting  I  generally  is  greater 
+than  the  sound  level  displayed  with  time-weightings  F  or  S. 
+
+C.3      Tests  of  l-tinfie-weighted  sound  level 
+
+C.3.1  For  single  4  kHz  sinusoidal  electrical  tonebursts  of  specified  durations,  table  C.I  gives 
+the  corresponding  design  goals  for  the  highest  A-frequency-weighted,  l-time-weighted  sound 
+level  relative  to  the  A-weighted  sound  level  displayed  for  the  steady  signal.  Measured 
+deviations  from  the  design  goals,  extended  by  the  actual  expanded  uncertainties  of 
+measurement,  should  be  within  the  applicable  tolerance  limits.  Tonebursts  should  be 
+extracted  from  the  steady  4  kHz  input  signal  that  produces  a  display  of  the 
+A-frequency-weighted  sound  level  stated  in  the  instruction  manual  for  the  upper  limit  of  the 
+reference  level  range. 
+
+Table  C.I  -  Design  goals  for  the  relative  response  of  A-frequency-weighted, 
+l-time-weighted  sound  level  to  single  4  IcHz  tonebursts,  with  tolerance  limits 
+
+
+Toneburst 
+duration  Ti, 
+
+ms 
+
+Highest  response  to  a  toneburst 
+mlnu&the  response  to  a  steady  signal'^ 
+
+dB 
+
+Toleran<!le  limits,  dB 
+
+Class 
+
+1 
+
+2 
+
+20 
+5 
+2 
+
+-3,6 
+-8,8 
+-12,6 
+
+±1.8 
+±2,3 
+±2,3 
+
+±2,3 
+±3.3 
+
+''        Calculated  from  10  lg(1  -  e"^^'^). 
+
+where 
+
+Ttj  is  the  specified  toneburst  duration  in  seconds;  and 
+
+T  is  the  0,035  s  time  constant  for  tinie-weighting  1. 
+
+C.3. 2  For  class  1  sound  level  meters,  when  the  level  of  a  2  ms,  4  kHz  toneburst  is  changed 
+by  10  dB,  the  display  of  the  A-frequency-weighted,  l-time-weighted  sound  level  should  change 
+by  10  dB  ±  1,3  dB.  For  class  2  sound  level  meters,  when  the  level  of  a  5  ms,  4  kHz  toneburst 
+is  changed  by  5  dB,  the  display  of  the  A-frequency-weighted,  l-time-weighted  sound  level 
+should  change  by  5  dB  ±  1,3  dB. 
+
+
+37 
+
+
+IS    15575  {Part  1)  :  2005 
+lEC   61672  -1  (2002) 
+
+
+C,3.3  For  sequences  of  5  ms,  4  kHz  sinusoidal  electrical  tonebursts^  at  the  repetition 
+frequencies  given  In  table  C,2,  table  C.2  gives  the  corresponding  design  goals  for  the  highest 
+A-frequency-weighted,  l-tlme-weighted  sound  fevel  relative  to  the  A-weighted  sound  level 
+displayed  for  the  steady  signal.  Measured  deviations  from  the  design  goals,  extended  by  the 
+actual  expanded  uncertainty  of  measurement,  should  be  within  the  applicable  tolerance  limits. 
+Tonebursts  should  be  extracted  from  a  steady  4  kHz  input  signal  that  produces  a  display  of 
+the  A-frequency-weighted  sound  level  stated  in  the  instruction  manual  for  the  upper  limit  of 
+the  reference  level  range. 
+
+Table  C.2  -  Design  goals  for  the  relative  response  of  A-frequency-weighted,  l-time- 
+weighted  sound  level  to  sequences  of  5  ms,  4  kHz  tonebursts,  with  tolerance  limits 
+
+
+Repetition 
+frequency 
+
+Hz 
+
+Highest  response  to  a  sequence  of  tonebursts 
+minus  the  response  to  a  steady  signal 
+
+dB 
+
+Tolerance  limits 
+
+dB 
+
+Class 
+
+1 
+
+2 
+
+100 
+20 
+2 
+
+-2,7 
+-7.6 
+-8,8 
+
+±1.3 
+±2,3 
+±2.3 
+
+±1.3 
+±2.3 
+±3,3 
+
+C.3.4  For  the  sequence  of  tonebursts  at  a  repetition  frequency  of  2  Hz,  when  the  signal  level 
+is  increased  by  5  dB,  the  display  of  A-frequency-weighted,  l-time-weighted  sound  level  should 
+increase  by  5  dB  ±  1,3  dB. 
+
+C.3,5  The  decay  rate  for  the  special  signal  detector  associated  with  time-weighting  I  should 
+be  tested  by  suddenly  turning  off  a  steady  4  kHz  sinusoidal  electrical  signal  and  observing 
+that  the  decay  of  A-frequency-weighted.  l-time-weighted  sound  level  is  within  the  applicable 
+tolerance  limits  given  in  C.2. 2.  The  steady  signal  should  be  adjusted  to  initially  display  the 
+A-weighted  sound  level  stated  in  the  instruction  manual  for  the  upper  limit  of  the  reference 
+level  range. 
+
+C.3.6  A  sound  level  meter  should  conform  to  the  recommendations  of  C.3.1  and  C.3.3  at 
+10  dB  intervals  from  the  A-weighted  sound  level  stated  in  the  instruction  manual  for  the  upper 
+limit  of  the  reference  level  range  down  to  the  lowest  signal  level  that  can  be  displayed. 
+
+
+38 
+
+
+{Continued  from  second  cover) 
+
+The  concerned  Technical  Committee  responsible  for  the  preparation  of  this  standard  has  reviewed  the 
+provisions  of  the  following  International  Standards  and  has  decided  that  these  are  acceptable  for  use  in 
+conjunction  with  this  standard: 
+
+International  Standard  Title 
+
+ISO  Publication-ISBN  International  vocabulary  of  basic  and  general  terms  in  metrology 
+
+92-67-01075-1 
+
+ISO/IEC  Guide  Expres  :  1995     Guide  to  the  expression  of  uncertainty  in  measurement 
+
+lEC  60050  (801)  (1994)  International  Electrotechnical  Vocabulary  —  Chapter  801  :  Acoustics 
+
+and  electroacoustics 
+
+CISPR-16-1  :  1999  Specification  for  radio  disturbance  and  immunity  measuring  apparatus 
+
+and  methods  —  Part  1  :  Radio  disturbance  and  Immunity  measuring 
+apparatus 
+
+Only  the  English  language  text  in  the  International  Standard  has  been  retained  while  adopting  it  in  this 
+standard. 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  estabiisiied  under  the  Bureau  of  Indian  Standards  Act,  1986  to  promote 
+harmonious  development  of  the  activities  of  standardization,  marking  and  quality  certification  of 
+goods  and  attending  to  connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publications.  No  part  of  these  publications  may  be  reproduced  In  any 
+form  without  the  prior  permission  In  writing  of  BIS.  This  does  not  preclude  the  free  use,  in  the  course 
+of  implementing  the  standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade 
+designations.  Enquiries  relating  to  copyright  be  addressed  to  the  Director  (Publications),  BIS. 
+
+Review  of  Indian  Standards 
+
+Amendments  are  Issued  to  standards  as  the  need  arises  on  the  basis  of  comments.  Standards  are 
+also  reviewed  periodically;  a  standard  along  with  amendments  is  reaffirmed  when  such  review  Indicates 
+that  no  changes  are  needed;  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision. 
+Users  of  Indian  Standards  should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or 
+edition  by  referring  to  the  latest  issue  of  'BIS  Catalogue'  and  'Standards:  Monthly  Additions'. 
+
+This  Indian  Standard  has  been  developed  from  Doc:  No.  LTD  5  (2023). 
+
+Amendments  Issued  Since  Publication 
+
+Amend  No.  Date  of  issue  Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+Headquarters: 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  110002 
+
+Telephones:  2323  01 31 ,  2323  3375,  2323  9402  website  :  www.bls.org.in 
+
+Regional  Offices:  Telephones 
+
+Central       :  Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg  r2323  7617 
+
+NEW  DELHI  110002  1 2323  3841 
+
+Eastern     :  1/14  C.l.T  Scheme  Vll  M,  V.l.R  Road,  Kankurgachi  jr2337  8499,  2337  8561 
+
+KOLKATA  700054  12337  8626,  2337  9120 
+
+Northern    :  SCO  335-336,  Sector  34-A,  CHANDIGARH  160022  r260  3843 
+
+1260  9285 
+
+Southern    :  C.l.T  Campus,  IV  Cross  Road,  CHENNAI  600113  r2254  1216,  2254  1442 
+
+12254  2519,2254  2315 
+
+Western     :  Manakalaya,  E9  MIDC,  Maroi,  Andheri  (East)  r2832  9295,  2832  7858 
+
+MUMBAI  400093  1 2832  7891 ,  2832  7892 
+
+Branches:  AHMEDABAD.  BANGALORE.  BHOPAL  BHUBANESHWAR.  COIMBATORE.  FARIDABAD 
+GHAZIABAD,  GUWAHATI.  HYDERABAD.  JAIPUR.  KANPUR.  LUCKNOW.  NAGPUR. 
+NALAGARH.  PATNA.  PUNE.  RAJKOT  THIRUVANANTHAPURAM.  VISAKHAPATNAM. 
+
+
+Printed  at  Simco  Printing  Press,  Delhi 
+
+

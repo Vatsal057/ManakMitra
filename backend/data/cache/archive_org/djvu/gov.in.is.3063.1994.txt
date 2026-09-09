@@ -1,0 +1,3469 @@
+•••*****•*•••••• 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+'The Right to Information, The Right to Live' 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+IS 3063 (1994) : Fasteners - Single coil rectangular section 
+spring lock washers [PGD 31: Bolts, Nuts and Fasteners 
+Accessories] 
+
+
+
+\*^!iIUZ£^±2^T<!>^lXY&& 
+
+
+
+2$as\ v i i>5ft>5^>«sv: 
+
+
+
+^^\\X^L 
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledg 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+<a^EL 
+
+
+
+
+!**> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 3063 : 1994 
+
+ry ( Reaffirmed 2004 ) 
+
+sfspf? — Trip sjps^ft m$ 3rnT5TPPR #^9R fepr 
+
+( ssnr q^r€t^ror ) 
+
+Indian Standard 
+
+FASTENERS- SINGLE COIL RECTANGULAR 
+SECTION SPRING LOCK WASHERS — 
+SPECIFICATION 
+
+( Second Revision ) 
+
+
+
+Second Reprint OCTOBER 1997 
+UDC 621.882.449 
+
+
+
+© BIS 1994 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARO 
+NEW DELHI 110002 
+
+March 1994 Price Groop 4 
+
+
+
+Bolts, Nuts and Fasteners Accessories Sectional Committee, LM 14 
+
+
+
+FOREWORD 
+
+This Indian Standard ( Second Revision ) was adopted by the Bureau of Indian Standards, after the 
+draft finalized by the Bolts, Nuts and Fasteners Accessories Sectional Committee had been approved by 
+the Light Mechanical Engineering Division Council. 
+
+The rectangular section spring lock washers are suitable for use with bolt/nut assemblies of property 
+class 5*8 or less. For higher property classes other sections such as waveform, conical, etc, are generally 
+used. 
+
+Steel spring lock washers serve to counteract the loss in inherent tension caused by setting or creep 
+of a bolt/nut assembly provided that they are sufficiently resilient to increase the overall resilience of 
+the assembly and that their inherent springiness can compensate for any loss in tension so that the 
+clamping force required to ensure the reliability of the assembly is maintained. 
+
+There may be a relative movement between bolt and nut if the friction between the clamped 
+components is overcome by transverse forces. If this does occur, loosening of the assembly cannot be 
+prevented by spring lock washers. 
+
+Thus, when using these components, it should be checked whether the spring lock washers may usefully 
+be applied as the elements maintaining the clamping force. 
+
+This standard was originally published in 1965 and revised in 1972. In the present revision following 
+major changes have been made: 
+
+a) The title and scope have been modified. 
+
+b) Permanent set test has been modified and aligned with DIN 127 : 1987. 
+
+c) Permanent load test has been incorporated in line with DIN 127 : 1987. 
+
+d) Free height of spring lock washers has been incorporated in the table of dimensions. 
+
+e) Non-preferred sizes have been covered under separate table. 
+
+f) Spring force test has been incorporated in Annex A for information. 
+In preparation of this standard assistance has been derived from: 
+
+DIN 127-1987 'Spring lock washers with square ends or tang ends'. 
+
+DIN 267 ( Part 26 ) : 1987 'Fasteners — Technical supply conditions — Steels spring washer for 
+
+bolt/nut assemblies'. 
+
+
+
+IS 3063 : 1994 
+
+
+
+Indian Standard 
+
+
+
+FASTENERS — SINGLE COIL RECTANGULAR 
+
+SECTION SPRING LOCK WASHERS — 
+
+SPECIFICTAION 
+
+/ Second Revision ) 
+
+
+
+1 SCOPE 
+
+This standard covers requirements for single 
+coil rectangular section spring lock washers 
+suitable for use with bolt/nut assemblies involv- 
+ing fasteners of property class 5*8 or less in the 
+size range 2 to 100 mm. 
+
+2 REFERENCES 
+
+The following Indian Standards are necessary 
+adjuncts to this standard: 
+
+
+
+IS No. 
+
+1501 
+( Part 1 ) : 1984 
+
+
+
+4072 : 1975 
+6821 : 1973 
+
+3 TYPES 
+
+
+
+Title 
+
+Method for vickers hardness 
+test for metallic materials: 
+Part 1 HV 5 to HV 100 
+( second revision ) 
+
+
+
+7 FINISH 
+
+Spring lock washers shall be supplied in natural 
+finish unless otherwise specified by the pur- 
+chaser. At the request of the purchaser washers 
+may be phosphate coated, nickel plated, tinned, 
+electrogalvanized, copper plated or cadmium 
+plated. The functional properties of the spring 
+lock washers shall not be impaired as a result 
+of the protective coatings. These coated 
+washers shall be subjected to appropriate 
+treatment as given in the relevant electroplating 
+standard to avoid hydrogen embrittlement. 
+
+NOTE — The use of hot dip galvanized spring lock 
+washers is not recommended as it entails the loss of 
+physical properties during the process of galvaniz- 
+ing. 
+
+
+
+Steel for spring 
+{first revision ) 
+
+Methods for sampling 
+threaded fasteners 
+
+
+
+washers 8 DESIGNATION 
+
+
+
+non- 
+
+
+
+The spring lock washers shall be of following 
+two types: 
+
+Type A — Spring lock washers with bent 
+( deflected or tang ) ends. 
+
+Type B — Spring lock washers with flat 
+( square ) ends. 
+
+4 DIMENSIONS 
+
+The dimensions of the spring lock washers shall 
+be as given in Tables 1A and IB. 
+
+5 MATERIAL 
+
+The spring lock washers shall be made from 
+suitable steel according to IS 4072 : 1975 to 
+meet the requirements specified. 
+
+6 HEAT TREATMENT 
+
+The spring lock washers after coiling shall be 
+suitably heat treated to a r-ardness of HV 430 
+to 530. 
+
+
+
+The spring lock washers shall be designated by 
+the nomenclature, type, nominal size, the num- 
+ber of this standard and the surface protection, 
+if any. 
+
+Example: 
+
+A spring lock washer of nominal size 
+10 mm, Type A and with phosphate 
+coating shall be designated as follows: 
+
+Spring Lock Washer A10 — IS 3063 
+Phosphate coated 
+
+8.1 In case the spring washer is intended for 
+use with LH thread, the designation shall be 
+modified as follows: 
+
+Spring Lock Washer LH-A 10 IS 3063 
+Phosphate coated 
+
+9 GENERAL REQUIREMENTS 
+
+9.1 The flat faces of washers and the inner and 
+outer peripheries shall be smooth and free from 
+knurling, serrations, die-marks, deep scratches, 
+etc, although slight feed roll marks shall be 
+permissible. 
+
+9.2 Washers shall also be free from burrs, rust, 
+pit marks, loose scale and defects that might 
+affect their serviceability. 
+
+
+
+1 
+
+
+
+IS 3063 : 1994 
+
+
+
+9.3 The clearances and angles of the cut ends 
+shall be in such degree so that the washers do 
+not cause lapping when they are completely 
+compressed and shall not be liable to tangle or 
+link together when in the free condition. 
+
+10 SAMPLING AND ACCEPTANCE 
+
+The sampling and acceptance criteria shall be 
+in accordance with IS 6821 : 1973. 
+
+11 TESTS 
+
+11.1 Hardness Test 
+
+The hardness shall be tested in accordance with 
+IS 1501 ( Part 1 ) : 1984. For checking hardness, 
+the washers shall be lightly ground to assure 
+the removal of a decarburized or plated 
+surface. The values shall be measured, where 
+possible, in the middle of the washer surface at 
+the point of contact with the supporting 
+surface. 
+
+11.2 Permanent Set Test 
+
+The spring lock washer shall be compressed 
+between hardened, flat ground washers ( with a 
+hardness of not less than 60 HRC ) for two 
+minutes using the compression loads specified 
+in Tables 2 A and 2B. 
+
+
+
+after release of 
+values specified 
+
+
+
+The free height of the washers 
+load shall not be less than the 
+in Tables 2A and 2B. 
+
+11.3 Permanent Load Test 
+
+Ten spring lock washers, threaded on a bolt and 
+separated from one another by parallel-faced 
+washers ( hardened to minimum 500 HV ) shall 
+not crack or fracture after 48 hours condition- 
+ing at ambient temperature under the compre- 
+ssion loads specified in Tables 2A and 2B. 
+
+
+
+11.4 Twist Test 
+
+A portion of the washer shall be gripped in vice 
+jaws and then equal portion shall be gripped in 
+wrench jaws as shown in Fig. 1. Edges of the 
+wrench jaws shall be sharp and parallel to the 
+vice jaws. The wrench shall then be rotated in 
+a direction that increases the free height of the 
+spring lock washer till the washer is twisted 
+through an angle of 90°. The washer shall show 
+no sign of fracture. 
+
+12 PACKING 
+
+Unless otherwise specified, spring lock washers 
+shall be packed in cartons of 100, 500 or 1 000. 
+Each carton shall contain spring lock washers 
+of one size only. 
+
+13 MARKING 
+
+13.1 Each carton containing the spring lock 
+washers shall be marked with the following: 
+
+a) Indication of source of manufacture, 
+
+b) Nominal size, 
+
+c) Type, and 
+
+d) Quantity. 
+
+13.2 BIS Certification Marking 
+
+The product may also be marked with Standard 
+Mark. 
+
+13.2:1 The use of the Standard Mark is governed 
+by the provisions of Bureau of Indian Standards 
+Act, 1986 and the Rules and Regulations made 
+thereunder. The details of conditions under 
+which the licence for the use of Standard Mark 
+may be granted to manufacturers or producers 
+may be obtained from the Bureau of Indian 
+Standards. 
+
+
+
+
+fiffl 
+
+
+
+-WRENCH JAW 
+
+f ROTATE 1 
+[CLOCKWISE] 
+
+
+
+VICE JAW 
+
+
+
+Washer in Twisted 
+Condition 
+
+
+
+Fig. 1 Twist Test 
+
+
+
+18 3063:1994 
+
+
+
+Table 1A Dimensions for Spring Washers 
+
+( Clause 4 ) 
+
+
+
+All dimensions in millimetres. 
+
+
+
+
+mfn 
+
+
+
+CHAIN LINE SHOWN 
+FOR FLAT END SPWNG 
+LOCK WASHER 
+
+A (2.5 : 1) 
+
+
+
+
+
+x-x 
+
+
+
+TYPE A TYPE B (RIGHT HANO) 
+
+i — T 
+
+
+
+
+TYPE A TYPE B (LEFT HANO) 
+
+
+
+Nora 
+Size 
+
+
+Basic 
+
+
+
+
+Tol 
+
++ 
+
+
+Max 
+
+
+Basic 
+
+
+b 
+
+
+i * — — 
+
+Basic 
+
+
+s 
+
+^ , 
+
+Tol 
+
+± 
+
+
+r 
+Norn 
+
+
+k* 
+
+
+Weight 
+Approx 
+
+(7*85 
+kg/dm') 
+kg/1000 
+
+pes 
+
+0033 
+
+
+For 
+
+Bolt, 
+
+Not or 
+
+Screw 
+
+Size 
+
+
+
+
+h 
+
+
+
+
+
+
+Tol 
+
++ 
+
+
+Type A 
+Min Max 
+
+
+TypeB 
+
+
+
+
+Min 
+
+
+Max 
+
+
+2»> 
+
+
+2T 
+
+
+
+
+03 
+
+
+44 
+
+
+09 
+
+
+01 
+
+
+05 
+
+
+01 
+
+
+01 
+
+
+— 
+
+
+2 
+
+
+— 
+
+
+
+
+
+1 
+
+
+1*2 
+
+
+22 1 ' *> 
+
+
+23 
+
+
+
+
+03 
+
+
+4*8 
+
+
+1 
+
+
+0*1 
+
+
+0'6 
+
+
+01 
+
+
+01 
+
+
+— 
+
+
+050 
+
+
+■2-2 
+
+
+— 
+
+
+— 
+
+
+12 
+
+
+1*4 
+
+
+2-5 1 * 
+
+
+2-6 
+
+
+
+
+03 
+
+
+5T 
+
+
+1 
+
+
+1 
+
+
+06 
+
+
+0T 
+
+
+01 
+
+
+— 
+
+
+0053 
+
+
+2'5 
+
+
+— 
+
+
+— 
+
+
+1"2 
+
+
+1"4 
+
+
+3 1 ) 
+
+
+31 
+
+
+
+
+0*3 
+
+
+62 
+
+
+1*3 
+
+
+01 
+
+
+08 
+
+
+01 
+
+
+02 
+
+
+015 
+
+
+011 
+
+
+3 
+
+
+1*9 
+
+
+21 
+
+
+1"6 
+
+
+1*9 
+
+
+4 
+
+
+4'1 
+
+
+
+
+03 
+
+
+76 
+
+
+15 
+
+
+01 
+
+
+09 
+
+
+01 
+
+
+02 
+
+
+015 
+
+
+018 
+
+
+4 
+
+
+2 1 
+
+
+2'5 
+
+
+1'8 
+
+
+21 
+
+
+5 
+
+
+51 
+
+
+
+
+03 
+
+
+9'2 
+
+
+T8 
+
+
+o-i 
+
+
+T2 
+
+
+01 
+
+
+02 
+
+
+0T5 
+
+
+036 
+
+
+5 
+
+
+2*7 
+
+
+3 '2 
+
+
+24 
+
+
+2'8 
+
+
+6 
+
+
+61 
+
+
+
+
+0-4 
+
+
+118 
+
+
+2-5 
+
+
+015 
+
+
+16 
+
+
+01 
+
+
+03 
+
+
+02 
+
+
+0'83 
+
+
+6 
+
+
+3 6 
+
+
+42 
+
+
+3*2 
+
+
+38 
+
+
+8 
+
+
+81 
+
+
+
+
+04 
+
+
+14'8 
+
+
+3 
+
+
+015 
+
+
+2 
+
+
+01 
+
+
+05 
+
+
+03 
+
+
+160 
+
+
+8 
+
+
+46 
+
+
+54 
+
+
+4 
+
+
+4'7 
+
+
+10 
+
+
+102 
+
+
+
+
+05 
+
+
+181 
+
+
+35 
+
+
+02 
+
+
+2"2 
+
+
+015 
+
+
+05 
+
+
+03 
+
+
+253 
+
+
+10 
+
+
+5 
+
+
+59 
+
+
+4*4 
+
+
+52 
+
+
+12 
+
+
+12'2 
+
+
+
+
+05 
+
+
+211 
+
+
+4 
+
+
+02 
+
+
+2-5 
+
+
+015 
+
+
+10 
+
+
+04 
+
+
+3-82 
+
+
+12 
+
+
+58 
+
+
+68 
+
+
+5 
+
+
+59 
+
+
+16 
+
+
+162 
+
+
+
+
+08 
+
+
+274 
+
+
+5 
+
+
+02 
+
+
+35 
+
+
+02 
+
+
+TO 
+
+
+04 
+
+
+891 
+
+
+16 
+
+
+78 
+
+
+9 2 
+
+
+7 
+
+
+8*3 
+
+
+20 
+
+
+20-2 
+
+
+
+
+I 
+
+
+336 
+
+
+6 
+
+
+02 
+
+
+4 
+
+
+02 
+
+
+10 
+
+
+04 
+
+
+15'2 
+
+
+20 
+
+
+88 
+
+
+10*4 
+
+
+8 
+
+
+94 
+
+
+24 
+
+
+24-5 
+
+
+
+
+1 
+
+
+40 
+
+
+7 
+
+
+0*25 
+
+
+5 
+
+
+02 
+
+
+16 
+
+
+05 
+
+
+26'2 
+
+
+24 
+
+
+11 
+
+
+13 
+
+
+10 
+
+
+11*8 
+
+
+30 
+
+
+305 
+
+
+
+
+T2 
+
+
+48-2 
+
+
+8 
+
+
+025 
+
+
+6 
+
+
+2 
+
+
+1'6 
+
+
+08 
+
+
+44 3 
+
+
+30 
+
+
+136 
+
+
+161 
+
+
+12 
+
+
+142 
+
+
+36 
+
+
+36'5 
+
+
+
+
+12 
+
+
+58'2 
+
+
+10 
+
+
+025 
+
+
+6 
+
+
+02 
+
+
+16 
+
+
+08 
+
+
+67"3 
+
+
+36 
+
+
+13'6 
+
+
+161 
+
+
+12 
+
+
+142 
+
+
+42') *> 
+
+
+425 
+
+
+
+
+17 
+
+
+682 
+
+
+12 
+
+
+025 
+
+
+7 
+
+
+025 
+
+
+2 
+
+
+0'8 
+
+
+111 
+
+
+42 
+
+
+15*6 
+
+
+18*4 
+
+
+14 
+
+
+165 
+
+
+48') 2) 
+
+
+49 
+
+
+
+
+15 
+
+
+75 
+
+
+12 
+
+
+025 
+
+
+7 
+
+
+025 
+
+
+2 
+
+
+08 
+
+
+123 
+
+
+48 
+
+
+156 
+
+
+184 
+
+
+14 
+
+
+165 
+
+
+52 l > 2 < 
+
+
+53 
+
+
+
+
+15 
+
+
+83 
+
+
+14 
+
+
+0'25 
+
+
+8 
+
+
+025 
+
+
+2 
+
+
+
+
+182 
+
+
+52 
+
+
+18 
+
+
+21-2 
+
+
+16 
+
+
+18'9 
+
+
+56*> 2 » 
+
+
+57 
+
+
+
+
+15 
+
+
+87 
+
+
+14 
+
+
+025 
+
+
+8 
+
+
+025 
+
+
+2 
+
+
+
+
+193 
+
+
+56 
+
+
+18 
+
+
+2f2 
+
+
+16 
+
+
+189 
+
+
+60 J > 2 > 
+
+
+61 
+
+
+
+
+1*5 
+
+
+91 
+
+
+14 
+
+
+0-25 
+
+
+8 
+
+
+0'25 
+
+
+2 
+
+
+
+
+203 
+
+
+60 
+
+
+18 
+
+
+21"2 
+
+
+16 
+
+
+189 
+
+
+64 1 ' «> 
+
+
+65 
+
+
+
+
+1*5 
+
+
+95 
+
+
+14 
+
+
+0-25 
+
+
+8 
+
+
+0'25 
+
+
+2 
+
+
+
+
+218 
+
+
+64 
+
+
+18 
+
+
+212 
+
+
+16 
+
+
+189 
+
+
+68 1 * 8 > 
+
+
+69 
+
+
+
+
+15 
+
+
+99 
+
+
+14 
+
+
+025 
+
+
+8 
+
+
+0-25 
+
+
+2 
+
+
+
+
+228 
+
+
+68 
+
+
+18 
+
+
+21'2 
+
+
+16 
+
+
+189 
+
+
+72*> *> 
+
+
+73 
+
+
+
+
+1-5 
+
+
+103 
+
+
+14 
+
+
+025 
+
+
+8 
+
+
+0-25 
+
+
+2 
+
+
+
+
+240 
+
+
+72 
+
+
+18 
+
+
+21*2 
+
+
+16 
+
+
+18*9 
+
+
+80 1 ) 2 > 
+
+
+81 
+
+
+
+
+1'5 
+
+
+111 
+
+
+14 
+
+
+25 
+
+
+8 
+
+
+0-25 
+
+
+2 
+
+
+
+
+262 
+
+
+80 
+
+
+18 
+
+
+21*2 
+
+
+16 
+
+
+18*9 
+
+
+90 1 ) 2 > 
+
+
+91 
+
+
+
+
+15 
+
+
+121 
+
+
+14 
+
+
+025 
+
+
+8 
+
+
+025 
+
+
+2 
+
+
+
+
+290 
+
+
+90 
+
+
+18 
+
+
+212 
+
+
+16 
+
+
+189 
+
+
+100 1 ' 2 > 
+
+
+101 
+
+
+
+
+1"5 
+
+
+131 
+
+
+14 
+
+
+025 
+
+
+8 
+
+
+025 
+
+
+2 
+
+
+
+
+318 
+
+
+100 
+
+
+18 
+
+
+21'2 
+
+
+16 
+
+
+189 
+
+
+2) Test values 
+
+
+foi 
+
+
+the spring force test as 
+
+
+described 
+
+
+in Annex A have not as yet been specified for these nominal sizes 
+
+
+
+
+
+
+
+
+*> Test values 
+
+
+for 
+
+
+the permanent 
+
+
+set test h 
+
+
+ave not as yet been specified for these 
+
+
+nomina 
+
+
+sizes. 
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE 
+
+
+— Dimensions specified apply before coating. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*The bend k sh 
+
+
+all be mad 
+
+
+e on the 
+
+
+last tenth of the washer circumference 
+
+
+without 
+
+
+any sharp angle. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+IS 3063 : 1994 
+
+
+
+Table IB Dimensions for Spring Washers of Non-preferred Sizes 
+
+( Clause 4 ) 
+
+
+
+All dimensions in millimetres. 
+
+
+
+Nom 
+
+Size 
+
+
+
+3"5 l » 
+
+7«> 
+14 
+18 
+22 
+27 
+33 
+39M *) 
+
+45D «) 
+
+
+
+l >*_ 
+
+Basic 
+
+
+
+Tol 
+
++ 
+
+
+
+36 
+7 1 
+142 
+182 
+225 
+275 
+335 
+395 
+455 
+
+
+
+03 
+04 
+05 
+08 
+1 
+1 
+
+12 
+12 
+.1-2 
+
+
+
+K 607 min 
+
+
+
+-t- 
+
+
+
+
+— k 
+
+
+
+CHAIN LINE SHOWN 
+FOR FLAT END SPRING 
+LOCK WASHER 
+
+A (2.5 : 1) 
+
+
+
+
+r 
+
+-X- *d2 
+
+
+
+Jfc 
+
+
+
+_ h. 
+
+
+
+
+x-x 
+
+
+
+TYPE A TYPE B (RIGHT HAND) 
+
+
+
+
+TYPE A TYPE 8 (LEFT HAND) 
+
+
+
+Max 
+
+
+
+67 
+12'8 
+24-1 
+294 
+35'9 
+43 
+55'2 
+612 
+712 
+
+
+
+Basic 
+
+
+
+13 
+
+25 
+
+4'5 
+
+5 
+
+6 
+
+7 
+10 
+10 
+12 
+
+
+
+Tol 
+
++ 
+
+
+
+01 
+
+015 
+
+02 
+
+02 
+
+02 
+
+25 
+
+025 
+
+025 
+
+025 
+
+
+
+Basic 
+
+
+
+08 
+
+16 
+
+3 
+
+35 
+
+4 
+
+5 
+
+6 
+
+6 
+
+7 
+
+
+
+Tol 
+
++ 
+
+
+
+01 
+
+01 
+
+015 
+
+0'2 
+
+02 
+
+02 
+
+0-2 
+
+0:2 
+
+025 
+
+
+
+Nom 
+
+
+
+02 
+03 
+10 
+10 
+10 
+16 
+16 
+1'6 
+2 
+
+
+
+k* 
+
+
+
+015 
+
+0-2 
+
+04 
+
+04 
+
+04 
+
+05 
+
+08 
+
+08 
+
+8 
+
+
+
+Weight 
+Approx 
+(T85 
+kg/am 8 ) 
+kg/1000 
+pes 
+012 
+093 
+601 
+9-73 
+165 
+28'7 
+630 
+71 -7 
+117 
+
+
+
+For 
+
+Bolt, 
+
+Not or 
+
+Screw 
+
+Size 
+
+35 
+7 
+14 
+18 
+22 
+27 
+33 
+39 
+45 
+
+
+
+Type A 
+Min Max 
+
+
+
+h 
+
+
+
+19 
+
+36 
+
+68 
+
+78 
+
+88 
+
+11 
+
+13-6 
+
+136 
+
+156 
+
+
+
+2-2 
+
+4-2 
+
+8 
+
+92 
+104 
+13 
+161 
+161 
+184 
+
+
+
+*> Test values for the spring force test as described in Annex A have not yet been specified for these nominal sizes. 
+*> Test values for the permanent set test have not as yet been specified for these nominal sizes. 
+
+NOTE — Dimensions specified apply before coating. 
+
+♦The bend k shall be made on the last tenth of the washer circumference without any sharp angle. 
+
+
+
+TypeB 
+
+
+
+Min 
+
+16 
+
+3"2 
+
+6 
+
+7 
+
+8 
+
+10 
+12 
+12 
+14 
+
+
+
+Max 
+
+1-9 
+3 8 
+71 
+8"3 
+9*4 
+
+1V8 
+
+142 
+
+142 
+
+165 
+
+
+
+IS 3063 : 1994 
+
+
+
+Table 2A Compression Load and Free 
+Height of Washers After Compression 
+
+( Clauses 1 1.2 and 11.3 ) 
+
+
+
+linal Size 
+
+
+Compression 
+Load 
+
+
+mm 
+
+
+N 
+
+
+2 
+
+
+700 
+
+
+2'5 
+
+
+1 160 
+
+
+3 
+
+
+1 760 
+
+
+4 
+
+
+3 050 
+
+
+5 
+
+
+5 050 
+
+
+6 
+
+
+7 050 
+
+
+8 
+
+
+12 900 
+
+
+10 
+
+
+20 600 
+
+
+12 
+
+
+30 000 
+
+
+16 
+
+
+56 300 
+
+
+20 
+
+
+88 000 
+
+
+24 
+
+
+127 000 
+
+
+30 
+
+
+204 000 
+
+
+36 
+
+
+298 000 
+
+
+
+Minimum Free 
+Height 
+
+mm 
+
+0*8 
+
+1 
+
+1"3 
+
+14 
+
+19 
+
+2-6 
+
+3'2 
+
+3 5 
+
+4 
+
+5"6 
+
+6"4 
+
+8 
+
+9 6 
+
+9-6 
+
+
+
+Table 2B Compression Load and Free 
+
+Height of Washers of Non-Preferred 
+
+Sizes After Compression 
+
+( Clauses U. 2 and 11.3 ) 
+
+
+
+Nominal Size 
+
+mm 
+
+7 
+
+14 
+18 
+
+22 
+27 
+33 
+
+
+
+Compression 
+Load 
+
+N 
+9 000 
+
+41 300 
+
+69 000 
+
+110 000 
+
+167 000 
+
+255 000 
+
+
+
+ANNEX A 
+( Foreword and Tables 1A and IB ) 
+
+SPRING FORCE TEST 
+
+
+
+Minimum Free 
+Height 
+
+mm 
+26 
+
+4 8 
+
+5'6 
+
+6-4 
+
+
+
+96 
+
+
+
+A-l SPRING FORCE TEST 
+
+A spring force test may be carried out in order 
+to assess the springiness of spring washers, this 
+test permitting the residual spring force to be 
+determined. 
+
+Place the washer to be tested in a test device 
+and apply the compression load specified in 
+Tables 4A and 4B the test device being designed 
+to permit as uniform an application of the load 
+as possible. The pressure platen shall have a sur- 
+face hardness of at least 60 HRC. After two 
+minutes, the load applied to the spring washer 
+shall be slowly and steadily released through a 
+travel of 20 ^m, which shall be measured using 
+a precision measuring device ( see A-2 ). 
+
+The residual spring force shall reach the values 
+specified in Tables 4A and 4B due allowance 
+being made for any deformation of the test 
+device. 
+
+The Explanatory Notes describe a suitable test 
+device and include examples of spring 
+characteristics. 
+
+The residual spring force values represent pro- 
+visional specifications, with which experience 
+has to be gained. Table 3 summarizes the residual 
+spring forces required. 
+
+
+
+Table 3 Residual Spring Force 
+
+( Clause A-l ) 
+
+
+
+Type of Compression Load 
+
+Washer Corresponding 
+
+to the Proof 
+
+Load for 
+
+Property 
+
+Class 
+
+
+
+6-8 *> 
+
+
+
+Residual Spring Force 
+After Release Through 
+Travel of 20 y.m as 
+a Percentage of 
+the Compre- 
+ssion Load 
+
+20% for nominal sizes 
+4 to 5 
+
+30% for nominal sizes 
+6 to 12 
+
+40% for nominal sizes 
+14 to 20 
+
+50% for nominal sizes 
+above 20 
+
+J > Spring lock washers which are only intended for 
+bolt/nut assemblies involving fasteners of a pro- 
+perty class less than 68 are also to be tested at 
+compression loads corresponding to property 
+class 6'8 proof loads. 
+
+
+
+Spring 
+lock 
+washer 
+
+as specified in 
+IS 3063 
+
+
+
+A-2 EXPLANATORY NOTES TO SPRING 
+FORCE TEST 
+
+The residual spring forces specified are based 
+on tests and the relevant technical literature, 
+but are not as yet sufficiently substantiated for 
+them to be made mandatory for acceptance 
+inspection at present. Before mandatory data 
+
+
+
+IS 3063 : 1994 
+
+
+
+can be specified, further experience and test 
+results are needed to obtain a statistically 
+substantiated evaluation. 
+
+The same compression loads used for the perma- 
+nent set and permanent load tests apply as for 
+the spring force test. 
+
+When determining the spring characteristic of 
+spring lock Washers as part of the spring force 
+test, the effect of the elastic deformation of the 
+test device is to be allowed for by deducting 
+the spring travel originating in the test device 
+from the overall travel ( i.e. that of spring' 
+washer and test device ). The relief characteris- 
+tic for the test device is to be determined as 
+follows. 
+
+Place a plain washer instead of a spring washer 
+in the test device ( see Fig. 2 for example ), the 
+plain washer being lapped on both sides and 
+having a tolerance on parallelism not exceeding 
+1 jim and a hardness of not less than 700 HV. 
+The washer dimensions (inside diameter, out- 
+side diameter and thickness ) shall be identical 
+to those of the spring washer to be tested. Plot 
+the relief characteristic of the test device start- 
+ing at the compressions loads specified in 
+Tables 4A and 4B. It is essential that parallel 
+faced washers having the same dimensions as 
+the spring lock washers to be tested be used 
+when recording the relief characteristic of the 
+test device, as different-sized washers will give 
+different characteristics. 
+
+In Fig. 3, the continuous line represents the 
+total relief characteristic of spring lock washer 
+plus test device for a IS 3063 — A12 — Steel 
+spring lock washer measured under a com- 
+pression load of 30 kN, and the dashed line, the 
+relief characteristic of device only. A segment 
+of the relief characteristic of the spring lock 
+washer obtained by subtraction of the two 
+curves is plotted as a chain line. 
+
+To avoid any reversibility error of the force 
+measuring device and the travel gauge, the 
+values of compression load specified in 
+Tables 2A and 2B may be exceeded by 5% when 
+applying the load. The starting point for mea- 
+suring the 20 ^m travel shall however, be the 
+compression load specified ( see Fig. 4 ). 
+
+Although the 20 /im travel is in most cases 
+larger than the probable amount of setting of a 
+bolt/nut assembly due to surface roughness and 
+coatings, this travel can be reproduced in the 
+test with relatively greater accuracy than a 
+5 |im or 10 ^m travel. 
+
+Thus, the residual spring forces given in Tables 
+4A and 4B represent lower limit values for the 
+clamping forces of bolt/nut assemblies exhibit- 
+ing an exceptionally high degree of setting at 
+parting lines. The free height of spring lock 
+washers after removal of the proof load, which 
+
+
+
+Table 4A Compression Loads and Minimum 
+Residual Spring Force 
+
+( Clauses A- 1 and A-2 ) 
+
+
+
+Nomina) Size 
+
+
+Compression Load l > 
+
+
+Minimum 
+Residual Spring 
+Force 
+
+
+mm 
+
+
+
+
+N 
+
+
+
+
+N 
+
+
+4 
+
+
+
+
+3 050 
+
+
+
+
+600 
+
+
+5 
+
+
+
+
+5 050 
+
+
+
+
+1000 
+
+
+6 
+
+
+
+
+7 050 
+
+
+
+
+2 100 
+
+
+8 
+
+
+
+
+12 900 
+
+
+
+
+3 900 
+
+
+10 
+
+
+
+
+20 600 
+
+
+
+
+6 200 
+
+
+12 
+
+
+
+
+30 000 
+
+
+
+
+9 000 
+
+
+16 
+
+
+
+
+56 300 
+
+
+
+
+22 500 
+
+
+20 
+
+
+
+
+88 000 
+
+
+
+
+35 200 
+
+
+24 
+
+
+
+
+127 000 
+
+
+
+
+63 000 
+
+
+30 
+
+
+
+
+204 000 
+
+
+
+
+102 000 
+
+
+36 
+
+
+
+
+298 000 
+
+
+
+
+149 000 
+
+
+X) Correspond! 
+
+
+ing 
+
+
+to property class 6'8, 
+
+
+
+
+
+Table 4B Compression Loads and Minimum 
+
+Residual Spring Force of Washers of 
+
+Non-Preferred Sizes 
+
+( Clauses A-l and A-2 ) 
+
+
+
+Nominal Size 
+
+mm 
+
+
+Compression Load 
+
+N 
+
+
+Minimum 
+
+Residual Spring 
+
+Force 
+
+N 
+
+
+14 
+
+
+41 300 
+
+
+16 500 
+
+
+18 
+
+
+69 000 
+
+
+27 600 
+
+
+22 
+
+
+110 000 
+
+
+55 000 
+
+
+27 
+
+
+167 000 
+
+
+83 000 
+
+
+33 
+
+
+255 000 
+
+
+127 0CO 
+
+
+
+was previously the sole spring characteristic 
+specified, gives only little indication of the 
+ability of a spring lock washer to counteract 
+the loosening of a bolt/nut assembly, as the 
+greatest relief travels are in the very flat seg- 
+ment of the characteristic where the forces are 
+very small. The curve plotted in Fig. 3, which 
+covers a relief travel of 0-2 mm does not reach 
+zero force until after a total relief travel of 
+approximately 3*5 mm. 
+
+This shows that, though basically simple, the 
+test device must satisfy a number of require- 
+ments if valid, reproducible and repeatable 
+results are to be obtained. Figure 2 illustrates a 
+test device suitable for both electrical and 
+mechanical measurements of travel. For 
+component(s) of the test device the following 
+specifications apply: 
+
+1) Low resilience and, if possible, only 
+( elastic ) compressive deformation with- 
+out flexural deformation of the complete 
+test device, in particular in the zone 
+where the force is transmitted from the 
+pressure platen to the bearing plate and 
+the upper part of the pedestal. 
+
+
+
+IS 3063 : 1994 
+
+
+
+
+press ure platen 
+
+(hardness not less than 60 hrc) 
+
+bearing plate measuring 
+
+{hardness not less than £!£. 
+
+60 HRC) 
+CENTRING PINS CENTRING DEVICE 
+
+
+
+SLEEVE 
+
+
+
+TRAVEL GAUGE 
+
+
+
+r~M 
+
+
+
+
+Fig. 2 Example of Test Device 
+
+
+
+30 
+
+
+
+kN 
+
+
+
+20 
+
+
+
+U v 
+
+ac X 
+O 
+
+
+
+10 
+
+
+
+n 
+i\ 
+
+
+
+
+
+
+RELIEF CHARACTERISTIC OF SPRING LOCK 
+/WASHER 
+
+
+\\ 
+
+
+
+
+
+
+i \ 
+
+
+
+
+RELIEF CHARACTERISTIC OF TEST DEVICE 
+
+
+1 
+
+
+
+
+~7 TOTAL RELIEF CURVE 
+
+
+i ' 
+
+
+k >v / 
+
+
+
+
+\ 
+
+
+
+
+
+
+
+
+V 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V 
+\ 
+
+\ 
+
+
+^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 40 60 80 100 120 140 160 180 M" 1 200 
+
+TRAVEL — 
+
+Fig. 3 Determination of Spring Characteristic ( Relief Characteristic ) 
+for a Spring Lock Washer A12 — IS 3063 Stebl, 
+( Using a Compression Load of 30 kN ) 
+
+
+
+IS 3063 : 1994 
+
+
+
+2) Centric bore in the pedestal permitting 
+the passage of the measuring pin of the 
+travel gauge and that of the sleeve 
+specified under item 3. 
+
+3) Fastening of travel gauge using a sleeve 
+exactly at the same height as the upper 
+face of the bearing plate so as to ensure 
+that the error resulting from the inherent 
+formation of the gauge is as small as 
+possible. 
+
+4) Bearing plate and sleeve removable, so 
+that bearing plates for different washer 
+diameters can be used. 
+
+5) All surfaces via which the force is applied 
+and the deformations of which are includ- 
+ed in the travel measurements shall have 
+a roughness, R a , not exceeding 0-4 
+( corresponding to R x not exceeding 1-6 ). 
+
+6) The bearing plate and the pressure platen 
+
+
+
+shall have a hardness of not less than 
+60 HRC. 
+
+7) The pressure platen shall be guided so as 
+to be parallel to the bearing plate, a 
+useful feature being a play of some 
+tenths of a millimetre in the plane of the 
+bearing plate to compensate for small 
+elastic forces ( this is generally provided 
+for in universal testing machines ). 
+
+8) The compression load shall be adjustable 
+to within 2% and it shall be possible to 
+read the residual spring force to within 
+
+2%. 
+
+9) The dial indicator, the inductive travel 
+gauge or any other travel gauge used may 
+only have a relative repeatability error 
+and reversibility error not exceeding 1 ^m 
+for any partial measuring range of 40 /xm, 
+the direction of movement of the 
+measuring pin being away from the gauge. 
+
+
+
+COMPRESSION LOAD FOR 
+CONICAL SPRING WASHERS 
+
+
+
+COMPRESSION LOAD FOR 
+SPRING LOCK WASHERS 
+
+COMPRESSION LOAD FOR 
+SPRING WASHERS 
+
+
+
+§40 
+
+a. 
+MINIMUM RESIDUAL SPRING F ORCE •» 
+FOR CONICAL SPRING WASHERS 
+
+
+
+MINIMUM RESIDUAL SPRING FORCE 
+FOR SPRING LOCK WASHERS 
+
+
+
+MINIMUM RESIDUAL SPRING FORCE 
+FOR SPRING WASHERS 
+
+
+
+
+CONICAL SPRING 
+WASHERS 
+
+
+
+SPRING LOCK 
+WASHERS 
+
+
+
+SPRING WASHERS 
+
+
+
+io 20 SQfimAQ 
+RELIEF TRAVEL — 
+
+Fig. 4 Graphs Representing Relief Travels and Residual Spring 
+Forces for Various Spring Washer ( Nominal Size 16 ) 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods and 
+attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publication), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue 
+of 'BIS Handbook' and 'Standards Monthly Additions'. 
+
+This Indian Standard has been developed from Doc: No. LM 14 ( 5207 ). 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters: 
+
+
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+Telephones: 323 01 31, 323 33 75, 323 94 02 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C.I.T. Scheme VII M, V.I.P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 335-336, Sector 34- A, CHANDIGARH 160022 
+
+
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 6001 13 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400093 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATL 
+HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+PATNA. PUNE. THIRUVANANTHAPURAM. 
+
+
+
+Telegrams: Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+323 76 17, 323 38 41 
+
+
+
+f337 84 99,337 8561 
+1337 86 26,337 9120 
+
+
+
+{ 
+
+
+
+60 38 43 
+60 20 25 
+
+
+
+f 235 02 16, 235 04 42 
+12351519,235 2315 
+
+f 832 92 95, 832 78 58 
+1832 78 91,832 78 92 
+
+
+
+Printed by Reprography Unit, BIS, New Delhi 
+
+
+

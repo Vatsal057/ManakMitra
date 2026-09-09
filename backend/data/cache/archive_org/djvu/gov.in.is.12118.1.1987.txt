@@ -1,0 +1,725 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 12118-1 (1987) : Two-part polysulphide- based sealants - 
+Specification, Part 1: General requirements [CED 13: 
+Building Construction Practices including Painting, 
+Varnishing and Allied Finishing] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&Vi ilW^K-^i^^^ T ^bi^ nVF^f 
+
+
+
+::^^s^\n%i9^j^/;s^>^^^^ 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS: 12118 (Parti) -1987 
+
+( Reaffirmed 2002 ) 
+
+
+
+Indian Standard 
+
+SPECIFICATION FOR 
+TWO-PART POLYSULPHIDE-BASED SEALANTS 
+
+PART 1 GENERAL REQUIREMENTS 
+
+
+
+( Fiist Reprint JANUARY 1998 ) 
+UDC 691.587.7 : 671^.046.73 
+
+
+
+^Copyright 1987 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN. 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+Gr 2 December 1987 
+
+
+
+IS 1 12118 ( Part 1 ) - 1987 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+TWO-PART POLYSULPHIDE-BASED SEALANTS 
+
+PART 1 GENERAL REQUIREMENTS 
+
+
+
+Building Construction Practices Sectional Committee, BDC 13 
+
+
+
+Chdirtwut 
+Shbx Soshix. Kumar 
+
+Mtmbers 
+AddxtionaXi Arcbitbot 
+
+Joint Dirbctor, Architec- 
+ture ( Alttmate ) 
+Shri p. D. Aoabwal 
+
+
+
+National Buildings Construction Corporation Ltd, 
+New Delhi 
+
+
+
+Research, Designs and Standards Organisation 
+( Ministry oT Railways ), Lucknow 
+
+
+
+Public Works Department, Government of Uttar 
+Pradesh, Lucknow 
+SupbbiKtbndino Enoineeb ( Aitemait ) 
+Shbi B. K. Chaeraborty Housing and Urban Development Corporation Ltd, 
+
+New Delhi 
+Shri V. K. Grovbr ( Alternate ) 
+Chief Engineer ( Bldos ) Public Works Department, Government of 
+
+Tamil Nadu, Madras 
+Superintending Enoinebb ( AUemaU ) 
+
+
+
+Chief Engineer 
+
+Superintending Engineer 
+( S & S ) {-Alternate) 
+Chief Engineer ( Training ) 
+Superintending Engineer 
+( Training ) ( Alternate ) 
+Chief Enoinebk 
+
+Dr M.P. Dhir 
+
+ShriS.S. GiLii 
+
+Shri A. V. Gopalkrishna 
+
+Maj V. K. Suri ( Alternate ) 
+Shri M. Kartikayan 
+
+
+
+of 
+
+
+
+Public Works Department, Government 
+Rajastban, Jaipur 
+
+
+
+Central Public Works Department, New Delhi 
+
+Public Works Department, Government of 
+
+Arunachal Pradesh 
+Central Road Research Institute ( CSIR ), 
+
+New Delhi 
+Public Works Department, Government of Punjab, 
+
+Chandigarh 
+Engineer-in-Chief*8 Branch, Army Headquarters, 
+
+New Delhi 
+
+Builder's Association of India, New Delhi 
+
+( Continued on page 2 ) 
+
+
+
+© Cofsnight 1987 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whol*? or in pan by any means except with written permission ol" the 
+publisher shall be deemed to be ao infringement of copyright under the said Act. 
+
+
+
+18 1 12118 ( Part 1 )- 1987 
+
+( Continutd fiotn pagt 1 ) 
+
+M$mb4rs R€pf€s«nting 
+
+Sbbz R. L. KuiCAB Institution ofSurve>on, New Delhi 
+
+Shri V. G. Patwardhak ( Alt^matt ) 
+Shbi R. C. Makoax. Central Building Research Institute ( CSIR ) , 
+
+Roorkee 
+
+Shri M. P. Jaisi^toh ( Ali0rnai§ ) 
+Shbi H. N. Mishba Forest Research Institute & Colleges, Dehra Dun 
+
+Shbi K. S. Pbuthi ( AlttmaU ) 
+Shbi M. N. Rajabaman Raxnan Brothers, Madras 
+
+Shbi A. S. Vasax ( Altemai* ) 
+Shbi S. G. Ranadivb Indian Institute of Architects, Bombay 
+
+Shbi Rummy Shboft ( Alt^mait ) 
+Shbi T. S. Ratvah Bureau of Public Enterprises ( Ministry of Finance ), 
+
+New Delhi 
+
+Shbi P. R. Kalba ( AlUTnat$ ) 
+Rbpbbsibmtativb Bhabha Atomic Research Centre, Bombay 
+
+RzpBBSEirrATiyB Hindustan Prefab Ltd, New Delhi 
+
+Shri H. S. Pasbioha {Alt^tnaU ) 
+Repbbskntativb National Industrial Development Corporation Ltd, 
+
+New Delhi 
+
+Shbi G. B. Jahaoibdab ( AlternaU ) 
+Shbi P. K. Sinqha Roy State Bank of India, Bombay 
+
+Shbi K. S. Srikivasak National Buildings Organization, J^^ew Delhi 
+
+DiBPUTY DiRBOTOB ( AlUfnaU ) 
+Shbi K. Balbir Sinoh Life Insurance Corporation of India, Bombay 
+
+Shri M. V. Bhidk ( Alttmatt ) 
+Shbi S. R. Tambb Public Works and Housing Department ( PWD ), 
+
+Bombay 
+Shbi B. T. Unwalla The Institution of Engineers ( India ), Calcutta 
+
+Shbi G. Raman, Director General, BIS ( Ex-officio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shbi A. K. Saini 
+Deputy Director ( Civ Engg ), BIS 
+
+
+
+Joints in Structure Subcommitt^, BDC 13 : 14 
+
+ConoenMT 
+Shbi Hakish Chandba Central Public Works Department, New Delhi 
+
+Members 
+Shbi S. N. Adhikaby Hindustan Steel Works Construction Ltd, Calcutta 
+
+Shri N. K. Ma^si^mdab ( Alternate ) 
+Shbi J. P. Bajaj Institution of Surveyors, New Delhi 
+
+ShbI R. C. p. Ghoudhby Engineers India Ltd, New Delhi 
+
+Shbi K. C. Kabahchakdani ( Alternate ) 
+Shbi G. B. Jahaoibdab National Industrial Development Corporation Ltd, 
+
+New Delhi 
+
+
+
+( Continued on page 8 ) 
+
+
+
+IS : 12118 ( Part 1 ) - 1987 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+TWO-PART POLYSULPHIDE-BASED SEALANTS 
+
+PART 1 GENERAL REQUIREMENTS 
+0. FOREWORD 
+
+0.1 This Indian Standard ( Part 1 ) was adopted by the Bureau of 
+Indian Standards on 30 June 1987, after the draft finalized by the 
+Building Construction Practices Sectional Committee had been approv- 
+ed by the Civil Engineering Division Council. 
+
+0.2 Two-part polysulphide based sealent consists of two components, 
+essentially a component containing polysulphide polymer and a separate 
+component containing the curing agent, which are mixed together before 
+application and cure at an ambient temperature to form a rubber like 
+solid. 
+
+0.3 This standard is based on BS 4254 : 1983 Specification for two-part 
+polysulphide based sealants. The products are intended for use in normal 
+atmospheric environments in general building application. For use in 
+areas where the variations in temperature and humidity are large and/ 
+or the resilience of the joint is required to be lesser than one-quarter of 
+its width as well as for special performance like a basement wall subject- 
+ed to significant water pressure, the ability of the product to perform in 
+such a situation and in case of potable water storage environment, its 
+effect on the contained liquid, will need to be ascertained before use. 
+For this purpose, it may also necessitate special performance considera- 
+tion and tests specific to the particular requirement, 
+
+4).4 This standard is being formulated in two parts as follows: 
+
+a) Part 1 General requirements, and 
+
+b) Part 2 Methods of tests. 
+
+0.5 For the purpose of deciding whether a particular requirement of 
+this standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis,, shall be rounded off in 
+accordance with IS : 2-1960*. The number of significant places retained 
+in the rounded off value should be the same as that of the specified value 
+in this standard. 
+
+
+
+♦Rules for rounding off numerical values ( revised ). 
+
+3 
+
+
+
+IS : 12118 ( Part 1 ) - 1987 
+
+1. SCOPE 
+
+1.1 This standard ( Part 1 ) covers general requirements of two grades 
+of two-part polysulphide based sealants for use in general building 
+applications, namely, pouring grade and gun grade. Pouring grade 
+sealants are intended for use in horizontal joints. Gun grade sealants 
+are intended for use in vertical and inclined joints ( that is, glazing 
+applications ). 
+
+2. GRADES OF SEALANTS 
+
+2.1 Pouring Grade — A sealant which flows sufficiently to give 
+reasonably smooth level surface when applied in a horizontal upward 
+facing joint at ambient temperature, 
+
+2.2 Gun Grade — A sealant which permits application in a suitable 
+joint of any aspect or inclination without appreciable slumping at 
+ambient temperature. 
+
+3- SELECTION OF MATERIAL 
+
+3J. This standard takes into account primer system used on certain 
+two-part polysulphide based joint sealants. The sealant shall cure at 
+ambient temperature and humidity when applied according to manu- 
+facturers instruction. If it is intended to use the sealant in applications 
+other than general building, it mav necessitate special performance tests 
+considering substrate, conditions, etc. Primer systems aire recommended 
+for use with certain two-part polysulphide based sealants. The test 
+requirements in this stiandard take account of such systems. Where a 
+particular primer is recommended by a manufacturer for a specific 
+surface, that test surface shall be treated with the primer following the 
+manufacturers instructions. 
+
+4. TEST CONDITIONS 
+
+4.1 General — All tests shall be carried out on material obtained form 
+previously unopened container. 
+
+4.2 The components shall be capable of being readily mixed to from a 
+sealant complying with the standard at any time up to the expiry date, 
+when stored under the conditions stated on the package. 
+
+5. TEST REQUIREMENTS 
+
+5.1 The material shall meet the requirements given in 5.1.1 to 5.I.7. 
+
+The methods of tests have been given in Part 2 of this standard. 
+
+5.1.1 Rheologictil Properties 
+
+5.1.1.1 Pouring grade sealants — The sealant shall exhibit a smooth 
+and level surface, when tested in accordance with 2 of Part 2 of this 
+standard. 
+
+4 
+
+
+
+IStl2118(Partl)-1967 
+
+5.1.1.2 Gun grade sealant — The sealaht shall not slump in vertical 
+displacement by more than 1*0 mm, when tested in a vertical position 
+and shall not protrude in front of the original profile in a horizontal 
+position, when tested in accordance with 2 of Part 2 jof this standard. 
+
+3.1.2 Plastic deformation — The sealent shall have a plastic deformation 
+not greater than 25 percent, when tested in accordance with 3 of Part 2 
+of this standard. 
+
+5.1.3 Adhesion and Tensile Modulus — Adhesion and tensile modulus 
+shall be considered satisfactory, if the total area (length X depth) of 
+failure does not exceed 100 mm^ and the force required to produce the 
+extension shall not be less than 25 N and not more than 270 N. In case 
+of test after cycles of extension, the total area of failure shall not exceed 
+100 mm^. The procedure for test is given in 4 of Part 2 of this standard, 
+
+5.1.4 Application Life — The sealant shall have an application life of 
+not less than 2 h, when tested in accordance with 5 of Part 2 of this 
+standard. 
+
+5.1.5 Adhesion in Peel — The average peel strength of four strips of 
+backing material for each of the test surfaces shall be not less than 25 N 
+and the material shall not fail in adhesion over more than 25 percent of 
+the test area, when tested in accordance with 6 of Part 2 of this standard. 
+
+5.1.6 Loss of Mass After Heat Ageing — The loss of mass shall not 
+exceed 12 percent for pouring grade and 6 percent for gun grade when 
+tested according to 7 of Part 2 of this standard. 
+
+5.1.7 Staining — The sealent shall produce no staining on the primed 
+or umprimed surface of the test mortar, when^tested in accordance witht 
+of Part 2 of this standard. 
+
+6. MARKING 
+
+6.1 The sealant shall bear the manufacturer's name or his trade-mark, 
+if a^y, 
+
+6.1.1 The sealants may also be marked with the Standard Mark. 
+
+Note — The use of the Standard Mark is governed by the provisions of the Bureau 
+of Indian Standards Act, 1986 and the Rules and Regulations made thereunder. The 
+Standard Mark on products covered by an Indian Standard conveys the assurance 
+that they have been produced Xo comply with the requirements of that standard under 
+a well-defined system of inspection, testing and quality control which is devised an4 
+supervised by BIS and operated by the producer* Standard marked products, are 
+also continuously checked by BIS for conformity to that standard as a further 
+safeguard* Details of conditions under which a Hcenceibr the use of the Standard 
+Mark may be granted to manufacturers or producers, may be obtained from the 
+Bureau of Indian Standards. 
+
+
+
+IS 1 12118 ( Part 1 ) - 1987 
+
+7. PACKING 
+
+7.1 The sealant shall be suitably packed. Each package shall indicate 
+the foUowings: 
+
+a) Manufacturer's name or trade-mark, 
+
+b) Weight of the components, 
+
+c) Instructions for use and storage including primer system, 
+
+d) Type and grade of sealant, 
+
+e) Date of manufacture, and 
+
+f) Date of expiry. 
+
+8. SAMPLING 
+
+BA Representative samples of the material shall be taken and conformity 
+of the material to the requirements of this standard shall be determined 
+according to the procedure given in Appendix A. 
+
+
+
+APPENDIX A 
+
+( Clause Z A ) 
+
+SAMPLING OF TWO-PART POLYSULPHIDE BASED 
+JOINT SEALANTS 
+
+A-l. SCALE OF SAMPLING 
+
+A-1.1 Lot — All the packages of the same type, same grade and 
+belonging to the same batch of manufacture shall be grouped together 
+to constitute a lot, 
+
+A-1.2 For ascertaining the conformity of the material in the lot to the 
+requirements of this standard, samples shall be tested from each lot 
+separately. 
+
+A-1.3 The number of packages to be selected from the lot shall depend 
+on the size of the lot and shall be according to Table 1. 
+
+A-1.3.1 These packages shall be selected at random from the lot. In 
+order to ensure the randomness of selection, procedures given in IS : 
+4905-1968* may be followed. 
+
+
+
+*Methods for random sampling. 
+
+
+
+IS 1 12118 (Part 1 )- 1M7 
+
+
+
+TABLE 1 SCALE OF SAMPLING 
+
+{ Clause A'X.Z) 
+
+No. OT Paoeaoes SamfxiE Size 
+
+IN THE Lot 
+
+(0 (2) 
+
+Up to 25 2 
+
+26 to 50 3 
+
+51 to 150 5 
+
+151 and above 8 
+
+A-2. TEST SAMPLES AND REFEREE SAMPLES 
+
+A-2.1 From each of the packages selected according, to A-1.3 approxi- 
+mately equal quantity of material shall be taken byjthe suitable sampling 
+instrument and shall be mixed thoroughly so as to constitute the 
+composite sample. The quantity of material in the composite sample 
+shall be sufficient for making triplicate determinations for all the require- 
+ments given in this standard. 
+
+A-2.2 The composite sample shall be divided into three equal parts, 
+one for the purchaser, another for the supplier and the third for the 
+referee. Each of these parts shall be transferred to thoroughly dried 
+sample containers which are then sealed air-tight and labelled with all 
+the particulars of sampling. 
+
+A-2.3 Referee Sample — Referee sample shall bear the seals of the 
+purchaser and the vendor. This shall be kept in a cool and dry place 
+as agreed to between the purchaser and the vendor so as to be used in 
+case of dispute between the two. 
+
+A-3. NUMBER OF TESTS AND CRITERIA FOR CONFORMITY 
+
+A-3.1 All the characteristics given in the specification shall be tested 
+on the composite sample. 
+
+A»3.2 The lot shall be declared as conforming to the requirements of 
+this standard if all the test xesults on the composites ample meet the 
+relevant specification requirements. 
+
+
+
+IS t 12118 ( Part 1 ) - 1987 
+
+( C9ittinu$d frsm pags 2 ) 
+
+Msmbers R$prtsenting 
+
+Shbi M. P* Jaisinqh Central Building Research Institute ( CSIR )» 
+
+Roorkee 
+
+Shbi S. M. Sinoh ( AlttmaU ) 
+Shbi H. K. Ktti.8hbe8tha International Airport Authority of India, New Delhi 
+
+Shbi pATTA_S, Malik Indian Institute of Architects, Bombay 
+
+SHBI K. V. KAKAHaBTHT Directorate General of Border Roads, New Delhi 
+
+Shbi R. P. Sbth ( AltfrmU ) 
+Coi. V. K. Rao Engineer-in-Chief*s Branch, Army Headquarters; 
+
+New Delhi 
+
+Shbi S, K. Uttpta ( AltemaU ) 
+RicpKZBEarr ATiVB Builders' Association of India, Bombay 
+
+Shbi S, S. Skehba Central Road Research Imtitute ( CSIR ), 
+
+New Delhi 
+
+Shbi Kam Lal { AlUmatg ) 
+Shbi K. S. Sbinivasan National Buildings Organization, New Delhi 
+
+Shbi A. K. Lai. ( Alternate ) 
+Sttpebintbndino StJEVETOB OF Central Public Works Department, New Delhi 
+
+WOBKS ( GZ ) 
+
+SiTBVBYOB or WoBKS ( CZ ) ( Alternate ) 
+Shbi Susbil Kumab National Buildings Construction Corporation Ltd, 
+
+_ New Delhi 
+
+Shbi Ualjit Sditoh ( AUtrnate ) 
+Shbi K. N. Taneja National Projects Construction Corporation Ltd, 
+
+New Delhi 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 1 10002 
+
+Telephones: 323 0131 , 323 3375, 323 9402 
+
+Fax : 91 11 3234062, 91 11 3239399, 91 11 3239382 
+
+Telegrams : Manaksanstha 
+
+(Common to all Offices) 
+
+Centraf Laboratory: Telephone 
+
+Plot No. 20/9, Site IV, Sahibabad Industrial Area, Sahibabad 201010 8-77 0032 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 1 10002 323 76 17 
+
+*Eastern : 1/14 CIT Scheme VII M, VIP. Road, Maniktola, CALCUTTA 700054 337 86 62 
+
+Northern ; SCO 335-336, Secior3A'K CHANDIGARH 160022 60 38 43 
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 600113 235 23 15 
+
+fWestern : Manakalaya, E9, Behind Maroi Telephone Exchange, Andheri (East), 832 92 95 
+MUMBAI 400093 
+
+Branch Offices: 
+
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur, AHMEDABAD 380001 550 13 48 
+
+tPeenya Industrial Area, 1st Stage, Bangalore-Tumkur Road, 839 49 55 
+BANGALORE 560058 
+
+Gangotri Complex, 5th Floor, Bhadbhada Road, TT. Nagar, BHOPAL 462003 55 40 21 
+
+Plot No. 62-63, Unit VI, Ganga Nagar, BHUBANESHWAR 751001 40 36 27 
+
+Kalaikathir Buildings, 670 Avinashi Road, COIMBATORE 641037 21 01 41 
+
+Plot No. 43, Sector 16 A, Mathura Road, FARIDABAD 121001 8-2888 01 
+
+Savitri Complex, 116 G.T Road, GHA2IABAD 201001 8-71 19 96 
+
+53/5 Ward No. 29, R.G. Barua Road, 5th By-lane, GUWAHATI 781003 54 11 37 
+
+5-8-56C, L.N. Gupta Marg, Nampally Station Road, HYDERABAD 500001 20 10 83 
+
+E-52, Chitaranjan Marg, C-Scheme, JAIPUR 302001 37 29 25 
+
+117/418 B, Sarvodaya Nagar, KANPUR 208005 21 68 76 
+
+Seth Bhawan, 2nd Floor, Behind Leela Cinema, Naval Kishore Road, 23 89 23 
+LUCKNOW 226001 
+
+NIT Building, Second Floor, Gokulpat Market, NAGPUR 440010 52 51 71 
+
+Patliputra Industrial Estate, PATNA 800013 26 23 05 
+
+institution of Engineers (India) Building 1332 Shivaji Nagar, PUNE 411005 32 36 35 
+
+T.C. No. 14/1421, University RO. Palayam, THIRUVANANTHAPURAM 695034 6 21 17 
+
+
+
+*Sales Office is at 5 Chowringhee Approach, RO. Princep Street, 27 10 85 
+
+CALCUTTA 700072 
+
+tSales Office is at Novelty Chambers, Grant Road, MUMBAI 400007 309 65 28 
+
+tSales Office is at 'F' Block, Unity Building, Narashimaraja Square, 222 39 71 
+
+BANGALORE 560002 
+
+
+
+Printed at Simco Printing Press, Delhi 
+
+
+

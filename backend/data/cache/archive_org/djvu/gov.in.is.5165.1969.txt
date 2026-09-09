@@ -1,0 +1,1749 @@
+**************** 
+
+
+
+*■ fe^K 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 5165 (1969) : Interchangeable conical ground-glass joints 
+[CHD 10: Glassware] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IrTdian Standard 
+
+
+
+IS: 5165- 1969 
+
+( Reaffirmed 2001 ) 
+
+
+
+SPECIFICATION FOR 
+
+INTERCHANGEABLE CONICAL 
+
+GROUND-GLASS JOINTS 
+
+( First Reprint OCTOBER 1990 ) 
+UDC 542.231.7:666.1 
+
+
+
+© Copyright 1969 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK 13HAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr 3 September 1969 
+
+
+
+IS: 5165- 1969 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+INTERCHANGEABLE CONICAL 
+
+GROUND-GLASS JOINTS 
+
+
+
+Laboratory Glassware and Related Apparatus Sectional 
+Committee, CDC 33 
+
+Chairman Representing 
+
+♦Db S. R. Lele Borosil Glass Works Ltd, Bombay 
+
+Members 
+Shbi K. L. Banhrjee National Test House, Calcutta 
+
+Col A. K. Basu Directorate General of Armed Forces Medical 
+
+Services ( Ministry of Defence ) 
+Shbi P. P. Chandra ^ Seraikella Glass Works Pvt Ltd, Kandra 
+
+Shbi S. C. Varshnei ( Alternate ) 
+Chemist and Metallurgist, Chemical and Metallurgical Laboratory (Railway 
+Northern Railway, Lucknow Board ) 
+
+Sectional Officer (CM) - 1, 
+Research, Designs and 
+StandardsOrganization, 
+Chittaranjan ( Aiiemaie ) 
+Shri M, K. Chitre Development Commissioner ( Small Scale Industries ) 
+
+New Delhi 
+Shbi Habi Datta The Ganga Glass Works Pvt Ltd, Balawaii 
+
+Db N. K. Dutta HafFkine Institute, Bombay 
+
+Shri Y. S. Nimbkar ( Alternate) 
+Shri S. R. Khanna Directorate General of Technical Development 
+
+Db S. Kumar Central Glass and Ceramic Research Institute 
+
+( CSIR ), Calcutta 
+Db S. C. Niyogi The Scientific Indian Glass Co Ltd, Calcutta 
+
+Shri A. Sircar ( Alternate ) 
+Shri Prem Pbakash National Physical Laboratory ( CSIR ), New Delhi 
+
+Shbi Mohindeb Nath ( Alternate ) 
+Shri K. V. Ramachandran Ministry of Defence (R&D) 
+
+Shri N. Rangaswamy Glaxo Laboratories ( India) Private Ltd, Bombay 
+
+Shri D. C. Roy National Instruments Ltd, Calcutta 
+
+Shri Santokh Singh National Chemical Industries, New Delhi 
+
+Shri Prithipal Singh ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+*Dr 8 R- Lele was succeeded by Miss A. M= Man!, Director { Instruments), India Meteorological 
+Itepartmf nt, Poona after the flnalixation of draft- 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARC- 
+NEW DELHI 110002 
+
+
+
+IS: 5165-1969 
+
+( Continued from page 1 ) 
+
+Members 
+
+Shri P. G. Tulpule 
+
+Shri D. Das Gupta, 
+
+Director ( Chem ) 
+
+
+
+Representing 
+
+Indian Council of Medical Research, New Delhi 
+Director General. ISI ( E^officio Member) 
+
+Secretary 
+
+Shri G. P. Saraswat 
+
+Assistant Director ( Chem ), ISI 
+
+
+
+General Laboratory Glassware Subcommittee, CDC 33:4 
+
+
+
+Convener Representing 
+
+Dr S* Kumar Central Glass and Ceramic Research Institute 
+
+(CSIR), Calcutta 
+
+Members 
+
+Shri S. C. Mazumdar ( Alternate to 
+Dr S. Kumar ) 
+
+Shri G. M. Agarwal Dholpur Glass Works Ltd, Dholpur 
+
+Shri Hari Datta The Ganga Glass Works Private Ltd, Balawali 
+
+Dr K. L. Ray University of Calcutta 
+
+Dr D. N. Sen National Chemical Laboratory (CSIR), Poona 
+
+Shri J. K. Wad Borosil Glass Works Ltd, Bombay 
+
+
+
+IS: 5165 -1969 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+INTERCHANGEABLE CONICAL 
+
+GROUND-GLASS JOINTS 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 27 May 1969, after the draft finalized by the Laboratory Glassware and 
+Related Apparatus Sectional Committee had been approved by the Chemi- 
+cal Division Council. 
+
+0*2 To ensure interchangeabiiity between conical ground-glass joints, 
+irrespective of where they are made, the Sectional Committee responsible 
+for the preparation of this standard felt that it is necessary that their require- 
+ments such as taper, large end diameter, length of ground zone and surface 
+finish, including appropriate tolerances, be adequately specified. This has 
+been met by adopting details of dimensions provided in ISO/R 383-1964 
+'Interchangeable conical ground-glass joints', prepared by the International 
+Organization for Standardization. For this reason, the nominal dimensions 
+are based on joints already widely used in many countries. The series of 
+large end diameters represents the nearest acceptable compromise to the 
+
+R 40/3 series of preferred numbers (5, 7*5, 100) laid down in ISO/R 3- 
+
+1953 'Preferred numbers — series of preferred numbers'* prepared by the 
+International Organization for Standardization. 
+
+0.3 With a view to allowing a rapid checking of the essential dimensions a 
+gauging system has been prescribed in this standard. A leakage test has 
+also been prescribed to ascertain suitability of the joints. 
+
+0.4 This standard contains clause 6.2 which provides for agreement 
+between the purchaser and the supplier. 
+
+0*5 For the purpose of deciding whether a particular requirement of this 
+standard has been complied with> the finai value, observed or calculated, 
+expressing the result of a test, shall be rounded off in accordance with 
+IS:2-1960t- The number of significant places retained in the rounded off 
+value should be the same as that of the specified value in this standard. 
+
+
+
+1. SCOPE 
+
+I.I This standard prescribes the requirements and the methods of test for 
+interchangeable conical ground-glass joints. 
+
+♦Substantially corresponds to IS : 1070 - 1957 Preferred numbers. 
+fRules for rounding off numerical values ( revised ) . 
+
+
+
+18:5165-1969 
+
+2. TERMINOLOGY 
+
+2.1 For the purpose of this standard the definitions given in IS : 1382-1961 * 
+in addition to the following shall apply. 
+
+2.1*1 Cone and Socket — The term 'cone* (male part of the joint) signifies 
+the part which is inserted, and the term 'socket* (female part of the joint) 
+signifies the part of the joint into which the cone is inserted. 
+
+2.1.2 Components — cone or socket of a joint. 
+
+3. SIZE DESIGNATION 
+
+3»I In this specification, the size designation of the joint is expressed by the 
+large end diameter of the ground zone rounded off in millimetres and the 
+length of the ground zone in millimetres separated by an oblique or 
+
+19 
+horizontal stroke, for example, 19/26 or-^. 
+
+4. REQUIREMENTS 
+
+4.1 Taper — The cones and sockets of the joints shall be made to have a 
+taper of 1 increment on diameter for 10 increments on axial length with a 
+tolerance ± 0*006 on the diameter increment, that is, a taper of 1 *00 ±0*006 
+in 10. 
+
+4.2 Dimensions 
+
+4.2.1 Large End Diameters — Conical ground-glass joints shall have the 
+following nominal large end diameters: 
+
+5, 7*5, 10, 12*5, 14-5, 18-8, 21-5, 24, 29-2, 34*5, 40, 45, 50, 60, 71, 85 
+and 100 mm. 
+
+4.2.2 Length of the Ground %one — There shall be 4 series of joints, namely, 
+kg 5 lu, k 6 , and k«, as giveh in Table 1. 
+
+4.2.3 Tolerances on Diameter and Length — The diameter and length of the 
+ground zone of a component shall be such that when tested in accordance 
+with the method prescribed in Appendix A using the appropriate gauge and 
+with its axis in the plane of the dimensional frame shown in Fig. 1, it fits 
+in such a way that the upper and lower edges of the ground surface 
+fall within the zones of height hi and h% respectively; the values of d, /, h x 
+and hi for gauges for any particular joint size being taken from Table 2. 
+
+Note — For special purposes, the ground surface may extend beyond these limits 
+provided the zone of length (/) is always included within this ground portion. 
+
+
+
+♦Glossary of terms relating to glass industry. 
+
+
+
+IS: 5165 -1969 
+
+
+
+
+
+TABLE 1 
+
+
+SERIES OF JOINTS 
+
+(Clous* 4.2.2) 
+
+
+
+
+
+
+Sl 
+
+
+Nominal 
+
+
+
+
+LENGTH OIT G»OUNI> ZONE 
+
+
+
+
+No. 
+
+
+Large End , 
+Diameter 
+
+
+
+
+
+
+*, 
+
+
+
+
+K s Series 
+
+
+K 4 Series 
+
+
+Kf Series 
+
+
+Kg Series 
+
+
+O) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+i) 
+
+
+5 
+
+
+— 
+
+
+9 
+
+
+13 
+
+
+18 
+
+
+") 
+
+
+7-5 
+
+
+— 
+
+
+11 
+
+
+16 
+
+
+22 
+
+
+iii) 
+
+
+10 
+
+
+— 
+
+
+13 
+
+
+19 
+
+
+25 
+
+
+iv) 
+
+
+12-5 
+
+
+— 
+
+
+14 
+
+
+21 
+
+
+28 
+
+
+v) 
+
+
+14*5 
+
+
+— 
+
+
+15 
+
+
+23 
+
+
+30 
+
+
+VI) 
+
+
+188 
+
+
+9 
+
+
+17 
+
+
+26 
+
+
+35 
+
+
+vii) 
+
+
+21-5 
+
+
+
+
+
+19 
+
+
+28 
+
+
+37 
+
+
+viii) 
+
+
+24 
+
+
+10 
+
+
+20 
+
+
+29 
+
+
+39 
+
+
+ix) 
+
+
+29-2 
+
+
+11 
+
+
+22 
+
+
+32 
+
+
+43 
+
+
+x) 
+
+
+34*5 
+
+
+12 
+
+
+23 
+
+
+35 
+
+
+47 
+
+
+xi) 
+
+
+40 
+
+
+13 
+
+
+— 
+
+
+38 
+
+
+
+
+
+xii) 
+
+
+45 
+
+
+13 
+
+
+— 
+
+
+40 
+
+
+— 
+
+
+xiii) 
+
+
+50 
+
+
+14 
+
+
+-«— 
+
+
+42 
+
+
+_ 
+
+
+xiv) 
+
+
+60 
+
+
+— 
+
+
+— 
+
+
+46 
+
+
+
+
+
+xv) 
+
+
+71 
+
+
+— 
+
+
+— 
+
+
+51 
+
+
+— 
+
+
+xvi) 
+
+
+85 
+
+
+
+
+
+
+
+
+55 
+
+
+
+
+
+xvii) 
+
+
+100 
+
+
+— 
+
+
+— 
+
+
+60 
+
+
+— 
+
+
+
+Note — The length of the ground zone (/), in millimetres has been calculated from 
+the formula: 
+
+i = kVT 
+
+where 
+
+k = a constant, and 
+d »= large end diameter in millimetres. 
+The four series have been obtained by using the values 2, 4, 6 and 8 for the constant k. 
+
+
+
+hn ■* 
+
+
+
+*3_ 
+
+
+
+^ 
+
+
+
+Taper 1 : 10 ( Increase of Diameter/Length ) 
+Fig. 1 Dimensional Frame 
+5 
+
+
+
+O) 
+
+
+
+
+
+
+
+TABLE 2 ] 
+
+
+DIMENSIONS AND TOLERANCES FOR GAUGES 
+
+
+
+
+
+
+
+
+
+
+** 
+«» 
+
+
+
+
+
+
+
+
+
+
+(Clause 4.2.3) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Si 
+
+
+
+
+NOMINAL 
+DlAMETKK 
+
+or Joint 
+
+
+d 
+
+
+K 
+
+r- 
+
+/* 
+
+
+t Series 
+*it A 2 ? 
+
+
+r /*~ 
+
+
+, Series 
+
+— A — » 
+
+Ait A*t 
+
+
+K. 
+
+f 
+
+/* 
+
+
+s Sen iks 
+Ait h 2 P 
+
+
+r • 
+/* 
+
+
+j Series 
+
+
+■ 
+
+
+
+
+*.t 
+
+
+Ait 
+
+
+to 
+
+
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+
+
+
+
+«) 
+
+iii) 
+
+
+5 
+
+7*5 
+10 
+
+
+5*1 ±0-008 
+
+7-6 ±0008 
+
+10- 1 ±0-008 
+
+
+— 
+
+
+— 
+
+
+™ 
+
+
+8 
+10 
+12 
+
+
+2 
+2 
+2 
+
+
+2 
+
+2 
+2 
+
+
+12 
+15 
+18 
+
+
+2 
+2 
+2 
+
+
+2 
+2 
+2 
+
+
+17 
+21 
+24 
+
+
+2-5 
+
+is 
+
+2-5 
+
+
+2 
+2 
+2 
+
+
+
+
+iv) 
+
+v) 
+vi) 
+
+
+12-5 
+14-5 
+18*3 
+
+
+12-6 ±0010 
+14*6 ±0*010 
+18*9±0-015 
+
+
+8 
+
+
+2-5 
+
+
+2 
+
+
+13 
+14 
+16 
+
+
+2 
+2 
+2 
+
+
+2 
+2 
+
+2 
+
+
+20 
+22 
+25 
+
+
+2 
+2 
+
+2 
+
+
+2 
+2 
+2 
+
+
+27 
+29 
+34 
+
+
+2-5 
+2-5 
+2-5 
+
+
+2 
+2 
+2 
+
+
+
+
+vii) 
+
+viii) 
+
+ix) 
+
+
+21-5 
+
+24 
+
+29*2 
+
+
+21-6 ±0*015 
+24*1 ±0-015 
+293 ±0-015 
+
+
+10 
+
+
+2*5 
+
+2*5 
+
+
+2 
+2 
+
+
+18 
+19 
+
+21 
+
+
+2 
+2 
+2 
+
+
+2 
+2 
+2 
+
+
+27 
+28 
+31 
+
+
+2 
+
+2 
+2 
+
+
+2 
+2 
+2 
+
+
+36 
+38 
+40 
+
+
+25 
+2*5 
+2-5 
+
+
+2 
+2 
+3-5 
+
+
+
+
+*!) 
+
+xii) 
+
+
+34*5 
+
+40 
+
+45 
+
+
+34-6 ±0-015 
+40- 1 ±0*015 
+45-1 ±0*015 
+
+
+11 
+11 
+11 
+
+
+2*5 
+2*5 
+2-5 
+
+
+2 
+
+2-5 
+
+2-5 
+
+
+22 
+
+
+2 
+
+
+2 
+
+
+34 
+37 
+39 
+
+
+2 
+2 
+2 
+
+
+2 
+2 
+
+2 
+
+
+43 
+
+
+2-5 
+
+
+3-5 
+
+
+
+
+xiii) 
+xiv) 
+xv) 
+
+
+50 
+60 
+71 
+
+
+50*1 ±0-015 
+60*1 ±0-015 
+711 ±0*020 
+
+
+12 
+
+
+2-5 
+
+
+2*5 
+
+
+'— 
+
+
+— 
+
+
+— 
+
+
+41 
+45 
+50 
+
+
+2 
+
+2 
+2 
+
+
+3 
+3 
+3 
+
+
+— 
+
+
+— 
+
+
+— 
+
+
+
+
+xvi) 
+xvii) 
+
+
+85 
+
+100 
+
+
+85-1 ±0020 
+100- 1 ±0-020 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+54 
+59 
+
+
+2 
+
+2 
+
+
+3 
+
+3 
+
+
+— 
+
+
+
+
+
+
+
+
+
+
+
+♦Tolerance on / = ± 0*015 mm. 
+fTolerance on h t and A 2 = ± 0*010 mm. 
+
+
+
+IS: 5165 -1969 
+
+4.2.4 Leakage Test — Conical ground-glass joints shall satisfy the require- 
+ments of the test prescribed in Appendix B. 
+
+5. WORKMANSHIP 
+
+5.1 The engaging surfaces of the cone and socket shall be precision-ground 
+to ensure an accurate fit and reasonable freedom from surface blemishes and 
+leakage. 
+
+5.2 They shall be made from extra heavy wall tubing and ruggedb 7 tooled 
+for extra service life. 
+
+Note — It is desirable to form the socket with a slight but not excessive flare at the 
+open end. 
+
+6. MARKING AND PACKING 
+
+6.1 Each cone and each socket shall have permanently and legibly marked 
+on it as near as convenient to the ground portion: 
+
+a) The size designation of joint, and 
+
+b) The makers' identification mark. 
+
+These inscriptions shall be employed whether the cones and sockets form 
+integral parts of an apparatus or supplied as individual items. When joints 
+form parts of other apparatus it is to be understood that this marking relates 
+to the joint only and it should, therefore, be so placed as to be directly as- 
+sociated with the joint. 
+
+6.1.1 The joints may also be marked with the ISI Certification Mark. 
+
+Note — The use of the ISI Certification Mark is governed by the provisions of 
+the Indian Standards Institution ( Certification Marks ) Act, and the Rules and Regu- 
+lations made thereunder. Presence of this mark on products covered by an Indian Stand- 
+ard conveys the assurance that they have been produced to comply with the require- 
+ments of that standard; under a well-defined system of inspection, testing and quality 
+control during production. This system, which is devised and supervised by ISI and 
+operated by the producer, has the further safeguard that the products as actually market- 
+ed are continuously checked by ISI for conformity to the standard. Details of conditions, 
+under which a licence for the use of the ISI Certification Mark may be granted to 
+manufacturers or processors, may be obtained from the Indian Standards Institution. 
+
+6.2 Packing — Joints shall be packed as agreed to between the purchaser 
+and the supplier. 
+
+7. TESTING AND INSPECTION 
+
+7.1 All the joints shall be tested individually for conformity to all the 
+requirements of this specification. 
+
+
+
+IS:5165-1969 
+
+
+
+APPENDIX A 
+
+(Clause 4.2.3) 
+
+MEASUREMENT OF DIMENSIONS OF INTERCHANGEABLE 
+CONICAL GROUND-GLASS JOINTS 
+
+A-l. GAUGES 
+
+A-l.l The gauges for cones are coninal rings with a step at each end and 
+the gauges for sockets are conical plugs with a step at each end as shown in 
+Fig. 2 and 3. The cone semi-angle of each gauge shall be 2° 51' 45 /r to 
+within a tolerance of db 15". (The sine of the specified angle is 0'049 94 ± 
+0*000 07. ) 
+
+■d 
+
+
+
+
+Taper I : 10 ( Increase of Diameter/Length ) 
+Fig. 2 Gauge for Socket 
+
+A-l.1.1 The gauges shall be made of hardened steel for each size of joint 
+according to the dimensions given in Table 2. 
+
+A-2. PROCEDURE 
+
+A-2.1 Rub the components of the joint with a cloth soaked in benzene. 
+Then dip them in benzene and allow to dry. Remove any particles adher- 
+ing to the surface with a camel hair brush. Then fit the cone or socket to 
+its appropriate gauge (see Fig. 2 and 3) without making use of any sort of 
+grease. 
+
+A-2.2 The dimensional requirements of a component shall be taken as 
+having been satisfied if it rests in such a position that the upper and lower 
+
+8 
+
+
+
+IS: 5165 -1969 
+
+
+
+U. d -»- 
+
+
+
+
+
+
+r 
+
+
+1 I 
+
+
+
+
+
+
+
+
+J, 
+I 
+
+< 
+
+
+1 
+
+
+
+-h, 
+
+
+
+Taper 1 : 10 ( Increase of DiameteV/Length ) 
+
+Fig. 3 Gauge for Cone 
+
+
+
+ends of its ground zone lie wholly within the steps of height h\ and /*2 
+respectively (see 4.2.3 and Fig. 1 ). 
+
+
+
+APPENDIX B 
+
+(Clause 4.2.4) 
+
+LEAKAGE TEST FOR CONICAL GROUND-GLASS JOINTS 
+B4>. GENERAL 
+
+B-0.1 The leakage test is carried out on clean dry joints, without applying 
+grease, by observing the rate of increase in pressure in a previously evacuat- 
+ed system in communication with the atmosphere via the leaking joints. 
+
+B-l. APPARATUS 
+
+B-l.l The apparatus shall be as illustrated in Fig. 4. Care shall be taken 
+to see that the capacity of the system is approximately 1*5 litres. All joints 
+in the testing apparatus shall be rendered leak-proof and checked before 
+coupling in the joints to be tested. Any leakage found during checking 
+shall be negligible in comparison with the leakage measured during the test. 
+
+
+
+IS: 5165 -1969 
+
+
+
+RUBBER BUNG 
+
+
+
+I r - -?-JOlNT 
+rj—f UNDER TEST 
+
+
+
+SCALE COVERING PRES- 
+SURE RANGE OF APPROXI- 
+MATELY 150TO760mmHg IN 
+imm INCREMENTS* 
+
+
+
+
+RUBBER BUNG OR 
+TUBING TO SIZE OF 
+JOINT UNDER TEST 
+
+
+
+:-*-to 
+vacuum line 
+
+
+
+-MERCURY U-TUBE 
+MANOMETER 
+
+
+
+Fig. 4 Apparatus for Testing Leakage in Conical Ground-Glass Joints 
+B-2. PROCEDURE 
+
+B-2.1 Clean the components by rubbing with a cloth soaked in benzene, 
+then dip them in benzene and allow to dry. Remove any particles adher- 
+ing to the surface with a camel hair brush. Fit the components in a 
+vertical position in the apparatus and evacuate the system. Close the stop- 
+cock when the mercury gauge reading is 380 mm. Note the scale reading 
+after one minute and five minutes of closing the stop-cock. Equalize the 
+pressures inside and outside the system, turn the component on its axis 
+through 9Qr and repeat the test. 
+
+B-2.2 The joints shall be considered as having passed the test if the rise 
+in pressure in the system over a period of five minutes does not exceed 10 
+mm of mercury as indicated by the mercury gauge reading. 
+
+
+
+10 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 1 10002 
+Telephones: 331 01 31, 331 13 75 Telegrams: Manaksanstha 
+
+( Common to all Offices ) 
+
+
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, 
+NEW DELHI 110002 
+
+
+
+♦Eastern : 1/14 C. I. T. Scheme VII M, V. I 
+Maniktola, CALCUTTA 700054 
+
+Northern : SCO 445-446, Sector 35-C, 
+CHANDIGARH 160036 
+
+
+
+P. Road, 
+
+
+
+Southern : C. I. T. Campus, MADRAS 600113 
+
+tWestern : Manakalaya, E9 MIDC, Marol, Andheri ( East ) 
+BOMBAY 400093 
+
+Branch Offices: 
+
+'Pushpak'. Nurmohamed Shaikh Marg, Khanpurv 
+AHMADABAD 380001 
+
+JPeenya Industrial Area 1st Stage, Bangalore Tumkur Road 
+BANGALORE 560058 
+
+Gangotri Complex, 5th Floor, Bhadbhada Road, T. T. Nagar, 
+
+BHOPAL 462003 
+Plot No. 82/83, Lewis Road, BHUBANESHWAR 751002 
+53/5. Ward No. 29, R.G. Barua Road, 5th Byelane, 
+
+GUWAHATI 781003 
+5-8-56C L. N. Gupta Marg ( Nampalty Station Road ), 
+
+HYDERABAD 500001 
+
+R1 4 Yudhister Marg, C Scheme, JAIPUR 302005 
+
+117/418 B Sarvodaya Nagar, KANPUR 208005 
+
+Pattiputra Industrial Estate, PATNA 800013 
+T.C. No. 14/1421. University P.O.. Palayam 
+TRIVANDRUM 695035 
+
+
+
+Telephone 
+331 01 31 
+331 13 75 
+
+36 24 99 
+
+2 18 43 
+
+3 16 41 
+41 24 42 
+41 25 19 
+41 29 16 
+
+6 32 92 95 
+
+
+
+( 2 63 48 
+f 2 63 49 
+(38 49 55 
+[38 49 56 
+6 67 16 
+
+5 36 27 
+3 31 77 
+
+23 10 83 
+
+j 6 34 71 
+\ 6 98 32 
+J21 68 76 
+121 82 92 
+
+6 23 05 
+/6 21 04 
+\6 21 17 
+
+
+
+2 51 71 
+
+
+
+inspection Offices ( With Sale Point ): 
+
+Pushpanjali, First Floor, 205-A West High Court Road, 
+
+Shankar Nagar Square, NAGPUR 440010 
+Institution of Engineers ( India ) Building, 1 332 Shivaji Nagar, 5 24 35 
+
+PUNE 411005 
+
+
+
+•Sales Office in Calcutta it at 5 Chowringhee Approach, P. O. Princep 27 48 00 
+Street. Calcutta 700072 
+
+tSales Office in Bombay it at Novelty Chambers, Grant Road. 89 66 28 
+Bombay 400007 
+
+{Sales Office in Bangalore is at Unity Building. Narasimharaja Square, 2236 71 
+Bangalore 560002 
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

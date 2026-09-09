@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":20,"params":{"query":"identifier:gov.in.is.13916.*","qin":"identifier:(gov.in.is.13916.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.13916.1994","title":"IS 13916: Code of practice for installation of glass fibre reinforced plastic (GRP) piping system"}]}}

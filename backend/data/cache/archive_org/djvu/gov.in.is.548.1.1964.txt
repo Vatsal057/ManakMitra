@@ -1,0 +1,8126 @@
+**************** 
+
+
+
+* tOT£ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+IS 548-1 (1964) : Methods of sampling and test for oils and 
+fats, Part I: Methods of sampling, physical and chemical 
+tests [FAD 13: Oils and Oilseeds] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+5fR TT^ ^TT <sMHI | *ft ^fft ^TRT ^ff ^TT ^T^fT )f 
+
+Bhartrhari — Nltisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+<*i *3f», 
+
+
+
+
+*?W!& 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS: 548 (Parti) -1964 
+
+(Reaffirmed 2006) 
+
+2010 
+
+Indian Standard 
+
+METHODS OF SAMPLING AND TEST 
+FOR OILS AND FATS 
+
+PART 1 SAMPLING, PHYSICAL AND CHEMICAL TESTS 
+
+(Revised) 
+
+Fourteenth Reprint JULY 2007 
+(Incorporating Amendment Nos. 1 to 4 and Including Amendment No. 5) 
+
+UDC 665.3 : 543 
+
+
+
+©Copyright 1976 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Grll October 1964 
+
+
+
+0. Foreword 
+
+1. Scope 
+
+2. Terminology 
+
+3. Samplino ... 
+
+4. Quality of Reagent* 
+
+
+
+IS t 548 ( Part I M964 
+CONTENTS 
+
+PAOK 
+
+5 
+6 
+
+7 
+
+9 
+
+18 
+
+
+
+5. Determination op Moisture Content ... ... 18 
+
+6. Determination op Insoluble Impurities ... ... 28 
+
+7. Determination of Acid Value and Free Fatty Acids ... 29 
+
+8. Determination of Unsaponifiable Matter ... ... 31 
+
+9. Determination of Melttno Point ... ... S3 
+
+10. Determination of Refractive Index ... ... 35 
+
+11. Determination of Specific Gravity ... ... 39 
+
+12. Titre Test ... ... ... ... « 
+
+13. Determination of Colour ... ... ... 45 
+
+14. Determination of Iodine Value (Wijs) ... ... 47 
+
+15. Determination of Saponification Value ... ... 50 
+
+16. Determination of Acetyl Value and Hydroxy!. 
+
+Value ... ... ... ... ... 52 
+
+17. Determination of Allyl uothiocyanate ... ... 56 
+
+
+
+IS: 548 (Part I)-1964 
+
+RlGE 
+
+18. Determination of Reichert-Meissl Value ... ... 57 
+
+19. Determination of Polensxe Value ... ... 62 
+
+21. Determination of Peroxide Value ... ... 63 
+
+
+
+IS 1 548 (Part I )-1964 
+
+Indian Standard 
+
+METHODS OF SAMPLING AND TEST FOR 
+OILS AND FATS 
+
+FART I SAMPLING, PHYSICAL AND CHEMICAL TESTS 
+
+(Revised) 
+
+Oils and Fats Sectional Committee, CAFDC 5 
+
+Chaitmtn Rtprtintinj 
+
+Dr J. S. Badami The Swastik Oil Mill* Ltd, Bombay 
+
+JlffMMTJ 
+
+Shri V. A. Parikh ( Alurnatt to 
+Dr J. S. Badami ) 
+Shri S. K. Bose Government Test House, Calcutta 
+
+Shm V. V. Daw ( Alttmali ) 
+Shm C. R. Dai The Vanaspati Manufacturer*' Association of India, 
+
+Bombay 
+Shm N. Desikachar The Tata Oil Mills Co Ltd, Bombay 
+
+Dr B. G. Gunde ( Allrrnalt ) 
+Dm K. C. Gulati Indian Agricultural Research Institute, New Delhi 
+
+Shm K. P.Jain Directorate of Sugar & Vanaspati ( Ministry of Food 
+
+& Agriculture ) 
+Shm F.'G. T. Menezu ( AlUrnaU ) 
+Shm R. K. Malik Directorate of Marketing & Inspection (Ministry of 
+
+Food & Agriculture ) 
+Shri K. L. Chatterjee ( Alttmtu) 
+Dm B. D. Narang Central Committee for Food Standards ( Ministry of 
+
+Health ) 
+Dr M. S. Patel Indian Central Oilseeds Committee, Hyderabad 
+
+Shri H. P. R. Raja Bombay Oilseeds and Oils Exchange Ltd, Bombav 
+
+Shri Charandas V. Mariwala 
+( AlUrnaU ) 
+Dr H. G. R. Reddy Directorate General of Technical Development 
+
+Shri P.V. Shrikanta Rao Khadi and Village Industries Commission, Bombay 
+
+Shri L. R. Sud Ministry of Defence (R&D) 
+
+Shri A. P. Chakravertv ( AltmuU ) 
+Shri A. Woodwark Hindustan Lever Ltd, Bombay 
+
+Dr G. S. Hattiancoi ( Alltrmli ) 
+Dr Saoqofal, Director, ISI ( Eit-tfficit Mtmktr ) 
+
+Deputy Director ( Chem ) 
+
+Stttmtatut 
+
+Shri S. Surrakmanvan 
+
+Assistant Director ( Chem ), ISI 
+
+Shri R. C Mura 
+
+Extra Assistant Director ( Chem ), ISI 
+
+(CMlMB*t'M*Jtf«2) 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+1 
+
+
+
+IStM8(P»rtI)-l%4 
+
+( Gmmmm yrvM ^ft I ) 
+
+Oil* and Fats Subcommittee, CAFDC 5 : 1 
+
+
+
+Rtpriuntinf 
+Da G. S. HATnAMOM Hindustan Lever Ltd, Bombay 
+
+Ssnu V. U. Marralu (AlltmaU to 
+Dr G. S. Harn'angdi ) 
+Dm K. T. Aokava Regional Research Laboratory, Hyderabad 
+
+Dm S. Rachavsndar Rao ( Atonal* ) 
+Shu Gokulchand J. Aoarwal Bombay Oilseeds and Oils Exchange Lid, Bombay 
+Smu Charandas V. Mariwala 
+(Mitotan) 
+Dr H. R. Cama Indian Institute of Science, Bangalore 
+
+Snai N. Dukackak The Tata Oil Mills «Jo Ltd, Bombay 
+
+Dr B. G. Guhm ( AlltmaU ) 
+Sum S. C. Ghose Indian Soap and Toiletries Makers' Association, 
+
+Calcutta 
+Shu R. K. Malm Directorate of Marketing & Inspection { Ministry of 
+
+Food & Agriculture ) 
+Smti K. L. Ckattkrju ( Alttrnatt ) 
+Smu B. S. Mom The Vanaspati Manufacturers' Association of India, 
+
+Bombay 
+Dr H. G. R. Rrddy Directorate General of Technical Development 
+
+Shu L. R. Sod Ministry of Defence (R&D) 
+
+Smu A. P. Chakravsrty ( AlltmaU ) 
+
+Panel for Studying Indian Standards on Oils and Fats, CAFDC 5:1:1 
+
+Ceattntr 
+Dr S. M. Patel Hindustan Lever Ltd, Bombay 
+
+Mtmbtn 
+
+Sm N. Diskachar The Tata Oil Mills Co Ltd, Bombay 
+
+Dr B. G. Gtmok ( AlUmaU ) 
+Dr J. G. Kami In personal capacity ( Departmtnt of Chemical Ttehno- 
+
+logy. University of Bombay, Bombay ) 
+Saw R. K. Malik Directorate of Marketing & Inspection ( Ministry 
+
+of Food & Agriculture) 
+Shu K. L. Chattbkju ( AlltmaU ) 
+Shu I. D. Sinok Ministry of Defence (R&D) 
+
+Ssnu R. P. Vsrma ( AlltmaU ) 
+Dr A. R. Sumdararatan Central Committee for Food Standards ( Ministry of 
+
+Health ) 
+
+
+
+( Page 10, clause 11.0 ) — Add the following new matter at the end 
+of the clause: 
+
+' Method A shall be used as a referee method whereas Method B may be 
+used for routine analysis.' 
+
+( Page 24, clause 18.4 ) — Add the following new clauses after 18.4: 
+
+■19. TEST FOR THE PRESENCE OF OIL SOLUBLE COLOURS IN 
+OILS AND FATS 
+
+19.0 General — Oil soluble colours are colours (both natural including 
+nature identical and synthetic ) soluble in oils and fats. 
+
+19.1 Outline of the Method — Oils, fats and other interfering substances 
+are removed from the colours by solvent partition technique using dimethyl 
+formamide and hexane (3:1), followed by alumina adsorption. The 
+colours are detected by reversed phase paper chromatography. 
+
+19.2 Apparatus 
+
+19.2.1 For Extraction — a mechanical shaker. 
+
+19.2.2 For Column Chromatography — a chromatographic tube made of 
+glass ( 25 cm in diameter and 30 cm in length ). 
+
+19.2.3 Separating Funnel — 250 ml capacity. 
+
+19.3 Reagents 
+
+19.3.1 Hexane 
+
+19.3.2 Dimethyl Formamide 
+
+19.3.3 Sodium Chloride Solution — saturated. 
+
+19.3.4 Alumina Neutral, Brockmann, Activity l,for Example, Made by National 
+Chemical Laboratory, Pane or of Equivalent Quality — activated at 100°C for 
+4 hours. 
+
+19.3.5 Diethyl Ether 
+
+19.3.6 Ethyl Alcohol 
+
+19.3.7 Ammonium Hydroxide Solution 
+
+19.3.8 Methanol 
+
+19.3.9 Petroleum Ether — B. P. 40 to 60°C. 
+
+19.3.10 Liquid Paraffin 
+
+19.3.11 Whatman No. 1 Filter Paper ( Reversed Phase ) — Prepared by 
+soaking the paper in 5 percent liquid paraffin in petroleum ether and sub- 
+sequent drying in air. 
+
+19.3.12 Oil Soluble Colours — Butter yellow, Cres orange GN, Sudan IV, 
+Gress Yellow GRN type, etc. 
+
+
+
+19.3.13 Sodium Hydroxide Solution — 5 percent ( mjv ). 
+
+19.3.14 Sulphuric Acid Solution — 13 N. 
+
+19.3.15 Stannous Chloride Solution in Hydrochloric Acid — Dissolve 1128 g 
+of stannous chloride in 170 ml of concentrated hydrochloric acid using heat 
+if necessary. Dilute with water to 1 litre and add a few pieces of tin 
+metal. 
+
+19.3.16 Boric Acid Solution — Dissolve 4 g of boric acid in 100 ml of 
+concentrated hydrochloric acid (relative density 1*19). 
+
+19.3.17 Anhydrous Sodium Sulphate 
+
+19.3.18 Saturated Solution of Antimony Trichloride in Chloroform 
+
+19.3.19 Solvent Mixture — Diethyl Ether : Alcohol : water : : 5 : 3 : 2. 
+
+19.3.20 Solvent Mixture — 80 percent ethyl alcohol in water. 
+19.4 Procedure 
+
+19.4.1 Extraction — Take about 2 to 3 g of the sample in a conical flask, 
+add approximately 50 ml of hexane and then shake for about 10 minutes 
+in a mechanical shaker. Filter it and concentrate the filtrate to about 
+10 ml. 
+
+19.4.1.1 Qualitative lest for presence of synthetic colours — Divide a 
+portion of the hexane layer into 4 parts and treat with either 13 N sul- 
+phuric acid or concentrated hydrochloric acid and water mixtures 4:1, 
+2 : 1 or 1 : 1 respectively. If the acid layer or the whole extract changes 
+shade or more particularly develops pink to reddish violet colour, the 
+synthetic oil soluble colour may be suspected. 
+
+19.4.2 Separation of Colours from Interfering Materials — Transfer the 
+concentrated extract to a separating funnel and add to it dimethyl 
+formamide ( DMF ) about three times the volume of the concentrated 
+extract and shake vigorously. Keep it for a while for separation of the 
+layers. The DMF layer contains the natural colour as well as the synthetic 
+colours ( if present ), leaving oils and fats in the hexane layer. Now take 
+the DMF layer and again shake it with hexane after addition of about 
+20 ml of water. Retransfer colours ( both natural and synthetic ) this time 
+to the hexane layer. If emulsion is formed add saturated sodium chloride 
+solution. Concentrate the hexane layer and preferably repeat the above 
+mentioned procedure. If oils and fats still linger in the sample, these will 
+float above the coloured extract when the hexane layer is concentrated to 
+0-5 ml. If oil is present repeat the above procedure till free from oil. 
+Make the hexane solution to 10 ml. If curcumin or turmeric is suspected, 
+shake the residual DMF layer after extraction with and separation of" 
+hexane with diethyl ether and an extra amount of water, if necessary and 
+collect the ether layer. Add the ether layer to the previous hexane. By 
+
+
+
+this treatment any minute Curcumin and turmeric will come to the ether 
+layer. 
+
+19.4.3 Separation of Natural Colours from Synthetic Oil Soluble Colours — 
+Clamp the chromatographic tube and pour 40 ml of hexane with the non- 
+greasy stopcock in closed position. Place a cotton plug ( if no fritted glass 
+is fixed in the tube ) firmly at the bottom of the tube. Pour 40 ml of 
+hexane followed by anhydrous sodium sulphate to form a 2 to 3 cm layer. 
+Now open the stopcock to give a trickle of solvent and tap the tube. Pour 
+alumina sufficient to give a column of 10 cm length into the solvent with 
+constant tapping. This will give a channel-free column. It is important 
+that the top of the alumina is always under the solvent. When the solvent 
+layer reaches about 1 cm above the alumina, pour the hexane extract of 
+colours- carefully into the tube. Collect the eluent in a beaker. Continue 
+the elution with four batches of 10 ml hexane. Concentrate the eluate 
+containing oil soluble synthetic colours. After elution with hexane pass 
+40 ml of another eluting solvent, namely, petroleum ether : acetone (1:1) 
+for complete elution. 
+
+19.4.4 Detection of Synthetic Oil Soluble Colours — Cut a reversed phase 
+chromatography paper to a size of 20 x 20 cm. Then draw a straight line 
+by a lead pencil on the paper leaving away 3 cm from the bottom. Spot 
+the concentrated extract ( say 10 ft\ or more according to the colour 
+present on the solution ) and also some known oil soluble colours on the 
+line drawn on the reversed phase chromatography paper leaving 1 cm 
+distance from each other. Then make the paper to a cylindrical shape, 
+staple it and dip in any one of the solvents ( see 19.3.19 and 19.3.20 ) for 
+ascending chromatography. Run for 10 cm. The development in tne solvent 
+given under 19.3.19 takes 45 minutes and that in solvent prescribed 
+under 19.3.20 takes one hour. Take out the paper, dry in air and detect 
+the colour by comparing with the known colour in respect of shade and 
+Rf values. 
+
+19.4.5 Detection of Natural Colours — Elute the natural colours absorbed on 
+the column by the solvent methanol : ammonium hydroxide (9:1) and 
+then examine for natural colours. If colour of the column changes to red- 
+violet after passing the above mentioned solvent, it confirms the presence 
+of curcumin or turmeric. 
+
+19.4.5.1 Detection of annatto, turmeric and curcumin — Evaporate the 
+extracted layer ( see 19.4.5 ) to dryness, add 10 ml petroleum ether and 
+shake a 7 ml portion of the solution with sodium hydroxide solution. 
+Take out the alkali layer and divide it into two portions to check for the 
+presence of annatto, turmeric and curcumin. Dilute the first portion with 
+equal volume of water, add a piece of clean white adsorbent cotton to 
+it and keep it overnight. If after washing gently in water the cotton piece 
+continues to retain straw colour which turns pink by a drop of stannous 
+chloride solution, it confirms the presence of annatto. To the second 
+
+
+
+portion add boric acid solution to make the solution acidic. If red colour 
+appears, turmeric is present and if pink colour appears it indicates the 
+presence of curcumin. Sometimes turmeric and curcumin are not eluted 
+if present in small amount. Notice the change of colour of the column 
+for their detection. 
+
+19.4.5.2 Detection of carotene — To the non-alkali treated portion add 
+saturated solution of antimony trichloride in chloroform. If blue colour 
+appears, carotene is present,' 
+
+
+
+( CAFDC 5 ) 
+
+
+
+Printed at : Prabhat Offset Press, New Delhi-2 
+
+
+
+IS>548(PartI)-1964 
+
+Indian Standard 
+
+METHODS OF SAMPLING AND TEST FOR 
+OILS AND FATS 
+
+PART I SAMPLING, PHYSICAL AND CHEMICAL TESTS 
+
+( Revised ) 
+
+0. FOREWORD 
+
+0.1 This revised Indian Standard was adopted by the Indian Standards 
+Institution on 22 April 1964, after the draft finalized by the Oils and Fats 
+Sectional Committee had been approved by the Chemical Division Council 
+and the Agricultural and Food Products Division Council. 
+
+0.2 This standard was first published in 1954. With the rapid progress in 
+the industry of fatty oils in this country and with the new analytical 
+techniques devised to control the quality of the oils and check the trends 
+towards adulteration, the Sectional Committee responsible for drafting this 
+standard decided to issue a revised standard in order to keep abreast of the 
+latest developments in the field. 
+
+0,2.1 In view of the periodical review and revision of methods for 
+detection of adulteration in vegetable oils and fats, the concerned Com- 
+mittee decided to issue this standard in three parts, namely, Part I Methods 
+of sampling, physical and chemical tests; Part II Methods for purity tests; 
+and Part III Methods of analysis of vegetable oils and fats by gas liquid 
+chromatography (GLC) technique. This change has been effected 
+through Amendment No. 3 to this standard. 
+
+0.3 Taking into consideration the views of producers and consumers of oils 
+and fats as also the views of the testing authorities and of the technologists 
+the Sectional Committee responsible for the preparation of this standard 
+felt that the methods of test should be related to the current practices and 
+the need to improve them in the cpuntry in this field. Due consideration 
+has also been given to the need for alignment with the methods of test 
+prescribed by the Central Committee for Food Standards, Ministry of 
+Health, and the Directorate of Marketing and Inspection, Ministry of Food 
+and Agriculture, Government of India, as also for international co-ordina- 
+tion among standards prevailing in different countries of the world. 
+These considerations led the Sectional Committee to draw freely from the 
+following standards and publications: 
+
+B.S. 627 : 1953 Sampuno or Fat* and Fatty Oils. British 
+Standards Institution. 
+
+
+
+IS i 548 ( Part I )-1964 
+
+B.S. 684: 1958 Methods op Analyw or Oils and Fats. British 
+Standards Institution. 
+
+B.S. 756 : 1952 Dean and Stark Apparatus. British Standards 
+Institution. 
+
+India. Ministry of Food and Agriculture. Methods of Sampling 
+and Testing Vegetable Oils and Fats under Agmark ( Marketing 
+Series No. 78 ). New Delhi. Manager of Publications, 1952. 
+
+India. Ministry of Food and Agriculture. Methods of Sampling 
+and Testing Butter-Fat ( Ghee ) and Butter under Agmark 
+( Marketing Series No. 81 ). New Delhi. Manager of Publica- 
+tions, 1953. 
+
+Mitra, S. N. and Sen Gupta, P. N. Detection of Hydrocyanic Acid 
+in Edible Oils ( Mustard Oil ). Science and Culture. Vol. 28, 
+No. 5, P. 241 ( 1962 ). 
+
+Mehlenbacher, V. C. and Hopper, T. H. Official and Tentative 
+Methods of the American Oil Chemists' Society, Second Edition 
+including Additions and Revisions — 1947 to 1963 inclusive. 
+Chicago. American Oil Chemists' Society. 
+
+0.4 This standard is intended for introduction in India of uniform methods 
+of sampling and test for oils and fats. It does not deal with the specifica- 
+tions of the materials, but prescribes only the methods of determining 
+whether the material conforms to the requirements pf the individual stand- 
+ard and thus forms a necessary adjunct to the series of Indian Standard 
+specifications for individual oils and fats. 
+
+0.5 Wherever a reference to any Indian Standard appears in this standard, 
+it shall be taken as a reference to the latest version of the standard. 
+
+0.6 In reporting the result of a test or analysis made in accordance with 
+this standard, if the final value, observed or calculated, is to be rounded 
+off, it shall be done in accordance with IS : 2-1960 Rules for Rounding Off 
+Numerical Values ( Rtvised). 
+
+
+
+1. SCOPE 
+
+1.1 This standard lays down the methods of sampling and test for indivi- 
+dual oils, fats and fatty materials. It contains definitions of terms used 
+in trade and industry and prescribes the methods for determining moisture, 
+insoluble impurities, acid value and free fatty acids, unsaponifiable matter, 
+melting point, refractive index, .specific gravity, titre of mixed fatty acids, 
+colour, iodine value (Wijs), saponification value, acetyl value and 
+hydroxyl value, allyl irothiocyanate content, Reichert-Meissl value and 
+
+
+
+IS:548(PartI).lM4 
+
+Polenske value 
+
+1.2 Test methods, neither prescribed in this standard nor specified in 
+standards for individual materials, shall be subject to agreement between 
+the purchaser and the supplier. 
+
+1-3 Should any inconsistency be found to exist between the methods 
+prescribed in this standard and those prescribed in the standard for an 
+individual material, the latter shall prevail. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions shall apply. 
+
+2.1 Acetyl Value — The number of milligrams of potassium hydroxide 
+required to neutralize the acetic acid liberated by the hydrolysis of one 
+gram of the acctylated oil or fat ( stt 23 ). 
+
+2.1.1 Acetyl value of an oil or fat is a measure of the hydroxyl content 
+of the material. 
+
+2.2 Add Value and Free Fatty Adds — The number of milligrams of 
+potassium hydroxide required to neutralize the free acid present in one 
+gram of the oil or fat under the prescribed conditions. 
+
+2.2.1 The acidity of the oil or fat indicated by its acid value is frequently 
+expressed as free fatty acids present in the sample. 
+
+2 J Hydroxyl Value — The number of milligrams of potassium hydroxide 
+required to neutralize the acetic acid capable of combining by acetylation 
+with one gram of the oil or fat ( set also 2.1 ). 
+
+2.3.1 Hydroxyl value is equivalent to the hydroxyl content of the 
+material based on the weight of the unacetylated fat. 
+
+2.4 Ineoluble Impurities — Dirt, meal and other foreign substances 
+which are insoluble in kerosine and petroleum ether under the conditions 
+of the prescribed test. 
+
+2.5 Iodine Value ( Wijs ) — The number of grams of iodine, absorbed 
+per 100 grams of the oil or fat, when determined by using Wijs solution. 
+
+2.5.1 The iodine value of the oil or fat gives an indication of the degree 
+of unsaturation of the constituent fatty glycerides. It is customary to give 
+the method employed for its determination. Wijs method is applicable to 
+all normal oils and fats not containing conjugated systems. 
+
+2.6 Melting Point — The temperature at which the oil or fat softens or 
+becomes sufficiently fluid to slip or run as determined by the open-tube 
+capillary-slip method. In the case of the closed-tube complete-fusion 
+
+
+
+IS > 548 ( Part I )-1964 
+
+method, it is the temperature at which the oil or fat becomes perfectly 
+clear and liquid. 
+
+2.7 Moisture Content — The moisture and any other material contained 
+in the oil or fat which is volatile under the conditions of the prescribed 
+test. 
+
+2 .8 Polenake Value — The number of millilitres of 0*1 N aqueous 
+sodium hydroxide solution required to neutralize the steam volatile, 
+water insoluble fatty acids distilled from 5 g of an oil or fat under the 
+precise conditions specified in the method. 
+
+2.8.1 The Polenskc value is the measure of the steam volatile and water 
+insoluble fatty acids, chiefly caprylic, capric and lauric acids, present in the 
+oil or fat. 
+
+2.9 Refractive Index — The ratio of the velocity of light in vacuum to 
+the velocity of light in the oil or fat; more generally, it expressed the ratio 
+between the sine of the angle of incidence to the sine of the angle of refrac- 
+tion when a ray of light of a known wave-length ( usually 589*3 mp, the 
+mean of the D lines of sodium ) passes from air into the oil or fat. 
+
+2.10 Reichert-Meiaal Value — The number of millilitres of 01 N sodium 
+hydroxide solution required to neutralize the steam volatile, water soluble 
+fatty acids distilled from 5 g of an oil or fai under the precise condition* 
+specified in the method. 
+
+2.10.1 Reichert-MeissI value is a measure of water soluble steam 
+volatile fatty acids, chiefly butyric and caproic acids, present in oil or fat. 
+
+2.11 Saponification Value — The number of milligrams of potassium 
+hydroxide required to saponify completely one gram of the oil or fat. 
+
+2.12 Specific Gravity 
+
+2.12.1 Specific Gravity of an Oil — The ratio of the weight in air of a 
+given volume of the oil at 30°C to the weight in air of an equal volume of 
+water at 30°C. 
+
+2.12.2 Specific Gravity of a Fat — The ratio of the weight in air of a given 
+volume of the fat at 95°C to the weight in air of an equal volume of 
+water at 30°C. 
+
+2.13 Titre — The highest temperature attained under standard conditions, 
+during the solidification of the mixed fatty acids obtained from the oil or 
+fat. 
+
+2.14 Unaaponifiable Matter — The fraction of substances in oils and 
+fats which is not saponified by caustic alkali, but is soluble in ordinary fat 
+solvents. 
+
+8 
+
+
+
+IS t 548 ( Part I )-W64 
+
+2.14.1 It includes the higher aliphatic alcohols, sterols, pigments, 
+hydrocarbons and resinous matter. 
+
+3. SAMPLING 
+
+3.0 General — It is very difficult to lay down detailed directions for 
+sampling oils and fats that will encompass all conditions and circumstances 
+which may confront the individual charged with the responsibility of 
+taking the sample. There are many instances in which the experience and 
+judgement of the individual should prevail. There are, however, certain 
+general rules relating to the drawing, preparation, storage and handling of 
+samples which should always govern if the sample is to be representative. 
+These are described under 3.1 to 3.8. 
+
+3.1 General Precautions in Sampling 
+
+3.1.1 All sampling instruments should preferably be made of stainless 
+steel; if made of copper, brass or bronze, these should be nickel-plated. 
+
+3.1.2 AH sampling apparatus shall be clean and dry when used. Sam- 
+pling instruments may be cleaned with hot soapy water or other detergent, 
+care being taken to wash away the last traces with scalding hot water. If 
+a source of steam is available, the instruments may receive a final cleansing 
+in a jet of steam and it is recommended that this procedure be carried out 
+when edible oils are sampled and where the taste is likely to be of primary 
+importance. 
+
+3.13 Samples shall not be taken in an exposed place. The samples, the 
+material being sampled, the sampling instruments and containers for 
+samples shall be protected from adventitious contamination. The test 
+samples shall be placed in suitable clean and dry containers. 
+
+3.1.4 Samples shall be stored in such a manner that they are protected 
+from light, temperature fluctuations and other abnormal conditions. 
+
+3.1.5 Sample containers shall be so rilled that the air space above the 
+liquid level shall be 5 to 10 percent of the capacity of the sample 
+containers. 
+
+3.2 Sampling Instruments 
+
+3.2.1 Sampling Bottle or Can — This instrument is suitable for sampling 
+large vessels arid tanks of liquid oil. It consists of a weighted bottle 
+or metal container with removable stopper or cork, to which is attached 
+a suitable chain, pole or cord. This device is lowered to the various 
+desired depths at which the stopper is removed and the container is 
+allowed to fill (se« Fig. 1 ). 
+
+3.2.2 Sampling Fubts — The recommended forms of sampling tubes 
+are (a) closed-type sampling tubes, undivided or divided, for sampling 
+
+9 
+
+
+
+IS.548(PmrtI)-1964 
+
+liquids and semi-liquids that may not be homogeneous; and (b) open type 
+sampling tube for sampling homogeneous liquids. 
+
+
+
+
+Fio. 1 Sampling Bottle or Can 
+
+3.2.2.1 Closed-type sampling tube, undivided — It consists of two con- 
+centric metallic tubes closely fitted into each other throughout their 
+entire length, so that one tube may be rotated within the other. Longi- 
+tudinal openings of about one-third the circumference are cut in both 
+tubes. In one position the openings in the two tubes coincide; the sam- 
+pling tube is open when in this position and admits the material. By 
+turning the inner tube through an angle of 180°, it becomes a sealed con- 
+tainer. The inner tube may have a diameter of 20 to 40 mm and is 
+undivided along its length to serve as a single container ( see Fig. 2 ). 
+
+The two concentric tubes are provided with ports at their bottom 
+ends, so placed that it becomes possible to drain the material contained in 
+the instrument through them, when the longitudinal openings coincide. 
+
+The length of the instrument should be such as to enable it to reach 
+the bottom of the container being sampled. 
+
+The instrument is inserted closed, the material is admitted by opening 
+it, and finally, it is closed and withdrawn. 
+
+10 
+
+
+
+CLOSED 
+
+
+
+OPEN 
+
+
+
+SECTION XX 
+
+
+
+A 
+
+
+
+1 
+
+
+
+! 
+
+
+
+IS:M8(P*r«I)-1964 
+
+
+
+
+
+PORTS 
+
+
+
+OPEN 
+
+
+
+CLOSED 
+
+
+
+BOTTOM VIEWS 
+Fro. 2 Clomd-Tyfb Sampuno Tobb- 
+
+
+
+UNDtVIDEO 
+
+
+
+3.2*2.2 Clostd-typ* sampling lube, divided — It is also of metal and 
+has D-shaped cross-section. It is provided with compartments along 
+its length and is opened and closed by means of a closely-fitting 
+shutter which moves up and down throughout the entire length. It may 
+be from 25 to SO mm wide (/« Fig. 3 ). 
+
+11 
+
+
+
+IS 1 548 (Part I). 1964 
+
+
+
+
+ENLARGED 
+SECTION XX 
+
+
+
+ENLARGEO 
+SECTION YY 
+
+
+
+<S> J 
+
+
+
+X 
+1 
+
+
+
+1 1 
+M 
+
+ii 
+
+
+
+M 
+
+I i 
+i i 
+1 I 
+I I 
+
+M 
+
+i i 
+• 
+
+n 
+
+1 1 
+
+M 
+t l 
+I I 
+M 
+I I 
+i 
+
+M 
+l 
+M 
+
+
+
+X 
+
+i 
+
+
+
+
+9 
+
+
+
+i 
+
+
+
+i 
+
+
+
+TUBE SHUTTER 
+
+Fio. 3 GuxBD-TyrB SamtukoTObs — Dmott 
+
+
+
+IS.548(Part I)-1964 
+
+The instrument is inserted closed, the shutter is pulled out to admit 
+the material, and the tube u then closed and withdrawn. 
+
+3.2.2.3 Optn-lype sampling tube for homogeneous liquids — It is made 
+of metal or thick glass, and may ' be of 20 to 40 mm diameter and 
+400 to 750 mm length. The upper and lower ends are conical and 
+narrow down to 6 to 12 mm diameter. Handling is facilitated by two 
+rings at the upper end. For taking a sample, the instrument is first closed 
+at the top with the thumb or a stopper and lowered until the desired depth 
+is reached. It is then opened for a short time to admit the material and 
+anally closed and withdrawn ( see Fig. 4 ). 
+
+3.2.3 Sanipling Scoops — These instruments are of the open type and 
+are suitable for taking samples of naturally occurring vegetable fats or 
+
+
+
+
+6TO UmmDIA 
+
+
+
+o 
+o 
+
+
+
+20 TO 40 mm 0IA 
+
+
+
+-3L % 
+
+
+
+>TO40mmPlA 
+Fro. 4 Open-Type Sampuno Tube for Homogeneous Liquid* 
+
+
+
+IS 1 548 (Part 1>1964 
+
+hydrogenated vegetable oils. They »re of metal, of semi-circular or 
+C-shaped cross-section, and will bore out a core of the sample through 
+the material being sampled ( u€ Fig. 5 A and 5B ). 
+
+
+
+I O I 
+
+
+
+i O i 
+
+
+
+Uhnmm/' "^ 
+
+
+
+IT 
+
+
+
+' > 
+
+
+
+Fio. 5A Sam puno Scoop 
+
+
+
+Fio. 5B Sampumo Scoop 
+
+
+
+S 3 Sample Coetaiaera 
+
+3.9.1 The samples shall be packed in clean dry containers, preferably of 
+glass or tin-plate, the sample containers should be almost but not completely 
+
+
+
+14 
+
+
+
+IS:548(Part I)-1964 
+
+filled. Glass bottles of 500 ml capacity are recommended for liquid oils 
+and glass jars for solid vegetable oils or fats. 
+
+3.3.2 All sample containers shall be fitted with suitable tight stoppers. 
+Rubber stoppers should not be used to close the containers. In the case of 
+glass containers, glass stoppers or rtew good quality velvet corks should be 
+used and, in the case of tin containers, tin caps should be suitably soldered 
+on the top, avoiding contamination of fat with acid flux. Use of resin as 
+a flux is recommended. Tinfoil or grease-proof paper may be wrapped 
+round the corks to prevent contact of the sample with them, and it is 
+recommended that this be done in the case of refined or deodorized edible 
+oils. In the case of oils with high acid value, neither metal containers 
+nor tinfoil is recommended. 
+
+3 3 -3 The sample containers shall be sealed with sealing wax in such a 
+manner that it is not possible to remove the contents and the label without 
+breaking the imprint of the seal. 
+
+3.4 Scale of Sampling 
+
+3.4.1 Lot — All the containers in a single consignment of one type and 
+grade of material drawn from a single batch of manufacture shall constitute 
+the lot. If a consignment is declared to consist of different batches of 
+manufacture, the batches shall be marked separately and the groups of 
+containers in each batch shall constitute separate lots. Shrnild the con- 
+signment not be uniform in quality, the parts of the consignment which 
+appear to be similar may be collected together and each quality treated 
+as a separate lot. 
+
+3.4.2 Gross Sample — The general procedure for taking a gross sample is 
+to draw a number of portions from the bulk quantity ( see 3.1.2.1 ) or a 
+number of portions form all or serve'ral packages ( see 3.4.2.2 ), and mix 
+them thoroughly. Representative portions of the gross sample shall be 
+transferred to air-tight containers of suitable size for the test samples as 
+described under 3.6. 
+
+3.4.2.1 Gross sample from bulk quantities — shall be drawn in quantities 
+of not less than 2 kg per 2 000 kg or less. 
+
+3.4.2.2 Gross sample from small packages — When sampling from drums, 
+barrels, etc, the packages from which the samples are drawn shall be 
+selected at random from the lot. The following schedule is recommended 
+for the number of packages to be sampled: 
+
+Number of Packages in the Lot Number of Packages to be Sampled 
+
+1 to 4 Each package 
+
+5 to 100 At least 20 percent with a minimum 
+
+of 4 packages 
+More than 100 At least 10 percent with a minimum 
+
+of 20 packages 
+
+15 
+
+
+
+ISt548(PartI)*lM4 
+
+By agreement between the purchaser and the supplier, each package 
+may be sampled. A minimum of 0-1 percent of the total quantity in the 
+lot or 2 kg, whichever is greater, shall be drawn as the gross sample. 
+
+3.5 Procedure 
+
+3.5.1 Oils in Bulk in Storage Tanks and Tank Wagons 
+
+a) Liquid oils 
+
+1 ) Stationary — Lower the closed sampling bottle or can ( see 
+Fig. 1 ) slowly to the required depth, open and fill it at 
+that depth. Three samples shall be obtained at levels of 
+one-tenth of the depth of the liquid from the top surface 
+( top sample ), one-half of the depth ( middle sample ) and 
+nine-tenths of the depth of the liquid from the top surface 
+( lower sample ). If foots or water or both are present, a 
+bottom sample shall also be taken at the lowest point of the 
+container (bottom sample). All the samples shall be 
+mixed together in a clean dry container, and shall be 
+reduced as described under 3.6. 
+
+2) During loading or unloading — If the product is completely 
+liquid and free flowing, the pet-cock method of sampling 
+may be used. A bleeder line with a pet-cock ( 10 mm __ 
+minimum inside diameter ) is located in a vertical section 
+of the pumping line through which the product is conti- 
+nuously flowing. Adjust the pet-cock so that a continuous 
+stream of sample flows freely without dripping during the 
+entire pumping period. Collect the sample in a clean 
+dry container and protect it from dirt, water or other 
+contamination. Mix the entire sample thoroughly and 
+reduce it as described under 3.6. 
+
+In the event of a pet-cock not being available, use a conveni- 
+ent container and withdraw approximately 0-5 kg portions from 
+the discharge end of the pipe at regular intervals as the product 
+is entering or leaving the tank wagon. 
+
+b) Solid oils or fats — It is not possible to sample solid materials in 
+tank wagons correctly. If possible, the material should be lique- 
+fied and then sampled as described under 3.5.1(a). 'When 
+necessary to sample solid materials, use the sampling scoop 
+( set Fig. 5A and 5B ) and withdraw several portions from the 
+tank wagon taken vertically and obliquely towards the ends of 
+the wagon. The scoop should pass through the stock until it 
+touches the sides of the wagon so that a complete core is taken. 
+Soften (but do not milt) and mix all portions thoroughly, and 
+reduce the sample as described under 3.6. 
+
+16 
+
+
+
+IS i 548 ( Part I J-1964 
+
+3 J5 JZ Oils in Bamls, Coda, Drums aid Titrces 
+
+a) Liquid or semi-solid oils — Roll the container to mix the contents 
+and insert the sampling tube ( see Fig. 4 ) slowly through the 
+bung hole or any other convenient opening. If possible, the 
+sample should be drawn from end to end. As soon as the tube 
+is fully inserted, close the upper constriction with the thumb or 
+a stopper, withdraw the tube and transfer the sample into a 
+clean dry container. Take several portions in this maimer from 
+this and other packages recommended under 3.4.2.2. Mix 
+thoroughly and reduce the sample as described under 3.6. 
+
+b) Solid oils or fats — Remove the bung and insert the sampling 
+scoop ( see Fig. 5A and 5B ) through the opening, push it through 
+to the opposite end or side, turn it in a complete circle and with- 
+draw with the sample. If possible, the sample should be drawn 
+from end to end. Collect several such portions from this and other 
+packages recommended under 3.4.2.2. Soften ( but do not melt ) 
+and mix thoroughly, and finally reduce the sample as described 
+under 3.6. 
+
+3.5.3 Very Hard Fats in Bags, Barrels or Casks — If the material is in the 
+form offtakes or loose lumps or pieces, take grab samples of uniform and 
+proportional size from packages as directed under 3.4.2.2. If the material 
+is in the form of large pieces, it should be broken up before taken grab 
+samples. Mix thoroughly, quarter, and finally reduce the sample as 
+described under 3.6. 
+
+3.6 Test and Referee Samples 
+
+3.6.1 Size of Test Sample — The minimum size for each test sample shall 
+be 0-5 kg. 
+
+3.6.2 Preparation of Test Sample — Normally, all the samples drawn as 
+described under 3.5 shall be put into a clean dry receptacle, such as a 
+bucket or tub, and the contents of this receptacle shall be thoroughly mixed 
+and at least four uniform samples ( test samples ) shall be drawn there- 
+from. One test sample shall be sent to the purchaser and one to the 
+supplier. 
+
+3.6.2.1 The supplier shall have the right to be represented at the 
+time of sampling. 
+
+3.6.2.2 The material left over after the preparation of the test samples 
+shall be at the disposal of the supplier. 
+
+3.6 3 Referee Sample — Two of the test samples bearing the seals of the 
+purchaser and the supplier shall constitute the referee samples, to be used 
+in case of dispute between the purchaser and the supplier, and shall be 
+kept at a place agreed to between the purchaser and the supplier. 
+
+17 
+
+
+
+IS<548(P«rtI)-lft4 
+
+3.7 Test for Acceptance 
+
+3.7.1 Examination and Tests — The purchaser may separately examine test 
+samples of each of the separate qualities ( see 3.4.2.2 ) for compliance with 
+the requirements of the individual specification, or he may prepare, for 
+the purpose of such examination and at any stage of the progress of the 
+examination, a composite sample representing the whole of the consign- 
+ment, by mixing the test samples. 
+
+3.7.2 Criterion/or Judgement — The lot shall be considered to conform to 
+the requirements of this standard if the test sample'satisfies all the require- 
+ments and passes all the tests. If two or more qualities are examined 
+from a consignment and if one or more of them do not comply with the 
+requirements of the specification for that particular material, the purchaser 
+shall have the right to accept only that portion which complies with the 
+requirements, or accept or reject the whole of the consignment. 
+
+3.8 Marking of Sample Containers 
+
+3.8.1 Each sample container after filling shall be sealed and marked 
+with full details of sampling, the number of packages sampled, the date of 
+sampling, and other particulars of the consignment. 
+
+3.8.2 A label bearing the particulars given under 3.8.1 shall be attach- 
+ed and sealed to every sample container. A recommended form of label 
+is g'ven below: 
+
+a) Name and grade of material 
+
+b) Consigner 
+
+c) Size and particulars of consignment 
+
+d) Identification oflot 
+
+c) Number of packages sampled 
+
+f) Place of sampling 
+
+g) Date of sampling 
+
+4. QUALITY OF REAGENTS 
+
+4.1 Unless otherwise specified, pure chemicals and distilled water [see 
+IS: 1070-1960 Specification for Water, Distilled Quality (Revised)] shall 
+be employed in tests. 
+
+Note — ' Pure chemicals ' shall mean chemicals that do not contain impurities which 
+affect the results of analysis. 
+
+5. DETERMINATION OF MOISTURE CONTENT 
+
+5.0 General — Three methods, namely, (a) air-oven method, (b) hot- 
+plate method, and (c) distillation method are employed. The first two 
+
+18 
+
+
+
+IS : 548 ( Part I )-1964 
+
+methods give the moisture and volatile matter content together while the 
+distillation method gives only the water content. The hot-plate method is 
+useful for a rapid preliminary screening. 
+
+5.0.1 Applicability — The air-oven method is applicable to all the 
+ordinary oils and fats which have a relatively low moisture content ( below 
+one percent), but not to drying or semi-drying oils or oils of the coconut 
+oil group. The hot-plate method is applicable to all the ordinary oils and 
+fats including coconut oil. Neither of these two methods is applicable to 
+solvent extracted oik and fats which may contain residues from solvents 
+with fairly high boiling points. The distillation method is applicable to all 
+normal oils and fats, including emulsions, for the determination of moisture 
+only as differentiated from moisture and volatile matter. This method is 
+not applicable to samples of oils or fats containing volatile substances 
+miscible with water. 
+
+5.0.2 Precaution — Since water tends to settle in samples of oib or fats 
+which have softened or melted, care shall be taken to mix the samples 
+thoroughly so as to distribute the water uniformly. Soften the sample with 
+gentle heat ( but do not melt ), and mix thoroughly. This general precaution 
+is applicable to all the three methods. 
+
+5.0 3 Referee Method — In cases of dispute' and unless otherwise agreed to 
+between the purchaser and the supplier, the moisture content shall be 
+determined by the distillation method. 
+
+5.1 Air-Oven Method 
+
+5.1.1 Apparatus 
+
+5.1.1.1 Moisture dish — made of aluminium sheet about 0*45 to 
+0*56 mm thickness, 70 to 80 mm in diameter and 20 mm deep; provided 
+with tight-fitting slip-over cover. 
+
+5.1.1.2 Desiccator — containing an efficient desiccant, such as phos- 
+phorus pentoxide. 
+
+5.1.1.3 Air-oven — preferably electrically heated, with temperature 
+control device. 
+
+5.1.2 Procedure — Weigh accurately about 10 g of the oil or fat into a 
+moisture dish which has been dried previously, cooled in the desiccator 
+vnd then weighed. Place the dish in the air-oven for approximately one 
+hour at 105 ± 1°C. Remove the dish from the oven, cool in the desiccator 
+to room temperature and weigh. Repeat this procedure but keep the dish 
+in the oven only for half an hour each time until the difference between 
+the two successive weighings does not exceed one milligram. Preserve 
+the heated oil or fat for the determination of insoluble impurities (see 6) 
+
+19 
+
+
+
+IS: 548 (Part I )-1964 
+
+5.1.3 Calculation 
+
+Moisture and volatile matter ioOm, 
+content, percent by weight » — ^=- 
+
+where 
+
+w = loss in weight in g of the material upon drying, and 
+W = weight in g of the material taken for the test. 
+
+5.2 Hot-Plate Method 
+
+5.2.1 Apparatus 
+
+5.2.1.1 Glass beaker— 100 to 150 ml capacity. 
+
+5.2.1.2 Small glass rod 
+
+5.2.1.3 Desiccator — containing an efficient desiccant, such as phos- 
+phorus pentoxide. 
+
+5.2.1.4 Electric hot-plate — with variable heat control. 
+
+5.2.2 Procedure — Weigh accurately about 10 g of the oil or fat into the 
+glass beaker which has been previously dried along with the small glass 
+rod, cooled in the desiccator, and weighed. Heat the sample on the 
+electric hot-plate, stirring continuously with the glass rod. Avoid spatter- 
+ing of the oil or fat which may result from too rapid an ebullition of 
+moisture. The apparent end point is judged by the cessation of the rising 
+hubbies of steam as well as by the absence of foam. Alternatively, judge the 
+end point by placing a clean, dry watch-glass on top of the beaker and 
+observing when no further condensation takes place on the watch-glass. 
+When the apparent end point has been reached, heat momentarily to the 
+point of incipient smoking taking care not to overheat. Cool to room 
+temperature in the desiccator and weigh. Preserve the heated oil or fat 
+for the determination of insoluble impurities (j«6). 
+
+5.2.3 Calculation 
+
+Moisture and volatile matter .qq 
+content, percent by weight = — r^-. 
+
+where 
+
+w =■ loss in weight ing of the material upon drying, and 
+W »= weight in g of the material taken for the test. 
+
+5.3 Distillation Method 
+
+5.3.1 Apparatus — The apparatus consists of a glass flask heated by 
+suitable means and provided with a reflux condenser discharging into a 
+trap and connected to the flask. The connections between the trap and 
+
+20 
+
+
+
+IS : 548 ( Part I >1964 
+
+the condenser and the flask should be interchangeable ground glass joints. 
+The trap serves to collect and measure the condensed water, and to return 
+the solvent to the flask. The assembly of the apparatus is shown in Fig. 6, 
+and the various components are described below: 
+
+a) Flask — a 500- to 1 000-ml flask of the shape shown in Fig. 6, made 
+of hard resistance glass, well annealed and as free as possible from 
+striae and similar defects. 
+
+b) Condenser — a glass water-cooled reflux type condenser, of the 
+design and dimensions shown in Fig. 6A. The only mandatory 
+dimensions for the condenser are the external diameters of the 
+inner tube and of the jacket, which shall be 16 to 17 mm and 23 to 
+25 mm respectively. The joints A and B should be neatly finished 
+as shown in Fig. 6A, particularly the bore at B shall have the 
+minimum disturbance. The shoulder above the cone of joint 
+D shall be elongated as shown in Fig. 6A to avoid a sharp re- 
+entrant shape which may restrict the free flow of liquid down the 
+inner wall. The cone shall be extended beyond the length appro- 
+priate to the joint D, and the lower end ground at an angle of 
+approximately 60° to the axis. The drainage tip shall be at the 
+front of the condenser when the lower water connection is to the 
+left, and the finish shall be either smooth or fire-polished. When 
+inserted into the trap, the tip of the condenser shall be 6 to 7 mm 
+above the surface of the liquid in the trap after distillation condi- 
+tions have been established. The nominal dimensions of the 
+joint D are given below: 
+
+Nominal Dia Nominal Dia Nominal Length of 
+
+of Large End of Small End of Ground Z one Measured 
+
+of Ground Zone Ground Z one Axially 
+
+mm mm mm 
+
+188 16-2 26 
+
+c) Receivers — otherwise called the trap, made of hard resistance 
+glass, well annealed and as free as possible from striae and similar 
+defects, provided with ground glass joints, with the shape, 
+dimensions and tolerances given in Fig. 6B and 6C; consisting 
+essentially of the upper chamber, together with the tube and 
+ground joint leading tc the flask, and the graduated tube. 
+
+The receivers shall be of two sizes, namely, 2 ml capacity 
+and 10 ml capacity (see Fig. 6B and 6C)'. The mandatory 
+dimensions and tolerances for the receivers shall be as given in 
+Table 1. 
+
+21 
+
+
+
+ISsM8(PartlV1964 
+
+
+
+\tl 
+
+
+
+■CONOENSER 
+
+
+
+RECEIVER 
+
+
+
+
+OISTMATWN 
+FLASK 
+
+
+
+Fio. 6 Typical Ambmbly of Dban and Stabs Appabatui 
+
+
+
+22 
+
+
+
+IS: 518 (Part 1)4964 
+
+
+
+25 
+
+
+
+23 TO 25 OD 
+
+WALL 1 TO 1»5 
+THICK 
+
+
+
+2S0 
+
+
+
+16 TO 17 00 
+WALL 0-7 T01 
+THICK 
+
+
+
+B LENGTH 
+
+J 
+
+
+
+
+All dimensions in millimetres. 
+Fio. 6A Condinssk 
+
+
+
+The shoulder of the upper chamber of the receiver immedia- 
+tely below the conical joint shall be finished square, as shown in 
+Fig. 6B and 6C. The graduated portion of the receiver shall be 
+cylindrical throughout its length. The bottom of the graduated 
+tube of the 2-ml receiver shall be sealed, the end of the tube 
+being approximately hemispherical in shape. The graduated 
+scales on the receivers shall be numbered and subdivided as shown 
+in Fig. 6B and 6C. The graduation marks shall be fine cleanly 
+etched permanent lines of uniform thickness lying in planes at 
+right angles to the axis of the tube. The graduation marks shall 
+be confined to the cylindrical portion of the tube and there shall be 
+
+
+
+23 
+
+
+
+18 1 548 (Part 1>1964 
+
+
+
+TABLE 1 MANDATORY DIMENSIONS AND TOLERANCES FOR RECEIVER 
+
+
+[Caw* 5.3.1(c)] 
+
+
+
+
+
+
+St No. CHARACTUURta 
+
+
+RlCBIVBR 
+
+
+
+
+2-ml 
+
+
+10-ml 
+
+
+0) (2) 
+
+
+(3) 
+
+
+W 
+
+
+i) Volume, equivalent to smallest sub- 
+division, ml 
+
+
+005 
+
+
+01 
+
+
+ii) Scale length, mm 
+
+
+95*10 
+
+
+110*10 
+
+
+iii) Length of cylindrical tube above upper 
+graduation mark, mm 
+
+
+10 to 15 
+
+
+10 to 30 
+
+
+iv) Tolerance on capacity, ml 
+
+
+*0-02 
+
+
+*006 
+
+
+v) Maximum permissible leakage rate of 
+stopcock, ml/min 
+
+
+— 
+
+
+0004 
+
+
+
+no evident irregularity in their spacing. In these receivers the 
+numbered graduation marks shall be carried completely roJnd the 
+tube, the shortest graduation marks shall be carried halfway 
+round the tube, and the graduation marks of intermediate length 
+shall be carried approximately two-thirds of the way round the 
+tube and shall project equally at each end beyond the shortest 
+graduation marks. 
+
+The capacity corresponding to any graduation mark is defined 
+as the volume of water at 27°C, expressed in millilitres, required 
+to fill the graduated portion to that mark at 27°C, the axis of the 
+graduated portion being vertical and the lowest point of the water 
+meniscus being set on the graduation mark. In the case of 10-ml 
+receiver, the volume of the bore of the stopcock key and the 
+volume of the jet below the stopcock shall not be included as part 
+of the measured volume. 
+
+The error at any point on the receiver scale, and also the 
+difference between the errors at any two points on the scale, shall 
+not exceed the figures given for the receivers in Table 1. 
+
+For the 10-ml receiver, the stopcock shall be of the 2 mm 
+oblique bore having the general design shown in Fig. 6B and 6C. 
+The rate of leakage, tested with the stopcock free from grease, the 
+barrel and key wetted with water, the receiver filled initially with 
+water to the top of the scale, and the key in either fully shut-off 
+position, shall not exceed the figures given in Table 1. 
+
+24 
+
+
+
+IS:548 (Partl>1964 
+
+
+
+
+AU dimensions in millimetres. 
+Fio. 6B 2-mI Rtcstvs* 
+
+
+
+25 
+
+
+
+13 1 548 (Part 1)4964 
+
+
+
+
+All dimcnsioni in millimetres. 
+
+Fio. 6G 10-mI Receiver 
+
+
+
+26 
+
+
+
+IS t 548 ( Part I )-1964 
+
+Each receiver shall have permanently ard legibly marked 
+on it: 
+
+1) the abbreviation * ml ', 
+
+2) the inscription '27 C' to indicate that the receiver is gra- 
+duated for content at 27°C, and 
+
+3) an identification number shall also appear on the key. 
+
+d) Heat source — the source of heat may be either an oil-bath or an 
+electric hentcr provided with a sliding rheostat or other means 
+of heat control. The temperature of the oil in the bath should not 
+be very much higher than the boiling point of xylene or toluene, 
+whichever solvent is used. 
+
+e) Copper wire — long enough to extent through the condenser, with 
+one end twisted into a spiral. The diameter of the spiral should 
+be such that it fits snugly within the graduated portion of the 
+receiver and yet may be moved up and down. 
+
+5.3.2 Reagents 
+
+5.3.2.1 Potassium dichromate- sulphuric acid cleaning solution 
+
+5.3.2.2 Xylene or toluene — Saturate the xylene or toluene by shaking 
+with a small quantity of water, and distil. Use the distillate for the deter- 
+mination of moisture. 
+
+533 Procedure — Clean the entire apparatus with potassium dichromate- 
+lulphuric acid cleaning solution to minimize the adherence of water 
+droplets to the sides of the condenser and the receiver. Rinse thoroughly 
+with water and dry completely before using. The quantity of material 
+taken for the test is determined by the amount of moisture present (w/w), 
+as indicated below: 
+
+Moisture Range Quantity of Material 
+
+{Approximately ) 
+Less than 1 percent 200 g 
+
+1 to 5 percent 100 g 
+
+Moisture in excess of Proportionally smaller 
+
+S percent quantity 
+
+Place the specified quantity ofmaterial-, accurately weighed, in the dis- 
+tillatiou flask, add an equal volume of xylene or toluene, as desired, or at 
+least 100 ml if less than 100 g of rhe material is used, and swirl to mix. 
+Assemble the apparatus and fill the receiver with the solvent by pouring it 
+through the condenser until it begins to overflow into the distillation flask. 
+Insert a loose cotton plug in the top of the condenser to prevent condensa- 
+tion of atmospheric moisture within the tube. In order that the rcfiuxing 
+may be under control, wrap the flask and the tube leading to the receiver 
+with asbestos cloth. Heat the flask so that the distillation rate is about 
+100 drops per minute. When the greater part of the water has distilled 
+
+27 
+
+
+
+IS t 548 ( Part I )-1964 
+
+over, increase the distillation rate to about 200 drops per minute and 
+continue until no more water is collected. Purge the reflux condenser 
+occasionally during the distillation with 5 ml portions of xylene or toluene 
+to wash down any moisture adhering to the walls of the condenser. The 
+water in the receiver may be made to separate from the xylene or toluene 
+by moving the spiral copper wire up and down in the condenser and 
+receiver occasionally, thus causing the water to settle at the bottom of the 
+receiver. Reflux until the water-level in the receiver remains unchanged 
+for 30 minutes and then shut off the source of heat. Flush the condenser 
+with either xylene or toluene, as required, making use of the spiral copper 
+wire to discharge any moisture droplets. Immerse the receiver in water at 
+about 27°C for at least 15 minutes or until the xylene or toluene layer is 
+clear, and then read the volume of water. 
+
+5.3.4 Calculation 
+
+100 VD 
+
+
+
+Moisture content, percent by weight 
+
+
+
+W 
+
+
+
+where 
+
+
+
+V « volume in ml of water, 
+
+D =• specific gravity of water at. the temperature at which the 
+
+volume of water is read, and 
+W ** weight in g of the material taken for the test. 
+
+6. DETERMINATION OF INSOLUBLE IMPURITIES 
+
+6.0 General — The material is dissolved in hot kcrosine and filtered. The 
+residue is washed thoroughly with petroleum ether dried at 100 ± 2°C 
+and cooled in a desiccator till constant in weight. 
+
+6.1 Apparatus 
+
+6.1.1 Gooch Crucible — prepared with a pad of acid-washed asbestos, 
+about 2 mm thick. Wash the pad with water alcohol and ether. Dry to 
+constant weight at 100 ± 2°C, cool in a desiccator to room temperature 
+and weigh. 
+
+6.1.2 Filter Flask — of convenient size. 
+
+6.1.3 Gooch Cruciblt Adapter 
+
+6.2 Reagenta 
+
+6.2.1 Kerosint — conforming to Grade 1 of *IS : 1459-1959 Specification 
+for Kerosines. Filter the kerosine through a Gooch crucible prior to use. 
+
+6.2.2 Petroleum Ether — conforming to solvent Grade 60/80 of MS : 1745- 
+1961 Specification for.Petroleum Hydrocarbon Solvents. 
+
+• Since reviled. 
+
+28 
+
+
+
+IS: 548 (Part I)-1964 
+
+6 J Procedure — Use the whole of the heated oil or Tat left over after the 
+determination of moisture and volatile matter described under 5.1 or 5.2. 
+Alternatively, use a sample prepared in the same manner. Add 50 ml of 
+kerosine to this quantity of the oil or fat and heat on a water-bath to 
+dissolve it. Filter through the prepared Gooch crucible with the aid of 
+vacuum. Wash the container and the crucible with five 10-ml portions of 
+hot kerosine allowing each portion to drain before adding the next. Wash 
+the crucible thoroughly with petroleum ether to remove all the kerosine. 
+Dry the crucible and contents to constant weight at 100 ± 2"C, cool to 
+room temperature in a desiccator, and weigh. 
+
+
+
+6.4 Calculation 
+
+
+
+Insoluble impurities, percent 
+by weight 
+
+
+
+where 
+
+w — gain in weight in g of Gooch crucible, and 
+\V a weight in g of the original material taken for the test 
+( see 5.1.3 and 5.2.3 ). 
+
+7. DETERMINATION OF ACID VALUE AND FREE FATTY ACIDS 
+
+7.0 General — The acid value is determined by directly titrating the 
+material in an alcoholic medium with aqueous sodium or potassium hydro- 
+xide solution. Free fatty acid is calculated as oleic, lauric, ricinoleic or 
+
+palmitic acids. 
+
+7.1 Reagents 
+
+7.1.1 Ethyl Alcohol — ninety-five percent ( by volume ), or rectified spirit 
+[conforming to IS: 323-1959 Specification for Rectified Spirit ( Revised) ] 
+neutral to phenolphthalein indicator. 
+
+7.1.2 Phenolphthalein Indicator Solution — Dissolve one gram of phenol- 
+phthalein in 100 ml of ethyl alcohol. 
+
+Note — When testing oili or f»ti which give dark coloured soap solution, the 
+observation of the end point a& the titration may be facilitated either (a) by using 
+thymolphthalein or alkali blue 6B in place of phenolphthalein, or (b) by adding 
+one millilitre of a 0*1 percent ( w/v ) solution of methylene blue in water to each 100 ml 
+of phenolphthalein indicator solution before the titration. 
+
+7.1.3 Standard Aqueous Potassium Hydroxide or Sodium Hydroxide Solutions — 
+01 Nor 0-5 N. 
+
+7.2 Procedure — Mix the oil or melted fat thoroughly before weighing. 
+Weigh accurately a suitable quantity of the cooled oil or fat in a 
+
+29 
+
+
+
+IS 1 548 (Part I )-1964 
+
+200-ml conical flask. The weight of the oil or fat taken for the test and the 
+strength of the alkali used for the titration shall be such that the volume of 
+alkali requited for the titration does not exceed 10 ml. Add 50 to 
+100 ml of freshly neutralized hot ethyl alcohol, anrJ about one millilitre 
+of phenolphthalein indicator solution. Boil the mixture for about give 
+minutes and titrate while as hot as possible with standard aqueous alkali 
+solution, shaking vigorously during titration. 
+
+7.3 Calculation 
+
+. ., , 56-1 VN 
+
+Acid value = — — 
+
+W 
+
+where 
+
+V = volume in ml of standard potassium hydroxide or sodium 
+hydroxide solution used, 
+
+N — normality of standard potassium hydroxide or sodium 
+hydroxide solution, and 
+
+W = weight in g of the material taken for the test. 
+
+7.3.1 Free Fatly Acids — The acidity is frequently expressed as the percen- 
+tage of free fatty acids present in the sample. The percentage of free fatty 
+acids in most of the oils and fats is calculated on the basis of oleic acid; 
+although in coconut oil and palm kernel oil it is often calculated in terms 
+of lauric acid, in castor oil in terms of ricinoleir acid, and in palm oil in 
+terms of palmitic acid. The calculations in terms of different fatty acids 
+are as follows: 
+
+a) Free fatty acids, in terms of oleic acid, 28-2 VN 
+percent by weight = — ^ — 
+
+b) Free fatty acids, in terms of lauric acid, 20-0 VN 
+percent by weight ■» - — rp — 
+
+c) Free fatty acids, in terms of ricinoleic 29 - 8- VN 
+acid, percent by weight *= — »p — 
+
+d) Free fatty acids, in terms of palmitic 25-6 VN 
+acid, percent by weight ■■ — w - 
+
+
+
+where 
+
+
+
+V ass volume in ml of standard potassium hydroxide solution 
+used, 
+
+N mm normality of standard potassium hydroxide solution, and 
+
+W « weight in g of the material taken for the test. 
+
+SO 
+
+
+
+IS : 548 ( Part I V1964 
+8. DETERMINATION OF UNSAPONIFIAILE MATTER 
+
+8.0 General — • The material is completely saponified with alcoholic potas- 
+sium hydroxide solution and extracted with petroleum ether. The 
+petroleum ether extract is washed with aqueous alcohol and then again 
+with water. The washed ether extract is evaporated and the residue 
+weighed. Unsaponifiable matter is this residue minus the fatty acid present 
+in it, which is determined by titration with sodium hydroxide solution in 
+alcoholic medium. 
+
+8.1 Apparatus 
+
+8.1.1 Flat-Bottomed or Conical Flask — 250 to 300 ml capacity. An ordi- 
+nary round, fiat-bottomed flask, fitted with a long glass tube which acts as 
+a condenser, may also be used. 
+
+8.1.2 Separating Funnels — 500-ml capacity. 
+
+8.2 Reagents 
+
+8.2.1 Alcoholic Potassium Hydroxide Solution — Dissolve 70 to 80 g of potas- 
+sium hydroxide in an equal quantity of distilled water, and add sufficient 
+aldehyde-free ethyl alcohol ( 95 percent by volume ) or aldehyde-free 
+rectified spirit [conforming to IS: 323-1959 Specification for Rectified 
+Spirit ( Revised) ], prepared as described under G-3.4 of IS : 323-1959, to 
+make up to 1 000 ml. Allow to stand overnight, decant the clear liquid 
+and keep in a bottle closed tightly with a cork or rubber stopper. 
+
+8.2.2 Ethyl Alcohol — ninety-five percent ( by volume ), or rectified spirit 
+[ conforming to IS : 323-1959 Specification for Rectified Spirit ( Revised ) ]. 
+
+8.2.3 Phenolphthalein Indicator Solution — Dissolve one gram of phenol- 
+phthalein in 100 ml of ethyl alcohol. 
+
+8.2.4 Petroleum Ether — conforming to solvent Grade 60/80 of *IS : 1745- 
+1961 Specification for Petroleum Hydrocarbon Solvents. 
+
+8.2.5 Aqueous Alcohol — containing 10 percent (by volume) of ethyl 
+alcohol [ conforming to *IS : 321-1952 Specification for Ethyl Alcohol 
+( Absolute Alcohol ) ]. 
+
+8.2.6 Standard Sodium Hydroxide Solution — approximately 0*02 N. 
+
+8.2.7 Acetone — free from evaporation residue (see*lS: 170-1950 Speci- 
+fication for Acetone ). 
+
+8.3 Procedure 
+
+8.3.1 Weigh accurately about 5 g of the ^ell-mixed sample into the flask. 
+Add 50 ml of alcoholic potassium hydroxide solution. Boil gently but 
+steadily under a reflux condenser for one hour or until the saponification is 
+
+'Since revised. 
+
+31 
+
+
+
+ISi548(Partl>1964 
+
+complete. Wash the condenser with about 10 ml of ethyl alcohol. Cool 
+the mixture and transfer it to a separating funnel. Complete the transfer 
+by washing the flask first with some ethyl alcohol and then with cold water. 
+Altogether, add 50 ml of water to the separating funnel followed by an 
+addition of 50 ml of petroleum ether. Insert the stopper and shake 
+vigorously for at least one minute and allow to settle until both the layers 
+are clear. Transfer the lower layer containing the soap solution to another 
+separating funnel, and repeat the ether extraction at least six times more 
+using 50 ml of petroleum ether for each extraction. If any emulsion is 
+formed, add a small quantity of ethyl alcohol or alcoholic potassium 
+hydroxide solution. 
+
+8.3.2 Collect all the ether extracts in a separating funnel. Wash the 
+combined extracts in the funnel three times with 25-ml portions of aqueous 
+alcohol shaking vigorously and drawing off the alcohol-water layer after 
+each washing. Again wash the ether layer successively with 20-ml portions 
+of water until the wash-water no longer turns pink on addition of a few 
+drops of phenolphthalein indicator solution. Do not remove any of the 
+ether layers. Transfer the ether layer to a tared flask containing a few 
+pieces of pumice stone, and evaporate to dryness on a water-bath under a 
+gentle stream of clean dry air. To remove the last traces of ether, place 
+the flask in an air-oven at 80 to 90°C for about one hour. To remove the 
+last traces of moisture, add a few millilitres of acetone and pass a gentle 
+stream of clean dry air over the surface of the material or evacuate using a 
+-vater vacuum pump at about 50"C for about 15 minutes. Cool in a 
+desiccator and weigh. Repeat the evacuating, cooling and weighing until 
+a constant weight is obtained. 
+
+8.3 3 After weighing, take up the residue in 50 ml of warm neutral 
+ethyl alcohol, containing a few drops of phenolphthalein indicator solution 
+and titrate with standard sodium hydroxide solution. 
+
+8.4 Calculation 
+
+8.4.1 Weight in g of the fatty acids in 
+
+the extract ( as oleic acid ) «- B « 0282 VN 
+where 
+
+V » volume in ml of standard sodium hydroxide solution, and 
+N *- normality of standard sodium hydroxide solution. 
+
+..,„ .... . . . ^ 100 ( A — B) 
+
+8.4 .2 Unsaponmable matter, percent by weight •» ±-jn - 
+
+where 
+
+A == weight in g of the residue ( set 8.3.2 ), 
+
+B mm weight in g of the fatty acids in the extract ( stt 8.4.1 ), 
+
+and 
+W — weight in g of the material taken for the test. 
+
+32 
+
+
+
+IS t 548 ( Part I )-1964 
+
+9. DETERMINATION OF MELTING POINT 
+
+9.0 General — Oils and fats are chiefly mixtures of glycerides. They do 
+not exhibit either a definite or a sharp melting point. Therefore, the term 
+' melting point * does not imply the same characteristics that it does with 
+pure crystalline substances. Fats pass through a stage of gradual softening 
+before they become completely liquid. The melting point is, therefore, 
+denned by the specific conditions of the method by which it is determined 
+(m< 2.6). 
+
+9.0.1 The melting point is determined by taking the solid fat inside a 
+small capillary tube and two methods are prescribed for the purpose. Both 
+of these are applicable to all types of normal animal and vegetable fats and 
+the method used shall be specified while stating the results. 
+
+9.1 Open-Tube Capillary-Slip Method 
+
+9.1.1 Apparatus 
+
+9.1.1.1 Melting point tubes — thin walled, uniformly bored capillary 
+glass tubes open at both ends and with the following dimensions: 
+
+a) Length, 50 to 60 mm; 
+
+b) Inside diameter 08 to 1*1 mm; and 
+
+c) Outside diameter, T2 to 1*5 mm. 
+
+9.1.1.2 Thermometer — with - 2° subdivisions and a suitable range. 
+The thermometer should be checked against a standard thermometer which 
+has been calibrated and certified by the National Physical Laboratory, 
+New Delhi, or any other laboratory recognized for such work. 
+
+9.1.1.3 Beaker — with a side-tube heating arrangement. Thiele 
+melting point tube may be used. 
+
+9.1.1.4 Heat source -gas burner or a spirit lamp. 
+
+9.1.2 Procedure — Melt the sample and filter it through a filter paper to 
+remove any impurities and the last traces of moisture. Make sure that the 
+sample is absolutely dry. Mix the sample thoroughly. Insert a clean 
+melting point tube into the molten sample product so that a column of the 
+material, about 10 mm long, is forced info the tube. Chill the sample in 
+the tube at once by placing the end of the tube containing the sample 
+against a piece of the ice until the fat has solidified. Place the melting 
+point tube in a test-tube and hold it for one hour either in a refrigerator or 
+in water maintained at 4 to 10'C. Remove thr melting point tube and 
+attach with a rubber band or any other suitable means to the thermometer 
+so that the lower end of the melting point tube is even with the bottom of 
+the bulb of the thermometer. Pour water at about 10*C into the beaker 
+or the Thiele tube, and suspend the thermometer in the centre of the 
+apparatus, so that the lower end of the sample column is about 30 mm - 
+
+33 
+
+
+
+IS t 548 (Part I )-1964 
+
+below the surface of water. Heat the side tube of the apparatus gently, so 
+that the temperature of the water rises slowly at the rate of 2°C per minute 
+till the temperature reaches 25°C, and thereafter at the rate of 0"5*C per 
+minute. Note the temperature of the water when the sample column 
+commences to rise in the melting point tube. Report the average of two 
+such separate determinations as the melting point, provided that the read- 
+ings do not differ by more than 0'5°G. 
+
+9.2 Closed-Tube Complete-Fusion Method 
+9.2.1 Apparatus 
+
+9.2.1.1 Melting point tubts — thin-walled, uniformly bored capillary 
+glass tubes open at both ends and with the following dimensions: 
+
+a) Length, 50 to 60 mm; 
+
+b) Inside diameter, 0*8 to 1*1 mm; and 
+
+c) Outside diameter, 1 -2 to 1 '5 mm. 
+
+9.2.1.2 Thermometer — with 0*2° subdivisions and a suitable range. 
+The thermometer should be checked against a standard thermometer 
+which has been calibrated and certified by the National Physical Laboratory, 
+New Delhi, oc any other laboratory recognized for such work. 
+
+9.2.1.3 Large test-tube 
+
+9.2.1.4 Glass beaker— 600 ml capacity. 
+
+9.2.1.5 Heat source — gas burner or electric hot-plate with rheostat 
+control. 
+
+9.2 3. Procedure — Melt the sample and filter it through a filter paper 
+to remove any impurities and the last traces of moisture. Make sure that 
+the sample is absolutely dry. Mix the sample thoroughly. Insert a clean 
+melting point tube into the molten product so that a column of the mate- 
+rial about 10 mm long is forced into the tube. Cautiously fuse one end of 
+the tube ( where the sample is located ) in a small flame, taking care not 
+to burn the fat. Place the tube in a beaker and while the fat is still in the 
+liquid state, transfer to a refrigerator and hold at 4 -to 10°C overnight 
+(about 16 hours). Remove the tube from the refrigerator, and attach 
+with a rubber band or by any other suitable means to the thermometer so 
+that the lower end of the melting point tube is even with the bottom of the 
+bulb of the thermometer. Suspend the thermometer in a large test-tube 
+containing water and immerse it in the 600-ml beaker which is about half 
+full of water. The bottom of the thermometer b immersed in the water 
+about 30 mm below the surface. Adjust the starting bath temperature 
+from 8 to 10*C below the melting point of the sample at the beginning of 
+the test. Agitate the water in the large test-tube as well as in the beaker 
+with a small stream of air or by other means, and apply heat so as to 
+increase the bath temperature at the rate of about 0'5*C per minute. As 
+
+34 
+
+
+
+IS > 548 l Part I )-1964 
+
+fats usually pass through an opalescent stage before melting completely, the 
+heating is continued until the liquid in the tube is completely clear 
+throughout. Observe the temperature at which the liquid becomes clear. 
+Report the average of two such separate determinations as the melting 
+point, provided that the readings do not differ by more than 0'5°C. 
+
+10. DETERMINATION OF REFRACTIVE INDEX 
+
+10.1 Apparatus 
+
+10.1.1 Refractometer — Abbe or Butyro refractometer. The temperature 
+of the refractometer should be controlled to within ±0'1°C and for this 
+purpose it should be provided with a thermostatically controlled water-bath 
+and a motor-driven pump to circulate water through the instrument. The 
+instrument should be standardized, following the manufacturer's instruc- 
+tions, with a liquid of known purity and refractive index or with a glass 
+prism of known refractive index. Distilled water, which has a refractive 
+index of 1-333 at 20'0°C, is a satisfactory liquid for standardization. 
+
+10.1.2 Light Source — If the refractometer is equipped with a compensa- 
+tor, a tungsten lamp or a daylight bulb may be used. Otherwise, a 
+monochromatic light, such as an electric sodium vapour lamp, should be 
+used. 
+
+10.2 Procedure — Melt the sample, if it is not already liquid, and filter 
+through a filter paper to remove any impurities and the last traces of mois- 
+ture. Make sure that the sample is completely dry. Adjust the temperature 
+of the refractometer to 40'0 ± 01°C or to any other desired temperature. 
+Ensure that the prisms are clean and completely dry, and then place a few 
+drops of the sample on the lower prism. Close the prisms, tighten firmly 
+with the screw-head, and allow to stand for one or two minutes. Adjust 
+the instrument and light to obtain the most distinct reading possible, and 
+determine the refractive index. 
+
+10.3 Temperature Corrections) — Unless the correction factors are 
+specified in the detailed specification, approximate corrections shall be 
+made using the following equation: 
+
+R =* R' + K ( T - T) 
+
+where 
+
+R = the reading of the refractometer reduced to the specified 
+
+temperature, 7" C; 
+R' = the reading at 7*'°C; 
+K = constant, 0000 365 for fats, and 0000 385 for oils ( if 
+
+Abbe refractometer is use.d ), or 
+» 0'55 for fats and 0-58 for oils ( if Butyro refractometer is 
+
+used ) ; and 
+T' or the temperature at which the reading R' is taken; 
+T ■» the specified temperature ( generally 40'0°C ). 
+
+35 
+
+
+
+IS : 548 ( Part I )-1961 
+
+10.4 Conversion of Bntyro Refractometer Reading! to Refractive 
+Indices — When Butyro refractometer is used, its readings shall be con- 
+verted into refractive indices (») c ) using Table 2. 
+
+
+
+TABLE 2 CONVERSION OF BUTYRO REFRACTOMETER READINGS 
+( B ) TO REFRACTIVE INDICES ( t, d ) 
+
+J Id B 1b B Id B Id B Id 
+
+
+
+00 
+
+
+1-422 
+
+
+4-7 
+
+
+8 
+
+
+9-5 
+
+
+6 
+
+
+14-4 
+
+
+4 
+
+
+19-3 
+
+
+2 
+
+
+0-1 
+
+
+1 
+
+
+4-8 
+
+
+9 
+
+
+9-6 
+
+
+7 
+
+
+14-5 
+
+
+5 
+
+
+19-5 
+
+
+3 
+
+
+02 
+
+
+2 
+
+
+50 
+
+
+1-426 
+
+
+9-8 
+
+
+8 
+
+
+14-6 
+
+
+6 
+
+
+19-6 
+
+
+4 
+
+
+04 
+
+
+3 
+
+
+51 
+
+
+1 
+
+
+9*9 
+
+
+9 
+
+
+14-7 
+
+
+7 
+
+
+19-7 
+
+
+5 
+
+
+05 
+
+
+4 
+
+
+52 
+
+
+2 
+
+
+100 
+
+
+1-4300 
+
+
+14-9 
+
+
+8 
+
+
+19-8 
+
+
+6 
+
+
+06 
+
+
+5 
+
+
+5-4 
+
+
+3 
+
+
+10- i 
+
+
+1 
+
+
+150 
+
+
+9 
+
+
+200 
+
+
+7 
+
+
+0-7 
+
+
+6 
+
+
+5-5 
+
+
+4 
+
+
+10 3 
+
+
+2 
+
+
+151 
+
+
+1-434 
+
+
+201 
+
+
+8 
+
+
+09 
+
+
+7 
+
+
+5-6 
+
+
+5 
+
+
+10-4 
+
+
+3 
+
+
+15-3 
+
+
+1 
+
+
+20-3 
+
+
+9 
+
+
+1-0 
+
+
+8 
+
+
+5-7 
+
+
+6 
+
+
+10-5 
+
+
+4 
+
+
+15-4 
+
+
+2 
+
+
+20-4 
+
+
+1-438 
+
+
+11 
+
+
+9 
+
+
+5-9 
+
+
+7 
+
+
+10-6 
+
+
+5 
+
+
+15-5 
+
+
+3 
+
+
+20-5 
+
+
+1 
+
+
+1-2 
+
+
+1-423 
+
+
+60 
+
+
+8 
+
+
+10-7 
+
+
+6 
+
+
+15-6 
+
+
+4 
+
+
+20-6 
+
+
+2 
+
+
+1-4 
+
+
+1 
+
+
+61 
+
+
+9 
+
+
+10-9 
+
+
+7 
+
+
+158 
+
+
+5 
+
+
+20-8 
+
+
+3 
+
+
+1-5 
+
+
+2 
+
+
+62 
+
+
+1-427 
+
+
+11-0 
+
+
+8 
+
+
+15-9 
+
+
+6 
+
+
+20-9 
+
+
+4 
+
+
+1-6 
+
+
+3 
+
+
+6-4 
+
+
+1 
+
+
+11-1 
+
+
+9 
+
+
+16-0 
+
+
+7 
+
+
+21-1 
+
+
+5 
+
+
+1-7 
+
+
+4 
+
+
+65 
+
+
+2 
+
+
+1 1-3 
+
+
+1-431 
+
+
+16-2 
+
+
+8 
+
+
+21-2 
+
+
+6 
+
+
+1-9 
+
+
+5 
+
+
+6-6 
+
+
+3 
+
+
+11-4 
+
+
+1 
+
+
+16-3 
+
+
+9 
+
+
+21-3 
+
+
+7 
+
+
+20 
+
+
+6- 
+
+
+6-8 
+
+
+4 
+
+
+11-5 
+
+
+2 
+
+
+16-4 
+
+
+1-435 
+
+
+214 
+
+
+8 
+
+
+21 
+
+
+7 
+
+
+69 
+
+
+5 
+
+
+tl-6 
+
+
+3 
+
+
+16-6 
+
+
+1 
+
+
+21-6 
+
+
+9 
+
+
+22 
+
+
+8 
+
+
+70 
+
+
+6 
+
+
+118 
+
+
+4 
+
+
+16.7 
+
+
+2 
+
+
+21-7 
+
+
+1-439 
+
+
+2-4 
+
+
+9 
+
+
+71 
+
+
+7 
+
+
+11-9 
+
+
+5 
+
+
+16-8 
+
+
+3 
+
+
+218 
+
+
+1 
+
+
+25 
+
+
+1-424 
+
+
+7-2 
+
+
+8 
+
+
+120 
+
+
+6 
+
+
+170 
+
+
+4 
+
+
+220 
+
+
+2 
+
+
+26 
+
+
+1 
+
+
+7-4 
+
+
+9 
+
+
+12-2 
+
+
+7 
+
+
+171 
+
+
+5 
+
+
+221 
+
+
+3 
+
+
+2-7 
+
+
+2 
+
+
+7-5 
+
+
+1-42BO 
+
+
+12-3 
+
+
+8 
+
+
+17-2 
+
+
+6 
+
+
+222 
+
+
+4 
+
+
+2-8 
+
+
+3 
+
+
+76 
+
+
+1 
+
+
+124 
+
+
+9 
+
+
+17-4 
+
+
+7 
+
+
+22-4 
+
+
+5 
+
+
+30 
+
+
+4 
+
+
+7-7 
+
+
+2 
+
+
+12-5 
+
+
+1-432 
+
+
+17-5 
+
+
+8 
+
+
+22-5 
+
+
+6 
+
+
+3.1 
+
+
+5 
+
+
+7-9 
+
+
+3 
+
+
+12-7 
+
+
+1 
+
+
+17-6 
+
+
+9 
+
+
+226 
+
+
+7 
+
+
+32 
+
+
+6 
+
+
+80 
+
+
+4 
+
+
+12-8 
+
+
+2 
+
+
+17-8 
+
+
+1-436 
+
+
+22-7 
+
+
+8 
+
+
+3-3 
+
+
+7 
+
+
+81 
+
+
+5 
+
+
+12-9 
+
+
+3 
+
+
+17-9 
+
+
+1 
+
+
+22-9 
+
+
+9 
+
+
+35 
+
+
+8 
+
+
+8-2 
+
+
+6 
+
+
+130 
+
+
+4 
+
+
+180 
+
+
+2 
+
+
+230 
+
+
+1-4400 
+
+
+36 
+
+
+9 
+
+
+8-4 
+
+
+7 
+
+
+13-2 
+
+
+5 
+
+
+18 2 
+
+
+'3 
+
+
+23-2 
+
+
+1 
+
+
+37 
+
+
+1 425 
+
+
+8-5 
+
+
+8 
+
+
+13-3 
+
+
+6 
+
+
+18-3 
+
+
+4 
+
+
+23-3 
+
+
+2 
+
+
+38 
+
+
+1 
+
+
+8-6 
+
+
+9 
+
+
+13-5 
+
+
+7 
+
+
+18-4 
+
+
+5 
+
+
+23-4 
+
+
+3 
+
+
+40 
+
+
+2 
+
+
+87 
+
+
+1-4290 
+
+
+13-6 
+
+
+8 
+
+
+18-5 
+
+
+6 
+
+
+23-5 
+
+
+4 
+
+
+41 
+
+
+3 
+
+
+8-9 
+
+
+1 
+
+
+13-7 
+
+
+9 
+
+
+18-7 
+
+
+7 
+
+
+23-7 
+
+
+5 
+
+
+42 
+
+
+4 
+
+
+90 
+
+
+2 
+
+
+13-8 
+
+
+1-4330 
+
+
+18-8 
+
+
+8 
+
+
+23-8 
+
+
+6 
+
+
+43 
+
+
+5 
+
+
+91 
+
+
+3 
+
+
+140 
+
+
+1 
+
+
+18-9 
+
+
+9 
+
+
+23-9 
+
+
+7 
+
+
+45 
+
+
+6 
+
+
+9-2 
+
+
+4 
+
+
+141 
+
+
+2 
+
+
+191 
+
+
+1-437 
+
+
+241 
+
+
+8 
+
+
+46 
+
+
+7 
+
+
+9-4 
+
+
+5 
+
+
+14-2 
+
+
+3 
+
+
+19-2 
+
+
+1 
+
+
+24-2 
+
+
+9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Ctntmutd) 
+
+
+
+36 
+
+
+
+IS t 548 ( Part I >-1964 
+
+
+
+TABU 2 CONVERSION OF BUTTRO K0KACTOMBTEK READINGS 
+( B ) TO RETRACTIVE INDICES ( n D ) - OmU 
+
+B -Id B lj» B 1r> B no B tjo 
+
+
+
+24-3 
+
+
+1-4410 
+
+
+30-8 
+
+
+8 
+
+
+37-5 
+
+
+6 
+
+
+44-3 
+
+
+4 
+
+
+51-3 
+
+
+2 
+
+
+245 
+
+
+1 
+
+
+30-9 
+
+
+9 
+
+
+37-7 
+
+
+7 
+
+
+44-4 
+
+
+5 
+
+
+51-4 
+
+
+3 
+
+
+246 
+
+
+2 
+
+
+310 
+
+
+1-446 
+
+
+37-8 
+
+
+8 
+
+
+44-6 
+
+
+6 
+
+
+31-6 
+
+
+4 
+
+
+247 
+
+
+3 
+
+
+31-.1 
+
+
+1 
+
+
+37-9 
+
+
+9 
+
+
+44-7 
+
+
+7 
+
+
+51-7 
+
+
+5 
+
+
+24-8 
+
+
+4 
+
+
+31-4 
+
+
+2 
+
+
+381 
+
+
+1-451 
+
+
+44-9 
+
+
+8 
+
+
+51-9 
+
+
+6 
+
+
+250 
+
+
+5 
+
+
+315 
+
+
+3 
+
+
+38-2 
+
+
+1 
+
+
+450 
+
+
+9 
+
+
+520 
+
+
+7 
+
+
+251 
+
+
+6 
+
+
+31-6 
+
+
+4 
+
+
+38-3 
+
+
+2 
+
+
+452 
+
+
+1-456 
+
+
+52-2 
+
+
+8 
+
+
+25-2 
+
+
+7 
+
+
+318 
+
+
+5 
+
+
+38-5 
+
+
+3 
+
+
+453 
+
+
+1 
+
+
+523 
+
+
+9 
+
+
+25-4 
+
+
+8 
+
+
+31-9 
+
+
+6 
+
+
+38-6 
+
+
+4 
+
+
+45-5 
+
+
+2 
+
+
+525 
+
+
+1-4610 
+
+
+25-5 
+
+
+9 
+
+
+321 
+
+
+7 
+
+
+38-7 
+
+
+5 
+
+
+456 
+
+
+3 
+
+
+527 
+
+
+1 
+
+
+25-6 
+
+
+1-442 
+
+
+32-2 
+
+
+8 
+
+
+38-9 
+
+
+6 
+
+
+45-7 
+
+
+4 
+
+
+52-« 
+530 
+
+
+2 
+
+
+25-8 
+
+
+1 
+
+
+32-3 
+
+
+9 
+
+
+390 
+
+
+7 
+
+
+45-9 
+
+
+5 
+
+
+3 
+
+
+25-9 
+
+
+2 
+
+
+32-5 
+
+
+1-447 
+
+
+39-2 
+
+
+8 
+
+
+460 
+
+
+6 
+
+
+531 
+
+
+4 
+
+
+261 
+
+
+3 
+
+
+32-6 
+
+
+1 
+
+
+393 
+
+
+9 
+
+
+46-2 
+
+
+7 
+
+
+53-3 
+
+
+3 
+
+
+262 
+
+
+4 
+
+
+32-8 
+
+
+2 
+
+
+39-5 
+
+
+1-452 
+
+
+46-3 
+
+
+8 
+
+
+53-4 
+
+
+6 
+
+
+26-3 
+
+
+5 
+
+
+32-9 
+
+
+3 
+
+
+39-6 
+
+
+1 
+
+
+46-4 
+
+
+9 
+
+
+53-6 
+
+
+7 
+
+
+26-5 
+
+
+6 
+
+
+330 
+
+
+4 
+
+
+39-7 
+
+
+2 
+
+
+46-6 
+
+
+1-457 
+
+
+53-7 
+
+
+8 
+
+
+26-6 
+
+
+7 
+
+
+33-2 
+
+
+5 
+
+
+39-9 
+
+
+3 
+
+
+46-7 
+
+
+1 
+
+
+53-9 
+
+
+9 
+
+
+26-7 
+
+
+8 
+
+
+33-3 
+
+
+6 
+
+
+400 
+
+
+4 
+
+
+46-9 
+
+
+2 
+
+
+540 
+
+
+1-462 
+
+
+26-9 
+
+
+9 
+
+
+33-5 
+
+
+7 
+
+
+401 
+
+
+5 
+
+
+470 
+
+
+3 
+
+
+54-2 
+
+
+1 
+
+
+270 
+
+
+1-443 
+
+
+33-6 
+
+
+8 
+
+
+40-3 
+
+
+6 
+
+
+47-2 
+
+
+4 
+
+
+54-3 
+
+
+2 
+
+
+271 
+
+
+1 
+
+
+33-7 
+
+
+9 
+
+
+40-4 
+
+
+7 
+
+
+47-3 
+
+
+5 
+
+
+54-5 
+
+
+3 
+
+
+27S 
+
+
+2 
+
+
+33-9 
+
+
+1-4480 
+
+
+40-6 
+
+
+8 
+
+
+47-5 
+
+
+6 
+
+
+54-6 
+
+
+4 
+
+
+27-4 
+
+
+3 
+
+
+340 
+
+
+1 
+
+
+40-7 
+
+
+9 
+
+
+476 
+
+
+7 
+
+
+54-8 
+
+
+5 
+
+
+27-5 
+
+
+4 
+
+
+34-2 
+
+
+2 
+
+
+40-9 
+
+
+1-453 
+
+
+47-7 
+
+
+8 
+
+
+55-0 
+
+
+6 
+
+
+27-7 
+
+
+5 
+
+
+34-3 
+
+
+3 
+
+
+410 
+
+
+I 
+
+
+47-9 
+
+
+9 
+
+
+551 
+
+
+7 
+
+
+27-8 
+
+
+6 
+
+
+34-4 
+
+
+4 
+
+
+411 
+
+
+2 
+
+
+480 
+
+
+1-458 
+
+
+55-3 
+
+
+8 
+
+
+279 
+
+
+7 
+
+
+346 
+
+
+5 
+
+
+41-3 
+
+
+3 
+
+
+48-2 
+
+
+I 
+
+
+55-4 
+
+
+9 
+
+
+28 1 
+
+
+8 
+
+
+34-7 
+
+
+6 
+
+
+41-4 
+
+
+4 
+
+
+483 
+
+
+2 
+
+
+55-6 
+
+
+1-4630 
+
+
+28-2 
+
+
+9 
+
+
+349 
+
+
+7 
+
+
+41-5 
+
+
+5 
+
+
+48-5 
+
+
+3 
+
+
+55-7 
+
+
+1 
+
+
+28-3 
+
+
+1-444 
+
+
+350 
+
+
+8 
+
+
+41-7 
+
+
+6 
+
+
+48-6 
+
+
+4 
+
+
+55-9 
+
+
+2 
+
+
+28-5 
+
+
+1 
+
+
+351 
+
+
+9 
+
+
+41-8 
+
+
+7 
+
+
+488 
+
+
+5 
+
+
+56-0 
+
+
+3 
+
+
+28-6 
+
+
+2 
+
+
+35-3 
+
+
+1'4490 
+
+
+420 
+
+
+8 
+
+
+48-9 
+
+
+6 
+
+
+56-2 
+
+
+4 
+
+
+28-7 
+
+
+3 
+
+
+35-5 
+
+
+I 
+
+
+421 
+
+
+9 
+
+
+491 
+
+
+7 
+
+
+56-3 
+
+
+5 
+
+
+28-9 
+
+
+4 
+
+
+35-6 
+
+
+2 
+
+
+42-3 
+
+
+1-454 
+
+
+492 
+
+
+8 
+
+
+56-5 
+
+
+6 
+
+
+290 
+
+
+5 
+
+
+357 
+
+
+3 
+
+
+42-4 
+
+
+1 
+
+
+494 
+
+
+9 
+
+
+56-6 
+
+
+7 
+
+
+29-2 
+
+
+6 
+
+
+35-8 
+
+
+4 
+
+
+42-5 
+
+
+2 
+
+
+49-5 
+
+
+1-459 
+
+
+56-8 
+
+
+8 
+
+
+29-3 
+
+
+7 
+
+
+360 
+
+
+5 
+
+
+42-7 
+
+
+3 
+
+
+497 
+
+
+I 
+
+
+569 
+
+
+9 
+
+
+29-4 
+
+
+8 
+
+
+361 
+
+
+6 
+
+
+42-8 
+
+
+4 
+
+
+498 
+
+
+2 
+
+
+571 
+
+
+1-4640 
+
+
+29-6 
+
+
+9 
+
+
+363 
+
+
+7 
+
+
+430 
+
+
+5 
+
+
+500 
+
+
+3 
+
+
+57-3 
+
+
+1 
+
+
+29-7 
+
+
+1-4450 
+
+
+36-4 
+
+
+8 
+
+
+431 
+
+
+6 
+
+
+501 
+
+
+4 
+
+
+57-4 
+
+
+2 
+
+
+29-9 
+
+
+1 
+
+
+36-5 
+
+
+9 
+
+
+43-3 
+
+
+7 
+
+
+502 
+
+
+5 
+
+
+57-6 
+
+
+3 
+
+
+30-0 
+
+
+2 
+
+
+36-7 
+
+
+1-4500 
+
+
+43-4 
+
+
+8 
+
+
+50-4 
+
+
+6 
+
+
+57-7 
+
+
+4 
+
+
+301 
+
+
+3 
+
+
+36-8 
+
+
+1 
+
+
+43-6 
+
+
+9 
+
+
+50-5 
+
+
+7 
+
+
+57-9 
+
+
+5 
+
+
+30-3 
+
+
+4 
+
+
+370 
+
+
+2 
+
+
+43-7 
+
+
+1«5 
+
+
+50-7 
+
+
+8 
+
+
+580 
+
+
+6 
+
+
+304 
+
+
+5 
+
+
+371 
+
+
+3 
+
+
+43-9 
+
+
+1 
+
+
+50-8 
+
+
+9 
+
+
+58-2 
+
+
+7 
+
+
+30-6 
+
+
+6 
+
+
+37-2 
+
+
+4 
+
+
+440 
+
+
+2 
+
+
+510 
+
+
+1-460 
+
+
+58-3 
+
+
+8 
+
+
+30-7 
+
+
+7 
+
+
+37-4 
+
+
+5 
+
+
+44-2 
+
+
+3 
+
+
+511 
+
+
+1 
+
+
+58-5 
+
+
+9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Ctttinmd) 
+
+
+
+37 
+
+
+
+IS » 548 ( Part I)-1964 
+
+
+
+TABLE 2 CONVERSION OF BXJTYRO REFRACTOMETER READINGS 
+( B ) TO REFRACTIVE INDICES ( i) fl ) — Conld 
+
+
+
+B 
+
+
+*/> 
+
+
+B 
+
+
+% 
+
+
+B 
+
+
+"j> 
+
+
+B 
+
+
+"/> 
+
+
+B 
+
+
+Id 
+
+
+586 
+
+
+1465 
+
+
+66-2 
+
+
+9 
+
+
+740 
+
+
+8 
+
+
+82-4 
+
+
+7 
+
+
+911 
+
+
+6 
+
+
+58-8 
+
+
+1 
+
+
+66-4 
+
+
+1470 
+
+
+74-1 
+
+
+9 
+
+
+82-5 
+
+
+8 
+
+
+91-2 
+
+
+7 
+
+
+58-9 
+
+
+2 
+
+
+66-5 
+
+
+1 
+
+
+74-3 
+
+
+1-475 
+
+
+82-7 
+
+
+9 
+
+
+91-4 
+
+
+8 
+
+
+591 
+
+
+3 
+
+
+66-7 
+
+
+2 
+
+
+74-5 
+
+
+1 
+
+
+829 
+
+
+1-480 
+
+
+91-6 
+
+
+9 
+
+
+592 
+
+
+4 
+
+
+66-8 
+
+
+3 
+
+
+746 
+
+
+2 
+
+
+83 I 
+
+
+1 
+
+
+91-8 
+
+
+1-485 
+
+
+59-4 
+
+
+5 
+
+
+670 
+
+
+4 
+
+
+748 
+
+
+3 
+
+
+83-2 
+
+
+2 
+
+
+920 
+
+
+1 
+
+
+59-5 
+
+
+6 
+
+
+67-2 
+
+
+5 
+
+
+750 
+
+
+4 
+
+
+83-4 
+
+
+3 
+
+
+921 
+
+
+2 
+
+
+59-7 
+
+
+7 
+
+
+67*3 
+
+
+6 
+
+
+75-1 
+
+
+5 
+
+
+83-6 
+
+
+4 
+
+
+923 
+
+
+3 
+
+
+59-8 
+
+
+8 
+
+
+67-5 
+
+
+7 
+
+
+75-3 
+
+
+6 
+
+
+83-8 
+
+
+5 
+
+
+92-5 
+
+
+4 
+
+
+60-0 
+
+
+9 
+
+
+67-7 
+
+
+8 
+
+
+75-5 
+
+
+7 
+
+
+83-9 
+
+
+6 
+
+
+92-7 
+
+
+5 
+
+
+60'2 
+
+
+1-466 
+
+
+67-8 
+
+
+9 
+
+
+75-6 
+
+
+8 
+
+
+841 
+
+
+7 
+
+
+92-9 
+
+
+6 
+
+
+603 
+
+
+1 
+
+
+680 
+
+
+1-471 
+
+
+75-8 
+
+
+9 
+
+
+84-3 
+
+
+6 
+
+
+.930 
+
+
+7 
+
+
+605 
+
+
+2 
+
+
+68-1 
+
+
+1 
+
+
+760 
+
+
+1-476 
+
+
+845 
+
+
+9 
+
+
+93-2 
+
+
+8 
+
+
+60-6 
+
+
+3 
+
+
+68-3 
+
+
+2 
+
+
+761 
+
+
+1 
+
+
+846 
+
+
+1-4810 
+
+
+93-4 
+
+
+9 
+
+
+60-8 
+
+
+4 
+
+
+68-4 
+
+
+3 
+
+
+76-3 
+
+
+2 
+
+
+84-8 
+
+
+1 
+
+
+93-6 
+
+
+1-486 
+
+
+60-9 
+
+
+5 
+
+
+68-6 
+
+
+4 
+
+
+765 
+
+
+3 
+
+
+850 
+
+
+2 
+
+
+93-8 
+
+
+1 
+
+
+61-1 
+
+
+6 
+
+
+68-7 
+
+
+5 
+
+
+76-7 
+
+
+4 
+
+
+85-2 
+
+
+i 
+
+
+940 
+
+
+2 
+
+
+61-2 
+
+
+7 
+
+
+68-9 
+
+
+6 
+
+
+76-8 
+
+
+5 
+
+
+85-3 
+
+
+4 
+
+
+941 
+
+
+3 
+
+
+61-4 
+
+
+8 
+
+
+691 
+
+
+7 
+
+
+77-0 
+
+
+6 
+
+
+85-5 
+
+
+5 
+
+
+94-3 
+
+
+4 
+
+
+61-5 
+
+
+9 
+
+
+69-2 
+
+
+8 
+
+
+77-2 
+
+
+7 
+
+
+85-7 
+
+
+6 
+
+
+94-5 
+
+
+5 
+
+
+61-7 
+
+
+1-467 
+
+
+694 
+
+
+9 
+
+
+77-3 
+
+
+8 
+
+
+859 
+
+
+7 
+
+
+94-7 
+
+
+6 
+
+
+61-8 
+
+
+1 
+
+
+69-5 
+
+
+1-472 
+
+
+775 
+
+
+9 
+
+
+860 
+
+
+8 
+
+
+94-8 
+
+
+7 
+
+
+620 
+
+
+2 
+
+
+69-7 
+
+
+1 
+
+
+77-7 
+
+
+1-477 
+
+
+86-2 
+
+
+9 
+
+
+950 
+
+
+8 
+
+
+622 
+
+
+3 
+
+
+69-9 
+
+
+2. 
+
+
+779 
+
+
+1 
+
+
+86-4 
+
+
+1-482 
+
+
+95-2 
+
+
+9 
+
+
+62-4 
+
+
+4 
+
+
+70-0 
+
+
+3 
+
+
+781 
+
+
+2 
+
+
+86-6 
+
+
+1 
+
+
+954 
+
+
+1-4S7 
+
+
+625 
+
+
+5 
+
+
+70-2 
+
+
+4 
+
+
+78-2 
+
+
+3 
+
+
+86-7 
+
+
+2 
+
+
+95-6 
+
+
+1 
+
+
+62-6 
+
+
+6 
+
+
+70-3 
+
+
+5 
+
+
+78-4 
+
+
+4 
+
+
+86-9 
+
+
+3 
+
+
+95-8 
+
+
+2 
+
+
+62-8 
+
+
+7 
+
+
+70-5 
+
+
+6 
+
+
+78-6 
+
+
+5 
+
+
+871 
+
+
+4 
+
+
+960 
+
+
+3 
+
+
+62-9 
+
+
+8 
+
+
+'0-7 
+
+
+7 
+
+
+78-7 
+
+
+C 
+
+
+87-3 
+
+
+5 
+
+
+961 
+
+
+4 
+
+
+631 
+
+
+9 
+
+
+70-8 
+
+
+8 
+
+
+78-9 
+
+
+7 
+
+
+87-5 
+
+
+6 
+
+
+96-3 
+
+
+5 
+
+
+63-2 
+
+
+1-468 
+
+
+710 
+
+
+9 
+
+
+79-1 
+
+
+8 
+
+
+87-6 
+
+
+7 
+
+
+96-5 
+
+
+6 
+
+
+63-4 
+
+
+I 
+
+
+711 
+
+
+1-473 
+
+
+79-2 
+
+
+9 
+
+
+87-8 
+
+
+8 
+
+
+96-7 
+
+
+7 
+
+
+63-5 
+
+
+2 
+
+
+71-3 
+
+
+1 
+
+
+79-4 
+
+
+1-478 
+
+
+880 
+
+
+9 
+
+
+96-9 
+
+
+3 
+
+
+63-7 
+
+
+3 
+
+
+71-4 
+
+
+2 
+
+
+796 
+
+
+1 
+
+
+882 
+
+
+1-483 
+
+
+97 
+
+
+9 
+
+
+63-8 
+
+
+4 
+
+
+71-6 
+
+
+3 
+
+
+79-8 
+
+
+2 
+
+
+88-3 
+
+
+1 
+
+
+97-2 
+
+
+1-4MV 3 
+
+
+640 
+
+
+5 
+
+
+71-8 
+
+
+4 
+
+
+800 
+
+
+3 
+
+
+88-5 
+
+
+2 
+
+
+97-4 
+
+
+1 
+
+
+64-2 
+
+
+6 
+
+
+71-9 
+
+
+5 
+
+
+80-1 
+
+
+4 
+
+
+88-7 
+
+
+3 
+
+
+97-6. 
+
+
+2 
+
+
+64-3 
+
+
+7 
+
+
+721 
+
+
+6 
+
+
+80-3 
+
+
+5 
+
+
+88-9 
+
+
+4 
+
+
+97-8 
+
+
+3 
+
+
+64-5 
+
+
+8 
+
+
+72-2 
+
+
+7 
+
+
+80-5 
+
+
+6 
+
+
+891 
+
+
+5 
+
+
+980 
+
+
+4 
+
+
+64-7 
+
+
+9 
+
+
+72-4 
+
+
+8 
+
+
+80-6 
+
+
+7 
+
+
+89-2 
+
+
+6 
+
+
+98-1 
+
+
+5 
+
+
+64-8 
+
+
+1-4690 
+
+
+725 
+
+
+9 
+
+
+80-8 
+
+
+8 
+
+
+89-4 
+
+
+7 
+
+
+98-3 
+
+
+6 
+
+
+650 
+
+
+1 
+
+
+72-7 
+
+
+1-474 
+
+
+810 
+
+
+9 
+
+
+89-6 
+
+
+a 
+
+
+98-5 
+
+
+~ 
+
+
+651 
+
+
+2 
+
+
+72-9 
+
+
+1 
+
+
+81-2 
+
+
+1-4790 
+
+
+89-8 
+
+
+9 
+
+
+98-7 
+
+
+8 
+
+
+65-3 
+
+
+3 
+
+
+730 
+
+
+2 
+
+
+81-3 
+
+
+1 
+
+
+90-0 
+
+
+1-484 
+
+
+98-9 
+
+
+9 
+
+
+65-4 
+
+
+4 
+
+
+73-2 
+
+
+3 
+
+
+81-5 
+
+
+2 
+
+
+90-2 
+
+
+1 
+
+
+99-1 
+
+
+1-4890 
+
+
+65-6 
+
+
+5 
+
+
+733 
+
+
+4 
+
+
+81-7 
+
+
+3 
+
+
+90-3 
+
+
+2 
+
+
+99-2 
+
+
+1 
+
+
+65-7 
+
+
+6 
+
+
+73-5 
+
+
+5 
+
+
+81-9 
+
+
+4 
+
+
+90-5 
+
+
+3 
+
+
+99-4 
+
+
+2 
+
+
+65-9 
+
+
+7 
+
+
+73-7 
+
+
+6 
+
+
+820 
+
+
+5 
+
+
+90-7 
+
+
+4 
+
+
+99-6 
+
+
+3 
+
+
+661 
+
+
+8 
+
+
+73-8 
+
+
+7 
+
+
+82-2 
+
+
+6 
+
+
+90-9 
+
+
+3 
+
+
+99-8 
+1000 
+
+
+4 
+1.4895 
+
+
+
+38 
+
+
+
+IS i 548 (Part 1}-1964 
+11. DETERMINATION OF SPECIFIC GRAVITY 
+
+11.0 General — The specific gravity may be determined with a Westphal 
+hydrostatic balance, or with a specific gravity bottle or pyknometcr. The 
+latter method shall be adopted as the referee method in cases of dispute. 
+The temperatures at which the specific gravity is determined shall be 
+reported, namely, sp gr 30°C/30°C or sp gr 95 C C/30°C. 
+
+11.1 Preparation of the Material — Melt the sample, if necessary, and 
+filter through a filter paper to remove any impurities and the last traces of 
+moisture, n\ake sure that the sample is completely dry. Cool the sample 
+to 30°C or warm to the desired test temperature. 
+
+11.2 Westphal Hydrostatic Balance Method — Suspend the plummet 
+in the cylinder filled with recently boiled distilled water at the test tem- 
+perature, and place the largest rider on the hook. Adjust the screw on 
+the base until the pointer is exactly opposite the fixed indicator point. 
+Wipe the plummet and the cylinder to remove the water. Fill the cylinder 
+with the material at the same temperature and dip the plummet into the 
+material, removing air bubbles, if any, formed in the eyehole of the 
+plummet, by lifting it from the material. Re-immerse the plummet in the 
+material and adjust the height of the balance to ensure that the plummet 
+will be nearly in the middle of the material when the beam is counter- 
+poised. Place riders on the beam, till the pointer and the fixed indicator 
+are exactly opposite each other Read the specific gravity from the posi- 
+tion of the riders on the beam, beginning with the largest and ending with 
+the smallest. 
+
+11.2.1 Corrections — Sometimes, especially when using the hydrostatic 
+balance, it is not convenient to make the determination at the specified 
+temperature. The determination may be made at a convenient temperature 
+(T') as near to the specified temperature (T) as possible and the result cor- 
+rected as shown below to the specified temperature. This correction is based 
+on the average value for the coefficient of expansion of oils and fata 
+(0000 64 per 1°C) and for water (0000 23 per 1°C). Approximate 
+temperature corrections may, therefore, be made as follows: 
+
+a) Specific gravity at r-C/J-C - ff+ ™g!» ( ( £ I \ \ 
+
+where 
+
+D' = density of oil fat at T'°C; 
+
+T' -» the temperature at which the densities D' and W were 
+determined; 
+
+T = the standard temperature, 30°C; and 
+
+W — density of water at 7'°C 
+
+39 
+
+
+
+IS : 548 (Part I )-l 964 
+
+b) Specific gravity at T°C/T 9 C = S' + 0-000 41 (T - T) 
+
+where 
+
+S' —. specinc gravity at 7"/7"' C; 
+
+T — temperature at which the specific gravity was deter- 
+mined; and 
+
+7"=» standard temperature, 30°C. 
+11.3 Specific Gravity Bottle or Pyknometer Method 
+
+11.3.1 Apparatus 
+
+11.3.1.1 Specific gravity bottle or pyknometer — with weli-fitling ground 
+glass joints. To calibrate, clean and dry the bottle or pyknometer 
+thoroughly, weigh and then fill with recently boiled and cooled water at 
+about 25°C after removing the cap of the side arm. Fill to overflowing 
+by holding the bottle or pyknometer on its side in such a manner as to 
+prevent the entrapment of air bubbles. Insert the stopper and immerse 
+in a water-bath at the desired test temperature ±0-2°G. Keep the 
+entire bulb completely covered with water and hold at that temperature 
+for 30 minutes. Carefully remove any water which has exuded from the 
+capillary opening. Remove from the bath, wipe completely dry, replace 
+the cap, cool to room temperature and weigh. Calculate the weight of 
+water. This is a constant for the bottle or pyknometer, but should be 
+checked periodically. A specific gravity bottle of about 50 ml capacity 
+and of either of the two shapes as shown in Fig. 7 is recommended. 
+
+11.3.1.2 Water-bath — maintained at 300 ± 0-2°C, or 950 ± 0'2°C. 
+as required. 
+
+11.3.1.3 Thermometer — any convenient thermometer of a suitable 
+range, with 0"1 or p 2°C subdivisions. The thermometer should be 
+checked against a standard thermometer, which has been calibrated and 
+certified by the National Physical Laboratory, New Delhi, or any other 
+laboratory recognized for such work. 
+
+11.3.2 Procedure — Fill the bottle with the oil previously cooled to about 
+25° C or the melted fat to overflowing, holding the' bottle on its side in 
+such a manner as to prevent the entrapment of air bubbles after" removing 
+the cap of the side arm. Insert the stopper, immerse in the water-bath 
+at 300 ± 0-2°C, or at 950 ± 0-2°C, as required, and hold for 
+30 minutes. Carefully wipe off any oil which has come through the capil- 
+lary opening. Remove the bottle from the bath, clean and dry it 
+thoroughly. Replace the cap of the side arm, coo! to room temperature 
+and weigh. 
+
+11. 3 3 Calculation 
+
+a) Specific gravity at 30 o C/30°C = xf~% 
+
+40 
+
+
+
+IS:548(PartI)-1964 
+
+
+
+
+
+Fio. 7 Specific Gravity Bottles 
+
+
+
+where 
+
+
+
+A «■ weight in g of the specific gravity bottle with oil at 30"C, 
+
+B = weight in g of the specific gravity bottle, and 
+
+C mb weight in g of the specific gravity bottle with water at 
+SO^C. 
+
+b) Specific gravity A — B 
+
+at95°C/30»C =- {d _ B) x [ • + ( 00 d0025 x 65 )] 
+
+where 
+
+A «* weight in g of the specific gravity bottle and fat at 95°C, 
+B = weight in g of the specific gravity bottle, 
+
+C ■» weight in g of the specific gravity bottle with water 
+at 30°C, and 
+0*000 025 = coefficient of expansion of glass. 
+
+11.3.4 Comctions — set 11.2.1. 
+
+
+
+41 
+
+
+
+IS: 548 (Part I)-1964 
+12. TITRE TEST 
+
+12.0 General — The fatty oil is saponified with glycerol-caustic potash 
+solution, and the soap is acidified with dilute sulphuric acid to give fatty 
+acids. The fatty acids obtained are washed and dried. The highest 
+temperature recorded during the solidification under standard conditions 
+is the titre. 
+
+12.1 Apparatus — The assembly of the apparatus is shown in Fig. 8, and 
+the various components are described under 12.1.2 to 12.1.8. 
+
+12.1.1 Saponification Flask— 250 to 300 ml capacity. 
+
+12.1.2 Low-Form Beaker— of 2 litre capacity, to serve as a water-bath. 
+
+12.1.3 Wide-Mouth Bottle — of 450 ml capacity, height 190 mm and 
+inside diameter of neck 38 mm. 
+
+12.1.4 Titre Test-Tube — about 100 mm in length, 25 mm in diameter 
+and one millimetre wall thickness, with an etched mark extending around 
+the lube at a distance of 57 mm from the bottom to show the height to 
+which the tube is to be filled. 
+
+12.1.5 Stirrer-- made of glass, stainless steel or monel metal, with 
+one end bent in the form of a loop of 19 mm outside diameter. The upper 
+end may be formed to suit stirring with hand or attached to a mechanical 
+stirrer. 
+
+12.1.6 Laboratory Thermometer — range to 150°C. 
+
+12.1.7 Corks — as shown in Fig. 8. 
+
+12.1.8 Titre Thermometer — with the following characteristics: 
+
+a) Type — etched stem glass. 
+
+b) Liquid — mercury. 
+
+c) Filling above liquid — evacuated or nitrogen gas. 
+
+d) Temperature range — jnninus 2 to 68°C- 
+
+e) Subdivisions — 02°C. 
+
+f) Total length — 385 to 390 mm. 
+
+g) Stem diameter — 6 to 7 mm. 
+
+h) Stem construction — plain or lens front. The cross-section of 
+the lens front type shall be such that it will pass through an 
+8-mm ring gauge but will not enter a 5-mm slot gauge. 
+
+j) Bulb diameter — from 5*5 mm to not greater than the diameter of 
+the stem. 
+
+k) Bulb length — 15 to 25 mm . 
+
+42 
+
+
+
+IS 1 548 (Part I)-1964 
+
+
+
+._ ^TITRE THERMOMETER 
+
+
+
+TO 150 C 
+THERMOMETER -?V> ^"\ 
+
+
+
+
+2-LITRE LOW-FORM 
+BEAKER 
+
+
+
+CORK EQUALLY SPACED 
+TO HOLD THE BOTTLE 
+
+
+
+INTACT 
+
+
+
+WATER-BATH 
+
+
+
+SAMPLE 
+
+TiTRE TEST-TUBE 
+
+450 -ml WIDE- MOUTH 
+
+BOTTLE 
+
+LEAD SHOT OR WEIGHT 
+
+FLAT CORK 
+
+
+
+Fio. 8 Assembly of Apparatus for Titre Test 
+
+m) Distance from bottom of bulb to minus 2°C mark — 50 to 60 mm. 
+
+n) Distance from 68°C mark to top of thermometer — 20 to 35 mm. 
+
+p) Length of unchanged capillary between the highest graduation mark and the 
+
+expansion chamber — 10 mm. 
+q) Expansion chamber — to permit heating to at least 85*C. 
+r) Top finish — glass ring, 
+s) Longer graduation lines — at each 1°G mark, 
+t) Graduations numbered — at zero and at each multiple of 2°C. 
+
+
+
+43 
+
+
+
+IS : 548 ( Part I )>1964 
+
+u) Immersion — 45 mm. A line shall be etched around the stem, 
+45 mm from the bottom of the bulb. 
+
+w) Maximum scale error permitted at any point — 0-2°C. 
+
+y) Standardization — The thermometer shall be standardized at the 
+melting point of ice and at intervals of approximately 20*C, for 
+the condition of 45 mm immersion and for an average stem tem- 
+perature of the emergent mercury column of 25°C. 
+
+12.2 Reagents 
+
+12.2.1 Glycerol-Caustic Potash Solution — Dissolve with the aid of heat, 
+250 g of solid potassium hydroxide in 1 250 g of glycerine. Do noc heat 
+above 140°C. 
+
+12.2.2 Dilute Sulphuric Acid — 30 percent by weight obtained by 
+cautiously adding 16 ml of concentrated sulphuric acid, sp gr 1'84 [con- 
+forming to IS: 266-1961 Specification for Sulphuric Acid {Revised)] to 
+70 mm of water. 
+
+12.23 Methyl Orange Indicator Solution — Dissolve 0-1 g of methyl orange 
+in 100 ml of water. 
+
+12.2.4 Acetone — conforming to *IS : 170-1950 Specification for Acetone. 
+
+12.3 Procedure 
+
+12.3.1 Preparation of Fatty Acids — Weigh about 70 g of the glycerol- 
+caustic potash solution into the saponification flask. Heat to 1 50°C while 
+stirring. Add about 30 g of the sample of oil or melted fat and re-heat to 
+about I50°C. If necessary, add a little more glycerol-caustic potash solu- 
+tion to ensure complete saponification. ( Complete saponification is usually 
+indicated by an initial change in the appearance of the mass often 
+accompanied by an increase in the viscosity or thickening. The solution 
+then thins out after the reaction is complete and assumes a homogeneous 
+appearance. The most common characteristic is that of soap bubbles form- 
+ing and rising from the surface. Considerable care should be exercised at 
+all times to ensure complete saponification. ) Cool slightly and dissolve the 
+soap in 300 mi of water contained in a 1 000-ml beaker. Add dilute sul- 
+phuric acid until the solution is distinctly acidic to methyl orange indicator, 
+and place the beaker in a boiling water-bath until the fatty acids collect 
+as a clear layer at the top. Siphon off the lower aqueous acid layer, add 
+300 ml of hot water, place in the boiling water-bath for a few minutes, and 
+again siphon off the aqueous acid layer. Wash the fatty acids thrice in this 
+manner or until the last traces of soap and acid are removed. The 
+acidification and washing should be done in as short a period as possible, 
+keeping the beaker covered to prevent the oxidation of the fatty acids. 
+After the last wash, allow the fatty acids to settle for a few minutes and 
+then decant them carefully. Filter through one or two thicknesses of filter 
+
+'Sine* revised. 
+
+44 
+
+
+
+IS : 548 ( Part I )-1964 
+
+paper introduced into a conical flask, and add about 10 ml of acetone. 
+Close the flask with an air-tight cork, carrying a glass tube. Immerse the 
+flask in boiling water and apply suction from a water pump until all 
+Bubbling ceases. Remove the cork and dry the contents of the flask at 
+about 105°C for at least half an hour. 
+
+12.3.2 Determination of Titre — Fill the low-form beaker with water up 
+to two-thirds of its capacity. Adjust the temperature of water between 15°C 
+and 20°C below the expected titre point when it is not above 35°C, and at 
+20 ± 1°C when it is 35°C or higher. Fill the test-tube up to the mark with 
+the fatty acid preparation described in 12.3.1, at a temperature 10 to 12°C 
+higher than the expected titre point. Insert the titre thermometer in the 
+centre of the sample and adjust its height so that its immersion mark coin- 
+cides with the top surface of the fatty acid layer. When the temperature of 
+the fatty acid comes down to about 10°G higher than the titre point, set 
+the stirrer moving in a vertical direction at a rate of about 60 complete up 
+and down motions per minute. The temperature of the fatty acid gradually 
+comes down and stirring is continued until the temperature remains cons- 
+tant for 30 seconds. The stirring is stopped when the temperature begins 
+to rise and the stirrer is raised out of the sample. The highest temperature 
+recorded by the thermometer during this rise is the titre point. Duplicate 
+determinations should agree within 0'2 o C. 
+
+13. DETERMINATION OF COLOUR 
+
+13.0 General — -This method determines the colour of oils by comparison 
+with Lovibond glasses of known colour characteristics. The colour is 
+expressed as the sum total of the yellow and red slides us^d to match the 
+colour of the oil in a cell of the specified size in the Lovibond tintometer. 
+
+13.1 Apparatus 
+
+13.1.1 Lovibond Tintometer or Colorimeter 
+
+13.1.2 Glass Cells — Presently, the Lovibond cell deMi?nations generally 
+employed in the laboratories in the country, namely, J in, J in, 1 in and 
+5J in are recommended. However, with the corresponding metric desig- 
+nations of the cells, such as 1, 2,5 and 10 cm, also becoming available, 
+their use will involve reconsideration of the requirements for colour of oils 
+and fats. 
+
+13.1.3 Filter Paper 
+
+13.2 Procedure — Melt the sample, if it is not already liquid, and filter 
+through a filter paper to remove any impurities and the last traces of 
+moisture. Make sure that the sample is absolutely clear and free from 
+turbidity. Clean the glass cell of the desired size ( see 13.3.2 ) with carbon 
+tetrachloride and allow it to dry. Fill it with .the clear filtered sample and 
+
+45 
+
+
+
+IS: 548 (Part 1 )-1964 
+
+place the cell in position in the tintometer. Place along side of it such red, 
+yellow, blue or neutral Lovibond glass slides or any combinations of these 
+as are necessary to match the colour shade of the oil, observing the colours 
+of the oil and of the combination of the glass slides through an eyepiece. 
+
+13.3 Report — Report the colour of the oil in terms of Lovibond units as 
+follows: 
+
+Colour reading 
+in(*)ce!l --=(«Y-f56R)or(aY+10 6R) 
+
+where 
+
+a = the sum total of the various yellow ( Y ) slides used, and 
+
+b = the sum total of the various red ( R ) slides used. 
+
+13.3.1 Although the yellow and red slides required to match the colour 
+shade of an oil in a Lovibond tintometer are assessed separately, it is found 
+that to a certain extent these slides arc mutually compensatory. Consequent- 
+ly, different workers may report different values for the yellow and red 
+units for the same oil, and the same workers may report different values for 
+the yellow and red units for the oil examined at different times. To obviate 
+such personal errors, a composite factor is to be used for checking the 
+colour, comprising the sum total of the yellow ( Y ) units and 5 or 10 times 
+the total of the red ( R ) units as specified for the oil or fat; ( Y -f 10 R ) is 
+the mode of expressing the colour of moderately dark-coloured oils, such 
+as washed cottonseed oil, whereas ( Y -f 5 R ) is the mode of expressing 
+the colour of other vegetable oils. 
+
+13.3.2 The dimensions of the cell used and the mode of expressing the 
+colour reading for different oils shall be as follows: 
+
+Oil I Fat Size- Designation Mode of Expressing 
+
+of Celt Colour Reading 
+
+(in) 
+
+Castor 1 Y + 5R 
+
+Groundnut 1 Y -f 5R 
+
+Coconut 1 Y + 5R 
+
+Sesame | Y -f 5R 
+
+Mustard \ Y + 5R 
+
+MAHUA J Y + 5R 
+
+Cottonseed ( washed J Y + 10R 
+
+and refined ) 
+
+
+
+•Size designation of the cell used 
+
+
+
+46 
+
+
+
+IS : 548 ( Part I >1964 
+
+14. DETERMINATION OF IODINE VALUE ( WIJS ) 
+
+14.0 General — The material is treated, in carbon tetrachloride medium, 
+with a known excess of iodine monochloride solution in glacial acetic acid 
+( Wijs solution ). The excess of iodine monochloride is treated with potas- 
+sium iodide and the liberated iodine estimated by titration with sodium 
+thiosulphate solution. 
+
+14.1 Reagent* 
+
+14.1.1 Potassium Dichromau — conforming to *IS : 250-1953 Specification 
+for Potassium Bichromate, Technical and Analytical Reagent. 
+
+14.1.2 Concentrated Hydrochloric Acid — conforming to IS : 265-1962 
+Specification for Hydrochloric Acid ( Revised). 
+
+14.1.3 Potassium Iodide Solution — Prepare a fresh solution by dissolving 
+10 g of potassium iodide free from potassium iodate, in 90 ml of water. 
+
+14.1.4 Starch Solution — Triturate 5 g of starch and 001 g of mercuric 
+iodide with 30 ml of cold water and slowly pour it with stirring into one 
+litre of boiling water. Boil for three minutes. Allow to cool and decant off 
+the supernatant clear liquid. 
+
+14.1.5 Standard Sodium Thiosulphate Solution — approximately 0*1 N. Dis- 
+solve approximately 24*8 g of sodium thiosulphate crystals ( Na^SjOj, 5H t O ) 
+in water which has been well boiled to free it from carbon dioxide and 
+make up to 1 000 ml. Store the solution in a cool place in a dark- 
+coloured stock bottle with a guard-tube filled with soda lime. After storing 
+the solution for about two weeks, filter, if necessary, and standardize it as 
+prescribed under 14.1.5.1. 
+
+14.1.5.1 Weigh accurately about 50 g of finely ground potassium 
+dichromate which has been previously dried to a constant weight at 
+105 ± 2°C into a clean one-litre volumetric flask. Dissolve in water, make 
+up to the mark; shake thoroughly and keep the solution in a cool dark 
+place. For standardization of sodium thiosulphate, pipette 25 ml of this 
+solution into a clean glass stoppered 250-ml conical flask or bottle. Add 
+5 ml of concentrated hydrochloric acid and 15 ml of a 10-percent potassium 
+iodide solution. Allow to stand in the dark for 5 minutes and titrate the 
+mixture with the solution of sodium thiosulphate, using starch solution as 
+an internal indicator towards the end. The end point is taken when the 
+blue colour changes to green. Calculate the normality ( .V ) of the sodium 
+thiosulphate solution as follows: 
+
+25 W 
+49 03 V 
+
+
+
+•Since revised. 
+
+47 
+
+
+
+IS i 548 (Part I)-1964 
+
+where 
+
+W ■= weight in g of the potassium dichromate, and 
+
+V = volume in ml of sodium thiosulphate solution required 
+fof the titration. 
+
+14.1.6 Iodine Crystals — re-sublimed. 
+
+14.1.7 Acetic Acid — glacial, 99 percent, having a melting point of 
+14 , 8°C and free from reducing impurities. Determine the melting point of 
+the acetic acid and test it for reducing impurities as follows: 
+
+a) Determination of melting point — Take a 15-cm long test-tube and 
+fill it to about two-thirds with the acetic acid. Insert into 
+the acid a thermometer satisfying the requirements specified 
+under 12.1.8 through a cork stopper fitting the test-tube. The 
+amount of acid should be at least double the quantity required 
+to cover the bulb of the thermometer when the bottom of the 
+latter is 12 mm from the bottom of the test-tube. Suspend this 
+tube within a larger test-tube through a cork. Cool the acid by 
+immersing the assembly in ice water until the temperature is 
+10°C, then withdraw the assembly from the ice water and 
+stir the acid rather vigorously for a few moments, thus causing 
+the super-cooled liquid to crystallize partially. Take thermometer 
+readings every 15 seconds and consider as the true melting 
+point, that temperature at which the reading remains constant 
+for at least 2 minutes. 
+
+b) Test for reducing impurities ( potassium permanganate t?st ) — Dilute 
+2 ml of the acetic acid with 10 ml of water and add 2 drops of 
+- l N potassium permanganate solution and maintain at 27±2°C. 
+The test shall be taken as having been satisfied if the pink colour 
+is not discharged at the end of two hours. 
+
+14.1.8 Chlorine Gas — dry. 
+
+14.1.9 Iodine Trichloride ( ICI, ) 
+
+14.1.10 Iodine Monochloride ( ICI ) — 98 percent chemically pure. 
+
+14.1.11 Wijs Iodine Monochloride Solution — Prepare this solution by one 
+of the following three methods, and store in a glass-stoppered bottle in 
+a cool place, protected from light: 
+
+a) Dissolve 13 g of iodine in one litre of acetic acid, using gentle 
+heat, if necessary, and determine the strength by titration with 
+standard sodium thiosulphate solution. Set aside 50 to 100 ml 
+of the solution and introduce chlorine gas into the remainder until 
+the characteristic colour change occurs and the halogen content 
+is nearly doubled as ascertained again by titration. If the 
+
+48 
+
+
+
+IS i 548 (Part I>-1964 
+
+halogen content has been more than doubled, reduce it by adding 
+the requisite quantity of the iodine-acetic acid solution. A slight 
+excess of iodine does no harm, but avoid an excess of chlorine. 
+
+Example: 
+
+If the titration of 20 ml of original iodinc-acctic acid solution 
+requires 22 ml of standard sodium thiosulphate, 20 ml of 
+the finished Wijs solution should require between 43 and 
+44 ml ( and not more than 44 ml ) of the same sodium 
+thiosulphate solution. 
+
+b) Dissolve 8 g of iodine trichloride in approximately 450 ml of 
+acetic acid. Dissolve separately 9 g of iodine in 450 ml of acetic 
+acid, using heat, if necessary. Add gradually the iodine solution 
+to the iodine trichloride until the colour has changed to reddish- 
+brown. Add 50 ml more of iodine solution and dilute the mixture 
+with acetic acid till 10 ml of the mixture is equivalent to 20 ml 
+of standard thiosulphate solution when the halogen content is 
+estimated by titration in the presence of an excess of potassium 
+iodide and water. Heat the solution to 10Q°C for 20 minutes, 
+and cool. Prevent access of water vapour in preparing the solution. 
+
+c) Dissolve 10 ml of iodine monochloride in about 1 800 ml of glacial 
+acetic acid ( chemically pure ) and shake vigorously. Pipette 5 ml 
+of this, add 10 ml of potassium iodide solution and titrate with 
+0' 1 N standard sodium thiosulphate solution, using starch solution 
+as indicator. Adju«t the volume of the solution till it is approxi- 
+mately 0-2 N. 
+
+14.1.12 Carbon Tetrachloride or Chloroform — inert to Wijs solution. 
+
+14.2 Procedure — Melt the sample if it is not already completely liquid, 
+and filter through a filter paper to remove any impurities and the last 
+traces of moisture. Make sure that the sample as well as the glass 
+apparatus used is absolutely clean and dry. Weigh accurately, by 
+difference, an appropriate quantity of the oil or fat between the limits 
+indicated in col 2 and 3 of Table 3, into a clean dry 500-ml iodine flask or 
+well ground glass-stoppered bottle to which 25 ml of carbon tetrachloride 
+have been added, and agitate to dissolve the contents. The weight of the 
+sample shall be such that there is an excess of 50 to 60 percent of Wijs solu- 
+tion over that actually needed. Add 25 ml of the Wijs solution and replace 
+the glass stopper after wetting with potassium iodide solution; swirl for 
+intimate mixing, and allow to stand in the dark for 30 minutes in the case 
+of non-drying and semi-drying oils and one hour in the case of drying oils. 
+Carry out a blank test simultaneously under similar experimental condi- 
+tions. After standing, add 15 ml of potassium iodide solution and 100 ml 
+of water, rinsing in the stopper also, and titrate the liberated iodine with 
+standard sodium thiosulphate solution, swirling the contents of the bottle 
+
+49 
+
+
+
+IS i 548 (Part I>1964 
+
+continuously to avoid any local excess until the colour of the solution is 
+straw yellow. Add one millilitre of the starch solution and continue the 
+titration until the blue colour formed disappears after thorough shaking 
+with the stopper on. 
+
+
+
+TABLE 3 
+
+
+WEIGHT OF OIL OR FAT FOR DETERMINATION OF 
+IODINE VALUE 
+
+
+
+
+
+
+{Ctaust 
+
+
+14.2) 
+
+
+
+
+iodmb value 
+Evicted 
+
+
+Weight 
+
+
+in g or 
+
+-A. 
+
+
+Sample 
+
+
+Weighing Accuracy 
+
+
+Maximum 
+
+
+
+
+■ 
+Minimum 
+
+
+
+
+(I) 
+
+
+(2) 
+
+
+
+
+(3) 
+
+
+(4) 
+
+
+Lea than 3 
+
+
+10 
+
+
+
+
+10 
+
+
+* o-ooi 
+
+
+5 
+
+
+6-346 
+
+
+
+
+5-077 
+
+
+*0O00 5 
+
+
+10 
+
+
+3-173 
+
+
+
+
+2-538 4 
+
+
+* 0-000 2 
+
+
+50 
+
+
+0-6612 
+
+
+
+
+0-528 8 
+
+
+* 0000 2 
+
+
+100 
+
+
+0-317 3 
+
+
+
+
+0-253 8 
+
+
+-0 000 1 
+
+
+150 
+
+
+0-212 5 
+
+
+
+
+0170 
+
+
+* O000 1 
+
+
+200 
+
+
+0158 6 
+
+
+
+
+0126 9 
+
+
+-0-000 1 
+
+
+
+14 J Calculation 
+
+
+
+. .. . 12-69(5-5) jV 
+
+Iodine value = — ... — - - 
+
+W 
+
+
+
+where 
+
+B = Volume in ml of standard sodium thiosulphatc solution 
+required for the blank, 
+
+S = volume in ml of standard sodium thiosulphatc solution 
+required for the sample, 
+
+Jf = normality of the standard sodium thiosulphatc solution, 
+and 
+
+W = weight in g of the material taken for the test. 
+
+
+
+IS. DETERMINATION OF SAPONIFICATION VALUE 
+
+15.0 General — The material is saponified by rcfluxing with a known 
+excess of alcoholic potassium hydroxide solution. The alkali consumed for 
+saponification is determined by titrating the excess alkali with standard 
+hydrochloric acid. 
+
+50 
+
+
+
+IS i 548 ( Part I )-1964 
+
+15.1 Apparatus 
+
+15.1.1 Conical Flasks — 250 to 300 ml capacity. 
+
+15.1 .2 Reflux Condenser — any efficient reflux condenser, at least 65 cm 
+long. 
+
+15.1.3 Water-Bath or Electric Hot-Plate with Rheostat Control 
+
+15.2 Reagents 
+
+15.2.1 Alcoholic Potassium Hydroxide Solution— Dissolve 35 to 40 g of 
+potassium hydroxide in 20 ml of distilled water, and add sufficient 
+aldehyde-free rectified spirit [conforming to IS : 323-1959 Specification 
+for Rectified Spirit ( Revised) ] to make up to 1 000 ml. Allow to stand 
+overnight, decant the clear liquid and keep in a bottle closed tight with a 
+cork or rubber stopper. 
+
+15.2.2 Aldehyde-Free Rectified Spirit — may be prepared according to either 
+of the two methods given in 15.2.2.1 and 15.2.2.2. 
+
+15.2.2.1 Method /—Redistil rectified spirit (conforming to IS : 323- 
+1959 ) over solid caustic soda or caustic potash, add 2 to 3 g of metapheny- 
+lcncdiamine hydrochloride per litre of rectified spirit, digest at ordinary 
+temoerature for several days or under a reflux condenser on a steam-bath 
+for several hours and distil slowly, rejecting the first 100 ml and the last 
+200 ml of the distillate. 
+
+15.2.2.2 Method II — Reflux 1-2 litres of rectified spirit (conforming 
+to IS: 323-1959 ) for 30 minutes in a round-bottom flask with 10 g of 
+caustic potash and 6 g of granulated aluminium ( or aluminium foil ). 
+Distil and collect one litre after discarding the first 50 ml. 
+
+15.23 Phenolphthalein Indicator Solution — Dissolve 1*0 g of phenol- 
+phthalein in 100 ml of rectified spirit ( conforming to IS : 323-1959). 
+
+Note — When testing oils or fats which give dark-coloured soap solutions, the 
+observation of the end point of the titration may be facilitated either (a) by using 
+thymol phthakin, or alkali blue 6B in place of phenolphthalein or (b) by adding one 
+millilitre of a 0' I percent ( wjv ) solution of methylene blue in water to each 100 ml of 
+phenolphthalein indicator solution before the titration 
+
+15.2.4 Standard Hydrochloric Acid — approximately 0'5 N. 
+
+153 Procedure — Melt the sample, if it is not already liquid, and filter 
+through a filter paper to remove any impurities and the last traces of mois- 
+ture. Make sure that the sample is completely dry. Mix the sample 
+thoroughly, and weigh accurately by difference about 1*5 to 20 g of the 
+sample in a conical flask. Add 25 ml of the alcoholic potassium hydroxide 
+solution and connect the reflux air condenser to the flask. Heat the flask 
+on a water-bath or an electric hot-plate for not more than one hour. Boil 
+gently but steadily until the sample is completely saponified as indicated 
+
+51 
+
+
+
+IS: 548 (Part I)-1964 
+
+by absence of any oily matter and appearance of clear solution. After the 
+flask and condenser have cooled somewhat, wash down the inside of the 
+condenser with about 10 ml of hot ethyl alcohol neutral to phenolphthalei**.. 
+Add about one millilitrc of phenolphthalein indicator solution, and titrate 
+with standard hydrochloric acid. Prepare and conduct a blank determina- 
+tion at the same time. 
+
+15.4 Calculation 
+
+Saponification value ■» — rn — ' — 
+
+where 
+
+B — volume in ml of standard hydrochloric acid required for 
+the blank, 
+
+5 tm volume in ml of standard hydrochloric acid required for 
+the sample, 
+
+N «» normality of the standard hydrochloric acid, and 
+W •= weight in g of the material taken for the test. 
+
+16. DETERMINATION OF ACETYL VALUE AND HYDROXYL 
+VALUE 
+
+16.0 General — Two methods have been prescribed, namely, Method A 
+and Method B. Being simpler, Method B is preferred. 
+
+16.0.1 Method A — A sample of oil or .at is acetylated by refluxing with 
+acetic anhydride and the excess anhydride is decomposed with water and 
+sodium bicarbonate solution. The saponification value of the washed and 
+dried acetylated oil is determined as in 15. 
+
+16.0.2 Method B — The process consists in acetylartng the oil or fat with 
+a measured quantity of acetic anhydride in pyridine decomposing the 
+excess anhydride by boiling with water and then, after the addition of 
+sufficient butyl alcohol to give a homogeneous solution, titrating with 
+alcoholic alkali. A control test with the acetic anhydride and pyridine 
+without the oil or fat provides a measure of the acetic anhydride available 
+for acetylation; a similar test with the oil or fat and the pyridine without 
+the acetic anhydride provides a measure of the free fatty acid present. 
+From the figures obtained, the acetyl value or the hydroxy! value of the fat 
+is calculated. 
+
+16.1 Method A 
+16.1.1 Apparatus 
+
+16.1.1 .1 Beaker — 800 ml capacity. 
+
+52 
+
+
+
+IS : 548 ( Part I )-1964 
+
+16.1.1.2 Separating funnel — 500 ml capacity. 
+
+16.1.1.3 Conical flasks — 250 to 300 ml capacity. 
+
+16.1.1.4 Reflux condenser — any efficient reflux condenser, at least 65 cm 
+long. 
+
+16.1.1.5 Sand-bath or electric hot-plate with rheostat control 
+
+16.1.2 Reagents 
+
+16.1.2.1 Acetic anhydride — containing 95 to 100 percent (by weight) 
+of the actual acetic anhydride. Determine the acetic anhydride content as 
+follows: 
+
+a) Weigh accurately about 2 g of the acetic anhydride into a 200-mI 
+glass-stoppered conical flask, cool in ice and add 5 ml of freshly 
+distilled aniline. Insert the glass stopper immediately, shake 
+vigorously and allow to stand at room temperature for 30 minutes. 
+Wash down the sides of the flask with 50 ml of ice-cold water. 
+Mix well and titrate with previously standardised 1 N sodium 
+hydroxide solution, using phenolphthalein as indicator, until the 
+pink colour persists for 10 minutes. 
+
+. __ Volume in ml of 1 N sodium hydroxide solution required 
+Weight in g of acetic anhydride taken for the test 
+
+b) Weigh accurately about 2 g of the acetic anhydride into another 
+flask, add 50 ml of water, allow to stand for 30 minutes and 
+titrate with the standard sodium hydroxide solution to the same 
+end point as above using phenolphthalein as indicator. 
+
+„ _ Volume in ml of 1 N sodium hydroxide solution required 
+~~ Weight in g of acetic anhydride takenTor the test 
+
+Acetic anhydride, 
+percent by weight = 10209 (B— A ) 
+
+16.1.2.2 Sodium bicarbonate solution — freshly prepared 0*5 percent 
+( wjo ) and neutral to litmus. 
+
+16.1.2.3 Anhydrous sodium sulphate 
+
+16.1.2.4 Alcoholic potassium hydroxide solution — 0'5 N. 
+
+16.1.2.5 Phenolphthalein indicator solution — Dissolve 01 g in 100 ml of 
+60 percent rectified spirit. 
+
+16.1.2.6 Standard hydrochloric acid — approximately 5 N. 
+
+16.1.3 Procedure — Weigh accurately about 10 g of the material in a 
+conical flask, add 20 ml of acetic anhydride and boil the mixture under a 
+reflux air condenser for about 2 hours. Pour the mixture into a beaker 
+containing 500 ml of water and boil for 15 minutes. Bubble a stream of 
+carbon dioxide or nitrogen through the mixture during boiling to prevent 
+
+53 
+
+
+
+IS 1 548 (Part I )-1964 
+
+bumping. Discontinue boiling, cool slightly, and remove the water with a 
+siphon. Add another 500 ml of water and boil again. Discontinue 
+boiling, cool and transfer the contents of the beaker to a separating funnel 
+and reject the lower layer. Wash the acetylated sample successively 
+(a) three times with 50 ml of water, (b) twire with 50 ml of sodium bicarbo- 
+nate solution, and (c) twice with 50 ml of warm water (60 to 70*C). 
+Drain and remove as much of the water as possible, and then transfer the 
+acetylated sample to a beaker and add approximately 5 g of anhydrous 
+sodium sulphate. Allow to stand for about one hour with occasional 
+stirring. Filter through a dry filter paper, preferably in an oven at 100 
+to 1 10°C, remove the filter paper and I eep the sample in the oven until it 
+is thoroughly dry. Determine the saponification values of the original 
+material and the acetylated product by the procedure described 
+under 15.3. 
+
+16.1.4 Calculation 
+
+a) Acetyl value = ^l"^ „ s 
+
+b) Hydroxyl value - ^^^ „ g. 
+
+where 
+
+S' = saponification value after acetylation, and 
+
+S — saponification value before acetylation ( see 15 ). 
+
+16.2 Method B 
+16.2.1 Reagents 
+
+16.2.1.1 Pyridine — Reflux with powdered barium oxide and distil. 
+Use the fraction distilling above 1 14°C. 
+
+16.2.1.2 Acetic anhydride 
+
+16.2.1.3 Acetylating agent — Mix one volume of acetic anhydride a .d 
+seven volumes of pyridine. 
+
+16.2.1.4 Alcoholic sodium hydroxide solution — Prepare by dissolving 
+sufficient aqueous caustic soda ( 60 percent wjp ) in 95 percent alcohol to 
+make a 0-30 to 0*35 N solution. Remove the precipitated carbonate by 
+filtering. 
+
+The solution should be standardized against standard acid in the 
+presence of phenolphthalein before use. The solution remains colourless 
+for a long time if kept below 25°C. 
+
+16.2.1.5 Normal butyl alcohol 
+
+16.2.1.6 Phenolphthalein solution — Dissolve 0-1 g in 100 ml of 60 per- 
+cent rectified spirit. 
+
+Note — In the determination upon substances giving dark-coloured soap tohltioai, 
+observation of the end point of the titration may be facilitated either (•) by the 
+
+54 
+
+
+
+IS J 548 ( Part I )-l964 
+
+substitution of thymolphthalein or alkali blue 6B for phenolphthalein or (b) by the 
+addition of one millilitre of 0-1 percent solution of methylene blue to each 100 ml 
+of the phenolphthalein solution before the titration. 
+
+16.2.2 Apparatus — A round-bottomed ace tylat ion flask made of resistance 
+glass of capacity 150 to 200 ml with a 100-cm ground-in air condenser 
+tube. 
+
+16.2.3 Procedure 
+
+16.2.3.1 Weigh accurately 0-5 to 3-0 g of fat in the acctylation flask. 
+( The following weights serve as a rough guide for different types of 
+materials : fatty alcohols 0'5 to 0-7 g, castor oil about one gram and ordinary 
+oils 2 to 3 g.) Measure, or preferably weigh, from a 10-ml burette into 
+the flask, 5 ml of the pyridinc-acetic anhydride mixture. Add the mixture 
+drop wise, and allow no time for drainage. Before attaching the condenser, 
+moisten the neck of the flask with pyridine to act as a seal, and make sure 
+that the seal is maintained during the acetylation. 
+
+16.2.3.2 Mix the fat and the acetylating agent by shaking well, add 
+one or two small pieces of pumice, and boil the contents of the flask 
+gently during 60 minutes, maintaining the boiling so that the vapour rises 
+no higher than the bottom end of the condenser. In this way, the 
+pyridine seal needs renewal less often, and there is less tendency for the 
+ground-in joint to sieze. 
+
+16.2.3.3 Cool the flask to about 50°C and with a rotary motion to 
+assist in washing the condenser tube, add 5 ml of distilled water, from the 
+top of the condenser. Shake the mixture well, and then boil it gently for 
+5 to 10 minutes, shaking the flask two or three times during the boiling. 
+
+16.2.3.4 After cooling the flask and the contents to room temperature 
+and before detaching the condenser, wash the condenser with 30 ml of 
+butyl alcohol. Detach the condenser and wash the neck and mouth of 
+the flask and the tip of the condenser with a further 20 ml and then, if the 
+contents of the flask are not homogeneous, add butyl alcohol until they 
+become homogeneous. Titrate the free acetic acid with carbonate-free 
+0-35 N sodium hydroxide solution, in the presence of a few drops of 
+phenolphthalein as indicator. 
+
+16.2.3.5 Carry out the same series of operations with 5 ml ofpyridine- 
+acetic anhydride mixture alone, also with a corresponding weight of the 
+oil or fat plus 5 ml of pyridine. 
+
+Note — Owing to the presence of vapours of pyridine and butyl alcohol, it is 
+preferable to carry out the tests in a fuming chamber. 
+
+16.2.4 Calculation 
+
+56 1 AT 
+
+
+
+a) Hydroxyl value, H — r^- 
+
+b) Acetyl value, A 
+
+
+
+> + 0-000 75 H 
+55 
+
+
+
+IS 1 548 (Part D-1964 
+
+where 
+
+N ■* normality of sodium hydroxide solution; 
+
+T =» volume of sodium hydroxide solution in ml corresponding 
+to -the amount of acetylatcd fat formed 
+
+«* a -f b — e 
+
+where 
+
+a, b and e are respectively the volumes in ml of 
+sodium hydroxide required by blank with pyri- 
+dine-acctic anhydiide mixture, fat plus pyridine, 
+and fat plus pyridine plus acetic anhydride; and 
+
+W = weight in g of fat or oil taken for test. 
+
+Note — It is to be noted that a slight increase in the acetyl value has been found to 
+occur with increasing free fatty acid content of the sample. 
+
+17. DETERMINATION OF AIXYL /50THIOCYANATE 
+
+17 .0 General — The oil obtained from black mustard seeds contains 
+sinigrin and myrosin which, after maceration with water, yields a volatile 
+oil, the major constituent of which is allyl uothiocyanate. The oil 
+obtained from white mustard seeds contains acrinyl tVothiocyanate which 
+is much less volatile than ailyl trothiocyanate. 
+
+17.0.1 Method — The allyl uothiocyanate in the oil is steam distilled into 
+a known excess of silver nitrate solution, and the excess of silver nitrate 
+solution is determined by titration with standard ammonium thiocyanate 
+solution. 
+
+17.1 Apparatus 
+
+17.1.1 Distillation Flask — 500-ml round-bottomed flask. 
+
+17.1.2 Any Efficient Reflux Condenser — approximately 90 cm long. 
+
+17.1.3 Measuring Flask — 200 ml capacity. 
+
+17.1.4 Water-Bath 
+
+17.2 Reagents 
+
+17.2.1 Eth) I Alcohol — 95 percent ( by volume ) or rectified spirit [con- 
+forming to IS: 323-1959 Specification for Rectified Spirit (Revised)] 
+neutral to pheno phthalein. 
+
+17.2.2 Silver Nitrate Solution — approximately 0*1 N. 
+
+17.2.3 Ammonium Hydroxide Solution — 10 percent ( wjo ). 
+
+17.2.4 Nitric Acid— conforming to *IS : 264-1950 Specification for Nitric 
+Acid. 
+
+
+
+*Since revised. 
+
+56 
+
+
+
+IS: 548 (Part I)-1964 
+
+17.2.5 Ferric Ammonium Sulphate Indicator — 0-1 percent solution in water. 
+
+17.2.6 Standard Ammonium Thiocyanatc Solution — approximately 0- 1 N. 
+
+17.3 Procedure — Weigh accurately about 5 g of the material into a 
+500-ml distillation flask and add to it 25 ml of ethyl alcohol, 250 ml of 
+water and a few pieces of pumice stone. Distil the mixture in steam and 
+collect the distillate in a 200-ml measuring flask containing exactly 25 ml 
+of silver nitrate solution and 10 ml of ammonium hydroxide solution. 
+Collect as rapidly as possible about 150 ml of the distillate. Attach the 
+reflux air condenser to the measuring flask and heat the mixture' for about 
+one hour on a boiling water-bath. Cool to room temperature, add water 
+to make up to 200 ml and filter the contents after shaking. Take 100 ml 
+of the filtrate, add 6 ml of nitric acid and a few drops of ferric ammonium 
+sulphate indicator, and titrate with standard ammonium thiocyanate 
+solution until a permanent red colour is obtained. Carry out a blank test 
+at the same time. 
+
+17.4 Calculation 
+
+Allyl ijothiocyanate, percent 9.915 / g _ $\ jy 
+by weight = -i__ 1 — 
+
+where 
+
+B « volume in ml of standard ammonium thiocyanate solution 
+required for the blank determination, 
+
+5 = volume in ml of standard ammonium thiocyanate solution 
+required for the sample, 
+
+}f «= normality of standard ammonium thiocyanate solution, 
+and 
+
+W «= weight in g of the sample taken for the test. 
+18. DETERMINATION OF REICHERT-MEISSL VALUE 
+
+18.0 General — The material is sipomfied by heating with glycerol 
+sodium hydroxide solution and then split by treatment with dilute sulphu- 
+ric acid. The volatile acids are immediately steam distilled. The soluble 
+volatile acids in the distillate are filtered out and estimated by titration 
+with standard sodium hydroxide solution. 
+
+18.1 Apparatus — The assembly of the apparatus for distillation is shown 
+in Fig. 9, and details of the constituent parts are given below: 
+
+a) Flat-Bottom Boiling Flask — The flask (A) shall be made of resistance 
+glass and shall conform to the dimensions given in Fig. 9. 
+
+57 
+
+
+
+IS t 548 (Part 1)4964 
+
+
+
+37-iil'*00 
+
+
+
+no a 
+
+
+
+■60*4 
+
+
+
+
+All dimension* In millimetre!. 
+Pic. 9 Reichert-Meissl Distillation Apparatus 
+
+58 
+
+
+
+IS:548(Part I )-1964 
+
+b) Still-Head— The still-head (B) shall be made of glass tubing of 
+wall thickness 1 *25 ± 0*25 mm and shall conform to the shape 
+and dimensions shown in Fig. 9 and 10. 
+
+
+
+60*5 
+
+
+
+
+180 i5 
+
+
+
+All dimensions in millimetres. 
+
+Fio. 10 Still-Head for Rbichert-Mbissl 
+Distillation Apparatus 
+
+
+
+A rubber stopper, fitted below the bulb of the longer arm of 
+the still-head, and used for connecting it to the flask, shall have 
+its lower surface 10 mm above the centre of the side-hole of the 
+still-head. 
+
+c) Condenser — The condenser ( C ) shall be made of glass and shall 
+conform to the dimensions indicated in Fig. 9. 
+
+d) Receiver — The receiver ( D) shall be a flask, with two graduation 
+marks on the neck, one at 100 ml and the other at 1 10 ml. 
+
+59 
+
+
+
+IS: 548 (Part D-1964 
+
+e) Asbestos Board — An asbestos board ( E ), 120 mm diameter, 6 mm 
+in thickness, with a circular hole about 65 mm in diameter, shall 
+be used to support the flask over the burner. During distillation, 
+the flask shall fit snugly into the hole in the board to prevent the 
+flame from impinging on the surface of the flask above the hole. 
+A new asbestos board may conveniently be prepared by bevelling 
+the edge of the hole, soaking in water, moulding the edge with a 
+flask, and drying. 
+
+f) Bunsen Burner — The burner ( F ) should be sufficiently large 
+to allow the distillation to be completed in the time specified 
+in 18.3.2. 
+
+18.2 Reagents 
+
+18.2.1 Glycerine — conforming 'o AR Grade of IS: 1796-1960 Speci- 
+fication for Crude Glycerine and Refined Glycerine. 
+
+18.2.2 Concentrated Sodium Hydroxide Solution — 50 percent ( wlw ). 
+Dissolve sodium hydroxide in an equal weight of water and store the solu- 
+tion in a bottle protected from carbon dioxide. Use the clear portion free 
+from deposit. 
+
+18.2.3 Pumice Stone Grains — approximately 1-4 to 20 mm in diameter. 
+
+18.2.4 Dilute Sulphuric Acid Solution — approximately 1-0 N. 
+
+18.2.5 Sodium Hydroxide Solution — 0-1 N solution in water, accurately 
+standardized. 
+
+18.2.6 Phenolphthalein Indicator — Dissolve 0-1 g of phcnolphthalein in 
+100 ml of 60 percent rectified spirit. 
+
+18.3 Procedure 
+
+18.3.1 Weigh accurately 5-00 ± 0-01 g of the filtered oil or fat into the 
+boiling flask. Add 20 g of glycerine and 2 ml of the concentrated sodium 
+hydroxide solution from a burette to which access of carbon dioxide is 
+prevented and whose orifice is wetted before running in the liquid, the 
+first few drops from the burette being rejected. Heat the flask and its 
+contents with continuous shaking on a gauze over the naked flame until 
+the fat, including any drops adhering to the upper parts of the flask, has 
+been saponified and the liquid becomes perfectly clear. Avoid overheating 
+during this saponification. Cover the flask with a watch-glass, and allow 
+the flask to cool a little. Add 90 ml of boiling distilled water which has 
+l>een vigorously boiled for about 15 minutes. After thorough mixing, the 
+solution should remain clear. If the solution is not clear ( indicating incom- 
+plete saponification ) or is darker than light yellow ( indicating overheating ), 
+repeat the saponification with a fresh sample of the oil or fat. If the sample 
+is old, the solution may sometimes be dark and not clear. 
+
+60 
+
+
+
+IS: 548 (Part I )-1964 
+
+18.3.2 Add 0-6 to 07 g of pumice stone grains and 50 ml of dilute 
+sulphuric acid, and immediately connect the flask with the distilling 
+apparatus. Place the flask on the asbestos board so that it fits snugly into 
+the aperture. This will prevent the flame from impinging on the surface 
+of the flask above the level of the liquid and avoid superheating of the 
+system. After the fatty acids have melted and separated into a clear liquid 
+layer on gentle warming, heat the flask without altering the flame so 
+that 110 ml of liquid distils over in the course of 19 to 21 minutes. The 
+distillation is considered to begin when the first drop forms in the still-head. 
+Keep the water flowing in the condenser at a sufficient speed to maintain 
+the temperature of the outgoing water from the condenser between 15°G 
+and 20°C. Collect the distillate in a graduated flask. 
+
+18.3.3 As soon as 110 ml have distilled over, stop heating the boiling 
+flask and replace the graduated flask by a measuring cylinder of about 
+25 ml capacity to catch drainings. Clo3C the graduated flask with the 
+stopper, and, without making the contents, place it in a water-bath at 15°C 
+for 10 minutes, making sure that the 110-ml graduation mark is below the 
+level of the water. Swirl round the contents of the flask from time to time. 
+Dry the outside of the flask and then mix the distillate by closing the flask 
+and inverting it four or five times, but do not shake. Filter through a dry 
+9-cm Whatman No. 4 filter paper. Reject the first 2 or 3 ml of the filtrate 
+and collect the rest in a dry flask. 
+
+Note — The filtrate should I- - free from insoluble fatty acidi. When operating on 
+coconut oil, it has been noticed that this is not easily achieved. In cases where liquid 
+insoluble fatty acids pass through the filter, transfer the filtrate to a separating funnel 
+and after the separation of the lower aqueous layer, add the insoluble acids to the main 
+bulk of insoluble acids. 
+
+18.3.4 Pipette 100 ml of the filtrate in a titration flask, add 01 ml of 
+phenolphthalein indicator solution and titrate with standard (0'1 N) 
+sodium hydroxide solution until the liquid becomes slightly pink. 
+
+18.3.5 Run a blank test without the fat but using the same quantities 
+of reagents and following the same procedure. During the heating with 
+caustic soda, avoid overheating which will be indicated by the darkening of 
+the solution. 
+
+18.4 Calculation — Reichert-Meissl value = ( A — B ) x N x 1 1 
+
+where 
+
+A ■» volume in ml of standard sodium hydroxide solution 
+required for the test, 
+
+B «- volume in ml of standard sodium hydroxide solution 
+required for the blank, and 
+
+JV-» normality of standard sodium hydroxide solution. 
+
+Now — Kirkham, V. H. Analyst. Vol 45, P 293 ( 1920*) and Fine, S. D. Journal if 
+Astotiatm •/ Ojgidal Agricultural Ckmistt. Vol 38,. P 319 ( 1955) have shown that at 
+
+61 
+
+
+
+IS t 548 ( Part I )-1964 
+
+high altitudes, that ii, low barometric pressures, the Reichert-Meistl value determina- 
+tion! are lower than those determined at atmospheric pressure. The correction formulae 
+suggested by Kirkham were verified by Fine. 
+
+Since the Rcichert-MeissI value varies with atmospheric pressure, corrections for the 
+value are necessary when the determinations are made at places above sea-level or when 
+barometric pressure is fluctuating widely from 760 mm. The corrected Rcichcrt»Mei*sl 
+value shall be calculated as follows: 
+
+Co E? J vS her, - = ^-'0) »<*™+,o 
+
+log F 
+
+where 
+
+RM — observed Reichert-Meisil value, and 
+
+P — barometric pressure in mm of mercury at the place and time of 
+determination. 
+
+19. DETERMINATION OF POLENSKE VALUE 
+
+19.0 General — The condenser, the 25-ml cylinder and the receiver used 
+in the Reichert-Meissl value determination are washed into the filter paper 
+through which the distillate was filtered for that determination. After 
+rinsing, the residue on the filter paper is taken up with ethyl alcohol and 
+titrated with standard sodium hydroxide solution. 
+
+19.1 Reagents — All the reagents required for determining the Reichert- 
+Meissl value ( see 18.1 ) as well as the following are required. 
+
+19.1.1 Ethyl Alcohol — 90 percent by volume, and neutral to 
+phenolphthalein. 
+
+19.2 Apparatus — the same apparatus as that required for the determina- 
+tion of Reichert-Meissl value ( see 18.2 ). 
+
+19 J Procedure — After determining the Reichert-Meissl value, detach the 
+still-head and wash the condenser with threa successive 15-ml portions of 
+cold distilled water, passing each washing separately through the measuring 
+cylinder, the 110-ml flask with stopper, and the filter paper nearly filling 
+the paper each time to the brim and draining each washing before filtering 
+the next. The last 10 ml of wash-water should require not more than one 
+drop of a l N sodium hydroxide solution for neutralization. Discard all the 
+washings. 
+
+Dissolve the insoluble acids by three similar washings of the 
+condenser, the measuring cylinder, the 110-ml flask with stopper, and the 
+filter paper with 15-ml portions of ethyl alcohol. Combine the alcoholic 
+washings in a clean flask ( the tolal volume thus amounting to 45 ml ), add 
+0"2oml of phenolphthalrin indicator solution, and titrate with standard 
+(01 N ) sodium hydroxide solution until the solution turns slightly pink. 
+
+19.4 Calculation 
+
+Polenske value = 10 VN 
+
+62 
+
+
+
+IS : 548 ( Part I yl964 
+
+where 
+
+V ■■ volume in ml of standard sodium hydroxide solution 
+required for the test, and 
+
+JV— normality of standard sodium hydroxide solution. 
+
+Not* — Like Reichert-MeinJ value, the Polenike value alio variei when determina- 
+?°"' , ^7, e •« Mmoapheric pressure differing widely from 760 mm ( x« 1S.4 ). The 
+corrected Polenike value nhall be calculated ai followi: 
+
+Corrected Polenike value - ^l 76 **" 45 * 
+
+P— 45 
+
+where 
+
+PV — obterved Polenike value, and 
+
+P — barometric preuure in mm of mercury at the place and time of 
+determination. 
+
+20. DETERMINATION OF PEROXIDE VALUE 
+
+20.0 General — The peroxide value is a measure of the peroxides 
+contained in a sample of fat, expressed as milli-equivalents of peroxide 
+per 1 000 grams of the material. 
+
+20.1 Outline of the Method — The material in an acetic acid-chloroform 
+medium, is treated with an aqueous solution of potassium iodide. The 
+liberated iodine is titrated with standard sodium thiosulphate solution. 
+
+20.2 Apparatus 
+
+20.2.1 Piptttt — Graduated, 1 ml capacity. 
+
+20.2.2 Conical flask — Glass-stoppered, 250 ml capacity. 
+20.) Reagents 
+
+20.3.1 Acetic Acid-Chloroform Solution — Mix three parts by volume 
+of glacial acetic acid, with 2 parts by volume of chloroform. 
+
+20.3.2 Potassium Iodide Solution — Saturated. Prepare saturated 
+solution of potassium iodide in recently boiled distilled water. Store 
+in the dark. 
+
+20.3.3 Sodium Thiosulphate Solution — 0*1 N, accurately standardized. 
+
+20.3.4 Sodium Thiosulphate Solution — 0*01 N. This solution is 
+prepared by diluting 100 ml of accurately standardized solution of 0*1 N 
+sodium thiosulphate to 1 000 ml with freshly boiled and cooled distilled 
+water. 
+
+20.33 Starch Solution — 1 percent. 
+
+63 
+
+
+
+IS 1 548 (Part I)-1964 
+
+10.4 Proccdar* 
+
+20.4.1 Weigh 5*00 ± 005 g of sample of fat in a 250-ml glass 
+stoppered conical flask and then add 30 ml of the acetic acid-chloroform 
+solution. Swirl the flask until the sample is dissolved. Add 0*5 ml of 
+saturated potassium iodide solution. Allow the solution to stand 
+exactly one minute with occasional shaking and then add 30 ml of 
+distilled water. Titrate with 0*1 N sodium thiosulphate solution with con- 
+stant and vigorous shaking. Continue titration until the yellow colour 
+almost disappears. Add 0*5 ml of starch solution and continue titration 
+till the blue colour just disappears. 
+
+20.4.2 If the titre value is less than 0'5 ml, repeat the determination 
+using 0*01 N sodium thiosulphate solution. 
+
+20.4 3 Conduct a blank determination of the reagents in the same way. 
+The titration in blank determination should not exceed 0*1 ml of the 
+0* 1 N sodium thiosulphate solution. 
+
+20.5 Calculation — Peroxide value as milli-equivalents per 1 000 grams 
+^xnpfc _ (S-B)xXxlOOO 
+
+where 
+
+S mm volume in m] of sodium thiosulphate solution used up by 
+the sample, 
+
+B m volume in ml of the sodium thiosulphate solution used up 
+in the blank determination, 
+
+JV ma normality of the sodium thiosulphate solution, and 
+
+g = weight in g of the sample. 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 1 1 0002 
+
+Telephones: 232301 31 , 23233375, 23239402 Fax: 91 +01 1 23239399, 23239382 
+
+E - Mall : info® bis.org. in website : http://www.bis.org.in 
+
+Central Laboratory: Telephone 
+
+Plot No. 20/9, Site IV, Sahibabad Industrial Area, SAHIBABAD 201 010 277 0032 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 1 1 0002 2323 761 7 
+
+'Eastern : 1/14CITSchemeVIIM,V.I.RRoad,Kankurgachi,KOLKATA700054 23378662 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 1 60022 260 9285 
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI600113 2254 1984 
+
+tWestern: Manakalaya, E9, MIDC, Behind Marol Telephone Exchange, 2832 9295 
+Andheri (East), MUMBAI 400093 
+
+Branch Offices: 
+
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur, AHMEDABAD 380001 560 1348 
+
+Peenya Industrial Area, 1 " Stage, Bangalore-Tumkur Road, BANGALORE 839 4955 
+
+Commercial-cum-Office Complex, Opp. Dushera Maidan, Arera Colony, 242 3452 
+
+Bittan Market, BHOPAL 46201 6 
+
+62-63, GangaNagar.UnitVI.BHUBANESHWAR 751001 2403139 
+
+5* Floor, Kovai Towers, 44 Bala Sundaram Road, COIMBATORE 641 01 8 221 0141 
+
+SCO 21, Sector 12, Faridabad 121007 2292175 
+
+Savitri Complex, 116 G.T. Road, GHAZIABAD 201001 286 1498 
+
+53/5 Ward No. 29, R.G. Barua Road, 5th By-lane, Apurba Sinha Path, 245 6508 
+
+GUWAHATI 781003 
+
+5-8-56C, LN. Gupta Marg, Nampally Station Road, HYDERABAD 500001 2320 1084 
+
+Prithavl Raj Road, Opposite Bharat Overseas Bank, C-Scheme, J Al PUR 302001 222 3282 
+
+11/418 B, Sarvodaya Nagar, KANPUR 208005 223 3012 
+
+Sethi Bhawan, 2"" Floor, Behind Leela Cinema, Naval Kishore Road, 261 8923 
+
+LUCKNOW 226001 
+
+H, No. 1 5, Sector-3, PARWANOO, Distt. Solan (H.P.) 1 73220 235 436 
+
+Plot No A-20-21 , Institutional Area, Sector 62, Goutam Budh Nagar, NOIDA 201307 240 2206 
+
+Patiiputra Industrial Estate, PATNA 80001 3 226 2808 
+
+Plot Nos. 657-660, MarketYard, Gultkdi, PUNE 41 1037 24274804 
+
+"Sahajanand House" 3'" Floor, Bhaktinagar Circle, 80 Feet Road, 237 8251 
+
+RAJKOT 360002 
+T.C. No. 2/275 (1 & 2), Near Food Corporation of India, Kesavadasapuram-Ulloor Road, 
+
+Kesavadasapuram, THIRUVANANTHAPURAM 695004 255 791 4 
+
+1" Floor, Udyog Bhavan, VUDA, Siripuram Junction, VISHAKHAPATNAM-03 271 2833 
+
+
+
+'Sales Office is at 5 Chowringhee Approach, P.O. Princep Street, KOLKATA 700072 
+tSales Office (WRO) Plot No. E-9, MIDC, Rd No. 8, Behind Telephone Exchange, 
+Andheri (East), Mumbai-4000093 
+
+
+
+23553243 
+
+
+
+28329295 
+
+
+
+Printed by the Manager, Government of India Press Faridabad, 2007 
+
+
+

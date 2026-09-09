@@ -1,0 +1,2351 @@
+***•••*•**•••••• 
+
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+The Right to Information, The Right to Live' 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+&V I JIA:^:^ifc^^:V/fflJ4^^N:b.^ 3^^ISba ^! rr ^^ >^»^> a U 
+
+
+
+IS 13612-1 (1993) : Modular co-ordination for normal 
+brickwork - Recommendations, Part 1: Burnt clay bricks [CED 
+51: Planning, Housing and pre-f abricated construction] 
+
+
+
+C^IJIA^=JCsS^ff71l^vS^3g^TN:^a^ITFSggg 
+
+
+
+5?5im l7*55^!S&^N5«^^ 
+
+
+
+^^-^^^^W.^^ 
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+Vii^ 
+
+
+
+
+i4> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 13612 ( Part 1 } : 1993 
+
+_ ( Reaffirmed 2004 ) 
+
+Cs 
+
+Indian Standard 
+
+MODULAR CO-ORDINATION FOR NORMAL 
+BRICKWORK — RECOMMENDATIONS 
+
+PART 1 BURNT CLAY BRICKS 
+
+UDC 721-013 : 006-78 : 666-71 
+
+
+
+© BIS 1993 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARO 
+NEW DELHI 110002 
+
+Febraury 1993 Price Group 7 
+
+
+
+Planning, Bye -laws and DiHiensional Co-ordination Sectional Committee, CED 10 
+
+
+
+FOREWORD 
+
+This Indian Standard was adopted by the Bureau of Indian Standards, after the draft finalized by the 
+Planning, Bye-laws and Dimensional Co-ordination Sectional Committee had been approved by the 
+Civil Engineering Division Council. 
+
+Bricks are one of the most common building components for a variety of uses in the construction 
+industry. These are manufactured from locally available clays. In India, non-modular bricks are avail- 
+able in different dimensions. 
+
+The metric system became efifective in early sixties in the country through legislation. With this 
+legislation, the Bureau recommended the use of modular bricks in place of non-modular burnt clay 
+building bricks. The Bureau of Indian Standards has brought out a number of standards on dimensions, 
+quality, strength, classifications, grading and methods of test for metric bricks. IS 1077 : 1986 and 
+IS 2180 ; 1985 suggest two sizes of common building burnt clay bricks, namely 200 mm x 100 mm x 
+100 mm and 200 mm x 100 mm x 50 mm. The bond arrangements are similar to the well known bonds, 
+but are based on third bonding; that is, overlap is one third of the brick and not one fourth as in the 
+case of non-modular brick. 
+
+The adoption of modular co-ordination system in construction industry has been advocated by many 
+national organizations. A number of committees have reported the advantages of metric /modular 
+bricks and suggested incentive measures for metric-brick manufacturers. In spite of these efforts, 
+nearly 50,000 million non-modular size bricks continue to be manufactured in this country. 
+
+Designers are very apprehensive, because of non-availabiiity of modular size bricks, to adopt modular 
+co-ordination in a project. The manufacturers have some reservation to produce modular bricks since 
+they claim to face manufacturing and marketing problems. Inspite of best efforts and encouragement 
+given, the production of modular bricks remained insignificant. As a result, modular co-ordination and 
+metric system have not yet been able to replace the non-modular brick in the country. 
+
+This standard has been formulated with a view to accelerating the adoption of modular co-ordination 
+in the construction industry using the available non-modular size of bricks for a project by the 
+designers. It is intended to be a working reference for the dimensional control of brickwork. 
+
+This standard has been formulated with considerable assistance from the National Building 
+Organization, New Delhi. 
+
+In formulation of this standard due weightage has been given to international co-ordination among the 
+standards and practices prevailing in different countries in addition to relating it to the practices in the 
+field in this country. This has been met by deriving assistance from the following documents: 
+
+a) Industrialised Building and Modular Design: Henrik Nissen. Cement and Concrete Association, 
+London ( 1972 ). 
+
+b) DS 1048-1966 Normal Brickwork and Modular Co-ordination. Dansk Standardiseringarad. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the 
+final value, observed or calculated, expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS 2 : 1960 'Rules for rounding off numerical values ( revised )*. The number of 
+significant places retained in the rounded off value should be the same as that of the specified value 
+in this standard. 
+
+
+
+IS13«12(P*rtl): 19!>3 
+
+
+
+Indian Standard 
+
+
+
+MODULAR CO-ORDINATION FOR NORMAL 
+BRICKWORK — RECOMMENDATIONS 
+
+
+
+PART 1 BURNT CLAY BRICKS 
+
+
+
+1 SCOPE 
+
+
+
+1.1 This standard deals with the application of 
+modular co-ordination in brickwork using 
+modular and non-modular bricks. 
+
+1.2 This standard covers recommendations for 
+achieving modular co-ordination in brickwork 
+using modular and non-modular brick sizes, and 
+preferred horizontal and vertical controlling 
+dimensions in all types of buildings. This is 
+intended to be a working reference for the 
+dimensional control of all types of brickwork. 
+
+2 REFERENCES 
+
+The Indian Standards listed in Annex A are 
+necessary adjuncts to this standard. 
+
+3 TERMINOLOGY 
+
+For the purpose of this standard, the definitions 
+given in IS 4993 : 1983, IS 7921 : 1987 and 
+IS 7922 : 1987 shall apply. 
+
+4 GENERAL CONCEPT 
+
+4.1 Dimensional co-ordination amongst different 
+building components is very important to reduce 
+the cost in a construction project. Brickwork 
+being a basic component of any building, needs 
+dimensional co-ordination. Modular bricks 
+have been introduced and internationally 
+accepted for achieving modular co-ordination 
+in brickwork. But as the modular bricks have 
+not yet been able to replace the non-modular 
+bricks in the country, it is felt necessary to 
+devise ways to achieve modular co-ordination in 
+brickwork, using non-modular brick size and 
+bond dimensions, in addition to modular bricks. 
+A modular system using 100 mm as basic 
+module; and 50 mm, 25 mm and 2'' mm as sub- 
+modular increments ( see IS 10316 : 1986 ) may 
+be adopted. 
+
+5 FIELD OF APPLICATION 
+
+5.1 For the appHcation < f modular co-ordi- 
+nation, IS 6820 : 1987, IS 7921 : 1987 and 
+IS 7922 : 1987 shall be referred. These standards 
+recommend use of planning module of 3M or 
+multiples thereof for h< nzontal dimensions and 
+a planning module of 2M or multiples thereof 
+for vertical dimensions. 
+
+
+
+5.2 These dimensions fit the controlling dimen- 
+sions for brickwork using modular as well as 
+non-modular size of bricks and are also suitable 
+to determine the dimensions of floor height, 
+wall thickness, staircase dimensions, doorsets 
+and windowsets ( see IS 12073 : 1987 ) etc. 
+These dimensions are suitable for space planning 
+in buildings. 
+
+6 MODULAR BRICKWORK 
+
+6.1 Controlling Dimensions of Bricks 
+
+6.1.1 The controlling dimensions, converted to 
+equivalents in mm, for modular and non- 
+modular bricks with values rounded off to 
+nearest mm shall be in accordance with 
+dimensions given in Fig. 1. 
+
+6.1.2 The cotrolllng dimensions and ratio there- 
+of ( converted to equivalents in mm ) of bricks 
+shall be: 
+
+a) Modular brick 
+
+L X B X H = 200 X 100 X 100 
+
+r-t=l -^=2 -^ 
+V L ^' B ^' H 
+
+b) Non-modular bricks 
+
+L X B X H = 240 X 120 X 80 
+
+I L ~ ' B ' H 
+
+
+
+= .) 
+
+
+
+= 
+
+
+
+These ratios establish further relationship for 
+controlling dimensions for length, height and 
+thickness of brickwork and bonds as shown in 
+Fig. 2 and Fig. 3 for modular and non-modular 
+bricks. 
+
+6.2 Controlling Dimensions for Brickwork 
+
+6.2.1 Modular Bricks 
+
+The modular bricks with actual measurement of 
+190 mm X 90 mm x 90 mm fits in modular 
+planning with controUing dimensions of brick- 
+work, n K 50 mm, as shown below ( see also 
+Fig. 4A ): 
+
+4 X 50 mm = Full brick = 200 mm 
+
+( Nominal size ) 
+3 X 50 mm = 3/4 brick = 150 mm 
+2 X 50 mm = 1/2 brick = 100 mm 
+1 X 50 mm = 1/4 brick = 50 mm 
+
+
+
+1 
+
+
+
+IS 136%2 (Part t ) : 1993 
+
+
+
+6.2.1.1 For modular bricks, using sub-modular 
+
+M 
+increments of -^ , the controlling dimensions 
+
+for brick walls, which are multiples of -^ 
+
+(50 mm ) for both, horizontal and vertical 
+dimensions, match with the modular dimensions 
+( see Fig, 5A ). 
+
+6.2.2 Non-modular Bricks 
+
+The non-modular bricks with the measurement 
+240 mm x 120 mm x 80 mm fits in modular 
+planning with controlling dimensions of brick- 
+work, « X 60 mm, as shown below ( see also 
+Fig. 4B ): 
+
+4 X 60 mm = Full brick = 240 mm 
+( Nominal size ) 
+
+3 X 60 mm = 3/4 brick = 180 mm 
+
+2 X 60 mm = 1/2 brick = 120 mm 
+
+1 X 60mm= 1/4 brick = 60 mm 
+
+
+
+6.2.2.1 For non-modular 
+
+
+
+modular increments 
+
+
+
+M 
+
+of -3- 
+
+
+
+bricks, 
+the 
+
+
+
+using sub- 
+controlling 
+
+dimensions for brick walls, which are multiples 
+of 60 mm ( = 3 x 20 mm ) for horizontal 
+and 80 mm ( = 4 x 20 mm ) multiples of 80 mm 
+( = 4 X 20 mm ) for veitical direction, match 
+with the modular dimensions ( see Fig. 5B ). 
+
+6.3 Horizontal Co-ordination 
+
+6.3.1 Considering the length and breadth of 
+modular bricks, the horizontal controlling 
+dimension of 3M can be achieved as follows: 
+
+Six times ( 50 mm or 1/4 brick interval ) 
+= 6 X 50 -= 3M 
+
+6.3.2 Considering the length and breadth of 
+non-modular bricks, the horizontal controlling 
+dimensions of 3M can be achieved as follows: 
+
+Five times (60 mm or 1/4 brick interval) 
+= 5 X 60 = 3M 
+
+
+
+
+Type 
+
+
+Controlling Dimensions 
+
+
+Nominal 
+
+
+Actual 
+
+
+L 
+
+
+B 
+
+
+H 
+
+
+L 
+
+
+B 
+
+
+H 
+
+
+Modular 
+
+
+Bricks 
+
+
+200 
+
+
+100 
+
+
+100 
+
+50 
+
+
+190 
+
+
+90 
+
+
+90 
+
+
+Tiles 
+
+
+4« 
+
+
+Non-Modular 
+( Conventional ) 
+
+
+Bricks 
+
+
+240 
+
+
+120 
+
+
+80 
+
+
+230 
+
+
+110 
+
+
+70 
+
+
+Tiles 
+
+
+40 
+
+
+35. - 
+
+
+
+Fig. 1 CoNTROX-LiNG Dimensions of Brick 
+
+
+
+IS 13612 (Part 1 ): 1993 
+
+
+
+9 
+
+
+^M 
+
+
+o 
+
+
+
+
+9 
+
+
+®"1 
+
+
+
+
+
+
+
+
+
+
+
+
+■- 3M 
+
+
+' 
+
+
+
+
+
+
+; 
+
+
+
+
+> — ^ 
+
+
+
+
+2 
+
+i FM 
+
+
+
+
+•— T 1« 
+
+
+
+
+
+
+: i 
+
+: 
+
+:^__ 
+
+
+
+
+CM 
+
+
+- 
+
+
+■ 
+
+
+
+
+' 
+
+
+
+
+2 
+
+
+
+
+
+
+
+
+h ' 
+
+
+
+
+
+
+0- 
+
+
+1 
+
+; ^ _i= 
+
+
+. 
+
+
+
+
+=H 
+
+
+
+2A ENGLISH BOND 
+
+
+
+a 
+
+
+
+o 
+
+
+
+o- 
+
+
+
+3M' 
+
+
+
+._3M. 
+
+
+
+O : O O 
+
+2B/FLeM(SH BONO 
+Fig. 2 Bond Arrangement for Non-Modular Bricks 
+
+
+
+6,4 Vertical Co-ordination 
+
+6.4.1 Considering the height of modular bricks, 
+the vertical controlling dimensions of 2M can 
+be achieved as follows: 
+
+Brick on edge + 1 course = 100 + 100 <= 
+2M 
+
+6.4.2 Considering the height of conventional 
+bricks, the vertical controlling dimensions of 
+2M can be achieved as follov^s: 
+
+Brick on edge + 1 course = 120 -f 80 = 2M 
+7 TOLERANCE ON BRICKS 
+
+7.1 Application of tolerances in brickwork shall 
+be in accordance with IS 6408 ( Part 2 ) : 
+1990. 
+
+7.2 In order to maintain the brickworks own 
+controlling dimension, that is, equal to one 
+nominal brick length [ 240 mm for non-modular 
+and 200 mm for modular brick ], the joint 
+dimensions have to be controlled within limits 
+[ see IS 6408 ( Part 2 ) : 1990 ]. 
+
+7.3 The one-brick length, height, width and 
+brick cuttings ( that is closers, bats etc ) shall 
+have 5 mm deduction on ail surfaces for joint 
+dimensions. 
+
+
+
+Example: 
+
+
+
+
+
+
+a) for modular bricks: 
+
+
+
+
+
+
+Nominal 
+
+
+Actual 
+
+
+For 1/4 
+stretcher 
+
+
+1 X 50 mm 
+= 50 mm 
+
+
+50 - 10 
+= 40 ram 
+
+
+For 1/2 
+stretcher 
+
+
+2 X 50 mm 
+= 100 mm 
+
+
+100 - 10 
+= 90 mm 
+
+
+For 3/4 
+stretcher 
+
+
+3 X 50 mm 
+=- 150 mm 
+
+
+150 - 10 
+= 140 mm 
+
+
+For 1 
+stretcher 
+
+
+4 X 50 mm 
+= 200 mm 
+
+
+200 - 10 
+= 190 mm 
+
+
+
+b) For non-modular conventional bricks: 
+Nominal Actual 
+
+
+
+For 1/4 
+stretcher 
+
+For 1/2 
+stretcher 
+
+For 3/4 
+stretcher 
+
+For 1 
+
+
+
+1 X 60 mm 
+= 60 mm 
+
+2 X 60 mm 
+== 120 mm 
+
+3 X 60 mm 
+^ 180 mm 
+
+
+
+60 - 10 
+= 50 mm 
+
+120 - 10 
+== 110 mm 
+
+180 - 10 
+== 170 mm 
+
+
+
+60 mm 240 — 10 
+
+
+
+stretcher = 240 mm 
+
+
+
+230 mm 
+
+
+
+IS 13«12( Part 1 ): 1993 
+
+
+
+
+
+<; 
+
+
+) 
+
+
+
+
+
+
+
+
+9 
+
+
+
+
+
+
+
+
+9 
+
+
+
+
+r "^ 
+
+
+
+
+3M 
+
+
+■' 
+
+
+
+
+- 
+
+
+3M 
+
+
+
+
+- 
+
+
+*" 
+
+
+O- 
+
+
+►-— 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+— 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+— 
+
+
+VJ 1 
+
+
+
+
+
+
+
+
+
+
+^ 
+
+
+
+
+
+
+nr\ 
+
+
+K ir\ 
+
+
+
+
+
+
+
+
+
+o- 
+
+
+
+o- 
+
+
+
+o- 
+
+
+
+3A ENGLISH BONO 
+3M 
+
+
+
+^ 
+
+
+
+3M 
+
+
+
+6 
+
+
+
+3M 
+
+
+
+o 
+
+
+
+6 
+
+
+
+3B FLEMISH BOND 
+
+Fig. 3 Bond Arrangement for Modular Bricks 
+8 HORIZONTAL DIMENSIONS OF WALL 
+8.1 Modular Bricks 
+
+
+
+8.1.1 The basic co-ordinating dimension for 
+brickwork in horizontal plane shall be multiple 
+
+M 
+of -Y~ sub-modular increment ( 50 mm ), 
+
+
+
+8.3 The preferred horizontal dimensions for 
+brickwork shall be selected for controlling the 
+length of the wall ( see 6.4 ). 
+
+
+
+minus joint dimension, that is n x 50 mm— joint ( see IS 7921 : 1987 ). 
+dimension ( see Fig. 6 ). 
+
+
+
+8,4 The '5-mm Rule' shall be applied to specify 
+the horizontal dimension of wall and other 
+related measurement of openings in the wall 
+
+
+
+8.2 Non-modular Bricks 
+
+
+
+8.2.1 The basic co-ordinating dimension for 
+brickwork in horizontal plane shall be multiple 
+
+of 60 mm / = 3 x -^ that is, multiple of -^- 
+
+
+
+9 VERTICAL DIMENSIONS OF WALL 
+9.1 Modular Brick 
+
+
+
+9.1.1 The basic co-ordinating dimension for 
+brickwork using modular bricks, in vertical plane 
+
+sub-modular increments j, minus joint dimen- shall be -- sub-modular increment ( 50 minus 
+
+sion, that is n X 60 mm joint dimension ( see joint dimension, that is, n x 50 mm 
+Fig. 6 ). dimension { see Fig. 6 and Fig. 7A ). 
+
+
+
+joint 
+
+
+
+IS 13612 ( Part 1 ) : 1993 
+
+
+
+
+3//, BRICK 
+
+
+
+V6 BRfCK 
+
+
+
+Length n x 1/2 M 
+
+
+Reduction Due to 
+5-nim Rule 
+
+
+Actual 
+
+
+1/4* I X 50 
+
+
+50-10 
+
+
+40 
+
+
+]/2t 
+
+
+2 X 50 
+
+
+100-10 
+
+
+90 
+
+
+3/4 
+
+
+3 X 50 
+
+
+150-10 
+
+
+140 
+
+
+4/4 1 
+
+
+4 X 50 
+
+
+200-10 
+
+
+190 
+
+
+5/4 
+
+
+5 X 50 
+
+
+250-10 
+
+
+240 
+
+
+6/4 
+
+
+6 X 50 
+
+
+300-10 
+
+
+290 
+
+
+*Quoin closer or 1/2 header 
+tWidth of brick or 1 header 
+JLength of brick or 2 headers 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 4A Cutting of Modular Bricks 
+5 
+
+
+
+iS 13612 ( Part 1 ): 1993 
+
+
+
+
+FULL BRICK 
+
+
+
+
+3/-4 BRICK 
+
+
+
+1/^ BRICK 
+
+
+
+Lengtb 
+
+
+n X 1/5 M 
+
+
+With 
+5>iiim Rule 
+
+
+Actual 
+
+
+1/4* 
+
+l/2t 
+
+
+1 X 60 
+
+
+60-10 
+
+
+50 
+
+
+2 X 60 
+
+
+120-10 
+
+
+no 
+
+
+3/4 
+
+
+3 X 60 
+
+
+180-10 
+
+
+170 i 
+
+
+4/4J 
+
+
+4 X 60 
+
+
+240-10 
+
+
+! 
+230 
+
+
+5/4 
+
+
+5 X 60 
+
+
+300-10 
+
+
+290 
+
+
+6/4 
+
+
+6 X 60 
+
+
+360-10 
+
+
+350 i 
+
+
+*Quoin closer or 1 12 header j 
+tWidth of brick or J header j 
+{Length of brick or 2 headers j 
+
+
+
+All dhiiensions in miilimetres. 
+
+Fig. 4B Cutting of Non-Modular Bricks 
+6 
+
+
+
+IS 13612 ( Part 1 ) : 1993 
+
+
+
+
+Ail dimensions in niillimelces. 
+
+Fig 5A Bond Dimensions for Modular Bricks 
+
+
+
+3M 
+
+
+
+
+
+
+
+3M 
+
+
+
+— J..- ■/ — A — 
+
+
+
+Or 
+
+
+
+CH 
+
+
+
+i I I ^, J , J_^ J ' i 
+
+! > ! t i I ( ; r 
+
+
+
+Mmm^M^^^^^^. -~o 
+
+
+
+
+
+
+--iO 
+
+
+
+
+
+
+■U4 
+
+
+
+4 nj't" ^"li nii«i^;s^ -jo 
+
+l_yLjU'L!:U|LJiJLi.u6-^ 
+
+6 ' 6 o 
+
+
+
+o 
+
+
+
+o 
+
+
+
+All dimensions in nullimetves. 
+
+Fig. 5B Bond Dimensions for Non-Modular Bricks 
+
+
+
+IS 13612 ( Part 1 ) : 1993 
+
+
+
+
+6B PLAN 
+
+
+
+Brick Size 
+
+
+
+Non- 
+modular 
+( Conven- 
+tional } 
+
+
+
+Modular 
+
+
+
+Co-ordinating Dimensions 
+
+
+
+Horizontal 
+
+
+
+a, 
+
+
+c and 
+
+
+e 
+
+
+= 
+
+
+71 X 
+
+
+60 
+
+
+mm 
+
+
+__ 
+
+
+10 
+
+
+mm 
+
+
+b 
+
+
+and d 
+
+
+
+
+= 
+
+
+n X 
+
+
+M 
+
+
+
+
++ 
+
+
+10 
+
+
+mm 
+
+
+a 
+
+
++ b + c 
+
+
++ cl + 
+
+
+e = 
+
+
+Wm 
+
+
+X 
+
+
+3M 
+
+
+
+
+10 
+
+
+mm 
+
+
+
+a, c and e 
+b and d 
+a+b+c+d+e 
+
+
+
+= n X 50 mm — 10 mm 
+
+<= n X M +10 mm 
+
+= W = H X 3M — 10 mm 
+
+
+
+
+
+
+
+
+
+
+
+Vertical 
+
+
+
+
+
+
+
+
+f 
+
+
+
+
+
+
+= 
+
+
+n X 
+
+
+80 mm 
+
+
+
+
+
+10 
+
+
+mm 
+
+
+s 
+
+
+and 
+
+
+h 
+
+
+= 
+
+
+n X 
+
+
+M 
+
+
++ 
+
+
+10 
+
+
+mm 
+
+
+H 
+
+
+
+
+
+
+
+
+« X 
+
+
+2M 
+
+
+
+
+10 
+
+
+mm 
+
+
+
+/ = n X 50 mm — 10 mm 
+
+g and /? = n X M +10 mm 
+
+H =nX2M -10 mm 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 6 Brickwork Controlling Dimensions 
+
+
+
+IS 13612 ( Fart 1 ) : 1993 
+
+
+
+
+All dimensions in millimetres. 
+
+Fig. 7A Vertical Dimensions for Modular Bricks 
+
+
+
+that is 
+
+
+
+9.2 Non-modular Brick 
+
+9.2.1 The basic co-ordinating dimension for 
+brickwork using non-modular bricks, in vertical 
+
+plane shall be 80 mm | = 4 x -^^ 
+
+multiple — p- sub-modular increment | minus 
+
+joint dimension, that is « x 80 mm — joint 
+dimension ( see Fig. 6 and 7B ). 
+
+9.3 The preferred vertical dimensions for brick- 
+work shall be selected for controlling sill, lintel, 
+room and floor heights. 
+
+9.4 The '5-mm Rule' shall be applied to 
+specify the vertical dimension of walls and 
+other related measurements of openings in the 
+wall ( see IS 7922 : 1987 ). 
+
+
+
+9.5 Due to some reasons, need may arise to 
+accommodate non-modular sizes of elements/ 
+components/assemblies. One such reason may be 
+to fulfil specific functional needs of structure. 
+These may be met by introducing brick-on-sdge 
+course at desired levels. 
+
+10 THICKNESS OF WALL 
+
+10,1 Modular Brick 
+
+10.1.1 The basic controlling dimension for 
+brickwork, using modular bricks, in thickness 
+
+shall be based on -^ sub-modular increments 
+
+( First preference in accordance with Table 1 of 
+JS 10316 : 1986 ), that is, having increments of 
+n X 50 mm — joint dimension ( see Fig. 8A ). 
+
+
+
+9 
+
+
+
+IS 13612 (Fart 1 ) : 1993 
+
+
+
+o 
+
+
+
+o 
+
+
+
+a 
+
+
+
+o- 
+
+
+
+o 
+
+c 
+
+e 
+
+o 
+
+
+
+o 
+
+
+
+a 
+o 
+o 
+o- 
+
+
+
+o- 
+
+
+
+O- 
+
+
+
+O 9 9 Q 
+
+GO 1 60 , 60 I GO 
+
+
+
+1-9 
+
+
+
+-OS 
+
+
+
+f^^ 
+
+
+
+s 
+
+_ — _^^ 
+
+
+
+BRICK- ON-EDGE 
+
+
+
+2^0 
+
+
+
+6 
+
+
+
+6 
+
+
+
+o, 
+
+
+
+
+
+
+o 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 7B Vertical Dimensions for Non-modular Bricks 
+
+
+
+10.2 Non-modular Brick 
+
+basic 
+
+using 
+
+
+
+10.2.1 The 
+
+brickwork 
+
+
+
+controlling dimension for 
+non-modular bricks, in 
+
+thickness shall be based on — ^ sub-modular 
+
+increments ( Third preference in accordance 
+with Table 1 of IS 10316 : 1986 ), that is, having 
+increments of n x 20 mm — joint dimension 
+( see Fig. 8B-), 
+
+
+
+10.3 Sizes for Bricks and Tiles 
+
+
+
+
+10.3.1 For modular- bricks 
+( in mm ) shall be as follows 
+
+
+and tiles 
+
+
+the sizes 
+
+
+
+
+Nominal 
+
+
+Actual 
+
+
+Tile 
+
+Brick on edge/half brick 
+
+One brick 
+
+One and a half brick 
+
+Two bricks 
+
+
+50 
+100 
+200 
+300 
+400 
+
+
+40 
+
+90 
+
+190 
+
+290 
+
+390 
+
+
+
+10 
+
+
+
+10.3.2 For non-modular bricks and tiles, the 
+sizes are { equivalent in mm ) shall be as 
+follows: 
+
+
+
+
+
+Nominal 
+
+
+Actual 
+
+
+Tile 
+
+
+60 mm 
+
+
+50 mm 
+
+
+Brick Oil edge 
+
+
+80 mm 
+
+
+70 mm 
+
+
+Half brick 
+
+
+120 mm 
+
+
+110 mm 
+
+
+Half brick + brick on 
+edge 
+
+
+200 mm 
+
+
+190 mm 
+
+
+One brick 
+
+
+240 mm 
+
+
+230 mm 
+
+
+One and a half brick 
+
+
+360 mm 
+
+
+350 mm 
+
+
+Two bricks 
+
+
+480 mm 
+
+
+470 mm 
+
+
+
+IS 13612 ( Part 1) : 1993 
+
+dimensions of wall for length, width/thin ckness 
+and heights. 
+
+11.2 The actual dimensions of the wall openings 
+shall be determined from the controlling 
+dimensions plus one joint dimension. 
+
+11.3 The modular lines of openings in the wall 
+shall be located along the centre line of joints. 
+
+11.4 Co-ordinating dimensions of actual 
+openings shall be 10 mm more and wall dimen- 
+sions shall be 10 mm less than modular 
+dimensions. 
+
+12 LOCATION OF WAIL 
+
+
+
+11 CO-OBDINATE DIMENSIONING It shall be in accordance with Indian Standard 
+
+Recommendations for modular co-ordination 
+11.1 Dimensions of brick wall shall be repre- in building industry : location of structural 
+sented on measurement line with actual walls and floor slabs ( under preparation ). 
+
+
+
+
+
+
+HALF BRICK 
+
+
+
+0N£ BRICK 
+
+
+
+ONE AND HALF BRICK 
+
+
+
+All dimensions in millimeties. 
+
+Fig. 8A Brick Wall Thicknesses with Modular Bricks 
+
+
+
+II 
+
+
+
+SS13612 (Put 1): 1993 
+
+
+
+Q 
+
+
+
+Q.^ Qeo , soQ 
+
+
+
+o- 
+
+
+
+a 
+
+
+
+J~ 
+
+
+
+^ 
+
+
+
+MM 
+
+
+
+VtOUO i ^0 1 ^o . AoV 
+
+
+
+o 
+
+
+
+^) 
+
+
+
+o 
+
+
+
+K '55 H 
+
+
+
+BRICK ON EDGE HALF BRICK BRICK ON EDGE* HALF BRICK 
+
+
+
+O 
+
+
+
+a 
+
+
+
+60 I 60 
+
+
+
+! > ^Q „ ^Q j 
+
+
+
+60 I 60 
+
+
+
+o 
+
+
+
+Q 
+
+
+
+O- 
+
+
+
+K '-^ >i 
+
+
+
+60 I 60 I 60 I 60 1 60 I 60 
+
+
+
+I 60 I 60 I 60 1 60 J 
+
+
+
+Q 
+
+
+
+•o 
+
+
+
+^ 
+
+
+
+350 
+
+
+
+o 
+
+
+
+ONE BRICK 
+
+
+
+ONE-AND-HALF BRICK 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 8B Brick Wall Thickness with Non-modular Bricks 
+
+
+
+12 
+
+
+
+IS 13«2 ( Part 1 ) : 1993 
+
+
+
+ANNEX A 
+( Clause 2 ) 
+
+LIST OF REFERRED INDIAN STANDARDS 
+
+
+
+IS No. 
+
+
+
+
+1077 : 1986 
+
+
+
+
+2180 : 1988 
+
+
+
+
+4993 : 1983 
+
+
+
+
+6408 
+( Part 2 ) ; 
+
+
+1990 
+
+
+
+Title IS No. 
+
+Specification for common 6820 : 1987 
+burnt clay building bricks 
+( fourth revision ) 
+
+Specification for heavy-duty 7921 : 1987 
+burnt clay building bricks 
+( third revision ) 
+
+Glossary of terms relating 
+
+to modular co-ordination 7922 : 1987 
+
+( second revision ) 
+
+Recommendations for mo- 
+dular co-ordination tole- 10316 : 1986 
+ranees in building industry : 
+Part 2 Principles and 
+applications (first revision ) 
+
+
+
+Title 
+
+
+
+Recommendations for 
+
+modular co-ordination in 
+building industry : Applica- 
+tions {first revision ) 
+
+Recommendations for mo- 
+dular co-ordination in 
+building industry : Horizon- 
+tal co-ordination (first 
+revision ) 
+
+Recommendations for mo- 
+dular co-ordination in 
+building industry : Vertical 
+co-ordination (first revision ) 
+
+Recommendations for mo- 
+dular co-ordination basic 
+module and sub-modular 
+increments 
+
+
+
+13 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian Standard conveys the assurance that they have been 
+produced to comply with the requirements of that standard under a well defined system of 
+inspection, testing and quality control which is devised and supervised by BIS and operated 
+by the producer. Standard marked products are also continuously checked by BIS for con- 
+formity to that standard as a further safeguard, uetails of conditions under which a licence 
+for the use of the Standard Mark may be granted to manufacturers or producers may be 
+obtained from the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any 
+form vi^ithout the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director ( Publications ), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standrds are also 
+reviewed periodically; a standard along with amendments is reaffirmed when such review indicates that 
+no changes are needed; if the review indicates that changes are needed, it is taken up for revision. 
+Users of Indian Standards should ascertain that they are in possession of the latest amendments or 
+edition by referring to the latest issue of 'BIS Handbook' and 'Standards Monthly Additions'. 
+Comments on this Indian Standard may be sent to BIS giving the following reference: 
+
+Doc : No. CED 10 ( 4232 ) 
+
+Amendments Issued Since Publication 
+
+Amend No. Date of Issue Text Afifected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10002 Telegrams : Manaksanstha 
+
+Telephones : 331 01 31, 331 13 75 ( Common to all offices ) 
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern: SCO 445-446, Sector 35-C CHANDIGARH 160036 
+
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 600113 f 235 02 16, 235 04 42 
+
+; 235 15 19, 235 23 15 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) f 632 92 95, 632 78 58 
+
+BOMBAY 400093 1632 78 91, 632 78 92 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. 
+JAIPUR. KANPUR. LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+
+
+Felephone 
+
+
+
+
+331 01 31 
+
+
+331 13 75 
+
+
+37 84 99, 
+
+
+37 85 61 
+
+
+37 86 26, 
+
+
+37 86 62 
+
+
+53 38 43, 
+
+
+53 16 40 
+
+
+53 23 84 
+
+
+
+
+
+Printed at New India Printing Press, Khurja, India 
+
+
+

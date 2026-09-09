@@ -1,0 +1,1682 @@
+**************** 
+
+
+-k  is^ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+"^^  ^  ^  ^  %  ?R^" 
+
+Jawaharlal  Nehru 
+
+Step  Out  From  the  Old  to  the  New 
+
+
+^^iiT'jsiS'SfS^^^^*?*:: 
+
+
+•^■•■^^^■r 
+
+
+li^  i/ir  w  w  w  w  w  WW  ^  ^  ^  tIt  w  w  w 
+
+
+BLANK  PAGE 
+
+
+^<ii^ 
+
+
+UI> 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  14181  (Part  2):  2002 
+
+
+Indian  Standard 
+
+SYNTHETIC  (PLASTIC)  SLIDE  FASTENERS 
+
+SPECIAL  PURPOSE 
+
+PART  2  TEST  AND  MEASUREMENT  METHODS 
+
+
+ICS  61.040;  83.140.01 
+
+
+©  BIS  2002 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+MANAK   BHAVAN,   9   BAHADUR   SHAH   ZAFAR   MARG 
+NEW  DELHI  110002 
+
+
+May  2002  Price  Group  8 
+
+
+Fasteners  for  Consumer  Goods  and  Hair  Cutting,  Shaving,  Shearing  and  Allied  Equipment  Sectional  Committee, 
+
+BP34 
+
+
+FOREWORD 
+
+This  Indian  Standard  (Part  2)  was  adopted  by  the  Bureau  of  Indian  Standards,  after  the  draft  finalized  by  the 
+Fasteners  for  Consumer  Goods  and  Hair  Cutting,  Shaving,  Shearing  and  Allied  Equipment  Sectional  Committee 
+had  been  approved  by  the  Basic  and  Production  Engineering  Division  Council. 
+
+This  standard  describes  the  method  of  tests  and  measurements  for  various  dimensions,  physical  properties, 
+performance  requirements,  colour  fastness,  etc,  of  synthetic  slide  fasteners  and  is  mandatory  to  be  read  in 
+conjunction  with  Part  1  of  this  standard.  The  other  parts  of  this  standard  are: 
+
+IS  14181  (Part  1)       Specification,  selection  and  ordering  guideline  of  the  product  (first  revision) 
+IS  1 4 1 8 1  (Part  3)       Part  3  Test  report  formats 
+While  preparing  this  standard  assistance  has  been  derived  from  the  following: 
+
+a)  Schedule  No.  CQA,  T  &  C/TC-15/7  for  Plastic  Slide  Fasteners  issued  by  ControUerate  of  Quality 
+Assurance  (Textile  and  Clothing),  Government  of  India  (DGQA,  Ministry  of  Defence) 
+
+b)  Schedule  No.  DMSRDE/TEX-2/89/1  for  Plastic  Slide  Fasteners  issued  by  Defence  Materials  and 
+Stores  Research  and  Development  Establishment,  Kanpur  (DRDO,  Ministry  of  Defence) 
+
+[IS  3148  :  1 99 1  'Slide  fasteners  (general  purpose)  {fourth  revision)'  was  also  referred.] 
+
+For  the  purpose  of  deciding  whether  a  particular  requirement  of  this  standard  is  complied  with,  the  final  value, 
+observed  or  calculated,  expressing  the  result  of  a  test  or  analysis  shall  be  rounded  off  in  accordance  with  IS  2  :  1 960 
+'Rules  for  rounding  off  numerical  values  (revised)'.  The  number  of  significant  places  retained  in  the  rounded  off 
+value  should  be  the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+IS  14181  (Part  2) :  2002 
+
+
+Indian  Standard 
+
+SYNTHETIC  (PLASTIC)  SLIDE  FASTENERS 
+
+SPECIAL  PURPOSE 
+
+PART  2  TEST  AND  MEASUREMENT  METHODS 
+
+
+1 SCOPK 
+
+This  standard  {Part  2)  specifies  methods  for  tests  and 
+measurements,  for  determination  of  various  dimen- 
+sions, physical  properties,  security  and  performance 
+requirements  and  colour  fastness,  of  the  Synthetic 
+(plastic)  slide  fasteners  -—  Special  purpose. 
+
+2  REFERENCES 
+
+The  following  standards  contain  provisions  which 
+through  reference  in  this  text,  constitute  provision  of 
+this  standard.  At  the  time  of  publication,  the  editions 
+indicated  were  valid.  All  standards  are  subject  to 
+revision,  and  parties  to  agreements  based  on  this 
+standard  are  encouraged  to  investigate  the  possibility 
+of  applying  the  most  recent  editions  of  the  standards 
+indicated  below: 
+
+
+IS  No. 
+2  ;  I960 
+
+196  :  1966 
+
+688  :  1988 
+
+690:  1988 
+
+
+715 
+(Part  2):  1976 
+
+765  :  1979 
+
+
+971  :  1983 
+
+
+2454;  i985 
+
+
+14181 
+
+(Part  t):2002 
+
+
+Title 
+Rules  for  rounding  off  numerical 
+values  (revised) 
+
+Atmospheric  conditions  for  testing 
+(revised) 
+
+Method  for  determination  of  colour 
+fastness  of  textile  materials  to  organic 
+solvents  (first  revision) 
+Method  for  determination  of  colour 
+fastness  of  textile  materials  to  sea 
+water  (first  revision) 
+Coated  abrasives :  Part  2  Special  and 
+mechanical  applications  (third 
+revision) 
+
+Method  for  determination  of  colour 
+fastness  of  textile  materials  to 
+washing:  Test  4  (second  revision) 
+Method  for  determination  of  colour 
+fastness  of  textile  materials  to 
+perspiration  (first  revision) 
+Method  for  determination  of  colour 
+fastness  of  textile  materials  to  arti- 
+ficial tight  (xenon  lamp)  (first 
+revision) 
+
+Synthetic  (plastic)  slide  fasteners  — 
+Special  purpose  :  Part  1  Speci- 
+fication, selection  and  ordering 
+guideline  of  the  product  (first 
+revision) 
+
+
+3  APPARATUS 
+
+Test  apparatus  required  have  been  shown  in  the  text 
+for  measurements/tests. 
+
+4  TEST  PIECES 
+
+Preparation  of  test  pieces,  has  been  shown  in  the  test 
+for  measurements/test. 
+
+5  CONDITIONING 
+
+The  samples  shall  be  conditioned  under  standard 
+atmospheric  condition,  in  accordance  with  IS  196. 
+
+6  MEASUREMENTS 
+
+6.1  Textile  chain  width,  textile  chain  thickness,  lace 
+width,  tape  width,  exposed  tape  width,  tape  extension, 
+puller  length,  diameter  of  monofilament  and  length  of 
+fasteners,  required  as  per  8.1  of  IS  14181  (Part  1),  shall 
+be  measured/checked  as  per  methods  given  in  the 
+Annex  A. 
+
+7  TESTS 
+
+7.1  Security  Tests 
+
+7.1.1  The  method  of  test  for  various  security  require- 
+ments are,  required  as  per  10.2  of  IS  14181  (Part  1) 
+given  in  Table  1 . 
+
+Table  1  Security  Tests 
+
+
+SI 
+
+Test 
+
+Method  of 
+
+No. 
+
+Test,  Refto 
+
+(1) 
+
+(2) 
+
+(3) 
+
+i) 
+
+Security  of  interlocking  of  textile  chain 
+to  Lateral  load  or  cross-wise  strength  of 
+textile  chain  with  25  mm  length  in  grip 
+
+Annex  B 
+
+ii) 
+
+Fold  over  security  of  textile  chain  (for 
+obverse  and  reverse  fold) 
+
+Annex  C 
+
+iii) 
+
+Security  of  attachment  of  top  stop  (All 
+types) 
+
+Annex  D 
+
+iv) 
+
+Security  of  attachment  of  bottom  stop 
+
+Annex  E 
+
+V) 
+
+Security  of  attachment    of  retainer  to 
+longitudinal  load  (open-end  fasteners) 
+
+Annex  F 
+
+vi) 
+
+Security  of  attachment  of  retainer  to 
+lateral  load  (open  end  fasteners) 
+
+Annex  G 
+
+vii) 
+
+Security  of  attachment   of  puller  to 
+slider 
+
+Annex  H 
+
+viii) 
+
+Security  of  slider  lock  holding 
+
+Annex  J 
+
+IS  14181 (Part  2): 2002 
+
+
+7.2  Performance  Tests 
+
+7.2.1  The  method  of  test  for  various  performance 
+requirements  are,  required  as  per  10.3  of  IS  14181 
+(Part  1 ),  given  in  Table  2. 
+
+Table  2  Performance  Tests 
+
+
+7.3  Colour  Fastness  Requirements 
+
+7.3.1  The  method  of  test  for  various  colour  require- 
+ments are,  required  as  per  10.4  of  IS  14181  (Part  1), 
+given  in  Table  3. 
+
+Table  3  Colour  Fastness  Requirements 
+
+
+SI 
+No. 
+
+(I) 
+i) 
+
+
+iv) 
+
+
+Test 
+
+(2) 
+Reciprocating    movement    of    slider 
+under  load 
+
+Resistance    to    abrasion    under   load 
+(Cycles) 
+
+Resistance  to  heat  under  load 
+Remeshability  of  fastener 
+
+
+Method  of 
+
+SI 
+
+Test,  Rcfto 
+
+No. 
+
+(3) 
+
+(1) 
+
+Annex  K 
+
+i) 
+
+ii) 
+
+Annex  L 
+
+iii) 
+
+iv) 
+
+Annex  M 
+
+V) 
+
+Annex  N 
+
+
+Test 
+
+(2) 
+Colour  fastness  to  light 
+Colour  fastness  to  perspiration 
+Colour  fastness  to  sea  water 
+Colour  fastness  to  washing 
+Colour  fastness  to  organic 
+solvents 
+
+
+Method  of  Test, 
+ReftoIS 
+
+(3) 
+IS  2454 
+IS  971 
+IS  690 
+IS  765 
+IS    688 
+
+
+IS  14181 (Part  2):  2002 
+
+
+ANNEX  A 
+(Clause  6A) 
+
+
+METHODS  OF  MEASUREMENT 
+
+
+Description  Method  of  Measurement 
+
+Puller  Length  For  measuring  the  puller  length,  the 
+puller  shall  be  placed  in  the  down- 
+ward position  such  that  it  lies  over 
+the  closed  chain.  The  length  shall 
+then  be  measured,  parallel  to  the 
+chain,  to  the  nearest  millimeter. 
+
+Length  of  The  slide  fastener  is  kept  with  its 
+
+Fasteners  slider(s)  in  extreme  top  end/end 
+
+positions  and  the  puller  facing  down- 
+wards (towards  mouth  of  slider).  The 
+fastener  length  shall  be  the  overall 
+measurement  from  the  bottom  of  the 
+bottom  stop  or  retainer  to  the  top  of 
+the  top  stop  or  top  of  the  slider(s), 
+whichever  is  extreme  (see  Fig.  1). 
+
+The  first  200  mm  length  or  part 
+thereof  of  the  fastener  shall  be 
+subjected  to  tolerance  of  up  to 
+-5  mm  or  +  8  mm  for  light  special 
+and  up  to  -7  mm  or  +  10  mm  for  all 
+other  designations.  Further  tolerance 
+of  ±  1  percent  shall  be  allowed  for 
+the  subsequent  length  of  the  fastener. 
+
+Tape  Width  Keep  the  fastener  flat  on  the  surface. 
+
+Measure  the  width  of  the  tape  at  the 
+ends  of  Tape  Extension  as  shown  in 
+Fig.  1  with  a  scale  having  gradua- 
+tions in  mm  nearest  to  1  mm.  The 
+average  of  5  readings  can  be  taken 
+as  the  width  of  the  tape. 
+
+Exposed  Tape      Exposed  tape  width  is  the  width 
+Width  between  the  outer  tape  edge  and 
+
+inner  shoulder  line  of  formed  coil  of 
+the  textile  stringer  (left  or  right)  of 
+a  slide  fastener  (see  Fig.  1).  It  is 
+measured  by  means  of  a  scale  nearest 
+to  1  mm  keeping  the  fastener  flat  on 
+the  surface. 
+
+Tape  Extensions  It  is  the  extent  of  tape  measured 
+beyond  the  stoppers/slide  fastener 
+length  at  both  ends  (see  Fig.  1).  It  is 
+measured  by  means  of  a  scale  nearest 
+to  1  mm  keeping  the  fastener  flat  on 
+the  surface.  Tape  extensipns  are 
+necessary  for  proper/secure  attach- 
+ment of  slide  fastener  to  its  end 
+product.  The  tape  extension  shall  be 
+pinked  at  the  end  (s). 
+
+Textile  Chain       The  slider  is  removed  from  the 
+Width  fasteners  and  broken  into  two  halves 
+
+
+Description  Method  of  Measurement 
+
+at  its  neck.  Slider  mouth  width  as 
+shown  in  Fig.  2  which  corresponds 
+to  the  chain  width  of  the  fastener  is 
+measured  as  the  minimum  distance 
+between  inside  of  the  parallel  flanges 
+of  the  slider.  See  Fig.  2  section  AA 
+and  measure  by  caliper  to  the  nearest 
+0.05  mm. 
+
+Textile  Chain       The  slider  is  removed  from  the 
+Thickness  fastener,    height    of  slider    mouth 
+
+opening  (near  the  mouth)  as  shown  in 
+Fig.  2  which  corresponds  to  the  chain 
+thickness  of  the  fastener  is  measured. 
+See  Fig.  2  section  BB  and  measure  by 
+caliper  to  the  nearest  0.05  mm. 
+
+Lace  Width  A  micro  measure  eye  glass  No.  7 
+
+with  torch  shall  be  used.  By  keeping 
+one  end  of  the  lace  parallel  to  the  O- 
+axis  in  the  eye  glass,  the  point  where 
+the  other  end  of  the  lace  coincides  is 
+the  width  of  the  lace.  The  least  count 
+of  the  micro  measure  eyeglass 
+should  be  0.1  mm.  Average  of  5 
+readings  in  one  sample  shall  be  taken 
+as  the  lace  width  (see  Fig.  3). 
+
+Diameter  of         To  measure  the  diameter  of  mono- 
+Monofilament       filament  of  a  zipper/chain,  the  follow- 
+ing procedure  shall  be  followed: 
+
+1.  Open  the  zip  by  bringing  the 
+slider  downwards. 
+
+2.  Remove  the  top  stop  from  the  right 
+hand  side  stringer  of  obverse  face. 
+
+3.  Cut  the  complete  scoop  from  the 
+upper  end  and  remove  the 
+stitching  thread  from  looper  face 
+by  holding  the  cut  end  of  stitching 
+thread  and  pulling  the  same. 
+Remove  the  stitches  on  the 
+covering  tape  for  about  8  cm 
+length  and  pull  off  the  covering 
+tape  so  that  the  coil  loses  the  grip 
+with  the  tape  (as  shown  in  Fig.  4). 
+
+4.  Cut  a  portion  of  the  coil  (say 
+2,5  cm).  Using  a  vernier,  measure 
+the  diameter  of  the  Monofilament 
+of  the  coil  at  the  shaded  portion 
+"A"  as  shown  in  Fig.  4  without 
+pulling/elongating  the  inter- 
+locking elements  of  the  coil. 
+
+
+IS  14181  (Part  2): 2002 
+
+
+TAPE  WIDTH 
+
+7. 
+
+
+L i—J^ 
+
+
+TAPE  EXTENSION 
+(TOP  END) 
+
+
+LENGTH  OF  SLIDE  FASTENERS 
+
+
+EXPOSED 
+TAPE  WIDTH 
+
+
+TAPE  EXTENSION 
+(BOTTOM  END) 
+
+
+Fig.  1  Dimensions 
+
+
+PULLER  LENGTH 
+
+
+n 
+
+
+^-  ^ 
+
+
+AA-MOUTH  WIDTH  BB-MOUTH  OPEN 
+
+Fig.  2  Dimensions  —  Slider 
+
+
+IS  14181  (Part  2)  :  2002 
+
+
+LACE 
+
+
+[^ 
+
+-Gk. 
+
+
+
+^ 
+
+■^«*^,^ 
+
+y 
+
+^ 
+
+^ 
+
+ffff  fHT  r  r  Itff  Ifff  ITT  rff  rff' rf  ml  nT  fT^  ITT  Pt 
+
+"ttT 
+
+n 
+
+1 
+
+7 
+
+34567     891 
+
+mm »■        y 
+
+■s. 
+
+s 
+
+■^ 
+
+JL 
+
+50 
+
+Fig.  3  Measurement  of  Lace  Width  (Pick  Glass) 
+
+
+Fig.  4  Measuring  the  Diameter  of  Monofilament 
+5 
+
+
+IS  14181  (Part  2):  2002 
+
+
+ANNEX  B 
+[Table  I,  SI  No.  (i)] 
+
+METHOD  OF  TESTING  FOR  SECURITY  OF  INTERLOCKING  OF  TEXTILE 
+CHAIN  TO  LATERAL  LOAD  OR  CROSSWISE  STRENGTH  OF  TEXTILE  CHAIN 
+
+
+B-1   OUTLINE 
+
+The  test  specimen  is  subjected  to  lateral  load  under 
+controlled  conditions  while  the  slide  fastener  is  in  the 
+closed  position. 
+
+B-2  APPARATUS 
+
+The  testing  machine  is  of  the  constant-rate-of  traverse 
+type  and  the  speed  of  the  opening  of  the  jaws  is 
+100  ±  15  mm/min.  The  load  range  is  such  that  the 
+breaking  load  of  the  test  specimen  falls  between  15 
+and  85  percent  of  the  maximum  on  the  scale. 
+
+The  gripping  jaws  or  other  securing  devices  have  a 
+gripping  surface  25  mm  wide.  The  jaws  shall  be  so 
+constructed  and  finished  as  not  to  damage  the  tape  and 
+not  to  allow  the  specimen  under  test  to  slip  {see  Fig.  5). 
+
+B-3  PROCEDURE 
+
+The  test  specimen  is  secured  in  place  with  the  gripping 
+jaws/devices  so  arranged  that  at  least  half  the  width  of 
+each  tape  is  gripped  and  there  is  at  least  50  mm  of 
+chain  on  either  side  of  the  jaw.  The  machine  is  then 
+set  in  operation  until  the  specified  loading  is  reached, 
+
+
+25 
+
+1 
+
+m  m^^m  w* 
+
+«H»  «■  mm^ 
+
+1 
+
+All  dimensions  in  millimetres. 
+Fig.  5  Fasteners,  Crosswise  Strength 
+OF  Textile  Chain 
+unless  the  specimen  fails  earlier. 
+
+Further  load  is  applied  till  the  interlocking  stringers 
+disengages  from  each  other.  The  specimen  is  removed 
+from  the  machine,  inspected  and  its  slider  run  over  the 
+disengaged  portion.  Neither  the  formed  coil  nor  the 
+tape  shall  get  damaged.  Also  chain  shall  get  remeshed 
+when  slider  operates  over  it,  thereby  its  functioning 
+restored. 
+
+NOTE  —  It  is  recommended  that  the  load  scale  be  calibrated 
+at  least  once  every  12  months,  using  dead  weight  added 
+successively. 
+
+
+ANNEX  C 
+[Table  I,  SI  No.  (ii)] 
+
+METHOD  OF  TESTING  FOR  FOLDOVER  SECURITY  OF  TEXTILE  CHAIN  (FOR  BOTH 
+
+OBVERSE  AND  REVERSE) 
+
+
+C-1  OUTLINE 
+
+The  test  specimen  is  subjected  to  lateral  load  in  folded 
+condition  under  controlled  conditions  while  the  slide 
+fastener  is  in  closed  position. 
+
+C-2  APPARATUS 
+
+The  testing  machine  is  of  the  constant  rate  of  traverse 
+type  and  the  speed  of  the  opening  of  the  Jaws  is  100  ± 
+1 5  mm/min.  The  load  range  is  such  that  the  breaking 
+load  of  the  test  specimen  falls  between  15  and  85 
+percent  of  the  maximum  on  the  scale. 
+
+
+The  gripping  jaws  or  other  securing  devices  have  a 
+gripping  surface  of  12.5  mm  wide.  The  jaws  shall  be 
+so  constructed  and  finished  as  not  to  damage  the  tape 
+and  not  to  allow  the  specimen  under  test  to  slip. 
+
+C-3  PROCEDURE 
+
+C-3.1  The  test  specimen  is  secured  in  place  with  the 
+gripping  jaws  minimum  3  mm  to  5  mm  gap  from  the 
+zipper  chain  (see  Fig.  6). 
+
+C-3.2  Both  the  sides  of  the  tape  should  be  clamped  in 
+zipper  folded  condition  with  uniform  gap  between  the 
+jaw  and  zipper  chain  to  have  uniform  load  in  the 
+
+
+IS  14181  (Part  2)  :  2002 
+
+
+UPPER  JAW 
+
+
+All  dimensions  in  millimetres. 
+Fig.  6  Foldover  Strength 
+
+
+interlocking  stringers. 
+
+
+C-3.3  Test  specimen  length  can  be  of  minimum  13  cm 
+to  facilitate  testing  operation. 
+
+C-3.4  Folded  chain  can  be  fixed  with  a  pin  or  stapler 
+pin  to  facilitate  fixing  the  specimen  in  folded  condition 
+in  the  gripping  jaws. 
+
+C-3.5  The  folded  test  specimen  should  not  exceed  the 
+right  ends  of  the  jaws.  That  is  the  folded  specimen  and 
+the  gripping  jaws  should  be  in  straight  line  with  each 
+other  in  the  right  end  of  the  jaws  in  order  to  effect  load 
+only  in  12.5  mm  width  from  the  folded  edge  of  the 
+chain. 
+
+
+C-3.6  The  machine  is  then  set  in  operation  until  the 
+specified  load  is  reached,  unless  the  specimen  fails 
+earlier.  (Further  load  is  applied  till  the  interlocking 
+stringers  disengages  from  each  other.)  The  load  applied 
+for  disengaging  the  interlocking  stringers  can  be  noted 
+as  the  fold  over  strength  of  the  test  specimen.  The  same 
+procedure  to  be  applied  for  testing  both  obverse  and 
+reverse  fold  over  strength  of  the  zipper  chain.  The 
+specimen  should  not  be  tested  in  a  same  spot  for 
+obverse  and  reverse  fold  over  strength. 
+
+C-3.7  The  specimen  can  be  removed  from  the  jaws 
+after  testing.  Neither  the  tape  nor  the  formed  coil  shall 
+get  damaged  while  testing. 
+
+
+IS  14181  (Part  2):  2002 
+
+ANNEX  D 
+
+[Table  I,  SI  No.  (lii)] 
+
+METHOD  OF  TESTING  OF  SECURITY  OF  ATTACHMENT  OF  TOP  STOP  (ALL  TYPES) 
+
+
+D-1  OUTLINE 
+
+Each  stop  is  subjected  to  tension  while  the  fastener  is 
+secured  in  position,  load  being  applied  by  pulling  the 
+slider  body  in  such  a  way  so  as  to  bring  the  stoppers 
+under  pressure. 
+
+D-2  APPARATUS 
+
+The  testing  machine  as  described  in  Annex  B  is  used. 
+Schematic  arrangement  is  shown  in  Fig.  7. 
+
+
+D-3  PROCEDURE 
+
+The  test  specimen  is  in  the  closed  position  with  the 
+slider  body  adjacent  to  the  top-stop.  At  one  end  of  the 
+test  specimen,  a  fixture  is  made  to  rest  below  the  slider 
+body  as  shown  in  Fig.  7  and  the  other  end  of  the  test 
+specimen  is  fixed  on  the  moving  jaw.  The  machine  is 
+then  set  in  operation  until  the  specified  loading  is 
+reached,  unless  the  test  specimen  fails  earlier. 
+
+
+FIXTURE 
+
+
+75mm 
+
+
+Fig.  7  Security  of  Attachment  Test  for  Top  Stops 
+
+
+ANNEX  E 
+
+[Table  I,  SI  No.  (iv)] 
+
+METHOD  OF  TESTING  OF  SECURITY  OF  ATTACHMENT  OF  BOTTOM  STOP 
+
+
+El  OUTLINE 
+
+Each  stop  is  subjected  to  tension  while  the  fastener  is 
+secured  in  position,  load  being  applied  by  pulling  the 
+slider  body  in  such  a  way  so  as  to  bring  the  stoppers 
+under  pressure. 
+
+E-2  APPARATUS 
+
+The  testing  machine  as  described  in  Annex  B  is  used. 
+
+
+Schematic  arrangement  is  shown  in  Fig.  8. 
+
+E-3  PROCEDURE 
+
+The  test  specimen  is  in  the  open  position,  the  slider 
+body  being  adjacent  to  the  bottom  stop.  The  angle 
+between  the  textile  stringers  is  the  normal  angle  of 
+opening,  which  is  usually  between  40°  and  60°  (see 
+Fig.  8).  The  remainder  of  the  procedure  follows  as 
+described  for  top  stop  test. 
+
+
+IS  14181  (Part  2) :  2002 
+
+
+l&tntn 
+
+
+SUPE  FASTENER 
+
+
+Fig.  8  Security  of  Attachment  Test  for  Bottom  Stops 
+
+
+ANNEX  F 
+[Table  I,  SI  No.  (\)] 
+
+METHOD  OF  TESTING  OF  SECURITY  OF  ATTACHMENT  OF  RETAINER  FOR 
+LONGITUDINAL  LOAD  (OPEN  END  FASTENER) 
+
+
+F-1  OUTLINE 
+
+The  retainer  is  subjected  to  longitudinal  load  while  the 
+slide  fastener  is  in  the  closed  position. 
+
+F-2  APPARATUS 
+
+A  testing  machine  as  described  in  Annex  B  is  used. 
+The  schematic  arrangement  is  shown  in  Fig.  9. 
+
+F-3  PROCEDURE 
+
+With  the  test  specimen  in  the  closed  position,  the  chain 
+is  clamped  into  one  jaw  of  the  testing  machine,  steps 
+being  taken  to  avoid  damaging  the  chain.  A  slotted 
+plate,  shaped  to  clear  the  tape,  chain  and  pin  and  to 
+bear  against  the  whole  of  the  top  edges  of  the  retainer 
+is  clamped  into  the  other  jaw.  The  machine  is  set  in 
+operation  until  the  specified  loading  is  reached  unless 
+the  specimen  fails  earlier. 
+
+
+LONGITUDINAL  LOADtJ) 
+
+
+RETAINER 
+
+
+All  dimensions  in  millimetres. 
+
+Fig.  9  Security  of  Attachment  of  Retainer  for 
+Longitudinal  Load  Test 
+
+
+IS  14181  (Part  2): 2002 
+
+
+ANNEX  G 
+[Table  I,  SI  No.  (wi)] 
+
+METHOD  OF  TESTING  OF  SECURITY  OF  ATTACHMENT  OF 
+RETAINER  TO  LATERAL  LOAD  (OPEN  END  FASTENER) 
+
+
+G-1  OUTLINE 
+
+
+The  test  specimen  is  subjected  to  lateral  load  under 
+controlled  conditions  while  the  slide  fastener  is  in  the 
+closed  position. 
+
+G-2  APPARATUS 
+
+A  testing  machine  as  described  in  Annex  B  is  used. 
+The  gripping  jaws  shall  be  25  mm  wide  and  would  be 
+so  constmcted  and  finished  as  not  to  damage  the  tape 
+while  tightening  and  not  to  allow  the  test  specimen 
+under  test  to  slip  (see  Fig.  10). 
+
+G-3  PROCEDURE 
+
+The  test  specimen  shall  be  secured  in  the  gripping  jaws 
+of  the  testing  machine  with  the  edges  of  the  jaw  parallel 
+to  and  3  mm  from  the  sides  of  the  retainer.  The  jaws 
+will  be  arranged  so  that  the  separating  pin  aligns  with 
+the  edges  of  the  jaws.  The  machine  is  set  in  operation 
+until  the  specified  loading  is  reached,  unless  the  test 
+specimen  fails  earlier. 
+
+
+£ING  JAWS 
+
+APE 
+SEPARATING 
+
+
+I 
+
+
+All  dimensions  in  millimetres. 
+
+Fig.  10  Security  of  Attachment  of  Retainer  to 
+
+Lateral  Load  Test 
+
+
+10 
+
+
+IS  14181  (Part  2)  :  2002 
+
+ANNEX  H 
+
+[Table  \,  SI  No.  (yii)] 
+
+METHOD  OF  TESTING  OF  SECURITY  OF  ATTACHMENT  OF  PULLER  TO  SLIDER 
+
+
+HI  OUTLINE 
+
+The  puller  is  subjected  to  tension  while  the  slider  is 
+rigidly  supported. 
+
+H-2  APPARATUS 
+
+A  testing  machine  as  described  in  Annex  B  is  used. 
+A  masking  device  for  the  slider,  such  as  a  face-plate 
+or  blanking  off  plate,  is  required  so  that  tension  is 
+confined  to  the  puller  and  its  attachment  to  the  slider 
+
+(see  Fig.  1 1). 
+
+
+H-3  PROCEDURE 
+
+The  slider  is  placed  on  the  blanking  off  plate,  the  puller 
+passing  through  the  hole  in  the  plate  as  shown  in 
+Fig.  1 1 .  The  blanking  off  plate  is  secured  to  one  of  the 
+jaws  of  the  testing  machine  and  the  puller  is  then 
+secured  to  the  other  jaw  of  the  testing  machine,  so  that 
+tension  is  applied  at  90°  to  the  puller  attachment. 
+
+The  testing  machine  is  set  in  operation  until  specified 
+load  is  reached,  unless  the  specimen  fails  earlier. 
+
+
+FIXTURE 
+
+
+PULLER 
+
+
+CLAMPS 
+
+
+Fig.  1 1  Security  of  Attachment  Test  for  Puller 
+
+
+11 
+
+
+IS  14181 (Part  2): 2002 
+
+ANNEX  J 
+
+[Table  I,  SI  No.  (y'm)] 
+
+METHOD  OF  TESTING  SECURITY  OF  SLIDER  LOCK  HOLDING 
+
+J-1  OUTLINE 
+
+The  slider  is  locked  on  the  chain  and  the  locking  device 
+subjected  to  tension,  load  being  applied  at  180°  to  the 
+device,  via  the  chain  stringers  in  such  a  way  as  to  bring 
+the  locking  device  under  pressure  from  the  chain. 
+
+J-2  APPARATUS 
+
+A  testing  machine  as  described  in  Annex  B  is  used. 
+Figure  1 2  gives  a  diagrammatic  sketch  of  the  arrange- 
+ment. 
+
+J-3  PROCEDURE 
+
+The  test  specimen  is  in  the  open  position  with  the 
+locking  device  locked  into  the  chain  25  mm  from  the 
+top  stops.  Set  the  jaws  50  mm  apart  and  secure  the  top 
+of  the  stnnger  into  the  jaws  adjacent  to  the  top  stop  so 
+that  the  top  of  the  slider  is  25  mm  from  the  edge  of 
+each  jaw.  Set  the  machine  in  motion  and  increase  the 
+load  until  the  locking  mechanism  slips  or  the  specimen 
+fails. 
+
+Fig.  12  Lock  Holding  Test 
+
+
+ANNEX  K 
+
+[Table  2,  SI  No.  (i)] 
+
+METHOD  OF  TESTING  THE  RECIPROCATING  MOVEMENT  OF  SLIDER  UNDER  LOAD 
+
+
+K-1  OUTLINE 
+
+The  test  specimen  is  subjected  to  a  specified  number 
+of  cyclic  operations  while  under  lateral  and  longi- 
+tudinal tensions. 
+
+K-2  APPARATUS 
+
+The  testing  machine,  which  operates  in  the  vertical 
+plane,  is  constructed  on  the  lines  as  shown  in  Fig.  13 
+so  as  to  provide  the  following  facilities: 
+
+a)  Means  of  holding  the  specimen  firmly  at  the 
+bottom  end  with  the  fastener  in  the  closed 
+position,  steps  being  taken  to  avoid  damaging 
+the  fastener. 
+
+b)  Means  of  separately  gripping  the  two  stringers 
+at  the  other  end  so  that  the  fastener  beyond 
+the  slider  is  open.  These  gripping  devices 
+form  the  means  of  applying  longitudinal 
+
+
+c) 
+
+
+spring  balance  loads  to  the  fasteners  and  thus 
+required  connecting  together  by  swivel-plate 
+or  other  similar  device,  so  that  the  fastener 
+may  be  centralized  when  the  loads  are  applied. 
+It  is  also  necessary  for  their  gripping  devices 
+to  swivel  at  the  points  on  connection  to  the 
+swivel  plate  to  facilitate  the  operation  of  the 
+slider  on  the  test  specimen.  The  distance 
+between  the  gripping  devices  is  such  that, 
+when  the  slider  is  at  the  lowest  point  in  the 
+cycle,  the  two  ends  of  the  fasteners  subtend 
+an  angle  of  approximately  60". 
+Means  of  gripping  the  tapes  securely  midway 
+along  the  traversed  length  at  opposite  points 
+of  the  testing  zone  so  that  the  clamps  may  be 
+subjected  to  load  by  means  of  spring  balances. 
+The  clamps  are  so  mounted  that  they  are 
+'floating',  that  is,  free  to  follow  the  natural 
+
+
+12 
+
+
+IS  14181  (Part  2) :  2002 
+
+
+ADJUSTING  SCREW 
+
+
+SETTING  PAD 
+
+
+SWIVEL  PLATE 
+
+
+ONGITUDiNAL  SPRING  BALANCE 
+
+
+TEST  SPECIMEN 
+.  TOP  CLAMP 
+
+
+LATERAL  CLAMP 
+
+
+LONGITUDINAL  CLAMP 
+
+
+LATERAL  SPRING  BALANCE 
+
+
+STOP  PIN 
+
+
+Fig.  13  Reciprocating  Movement  Test  for  Slider 
+
+
+d) 
+
+
+direction  of  the  opening  of  the  fasteners  under 
+test. 
+
+The  clamps  shall  be  capable  of  moving  5  mm 
+in  the  direction  of  the  pulleys,  and  setting  pads 
+are  provided  to  hold  the  clamps  in  position 
+until  they  are  secured  to  the  tapes. 
+The  spring  balances  are  of  the  tubular  type 
+and  are  of  9  kg  capacity  for  the  lateral 
+tension  and  of  4.5  kg  capacity  for  the  longi- 
+tudinal load.  In  each  case,  a  scale  of  35  mm 
+represents  a  4.5  kg  range. 
+The  overall  length  of  the  balance,  when  closed 
+at  zero  reading,  shall  not  exceed  165  mm, 
+excluding  the  holding  ring  and  the  hook.  The 
+extended  length  shall  not  exceed  229  mm  at  foil 
+load  extension,  excluding  the  holding  ring  and 
+the  hook.  The  weight  corresponding  to  the 
+interval  between  consecutive  graduations  shall 
+not  exceed  0. 1  kg.  These  graduations  which  are 
+permanent  and  legible,  are  not  less  than  0.8  mm 
+apart.  The  error  permitted  on  verification  shall 
+not  exceed  the  weight  corresponding  to  half  the 
+interval  between  consecutive  graduations,  that 
+is,  not  more  than  0.06  kg. 
+Means  of  applying  regular  harmonic  recipro- 
+cating action  through  the  medium  of  the 
+puller,  to  the  slider  on  the  test  specimen.  The 
+clamp  or  other  gripping  device  is  made  in  two 
+parts  fitting  together  by  such  means  as 
+V-grooves  and  springs.  One  part  of  the  clamp 
+is  attached  to  the  puller  and  the  other  to  the 
+reciprocating  device,  so  as  to  facilitate  indirect 
+fonn  of  connection. 
+
+
+K-3  PROCEDURE 
+
+The  test  specimen  is  mounted  in  the  vertical  plane  so 
+that  the  bottom  stop  is  upwards.  The  stringers  are  left 
+separate  at  the  other  end  so  that  they  may  be  indivi- 
+dually mounted  in  the  machine.  The  lateral  and 
+longitudinal  loadings  are  given  in  Table  4. 
+
+Table  4  Lateral  and  Longitudinal  Loads 
+
+
+Designation 
+
+On  Each  Textile 
+
+Stringer 
+
+__^^^ 
+
+Lateral  Load 
+
+Longitudinal  Load 
+
+N 
+
+N 
+
+Light  Special 
+
+16 
+
+14 
+
+Medium 
+
+20 
+
+17 
+
+Medium  Special 
+
+20 
+
+17 
+
+Heavy 
+
+30 
+
+23 
+
+Heavy  Special 
+
+30 
+
+23 
+
+NOTE  —  1  N  = 
+
+0.102 
+
+kg. 
+
+The  machine  is  so  arranged  that  the  length  of  traverse 
+of  the  slide  is  from  76  to  89  mm  in  each  directions,  a 
+to-and-fro  movement  of  152  to  178  forming  a  cycle. 
+The  detailed  procedure  is  as  follows: 
+
+a)  Operate  the  machine  by  hand  until  the  slider 
+gripper  is  in  the  lowest  position,  and  place  in 
+position  of  the  setting  pads. 
+
+b)  Insert  the  slider  puller  between  the  slider 
+gripper  plates,  ensuring  that  any  locking 
+device  is  withdrawn,  and  engage  V-grooves 
+of  attachment. 
+
+c)  Place  the  fastener  loosely  in  position  in  the 
+top  tape  clamp. 
+
+
+13 
+
+
+IS  14181  (Part  2): 2002 
+
+
+d)  Secure  the  fastener  ends  in  the  bottom  tape 
+
+clamps. 
+
+e)  1 )    Take  hold  of  the  fastener  at  its  top  end 
+
+draw  upwards  until  stop  pin  prevents 
+further  upward  movement.  Without 
+stretching  the  tape,  tighten  the  top  clamp. 
+
+2)  If,  while  carrying  out  step  (e-1),  the 
+fastener  is  completely  closed,  then  the 
+tape  ends  that  are  attached  by  the  bottom 
+tape-clamps  are  too  long.  To  overcome 
+this,  release  longitudinal,  lateral  and  top 
+clamps  and  cutoff  a  length  of  each  bottom 
+tape  end.  To  reassemble  start  at  (c). 
+
+f)  Apply  the  appropriate  longitudinal  loads  by 
+adjusting  the  spring  balances. 
+
+g)  Secure  lateral  clamps  to  the  fastener  tapes. 
+There  should  be  gaps  of  5  mm  between  the 
+lateral  clamps  and  the  chain  at  the  nearest 
+points.  Ensure,  that  the  central  lines  of  the 
+clamps,  coincide  with  the  strings  which  pass 
+over  the  pulleys.  Ensure  that  the  lateral 
+
+
+clamps  are  held  firmly  against  the  setting  pads 
+whilst  securing  clamps  to  the  fastener  tape, 
+withdraw  the  setting  pads  after  fixing  the 
+clamps. 
+
+h)  Apply  the  appropriate  lateral  loads  by  adjust- 
+ing lateral  spring  balances. 
+
+j)  Set  counter  to  zero,  put  the  machine  in  motion 
+for  one  cycle  only  to  equalize  the  position  of 
+the  fastener. 
+
+k)  Check  the  loadings  of  lateral  and  longitudinal 
+spring  balances  and  adjust  when  necessary. 
+When  the  slider  is  in  the  lowest  position  set 
+the  adjusting  screws  5  mm  away  from  the 
+lateral  clamps. 
+
+m)  Set  the  machine  in  motion  at  a  constant  speed. 
+The  slider  shall  make  30  cycles/min. 
+
+n)  Once  the  test  has  started,  do  not  readjust  the 
+longitudinal  and  lateral  spring  balances. 
+
+p)  Allow  the  machine  to  operate  until  the  speci- 
+fied number  of  cycles  is  completed,  unless 
+the  specimen  fails  earlier. 
+
+
+ANNEX  L 
+
+[Table  2,  SI  No.  (ii)] 
+
+METHOD  OF  TESTING  THE  RESISTANCE  TO  ABRASION  UNDER  LOAD 
+
+
+L-1   OUTLINE 
+
+Abrasion  of  the  test  specimen  is  caused  by  movement 
+of  abrading  material  over  the  interlocking  stringer  of 
+textile  chain. 
+
+L-2  APPARATUS 
+
+The  testing  machine  which  operates  on  a  horizontal 
+plane  is  constructed  on  the  lines  as  shown  in  Fig.  14 
+and  is  such  as  to  provide  the  following  facilities: 
+
+a)  Means  of  holding  the  specimen  firmly  over  a 
+flat  surface. 
+
+b)  Means  of  holding  abrasive  material  over  the 
+specimen  under  constant  load  of  320  g  with 
+reciprocating  movement  and  providing  means 
+for  changing  abrasive  material  after  the  test. 
+
+c)  Providing  a  drive  unit  with  60  rpm  to  be 
+attached  to  the  reciprocating  arm  with  a  stroke 
+
+
+length  of  75  to  90  mm. 
+
+L-3  PROCEDURE 
+
+A  specimen  chain  length  of  200  mm  in  the  closed 
+position  is  placed  flat  over  the  bottom  plate  and  gripped 
+firmly  by  means  of  a  clamp  in  such  a  way  that  it  does 
+not  move  during  testing. 
+
+An  abrasive  Emery  cloth  of  designation  E80/1 00/120 
+[see  IS  715  (Part  2)]  of  suitable  size  is  cut  to  grip  the 
+abrasive  block  of  the  reciprocating  arm  of  the  machine. 
+The  abrasive  block  with  emery  cloth  over  it  is  placed 
+over  the  bottom  plate.  The  drive  unit  is  put  to  'on'. 
+
+The  chain  is  subjected  to  abrasion  for  the  number  of 
+cycles  as  required  in  SI  No.  (ii)  of  Table  5  of 
+IS  14181  (Part  1).  After  completion  of  the  test,  when 
+the  slider  movement  over  the  specimen  is  tested  few 
+times,  the  operability  of  the  slide  fastener  shall  not  be 
+impaired. 
+
+
+14 
+
+
+ABRASIVE  HOLDER  ARM  (320g) 
+lllNGEO  TO  RECIPROCATING  ARM 
+HINGED  <3     &» 
+
+
+;lamp  \ 
+
+
+^ 
+
+
+\     \ 
+
+
+K 
+
+
+HE 
+
+
+T~r 
+
+
+CLAMP 
+SPECIMEN  GRIPPING  CLAMP 
+
+
+ABRASIVE 
+BLOCK 
+
+
+(HINGED  TO  BOTTOM  PUTE) 
+
+TEST  SPECIMEN 
+
+\ 
+
+
+MOTOR 
+
+
+BOTTOM  PUTE 
+RECIPROCATING  ARM 
+
+
+MAIN  SWITCH 
+
+
+VIEW  WHEN  ABRASIVE  HOLDER 
+
+
+ARM  IS  FOLDED  UPW/^DS 
+
+
+GRIPPING  PUTE  OF  THE  CLAMP 
+
+
+SPECIMEN  GRIPPING 
+
+GUMP  (FOLDED  DOWNWARDS) 
+
+
+RECIPROCATING  ARM 
+
+
+Fig.  14  Abrasion  Test  (Schematic  Arrangement) 
+
+
+t/3 
+00 
+
+
+o 
+o 
+
+
+IS  14181  (Part  2):  2002 
+
+ANNEX  M 
+
+[Table  2,  SI  No.  (iii)] 
+
+METHOD  OF  TESTING  THE  RESISTANCE  TO  HEAT  UNDER  LOAD 
+
+
+Ml   OUTLINE 
+
+Cbain  is  moved  under  constant  load  and  speed  over  a 
+heated  surface  ai  a  given  temperature. 
+
+M-2  APPARATUS 
+
+The  Ecsiing  machine  which  operates  on  a  horizontal 
+plane  is  constructed  as  shown  in  Fig.  1 5  so  as  to  provide 
+
+the  foliowing  facilities: 
+
+a)  Means  of  holding  the  specimen  firmly  in  the 
+slide  block,  which  reciprocates  over  a  set  of 
+cross  bars. 
+
+b)  Means  of  holding  a  hot  plate  of  50  mm  wide 
+in  line  with  the  above  sliding  block.  The 
+hot  plate  is  fixed  with  a  thermo  couple  and 
+temperature  indicator  of  range  from  0°  to 
+200°C, 
+
+
+c)  Providing  a  drive  unit  with  60  rpm  to  be 
+attached  to  the  reciprocating  slide  block  with 
+a  stroke  length  of  75  to  90  mm. 
+
+M-3  PROCEDURE 
+
+A  specimen  chain  of  length  300  mm  in  the  closed 
+position  is  placed  flat  over  the  hot  plate,  One  end  of 
+chain  is  attached  to  the  reciprocating  slide  block  and 
+to  the  other  end  a  constant  weight  of  750  g  is  attached 
+to  keep  the  test  specimen  in  tension,  as  shown  in 
+Fig.  15. 
+
+The  heater  is  put  on  until  the  temperature  reaches 
+160°C.  The  machine  is  started  and  at  the  end  of 
+250  cycles  the  specimen  is  removed,  unless  the 
+specimen  fails  earlier.  After  completion  of  the  test, 
+when  the  slider  movement  over  the  specimen  is  tested 
+few  times,  the  operability  of  the  slide  fastener  shall 
+not  be  impaired. 
+
+
+COUNTER 
+
+
+LOAD 
+
+
+ROLLER 
+
+TEXTILE  CHAIN 
+SPECIMEN 
+
+HOT  PUTE 
+
+
+Fig.  15  Heat  Resistant  (Schematic  Arrangement) 
+16 
+
+
+IS  14181  (Part  2) :  2002 
+
+
+ANNEX  N 
+[Table  2,  SI  No.  {i\)] 
+
+METHOD  OF  TESTING  REMESHABILITY  OF  FASTENER 
+
+
+N-1  OUTLINE 
+
+
+If  by  accident  or  any  reason,  the  closed  interlocking 
+stringer  of  slide  fastener  unlocks/opens  apart  (when 
+the  slider  is  in  closed  position)  excepting  by  means  of 
+slider  movement,  the  opened  portion  of  the  interlocking 
+stringer  must  be  able  to  remesh  on  slider  movement 
+and  the  functioning  of  slide  fastener  is  restored. 
+
+N-2  PROCEDURE 
+
+A  reasonable  length  of  slide  fastener  is  taken,  its  bottom 
+
+
+ends  is  cut  or  stopper  removed,  keeping  the  slider  fully 
+closed  at  top  stop.  The  two  stringers  from  the  bottom 
+end  are  pulled  apart  to  make  the  fastener  open  fully  up 
+to  the  slider  {see  Fig.  16).  The  slider  is  then  moved 
+down  and  then  again  upwards  to  interlock  the  stringer 
+completely.  The  slider  is  moved  either  way  few  times 
+to  check  if  the  functioning  of  the  slide  fastener  is 
+normal.  If  the  slider  gets  struck  and  is  unable  to  remesh 
+the  chain,  the  slide  fastener  shall  be  rejected. 
+
+
+STOP 
+
+
+Fig.  16REMESHABiUTy  Test 
+
+
+17 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  estabiished  under  the  Bureau  of  Indian  Standards  Act,  1986  to  promote 
+harmonious  development  of  the  activities  of  standardization,  marking  and  quality  certification  of  goods 
+and  attending  to  connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publications.  No  part  of  these  publications  may  be  reproduced  in  any  form 
+without  the  prior  permission  in  writing  of  BIS.  This  does  not  preclude  the  free  use,  in  the  course  of 
+implementing  the  standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade  designations. 
+Enquiries  relating  to  copyright  be  addressed  to  the  Director  (Publications),  BIS. 
+
+Review  of  Indian  Standards 
+
+Amendments  are  issued  to  standards  as  the  need  arises  on  the  basis  of  comments.  Standards  are  also  reviewed 
+periodically;  a  standard  along  with  amendments  is  reaffirmed  when  such  review  indicates  that  no  changes  are 
+needed;  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision.  Users  of  Indian  Standards 
+should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or  edition  by  referring  to  the  latest  issue  of 
+'BIS  Catalogue'  and  'Standards:  Monthly  Additions'. 
+
+This  Indian  Standard  has  been  developed  from  Doc  :  No.  BP  34  (0282). 
+
+
+Amendments  Issued  Since  Publication 
+
+
+Amend  No. 
+
+
+Date  of  Issue 
+
+
+Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+
+Headquarters  : 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  1 10  002 
+Telephones  :  323  0131,  323  33  75,  323  94  02 
+
+
+Regional  Offices 
+
+Central 
+
+
+Eastern 
+
+
+Western 
+
+
+Branches 
+
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg 
+NEW  DELHI  110  002 
+
+1/14  C.I.T.  Scheme  VII M,  V.  I.  P.  Road,  Kankurgachi 
+KOLKATA  700  054 
+
+
+Northern      :  SCO  335-336,  Sector  34-A,  CHANDIGARH  160  022 
+
+
+Southern     :  C.I.T.  Campus,  IV  Cross  Road,  CHENNAI 600  1 13 
+
+
+Manakalaya,  E9  MIDC,  Marol,  Andheri  (East) 
+MUMBAI  400  093 
+
+
+Telegrams :  Manaksanstha 
+(Common  to  all  offices) 
+
+Telephone 
+
+("323  76  17 
+L323  38  41 
+
+r337  84  99,337  85  61 
+1.337  86  26,337  91  20 
+
+
+{ 
+
+
+60  38  43 
+60  20  25 
+
+
+J254  12  16,254  14  42 
+|_254  25  19,254  13  15 
+
+J  832  92  95,  832  78  58 
+1832  78  91,832  78  92 
+
+
+AHMEDABAD.  BANGALORE.  BHOPAL.  BHUBANESHWAR.  COIMBATORE. 
+FARIDABAD.  GHAZIABAD.  GUWAHATI.  HYDERABAD.  JAIPUR.  KANPUR. 
+LUCKNOW.  NAGPUR.  NALAGARH.  PATNA.  PUNE.  RAJKOT.  THIRUVANANTHAPURAM. 
+
+
+Printed  at  Prabhat  Offset  Press,  New  DeIhi-2 
+
+

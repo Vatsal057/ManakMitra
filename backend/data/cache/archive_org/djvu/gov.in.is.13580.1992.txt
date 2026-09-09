@@ -1,0 +1,872 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 13580 (1992) : Internal Fuses and Internal Overpressure 
+Disconnectors for Power Electronic Capacitors [ETD 29: 
+Power Capacitors] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 13580 : 1992 
+
+( Reaffirmed 2004 ) 
+
+
+
+Indian Standard 
+
+INTERNAL FUSES AND INTERNAL 
+
+OVERPRESSURE DISCONNECTORS FOR 
+
+POWER ELECTRONIC CAPACITORS 
+
+
+
+UDC 621-316-923-621-319-4 
+
+
+
+©BIS 1992 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+December 1992 Price Group 3 
+
+
+
+Power Capacitors Sectional Committee, ET 29 
+
+
+
+FOREWORD 
+
+This Indian Standard was adopted by the Bureau of Indian Standards, after the draft finalized 
+by the Power Capacitors Sectional Committee had been approved by the Electrotechnical 
+Division Council. 
+
+The object of this standard is to formulate uniform requirements regarding performance, testing 
+and to provide a guidance for co-ordination of fuse and disconnector protection. 
+
+Assistance has been derived from lEC Document 33 ( Sectt ) 99 'Internal fuses and internal 
+overpressure disconnectors for power electronic capacitors' issued by the International Electro- 
+technical Commission ( lEC ). 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, 
+the final value, observed or calculated, expressing the result of a test or analysis, shall be 
+rounded off in accordance with IS 2 ; 1960 'Rules for rounding oflF numerical values ( revised )\ 
+The number of significant places retained in the rounded off value should be the same as that 
+of the specified value in this standard. 
+
+
+
+15 13580:1992 
+
+
+
+Indian Standard 
+
+
+
+INTERNAL FUSES AND INTERNAL 
+
+OVERPRESSURE DISCONNECTORS FOR 
+
+POWER ELECTRONIC CAPACITORS 
+
+
+
+1 SCOPE AND FIELD OF APPLICATION 3.3 Internal Overpressure Disconnector 
+
+
+
+lA This standard applies to internal over- 
+pressure disconnectors and fuses when used 
+to protect power electronic capacitors 
+manufactured according to IS 13648:1992 
+•Power electronics capacitors'. 
+
+1.2 This standard also applies to internal over- 
+pressure disconnectors used to protect self- 
+healing metalized dielectric capacitors for 
+power electronics. 
+
+1.3 This standard does not apply to fuses and 
+disconnectors for which the service conditions, 
+in general, are incompatible with the require- 
+ments of the standard unless otherwise agreed 
+between manufacturer and purchaser. 
+
+1.4 Fuses and disconnectors conforming to 
+this standard are designed to isolate faulted 
+capacitors elements or capacitor unit, to allow 
+
+.operation of the remaining parts of that 
+capacitor unit and the bank in which the 
+capacitor unit is connected. Such fuses and 
+disconnectors are not a substitute for a switch- 
+ing device such as a circuit-breaker or the 
+external protection of the capacitor bank, or 
+part thereof. 
+
+2 REFERENCE 
+
+IS 13648 : 1992 *Power Electronic capacitors' is 
+a necessary adjunct to this standard. 
+
+3 TERMINOLOGY 
+
+3.1 Definitions of capacitor parts and 
+accessories shall be in accordance with 
+IS 13648 : 1992. 
+
+NOTE — The word 'element' in this standard is 
+used in accordance with the definition contained 
+in capacitor specifications, and not in accordance 
+with the fMse standards. 
+
+3.2 Internal Fuse 
+
+A device incorporated in capacitor which 
+disconnects an element or a group of elements 
+in the event of breakdown. 
+
+
+
+A disconnecting device inside a capacitor, 
+designed to interrupt the current path in the 
+case of abnormal increase of the internal 
+
+pressure. 
+
+NOTES 
+
+1 This disconnector can also be placed outside the 
+capacitor unit, but is still considered an integral 
+part of the capacitor unit, and siiall fulfill the same 
+requ irements and pass the same tests as the inter- 
+nal overpressure disconnector. 
+
+2 This device is normally used in capacitors of the 
+self-healing type. 
+
+4 GENERAL 
+
+4.1 The fuse is connected in series with the 
+element(s) which the fuse is intended to isolate 
+if the element(s) becomes faulty. The range 
+of currents and voltages for the fuse is there- 
+fore dependent on the capacitor design, and 
+in some cases also on the bank in which the 
+fuse is connected. 
+
+
+
+The operation of an internal fuse is in general 
+determined by one or both of the factors given 
+in (a) and (b): 
+
+a) the discharge energy from elements or 
+units connected in parallel with the 
+faulty element or unit; and 
+
+b) the line fault current. 
+
+4.2 The disconnector is intended to interrupt 
+the current to all elements of the capacitor 
+or some of them. The proper operation of the 
+disconnector is dependent on the leak-tightness 
+of the container during the life of the 
+capacitor. 
+
+5 DISCONNECTING REQUIREMENTS 
+
+5.1 The fuse shall enable the faulty element to 
+be disconnected when electrical breakdown of 
+elements occurs in a voltage range, in which 
+Ml is the lowest and «, the highest value of the 
+
+
+
+voltage between the 
+the instant of fault 
+
+
+
+terminals of the unit at 
+
+
+
+IS 13580 : 1992 
+
+
+
+The reeommended values for u^ and i/g are ihe 
+following: 
+
+Wj = 0-8 Un 
+
+U2 == see Table 1 
+
+5.2 The disconnector shall enable the faulty 
+capacitor unit to be disconnected for voltage 
+up to and including Ug. 
+
+The recommended value is: 
+W3 = 1-3 U^ 
+
+NOTE — The purchaser shall specify if this voltage 
+will be exceeded, 
+
+6 WITHSTAND REQUIREMENTS 
+
+6.1 After operation, the fuse assembly and the 
+disconnector must withstand rated element 
+voltage and rated voltage between the terminals 
+of the disconnected capacitor respectively, 
+plus any unbalance voltage due to fuse or 
+disconnector action, and any short time 
+transient overvoltage normally experienced 
+during the life of the capacitor. 
+
+6.2 Throughout the life of the capacitor, the 
+disconnector shall be capable of carrying conti- 
+nuously a current equal to or greater than M 
+times the maximum permissible imit's current 
+(see 14 of IS 13648:1992) and the fuses 
+capable of carrying continuously a current 
+equal to or greater than maximum permissible 
+unit current divided by number of parallel fuse 
+paths. 
+
+6.3 The fuse and the disconnector shall be 
+capable of withstanding the surge current (4). 
+
+
+
+6.4 The fuse connected to the undamaged 
+element(s) must be able to carry the discharge 
+currents due to the breakdown of element(s). 
+
+6.5 The fuses and disconnectors must withstand 
+the discharge test, see 10. 
+
+7 MARKING 
+
+The marking regarding presence of internal 
+fuse shall be provided on the capacitor as 
+indicated in IS 13648 : 1992. 
+
+8 ROUTINE TESTS 
+
+The unit(s) shall have passed all routine tests 
+specified in IS 13643 : 1992. 
+
+9 TYPE TESTS 
+
+9.1 The type tests comprise following: 
+
+a) Discharge test ( see 10 ); 
+
+b) Disconnecting test on fuses (see 11 ); and 
+
+c) Disconnecting test on disconnector 
+{ see 12 ). 
+
+In addition, the fuses and disconnectors shall be 
+able to withstand all type test of the capacitor 
+units in accrodance with IS 13748 : 1992. 
+
+9.2 Type tests are considered valid if they are 
+performed on capacitors of a design identical 
+with that of the capacitor offered, or on a 
+capacitor of a design that does not differ from 
+it in any way that might affect the properties 
+to be checked by the type tests. 
+
+
+
+Table 1 Test Voltage Between Terminals 
+
+(Clauses 5A, lOA artd 11.4) 
+
+
+
+
+
+ac Capacitors 
+
+
+do Capacitors 
+
+
+non self-healing 
+
+
+self-healing 
+
+
+non self-healing self-healing 
+
+
+ac 
+
+Test voltage 
+
+do 
+
+Test voltage 
+
+
+2 ITn/v 2 
+2 U^ 
+
+
+1-5 C/n/v' 2" 
+
+2 t/K/v/T" 
+
+
+C/n 
+
+
+1-5 N 
+
+
+
+NOTE — The tfi and k, values above are based on the voltage that may normally occur across the 
+capacitor unit terminals at the ins tan t of electrical breakdown of the element. 
+The purchaser shall specify if the «i and «• values differ from the stated ones. 
+
+
+
+IS 13580 : 1992 
+
+
+
+10 DISCHARGE TEST 
+
+10.1 The units shall be charged by means of 
+dc and then discharged through a gap situated as 
+close as possible to the capacitor. They shall 
+be subjected to five such discharges within 10 
+minutes. 
+
+The test voltage shall be equal to 1- 1 Un* 
+
+If bo vv ever a maximum peak current is 
+specified, the discharge current shall be adjusted 
+by variation of the charging voltage and the 
+impedance of the discharge circuit to a value 
+of: 
+
+/tf&t = 1*4 /s 
+
+Within five minutes after this test, the unit 
+shall be subjected to a voltage test between 
+terminals { j^e Table 1 ). 
+
+The capacitance shall be measured before the 
+discharge test and after the voltage test. The 
+measurements shall not differ by an amount 
+corresponding either to breakdown of an 
+element or to blowing of an internal fuse, 
+
+11 DISCONNECTING TEST ON FUSES 
+11.1 Test Procedure 
+
+The disconnecting test on fuses is performed 
+first at the upper dc test voltage u^ given in 
+Table 1 and multiplied by M and then, as 
+soon as possible after the blowing of one fuse, 
+at the lower dc test voltage of 0*9 Un until 
+the blowing of another fuse. 
+
+The fuse action must be such that the voltage 
+drop across the tested unit is equal to or less 
+than 10 percent. 
+
+If the voltage drop is more than 10 percent 
+additional capacitors can be put in parallel to 
+increase the parallel stored energy. 
+
+The tests on fuses are performed either on one 11.3 Visual Checking 
+
+complete capacitor unit or on two units, if 
+there is only one fuse inside. 
+
+
+
+3 In special cases, it may be necessary to extend 
+the tests until two or more breakdowns of capacitor 
+elements have occurred. The number of break- 
+downs at each voltage limit shall in such cases be 
+subject to agreement between manufacturer and 
+purchaser. If the number of breakdowns is exceeded, 
+the voltages stated in 11,4 may have to be increased. 
+
+4 Precautions shall be taken when performing this 
+test against the posible explosion of a capacitor 
+unit. 
+
+5 The voltage shall be gradually increased to the 
+specified value. 
+
+a) Capacitor preheatwg — The capacitor unit is 
+preheated in a chamber before applying the 
+test voltage at the upper limit. Preheating 
+temperature ( lOO^C to JSO^'C ) is chosen by the 
+manufacturer to achieve a practical short time 
+( some minutes fo some hours ) to the first 
+breakdown. 
+
+A lower preheatirg temperature should be used 
+when applying the test voltage limit ; to avoid 
+breakdowns before reaching the test voltage. 
+Capacitor current is to be recorded during the test . 
+
+NOTE — To prevent excessive internal liquid 
+pressure due to high temperature the unit may be 
+equipped with a relief tube including a valve 
+which must be closed at the instant of applying 
+the test voltage. 
+
+b) Electrical breakdown of the element — Some 
+elements in the test unit are each provided with 
+for example a tab, inserted between the dieleptric 
+layers. Each tab is connected to a separate 
+terminal. 
+
+To obtain breakdown of an element thus equiped, 
+a surge voltage of sufficient amplitude is applied 
+between the tab and ohe of the foils of the 
+modified element. 
+
+Capacitor current is to be recorded during the 
+test. 
+
+11.2 Capacitance Measurement 
+
+After the test, capacitance shall be measured 
+to prove that the fuse(s) has ( have ) blown. 
+
+A measuring method shall be used that is 
+sufficiently sensitive to detect the capacitance 
+change caused by one blown fuse. 
+
+
+
+11.1.1 One of the following test procedures a), 
+b) or an alternative method shall be used. If 
+no agreement has been reached, the choice is 
+left to the manufacturer. 
+
+NOTES 
+
+1 At the upper voltage limit, one additional fuse (or 
+one tenth of the fused elements directly in parallel) 
+connected to a sound element(s) is allowed to be 
+damaged, 
+
+2 The test voltage shall be maintained for 10 
+seconds after a breakdown lo ensure the fuse has 
+disconnected correctly unaided by disconnection of 
+the power supply. 
+
+
+
+After the disconnecting test, no significant 
+deformation of the contamer shall be apparent. 
+
+11.4 Voltage Test 
+
+A voltage test shall be carried out by applying 
+M times the voltage mentioned in Table 1 for 
+a period of 10 s. 
+
+12 DISCONNECTING TEST ON 
+DISCONNECTOR 
+
+12.1 Test Sequence 
+
+The test shall be carried out on a capacitor 
+unit. 
+
+
+
+IS 13580: 1992 
+
+
+
+Unless agreed otherwise, a capacitor which has 
+passed the endurance test ( under consideration ) 
+may be used. 
+
+The capacitor shall be mounted in a circulat- 
+ing air oven having a temperature equal to the 
+maximum ambient air temperature of the 
+temperature category of the capacitor. 
+
+When all the parts of the capacitor have 
+reached the temperature of the oven the 
+following test sequence shall be performed with 
+the circuit given in Fig. 1. 
+
+a) With the selector switches H and K in 
+position *r and a respectively the N 
+voltage source is set to 1-3 Un and the 
+capacitor current is recorded. The A^ 
+source is ac for testing ac capacitors 
+and dc for dc capacitor. 
+
+b) The r source is set to 10?7n the switch 
+H is then set to position 2 and the 
+variable resistor is adjusted to give a dc 
+short circuit current of 300 mA. 
+
+c) Switch /f is set to position 3 and switch 
+Kto position b to apply the dc test voltage 
+to the capacitor which is maintained 
+until the voltmeter indicates approxi- 
+mately zero for 3 to 5 seconds. 
+
+d) Switch K is then set to position a again 
+to apply the test voltage to the capacitor 
+for a period of 3 min when the current 
+is again recorded. 
+
+
+
+The following conditions may be obtained: 
+
+i) The ammeter / and the voltmeter U both 
+indicate zero. In this case the fuse 
+shall be checked. If it has blown, it 
+shall be replaced. Then the voltage is 
+applied to the capacitor and if the fuse 
+blows again the procedure is interrupted* 
+If the fuse does not blow, the procedure 
+consisting in the application to the 
+capacitor voltage as prescribed in items 
+c) and d) above is continued using only 
+the switch K; 
+
+ii) The current indicated by the ammeter /is 
+lower than 66 percent of the initial value 
+and the voltmeter C/ indicates 1-3 C/n. 
+The current shall indicate that at least 
+one disconnector in the capacitor has 
+interrupted. In this case the procedure is 
+interrupted; 
+
+iii) The current indicated by the ammeter 
+/ is higher than 66 percent of the initial 
+value. In this case the procedure is 
+continued as per items (c) and (d). 
+
+When the procedure is interrupted, the 
+capacitor is cooled to the ambient temperature 
+and the voltage test between terminals and 
+container is carried out according to 10.1 of 
+IS 13648 : 1992. 
+
+The minimum short-circuit current of the N 
+generator at the capacitor terminals is 2 000 A 
+or as agreed between manufacturer and user. 
+
+The rated current /f of the fuse shall be not 
+less than 2/n. 
+
+
+
+SELECTOR 
+SWITCH O 
+
+
+
+TIME LAG 
+FUSE 
+
+
+
+
+SELECTOR 
+, SWITCH 
+
+
+
+^CAPACITOR UNIT 
+UNDER TEST 
+
+
+
+Fig. 1 Circuit to Perform the Disconnecting Test 
+
+
+
+IS 13580 : 1992 
+
+
+
+12.2 Test Requirements 
+
+At the conclusion of the test, the enclosure of 
+each capacitor shall be intact except that 
+normal operation of a vent, or minor damage 
+of a case ( for example cracks ) is permitted 
+provided the following are met: 
+
+a) Escaping liquid material may wet the 
+outer surface of the capacitor but shall 
+not fall in drops; 
+
+b) The container of the capacitor may be 
+deformed and damaged but not broken; 
+
+c) Flames and/or fiery particles shall not 
+be emitted from the openings. This may 
+be checked by enclosing the capacitor 
+in gauze ( cheese cloth ). Burning or 
+scorching of the gauze is then considered 
+to be a criterion of failure; 
+
+d) A voltage test shall be carried out in 
+accordance with 10.1 of IS 13648 : 1992 
+
+NOTE — Excessive emanation of fumes during the 
+test could be dangerous 
+
+13 GUIDE FOR FUSE AND DISCONNECTOR 
+PROTECTION 
+
+The fuse is connected in series with the element 
+
+
+
+that the fuse is designed to isolate; if the 
+element becomes faulty. After the breakdown 
+of an element the fuse connected to it will 
+blow and isolate it from the remaining part 
+of the capacitor, which allows the unit to 
+continue in service. The blowing of one or 
+more fuses will cause voltage changes within 
+the bank, when series connections is used. 
+
+The voltage across sound unit(s) must not 
+exceed the value given in the relevant standard. 
+
+Depending on the internal connection of the 
+units, the blowing of one or more fuses may 
+also cause a change of voltage within the unit. 
+The remaining elements in a series group will 
+have an increased working voltage and the 
+manufacturer shall, on request, give details of 
+the voltage rise caused by blown fuses. 
+
+Because of the self-healing properties of the 
+capacitor, breakdowns are not dangerous and 
+do not increase the current significantly. But, 
+in the event of rising pressure ( for example 
+caused by thermal instability, which may occur 
+at the end of the capacitor, or in some cases, 
+by an excessive number of self-healing break- 
+down, caused by extreme overloads ) the self- 
+healing power capacitor must be protected by 
+an internal overpressure disconnector or 
+equivalent devices. 
+
+
+
+Siwidard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act^ 1986 and the Rules and Regulations made thereunder, Ihe Standard Mark 
+on products covered by an Indian Standard conveys the assurance that they have been 
+produced to comply with the requirements of that standard under a well defined system 
+of inspection, testing and quality control which is devised and supervised by BIS and 
+operated by the producer. Standard marked products are also continuously checked by 
+BIS for conformity to that standard as a further safeguard. Details of conditions under 
+which a licence for the use of the Standard Mark may be granted to manufacturers or 
+producers may be obtained from the Bureau of Indian Standards, 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act^ 1986 to 
+promote harmonious development of the activities of standardization, marking and quality 
+certification of goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of thes; publications may be reproduced 
+in any form without the prior permission in writing of BIS. This does not preclude the free use, 
+in the course of implementing the standard, of necessary details, such as symbols and sizes, type 
+or grade designations. Enquiries relating to copyright be addressed to the Director 
+( Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if 
+any, are issued from time to time. Users of Indian Standards should ascertain that they are in 
+possession of the latest amendments or edition. Comments on this Indian Standard may be 
+sent to BIS giving the following reference: 
+
+Doc :No. ET29(3211 ) 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+Telephones: 331 01 31, 331 13 75 
+
+
+
+Telegrams : Manaksanstha 
+( Common to all OflSces ) 
+
+Telephone 
+
+
+
+C37 
+
+
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 445-446. Sector 35-C, CHANDIGARH 160036 
+
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 6001 13 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri { East ) 
+BOMBAY 400093 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+f331 01 31 
+{331 13 75 
+
+37 84 99, 37 85 61 
+
+86 26, 37 86 62 
+
+C 53 38 43, 53 16 40 
+{53 23 84 
+
+C235 02 16, 235 04 42 
+{235 15 19. 235 23 15 
+
+f632 92 95, 632 78 58 
+1632 78 91, 632 78 92 
+
+
+
+Printed at Printwell Printers, Aligarh, India 
+
+
+

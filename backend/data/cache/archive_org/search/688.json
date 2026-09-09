@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":16,"params":{"query":"identifier:gov.in.is.688.*","qin":"identifier:(gov.in.is.688.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.688.1988","title":"IS 688: Method for determination of colour fastness of textile materials to organic solvents"}]}}

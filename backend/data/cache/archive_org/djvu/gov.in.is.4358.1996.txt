@@ -1,0 +1,682 @@
+**************** 
+
+
+
+*■ fe^K 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 4358 (1996): Sickles [FAD 21: Farm Implements and 
+Machinery] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+'2*S> W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 4358: 1996 
+
+(Reaffirmed 2012) 
+
+( wm ipifrem ) 
+
+Indian Standard 
+
+SPECIFICATION FOR SICKLES 
+
+( First Revision ) 
+
+ICS 65.060.50 
+
+
+
+©BIS 1996 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+October 1996 Price Group 2 
+
+
+
+Farm Implements and Machinery Sectional Committee, FAD 59 
+
+
+
+FOREWORD 
+
+This Indian Standard (First Revision) was adopted by the Bureau of Indian Standards, after the draft finalized by the 
+Farm Implements and Machinery Sectional Committee had been approved by the Food and Agriculture Division 
+Council. 
+
+Sickles are generally used for harvesting crops and cutting other vegetation. In India, sickles have been used since 
+ancient days as one of the multi-purpose tools on the farm. Sickles 'by type of cutting edge' are classified into two 
+types; namely, plain and serrated; by functional utility as grass type, bush type and wood type; by shape as slim and 
+curved edge, eagle beak, eagle beak with curvature, with or without reinforcement of back edge, single or double 
+edge, etc. 
+
+This standard was first published in 1967. Since then a lot of modifications based on research work are made in the 
+design. Therefore, a need was felt to revise this standard to incorporate latest development in the field. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, 
+observed or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with IS 2:1960 
+Rules for rounding off numerical values (revised)'. The number of significant places retained in the rounded off 
+value should be the same as that of the specified value in this standard. 
+
+
+
+IS 4358 : 1996 
+
+
+
+Indian Standard 
+
+SPECIFICATION FOR SICKLES 
+
+( First Revision ) 
+
+
+
+1 SCOPE 
+
+This standard specifies the requirements for plain and 
+serrated blade sickles for harvesting of fodder, grasses, 
+cereal crops, etc. 
+
+2 REFERENCES 
+
+The Indian Standards given below contain provisions 
+which through reference in this text, constitute provi- 
+sion of this standard. At the time of publication, the 
+editions indicated were valid. All standards are subject 
+to revision and parties to agreements based on this 
+standard are encouraged to investigate the possibility 
+of applying the most recent editions of the standards 
+indicated. 
+
+
+
+ISNo. 
+620 : 1985 
+
+
+
+Title 
+
+
+
+Wooden tool handles — 
+General requirements ( fourth 
+revision ) 
+
+1570(Part2/Secl): Schedules for wrought steels. 
+1979 Part 2 Carbon steels ( unalloyed 
+
+steels ), Section 1 Wrought 
+products ( other than wire ) with 
+specified chemical composition 
+and related properties {first 
+revision ) 
+
+1586: 1988 Method for Rockwell hardness 
+
+test for metallic material (Scales 
+A-B-C-D-E-F-G-H-K) {second 
+revision) 
+
+2062:1992 Steel for general structural 
+
+purposes {fourth revision ) 
+
+2102 (Part 1) : 1993 General tolerance for dimension 
+and form and position : Part 1 
+General tolerance for linear and 
+angular dimension ( third 
+revision ) 
+
+3601 : 1984 Mild steel tubes for mechanical 
+
+and general engineering 
+purpose {first revision ) 
+
+7201 (Part 1) : 1987 Method of sampling for 
+agricultural machinery and 
+equipment: Part 1 Hand tools 
+and hand operated animal 
+drawn equipment {first revision) 
+
+
+
+3 TERMINOLOGY 
+
+For the purpose of this standard, the following 
+definitions shall apply. 
+
+3.1 Blade 
+
+The main metallic part of the sickle used for cutting 
+action. 
+
+3.1.1 Cutting Edge 
+
+The plain or serrated edge in the inner side of the sickle. 
+
+3.1.2 Blade Reinforcing Strip 
+
+A strip of metal used as a reinforcement and fixing the 
+blade. 
+
+3.2 Ferrule 
+
+A protective metallic bush fitted at the junction of the 
+blade and handle to keep the tang tight in the handle. 
+
+3.3 Handle 
+
+A part for holding in operation of the sickle. 
+
+3.4 Tang 
+
+External portion of the blade or the reinforcement strip 
+which is fixed into the handle. 
+
+4 TYPES 
+
+For the purpose of this standard, the sickles are of 
+following two types: 
+
+i) Sickles with solid blade ( see Fig. 1 ), and 
+
+ii) Sickles with serrated blade ( see Fig. 2 ). 
+
+NOTE — Both the types of sickles may be of plain edge or 
+serrated edge. 
+
+5 MATERIAL 
+
+5.1 Blade 
+
+The blade shall be manufactured fr6m steel conforming 
+toGradeC50orC80oflS 1570 (Part 2/Sec 1) : 1979. 
+
+5.2 Blade Reinforcing Strip 
+
+Blade reinforcing strip, wherever used shall be made of 
+mild steel {see IS 2062 : 1 992) of thickness 1 . 5 mm, A fin. 
+
+
+
+IS 4358: 1996 
+5.3 Handle 
+
+
+
+Handle shall comply with the requirements specified for 
+Class 5 handles (see IS 620 : 1 985 ) and the shape may 
+conform to one of the shapes given in Fig. 1 and Fig. 2. 
+
+
+
+BLADE 
+
+
+
+
+WOODEN HANDLE 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 1 Sickle with Solid Blade 
+5.4 Ferrule 
+
+Ferrule, if provided maybe made from mild steel tube, 
+(see IS 3601 : 1984 ) or mild steel sheet ( see IS 2062 : 
+1992 ) of minimum 1 mm thickness. 
+
+6 SHAPE AND DIMENSIONS 
+
+6. 1 The shape and dimensions of the sickles shall be as 
+given in Fig. 1. Fig. 2 and Table 1. Serrations in case of 
+serrated sickles shall conform to the details given in 
+Fig. 3. The tolerances, wherever not specified shall be 
+asperIS2102(Partl): 1993. 
+
+6.2 The length of ferrule shall be not less than 20 mm. 
+
+6.3 The blade of the sickle shall be forged and cut to 
+the shape as given in Fig. 1 and Fig. 2. 
+
+7 HARDNESS 
+
+The blade of the sickle shall be hardened and tempered 
+to the hardness range of 45 to 50 HRC. The hardness 
+
+
+
+shall be tested at a point 10 mm away from the cutting 
+edge, at least at three places along the blade ( see IS 
+1586:1988). 
+
+Table 1 Dimensions of Sickles 
+
+(Clause 6.1) 
+All dimensions in millimetres. 
+
+
+
+Nominal 
+
+
+Size 
+
+
+L 
+
+
+A 
+
+
+B 
+
+
+C 
+
+
+D 
+
+
+
+
+
+
+±5 
+
+
+±2 
+
+
+±3 
+
+
+±0.5 
+
+
+Min 
+
+
+170 
+
+
+
+
+170 
+
+
+10 
+
+
+22 
+
+
+3 
+
+
+1.25 
+
+
+225 
+
+
+
+
+225 
+
+
+12 
+
+
+28 
+
+
+4 
+
+
+1.25 
+
+
+280 
+
+
+
+
+280 
+
+
+15 
+
+
+35 
+
+
+5 
+
+
+1.25 
+
+
+
+NOTE — Dimension C is applicable for sickles having 
+solid blade (see¥\%. 1) and D for sickles with reinforcing 
+strip (see Fig. 2). 
+
+8 WORKMANSHIP AND FINISH 
+
+8. 1 The blade shall be free from cracks, seams, scales, 
+pits, burrs, nicks and other defects. The blade shall be 
+smoothly forged or cut without tear and blister and the 
+cutting edge shall be sharpened to give a fine finish for 
+immediate use in case of plain type sickles. All sharp 
+edges, except the cutting edge shall be rounded off. 
+There shall be no sign of deformation due to heat treat- 
+ment, twist, strain, rust, etc. 
+
+8.2 The teeth of the serrated sickle blade shall have a 
+uniform pitch and shall be finished smooth and sharp- 
+ened pointing towards the handle. 
+
+8.3 The handle shall be of well seasoned wood, free 
+from split, warp and knots. The sharp edges should be 
+removed. It shall be finished smooth and shall be given 
+
+a coat of varnish or paint. 
+
+8.4 The reinforcing strip shall be tightly fitted into the 
+handle with or without ferrule in position. Normally the 
+handle shall be fitted with tangs centered to the entire 
+length of the handle and fixed at the large end rigidly. 
+
+8.5 The blade reinforcement strip shall be free from 
+burrs and sharp edges and shall be finished smooth on 
+the handle side. The riveting should be done properly 
+by tightening in a press or with a riveting machine. 
+
+8.6 The ferrule shall be free from cracks, burrs and 
+other defects and shall be finished smooth and bright 
+all over. The brazing or welding shall be continuous 
+and even. 
+
+8.7 The blade shall be given a coat of anti-corrosive 
+paint except the cutting edges. The cutting edge shall 
+be smeared with suitable mineral jelly. 
+
+
+
+IS 4358 : 1996 
+
+
+
+BLADE 
+
+
+
+
+
+WOODEN HANDLE 
+
+
+
+L -LENGTH OF CUTTING EDGE 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 2 Sickle with Reinforcing Strip 
+
+
+
+IS 4358 : 1996 
+
+9 TESTS 
+
+The cutting edge of the sickle shall be tested by striking 
+six continuous sharp blows on hard timber as BABUL, 
+HALDU, TEAK, /C47/£4Lfromaheightof3()cm. Nei- 
+ther the cutting edge nor the fitting of the sickle shall 
+show any sign of damage or loosening during or on 
+completion of the test. 
+
+10 SAMPLING AND ACCEPTANCE 
+
+Unless otherwise agreed to between the purchaser and 
+the supplier, the method of drawing representative 
+samples and criteria for conformity shall be as prescribed 
+inIS7201 (Parti): 1987. 
+
+11 MARKING AND PACKING 
+
+11.1 Marking 
+
+Each sickle shall be marked with the following particu- 
+lars on the blade: 
+
+a) Manufacturer's name and recognized trade-mark, 
+if any; and 
+
+b) Nominal size. 
+
+11.2 BIS Certification Marking 
+
+Each sickle may also be marked with the Standard Mark. 
+
+
+
+
+All dimensions in millimetres. 
+Fig. 3 Details of Serrations 
+
+11.2. 1 The use of the Standard Mark is governed by 
+the provisions of the Bureau of Indian Standards Act, 
+1986 and the Rules and Regulations made thereunder. 
+Details of conditions under which a license for the use 
+of the Standard Mark maybe granted to manufacturers 
+or producers may be obtained from the Bureau of 
+Indian Standards. 
+
+11.3 Packing 
+
+The sickles of one type and size shall be packed in 
+bundles of five or multiples of five, convenient for 
+handling in transit or as specified by the purchaser. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act. 1986 to promote harmonious 
+development of the activities of standardization, marking and quality certification of goods and attending to 
+connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form without 
+the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing the 
+standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to 
+copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue 
+of BIS Handbook* and 'Standards : Monthly Additions'. 
+
+This Indian Standard has been developed from Doc : No. FAD 59 ( 2672 ) 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters; 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10002 
+Telephones : 323 01 31, 323 94 02, 323 83 75 
+
+
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+
+
+Telegrams: Manaksansiha 
+
+( Common to 
+ail offices ) 
+
+Telephone 
+
+
+
+[323 76 1 
+1323 384 
+
+
+
+7 
+41 
+
+
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 
+
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 600113 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400093 
+
+
+
+337 84 99,337 85 61 
+337 86 26. 337 86 62 
+
+
+
+J 60 38 43 
+\ 60 20 25 
+
+
+
+f 235 02 16,235 04 42 
+\ 235 15 19,235 23 15 
+
+J 832 92 95,832 78 5* 
+1 832 78 9K 832 78 92 
+
+
+
+Branches : AHMAD ABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. 
+JAIPUR. KANPUR. LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+Printed at New India Printing Press, Khurja, India 
+
+
+

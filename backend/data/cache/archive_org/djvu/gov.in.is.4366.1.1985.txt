@@ -1,0 +1,1714 @@
+***•••**•••**••• 
+
+
+tOT3 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+'The  Right  to  Information,  The  Right  to  Live'" 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New' 
+
+
+IS  4366-1  (1985):  Agricultural  Tillage  Discs,  Part  1: 
+Concave  Type  [FAD  21:  Farm  Implements  and  Machinery] 
+
+
+.^^llli^=ac^^fc^ll  f  fm^>NV»gaTCAaiiTgs 
+
+
+;5«.  \V  I  iT^ft2i^5c:%^>^ift^ 
+
+
+yy^^i^^^K^^ 
+
+
+-k 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge'' 
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+BLANK  PAGE 
+
+
+'^liSSlfi, 
+
+
+5> 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  :  4366  {  Part  1  )  ^  1985 
+
+(Reaffirmed  2001) 
+
+Indian  Standard 
+
+SPECIFICATION  FOR 
+AGRICULTURAL  TILLAGE  DISCS 
+
+PART  1     COWCAVE  TYPE 
+
+f  Second  Revision ) 
+
+
+UnC    63l-3i2'02l'6  :  1 3 1*51  021 
+
+
+|S>  C9^nS.ht  1985 
+
+INDIAN    STANDARDS    INSTITUTION 
+
+MA\AK      IIHAVAN.       y     UAHADUR      SHAH     ZAFAH     MARG 
+
+^'^■AV  DELHI  wmm. 
+
+
+IS  :  4366  (  Part  1  )  -  1985 
+
+Indian  Standard 
+
+SPECIFICATION  FOR 
+AGRICULTURAL  TILLAGE  DISCS 
+
+PART  1     CONCAVE  TYPE 
+
+(  Second  Revision ) 
+
+Soil  Working  Equipment  Sectional  Committee,  AFDC  50 
+
+Chairman  Represeniing 
+
+Db  a.  Alam  Indian  Council  of  Agricultural  Research,  New  Delhi 
+
+Members 
+
+SiiRi  V.  W.  Ambekak  Directorate  of  Agriculture,    Government   of    Uttar 
+
+Pradesh,  Lucknow 
+Shri  R.  R.  Dass  Dates  Discs  (  Pvt  )  Ltd,  Ghaziabad 
+
+Shri  Rajiv  Dass  (  Alternate  ) 
+Shbi  M.  R.  Dewan  Central    Farm    Machinery    Trading     and    Testing 
+
+Institute,  Budni 
+Shri  J.  Prasad  (  Alternate  ) 
+DiHECTOB  Central     Institute      of     Agricultural      Engineering 
+
+(  ICAR  ),  Bhopai 
+Shri  D.  S,  Rajput  (  Alternate  ) 
+Director  Northern    Region    Farm    Machinery  Training    and 
+
+Testing  Institute,  Hissar  * 
+
+Senior  Test  Engineer  (  Alternate  ) 
+Shri  R.  K.  Gupta  State  Farm   Corporation   of  India    Limited,     New 
+
+Delhi 
+Shri  M.  L.  Garg  (  Alternate  ) 
+Shri  J.  S.  Hanjra  Partapsons  Engineers,  Jalandhar 
+
+Shri  R.  S.  Hanjra  (  Alternate  ) 
+Shri  M.  M.  Mehta  Escorts  Limited,  Faridabad 
+
+Shri  Ripdaman  Singh  (  Alternate  ) 
+Shri  T.  N,  Mishra  G.B.  Pant  University  of  Agricultural  and  Technology, 
+
+Pantnagar 
+Shri  S.  B.  Pandya  National  Farmers*  Organization,  New  Delhi 
+
+Shri  B.  R.  Ba.rwat,e  (  Alternate  ) 
+Dr  J.  P.  Panwar  Indian  Agricultural  Research  Institute,  New  Delhi 
+
+Shri  Par  amp al  Singh  Bharat  Krishak  Samaj,  New  Delhi 
+
+Shri  E.  C.  Peter  Haryana    Aero    Industries     Corporation     Limited, 
+
+Chandigarh 
+
+(  Continued  on  page  2  ) 
+
+
+©  Copyright  1985 
+
+INDIAN  STANDARDS  INSTITUTION 
+
+This  publication  is  protected  under  the  Indian  Copyright  Act   (  XIV   of    1957  )   and 
+
+reproduction  in  whole  or  in  part  by  any  means  except  with  written  permission  of  the 
+
+publisher  shall  be  deemed  to  be  an  infringement  of  copyright  under  the  said  Act. 
+
+
+IS  :  4366  (  Part  1  )  -  1985 
+
+
+(  Continued  from  page  1  ) 
+
+
+Members 
+
+Shri  K.  K,  Sagab 
+
+Shbi  R.  B.  L,.  Srivastava 
+
+Shri  V.  P.  Srivastava 
+
+
+Representing 
+
+Light  Carts  Private  Limited,  Meerut 
+
+U.P.   State  Agro    Industries    Corporation    Limited, 
+
+Lucknow 
+Directorate  of  Agricultural  Engineering,  Government 
+of  Bihar,  Pama 
+Shri  Subinder  Kumar  Agricultural  Discs  Corporation,  Karnal 
+
+Shri  Rajinder  Prasad  (  Alternate  ) 
+Db  S.  R.  Vebma  Punjab  Agricultural  University,  Ludhiana 
+
+Dr  B.  S.  Sandhu  (  Alternate  ) 
+Shbi  T.  Purwanandam,  Director  General,  ISI  (  Ex-officio  Member  ) 
+
+Director  (  Agri  &  Food  ) 
+
+Secretary 
+
+Smbi  K,  Anbabasu 
+Assistant  Director  {  Agri  &  Food  ),  ISI 
+
+
+IS  :  4366  (  Part  1  )  -  1985 
+
+Indian  Standard 
+
+SPECIFICATION  FOR 
+AGRICULTURAL  TILLAGE  DISCS 
+
+PART  1     CONCAVE  TYPE 
+
+(  Second  Revision ) 
+
+0,     FOREWORD 
+
+0.1  This  Indian  Standard  (  Part  I  )  (  Second  Revision  )  was  adopted  by 
+the  Indian  Standards  .Institution  on  28  January  1985,  after  the  draft 
+finalized  by  the  Soil  Working  Equipment  Sectional  Committee  had  been 
+approved  by  the  Agricultural  and  Food  Products  Division  Council. 
+
+0.2  This  standard  was  first  published  in  1967  and  subsequently  revised  in 
+1972.  This  second  revision  incorporates  certain  improvements  in  the 
+agricultural  tillage  discs  found  necessary  in  the  light  of  the  modifications 
+suggested  by  testing  authorities  and  the  manufacturers.  Advantage  has 
+also  been  taken  to  update  the  standard  regarding  terminology,  material 
+and  method  of  testingj  and  incorporating  an  amendment  to  its  1972 
+version. 
+
+0.2.1  The  concerned  Committee  also  decided  to  incorporate  the 
+deflection  and  impact  values  for  the  nominal  sizes  510  mm,  560  mm  and 
+610  mm  in  this  revision.  The  impact  and  deflection  values  for  other  sizes 
+would  be  incorporated  later. 
+
+0.3  For  the  guidance  of  purchaser,  specification  sheet  is  given  in 
+Appendix  A.  This  should  be  filled  in  accordance  with  the  agreement 
+between  the  manufacturer  and  the  purchaser. 
+
+0.4  Though  efforts  have  been  made  to  keep  this  standard  in  line  with 
+ISO  5679-1979  *  Specification  for  equipment  for  working  the  soil  — 
+Disks  —  Classification  main  fixing  dimensions',  this  standard  deviates 
+from  the  International  Standard  for  the  following  requirements: 
+
+a)  Radius  of  concavity, 
+
+b)  Cutting  edge  bevelling,  and 
+
+c)  Sizes, 
+
+
+IS  :  4366  (  Fart  1  )  -  1985 
+
+0.5  For  the  purpose  of  deciding  whether  a  particular  requirement  of  this 
+standard  is  complied  with,  the  final  value,  observed  or  calculated, 
+expressing  the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accord- 
+ance with  IS  :  2-1960*.  The  number  of  significant  places  retained  in  the 
+rounded  ofT  value  should  be  the  same  as  that  of  the  specified  value  in  this 
+standard. 
+
+
+1.  SCOPE 
+
+l.l  This  standard  (  Part  1  )  specifies  the  materials,  dimensions  and  other 
+requirements  for  agricultural  tillage  discs,  concave  type. 
+
+2.  TERMINOLOGY 
+
+2.0  For  the  purpose  of  this  standard,  the  following  definitions  shall 
+apply. 
+
+2.1  Concavity  —  The  depth  measured  at  the  lowest  point  at  the  centre 
+of  the  disc  by  placing  its  concave  side  on  a  flat  surface. 
+
+2.2  Disc  —  A  circular,  concave  and  revolving  steel  plate  used  for  cutting 
+and  inverting  the  soil. 
+
+2.3  Eccentricity  —  The  radial  deviation  of  points  on  the  disc  edge  in  a 
+plane  perpendicular  to  the  axis  of  the  disc  when  the  disc  is  rotated  about 
+its  centre. 
+
+2.4  Wobble  —  The  axial  deviation  of  points  on  the  disc  edge  in  a  plane 
+parallel  to  the  axis  of  the  disc  when  the  disc  is  rotated  about  its  centre. 
+
+2.5  Nominal  Size  —  The  overall  diameter  of  the  disc. 
+Note  —  For  other  terminologies  see  IS  :  9818  (  Part  2  )-198lt. 
+
+3.  TYPES 
+
+3.1  Concave  discs  shall  be  of  following  types: 
+
+a)  Plain  (  see  Fig,  1  ), 
+
+b)  Notched  (  see  Fig.  2  ),  and 
+
+c)  Flat  centred  (  see  Fig.  3  ). 
+
+4.  MATERIAL 
+
+4.1  The  steel  used  for  the  manufacture  of  disc  shall  conform  to  IS  :  9442- 
+1980t 
+
+
+♦Rules  tor  rounding  off  numerical  values  (  revised  ). 
+
+fGlossary  of  terms  relating  to  tillage  and  inter  cultivation  equipment:  Part  2  Terms 
+relating  to  equipment. 
+
+{Specification  for  hot  rolled  steel  plates,  sheets  and  strips  for  manufacture  of 
+agricultural  tillage  discs, 
+
+4 
+
+
+IS  :4366(  Part  1)  -1985 
+
+
+Fig.   I     Concave  Plain  Disc 
+
+
+Fig.  2     Concave  Notched  Disc 
+
+
+IS  :  4366  (  Part  1  )  -  1985 
+
+
+Fig.  3     Concave  Flat  Centred  Disc 
+
+4.2  The  manufacturer  shall  declare  the  grade  of  steel. 
+
+5.  HARDNESS 
+
+5.1  The  disc  shall  be  either  fully  or  partially  hardened. 
+
+5.2  The  fully  hardened  discs  shall  be  properly  and  uniformly  heat-treated 
+to  have  a  hardness  of  38  to  45  HRC;  the  equivalent  Brinell  and  Vickers 
+hardness  numbers  are  353  to  421  HB  and  373  to  446  HV  respectively. 
+Hardness  shall  be  tested  in  accordance  with  8  of  IS  :  9217-1979*. 
+
+5.3  The  partially  hardened  discs  shall  be  properly  heat  treated  so  as  to 
+give  a  circular  hardened  area  extending  inwards  from  the  outside  cutting 
+edge.  The  hardened  area  shall  cover  one-third  of  the  radius  of  disc, 
+subject  to  a  minimum  of  70  mm. 
+
+5.3.1  The  hardness  in  hardened  zone  shall  be  the  same  as  in  5.2. 
+
+5.4  The  hardness  values  in  the  area  defined  in  5.2  and  5.3  shall  not  differ 
+from  the  maximum  hardness  found  on  the  same  disc  by  more  than  10 
+percent. 
+
+6.  DIMENSIONS  AND  TOLERANCES 
+
+6.1  The  essential  dimensions  for  all  types  of  concave  discs  shall  be  as 
+given  in  Table  1. 
+
+6.2  Other  dimensions  for  notched  concave  discs  shall  be  as  given  in 
+Table  2. 
+
+
+•Test  code  for  agricultural  discs. 
+
+
+IS  :  4366  (  Part  1  )  -  1985 
+
+
+TABLE  1    ESSENTIAL  DIMENSIONS  OF  CONCAVE  DISCS 
+
+(  Clause  6. 1  and  Fig.  1  ) 
+
+All  dimensions  in  rnillimetres. 
+
+
+Sl  No. 
+
+NoMixAL  Size 
+
+Tjiickness,  A'lin 
+
+Concavity 
+
+A 
+
+B 
+
+C 
+
+CD 
+
+(2) 
+
+(3) 
+
+(4) 
+
+i) 
+
+250 
+
+2-50 
+
+12-5 
+
+ii) 
+
+280 
+
+2-50 
+
+16-5 
+
+iii) 
+
+315 
+
+3-15 
+
+20 
+
+iv) 
+
+355 
+
+3-15 
+
+27-5 
+
+V) 
+
+405 
+
+3-15 
+
+35 
+
+vi) 
+
+455 
+
+3-55 
+
+45 
+
+vii) 
+
+510 
+
+3-55 
+
+55 
+
+viii) 
+
+560 
+
+4-0     . 
+
+70 
+
+ix) 
+
+610 
+
+4-0 
+
+82-5 
+
+X) 
+
+660 
+
+5-0 
+
+100 
+
+xi) 
+
+710 
+
+6-0 
+
+115 
+
+xii) 
+
+760 
+
+80 
+
+135 
+
+xiii) 
+
+810 
+
+80 
+
+155 
+
+TABLE  2     OTHER  DIMENSIONS  FOR  NOTCHED  CONCAVE  DISCS 
+
+(  Clause  ^,2  and  Fig,  2  ) 
+All  dimensions  in  millimetres. 
+
+
+SlNo. 
+
+Disc  Size 
+
+Equality  Spaced 
+
+Notch 
+
+Notch 
+
+A 
+
+Notch  Numbers 
+
+Width 
+
+Dkpth 
+H 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+i) 
+
+250 
+
+5 
+
+70 
+
+26 
+
+ii) 
+
+280 
+
+5 
+
+70 
+
+26 
+
+iii) 
+
+315 
+
+6 
+
+70 
+
+26 
+
+iv) 
+
+355 
+
+7 
+
+70 
+
+26 
+
+V) 
+
+405 
+
+8 
+
+70 
+
+26 
+
+vi) 
+
+455 
+
+9 
+
+82 
+
+32 
+
+vii) 
+
+510 
+
+10 
+
+82 
+
+32 
+
+viii) 
+
+560 
+
+11 
+
+82 
+
+32 
+
+ix) 
+
+610 
+
+12 
+
+82 
+
+32 
+
+^) 
+
+660 
+
+13 
+
+95 
+
+45 
+
+xi) 
+
+710 
+
+14 
+
+95 
+
+45 
+
+xii) 
+
+760 
+
+15 
+
+95 
+
+45 
+
+xiii) 
+
+810 
+
+16 
+
+95 
+
+45 
+
+NOTE- 
+
+-  Notch  width  W  and  notch  depth  H  are  : 
+
+recommendatory. 
+
+IS:4366(Partl)-1985 
+
+6.3  Other  dimensions  for  flat  centred  concave  discs  shall  be  as  given   in 
+Table  3. 
+
+TABLE  3    OTHER  DIMENSIONS  FOR  FLAT  CENTRED  TYPE  DISCS 
+
+{  Clause  6.3  and  Fig.  3) 
+
+All  dimensions  in  millimetres. 
+
+
+SlNo. 
+
+Disc  Size 
+
+A 
+
+M 
+
+X 
+
+P 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+i) 
+
+250 
+
+50 
+
+100 
+
+22-5 
+
+n) 
+
+280 
+
+55 
+
+105 
+
+26-5 
+
+iii) 
+
+315 
+
+65 
+
+115 
+
+30 
+
+iv) 
+
+355 
+
+70 
+
+120 
+
+37-5 
+
+V) 
+
+405 
+
+80 
+
+130 
+
+50 
+
+vi) 
+
+455 
+
+90 
+
+140 
+
+60 
+
+vii) 
+
+510 
+
+100 
+
+150 
+
+70 
+
+viii) 
+
+560 
+
+no 
+
+160 
+
+85 
+
+ix; 
+
+6J0 
+
+120 
+
+170 
+
+102-5 
+
+^) 
+
+660 
+
+130 
+
+180 
+
+120 
+
+xi) 
+
+710 
+
+140 
+
+190 
+
+135 
+
+xii) 
+
+760 
+
+150 
+
+200 
+
+155 
+
+xiii) 
+
+810 
+
+160 
+
+210 
+
+180 
+
+6.4  The  tolerances  for  different  dimensions  of  the  discs  shall  be  as   given 
+in  Table  4. 
+
+6.5  The    dimensions   shall   be   checked    in    accordance  with   6   of  IS  : 
+9217-1979*. 
+
+%  HOLE  TYPES 
+
+7.1  The  holes  in  concave  discs  shall  be  of  the  following  types: 
+
+a)  Centre  square  hole  (  see  Fig.  4  ); 
+
+b)  Centre  circular  hole  with  keyway  (  see  Fig.  5  );  and 
+
+c)  Several  fixing  holes  with  or   without   central   circular    hole   (  see 
+Fig.  6  ), 
+
+1)  Fixing  holes  for  countersunk  bolt,  and 
+
+2)  Fixing  holes  for  rivets. 
+
+
+*Test  code  for  agricultural  discs. 
+
+
+IS  :  4366  (  Part  1 )  -  1985 
+
+
+SlNo. 
+
+
+Dimension 
+
+
+TABLE  4    TOLERANCES 
+
+(  Clause  6.4 ) 
+
+Tolerance 
+
+
+(1)  (2) 
+
+i)     Nominal  size,  A  (  mm  ) 
+
+Up  to  405 
+
+455  and  510 
+
+560 
+610  and  660 
+
+710 
+
+760 
+
+810 
+ii)     Thickness  B 
+
+
+in) 
+
+
+V) 
+
+
+(3) 
+
++  2 
+
+-  3 
+
++  3 
+„  4 
+
++  4 
+
+-  5 
+
++  4 
+
+-  5 
+
++  5 
+
+-  6 
+
++  5 
+-8 
+
+•f  10 
+
+-  12 
+
+Shall  conform  to  tolerance  specified 
+in  10.2  of  IS  :  9442-1980*. 
+However  the  actual  thickness 
+shall  not  fall  below  the  minimum 
+value  specified  in  Table  1 
+
+
+Concavity,  C  for   nomi- 
+nal size  (  mm  ) 
+
+Up  to  455 
+
+510  and  560 
+
+610 
+
+660 
+
+710 
+
+760 
+
+8i0 
+
+Central  hole    {  round  or 
+square  ) 
+
+Keyway 
+
+Fixing  hole: 
+
+a)    Square 
+12-5  mm 
+
+
+b) 
+
+
+Round 
+10*5  mm 
+
+
+2-5 
+
+3*5 
+
+5-0 
+
+6-5 
+
+80 
+
+10-0 
+
+12-5 
+
+1-5 
+0-0 
+
+1-0 
+0-0 
+
+
++  1-0 
+
+-  0-0 
+
++  0-50 
+
+-  0-00 
+
+
+♦Specification  for   hot-rolled 
+agricultural  tillage  discs. 
+
+
+steel   plates,   sheets  and    strips    for    manufacture   of 
+
+(  Continued ) 
+
+
+IS  :  4366  (  Part  1  )  -  1965 
+
+
+Sl 
+No. 
+
+(1) 
+vii) 
+
+
+Viii) 
+
+
+TABLE  4    TOLERANCES  —  Contd 
+
+Dimension  Tolerance 
+
+mm 
+
+
+ix) 
+
+
+(2) 
+
+Pitch       circle      diameter 
+(PCD  ) 
+
+Fixing  hole  position 
+
+The  centre  of  each  hole 
+should  be  withia  the 
+radius  of  nominal  po- 
+sition for  the  nominal 
+size  of  disc: 
+
+Below  610  mm 
+610  mm  and  above 
+
+Bevel  edge: 
+
+a)  Bevel  angle 
+
+b)  Bevel  length 
+
+
+(3) 
+±  1-0 
+
+
+±  0-5 
+
+±  1-0 
+
+
+±  2''  of  declared  angle 
+±  2  mm  of  declared  angle 
+
+
+Fig.  4     Disc  with  S<^uare  Hole 
+
+
+10 
+
+
+IS  :  4366  ( Part  1  )  -  1985 
+
+
+Fig.  5     Disc  with  Circular  Hole  with  Keyway 
+
+
+SECTION  AT  X 
+
+
+GA  COUNTERSUNK  UB   RIVET   HOLE 
+
+BOLT    HOLE 
+
+
+ENLARGED  DETAIL   AT  X 
+
+Fig.  6     Disc  with  Several  Fixing  Holes  with  or 
+Without  Centre  Hole 
+
+8.  HOLE  SIZES 
+
+8.1  Centre  Square  Hole  —  The  sizes  of  central  square  holes  shall  be 
+23,  26,  29,  31  and  33  mm.  Up  to  405  mm  size  discs,  the  hole  size  shall  be 
+not  more  than  26  mm. 
+
+8.2  Circular  Centre  Hole  with  Keyway 
+
+8.2.1  The  diameter  of  circular  hole  shall  be  65  mm. 
+
+8.2.2  The   keyway   size  (  see  a  X  b  in  Fig.  5  )  shall  be  15*0  X  15  0  or 
+16-0  X   18-0  mm. 
+
+
+11 
+
+
+!S  :  4366  (  Part  1  )  -  1985 
+
+8.3  Several  Fixing  Holes  With  or  Without  Circular  Centre  Hole 
+
+8.3.1  Central  Hole —  The  diameter  of  the  central  hole,  if  provided,  shall 
+be  2S'5,  3!,  51,  65  and  72  mm. 
+
+8.3.2  Pitch  Circle  Diameter  (  PCD  )  ~  The  pitch  circle  diameter   of  the 
+discs  shall  be  100,  210,  230,  290,  and  350  mm. 
+
+8.3.3  Number  of  Holes  —  The  number  of  fixing  holes  shall  be  four  holes 
+for  sizes  up  to  560  mm  and  five  holes  for  sizes  above  560  mm. 
+
+8.3.4  Size  of  Fixing  Holes 
+
+8.3.4.1  The  square  size  of  fixing  holes  for  12  mm  countersunk  bolt 
+shall  be  12*5  mm.  As  far  as  Dossible.  the  countersunk  bolt  of  M12  size 
+conforming  to  IS  :  2609-1972*  shall  be  used. 
+
+8.3.4.2  The  circular  size  of  fixing  holes  for  10  mm  rivet  shall  be 
+10*5  mm.  As  far  as  possible,  the  rivet  dimensions  shall  conform  to  the 
+requirements  as  stipulated  in  IS  :  2155-1982t. 
+
+8.4  Unless  otherwise  agreed  to  between  the  purchaser  and  the  supplier, 
+the  hole  type  and  size  for  different  sizes  of  discs  shall  preferably  be  as 
+given  in  Table  5, 
+
+8.5  The  dimensions  of  fixing  holes  and  pitch  circle  diameter  shall  be 
+measured  as  per  the  method  given  in  6  of  IS  :  92 17- 1979 J. 
+
+9.  OTHER  REQPIREMENTS 
+
+9.1  The  eccentricity  and  wobble  shall  not  exceed  the  values  given  in 
+Table  6  and  they  shall  be  measured  in  accordance  with  7.2  and  7.3  of 
+IS  :  9217-1979+. 
+
+9.2  When  tested  in  accordance  with  11  of  IS  :  9217-1979J  the  permanent 
+deflection  shall  not  exceed  5  mm  for  the  nominal  sizes  510  mm,  560  mm 
+and  610  mm. 
+
+9.3  When  tested  in  accordance  with  12  of  IS  :  9217-19791  the  disc  shall 
+meet  the  requirements  given  there  of  and  also  at  the  height  of  free  fall  of 
+1  500  mm  the  deflection  shall  not  exceed  8  mm  for  the  nominal  sizes 
+510  mm,  560  mm  and  610  mm. 
+
+9.4  The  thickness  of  the  cutting  edge  shall  be  reasonably  uniform.  The 
+edge  thickness  for  the  discs  below  560  mm  nominal  size  shall  be  between 
+0*2  to  I'O  mm  and  for  discs  of  nominal  size  560  mm  and  above  shall  be 
+between  0*5  to  1'5  mm. 
+
+
+♦Specification  for  coach  bolts  {Jirst  revision  ). 
+
+tSpecification  for  cold   forged  solid   steel  rivets   for   hot    closing   (6  to    16    mm 
+diameter  )  { first  revision  ). 
+
+JTest  code  for  agricultural  discs. 
+
+12 
+
+
+TABLE  5    HOLE  TYPE  AND  SIZE  FOR  DIFFERENT  SIZES  OF  DISCS 
+
+(  Clause  8.4  ) 
+
+Ail  dimensions  in  millimetres. 
+
+Sl        Disc  Csntbe  Centre  Several  Fixing  Holes 
+
+No.        Size  Square        Circular     , ^ „. . 
+
+Hole  Hole  With  Bolt  Fixing  With  Rivet  Fixing 
+
+Size  Size  < ^ ^    t * • 
+
+Centre  Pitch        Fixing     No.  of         Centre         Pitch       Fixing       No.  of 
+
+hole  dia      circle        hole        holes  hole  dia       circle        hole  holes 
+
+(if     re-      dia  size  (  if  re-  dia  size 
+
+quired  )  quired  ) 
+
+(1)  (2)  (3)  (4)  (5)  (6)  (7)  (8)  (9)  (10)  (11)         (12) 
+
+
+i) 
+
+250 
+
+23 
+
+— 
+
+— 
+
+— 
+
+— 
+
+^„ 
+
+ii) 
+
+280 
+
+23 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+iii) 
+
+315 
+
+23,26 
+
+— 
+
+— 
+
+— 
+
+_ 
+
+— 
+
+iv) 
+
+355 
+
+26 
+
+„ 
+
+™ 
+
+— 
+
+™ 
+
+— 
+
+V) 
+
+405 
+
+26 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+vi) 
+
+455 
+
+26,29 
+
+65 
+
+— 
+
+— 
+
+— 
+
+— 
+
+vii) 
+
+510 
+
+26,  29,  31 
+
+65 
+
+__ 
+
+_ 
+
+— 
+
+— 
+
+viii) 
+
+560 
+
+29,31 
+
+65 
+
+
+
+
+
+
+
+
+
+ix) 
+
+610 
+
+29,31 
+
+65 
+
+28-5,  31 
+
+210,  230 
+
+12-5 
+
+5 
+
+X) 
+
+660 
+
+31,33 
+
+65 
+
+28-5,  31 
+
+210,  230 
+
+12-5 
+
+5 
+
+xi) 
+
+710 
+
+__ 
+
+— 
+
+28-5,31 
+
+230,  290 
+
+12-5 
+
+5 
+
+xii) 
+
+760 
+
+— 
+
+— 
+
+28-5,31 
+
+290,  350 
+
+12-5 
+
+5 
+
+xiii) 
+
+810 
+
+— 
+
+— 
+
+— 
+
+350 
+
+12-5 
+
+5 
+
+51 
+
+100 
+
+10-5 
+
+4 
+
+65 
+
+100 
+
+10-5 
+
+4 
+
+72 
+
+100 
+
+10-5 
+
+4 
+
+w 
+
+
+IS  :  4366  (  Part  1  )  •  1985 
+
+
+TABLE  6    ECCENTRICITY  AND  WOBBLE  IN  CONCAVE  DISCS 
+
+{Clause  9  A  ) 
+All  dimensions  in  millimetres. 
+
+
+Sl        Nominal  Sizs 
+
+Eccentricity, 
+
+Wobble, 
+
+No. 
+
+Max 
+
+Max 
+
+(1)                  (2) 
+
+(3) 
+
+(4) 
+
+i)     Up  to  355 
+
+1-5 
+
+3=0 
+
+ii)     405 
+
+2-5 
+
+4-5 
+
+iii)    455  to  560 
+
+3-0 
+
+6-0 
+
+iv)     610  and  660 
+
+40 
+
+6-0 
+
+v)     710 
+
+8-0 
+
+9-5 
+
+vi)     760  and  810 
+
+80 
+
+12-5 
+
+9.5  The  cutting  edge  of  the  disc  shall  be  bevelled  on  one  side  or  both 
+sides  as  specified  by  the  purchaser.  The  bevelling  may  have  single 
+or  double  (stepped)  angle  on  one  or  both  sides  as  specified  by  the 
+purchaser. 
+
+Note  —  For  the  guidance  of  the  purchaser   and  the   manufacturer,   some  of  the 
+common  values  of  bevel  angle  and  length  are  given  below: 
+
+a)  Bgvel  Angle 
+
+i)  For  single  angle  ^  30*  or  40° 
+
+ii)  For  stepped  angle  50'-j25%  60°/30°,  65^/32%  657'45* 
+
+h)  Bevel  Length  22  mm,  Max 
+
+9.6  The  radius  of  concavity  shall  be  a  true  radius. 
+
+9.7  Square  holes  shall  be  square  and  smooth.  The  corners  of  the  square 
+holes  shall  be  rounded. 
+
+9.8  The  crown  of  the  keyway  shall  be  rounded. 
+
+9.9  The  fixing  holes  shall  be  equally  spaced  on  pitch  circle  diameter. 
+
+10.  DESIGNATION 
+
+10.1  A  disc  shall  be  designated  by  its  type,  nominal  size  and  thickness. 
+
+Example: 
+
+Concave  disc,  plain  edge,  560  mm   nominal   size,   and   4*0   mm 
+thickness,  shall  be  designated  as: 
+
+Plain  Concave  Disc  560/4-0/IS  :  4366  (  Part  I ) 
+
+14 
+
+
+IS  :  4366  (  Part  1 )  -  1985 
+
+11.  WORKMANSHIP  AND  FINISH 
+
+11.1  Both  the  surfaces  of  the  discs  shall  be  free  from  cracks  and  shall  be 
+reasonably  free  from  flaws,  such  as  seams,  scales,  pits,  burrs  and  nicks. 
+
+11.2  The  discs  shall  be  free  from  rust  and  shall  have  a  protective  coating 
+which  will  prevent  surface  deterioration  in  transit  and  storage. 
+
+12.  MARKING  AND  PACKING 
+
+12.1  Marking  — -  Each  disc  shall  be  legibly  punched  or  stamped  on 
+the  non- wearing  portion  of  the  disc  with  the  following  particulars: 
+
+a)  Manufacturer's  name  or  recognized  trade-mark,  if  any;  and 
+
+b)  Batch  or  code  number. 
+
+12.1.1  Each  disc  may  also  be  marked  with  the  ISI  Certification  Mark. 
+
+Note  —  The  use  of  the  ISI  Certification  Mark  is  governed  by  the  provisions  of  the 
+Indian  Standards  Institution  (  Certification  Marks  )  Act  and  the  Rules  and  Regu- 
+lations made  thereunder.  The  ISI  Mark  on  products  covered  by  an  Indian 
+Standard  conveys  the  assurance  that  they  have  been  produced  to  comply  with  the 
+requirements  of  that  standard  under  a  well-defined  system  of  inspection,  testing  and 
+quality  control  which  is  devised  and  supervised  by  ISI  and  operated  by  the  producer. 
+ISI  marked  products  are  also  continuously  checked  by  ISI  for  conformity  to  that 
+standard  as  a  further  safeguard.  Details  of  conditions  under  which  a  licence  for  the 
+use  of  the  ISI  Certification  Mark  may  be  granted  to  manufacturers  or  processors, 
+may  be  obtained  from  (he  Indian  Standards  Institution. 
+
+12.2  Packing  —  Discs  of  the  same  type,  size,  thickness  and  concavity 
+shall  be  packed  in  bundles  of  5  or  as  specified  by  the  purchaser  for 
+convenience  and  safe  handling  in  transit. 
+
+13.  SAMPLING  AND  ACCEPTANCE 
+
+13.1  Unless  otherwise  agreed  to  between  the  purchaser  and  the  supplier, 
+the  sampling  of  the  agricultural  tillage  discs  for  lot  acceptance  shall  be 
+done  in  accordance  with  3  of  IS  :  7201-1974*. 
+
+
+♦Methods  of  sampling  of  agricultural  machinery  and  tractors. 
+
+15 
+
+
+IS  !  4366  {  Part  1  )  -  1985 
+
+APPENDIX     A 
+
+(  Clause  0.3  ) 
+SPECIFICATION  SHEET 
+
+1.  Name  of  the  purchaser 
+
+2.  Address 
+
+3-  Type  of  disc  required  (  see  3.1  ): 
+
+a)  Plain 
+
+b)  Notched 
+
+i)  Notch  width  (  W  ) 
+ii)  Notch  depth  (//) 
+
+c)  Flat  centred: 
+
+i)  Diameter  of  flat  portion  only  (  M  ) 
+ii)  Diameter  of  flat  portion  including  slopes  (  N) 
+iii)  Lowest  depth  at  centre  including  concavity  (  P  ) 
+
+4.  Fully  or  partially  hardened  {see  5) 
+
+5.  Hole  type  (  see  7.1  ) 
+
+6.  Hole  size  {see^) 
+
+7.  Bevel  edge  (  see  9.5  ): 
+
+a)  One  side  or  both  sides 
+
+b)  Single  or  stepped 
+
+c)  Bevel  angle 
+
+d)  Bevel  length 
+
+8.  Designation  of  disc  (  see  10.1  ) 
+
+9.  Any  other  requirement 
+
+
+16 
+
+
+m 
+
+
+trjDJAK     STANDARDS     INSTITUTIQIU 
+
+
+Manak  Bhavfin,  3  Bahadur  Shah  Zsfar  Marg^  NEW  DELHI  It 0002 
+
+Tetaphones  -3  31  01  31,  3  31  13  75  Telegrams  :  Manaksanstho 
+
+(  Common  Ig  a|k  Of  frees  ) 
+
+Regional  Offices  :  T^hphone 
+
+•Western  :  Manakslav^.  E9  Ml  DC,  Marol.  Andheri  {  Easi ),     6  32  92  25 
+BOMBAY  400U93 
+
+tESfitem    :  1i14  C.  I.  T.  Scfieme  V[l  M,  V.  I.  P.  Road. 
+Maniktola,  CALCUTTA  700054 
+
+Southern  :  C,  L  T.  Campus,  MADRAS  600113 
+
+Northern   :  B69  Phase  VII,  Indusmal  Focdl  Poim 
+S.  A,  S,  NAGAR  1600&1  t  Punjab  J 
+
+Branch  Offices  : 
+
+'PuSihpak',  Nurmohamed  ShaiXh  Mflig,  Khanpuf. 
+
+AhMADABAO  380001 
+'F'  BlnKk,  Unity   Bldtj,   Narasimharaja   Square, 
+
+BANGALORE  660002 
+
+Gangotri  Complex,  Qhadbhada  Road,  r  L  Nagar. 
+BHOPAL  462003 
+
+22EKalpana  Area,  8HUBANESHWAR  751014 
+5-S-56C  L  N.  Gupta  Marg,  HYDERABAD  500001 
+R14  Yiidhlster  Marg,  C  Scheme,  JAIPUR  302005 
+117/418  B  Sarvodaya  Nagar,  KAN  PUR  208005 
+Patliputre  Industrial  Estate,  PATNAS00013 
+Ham«K    Qldg    (2nd    Floor  ),    Rly   Station    R<3d3d. 
+TRIVANDBUM  695001 
+
+inspection  Offict;  {  With  Sale  Point  )  : 
+
+InstilutiDn  of  Engineers  {  India  }  Building,  13^32  Shivaji  Nagar     5  24  3^ 
+PUNE  410005 
+
+« Sales  Office  In  Bormbay  !»  ai  Noveriy  Cliaml3«re,  Grant    tiaati,       09  G&  2a 
+
+Uuint>By  -^  00007 
+tsaLes  bilica  lu  Calcui[a  la  til  5  CtiowilngljiiB  Approach,  P.  0.  fdmcflp     27  $S  QQ 
+
+Street,  Cslcutte  7iiO072 
+
+E^ini«d  a,|,Pr£ntPflriphr  Ha  wlbfllhi,  India 
+
+
+30  24  99 
+
+41  24  42 
+
+a  73  28 
+
+J 2  63  4a 
+12  63  49 
+
+22  48  05 
+
+627  15 
+
+5  36  2? 
+
+22  10  83 
+
+6  9S  32 
+
+4  72  92 
+
+6  23  05 
+
+32  27 
+

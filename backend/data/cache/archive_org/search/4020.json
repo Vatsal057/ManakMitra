@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":23,"params":{"query":"identifier:gov.in.is.4020.*","qin":"identifier:(gov.in.is.4020.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.4020.1-16.1998","title":"IS 4020-1 to 16: Door Shutters - Methods of Tests"}]}}

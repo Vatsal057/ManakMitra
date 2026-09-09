@@ -1,0 +1,1556 @@
+**************** 
+
+
+
+* tOT£ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+IS 514 (1992) : Textiles - Mercerized cotton fabrics for 
+covering aircrafts and gliders [TXD 13: Textile Materials 
+for Aerospace Purposes] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+5fR TT^ ^TT <sMHI | *ft ^fft ^TRT ^ff ^TT ^T^fT )f 
+
+Bhartrhari — Nltisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+<*i *3f», 
+
+
+
+
+*?W!& 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 514: 1992 
+
+2008 
+( tfWTT <Jt3"STW ) 
+
+Indian Standard 
+
+TEXTILES - MERCERIZED COTTON FABRICS 
+FOR COVERING AIRCRAFTS AND GLIDERS — 
+
+SPECIFICATION 
+
+( Third Revision ) 
+
+
+
+UDC 677-217-074 : 629734 
+
+
+
+© BIS 1992 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+August 1992 Price Group 3 
+
+
+
+AMENDMENT NO. 1 NOVEMBER 2000 
+
+TO 
+
+IS 514 : 1992 TEXTILES — MERCERIZED COTTON 
+
+FABRICS FOR COVERING AIRCRAFTS AND 
+
+GLIDERS — SPECIFICATION 
+
+(Third Revision) 
+
+( Page 2, Table 1, col 9, Heading ) — Substitute the following for the 
+existing: 
+
+'Breaking Load 
+on 5cm x 20 cm 
+
+Strips, 
+
+Mm' 
+
+
+
+(TX13) 
+
+
+
+Textile Materials for Aerospace Purposes Sectional Committee, TX 13 
+
+
+
+FOREWORD 
+
+This Indian Standard ( Third Revision ) was adopted by the Bureau of Indian Standards, after 
+the draft finalized by Textile Materials for Aerospace Purposes Sectional Committee had been 
+approved by the Textile Division Council. 
+
+The second revision of this standard was published in the year 1978, and has now been revised on 
+the basis of experience gained during its use. The following are the main changes carried out: 
+
+a) Nominal widths specified have been modified on the basis of present requirements. 
+
+b) Requirement of maximum permissible percentage of total of sizing, finishing and other 
+nonfibrous materials has been included. 
+
+c) Reference has been made to IS 11662 : 1986 for the purpose of carrying out rot-proofness. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, 
+the final value, observed or calculated, expressing the result of a test or analysis, shall be rounded 
+off in accordance with IS 2 : 1960 'Rules for rounding off numerical values (revised)'. The 
+number of significant place retained in the rounded off value should be the same as that of the 
+specified value in this standard. 
+
+
+
+IS 514 : 1992 
+
+
+
+Indian Standard 
+
+
+
+TEXTILES - MERCERIZED COTTON FABRICS 
+
+FOR COVERING AIRCRAFTS AND GLIDERS — 
+
+SPECIFICATION 
+
+Third Revision ) 
+
+
+
+1 SCOPE 
+
+1.1 This standard prescribss the requirements 
+■of four grades of mercerized cotton fabrics for 
+covering aircraft and glider surfaces such as 
+wings, fuselage, ailerons, elevators and other 
+airfoil surfaces: 
+
+2 REFERENCES 
+
+2.1 The following Indian Standards are necessary 
+adjuncts to this standard: 
+
+
+
+IS No. 
+199 : 1989 
+
+
+
+1390 : 1983 
+
+1954 : 1990 
+
+1963 : 1981 
+
+1964 : 1970 
+
+1969 : 1985 
+
+3919 : 1966 
+
+5463 : 1969 
+
+6359 : 1971 
+11662 : 1986 
+
+
+
+Title 
+
+Textiles — Estimation of mois- 
+ture, total size or finish, ash, 
+and fatty matter in grey and 
+finished cotton textile materials 
+( third revision ) 
+
+Methods for determination of 
+pH value of aqueous extracts 
+of textile materials ( first 
+revision ) 
+
+Method for determination of 
+length and width of fabrics 
+( second revision ) 
+
+Methods for determination of 
+threads per unit length in 
+woven fabrics ( second revision ) 
+
+Methods for determination of 
+weight per square metre and 
+weight per linear metre of 
+fabrics ( first revision ) 
+
+Methods for determination of 
+breaking load and elongation 
+of woven textile fabrics ( second 
+revision ) 
+
+Methods of sampling of cotton 
+fabrics for determination of 
+physical characteristics 
+
+Methods of sampling of cotton 
+fabrics for chemical character- 
+istics 
+
+
+
+Method 
+textiles 
+
+
+
+of conditioning of 
+
+
+
+Preservative 
+textiles 
+
+
+
+treatments 
+
+
+
+of 
+
+
+
+3 MANUFACTURE 
+
+3.1 Yarn 
+
+The cotton yarn used shall be combed, evenly 
+spun and preferably mercerized, and it shall be 
+free from leaf particles, neps, snarls, slubs, etc. 
+
+3.2 Fabric 
+
+The fabric shall be woven in plain weave with 
+firm and regular selvedges. It shall be calender- 
+ed and mercerized ( if yarn used is not merce- 
+rized ). The calendering shall be sufficient to 
+lay any nap present to provide smooth and even 
+surface. Nap, if present, shall be removed by 
+singeing. 
+
+3.2.1 The fabric shall be rot-proofed or finished 
+for doping as required by the buyer. 
+
+3.3 Sot-Proofing 
+
+The fabric shall be rendered rot-proofed by 
+treating with pentachlorophenyl laurate 
+( PCPL ), ( normal process ) in accordance with 
+IS 11662 : 1986. 
+
+4 REQUIREMENT 
+
+4.1 The fabric shall conform to the requirements 
+specified in Tables 1 and 2. 
+
+4.2 Dimensions 
+
+Unless otherwise specified, the length and width 
+of the fabric shall be as given in Table 1. 
+
+4.3 If required by the buyer, the fabric, after 
+dope finish shall withstand the tests and corres- 
+ponding requirements given in Annex A. 
+
+4.4 Sealed Sample 
+
+If in order to determine characteristics such as 
+appearance, smoothness and other requirements 
+not covered under this standard, a sample has 
+been agreed and sealed, the supply shall also 
+conform to the sealed sample in such respects. 
+
+4.4.1 The custody of sealed sample shall be a 
+matter of prior agreement between the buyer 
+and the seller. 
+
+5 INSPECTION 
+
+5.1 The cloth shall be inspected by the method 
+given in Annex B. The permissible number of 
+
+
+
+1 
+
+
+
+IS 514 : 1992 
+
+
+
+Table 1 Physical Requirements of Aircraft Fabrics 
+
+( Clauses 4.1 and 4.2 ) 
+
+
+
+Grade 
+
+
+Length 
+
+
+Width 
+
+
+Nominal Count of Yarn* 
+
+
+Ends/" 
+dm 
+
+
+Picks/ 
+dm 
+
+
+Mass, 
+Max 
+
+
+Beaking 
+
+Load on 
+
+SO X 20 cm 
+
+
+Suitable for 
+
+Aircraft 
+Surface with 
+
+
+
+
+
+
+
+
+Warp 
+
+
+Weft 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strips, Min 
+
+
+Wind Loading. 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7) 
+
+
+(8) 
+
+
+(9) 
+
+
+(10) 
+
+
+
+
+
+
+mm 
+
+
+tex ( cotton 
+
+
+tex ( cotton 
+
+
+
+
+
+
+g/m« 
+
+
+N 
+
+
+N/m» 
+
+
+
+
+
+
+900 ± 12 
+
+
+count ) 
+
+
+count ) 
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+t 
+
+
+or 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+j 
+
+
+1100 ± 15 
+
+
+10 tex x 2 
+
+
+10 tex x 2 
+
+
+330 
+
+
+330 
+
+
+140 
+
+
+715 
+
+
+431 and above 
+
+
+2 
+
+
+50 m 
+
+
+or 
+
+
+( 60 s/2 ) 
+
+
+( 60 s/2 ) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unless 
+
+
+1500 ± 25 
+
+
+10 tex x 2 
+
+
+10 tex X 2 
+
+
+330 
+
+
+330 
+
+
+140 
+
+
+530 
+
+
+382-430 
+
+
+3 
+
+
+otherwise 
+specified 
+
+
+or as 
+specified 
+
+
+(60s'2) 
+
+
+( 60 s/2 ) 
+
+
+
+
+
+
+
+
+
+
+
+
+4 
+
+
+1 
+
+
+in the con- 
+
+
+10 tex ( 60 s ) 8-5 tex ( 70 s 
+
+
+) 390 
+
+
+390 
+
+
+100 
+
+
+440 
+
+
+Up to 382 
+
+
+
+
+tract or 
+order 
+
+
+10 tex ( 60 s ) 
+
+
+9 tex ( 65 s ) 
+
+
+380 
+
+
+380 
+
+
+85 
+
+
+295 
+
+
+
+
+Tolerance 
+
+
+
+
+— 
+
+
+— 
+
+
++ 20 
+
+
++ 20 
+
+
+— 
+
+
+— 
+
+
+— 
+
+
+
+
+
+
+
+
+— 
+
+
+— 
+
+
+— 10 
+
+
+— 10 
+
+
+— 
+
+
+— 
+
+
+— 
+
+
+Methods of Test 
+
+
+IS 1954 : 1969 
+
+
+
+
+IS 1963 : 1969 
+
+
+IS 1964 
+
+
+: IS 1969 : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1970 
+
+
+1985 
+
+
+
+
+
+•For guidance only. 
+
+defects shall be 1 major and 3 minor 
+20 metres of continuous fabric length. 
+
+
+
+per 
+
+
+
+MOTE — When calculating from the observed 
+number of defects in a roll of fabric, the number 
+of defects per 20 m shall be rounded off to the 
+nearest whole number. 
+
+6 PACKING 
+
+(!6»1 The fabric shall be packed in roll form in 
+siffch a manner so as to prevent permanent 
+
+
+
+Table 2 Chemical Requirements of 
+Aircraft Fabric 
+
+( Clause 4.1 ) 
+
+
+
+SI Characteristics Require- 
+No. ment 
+
+(1) (2) (3) 
+
+i) pH value 6-0 to 8-0 
+
+ii) Sizing, finishing, other 3-5 
+
+non-fibrous materials, 
+
+percent, Max 
+iii) Rot-proofness: Penta- 1*7 to 2*5 
+
+chlorophenyl laurate 
+
+content, percent 
+
+
+
+Method of Test 
+
+(4) 
+IS 1390 : 1983 
+IS 199 : 1989 
+
+
+
+Appendix C of 
+IS 11662: 1986 
+
+
+
+distortion and damage from exposure to mois- 
+ture, weathering, etc, during transportation and 
+storage; or according to requirements of the 
+buyer. 
+
+7 MARKING 
+
+7.1 Each package of fabric shall be marked with 
+the following informations: 
+
+a) Name of the fabric and grade, 
+
+b) Length ( m ), width ( mm ), 
+
+c) Indication of the source of manufacturer, 
+and 
+
+d) Lot number and date of manufacture. 
+
+7.1.1 The fabric may also be marked with the 
+Standard Mark. 
+
+8 SAMPLING 
+
+8.1 Unless otherwise agreed, the procedure for 
+sampling for testing physical and chemical 
+characteristics shall be as given in IS 3919 : 1966 
+and IS 5463 : 1969 respectively. 
+
+
+
+ANNEX A 
+( Clause 4.3 ) 
+
+DOPING SPECIFICATIONS AND TESTS 
+
+
+
+A-l TEST FRAME 
+
+A-l.l The test frame should be strong rect- 
+angular wooden frame reinforced with metal 
+to prevent warping. It shall measure 25 x 25 cm 
+internally and have 2 holes, 5 cm in diameter, 
+bored through one of the sides. A piece of 
+
+
+
+13 mm thick 5-ply plywood with a central hole 
+25 mm in diameter, shall be screwed to one face 
+( see Fig. 1 ). The frame shall be covered on 
+the plywood face with linen fabric under a 
+tension of approximately 360 gf/cm width in the 
+warp direction and 180 gf/cm width in the weft 
+direction. 
+
+
+
+A-2 CONDITIONING 
+
+
+
+
+Fig. 1 Test Frame for Doped Fabric 
+
+
+
+A-2.1 Condition 
+stipulated time, 
+
+
+
+the test specimens for the 
+in the standard atmosphere 
+
+
+
+IS 514 : 1992 
+
+( 65 ± 2 percent relative humidity and tempe- 
+rature of 27 ± 2°C ). 
+
+NOTE — ■ Guidance on conditioning is available in 
+IS 6359 : 1971. 
+
+A-3 RESISTANCE TO HIGH 
+TEMPERATURE 
+
+A-3.1 The number of test specimens shall be 
+one for each tautening dope included in the 
+doping scheme in addition to the one for 
+complete doping scheme. 
+
+A-3.2 Procedure 
+
+Apply tautening dope uniformly on each of the 
+test specimens held on individual test frames 
+( see B-l.l ) to impart the coating mass of 120 ± 
+15 g/m 2 when measured after drying to constant 
+tautening with both the fabric surfaces freely 
+exposed to air. 
+
+A-3.2.1 Apply the complete doping scheme 
+( see Table 3 ) to the test specimen meant 
+for it. 
+
+A-3.2.2 Cut a strip 15 x 2' 5 cm Min in the 
+warp direction from each of the doped test 
+specimens and heat it for 4 days ( 96 hours, 
+Min ) at a temperature of 95°C Min, cool to 
+room temperature and bend it along weft around 
+a mandrel moving the strip through minimum 
+of 15 cm over it during bending operation. The 
+diameter of the mandrel shall be 3 '2 mm in the 
+case of black finish and 1*6 mm in other cases. 
+
+A-3.3 There shall be no sign of cracking of the 
+dope film(s). 
+
+
+
+Table 3 Doping Specifications 
+
+( Clause A-3.2.1 ) 
+
+
+
+
+
+
+
+Tautness 
+
+
+
+
+
+
+Low 
+
+
+Medi 
+
+
+um 
+
+
+Hi 
+
+
+ih 
+
+
+Dry 
+
+mass 
+
+
+Normal 
+number 
+of coats 
+
+
+Dry 
+
+mass 
+
+
+Normal 
+number 
+of coats 
+
+
+Dry 
+
+mass 
+
+
+Normal 
+number 
+of coats 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7) 
+
+
+g/m 1 " 
+
+68-0 ± 13-5 
+340 ± 7-0 
+
+34-0 ± 7-0 
+
+
+3 or 4 
+2 
+
+1 or 2 
+
+
+g/m 2 
+68-0 ± 13-5 
+
+34-0 ± 7-0 
+34-0 ± 7-0 
+
+
+3 
+
+2 
+1 or 2 
+
+
+g/m" 
+
+25-5 ± 5-0 
+
+161-0 ± 32'0 
+
+34-0 ± 7-0 
+34 ± 7-0 
+
+
+1 
+6 or 7 
+
+2 
+1 or 2 
+
+
+34-0 ± 7-0 
+
+
+1 or 2 
+
+
+340 ± 7-0 
+
+
+1 or 2 
+
+
+34-0 ± 7-0 
+
+
+1 or 2 
+
+
+68-0 ± 13-5 
+34-0 ± 7'0 
+34-0 ± 70 
+
+
+3 or 4 
+
+2 
+1 or 2 
+
+
+102-0 ± 20-5 
+
+34-0 ± 7-0 
+34-0 ± 7-0 
+
+
+4 
+
+2 
+1 or 2 
+
+
+25-5 ± 5-0 
+
+195-0 ± 390 
+
+34-0 ±70 
+
+34 ± 7-01 
+
+
+1 
+8 
+2 
+or 2 
+
+
+
+Description of Components 
+
+
+
+(1) 
+
+For all finishes other than aluminium 
+Red oxide tautening dope 
+Transparent tautening dope 
+Aluminium non-tautening finish 
+Aluminium tautening dope 
+Pigmented non-tautening finish 
+
+( Note 1 ) 
+Transparent non-tautening finish 
+
+( Note 2) 
+
+For an aluminium finish 
+Red oxide tautening dope 
+Transparent tautening dope 
+Aluminium non-tautening finish 
+Transparent non-tautening finish 
+( Note 2 ) 
+
+NOTES 
+
+1 For colour and finish matching purposes only, a mass addition of not more than 68 g/m 2 shall be permitted 
+for yellow, white and sky blue finishes. 
+
+2 Only when a glossy finish is required. 
+
+
+
+IS 514 : 1992 
+
+
+
+A-4 RESISTANCE TO NATURAL 
+WEATHERING 
+
+A-4.1 There shall be only one specimen for this 
+test, protected at the back of the frame with a 
+covering of waterproof material. 
+
+A-4.2 Procedure 
+
+A-4. 2.1 Freely expose the frame to maximum 
+sunlight in the open for 6 months including at 
+least 2 months from the period of May to August. 
+
+A-4.2.2 During exposure period, examine the 
+frame at least once a day for adhesion of dope, 
+cracks, etc, and its behaviour in dry and wet 
+weather. Also examine tautness once a week. 
+
+A-4.2.3 After exposure for 6 months, cut from 
+the fabric in the warp direction, 6 test specimen 
+2'5 cm wide and sufficient long to allow 20 cm 
+between the jaws of a suitable tensile testing 
+machine, condition them for 24 hours in stan- 
+dard atmosphere and then determine the tensile 
+strength. Also determine, by the same method 
+and under the same atmospheric conditions, the 
+tensile strength of a piece of untreated fabric 
+cut from the same length of fabric which was 
+held on frame. 
+
+A-4.3 There shall be no cracking, clipping, 
+flaking or blistering of the film, slight chalking 
+be disregarded. The change in colour shall not 
+be too apparent and the underlying coats shall 
+not be visible through final finishing colour. 
+The breaking strength and tautness shall not 
+be impaired. 
+
+A-5 TAUTNESS PROPERTIES 
+
+A-5.1 The number of test specimens shall be 
+one each for the tautening dopes included in 
+the doping scheme. 
+
+A-5.2 Procedure 
+
+A-5.2.1 Apply each tautening dope uniformly to 
+the individual test specimen held on the frame 
+to impart it a coating mass of 120 ± 15 g/m a 
+measured after drying to constant tautness, both 
+the surfaces of the fabric freely exposed to air. 
+
+A-5.2.2 Measure tautness by any approved 
+method, however, in case of dispute the follow- 
+ing reference method shall be used: 
+
+After conditioning the test specimen in the 
+standard atmosphere for 2 hours, minimum, 
+fit the frame with an air-tight back in a condi- 
+tioned room. Connect it, through the holes 
+at its side, to a suitable manometer and a 
+water pump, adjusted to reduce the air pres- 
+sure inside the frame by 5 cmH2Q, including 
+a large air reservoir to smooth out variations 
+in the pressure. Measure the resulting depres- 
+sion {d) at the centre of the circle of un- 
+supported fabric, using any instrument 
+accurate to read in 0"025 mm units and that 
+
+
+
+does not impose a load exceeding 5 g on the 
+area of unsupported fabric. 
+
+The tautness ( T) in the doped fabric is given 
+by the equation: 
+
+T = -|- kgf/cm 2 
+
+where d is depression read in millimetres. 
+
+A-5.2.3 Determine the mass of added dope by 
+the following method: 
+
+Cut minimum area of 250 cm 2 from the circle 
+of unsupported doped fabric. Weigh it, 
+remove the dope by suitable solvents and 
+weigh it again- Record the difference in 
+mass (A). Cut a piece of undoped fabric of 
+the same area from the same length as was 
+used to cover the test frame. Weigh it, apply 
+the same solvent treatment as before under 
+the same atmospheric conditions and weigh 
+it again. Record the difference in mass (B); 
+apply (B) as a correction to (A) and calculate 
+the mass in g/m 2 of the dope. 
+
+A-5. 3 The taughtness acquired by the mercerized 
+fabric shall be - 002 to 0'003 kgf/cm 3 per g/m 2 
+of the dope in case of low doping and 0003 to 
+- 004 kgf/cm 2 per g/m 2 of the dope for medium 
+and high doping. 
+
+A-6 FREEDOM FROM FILM DEFECTS 
+
+A-6.1 Testing Atmosphere 
+
+The test shall be conducted at 
+
+a) Relative humidity of 65-70 percent, 
+
+b) Temperature of 25-29°C, and 
+
+c) Air speed of a 1 m/s. 
+
+A-6.2 Procedure 
+
+A-6.2.1 Condition the test frames, samples of the 
+dopes and finishes to be tested, and the brushes 
+to be used for application in the testing atmos- 
+phere in A-6.1 for 2 hours, Min. 
+
+A-6.2.2 Dope the fabric with the materials as 
+follows: 
+
+a) Apply by brush application, one full coat 
+of each taughtening dope included in the 
+doping scheme to an individual test 
+piece. 
+
+b) When testing non-tautening finishes, 
+apply one full coat of the finish, thinning 
+wherever appropriate, to a test piece pre- 
+viously tautened with the doping scheme 
+in accordance with Table 3 . 
+
+A-6.2.3 Allow to dry under the test conditions 
+and then examine visually. 
+
+A-6.3 The dopes shall be free from blushing, 
+wrinkling, gubbling, etc. 
+
+
+
+IS 514 : 1992 
+
+A-7 KEEPING QUALITIES original properties for a minimum of 6 months 
+
+in tropical climate and minimum of 12 months 
+A-7.1 The doped mercerized fabric stored in i n temperate climate, 
+the original sealed condition shall retain its 
+
+
+
+ANNEX B 
+( Clause 5.1 ) 
+
+INSPECTION AND TAGGING OF DEFECTS 
+
+
+
+B-l INSPECTION 
+
+
+
+B-l.l Each cut shall be inspected under trans- 
+mitted light for defects by passing the fabric, 
+metre by metre, over 'light rails' or an artificial 
+light table. 
+
+B-2 CATEGORIES OF DEFECTS 
+B-2.1 Major Defects 
+
+The following shall constitute major defects: 
+
+a) Bad floats of more than one end or more 
+than one picks, 
+
+b) Bad slubs ( warp or weft ), 
+
+c) Weft snarls, 
+
+d) Thin places ( due to starting or stopping 
+the loom or rip cuts), 
+
+e) Broken ends or picks, 
+
+f ) Torn or wavy selvedges, 
+
+g) Holes, 
+
+h) Spots of oil, and 
+
+j) Such other defects as are obviously 
+detrimental to strength, durability or use 
+of the fabric. 
+
+
+
+NOTE — Such of the above defects as are obvi- 
+ously not detrimental to strength, durability or 
+use of the fabric, shall be considered as minor 
+defects. 
+
+B-2.2 Minor Defects 
+
+The following shall constitute as minor defects: 
+
+a) Neps, 
+
+b) Small slubs, 
+
+c) Small snarls, 
+
+d) Loose ends, 
+
+e) Single end cut, and 
+
+f) Such other defects as are obviously not 
+detrimental to strength, durability or use 
+of the fabric. 
+
+B-3 TAGGING 
+
+B-3.1 All major defects shall be tagged by 
+sewing red thread in the selvedge opposite the 
+defects. 
+
+B-3.2 All minor defects shall be tagged by 
+sewing blue thread in the selvedge opposite the 
+defects. 
+
+B-3.3 All tags shall be affixed only on one side 
+of the roll. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian Standard conveys the assurance that they have been produced 
+to comply with the requirements of that standard under a well denned system of inspection, 
+testing and quality control which is devised and supervised by BIS and operated by the pro- 
+ducer. Standard marked products are also continuously checked by BIS for conformity to 
+that standard as a further safeguard. Details of conditions under which a licence for the use 
+of the Standard Mark may be granted to manufacturers or producers may be obtained from 
+the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of 
+goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in 
+any form without the prior permission in writing of BIS. This does not preclude the free use, in 
+the course of implementing the standard, of necessary details, such as symbols and sizes, types or 
+grade designations. Enquiries relating to copyright be addressed to the Director ( Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if any, 
+are issued from time to time. Users of Indian Standards should ascertain that they are in possession 
+of the latest amendments or edition. Comments on this Indian Standard may be sent to BIS giving 
+the following reference : 
+
+Doc : No. TXD 13 ( 2530 ) 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+
+Telephones : 331 01 31, 331 13 75 
+
+
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola 
+CALCUTTA 700054 
+
+
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 
+
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 600113 
+
+Western : Manakalaya, E9 MIDC Marol, Andheri ( East ) 
+BOMBAY 400093 
+
+
+
+Telegrams : Manaksanstha 
+( Common to all Offices ) 
+
+Telephone 
+
+J33101 31 
+1331 13 75 
+
+
+
+f37 
+
+(37 
+
+{ 
+
+
+
+84 99, 37 85 61, 
+86 26, 37 86 62 
+
+
+
+53 38 43, 53 16 40, 
+53 23 84 
+
+
+
+1235 02 16, 235 04 42, 
+|235 15 19, 235 23 15 
+
+
+
+{; 
+
+
+
+632 92 95, 632 78 58, 
+632 78 91, 632 78 92 
+
+
+
+Branches : AHMADABAD, BANGALORE, BHOPAL, BHUBANESHWAR, COIMBATORE, 
+FARIDABAD, GHAZIABAD, GUWAHATI, HYDERABAD, JAIPUR, KANPUR, 
+LUCKNOW, PATNA, THIRUVANANTHAPURM. 
+
+
+
+Printed at Swatantra Bharat Press, Delhi, India 
+
+
+

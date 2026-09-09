@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":20,"params":{"query":"identifier:gov.in.is.1566.*","qin":"identifier:(gov.in.is.1566.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.1566.1982","title":"IS 1566: hard-drawn steel wire fabric for concrete reinforcement"}]}}

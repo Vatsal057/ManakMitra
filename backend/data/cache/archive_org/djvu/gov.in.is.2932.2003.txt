@@ -1,0 +1,4094 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 2932 (2003) : Enamel, Synthetic, Exterior : (a) 
+Undercoating (b) Finishing [CHD 20: Paints, Varnishes and 
+Related Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 2932 : 2003 
+
+Indian Standard 
+
+ENAMEL, SYNTHETIC, EXTERIOR : 
+
+(a) UNDERCOATING (b) FINISHING — 
+
+SPECIFICATION 
+
+( Third Revision ) 
+
+
+
+ICS 87.040 
+
+
+
+© BIS 2003 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+December 2003 Price Group 7 
+
+
+
+Paints, Varnishes and Related Products Sectional Committee, CHD 20 
+
+
+
+FOREWORD 
+
+This Indian Standard (Third Revision) was adopted by the Bureau of Indian Standards, after the draft finalized 
+by the Paints, Varnishes and Related Products Sectional Committee had been approved by the Chemical Division 
+Council. 
+
+Composition requirement has been simplified making it more performance oriented; requirement for freedom 
+from unsaponifiable synthetic hydrocarbon resin has been deleted. Also, changes made in this standard through 
+various amendments have been amalgamated in this revised version. 
+
+Ihrough Annex G, a testing programme has been added in this revision, for the guidance of purchasers. 
+
+For satisfactory results, it is desirable that primer, undercoating and the finishing enamel are obtained from the 
+same manufacturer. 
+
+The composition of the Committee responsible* for the preparation of this standard is given in Annex H. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, 
+observed or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with 
+IS 2 : 1960 'Rules for rounding off numerical w3.\uqs (revised)'. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in this standard. 
+
+
+
+IS 2932 : 2003 
+
+
+
+Indian Standard 
+
+ENAMEL, SYNTHETIC, EXTERIOR : 
+
+(a) UNDERCOATING (b) FINISHING - 
+
+SPECIFICATION 
+
+( Third Revision ) 
+
+
+
+1 SCOPE 
+
+This standard prescribes requirements, methods of 
+sampling and test for the material commercially known 
+as enamel, synthetic, exterior: (a) undercoating (b) 
+finishing, colour as required used in painting system 
+for protection and decoration. 
+
+2 REFERENCES 
+
+The standards listed in Annex A contain provisions 
+which through reference in this text, constitute 
+provisions of this standard. At the time of publication, 
+the editions indicated were valid. All standards are 
+subject to revision and parties to agreements based on 
+this standard are encouraged to investigate the possibility 
+of applying the most recent editions of the standards 
+indicated in Annex A. 
+
+3 TERMINOLOGY 
+
+3,1 For the purpose of this standard, the definitions 
+given in IS 1303 and that given below shall apply. 
+
+3.1.1 Registered Sample — Sample supplied in 
+advance by a prospective supplier and registered by 
+the testing agency, after testing as per all requirements 
+of this standard. A complete record of its performance 
+shall be kept in respect of all tests. 
+
+4 CLASSES 
+
+The material shall be supplied in brushing consistency 
+but shall be suitable for application by brushing and 
+air spraying thinning with petroleum hydrocarbon 
+solvent to grade 145/205 low aromatic grade {see 
+IS 1745) or suitable thinner as agreed to between the 
+purchaser and the supplier, 
+
+5 COLOUR CATEGORIES 
+
+For the purpose of registration of the samples of the 
+material, the colour categories given in Table I shall 
+be employed. 
+
+6 REQUIREMENTS 
+
+6.1 Composition 
+
+6.1,1 General 
+
+The material shall be based on synthetic alkyd resin, 
+free from natural rosin or its derivatives or its 
+
+
+
+modifications in any form when tested in accordance 
+with IS 101 (Part 9/Sec 2). In case of disputes, test to 
+be carried out as prescribed in Annex B. It shall be of 
+such a composition as to satisfy the requirements of 
+this standard. 
+
+6.1.2 Total Non-volatile Content 
+
+The total non-volatile matter including pigments, 
+extenders and vehicles, when tested as per IS 101 
+(Part 8/Sec 2) shall not deviate by more than ± 2 units 
+by mass from the recorded data of registered sample. 
+This applies to both undercoating and finishing 
+enamels. 
+
+6.2 Condition in Container 
+
+6.2.1 At Delivery 
+
+At the time of delivery the paint shall be in such a 
+condition that manual stirring readily produces a 
+uniform product. 
+
+6.2.2 During Storage 
+
+During the 12 months storage period, the rating for 
+degree of settling shall not drop to 0, when tested as 
+peris 101 (Part 6/Sec 2). 
+
+6.3 Freedom from Coarse Particles 
+
+The paint shall be free from coarse aggregates, 
+suspended particles of gel and foreign matter, when 
+tested as per IS 101 (Part 1/Sec 2). 
+
+6.4 Skin Formation 
+
+The paint shall show no skin formation, when 
+examined visually at the time of delivery, 
+
+6.5 Thinning Properties 
+
+The paint shall be capable of being readily mixed with 
+the petroleum hydrocarbon, solvent grade {see IS 1 745) 
+or with a suitable thinner as agreed to between the 
+purchaser and the supplier, without showing any 
+precipitation. 
+
+6.6 Application Properties 
+
+The paint shall normally be supplied in a condition 
+
+
+
+IS 2932 : 2003 
+
+
+
+Table 1 Colour Categories and Wet Opacity Requirements 
+
+(Clause 5) 
+
+
+
+Colour 
+
+Category 
+
+No. 
+
+
+Colour Shade 
+
+
+ISC No. 
+as per 
+IS 5 
+
+
+Shade Recommneded for 
+Registration of Samples 
+
+
+Wet Opacity 
+
+Requirement, 
+
+A/i/i, mVlO litre 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+1 White 
+
+
+— 
+
+
+White 
+
+
+130 
+
+
+2 Black 
+
+
+^ 
+
+
+Black 
+
+
+260 
+
+
+3 Dark 
+
+
+violet 
+
+
+796 
+
+
+Dark violet 
+
+
+80 
+
+
+4 i) 
+
+
+Sky blue 
+
+
+101 
+
+
+
+
+
+
+ii) 
+iii) 
+
+iv) 
+
+V) 
+
+
+Turquoise blue 
+Oriental blue 
+Light admiral grey 
+Phirozi 
+
+
+102 
+174 
+697 
+176 
+
+
+Turquoise blue 
+
+
+160 
+
+
+vi) 
+
+
+Satin blue 
+
+
+177 
+
+
+
+
+
+
+5 i) 
+
+
+Eau-de-nil 
+
+
+216 
+
+
+
+
+
+
+ii) 
+iii) 
+iv) 
+
+
+Opaline green 
+Apple green 
+Bus green 
+
+
+275 
+281 
+299 
+
+
+Apple green 
+
+
+210 
+
+
+6 i) 
+
+
+Peacock blue 
+
+
+103 
+
+
+
+
+
+
+ii) 
+
+
+Azure blue 
+
+
+104 
+
+
+Traffic blue 
+
+
+200 
+
+
+iii) 
+
+
+Traffic blue 
+
+
+169 
+
+
+
+
+
+
+7 i) 
+
+
+Oxford blue 
+
+
+105 
+
+
+Oxford blue 
+
+
+100 
+
+
+ii) 
+
+
+Navy blue 
+
+
+106 
+
+
+
+
+
+
+8 Aircraft blue 
+
+
+108 
+
+
+Aircraft blue 
+
+
+170 
+
+
+9 French blue 
+
+
+166 
+
+
+French blue 
+
+
+150 
+
+
+10 i) 
+ii> 
+
+
+Sea green 
+Verdigris green 
+
+
+217 
+280 
+
+
+Sea green 
+
+
+170 
+
+
+11 i) 
+
+ii) 
+iii) 
+
+
+Sage green 
+Light olive green 
+Aircraft grey green 
+
+
+219 
+278 
+283 
+
+
+Sage green 
+
+
+160 
+
+
+12 i) 
+
+
+Grass green 
+
+
+218 
+
+
+
+
+
+
+ii) 
+iii) 
+iv) 
+
+
+Traffic green 
+India green 
+Brilliant green 
+
+
+267 
+284 
+221 
+
+
+Traffic green or Grass green 
+
+
+150 
+
+
+13 i) 
+
+
+Light brunswick green 
+
+
+225 
+
+
+
+
+
+
+ii) 
+
+
+Middle brunswick green 
+
+
+226 
+
+
+Middle brunswick 
+
+
+220 
+
+
+iii) 
+iv) 
+
+
+Deep brunswick green 
+Lincoln green 
+
+
+227 
+276 
+
+
+
+
+
+
+V) 
+
+vi) 
+
+
+Cypress green 
+Forest green 
+
+
+277 
+282 
+
+
+
+
+
+
+14 i) 
+
+
+Olive green 
+
+
+220 
+
+
+
+
+
+
+ii) 
+
+
+Light bronze green 
+
+
+222 
+
+
+
+
+
+
+iii) 
+
+
+Middle bronze green 
+
+
+223 
+
+
+
+
+
+
+iv) 
+
+V) 
+
+
+Deep bronze green 
+Steel furniture green 
+
+
+224 
+279 
+
+
+Olive green 
+
+
+220 
+
+
+vi) 
+
+
+Scamic 
+
+
+294 
+
+
+
+
+
+
+vii) 
+
+
+Olive drab 
+
+
+298 
+
+
+
+
+
+
+15 Canary yellow 
+
+
+309 
+
+
+Canary yellow 
+
+
+100 
+
+
+16 i) 
+ii) 
+
+
+Lemon 
+Golden yellow 
+
+
+355 
+356 
+
+
+Golden yellow 
+
+
+too 
+
+
+17 i) 
+
+
+Pale cream 
+
+
+352 
+
+
+
+
+
+
+ii) 
+
+
+Deep cream 
+
+
+353 
+
+
+
+
+
+
+iii) 
+
+
+Light stone 
+
+
+361 
+
+
+
+
+
+
+iv) 
+
+
+Portland stone 
+
+
+364 
+
+
+
+
+
+
+V) 
+
+
+Vellum 
+
+
+365 
+
+
+Pale cream or 
+
+
+no 
+
+
+vi) 
+vii) 
+
+
+Light straw 
+Light biscuit 
+
+
+384 
+
+385 
+
+
+deep cream 
+
+
+
+
+
+IS 2932 : 2003 
+
+
+
+Table 1 (Concluded) 
+
+
+
+(I) 
+
+
+
+(2) 
+
+
+
+(3) 
+
+
+
+(4) 
+
+
+
+(5) 
+
+
+
+
+
+viii) 
+
+
+Champagne 
+
+
+
+
+ix) 
+
+
+Sunshine 
+
+
+
+
+X) 
+
+
+Beige 
+
+
+
+
+xi) 
+
+
+Jasmine yellow 
+
+
+
+
+xii) 
+
+
+Light salmon pink 
+
+
+
+
+xiii) 
+
+
+Salmon pink 
+
+
+18 
+
+
+Primrose 
+
+
+19 
+
+
+Light buff 
+
+
+20 
+
+
+i) 
+
+
+Middle buff 
+
+
+
+
+ii) 
+
+
+Deep buff 
+
+
+
+
+iii) 
+
+
+Middle stone 
+
+
+21 
+
+
+i) 
+
+
+Dark stone 
+
+
+
+
+ii) 
+
+
+Light brown 
+
+
+
+
+iii) 
+
+
+Middle brown 
+
+
+
+
+iv) 
+
+
+Golden brown 
+
+
+
+
+V) 
+
+
+India brown 
+
+
+
+
+vi) 
+
+
+Leaf brown 
+
+
+22 
+
+
+i) 
+
+
+Dark brown 
+
+
+
+
+ii) 
+
+
+Orange brown 
+
+
+
+
+iii) 
+
+
+Venetian red 
+
+
+
+
+iv) 
+
+
+Red oxide 
+
+
+
+
+V) 
+
+
+Deep Indian red 
+
+
+
+
+vi) 
+
+
+Light purple brown 
+
+
+
+
+vii) 
+
+
+Gulf red 
+
+
+
+
+viii) 
+
+
+Beech brown 
+
+
+23 
+
+
+i) 
+
+
+Nut brown 
+
+
+
+
+ii) 
+
+
+Chocolate 
+
+
+
+
+iii) 
+
+
+Service brown 
+
+
+24 
+
+
+Terra cotta 
+
+
+25 
+
+
+i) 
+
+
+Fire red 
+
+
+
+
+ii) 
+
+
+Signal red 
+
+
+
+
+iii) 
+
+
+Post ofllce red 
+
+
+
+
+iv) 
+
+
+Crimson 
+
+
+
+
+V) 
+
+
+International orange 
+
+
+26 
+
+
+Maroon 
+
+
+27 
+
+
+i) 
+
+
+Traffic yellow 
+
+
+
+
+ii) 
+
+
+Light orange 
+
+
+
+
+iii) 
+
+
+Traffic red 
+
+
+
+
+iv) 
+
+
+Deep orange 
+
+
+28 
+
+
+India 
+
+
+I saffron 
+
+
+29 
+
+
+i) 
+
+
+Silver grey 
+
+
+
+
+ii) 
+
+
+Quaker grey 
+
+
+
+
+iii) 
+
+
+French grey 
+
+
+
+
+iv) 
+
+
+Light grey 
+
+
+
+
+V) 
+
+
+Dark admiral grey 
+
+
+
+
+vi) 
+
+
+Smoke grey 
+
+
+
+
+vii) 
+
+
+Aircraft grey 
+
+
+
+
+viii) 
+
+
+Dove grey 
+
+
+30 
+
+
+i) 
+
+
+RAF blue grey 
+
+
+
+
+ii) 
+
+
+Slate 
+
+
+
+
+iii) 
+
+
+Lead 
+
+
+
+
+iv) 
+
+
+Middle graphite 
+
+
+
+
+V) 
+
+
+Dark blue grey 
+
+
+
+386 
+
+
+
+
+387 
+
+
+
+
+388 
+
+
+
+
+397 
+
+
+
+
+442 
+
+
+
+
+443 
+
+
+
+
+354 
+
+
+Primrose 
+
+
+358 
+
+
+Light buff 
+
+
+359 
+
+
+
+
+360 
+
+
+Deep buff 
+
+
+362 
+
+
+
+
+363 
+
+
+
+
+410 
+
+
+
+
+411 
+
+
+Light brown 
+
+
+414 
+
+
+
+
+415 
+
+
+
+
+489 
+
+
+
+
+412 
+
+
+
+
+439 
+
+
+
+
+445 
+
+
+
+
+446 
+
+
+Gulf red 
+
+
+448 
+
+
+
+
+449 
+
+
+
+
+473 
+
+
+
+
+490 
+
+
+
+
+413 
+
+
+
+
+451 
+
+
+Net brown 
+
+
+449 
+
+
+
+
+
+
+444 
+
+
+536 
+
+
+
+
+537 
+
+
+
+
+538 
+
+
+Post office red 
+
+
+540 
+
+
+or signal red 
+
+
+592 
+
+
+
+
+541 
+
+
+Maroon 
+
+
+368 
+
+
+
+
+557 
+
+
+Deep orange 
+
+
+570 
+
+
+
+
+591 
+
+
+
+
+574 
+
+
+India saffron 
+
+
+628 
+
+
+
+
+629 
+
+
+
+
+630 
+
+
+
+
+631 
+
+
+
+
+632 
+
+
+Light grey or 
+
+
+692 
+
+
+aircraft grey 
+
+
+693 
+
+
+
+
+694 
+
+
+
+
+633 
+
+
+
+
+634 
+
+
+
+
+635 
+
+
+RAF blue grey 
+
+
+671 
+
+
+
+
+695 
+
+
+
+
+
+100 
+160 
+
+200 
+
+
+
+140 
+
+
+
+200 
+
+
+
+220 
+Terracotta 160 
+
+60 
+
+130 
+120 
+
+120 
+200 
+
+
+
+230 
+
+
+
+IS 2932 : 2003 
+
+
+
+suitable for application by brushing, either as supplied 
+or when thinned with not more than 5 percent by 
+volume of petroleum hydrocarbon solvent (see 
+IS 1 745) or with another suitable thinner as agreed to 
+between the purchaser and the supplier. The paint may 
+also be supplied in a condition suitable for spraying 
+when thinned with not more than 20 percent by volume 
+of the aforementioned thinner. 
+
+6.7 Durability 
+
+6.7.1 Registered Sample 
+
+6.7.1.1 When prepared and tested as prescribed 
+under C-3 up to a period of 12 months preferably at 
+National Test House, Kolkata , a film prepared from 
+the sample for registration of the material shall satisfy 
+the requirements of the test. 
+
+6.7.1.2 A film of the sample for registration shall be 
+prepared and tested in accelerated weathering 
+apparatus using carbon/xenon arc, as prescribed 
+under C-4. It shall be examined every third day for a 
+period of 21 days and a complete record of its 
+performance maintained, 
+
+6.7.1.3 QUV apparatus may be used as an alternative 
+when tested with an approved sample for a period of 
+200 h. 
+
+NO IE — As a precaution against inadvertent accidents, it is 
+recommended that the outdoor exposure test (see C-3) and the 
+accelerated weathering test (see C-4) are carried out in duplicate. 
+
+6.7.2 Sample from Bulk Supply 
+
+The characteristics of a film of the material prepared 
+from a representative sample of the bulk supply as 
+prescribed in C-2 tested in the accelerated weathering 
+apparatus (see C-4) and examined every third day for 
+a period of 21 days shall not deviate more than the 
+limits specified in 6,7.2.1 and 6.7.2.2. 
+
+6.7.2.1 Gloss (specular 60") retention of bulk supply 
+shall be within ± 10 units of that of the recorded data 
+
+of registered sample. 
+
+6.7.2.2 The results of observation on characteristics 
+of the colour, cracking, checking, spotting etc, of the 
+bulk supply sample shall not be less than rating of 
+8 when evaluated as per C-3,2. 
+
+6.8 Resistance to Acid (for Finishing Only) 
+
+A film of the material, when tested as prescribed in 
+Annex D, shall not show signs of disintegration or 
+change of colour to a rating not less than 8, taking the 
+original colour as 10. The loss of gloss shall not be 
+more than 50 percent of the original gloss. 
+
+6.9 Resistance to Alkali (for Finishing Only) 
+
+A film of the material, when tested as prescribed in 
+
+
+
+Annex E, shall not show signs of disintegration or 
+change of colour to a rating not less than 8, taking the 
+original colour as 10. The loss of gloss shall not be 
+more than 50 per cent of the original gloss. 
+
+6.10 The material shall also comply with the 
+requirements given in Table 2. 
+
+7 PACKING AND MARKING 
+
+7.1 Packing 
+
+Unless otherwise agreed to between the purchaser and 
+the supplier, the enamel shall be packed in suitable 
+metal containers (see IS 1407 and IS 2552). 
+
+7.2 Marking 
+
+7.2.1 Each container shall be marked with the 
+following: 
+
+a) Name and type of the material; 
+
+b) Indication of the source of manufacture; 
+
+c) Volume of the material; 
+
+d) Lot number or batch number in code or 
+otherwise; and 
+
+e) Month and year of manufacture. 
+
+7.2.1.1 The material when intended for defence 
+purposes, shall be marked in accordance with IS 566 1 . 
+
+7.2.2 BIS Certification Marking 
+
+The container may also be marked with the Standard 
+Mark. 
+
+7. 2.2 A The use of the Standard Mark is governed by 
+the provisions of Bureau of Indian Standards Act, 1 986 
+and the Rules and Regulations made thereunder. The 
+details of conditions under which the licence for the 
+use of the Standard Mark may be granted to 
+manufacturers or producers may be obtained from the 
+Bureau of Indian Standards. 
+
+8 SAMPLING 
+
+8.1 Preparation of Test Samples 
+
+8.1.1 For Registration 
+
+The sample shall be submitted in three different 
+containers each containing not less than 500 ml of the 
+material. 
+
+8.1.1.1 As testing to the requirements of this standard 
+covers a period of more than 12 months, the supplier 
+is advised to submit samples for registration 
+sufficiently in advance within the period from 
+October to December of the year, so that outdoor 
+exposure test can be started during the period 
+stipulated in C-3.1. 
+
+
+
+IS 2932 : 2003 
+
+
+
+Table 2 Requirements for Enamel, Synthetic, Exterior 
+(a) Undercoating (b) Finishing 
+
+(Clause 6 AO) 
+
+
+
+SI 
+
+
+Characteristics 
+
+
+Requirements 
+
+
+Methods of Test 
+
+
+No. 
+
+
+
+
+-**. 
+
+
+
+
+
+
+_^^ 
+
+
+
+
+
+
+Undercoating 
+
+
+Finishing 
+
+
+ReftoISlOl 
+
+
+Annex/Other 
+Standard 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+i) 
+
+
+a) Consistency 
+
+
+Smooth, uniform and suitable for brushing without 
+appreciable drag on the brush 
+
+
+Visual 
+
+
+— 
+
+
+
+
+b) Viscosity by ford cup 
+
+
+80-120 s 
+
+
+80-120 s 
+
+
+(Part 1/Sec 5) 
+
+
+— 
+
+
+
+
+No. 4 at 27 ± 2«C 
+
+
+
+
+
+
+
+
+
+
+ii) 
+
+
+Mass, in kg/10 litres, Min 
+
+
+11.5 
+
+
+9.0 
+
+
+(Part 1/Sec 7) 
+
+
+— 
+
+
+iii) 
+
+
+Drying time, h, Max 
+
+
+
+
+
+
+(Part3/Secl) 
+
+
+— 
+
+
+
+
+a) Surface dry 
+
+
+2 
+
+
+4 
+
+
+
+
+
+
+
+
+b) Hard dry 
+
+
+8 
+
+
+12 
+
+
+
+
+
+
+
+
+c) Tack free 
+
+
+24 
+
+
+24 
+
+
+
+
+
+
+iv) 
+
+
+a) Finish 
+
+
+Smooth and matt to 
+egg shell gloss 
+
+
+Smooth and glossy 
+
+
+(Part 3/Sec 4) 
+
+
+— 
+
+
+
+
+b) Gloss 60« 
+
+
+0to20 
+
+
+Above 71 
+
+
+(Part4/Secl) 
+
+
+— 
+
+
+V) 
+
+
+Fineness of grind 
+
+
+Not more than 50 
+microns 
+
+
+Not more than 1 5 
+microns 
+
+
+(Part 3/Sec 5) 
+
+
+— 
+
+
+vi) 
+
+
+Colour 
+
+
+Approximate match 
+with ISC No. 385 or 
+635 
+
+
+Close match to the 
+specified IS colour or to 
+an agreed colour 
+
+
+(Part4/Sec2) 
+
+
+
+
+vii) 
+
+
+Scratch hardness after 48 h air 
+
+
+No such scratch as to show bare metal 
+
+
+Clause 3 of 
+
+
+— 
+
+
+
+
+drying (1 000 g) 
+
+
+
+
+
+
+(Part5/Secl) 
+
+
+
+
+viii) 
+
+
+Flexibility and adhesion 
+
+
+No visible damage or 
+
+
+No visible damage or 
+
+
+Clause 2 of 
+
+
+— 
+
+
+
+
+
+
+detachment after 48 h 
+
+
+detachment after 96 h of 
+
+
+(Part 5/Sec 2) 
+
+
+
+
+
+
+
+
+of air drying 
+
+
+air drying 
+
+
+
+
+
+
+ix) 
+
+
+Flash point 
+
+
+Not below 30°C 
+
+
+Not below 30°C 
+
+
+(Part 1/Sec 6) 
+
+
+— 
+
+
+X) 
+
+
+Composition: 
+
+
+
+
+
+
+
+
+
+
+
+
+a) Volume solids percent, Min 
+
+
+40 
+
+
+35 
+
+
+(Part 8/Sec 6) 
+
+
+— 
+
+
+
+
+b) Phthallic anhydride 
+
+
+20 
+
+
+20 
+
+
+-_ 
+
+
+Clause 1 1 of 
+
+
+
+
+content of non-volatile 
+
+
+
+
+
+
+
+
+IS 354 (Part 2) 
+
+
+
+
+vehicle, percent by mass, Min 
+
+
+
+
+
+
+
+
+
+
+xi) 
+
+
+Accelerated storage stability test, 
+at 60°C, 96 h 
+
+
+Shall pass the test 
+
+
+Shall pass the test 
+
+
+~ 
+
+
+Annex F 
+
+
+xii) 
+
+
+Keeping properties 
+
+
+Not less than one year 
+from date of manufac- 
+turing 
+
+
+Not less dian one year 
+from date of manufac- 
+turing 
+
+
+(Part 6/Sec 2) 
+
+
+
+
+
+8.1.2 Tender Sample 
+
+The supplies may dispense with sending a tender 
+sample standard provided that he declares that the 
+material, for which the tender is given, of the same 
+quality as the sample previously registered in his name. 
+
+8.1.3 Bulk Supply Sample 
+
+Representative samples of the materials shall be drawn 
+and treated as prescribed in IS 101 (Part 1/Sec 1). 
+
+8.2 Criteria for Conformity 
+
+A lot shall be declared as conforming to the 
+
+
+
+requirements of this standard if the test results of the 
+composite samples satisfy the requirements as 
+prescribed in 6. 
+
+9 TEST METHODS 
+
+9.1 Test shall be conducted as prescribed in various 
+parts of IS 101 and various Annexes to this standard. 
+References to the relevant clauses of these standards 
+are given in col 5 of Table 2, 6.1, 6.2 and 6.3. 
+
+9.2 Quality of Reagents 
+
+Unless specified otherwise, pure chemicals and 
+
+
+
+IS 2932 : 2003 
+
+
+
+distilled water (see IS 1070) shall be employed in tests. test to be not inferior to the approved sample. 
+
+
+
+NOTE — 'Pure chemicals' shall mean chemicals that do not 
+contain impurities which affect the results of analysis. 
+
+9.3 Comparison with the performance of the registered 
+sample shall be carried out on the basis of records 
+maintained for the registered samples (see 6.7,1). 
+
+9.4 For match against Indian Standard colours, IS 5 
+shall be used. 
+
+10 GENERAL PROVISIONS 
+
+10.1 Supply 
+
+Unless otherwise agreed by the purchaser, the paint 
+supplied shall not differ significantly from the 
+registered sample in either composition or 
+performance. 
+
+10.2 Vendor's Certificate 
+
+10.2.1 When required by the purchaser, the vendor 
+shall certify that each batch of the paint supplied has 
+been manufactured to the same formula as the 
+registered sample and/or that it has been indicated by 
+
+
+
+10.2.2 Alternatively, the vendor may give following 
+information and may declare compliance with 
+registered sample: 
+
+a) Description of paint, 
+
+b) Vendor's product reference, 
+
+c) Lot identification, 
+
+d) Quantity in lot, and 
+
+e) Date of manufacture. 
+
+10.2.3 A certificate/declaration may relate to more than 
+one lot. 
+
+10.3 Tests 
+
+10.3.1 The frequency and procedure to establish 
+compliance of the paint material with this specification 
+may vary depending on the agreement between the 
+purchaser and the supplier. 
+
+10.3.2 The kind of testing programme as indicated in 
+Annex G, may be taken for guidance, where thought 
+appropriate. 
+
+
+
+ANNEX A 
+
+(Clause 2) 
+
+LIST OF REFERRED INDIAN STANDARDS 
+
+
+
+IS No. 
+
+
+
+5 : 1994 
+
+
+101 
+
+
+(Part 1/Sec 1): 
+1986 
+
+
+(Part 1/Sec 2): 
+1987 
+
+
+(Part 1/Sec 3) : 
+1986 
+
+
+(Part 1/Sec 5): 
+1989 
+
+
+(Part 1/Sec 6): 
+1987 
+
+
+(Part 1/Sec 7): 
+1987 
+
+
+
+Title IS No, 
+
+Colours for ready mixed paints and (Part 2/Sec 1) : 
+
+enamels (fourth revision) ] 988 
+
+Methods of sampling and test for 
+
+paints, varnish and related products: (Part 3/Sec 1) : 
+
+Test on liquid paints (general and 1986 
+
+physical). Section 1 Sampling (third 
+
+revision) (Part 3/Sec 4) : 
+
+Test on liquid paints (general and 1987 
+
+physical), Section 2 Preliminary (Part 3/Sec 5) : 
+
+examination and preparation of 1987 
+
+samples for testing (third revision) 
+
+Test on liquid paints (general and (Part4/Sec 1) 
+
+physical), Section 3 Preparation of 1988 
+
+panels (third revision) (Part 4/Sec 2) 
+
+Test on liquid paints (general and 1989 
+
+physical), Section 5 Consistency (Part4/Sec3) 
+
+(third revision) ] 988 
+
+Test on liquid paints (general and 
+
+physical), Section 6 Flash point (Part 4/Sec 4) : 
+
+(third revision) 1 988 
+
+Test on liquid paints (general and (Part 5/Sec 1) : 
+
+physical), Section 7 Mass per 10 1988 
+
+litres (third revision) 
+
+
+
+Title 
+
+Test on liquid paints (chemical 
+examination), Section 1 Water 
+content (third revision) 
+Tests on paint film formation. 
+Section 1 Drying time (third 
+revision) 
+
+Tests on paint film formation. 
+Section 4 Finish (third revision) 
+Tests on paint film formation, 
+Section 5 Fineness of grind (third 
+revision) 
+
+Optical tests on paint films. 
+Section 1 Opacity (third revision) 
+Optical tests on paint films, 
+Section 2 Colour (third revision) 
+Optical tests on paint films. 
+Section 3 Light fastness test (third 
+revision) 
+
+Optical tests on paint films. 
+Section 4 Gloss (third revision) 
+Mechanical tests on paint films. 
+Section 1 Hardness tests (third 
+revision) 
+
+
+
+IS 2932 : 2003 
+
+
+
+IS No. 
+
+
+
+(Part 5/Sec 2) 
+
+
+1988 
+
+
+(Part6/Sec 1) 
+
+
+1988 
+
+
+(Part 6/Sec 2) 
+
+
+1989 
+
+
+(Part 6/Sec 4) 
+
+
+1991 
+
+
+(Part 8/Sec 2) 
+
+
+1990 
+
+
+(Part 8/Sec 6) 
+
+
+1993 
+
+
+(Part 9/Sec 2) 
+
+
+1993 
+
+
+266: 1993 
+
+
+285 : 1992 
+
+
+
+Title 
+
+Mechanical tests on paint films, 
+
+Section 2 Flexibility and adhesion 
+
+(third revision) 
+
+Durability tests on paint films, 
+
+Section 1 Resistance to humidity 
+
+under conditions of condensation 
+
+(third revision) 
+
+Durability tests on paint films, 
+
+Section 2 Keeping properties (third 
+
+revision) 
+
+Durability tests on paint films 
+
+Section 4 Degradation of coatings 
+
+(pictorial aids for evaluation) 
+
+Tests for pigments and other solids 
+
+Section 2 Pigments and non-volatile 
+
+matter (third revision) 
+
+Tests for pigments and other solid 
+
+Section 6 Volume solids 
+
+Test for lacquers and varnish, 
+
+Section 2 Rosin test 
+
+Sulphuric acid (second revision) 
+
+Laundry soaps (third revision) 
+
+
+
+■' 
+
+
+IS No. 
+
+
+296: 
+
+
+1986 
+
+
+354 (Part 2) 
+1986 
+
+
+513: 
+
+
+1994 
+
+
+1017 
+1070 
+1303 
+
+
+: 1983 
+: 1992 
+: 1983 
+
+
+1407 
+1745 
+
+
+: 1980 
+: 1978 
+
+
+2074 
+
+
+:1992 
+
+
+2552 
+
+
+: 1989 
+
+
+5661 
+
+
+: 1970 
+
+
+
+Title 
+
+Sodium carbonate, anhydrous {third 
+
+revision) 
+
+Methods of sampling and test for 
+
+resins for paints : Part 2 Special test 
+
+methods for alkyd resins (second 
+
+revision) 
+
+Cold-rolled low carbon steel sheets 
+
+and strips (fourth revision) 
+
+Chamois leather {second revision) 
+
+Reagent grade w^ater (third revision) 
+
+Glossary of terms relating to paints 
+
+(second revision) 
+
+Rpund paint tins (second revision) 
+
+Petroleum hydrocarbon solvents 
+
+(second revision) 
+
+Ready mixed paint, air drying, red 
+
+oxide-zinc chrome, priming (second 
+
+revision) 
+
+Steel drums (galvanized and 
+
+ungalvanized) (third revision) 
+
+Code of practice for packing and 
+
+marking of packages of paints, 
+
+enamels, varnishes and allied products 
+
+
+
+ANNEX B 
+
+(Clause 6AA) 
+TEST METHOD FOR TOTAL ROSIN ACIDS CONTENT OF COATING VEHICLES 
+
+
+
+BO GENERAL 
+
+Libermann storch test for Halphen-Hicks test for 
+detection of rosin also gives colouration with bleeding 
+pigments (for example. Post Office Red) which may 
+be confused with the presence of rosin. If the rosin 
+content estimated by method described below is less 
+than 1 percent, the paint sample should be considered 
+free from rosin. The proposed method covers the 
+determination of total rosin acids content of rosin 
+esters, varnishes and alkyd resins, unmodified by such 
+materials as maleic or fumaric acid or phenols. Total 
+rosin acids determined include free rosin, esterified 
+rosin and metallic salts of rosin. 
+
+NOTH "~ This method is primarily designed for material 
+containing 0.5 to 5 percent rosinon non-volatite basis. 
+
+B-O.l Outline of the Method 
+
+B-O.l.l The sample of separated vehicle is saponified 
+
+
+
+with potassium hydroxide-ethylene glycol reagent and 
+acidified with hydrochloric acid. Heat is applied to 
+hydrolyze metallic driers. This is necessary when 
+metallic rosinates are present. 
+
+B-0.1.2 The mixture described in B-0.1.1 is extracted 
+with toluene. The rosin and fatty acids and 
+unsaponifiables pass into the toluene layer. The 
+aqueous layer will contain certain dibasic acids, 
+polyhydric alcohol and other water-soluble products 
+of saponification. 
+
+B-0,1,3 The toluene is removed by evaporation, the 
+residue weighed and the rosin acids are determined by 
+a selective esterification and titration method. 
+
+B-1 APPARATUS 
+
+B-1.1 Air condenser 700 mm, with a 24/40 standard 
+taper joint. 
+
+
+
+IS 2932 : 2003 
+
+
+
+B-1.2 Burette — Automatic type having a capacity of 
+25 ml, for the standard potassium hydroxide solution, 
+fitted with soda-lime trays to protect against absorption 
+of atmospheric carbon dioxide. 
+
+B-1.3 Erienmeyer Flasks — 250 and 500 ml capacity 
+with 24/40 ground joints. 
+
+B-1.4 Separating Funnels — Three of 1 litre capacity. 
+
+B-1.5 Steam Bath — Located in a fume hood for 
+evaporation of volatile solvents. 
+
+B-1.6 Moisture Collection Trap — Constructed 
+
+
+
+according to details shown in Fig. 1. Wrap with 
+12.7 mm asbestos tape, 
+
+B-1.7 Pipette — Automatic, 50-ml capacity. 
+
+B-2 REAGENTS 
+
+B-2.1 Toluene 
+
+B-2.2 Butyl Alcohol Sulphuric Acid Esterification 
+Reagent — Add 500 ml of n-butyl alcohol, 500 ml of 
+toluene and 3.3 ml (6 g) of sulphuric acid to a 2-litre 
+round bottom flask with ground joint, connect to a 
+moisture trap and condenser and reflux on a hot plate 
+
+
+
+
+All dimensions in millimetres. 
+Fig. 1 Moisture Collection Trap 
+
+
+
+8 
+
+
+
+IS 2932 : 2003 
+
+
+
+for 30 min to distil out the water and to form butyl- 
+sulphuric acid. Cool and store in a glass stoppered bottle. 
+
+B-2.3 Ethyl Alcohol 
+
+B-2.4 Hydrochloric Acid — Concentrated (sp gr 1 . 1 9). 
+
+B-2.5 Potassium Hydroxide — Ethylene Glycol 
+Solution (132 g/l) — Dissolve 132 g of potassium 
+hydroxide pellets in 1 litre of ethylene glycol in a 
+2-litre Erlenmeyer flask. Insert a thermometer and boil 
+to eliminate water until the temperature of the liquid 
+reaches 190 to \95°C. Cool and store in a rubber 
+stoppered bottle. 
+
+B-2.6 Potassium Hydroxide, Alcoholic Standard 
+Solution (13.3 g/l) — Dissolve 13.3 g of potassium 
+hydroxide pellets in 1 litre of alcohol. Standardize 
+against potassium acid phthallate primary standard. 
+
+B-2.7 Sulphuric Acid — Concentrated 
+
+B-2.8 Thymol Blue Indicator Solution (10 g/l) — 
+
+Mix 1 g of thymol blue indicator with 100 ml of ethyl 
+alcohol. 
+
+B-3 PROCEDURE 
+
+B-3.1 Transfer to a 500 ml Erlenmeyer flask an 
+amount of sample, weighed to the nearest 0.001 g, 
+containing approximately 10 ± 1 g of non-volatile 
+material. Add 150 ml of the potassium hydroxide 
+ethylene glycol solution and swirl to disperse the 
+sample. Add a boiling stone, attach a condenser and 
+reflux on a hot plate for 2 h. 
+
+B-3.2 After refluxing, remove the flask from the hot 
+plate and cool to room temperature under tap water. 
+Add 1 00 ml of water and while cooling under tap water, 
+add 40 ml of the hydrochloric acid. Place on the hot 
+plate again, reflux for 5 min and cool under tap water. 
+
+B-3.3 Transfer the sample quantitatively to a 1 litre 
+separating funnel with the aid of a total of 150 ml of 
+water, followed by two 25 ml rinse with toluene. Shake, 
+allow the layers to separate, and draw off the lower 
+aqueous layers into a second 1 litre separating funnel. 
+Extract with a third 50-ml portion of toluene. Draw 
+off and discard the water layer. Combine the benzene 
+extracts, and wash with three 50 ml portions of water. 
+Measure the pH of the third water wash. If it is less 
+than 3.8, repeat with a fourth water wash. Discard the 
+wash waters, 
+
+B-3.4 Transfer the washed toluene extract to a weighed 
+(to the nearest 0.001 g) 250-ml Erlenmeyer flask, with 
+the aid of 25 ml of toluene. Evaporate the toluene on the 
+steam bath, preferably with the aid of a gentle stream of 
+
+
+
+inert gas to volume of approximately 20 ml. Add 5 ml of 
+anhydrous ethyl alcohol and evaporate to dryness, to 
+remove any water present by azeotropic distillation. 
+
+B-3.5 Cool and weigh to the nearest 0,001 g. To avoid 
+oxidation, do not try in an oven, also the retention of a 
+small amount of toluene does not affect the final 
+calculation. 
+
+B-3.6 Using an automatic pipette, accurately measure 
+50 ml of the esterification reagent into the flask. 
+Connect the flask to the moisture collections trays and 
+condenser. Place on a hot plate to boiling and reflux 
+for 20 min. At the end of heating period, allow the 
+flask to cool somewhat, then remove and cool to room 
+temperature. 
+
+B-3.7 Add 10 drops of thymol blue indicator solution 
+and titrate with the alcoholic potassium hydroxide 
+solution to a blue end-point. 
+
+B-3. 8 Make a blank titration on 50 ml of the 
+esterification solution, after refluxing in the same 
+manner, 
+
+B.4 CALCULATION 
+
+B-4.1 In order to apply properly the esterification 
+correction factors to the isolated rosin acids- fatty acids 
+mixture, it is necessary first to calculate the percent of 
+rosin acids in the dried toluene extract, and then to 
+correct this value to the on-volatile sample basis. 
+
+Rosin acids in dried 
+
+toluene extract, j^^ = [(A -B)N^ 30,24 x 1.018] 5-0,3 
+
+percent by mass 
+
+where 
+
+A ^ alcoholic potassium hydroxide solution 
+
+required for titration of the sample, in ml; 
+
+B = alcoholic potassium hydroxide solution 
+
+required for titration of blank, in ml; 
+N = normality ofpotassium hydroxide solution 
+
+used; 
+S = mass ofdried toluene extract, in g; 
+30.24 = molecular mass of abietic acid multiplied 
+
+by 100 and divided by 1 000; 
+1,018 ^ experimentally determined factor to 
+correct for slight esterification of resin 
+^ acid; and 
+0.3 = experimentally determined factor to 
+correct for unesterified fatty acids. 
+Rosin acids in alkyd vehicle, 
+non-volatile basis, percent = (5 x Y)/(W x T) 
+
+
+
+IS 2932 : 2003 
+
+
+
+where 
+
+S 
+
+W 
+
+
+
+= mass of dried toluene extract, in g; 
+
+== mass of original alkyd vehicle taken for 
+
+analysis, in g; 
+-^ non-volatile content of the vehicle, 
+
+
+
+expressed as a decimal; and 
+
+Y ^ percent of resin acids in dried toluene 
+
+extract. 
+
+NOTE — If it is desired to express the total rosin acids as 
+commercial rosin, use 35.00 instead of 30.24 as the factor in 
+the calculation. 
+
+
+
+ANNEX C 
+
+{Clauses6nAA,6nA2,6J22and%AAA) 
+
+TEST METHOD FOR DURABILITY 
+
+
+
+CO GENERAL 
+
+C-0.1 Outline of the Method 
+
+The durability of the material is determined by 
+ascertaining actual behaviour of suitably prepared test 
+panels in normal outdoor exposure test for a specified 
+period and evaluating the results of the exposure by a 
+suitable method of rating for various characteristics of 
+the film of the material. Apart from this, the material is 
+also evaluated by an accelerated weathering test wherein 
+a prepared panel is subjected to controlled exposure to 
+heat, light and water in the artificial weathering apparatus. 
+
+C-1 TEST PANELS 
+
+C-Ll The panel shall be mild steel plate, 1.25 mm thick 
+and free from surface defects {see IS 513). Panels for 
+the outdoor exposure test shall be 300 mm x 300 mm in 
+size and for the accelerated weathering test 
+150 mm X 75 mm. The panels shall be cleaned as 
+prescribed in IS 101 (Part 1/Sec 3) and the back and 
+edges of the panels shall be protected with two coats of 
+a suitable paint. 
+
+C-2 PREPARATION OF TEST PANELS 
+
+C-2. 1 In the painting procedure outlined under C-2.2, 
+the air drying of the films shall be done at room 
+temperature and at a relative humidity of not more than 
+70 percent. 
+
+C-2.2 The surface of the test panels to be exposed shall 
+be prepared as follows, taking care that total dry film 
+thickness of the complete system shall be between 75 
+and 100 microns: 
+
+
+
+a) Apply one coat of ready mixed paint red 
+oxide-zinc chrome primer (conforming to 
+IS 2074) by brushing after a coat of undercoat; 
+
+b) Rub down lightly with waterproof emery 
+paper No. 280/320, wipe off the surface using 
+a piece of clean and dry soft cloth and then 
+apply the brushing one coat of the under 
+coating enamel conforming to this standard 
+and allow to air-dry for 24 h; 
+
+c) Rub down, wet, with waterproof emery paper 
+No. 280/320, wipe off the surface using a 
+piece of clean and dry soft cloth and then 
+apply the brushing one coat of the finishing 
+enamel conforming to this standard and allow 
+to air-dry for 24 h; and 
+
+d) Rub down, wet, with waterproof emery paper 
+No. 320, wipe off water and, when the surface 
+is dry, apply by brushing a second coat of the 
+finishing enamel and allow to air dry for 
+7 days before subjecting to exposure test. 
+
+NOTE — The primer, undercoat and the finishing enamels shall 
+be from the same source. 
+
+C-3 NORMAL OUTDOOR EXPOSURE TEST 
+
+C-3.0 Subject the samples for registration and the 
+tender samples, if supplied, to normal outdoor exposure 
+test in the manner described under C-3.1. 
+
+C-3.1 Expose in the open the test panels, prepared in 
+the manner prescribed under C-1 and C-2 in duplicate 
+at an angle of 45° facing South, Commence the 
+exposure not earlier than the third week of January 
+and not later than the first week of April. 
+
+
+
+10 
+
+
+
+IS 2932 : 2003 
+
+
+
+C-3.1.1 Examine the condition of the exposed films at 
+monthly intervals for the first quarter and thereafter 
+quarterly for the rest of the period for the following 
+characteristics: 
+
+a) Colour; 
+
+b) Checking, cracking and flaking; 
+
+c) Chalking; and 
+
+d) Spotting. 
+
+C-3.1.2 For the above examinations, wash the right 
+hand half of the surface of the two test panels by 
+pouring water and then wiping with a soft cloth or 
+chamois leather {see IS 1017). Adequate time for 
+cooling of the panels to room temperature shall be 
+allowed prior to washing examine the same half of the 
+test panels at each examination. As an aid in the 
+examination, a magnifying glass may be used, but the 
+evaluation shall be based on an assessment with the 
+unaided eye. At the end of the stipulated period for 
+durability test, examine the two halves of the test 
+panels. The sample shall be considered satisfactory if 
+the material surface underneath as well as condition 
+of the film in both the halves, the one washed 
+periodically as well as the one washed only for the 
+fmal examination is satisfactory by the method of 
+evaluation described in C-3.2. Stray film failure, due 
+to extraneous causes other than climate, shall be 
+ignored. 
+
+
+
+C-3.2 Evaluation and Rating 
+Characteristics of Test Panel 
+
+
+
+of Film 
+
+
+
+C-3.2.1 The test panels before and after the specified 
+periods of exposure tests shall be assessed for the 
+various film characteristics as prescribed in C-3.2.2 
+to C-3.2,8. 
+
+C-3.2.2 Colour 
+
+The colour of the test panel shall be compared 
+against the stipulated shade as given in IS 5. The 
+initial rating for a good colour match shall be 10. 
+The colour retention on exposure shall be expressed 
+and recorded as the abbreviation of the type of colour 
+change followed by the numerical rating as given 
+below: 
+
+
+
+Numeri 
+
+
+Rating 
+
+
+Type of Colour 
+
+
+cal 
+
+
+
+
+Change 
+
+
+Value 
+
+
+
+
+
+
+10 
+
+
+Good match 
+
+
+D — Darkening 
+
+
+9 
+
+
+Satisfactory 
+
+
+F — Fading 
+
+
+8 to 7 
+
+
+Slight colour change 
+
+
+B — Blueing 
+
+
+6 to 5 
+
+
+Definite colour 
+change 
+
+
+R— Reddening 
+
+
+4 to 3 
+
+
+Bad colour change 
+
+
+Y — Yellowing 
+
+
+
+Numeri- Rating Type of Colour 
+
+cal Change 
+
+Value 
+2 to 1 Very bad colour change L — Loss of colour 
+Complete colour change 
+
+C-3.2.3 Freedom from Checking 
+
+Freedom from checking shall be rated as 10 for no 
+checking and for most severe and complete checking. 
+Intermediate ratings of 8, 6, 4 and 2 shall be done by 
+matching with standard photographs. 
+
+C-3.2.4 Freedom from Cracking 
+
+Freedom from cracking shall be rated as 10 for no 
+cracking and for most severe and complete cracking. 
+Intermediate ratings of 8, 6, 4 and 2 shall be done by 
+matching with standard photographs. 
+
+C-3.2.5 Freedom from Flaking 
+
+Freedom from flaking shall be rated as 1 for no fiaking 
+and for most severe and complete flaking. 
+Intermediate ratings of 8, 6, 4 and 2 shall be done by 
+matching with standard photographs. 
+
+C-3.2.6 Freedom from Chalking 
+
+Freedom from chalking shall be rated as 10 for no 
+chalking and for most severe and complete chalking. 
+Intermediate ratings of 8, 6, 4 and 2 shall be done by 
+matching with standard photographs. 
+
+C-3.2,7 Freedom from Spotting 
+
+Freedom from spotting shall be rated as follows: 
+
+
+
+Numerical 
+
+Value 
+
+10 
+
+9 
+
+8-7 
+6-5 
+4-3 
+2-1 
+
+
+
+
+Rating 
+
+No spotting 
+Satisfactory 
+Slight spotting 
+Definite spotting 
+Bad spotting 
+Very bad spotting 
+Complete spotting 
+
+
+
+C-3.2.8 Freedom from Blistering and Corrosion 
+
+Freedom from blistering shall be rated as 10 for no 
+blistering and for complete failure in respect of 
+blistering. Intermediate ratings for blister density F, 
+M, MD and D ( few medium, medium-dense and dense) 
+and blister sizes 8, 6, 4 and 2 shall be done by matching 
+with standard photographs. 
+
+C-3.3 Evaluation of Exposed Films 
+
+C-3.3.1 The requirements of this test shall be taken to 
+have been satisfied if performance in respect of the 
+characteristics as noted in C-3.2 is within the limits 
+specified below: 
+
+
+
+11 
+
+
+
+IS 2932 : 2003 
+
+
+
+5'/ 
+No. 
+
+
+
+Characteristic 
+
+
+
+i) Colour 
+
+
+
+Exposure 
+After 3 months 
+
+After 6 months 
+
+After 12 months 
+
+ii) Freedom from checking After 12 months 
+
+iii) Freedom from cracking 
+
+iv) Freedom from flaking 
+
+v) Freedom from chalking 
+
+vi) Freedom from spotting 
+
+
+
+After 12 months 
+After 12 months 
+After 12 months 
+After 12 months 
+
+
+
+Requirement 
+
+The film shall have a minimum rating of 7 (except 
+for colour categories No. 12, 13, 14, 16, 22, 26 and 
+27 where the minimum rating shall be 4) 
+
+The film shall have a minimum rating of 5 (except 
+for colour categories No. 12, 13, 14, 16, 22, 26 and 
+27 where the minimum rating shall be 3) 
+
+The film shall have a minimum rating of 4 (except 
+for colour categories No. 12, 13, 14, 16, 22, 26 and 
+27 where the minimum rating shall be 2) 
+Minimum rating of 6 
+Minimum rating of 8 
+Minimum rating of 9 
+Minimum rating of 6 
+Minimum rating of 5 
+
+
+
+C-3.3,2 Freedom from Blisters and Corrosion 
+
+The film shall remain generally free from blisters and 
+the metal underneath shall show no signs of corrosion 
+on exposure for 12 months. A few isolated blisters 
+without any signs of corrosion underneath as well as 
+one or two localized corrosion and/or rust spots shall 
+not constitute a cause of failure. 
+
+C-3.4 Protection Against Corrosion 
+
+After exposure of the film is discontinued, examine 
+for corrosion of the metal surface of the panel 
+underneath by removing film at 5 different places, one 
+in the centre and one each at 4 different places near 
+the 4 corners about 50 mm away from the edges. The 
+paint film shall be removed by solvent type paint 
+remover. When the film is softened by the paint 
+remover it shall be removed by gently rubbing with 
+cotton swab or waste jute taking care to remove 
+adhering film of primer and/or undercoating. After 
+removal of the film, the exposed metai shall be covered 
+by thick mineral oil or petroleum jelly. Localized 
+corrosion and/or one or two rust spots shall not 
+constitute a cause of failure. To satisfy the requirements 
+of this standard, the metal surface shall be otherwise 
+free from corrosion. 
+
+C-4 ACCELERATED WEATHERING TEST 
+
+C-4.1 Accelerated Weathering Apparatus 
+
+An artificial weathering apparatus of the xenon/carbon 
+arc type for uniform and controlled exposure to the 
+effects of heat, light and water. 
+
+C-4.2 Procedure 
+
+C-4.2.1 The panel for this test shall be prepared as 
+described under C-2.2. Samples for registration shall 
+be tested in duplicate in a suitable accelerated 
+weathering apparatus (see C-4.1) and samples drawn 
+from the bulk supply shall be tested in a similar manner. 
+
+C-4.2.2 Commonly used cycles and test conditions are 
+given in Table 3. However, any other cycle may be 
+
+
+
+used if mutually agreed upon between the purchaser 
+and the supplier. The temperature of water for 
+specimen spray shall be 16 ± S'^C. The term cycle is 
+the set of exposure condidons (light, light plus water 
+spray, dark periods) that are repeated. 
+
+C-4.2,3 The exposed film shall be evaluated for gloss 
+and various film properties as prescribed under C-3,2. 
+
+C-4.2.4 The requirement of this test on a sample from 
+bulk supply shall be taken to have been satisfied if the 
+gloss retention shall be minimum 40 percent of the 
+original and the performance in respect of the other 
+film characteristics is generally similar to that obtained 
+with the registered sample. 
+
+Table 3 Test Cycles Commonly Used for 
+Carbon-Arc Exposure Testing of Paints 
+
+{Clause C-4.2.2) 
+
+
+
+Cycle Description 
+
+
+Black Panel Typical Uses 
+
+
+
+
+Temp, °C 
+
+
+(1) 
+
+
+(2) (3) 
+
+
+1 02 min light 
+
+
+63 ±2.5 General coatings 
+
+
+! 8 min light and water spray 
+
+
+
+
+18 h using; 
+
+
+General coatings 
+
+
+102 min light 
+
+
+63 ±2.5 
+
+
+1 8 min light and water spray 
+
+
+
+
+6 h at 95 + 4 percent 
+
+
+75 ±3 
+
+
+relative humidity with 
+
+
+
+
+no spray 
+
+
+
+
+48 min light 
+
+
+63 ±2.5 Original equipment 
+
+
+12 min light and water spray 
+
+
+Manufactured coating 
+
+
+4 h light 
+
+
+63 ± 2.5 Exterior pigmented 
+
+
+4 h water spray 
+
+
+Paints 
+
+
+12 h light 
+
+
+63 ±2.5 Exterior wood stains 
+
+
+
+
+and clears 
+
+
+12 h water spray 
+
+
+
+
+8 h light 
+
+
+63 ±2.5 Marine enamels 
+
+
+10 h light and water spray 
+
+
+
+
+6 h water spray 
+
+
+
+
+
+12 
+
+
+
+IS 2932 : 2003 
+
+
+
+ANNEX D 
+
+(Clause 6.8) 
+
+TEST FOR RESISTANCE TO ACID 
+
+
+
+D-0 GENERAL 
+
+D-0.1 Outline of the Method 
+
+A test panel coated with the enamel, after specified 
+drying period, is immersed in a definite concentration 
+of sulphuric acid for 24 h after which it is washed, 
+dried and compared in performance with a panel 
+prepared with the registered sample data. 
+
+D-1 PROCEDURE 
+
+D-1.1 Apply a coat of the finishing enamel, as specified 
+in 2.2 of IS 101 (Part6/Sec l)ona 150 mm x 100 mm 
+clean glass panel to give a dry film mass commensurate 
+
+
+
+with the mass in kg/10 litres of the material. Protect 
+the edges of the panel by applying a coat of wax. Allow 
+the panel to air-dry in a horizontal position for 48 h 
+under specified laboratory drying conditions [see 
+IS 101 (Part 1/Sec3)]. Immerse the panelin a 2 percent 
+(m/v) solution of concentrated sulphuric acid (relative 
+density 1 .84) (see IS 266) for 24 h at room temperature. 
+Remove the panels, wash in running fresh water and 
+allow to dry for 1 h. 
+
+D-1. 2 The tested portion shall not show signs of 
+disintegration. The colour shall not vary more than 
+slightly from that of untested portion of the test panel. 
+
+
+
+ANNEX E 
+
+(Clause 6.9) 
+
+TEST FOR RESISTANCE TO ALKALI 
+
+
+
+E-0 GENERAL 
+
+E-0.1 Outline of the Method 
+
+The film of the material is tested with a solution of 
+laundry soap followed by a solution of sodium 
+carbonate, washed dried and compared in performance 
+with a panel prepared with the registered sample. 
+
+El PROCEDURE 
+
+E-1.1 Immerse a panel prepared as prescribed 
+in D-1.1 in a 1 percent (m/v) solution of laundry soap 
+(see Type 1 of IS 285) for half an hour at temperature 
+
+
+
+of 27 ± 2°C. Remove, wash in running water, dry for 
+an hour and examine the film and then subject it to 
+test as prescribed under E-1.2. 
+
+E-1.2 Immerse the panel in a 2 percent (m/v) solution 
+of sodium carbonate of analytical reagent grade (see 
+IS 296) for half an hour at a temperature of 27 ± 2°C. 
+Remove the panel, wash in running water, dry for an 
+hour and examine the film. 
+
+E-1.3 The tested portion shall not show signs of 
+disintegration. The colour shall not vary more than 
+slightly from that of the untested portion of the test 
+panel. 
+
+
+
+IS 2932 : 2003 
+
+
+
+ANNEX F 
+
+[Table 2, SI No, (xi)] 
+
+ACCELERATED STORAGE STABILITY TEST 
+
+
+
+F-1 PROCEDURE 
+
+F-1.1 Store the paint sample in a closed 500-ml 
+container and keep at 60°C for 96 h. 
+
+F-L2 After the test, paint shall not gel, liver, curdle or 
+increase in viscosity by more than 20 percent of the 
+
+
+
+original value and there shall be no evidence of seeding. 
+The paint shall meet the drying requirements and 
+produce a film free from streaking, mottling and 
+seeding. Further, for finishing paint, change in gloss 
+value shall not be more than 5 units from that of original 
+value. 
+
+
+
+ANNEX G 
+
+(Clause 10.3.2) 
+
+TESTING PROGRAMME 
+
+
+
+G-1 When a purchaser orders for supply of paint 
+(conforming to this standard) in lots to be delivered, 
+over a period of time, it is assumed that not all of the 
+tests specified shall be carried out on samples 
+representing of each lot or consignment. The extent 
+and frequency of the tests may vary depending on many 
+factors and on choice of purchaser. The following 
+programme of tests is, however, may be useful for the 
+guidance of purchasers, particularly in relation to 
+vendor's certification. It may also provide a useful tool 
+to establish a testing programme when an inspecting 
+agency acting on behalf of a purchaser, is required to 
+examine lots of products for compliance to this 
+standard. 
+
+G-1.1 Programme 1 
+
+Following tests to be made on first lot and on every 
+subsequent lot: 
+
+a) Non-volatile content, 
+
+b) Mass per 10 litre, 
+
+c) Condition in container, 
+
+d) Fineness of grind, 
+
+e) Thinning properties. 
+
+
+
+f) Drying time, 
+
+g) Colour, 
+h) Gloss, 
+
+j) Finish, and 
+
+k) Viscosity. 
+
+G-1.2 Programme 2 
+
+Following tests to be made on first lot and subsequently 
+as and when agreed upon: 
+
+a) Flexibility and adhesion, 
+
+b) Scratch resistance, and 
+
+c) Acid resistance and alkali resistance. 
+
+G-1.3 Programme 3 
+
+Following tests to be made on first lot alone: 
+
+a) Durability, 
+
+b) Keeping qualities, 
+
+c) Volume solids percent, 
+
+d) Phthallic anhydride content of non-volatile 
+vehicle, percent by mass, and 
+
+e) Flash point. 
+
+
+
+14 
+
+
+
+IS 2932 : 2003 
+
+
+
+ANNEX H 
+
+(Foreword) 
+
+COMMITTEE COMPOSITION 
+
+Paints, Varnishes and Related Products Sectional Committee, CHD 20 
+
+
+
+Organization 
+
+In personal capacity (/-/, Orion, Oomer Park, Bhulabhai Desai Road, 
+Mumhai 400026) 
+
+Addisons Paint & Chemicals Ltd, Chennai 
+
+Asian Paints (India) Ltd, Mumbai 
+
+Bajaj Auto Limited, Pune 
+Berger Paints India Ltd, Howrah 
+
+Bharat Heavy Electricals Ltd, Tiruchirapalli 
+Central Building Research Institute, Roorkee 
+
+Central Public Works Department, New Delhi 
+
+Colour-Chem Limited, Thane 
+
+Consumer Unity & Turst Society (CUTS), Jaipur 
+
+Continental Coatings Pvl Ltd, Chennai 
+
+Directorate General of Supplies & Disposals, New Delhi 
+
+Export Inspection Council of India, New Delhi 
+
+Goodlass Nerolac Paints Ltd, Mumbai 
+
+Hindustan Shipyard Ltd, Visakhapatnam 
+
+ICI (India) Ltd, Kolkata 
+
+Indian institute of Chem Technology, Hyderabad 
+
+Indian Paints Association, Kolkata 
+
+Indian Petrochemicals Corp Ltd, Vadodra 
+
+Indian Small Scale Paint Association, Mumbai 
+
+Jenson & Nicholson (India) Ltd, Gorifa, 24 Parganas (N), West Bengal 
+
+Maruti Udyog Ltd, Gurgaon 
+
+Ministry of Defence (DGQA), Kanpur 
+
+Ministry of Environment & Forest, New Delhi 
+Ministry of Industry, New Delhi 
+
+Mumbai Paints Limited, Mumbai 
+
+National Organic Chemical Industries Ltd, Mumbai 
+
+National Test House (ER), Kolkata 
+
+Ofllce of the Devlopment Comissioner (SSI), New Delhi 
+
+Office of the Scientific Adviser to Chief Naval Staff, New Delhi 
+Oil and Natural Gas Corporation Ltd, New Delhi 
+Oil Technologists Association of India, Kanpur 
+
+
+
+Representative (s) 
+Shri Ravi Marphatia {Chairman) 
+
+Shri R. Srinivasan 
+
+Shri A. B. Menon 
+
+Dr B. p. Mauk (Alternate) 
+
+Representtative 
+
+Shri K. Nirmal Kumar 
+
+Shri N. K. Ray {Alternate) 
+
+Shri M. Somu 
+
+Dr L. K. Agarwal 
+
+Dr K. K. Asthana {Alternate) 
+
+Representative 
+
+Shri R. R. Vaidya 
+
+Shri Sandeep Singh 
+
+Shri M. B. Satyanarayana 
+
+Representative 
+
+Representative 
+
+Shri S. V, Porwal 
+
+Shri P. V. Ramana Murthy 
+
+Shri A. P. CH. N. Prasad {Alternate) 
+
+Representative 
+
+Dr K. V. S. N. Raju 
+
+Dr M. B. Guha 
+
+Shri V. M. Natu {Alternate) 
+
+Representative 
+
+Representative 
+
+Representative 
+
+Shri T. K. Banerjee 
+
+Shri M. S. Sultania 
+
+Shri L. S. Mishra {Alternate) 
+
+Representative 
+
+Shri P. K. Jain 
+
+Shri N. C. Tiwari {Alternate) 
+
+Representative 
+
+Dr B. V. Bapat 
+
+Dr B. B. Pal 
+
+Dr SuNiL Kumar Saha {Alternate) 
+
+Shri Y. S. Bhatnagar 
+
+Shri A. K. Jain {Alternate) 
+
+Shri R. K, Sehgal 
+
+Representative 
+
+Representative 
+
+
+
+{Continued on page 16) 
+
+
+
+15 
+
+
+
+IS 2932 : 2003 
+
+{Continued from page 15) 
+
+Organization 
+
+Punjab Paint Colour and Varnish Works, Kanpur 
+Research Designs & Standards Organization, Lucknow 
+Resins & Plastics Limited, Mumbai 
+Shriram Institute tor Uidustrial Research, Delhi 
+Sudarshan Chemicals Industries Ltd, Pune 
+
+Tata Engineering & Locomotive Co Ltd, Jamshedpur 
+The Indian Turpentine & Rosin Co Ltd, Bariely 
+Travancore Titanium Products Ltd, Triruvananthapuram 
+
+U. K. Paints Industries, New Delhi 
+BIS Directorate General 
+
+
+
+Representative (s) 
+
+ShRI G. N. TlWARJ 
+
+Representative 
+
+Shri M. C. Choksi 
+
+Representatpve 
+
+Shri Sudhir H. Harsule 
+
+Shri Mahesh D. Mettelloo {Alternate) 
+
+Representative 
+
+Shri R, C. Bassi 
+
+Shri V. S. Bashir 
+
+Dr K. Gopinathan Nair {Alternate) 
+
+Shri V. K. Nayyar 
+
+Shri S. K. Chaudhuri, Director & Head (CHD) 
+[Representing Director General (Ex-officio)] 
+
+
+
+Member Secretary 
+
+Shri N. K. Bansal 
+
+Joint Director (CHD), BIS 
+
+
+
+16 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publications), BIS, 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+'BIS Catalogue' and 'Standards: Monthly Additions'. 
+
+This Indian Standard has been developed from Doc : No. CHD 20 (946). 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters : 
+
+
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10 002 
+Telephones : 2323 0131, 2323 33 75, 2323 9402 
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110 002 
+
+Eastern : 1/14 C.I.T, Scheme VII M, V. I. P, Road, Kankurgachi 
+KOLKATA 700 054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160 022 
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 600 1 13 
+
+
+
+Western 
+
+
+
+Branches 
+
+
+
+Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400 093 
+
+
+
+Telegrams : Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+/ 2323 7617 
+\ 2323 3841 
+
+["2337 8499,2337 8561 
+1.2337 8626,2337 9120 
+
+
+
+{ 
+
+
+
+60 3843 
+60 9285 
+
+
+
+r2254 1216, 2254 1442 
+\_2254 2519, 2254 2315 
+
+r2832 9295, 2832 7858 
+1.2832 7891,2832 7892 
+
+
+
+AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. 
+GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM. 
+
+
+
+Printed at Prabhat Offset Press, New Delhi-2 
+
+
+

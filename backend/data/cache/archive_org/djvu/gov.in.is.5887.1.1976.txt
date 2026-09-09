@@ -1,0 +1,1320 @@
+***•••*•**•••••• 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+'The  Right  to  Information,  The  Right  to  Live' 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New' 
+
+
+IS  5887-1  (1976) :  Methods  for  Detection  of  Bacteria 
+Responsible  for  Food  Poisoning,  Part  I:  Isolation, 
+Identification  and  Enumeration  of  Escherichia  Coli  [FAD  15: 
+Food  Hygiene,  Safety  Management  and  Other  Systems] 
+
+
+C^IJIi^^=JCsS^ff71l^vS^3g^TN:^a^ITFSggg 
+
+
+5?5im  l7*55^!S&^N5«^^ 
+
+
+-i^-'i^VC^^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledg 
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+BLANK  PAGE 
+
+
+Vii^ 
+
+
+i4> 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+15  :  58S7CPart  0-1973 
+
+(Reaffirmed  2005) 
+
+Indian  Standard 
+
+METHODS  FOR 
+DETECT!0?J  OF  BACTERIA  RESPONSIBLE 
+
+FOR  FOOD  POISONING 
+
+PART  I     ISOLATION,   JPENTIFrCATJON  AND 
+ENiyMERATJOM  OF  ESCM£jRi€HfA  COU 
+
+
+( First  Revision ) 
+
+
+Fiihi  Rtprint  JULY  \n3 
+
+
+UDC     6U  2-099  :  664  ;  576&5r48078 
+
+
+®  C&pynghi    !977 
+INDIAM    STANDARDS    INSTITUTION 
+
+MANAK.    BHAVAN,  9  BAliADUH    SHAH    ZAfAK     UhKG 
+
+NEW  DELHI   llOCn; 
+
+Gf3  Auguft   1977 
+
+
+IS  :  5887  (  Part  I }  -  197« 
+
+Indian  Standard 
+
+METHODS  FOR 
+
+DETECTION  OF  BACTERIA  RESPONSIBLE 
+
+FOR  FOOD  POISONING 
+
+PART  I     ISOLATION,  IDENTIFICATION  AND 
+ENUMERATION  OF  ESCHERICHIA  COLl 
+
+
+{First  Revision) 
+
+
+Food  Hygiene,  Sampling  and  Analysis  Sectional  Committee,  AFDC  36 
+
+Chairman  Represtnting 
+
+Dr  Ranjit  Sen  Serologist  to   the  Government  of  India  (  DGHS  ), 
+
+Calcutta 
+
+Membtrs 
+
+AoHiCTTLTTTRAi.    Makketino     Directorate  of  Marketing  &  Inspection  (  Ministry  of 
+Adviser  to  the  Government  Agriculture  &  Irrigation  ),  Faridabad 
+
+ov  India 
+ShrI  T.  V.  Mathew  (  Alternate  ) 
+Shri  V.  N.  Amble  Institute  of  Agricultural  Research  Statistics  ( ICAR ), 
+
+New  Delhi 
+Shri  K.  S.  Krishnan  (  Alternate  ) 
+Dr  G.  G.  Da8  Health  OflSccr,  Corporation  of  Calcutta 
+
+Dr  P./K.  Datta  All  India  Institute  of  Hygiene  and   Public  Health, 
+
+'  Calcutta 
+
+Shri  Stjkumar  Db  National  Dairy  Research  Institute  (  ICAR  ),  Karnal 
+
+Dr  C.  a.  Mttlay  (  Alternate  ) 
+Shri  O.  P.  Dhamija  Export  Inspection  Council  of  India,  New  Delhi 
+
+Director  Central  Food  Laboratory,  Calcutta 
+
+Shri  C.  T.  Dwaekanath  Central    Food     Technological     Research     Institute 
+
+(  CSIR  ),  Mysore 
+Dr  M.  a.  Krishnaswamy  {Alternate ) 
+Executive  Health  Officer  Municipal  Corporation  of  Greater  Bombay 
+
+MuNicEPAL  Analyst  (  Alternate  ) 
+Health  Officer  Corporation  of  Madras 
+
+CoL  Kewal  Krishna  Health  Department,  Municipal  Corporation  of  Delhi 
+
+Dr  a.  D.  Kumar  (  Alternate  ) 
+
+
+(  Contiraud  on  page  2  ) 
+
+
+<g)  Copyright  1977 
+INDIAN  STANDARDS  INSTITUTION 
+
+This  publication  it  protected  under  the  Indian  Copyright  Act  (  XIV  of  1957  )  and 
+reproduction  in  whole  or  in  part  by  any  means  exccp^with  written  permission  of  the 
+publisher  shall  be  deemed  to  be  an  infringement  of  copyright  under  the  said  Act. 
+
+
+IS  :  5887  (  Part  I )  -  1976 
+
+(  Continued  from  page  1  ) 
+
+Membtrs  Rtpnstnling 
+
+Dr  (  Smt  )  S.  Khosla  Department  of  Health  &  Family  Planning,  Govern- 
+
+ment of  Punjab,  Chandigarh 
+Da  P.  K.  Kymal  Food  &  Nutrition  Board  (  Ministry  of  Agriculture  & 
+
+Irrigation  ),  New  Delhi 
+Dr  O.  N.  Agar w ALA  (  Altemale  ) 
+Maj  V.  A.  Narayanan  Defence    Food    Research   Laboratory   (  Ministry    of 
+
+Defence  ),  Mysore 
+Dr  G.  M.  Vekma  (  Alternate  ) 
+Public     Analyst     (Food     and    Government  of  West  Bengal,  Calcutta 
+Water  ) 
+
+Public  Analyst  (  Bacterio- 
+logy )  (  Alternate  ) 
+Dr  a.  N.  Rai  CHAWDHtTRi  National  Institute  of  Communicable  Diseases,  Delhi 
+
+Maj-Gen-D.  C.  Sachdeva  Directorate  General  of  Armed  Forces  Medical  Services 
+
+(  Ministry  of  Defence  ),  New  Delhi 
+Senior        Medical        Officer    Northern  Railway,  New  Delhi 
+
+(  Health  ) 
+Dr  S.  B.  Singh  Public     Analyst,    Government    of  Uttar    Pradesh, 
+
+Lucknow 
+Shri  N.  Srinivasan  Public  Analyst,  Government  of  Tamil  Nadu,  utadras 
+
+Dr  M.  R.  Sxtbbaram  Directorate  of  Sugar    &    Vanaspati    (  Minisu      of 
+
+Agriculture  &  Irrigation  ) 
+Shri  I.  A.  Siddiqi  (  Alternate  ) 
+Dr  T.  a.  V.  SuBRAMANiAN  Vallabhbhai  Patel  Chest  Institute,  Delhi 
+
+Dr  M.  C.  Swaminathan  Directorate  General  of  Health  Services  (  Ministry  of 
+
+Health  &  Family  Planning  ),  New  Delhi 
+Shri  D.  S.  Chadha  (  Alternate  ) 
+Col  R.N.  TaneJA  Q,iiartcrmaster  General's  Branch,  Army  Headquartej-s, 
+
+New  Delhi 
+Lt-Col  D.  D.  Vohra  {  Alternate ) 
+Shri  P.'C.  Vin  The  Coca-Cola  Export  Corporation,  New  Delhi 
+
+Shri  J.  D.  Contractor  (  Alternate  ) 
+Shri  T.  Purnananpam,  Director  General,  ISI  (  Ex-oJ/kio  Member  ) 
+
+Deputy  Director  (  Agri  &  Food  } 
+
+Secretary 
+
+Shri  S.  K.  Svd 
+Deputy  Director  (  Agri  &  Food  ),  ISI 
+
+Food  Microbiology  Subcommittee,  AFDC  36  :  7 
+
+Convener 
+Dr  Ran  jit  Sen  Serologist  to  the  Government  of   India  (  DGHS  ), 
+
+Calcutta 
+
+Members 
+Agricultural  Marketing    Directorate  of  Marketing  &  Inspectio       (Ministry  of 
+
+Adviser  to  the  Government  Agriculture  &  Irrigation  ),  Faridaf^. 
+
+of  India 
+Director  or  Laboratories  (  Alternate  ) 
+Maj  G.  S.  Bali  Defence  Food  Research  Laboratory    (^Ministry    of 
+
+Defence  ),  Mysore 
+Shri  K.  G.  Rapon  (  Alternate  ) 
+
+(  Continued  on  fiasf  12  ) 
+2 
+
+
+IS  :  5887  (  Part  I )  -  1976 
+
+Indian  Standard 
+
+METHODS  FOR 
+
+DETECTION  OF  BACTERIA  RESPONSIBLE 
+
+FOR  FOOD  POISONING 
+
+PART  I     ISOLATION,  IDENTIFICATION  AND 
+ENUMERATION  OF  ESCHERICHIA  COll 
+
+
+(First  Revision) 
+
+
+0.     FOREWORD 
+
+0.1  This  Indian  Standard  (  Part  I )  (  First  Revision )  was  adopted  by 
+the  Indian  Standards  Institution  on  13  December  1976,  after  the  draft 
+finalized  by  the  Food  Hygiene,  Sampling  and  Analysis  Sectional 
+Committee  had  been  approved  by  the  Agricultural  and  Food  Products 
+Division  Council. 
+
+0.2  Several  micro-organisms  contaminating  food  give  rise  to  clinical 
+symptoms.  These  are  abdominal  pain,  nausea,  vomitting,  diarrhoea 
+and  sometimes  pyrexia.  A  well-known  exception  is  that  of  botulism 
+where  the  symptoms  are  those  of  difficulty  in  swallowing,  diplopia, 
+aphonia  and  difficulty  in  respiration.  Poisoning  through,  food  h 
+characterized  by  the  explosive  nature  with  which  the  symptoms  occur  in 
+otherwise  healthy  individuals.  Often  several  persons  after  having 
+consumed  a  particular  item  of  food,  develop  symptoms  that  serve  as 
+important  guide  in  suspecting  food  poisoning.  Such  explosive  nature  of 
+food  poisoning  helps  in  differentiating  conditions  from  those  of  out-breaks 
+of  food-borne  infectious  diseases  which  generally  spread  over  a  period 
+of  several  days.  The  micro-organisms  causing  food  poisoning  belong 
+to  bacteria,  protozoa  and  helminths,  fungi  and  viruses.  However, 
+this  standard  covers  the  method  for  detection  and  estimation  of 
+important  bacteria  responsible  for  food  poisoning  food-borne  diseases. 
+
+0.3  This  standard  was  first  published  in  1970.  It  is  being  revised 
+in  parts  covering  methods  of  detection  and  estimation  of  various 
+bacteria  separately.  This  has  been  done  with  a  view  to  making  each 
+part  more  comprehensive  including  various  details  of  the  method.  It  is 
+expected  that  publication  of  these  methods  in  parts  will  facilitate  better 
+implementation    and   adoption   by   the  concerned   organizations.     This 
+
+
+IS 1 5887 (Part  I) -1976 
+
+will  also  make  review  and  revision  of  the  parts  easier.  The  salient 
+features  of  this  revision  are  as  follows: 
+
+a)  Besides   detection,   estimation  procedures   for  various  organisms 
+where  applicable  have  been  incorporated;  and 
+
+b)  Methods  of  identification  have  faeea  updated. 
+
+0,4  In  reporting  the  result  of  a  test  or  analysis  made  in  accordance  with 
+this  standard,  if  the  final  value,  observed  or  calculated,  is  to  be  rounded 
+off,  it  shall  be  done  in  accordance  with  IS  :  2-1960*. 
+
+
+1.  SCOPE 
+
+1.1  This  standard  (  Part  I )  prescribes  methods  for  isolation,  identifica- 
+tion and  enumeration  o£ Escherichia  coliin  foods. 
+
+2.  SAMPLING  AND  QUALITY  OF  REAGENTS 
+
+2.1  Sampling  —  For  microbiological  examination  the  samples  should  be 
+handled  carefully.     For  this  purpose,  IS  :  5404-1969'|"  shall  be  followed. 
+
+2.2  Qjaality  of  Reagents  —  Unless  specified  otherwise,  pure  chemicals 
+shall  be  employed  in  tests  and  distilled  water  ( see  IS  :  1070-1960J  )  shall 
+be  used  where  use  of  water  as  a  reagent  is  intended. 
+
+Note  —  •  Pure  chemicals '  shall  mean  chemicals  that  do  not   contain   impurities 
+which  affect  the  results  of  analysis. 
+
+3.  GENERAL  CHARACTERISTICS 
+
+3.1  The  typical  Escherichia  coli  is  aerobic,  Gram-negative  rod,  motile, 
+fermenting  lactose  with  the  production  of  gas  and  usually  produces 
+smooth,  non-mucoid  colonies  on  solid  media.  However,  there  are 
+non-lactose  fermenting  strains  of  Esch.  colt  and  some  strains  produce 
+mucoid  colonies.     The  organism  also  exhibits  the  following  characters: 
+
+a)  Hydrogen  sulphide  (  H^S  )  production  when  done  in  TSI  medium: 
+Negative 
+
+b)  Urease:  Negative 
+
+c)  Indole  :  Positive 
+
+d)  Methyl  red  :  Positive 
+
+e)  Voges-Proskauer  test  :  Negative 
+
+f )  Simmon's  citrate  :  Not  utilized 
+
+g)  Sucrose  :  Acid  and  gas  production  variable 
+
+h)  Salicin  :  Acid  and  gas  production  variable,  and 
+j)  Growth  at  44°G  in  MacConkey  broth  medium  :  Positive  with  acid 
+and  gas. 
+
+♦Rules  for  rounding  off  numerical  values  (  revised  ). 
+
+tCode  of  practice  for  handling  of  food  samples  for  microbiological  analysis. 
+
+^Specification  for  water,  distilled  quality  {  revised). 
+
+
+IS  1 5887  (  Part  I )  -  1976 
+
+4.  MEDIA 
+
+4.1  Nutrient  Broth  —  Mix  and  dissolve  by  heating  10  g  peptone  (j« 
+IS  :  6853-1973*),  10  g  meat  extract  {see  IS  :  6851-1973t),  5  g  sodium 
+chloride,  in  1  000  ml  water.  When  cool,  adjust/»H  to  7*5  to  7*6.  Remove 
+precipitate  by  filtration  through  filter  paper.  Sterilize  by  autoclaving 
+at  120°C  for  15  minutes. 
+
+4.1.1  Nutrient  Agar  —  To  the  medium  as  given  in  4.1  add  agar  {see 
+IS  :  6850-1973+)  in  such  a  concentration  as  will  solidify  and  produce  a 
+sufficiently  firm  surface  when  poured  in  sterile  petri  dishes.  The 
+concentration  of  agar  to  be  added  varies  from  batch  to  batch  and  should 
+be  adjusted  accordingly.  Usual  concentrations  required  vary  from  I'S 
+to  3  percent.  Dissolve  the  agar  in  the  nutrient  broth  and  sterilize  by 
+autoclaving  at  120°C  for  15  minutes.  Prepare  plates  and  slopes  from 
+sterile  nutrient  agar. 
+
+4.2  MacConkey  Broth  Medium 
+
+4.2.1  Single  Strength  Medium  —  Dissolve  by  steaming  in  1  000  ml  of  water, 
+20  g  peptone  {see  IS  :  6853-1973*  ),  5  g  sodium  taurocholate  or  bile  salts 
+(  see  IS  :  6852-1973§  )  and  5  g  sodium  chloride.  Autoclave  at  120°C  for 
+15  minutes  and  filter  while  hot  through  a  proper  grade  of  filter  paper,  or 
+a  plug  of  cotton  wrapped  in  gauge  and  placed  in  a  funnel.  Adjust  pH 
+of  the  filtrate  to  7"3  at  50°C  or  to  7'5  at  room  temperature.  Add  100  ml 
+of  10  percent  aqueous  solution  of  lactose  (or  10  g  lactose )  and 
+3'5  ml  of  2  percent  solution  of  neutral  red  in  50  percent  ethanol.  Mix 
+thoroughly,  distribute  into  sterilized  flasks  or  tubes  and  sterilize  by 
+autoclaving  at  120'C  for  15  minutes. 
+
+4.2.2  Double  Strength  Medium  —  The  procedure  is  same  as  in  4.2.1, 
+except  that  all  the  ingredients  are  double  the  amount  mentioned  in  4.2.1 
+dissolved  in  1  000  ml  water. 
+
+4.3  MacConkey  Agar  Medium  —  To  ingredients  as  in  single  strength 
+MacConkey  broth  medium  {seeA.2.\),  add  15  to  30  g  of  agar  (j-«IS:6850- 
+1973t  )  and  follow  the  procedure  as  in  4.2.1,  finally  sterilizing  by 
+autoclaving  at  120°C  for  15  minutes.  Pour  into  sterilized  petri  dishes 
+and  allow  to  set. 
+
+4.4  Eosin  Methylene  Blue  Lactose  Agar  Medium  —  Dissolve 
+by  steaming  in  1  000  ml  of  water,  10  g  peptone  {see  IS  :  6853-1973*  ), 
+2  g  of  dipotassium  hydrogen  phosphate  (  Ka  HPO4  )  and  15  to  30  g  agar 
+(  see  IS  :  6850- 1973;}:  ).  Make  up  to  1  000  ml  by  adding  water.  Dis- 
+pense in  100  or  200  ml  portions  in  suitable  containers  and 
+sterilize  at    120°C    for    15   minutes.     Final  pH   should    be    7-1    ±0-1. 
+
+
+♦Specification  for  peptone,  microbiological  grade, 
+fSpccification  for  meat  extract,  microbiological  grade. 
+^Specification  for  agar,  microbiological  grade. 
+§Specification  for  bile  salts,  microbiological  grade. 
+
+
+IS  t  5887  (  Part  I )  -  1976 
+
+Before  use,  melt,  and  to  each  100  ml  add  5  ml  of  sterile  ^0  percent 
+lactose  solution  in  water,  2  ml  of  aqueous,  2  percent  eosin  Y  solution  and 
+1*3  ml  of  0*015  percent  aqueous  methylene  blue  solution. 
+
+4.5  Tergitol-7  Ajg;ar  Medium  —  Dissolve  by  heating  in  1  000  ml  water, 
+5  g  proteose  peptone  (  see  IS  :  7128-1973*  ),  3  g  yeast  extract  (  see 
+IS  :  7004-1973t  )  10  g  lactose,  15  to  30  g  agar  {see  IS  :  6850-1 973J  ), 
+10  mlTergiiol-7  and  0'025  g  bromthymol  blue.  Sterilize  by  autoclaving 
+at  120'*G  for  15  minutes  and  pour  into  sterilized  petri  dishes.  The  final 
+pH.  of  medium  should  be  6*9. 
+
+4.6  Nutrient  Agar  Medinm  for  Motility  Test  —  Dissolve  3  g  meat 
+extract  ( see  IS  :  6851-1973§  ),  10  g  peptone  (  see  IS  :  6853-1973||  ),  5  g 
+sodium  chloride,  and  4  to  5  g  agar  (  see  IS  :  6850- 1973 J  )  in  1  000  ml 
+of  water.  Adjust  pH  between  7'5  and  7"6.  Put  the  dissolved  medium 
+into  test  tubes  to  till  a  part  of  the  tube  and  place  into  this  a  glass  tube 
+open  at  both  ends.  One  end  of  the  glass  tube  shall  project  from  above 
+the  surface  of  the  agar  for  npt  less  than  15  mm.  Sterilize  the  tubes  with 
+the  medium  at  120°G  for  15  minutes,  and  then  cool.  The  consistency 
+of  the  agar  should  be  soft  but  not  liquid.  This  should  be  achieved 
+by  altering  the  amount  of  aga-  used,  if  necessary. 
+
+4.7  TSI  Medium  for  H2S  Test  —  Heat  to  dissolve  in  1  000  ml  water, 
+3  g  meat  extract  (  see  IS  :  6851-1973§  ),  3  g  yeast  extract  (  IS  :  7004- 
+19731),  20  g  peptone  {see  IS  :  6853-l973||  )  1  g  glucose,  10  g 
+lactose,  10  g  sucrose,  0'2  g  ferrous  sulphate  (  Fe  SO*,  7H2O  ),  5  g 
+sodium  chloride,  0*3  g  sodium  thiosulphate  ( Na2  S2  Os,  5HgO)  and 
+15  to  30  g  agar  (  see  IS  :  6850-1 973 J  );  add  12  ml  of  0-2  percent  phenol 
+red  solution  mix  and  pour  in  tubes.  Sterilize  by  autoclaving  at 
+115°G  for  20  minutes.  Pour  into  sterile  test  tubes  and  cool  to  form 
+a  slope  with  deep  butts. 
+
+4.8  Medinm  for  Urease  Test  —  Dissolve  in  1  000  ml  water,  1*5  g 
+peptone  (  see  IS  :  7128-1973*  ),  5  g  sodium  chloride,  15  to  30  g  agar 
+{see  IS  :  6850-1973J  )  2  g  potassium  dihydrogen  phosphate  (  KH2PO4  ) 
+and  add  6  ml  of  1:500  aqueous  solution  of  phenol  red.  Adjust /iH  between 
+6*8  and  6*9.  Sterih'ze  by  autoclaving  at  120''C  for  15  minutes.  When 
+the  solution  has  cooled  to  about  SO'C,  add  a  sterile  solution  of  glucose 
+to  give  a  final  concentration  of  O'l  percent  and  add  100  ml  of  20  percent 
+solution  of  urea  previously  sterilized  by  seitz  filtration.  Distribute  in 
+sterile  test  tubes  to  form  deep  slopes. 
+
+•Specification  for  proteose  peptone,  microbiological  grade, 
+fSpecification  for  yeast  extract,  microbiological  grade. 
+tSpecJfication  for  agar,  microbiological  grade. 
+§Specification  for  meat  extract  microbiological  grade. 
+liSpecification  for  peptone,  microbiological  grade,        '* 
+
+
+ISi58a7(PartI)-l976 
+
+4.9  Medium  for  Indole  Production  —  The  tnedium  consists  of  20  g 
+peptone  (  see  IS  :  6853-1973*  )  and  5  g  of  sodium  chloride  in  1000  mi 
+of  water;  adjust  to^H  7'4,  Place  in  tubes  in  5  mi  amounts  and  sterilize 
+at  120'C  for  15  minutes.  The  medium  should  be  tested  with  a  strain  of 
+bacterium  known  to  produce  indole. 
+
+4.10  Medium  for  Methyl  Red  and  Voges-Proskaner  Tests  —  Steam 
+to  dissolve  in  I  000  ml  water,  5  g  peptone  (  IS  :  6858-1973*  )  and  5  g 
+dipotassium  hydrogen  phosphate  ( KH2PO4).  Filter  and  adjust  to^H  7*5. 
+Add  5  g  of  glucose,  mix  to  dissolve,  distribute  into  tubes  and  sterilize  at 
+ll5°Cfor  10  minutes. 
+
+4.11  Simmon's  Citrate  Agar  —  Dissolve  in  1 000  ml  water,  5  g  sodium 
+chloride,  0*2  g  magnesium  sulphate  (  Mg  SO4.7H2O  ),  1  g  ammonium 
+dihydrogen  phosphate,  1  g  dipotassium  hydrogen  phosphate,  2g  of  sodium 
+citrate,  and  15  to  30  g  agar  (  ««  IS  :  6850-1973t  ).  Add  40  ml  of 
+0*2  percent  bromothymol  blue  indicator  solution.  Adjust /)H  to  6*8  ±0*1, 
+and  sterilize  at  120°G  for  15  minutes,  tube  and  slant  so  that  there  is 
+equal  butt  and  slope. 
+
+4.12  Peptone  Water  Medium  for  Carbohydrate  Fermentation 
+Tests  —  Dissolve  10  g  peptone  ( see  IS  :  6853-1973*  )  and  5  g 
+sodium  chloride  in  900  ml  of  water  and  adjust  the  ^H  to  7*1  to  7*3 
+so  that  after  addition  of  10  ml  of  Andrade's  indicator  the ^H  shall  be  7*5. 
+( Andrade's  indicator  solution  is  prepared  by  adding  1  N  sodium  hydroxide 
+solution  to  0*5  percent  aqueous  solution  of  acid  fuchsin  until  the 
+colour  of  the  indicator  solution  is  just  yellow  ).  Sterilize  at  1 15*0  for  20 
+minutes.  Dissolve  10  g  of  the  requisite  sugar  in  90  ml  of  water  and 
+steam  for  30  minutes  or  sterilize  by  filtration.  With  sterile  precautions, 
+add  90  ml  of  this  sugar  solution  and  10  ml  of  Andrade's  indicator 
+solution  to  900  ml  of  the  sterile  peptone  water  solution.  Distribute  into 
+sterile  test  tubes  containing  inverted  Durham's  fermentation  tubes,  and 
+steam  for  30  minutes. 
+
+5.  PROCEDURE  FOR  ISOLATION 
+
+5.1  Where  necessary^  blend  the  sample  in  a  sterile  blender  jar  for  2 
+minutes  or  macerate  with  sterile  sand  in  a  sterile  mortar  using  approxi- 
+mately 200  ml  of  diluting  fluid  per  25  g  of  the  sample.  The  diluting  fluid 
+for  preparing  the  homogenate  should  be  0*  1  precent  peptone  (  see  IS :  6853- 
+1973*  )  solution  in  water,  sterilized  at  120'*G  for  20  minutes  and  final  ^H 
+adjusted  68  ±  0*1,  or  3'4  percent  of  potassium  diyhdrogen  phosphate 
+(  KH2PO4  )  in  water, />H  adjusted  to  7*2  and  sterilized  at  120°C  for  20 
+minutes.  Inoculate  1  ml  of  the  blended  or  macerated  sample  into  10  ml 
+of  single  strength  MacConkey  broth  medium  (  4,2.1 ).  If  the  number  of 
+organisms  are  assumed  to  be  very  small,  inoculate  10  ml  of  double  strength 
+
+♦Specification  for  peptone,  microbiological  grade, 
+tSpecification  for  agar,  microbiological  grade. 
+
+
+IS:5887(PartI)-1976 
+
+MacConkey  broth  medium  (  4.2.2  ).  Also  streak  loopfuls  on  to 
+MacConkey  agar  medium  (  4.3  ),  eosin  methylene  blue  lactose  agar 
+(  4.4  ),  and  if  available  Tergitol-7  agar  (  4.5  ).  Incubate  all  the  inocu- 
+lated media  at  37^G  overnight.  If  there  is  growth  with  fermentation  of 
+lactose  in  the  MacConkey  broth  medium  (  4.2.1  )  streak  out  a  loopful 
+on  to  each  of  the  solid  media  ( 4.3,  4.4  and  4.5  ),  and  incubate  at 
+37°C  overnight. 
+
+6.  TESTS  FOR  IDENTIFICATION 
+
+6.1  Pick  out  and  mark  as  many  suspect  colonies  from  the  solid  media  as 
+possible,  but  not  less  than  5,  to  investigate.  The  suspect  colonies 
+are  smooth  and  are  lactose  fermenting  on  MacConkey  agar  (  4.3  )  and  on 
+eosin  methylene  blue  lactose  agar  (4.4),  and  are  yellow  colonies 
+surrounded  by  yellow  zones  on  Tergitol-7  agar  medium  (  4.5  ). 
+
+6.2  Escherichia  coli  —  Suspect  when  conforming  to  the  characters 
+mentioned  in  3  and  tested  as  given  in  6.2.1  to  6.2.10. 
+
+6.2.1  GrarrCs  Stain  —  The  stain  consists  of:  (a)  0"5  percent  methyl 
+violet  or  crystal  violet  in  water,  (b)  iodine  solution  (  1  percent  iodine 
+and  2  percent  potassium  iodide  in  water  ),  and  (c)  counter-stain  (  O'l  g 
+neutral  red,  0*2  ml  of  1  percent  acetic  acid  and  100  ml  water  ). 
+
+6.2.1.1  On  a  clean  grease-free  slide,  very  light  and  thin  smear 
+covering  a  small  area,  is  made  directly  from  the  liquid  culture  and  in 
+clean  tap  water  if  from  solid  media.  The  smear  is  fixed  by  passing  to 
+and  fro  over  a  flame  and  cooled.  Cover  the  smear  with  the  stain 
+(a)  for  30  seconds,  pour  off  the  stain  and  wash  with  (b)  and  then  cover 
+with  (b)  and  allow  to  remain  for  30  seconds.  Wash  oflF  with  ethanol 
+until  the  dye  ceases  to  stream  out.  Wash  in  running  tap  water  and 
+apply  (c)  for  about  one  minute.  Wash  in  tap  water  and  dry  for 
+examination. 
+
+6.2.2  Test  for  Motility  — ■  Inoculate  by  stabbing  with  a  straight  wire 
+into  the  top  of  the  medium  as  given  in  4.6  the  strain  to  be  tested,  inside 
+the  glass  tubing  to  a  depth  of  about  5  mm.  Take  care  that  inoculation 
+is  not  made  on  to  the  surface  of  the  medium  outside  the  glass  tubing. 
+Incubate  at  ^TC  for  18  to  24  hours.  Motile  strains  shall  be  found  to 
+show  growth  on  the  surface  of  the  medium  outside  the  '  inner  glass 
+tube '  having  travelled  through  the  entire  medium  inside  this  inner 
+tube.  If  negative  on  the  first  day,  keep  the  inoculated  tube  at  room 
+temperature  for  a  further  4  to  6  days  to  see  if  evidence  of  motility  is 
+present. 
+
+6.2.3  Test  for  H^S  Production  —  Inoculate  TSI  medium  (  4.7 )  by 
+stabbing  the  strain  into  the  butt  and  streaking  the  slope.  Incubate  at 
+37''G  and  observe  daily  for  up  to  7  days.  The  presence  or  absence  of 
+blackening  in  the  butt  of  the  medium  shall  be  recorded. 
+
+8 
+
+
+IS  :  5887  (  Part  I  )  -  1976 
+
+6.2.4  Test  for  Urease  —  Inoculate  the  organisms  from  the  24-hour 
+incubated  nutrient  broth  ( 4.1 )  culture  heavily  over  the  entire  slope 
+surface  of  medium  as  in  4.8  and  incubate  at  ST'C  for  18  to  24  hours.  A 
+positive  urease  is  shown  by  the  medium  becoming  pink  or  red  on 
+incubation.  If  negative,  continue  incubation  for  at  least  4  days,  Proteus 
+species  gives  a  positive  result  and  may  be  used  as  '  control'. 
+
+6.2.5  Test  for  Indole  —  Inoculate  medium  as  in  4.9  with  a  loopful  of 
+24  hour  growth  in  nutrient  broth  ( 4.1 )  and  incubate  at  37°G  for 
+48  hours.  Add  0*5  ml  of  Kovac's  reagent,  prepared  by  dissolving  10  g 
+/)-di methyl-am inobenzaldehyde  in  150  ml  amyl  alcohol  or  tJo-amyl  alcohol 
+and  to  which  50  ml  of  concentrated  hydrochloric  acid  is  slowly  added. 
+Prepare  the  reagent  in  small  quantities  and  store  in  refrigerator.  After 
+adding  Kovac's  reagent,  shake  the  tube  gently,  the  appearance  of  a  red 
+colour  indicates  the  presence  of  indole. 
+
+6.2.6  Test  with  Methyl  Red — Inoculate  the  medium  as  in  4.10  and 
+incubate  at  37''C  for  2  days.  Add  2  drops  of  methyl  red  solution  prepared 
+by  dissolving  0'04  g  of  methyl  red  in  40  ml  of  absolute  ethanol  and 
+diluting  with  water  to  make  up  to  100  ml.  A  positive  reaction  is  indi- 
+cated by  red  colour  and  a  negative  reaction  by  yellow  colour. 
+
+» 
+
+6.2.7  Test  for  Voges-Proskauer  Reaction  —  Inoculate  the  medium  as  in  4.10, 
+and  incubate  at  ZTG  for  2  days.  To  1  ml  of  the  growth  add  0'6  ml  of 
+af/>Aa-naphthol  solution  prepared  as  5  percent  solution  in  ethanol.  Shake 
+and  add  0*2  ml  of  40  percent  aqueous  solution  of  potassium  hydroxide. 
+Shake  and  slope  the  tube  and  observe  for  up  to  4  hours  for  the  appearance 
+of  a  pink  colour  which  indicates  a  positive  reaction. 
+
+6.2.B  Test  for  Citrate  Utilization  —  Inoculate  the  strain  on  to  medium  as 
+in  4.11  with  a  young  nutrient  agar  (  4.1.1  )  slant  culture  using  a  straight 
+wire.     Incubate  at  37°C  for  up  to  4  days  for  growth  of  the  organism. 
+
+6.2.9  Test  for  Fermentation  of  Carbohydrates  —  Inoculate  the  medium  as 
+in  4.12  and  the  carbohydrates  indicated  in  3.1*  using  1  percent  concent- 
+ration for  the  lactose,  and  incubate  at  37°C  for  18  hours.  Record  the 
+presence  of  acid  from  pink  colour  and  that  of  gas  in  the  Durham's  Tube. 
+
+6.2.10  Test  for  Growth  with  Acid  and  Gas  Production  in  MacConkey  Broth  — 
+Inoculate  the  medium  as  in  4.2.1  and  incubate  at  44°C  for  2  days. 
+
+7.  ENUMERATION  OF  ESCHERICHIA  COLl 
+
+7.0  General  —  The  procedure  describes  enumeration  of  Esch.  coli  and 
+has  been  included  in  this  standard  as  in  many  instances,  the  laboratory 
+investigation  is  directed  only  towards  enumeration  o^  Esch,  coli  to  assess 
+the  hygienic  quality  of  a  product.  Since  there  is  serious  reservations 
+regarding  the  use  of  the  term  'coliforms',  the  name  Escherichia  coli  is 
+being  used  in  this  standard,  and  the  procedure  accordingly  is  for  the 
+enumeration  of  Esch.  coli. 
+
+9 
+
+
+IS  :  5887  (  Part  I )  -  1976 
+
+7.1  Preparation  of  Sample  —  Take  25  to  50  g  of  the  sample  in  a 
+sterile  blender  jar  and  to  this  add  diluting  fluid  ( see  5.1  )  to  have 
+dilution  of  I0"i.  Blend  at  8  000  to  10000  rev/min  for  2  minutes.  Alterna- 
+tively macerate  with  the  diluting  fluid  in  a  sterile  mortar  with  sterile 
+sand.  Make  serial  ten-fold  dilutions  with  the  diluting  fluid,  in  duplicate 
+series,  up  to  10'«. 
+
+7.2  Plate  Count  —  Spread  out  0*  1  ml  from  each  dilution  tube,  as 
+obtained  in  7.1,  evenly  on  to  Tergito  1-7,  agar  (  4.5  ),  and  incubate  at 
+37°C  for  24  hours.  Enumerate  the  colonies  of  Esch.  coli,  which  are  yellow 
+in  colour  surrounded  by  a  yellow  zone,  and  confirm  these  as  being  Esch, 
+coli  by  the  tests  described  in  6.2.  The  number  of  viable  colonies  of  Esch. 
+coli  per  gram  of  sample  shall  be  determined  by  multiplying  by  the  dilution 
+factor(s)  and  dividing  by  the  mass  of  the  sample.  If  Targitol-7  agar 
+(  4.5  )  is  not  in  use,  then  MacGonkey  agar  plates  (  4.3  )  or  eosin 
+methylene  blue  lactose  agar  plates  (  4.4  )  may  be  used. 
+
+7.3  Determination  of  the  Most  Probable  Number  o{  Esch.  coli  — 
+
+Obtain  serial  dilutions  of  the  sample  as  in  7.1.  Transfer,  with  a  fresh 
+sterile  pipette,  a  measured  volume  of  1  ml  of  the  homogenized  mixture 
+and  of  the  five  following  serialdilutions  of  both  dilution  series  in  tripli- 
+cate to  the  tubes  of  10  ml  of  single  strength  MacCionkey  broth  medium 
+(  4.2.1  )  containing  Durham's  tube  for  collectiojn  of  gas.  Start  with 
+highest  dilution  and  proceed  to  the  lowest,  filling  and  emptying  the 
+pipette  three  times  before  transferring  the  1  ml  portions  to  the  tubes  of 
+medium  (  4,2.1  ).  When  the  number  of  Esch.  coli  is  assumed  to  be  very 
+small,  start  by  transferring  10  ml  of  the  homogenized  mixture  in  tripli- 
+cate to  10  ml  of  double  strength  MacGonkey  broth  medium  (  4.2.2  )  con- 
+taining Durham's  tube  for  collection  of  gas,  using  a  sterile  10  ml  pipette. 
+Incubate  in  a  water-bath  at  44''C  for  48  hours.  Examine  the  tubes 
+showing  production  of  acid  and  gas,  and  using  Table  I ,  obtain  the  most 
+probable  number  (  MPN  )  of  Esch.  coli  per  gram  of  the  sample.  Use  for 
+the  calculation  the  results  from  three  dilutions,  selecting  the  highest 
+dilution  showing  three  positive  tubes  below  which  no  sets  with  a  smaller 
+number  of  positive  tubes  occur,  and  the  two  following  higher  dilutions. 
+The  number  obtained  from  Table  1  has  to  be  multiplied  by  the  lowest 
+dilution  factor,  namely  that  of  the  first  set  of  tubes,  to  obtain  the  most 
+probable  number  of  Esch.  coli  per  gram  of  the  sample.  For  example, 
+when  dilution  10°  (  =10  ml  of  macerate  ),  10"^  and  10'^  are  found  to 
+give  the  following  numbers  of  positive  tubes  :  2,  2,  1,  the  MPN  is  28 
+bacteria  per  gram,  and  when  the  dilutions  10^  10'^,  10"^  lO->,  10*  and 
+10'*  are  found  to  give  the  following  numbers  of  positive  tubes  :  3,  3,  3, 
+2,  0,  0,  the  MPN  is  9-3  (  3,  2,  0  ),  multiplied  by  the  dilution  factor  10^, 
+that  is,  93  X  10^  bacteria  per  gram.  The  MPN  is  reported  as  the 
+average  of  the  results  obtained  from  each  of  the  duplicate  dilution  series. 
+
+10 
+
+
+IS  :  5887  (  Part  I )  -  1976 
+
+
+TABLE  1    MOST  PROBABLE  NUMBER  (  MPN  )  OF  ESCHERICHIA  COLI 
+
+(  Claust  7.3  ) 
+
+
+Number  ot 
+
+Positive  Tubes 
+
+PER  Dilution 
+
+A_                   
+
+MPN 
+
+Number  oj- 
+
+Positive  Tubes 
+
+PER  Dilution 
+
+MPN 
+
+Number  ov 
+Positive  Tube* 
+per  Dilution 
+
+MPN 
+
+10» 
+
+10-1 
+
+10-' 
+
+r— — 
+10« 
+
+10-1 
+
+io-» 
+
+10° 
+
+10-1 
+
+io-» 
+
+- 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+0 
+
+0 
+
+0 
+
+0-30 
+
+1 
+
+1 
+
+1-1 
+
+2 
+
+2 
+
+3 
+
+4-2 
+
+0 
+
+0 
+
+1 
+
+0-30 
+
+1 
+
+2 
+
+1-5 
+
+2 
+
+3f 
+
+0 
+
+2-9 
+
+0 
+
+0 
+
+2 
+
+0-60 
+
+1 
+
+3 
+
+1-9 
+
+2 
+
+3 
+
+1 
+
+3« 
+
+0 
+
+0 
+
+3 
+
+0-90 
+
+2 
+
+0 
+
+I'l 
+
+2 
+
+3 
+
+2 
+
+4-4 
+
+0 
+
+1 
+
+0 
+
+0-30 
+
+2 
+
+1 
+
+1-5 
+
+2 
+
+3 
+
+3 
+
+5-3 
+
+0 
+
+1 
+
+1 
+
+0-61 
+
+2    * 
+
+2 
+
+2-0 
+
+3 
+
+0 
+
+0 
+
+2'3 
+
+0    . 
+
+1 
+
+2 
+
+0-92 
+
+2 
+
+3 
+
+2-4 
+
+3 
+
+0 
+
+1 
+
+3-9 
+
+0 
+
+1 
+
+3 
+
+1-2 
+
+3 
+
+0 
+
+1-6 
+
+3 
+
+0 
+
+2 
+
+6-4 
+
+0 
+
+2 
+
+0 
+
+0-62 
+
+3 
+
+1 
+
+2-0 
+
+3 
+
+0 
+
+3 
+
+9-5 
+
+0 
+0 
+
+2 
+2 
+
+1 
+2 
+
+0-93 
+1*2 
+
+3 
+3 
+
+2 
+3 
+
+2-4 
+2-9 
+
+3 
+3 
+
+1 
+1 
+
+0 
+I 
+
+4-3 
+
+7-5 
+
+0 
+
+2 
+
+3 
+
+1-6 
+
+2 
+
+0 
+
+0 
+
+0-91 
+
+3 
+
+1 
+
+2 
+
+12-0 
+
+0 
+
+3 
+
+0 
+
+0-94 
+
+2 
+
+0 
+
+1 
+
+1-4 
+
+3 
+
+1 
+
+3 
+
+160 
+
+g 
+
+3 
+
+1 
+
+1-3 
+
+2 
+
+0 
+
+2 
+
+2-0 
+
+3 
+
+2 
+
+0 
+
+9-3 
+
+0 
+
+3 
+
+2 
+
+1-6 
+
+2 
+
+0 
+
+3 
+
+2-6 
+
+3 
+
+2 
+
+I 
+
+15'0 
+
+0 
+
+3 
+
+3 
+
+1-9 
+
+2 
+
+1 
+
+0 
+
+1-5 
+
+3 
+
+2 
+
+2 
+
+21-0 
+
+0 
+
+0 
+
+0-36 
+
+2 
+
+I 
+
+1 
+
+20 
+
+3 
+
+2 
+
+3 
+
+290 
+
+0 
+
+1 
+
+072 
+
+2 
+
+I 
+
+2 
+
+2-7 
+
+3 
+
+3 
+
+0 
+
+24-0 
+
+0 
+
+2 
+
+ri 
+
+2 
+
+I 
+
+3 
+
+3-4 
+
+3 
+
+3 
+
+I 
+
+460 
+
+0 
+
+3 
+
+1-5 
+
+2 
+
+2 
+
+0 
+
+21 
+
+3 
+
+3 
+
+2 
+
+HOC 
+
+1 
+
+0 
+
+0-73 
+
+2 
+2 
+
+2 
+2 
+
+1 
+2 
+
+2-8 
+3-5 
+
+3 
+
+3 
+
+3 
+
+110-0 
+
+7,3.1  Before  reporting  the  results  as  being  the  .»MPN  of  Esch.  coli, 
+confirm  the  growth  in  the  tubes  as  being  Esch.  coH  by  plating  out  from 
+the  positive  tubes  on  to  MacConkey  agar  (  4.3  ),  or  eosin  methylene  blue 
+lactose  agar  (  4.4  ),  or  Tergitol-7  agar  (  4.5  ),  and  confirming  the 
+typical  colonies  {  3.1  and  6.1  )  as  being  Esch.  colt  by  the  tests  described 
+in  6.2. 
+
+
+11 
+
+
+ISi5887(PartI)-1976 
+
+(  Continued  from  page  2  ) 
+
+
+Members 
+Db  a.  N.  Bosk 
+Db  Subbata  Chakbavorty 
+
+
+Rel>resenting 
+The  Bengal  Immunity  Co  Ltd,  Calcutta 
+Bengal   Chemical   and  Pharmaceutical   Works    Ltd, 
+
+Calcutta 
+King  Institute,  Madras 
+Cholera  Research  Centre  { Indian  Council  of  Medical 
+
+Research ),  Calcutta 
+Indian    Veterinary     Research    Institute    (  ICAR  ), 
+
+Izatnagar 
+Vallabhbhai  Patel  Chest  Institute,  Delhi 
+Db  (  Smt  )  V.  BaJaj  (  Alternate ) 
+Dr  M.  a.  Kribhnaswamy  Central     Food     Technological     Research     Institute 
+
+(  CSIR ),  Mysore 
+Shbi  C.  T.  Dwabeanath  (  Alternate  ) 
+ShbiK.  R.  Nabasimhan  The  Metal  Box  Company  of  India  Ltd,  Calcutta 
+
+Dr  S.  C.  Chakbavobty  (  Alternate ) 
+
+
+DlRBCTOB 
+
+Db  a.  K.  Ghosh 
+
+Hbad,  Division  of  Biolooical 
+
+Pbooitcts 
+Db  a.  p.  Joshi 
+
+
+Db  a.  N.  Rai  Chowdhuby 
+
+Db  B.  RjviraANATHAK 
+
+Db  M.  V.  Sant 
+
+Db  Shbiniwas 
+
+Db  N.  S.  Subba  Rao 
+
+Col  R.  N.  Taneja 
+
+
+Central  Research  Institute,  Kasauli 
+
+National 'Dairy  Research  Institute  (  ICAR  ),  Karnal 
+
+Haffkine  Institute,  Bombay 
+
+All  India  Institute  of  Medical  Sciences,  New  Delhi 
+
+Indian    Agricultural    Research   Institute    ( ICAR  ), 
+
+New  Delhi 
+Focd      Inspection      Organization,      Qiiartermaster 
+
+General's  Branch,  Army  Headquarters 
+Lt-Col  D.  D.  Vohba  (  Alternate  ) 
+
+
+12 
+
+

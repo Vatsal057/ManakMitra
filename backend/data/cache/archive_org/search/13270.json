@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":18,"params":{"query":"identifier:gov.in.is.13270.*","qin":"identifier:(gov.in.is.13270.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.13270.1992","title":"IS 13270: Test for gases by orsat and chromatographic methods"}]}}

@@ -1,0 +1,1469 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 3005-2 (1979) : Grey Cast Iron Ingot Moulds, Stools and 
+Slag Ladles, Part II: Grey Cast Iron Ingot Moulds of Mass 
+More than Eight Tonnes [MID 6: Pig iron and Cast Iron] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+ISt3edS(FitrirJ)H97» 
+
+( Reaffirmed 2005 ) 
+
+Indian Standard 
+
+SPECIFICATION FOR GREY CAST IRON 
+INGOT MOULDS, STOOLS AND SLAG LADLES 
+
+PART II GREY CAST JRON INGOT MOULDS OF 
+MASS MORE THAN £l(iHT TONNES 
+
+
+
+( First Revision ) 
+
+
+
+UDC 62l'71bjy3O77-103 2 1 [ 669 13 16 ] 
+
+
+
+
+© Copyright I98€ 
+
+INDIAN STANDARDS INSTITUTION 
+
+MAMAK UHAVAN, 9 HAHAniJR SHAH ZAFAR MARG 
+
+NEW DELHI IIUCOZ 
+
+
+
+
+JuilE 1930 
+
+
+
+AMENDMENT NO. 1 MAY 2011 
+
+TO 
+
+IS 3005 (PART 2) : 1979 SPECIFICATION FOR GREY 
+
+CAST IRON INGOT MOULDS, STOOLS AND SLAG 
+
+LADLES 
+
+PART 2 GREY CAST IRON INGOT MOULDS OF MASS 
+MORE THAN EIGHT TONNES 
+
+( First Revision ) 
+
+(Page 4, clause 2.1) — Substitute the following for the existing: 
+
+'The grades of grey iron ingot moulds shall be as per IS 210 : 1993§' and add a 
+footnote as follows: 
+
+'§Grey iron castings (fourth revision).' 
+
+(Page 4, clause 3.1) — Substitute 'IS 1387 : 1993V for 'IS 1387-19671'. 
+
+(Page 4, clause 5.1) — Substitute 'IS 228}'/or 'IS : 228-1959}'. 
+
+(Page 4, Table 1, row 2) — Substitute 'Carbon, Min -3.4' for 'Total 
+
+carbon, Min 3.6'. 
+
+(Page 4, Table 1, row 7, col 2) — Substitute '0.18'/or '0.30'. 
+
+(Page 4, footnote marked t) — Substitute '{second revision)' for '{first 
+revision)\ 
+
+(Page A, footnote marked %) — Substitute the following for the existing: 
+
+'Methods of chemical analysis of pig iron, cast iron and plain carbon and low alloy steels {revised) 
+(issued in parts).' 
+
+(Page 5, clause 9.1, line 5) — Substitute ' 24 hours '/or '8 hours'. 
+
+(Page 5, clause 10.1, informal table) — Add the following note at the end 
+of the table. 
+
+
+
+whose value is > 635 mm.' 
+1 
+
+
+
+Amend No. 1 to IS 3005 (Part 2) : 1979 
+
+(Page 7, clauses 15.1.1 and 15.2) — Add the following sentence at the 
+beginning: 
+
+a) 'Repair shall be done at the outside surface only. 
+
+b) Substitute 'IS 5139 : 1995*'/or 'IS : 5139-1969*.' 
+
+(Page 7, clause 15.2) — Delete. 
+
+(Page 7, clause 15.3) — Delete. 
+
+(Page 1, footnote marked *) — Substitute the following for the existing: 
+
+'Repair of cast iron castings by oxyacetylene and manual metal arc welding — Recommendation 
+{first revision).'' 
+
+(Page 9, clause 15.14.1) — Delete. 
+
+(Page 12, clause 19.2.1) — Substitute the following for the existing: 
+
+'19.2.1 BIS Certification Marking 
+
+Each ingot mould may also be marked with the Standard Mark. 
+
+19.2.1.1 The use of the Standard Mark is governed by the provisions of the 
+Bureau of Indian Standards Act, 1986 and the Rules and Regulations made 
+thereunder. The details of conditions under which the licence for the use of 
+Standard Mark may be granted to manufacturers or producers, may be obtained 
+from the Bureau of Indian Standards.' 
+
+
+
+(MTD 6) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+IS : 3005 ( Part II ) ■ 1979 
+
+Indian Standard 
+
+SPECIFICATION FOR GREY CAST IRON 
+INGOT MOULDS, STOOLS AND SLAG LADLES 
+
+PART II GREY CAST IRON INGOT MOULDS OF 
+MASS MORE THAN EIGHT TONNES 
+
+
+
+( First Revision ) 
+
+
+
+Cast Iron and Malleable Cast Iron Sectional Gommitteej SMDC 9 
+
+Chairman Representing 
+
+Dr Pranlal Patel Malleable Iron & Steel Castings Co Pvt Ltd, 
+
+Bombay 
+
+Members 
+
+Shei R. M. Balani Directorate General of Technical Development, 
+
+New Delhi 
+Shri T. R. Mohan* Rao ( Alternate ) 
+SiiRi E. L. Bartji National Test House, Calcutta 
+
+Shri S. Chandra Indian Register of Shipping, Bombay 
+
+Shri D. G. Dodhia Shah Malleable Castings Ltd, Thane 
+
+Shri K. S. Garg Electrosteel Castings Ltd, Calcutta 
+
+Shri S. N, Agrawal ( Alternate ) 
+Shri Govind Singh Greysham & Co, Delhi 
+
+Shri F. S. Katpitia Jyoti Ltd, Vadodara 
+
+Shri M. R. Shah ( Alternate ) 
+Shri K. S. Lal Indian Iron & Steel Co Ltd, Calcutta 
+
+Shri M. K. Ghosh (Alternate) 
+Shri M. P. Singh Ministry of Defence ( DGOF ) 
+
+Shri R. N. Mueherjeb Steel Authority of India Ltd, Bokaro Steel Plant, 
+
+Bokaro 
+Shri A. K. Awasthi ( Alternate ) 
+Cdb K. R. Nair Pioneer Equipment Co Pvt Ltd> Vadodara 
+
+Shri G. N. Pandey Oil & Natural Gas Commission, Dehra Dun 
+
+Shri R. A. Panduranga Best & Crompton Engineering Ltd, Madras 
+
+Shri M. Bapujee ( Alternate ) 
+Dr P. S. Pattihal Tata Engineering & Locomotive Co Ltd, Jam- 
+
+shedpur 
+Shri B. K. Giri ( Alternate) 
+Representative Steel Authority of India Ltd, R&D, Centre for 
+
+Iron & Steel, Ranchi 
+
+( Continued on page 2 ) 
+
+
+
+@ Copyright 1980 
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act, 
+
+
+
+IS : 3005 ( Part II ) - 1979 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shbi B, G. Sastry Ductron Castings Ltd, Hyderabad 
+
+Siiiii M. S. Dalvi ( Alternate ) 
+Senior Chemist & Metalltjk- Ministry of Railways 
+
+GIST, GhITTARANJAN LOCOMO- 
+TIVE Works, Ghittaranjan 
+Deputy Director ( Met )-I, 
+Research Design & Stan- 
+dards Organization, 
+LucKNOw ( Alternate ) 
+Shri C. S. S. Setty Ennore Foundries Ltd, Madras 
+
+Shri T. S. Venkoba Rao ( Alternate ) 
+Shri J. N. Sharma Heavy Engineering Corporation Ltd, Ranchi 
+
+Shri T. N. Tandon ( Alternate ) 
+Shri P.J. Shenoy Kesoram Spun Pipes & Foundries, Calcutta 
+
+Shri S, C. Narsaria {Alternate) 
+Shri R, K. Sinha Fertilizer Corporation of India Ltd, Sindri 
+
+Shri D. Srinivasan Joint Plant Committee, Calcutta 
+
+Shri B. P. Ghosh ( Alternate) 
+Shri A. Srinivasulu Bharat Heavy Electricals Ltd 
+
+Shri A. K. Mittal ( Alternate I ) 
+Shri A. Somastjndaram ( Alternate XI ) 
+Shri N. S, Swaminathan Tractors and Farm Equipment Ltd, Madras 
+
+Shri S. Natesan ( Alternate) 
+Shri K. M. Taneja Directorate General of Supplies & Disposals 
+
+( Inspection Wing ) 
+Shri M. C. Aich ( Alternate ) 
+DrJ, K. TiWARY National Metallurgical Laboratory ( CSIR ), 
+
+Jamshedpur 
+Shbi C. R. Rama Rao, Director General, ISI ( Ex-officio Member) 
+
+Director { Struc & Met ) 
+
+Secretary 
+
+Shri Shanti Swarup 
+Deputy Director ( Metals ), ISI 
+
+Panel for Ingot Moulds, SMDC 9/P-2 
+
+Convener 
+Shri R. N. Mukherjee Bokaro Steel Plant ( SAIL ), Bokaro 
+
+Members 
+Shri S. C. Chaudhury Steel Furnace Association of India, New Delhi 
+
+Shri D. Srinivasan ( Alternate ) 
+Shri J. V. Gadgil Indian Iron & Steel Co Ltd, Kulti 
+
+Shri M. K. Ghosh ( Alternate ) 
+Shri M. N. Kitanna Bhilai Steel Plant ( SAIL ), Bhilai 
+
+Shri R. R. Saran ( Alternate ) 
+Shri K. N. Mehra Heavy Engineering Corporation Ltd, Ranchi 
+
+Shri M. M, G. Agrawal ( Alternate ) 
+Shri P. P. Rastogi Rourkela Steel Plant ( SAIL), Rourkela 
+
+Shri D. D. Singh ( Alternate ) 
+Representative Ministry of Defence ( DGOF ) 
+
+Shri I. D. Sherwani Modella Steels & Alloys Ltd, Bombay 
+
+Shri T, Sudhakar Tata Iron & Steel Go Ltd, Jamshedpur 
+
+Shri A. N. Mitra ( Alternate ) 
+
+
+
+IS : 3005 ( Part II ) - 1979 
+
+Indian Standard 
+
+SPECIFICATION FOR GREY CAST IRON 
+INGOT MOULDS, STOOLS AND SLAG LADLES 
+
+PART II GREY CAST IRON INGOT MOULDS OF 
+MASS MORE THAN EIGHT TONNES 
+
+( First Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( First Revision ) was adopted by the Indian 
+Standards Institution on 16 November 1979, after the draft finalized by 
+the Cast Iron and Malleable Cast Iron Sectional Committee had been 
+approved by the Structural and Metals Division Council. 
+
+0.2 This standard was first published in 1964. While reviewing the stan- 
+dard in the light of the experience gained, the committee felt that this 
+standard should be split up into various parts covering the requirements 
+for bottom stools and ingot moulds of various sizes. This standard is one 
+of the series of the various parts and shall be covering ingot moulds 
+weighing more than eight tonnes. 
+
+0.2.1 The other parts in this series are as follows: 
+
+Part I Bottom stools for large size ingot moulds weighing 8 tonne 
+and higher. 
+
+Part III Grey cast iron ingot moulds of mass more than one tonne 
+and up to eight tonnes. 
+
+Part IV Grey cast iron ingot moulds of mass up to one tonne 
+
+a) without hot tops, and 
+
+b) with hot tops. 
+
+0.3 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, express- 
+ing the result of a test or analysis, shall be rounded off in accordance with 
+
+
+
+IS: 3005 (Part II) -1979 
+
+IS : 2-1960*. The number of significant places retained in the rounded ofT 
+value should be the same as that of the specified value in this standard. 
+
+
+
+1. SCOPE 
+
+1,1 This standard ( Part II ) covers the requirements for grey cast iron 
+ingot moulds of mass more than eight tonnes. 
+
+2. GRADES 
+
+2.1 Grey iron ingot moulds shall be of two grades, that is, grades 1 and 2. 
+
+3. SUPPLY OF MATERIALS 
+
+3.1 General requirement relating to supply of grey cast iron ingot moulds 
+shall conform to IS : 1387-1967t. 
+
+4. MANUFACTURE 
+
+4.1 The melting procedure shall be optional to manufacturer. 
+
+5. CHEMICAL COMPOSITION 
+
+5.1 The material for both the grades of ingot moulds when analysed in 
+accordance with IS : 228-1959J, shall conform to the requirements 
+specified in Table 1. 
+
+TABLE 1 CHEMICAL COMPOSITION OF GREY IRON INGOT MOULDS 
+
+Constituent Percent 
+
+Carbon equivalent 
+
+{TO + 0-3 (Si + p)} 4-3 — 4-6 
+Total carbon, Min 3*6 
+
+Combined carbon, Max 0'3 
+
+Silicon 1-0 — 1*8 
+
+Manganese 0*6 — 1*0 
+Sulphur, Max 0*08 
+
+Phosphorus, Max 0*30 
+
+Note — Ranges closer than those given above for the chemical composition 
+may be agreed to between the purchaser and the manufacturer within the above 
+specified limits. 
+
+
+
+♦Rules for rounding off numerical values {revised). 
+
+tGeneral requirements for the supply of metallurgical materials (first revision ). 
+J Methods of chemical analysis of pig iron, cast iron and plain carbon and low alloy 
+steels ( revised). 
+
+
+
+IS : 3005 ( Part II ) - 1979 
+
+6. POURING METHOD 
+
+6,1 Pouring should be done from the ladle so that the flow of the hot 
+metal is continuous with the hot rnetai ievei in the pouring cup not less 
+than half its height. 
+
+7. POURING TEMPERATURE 
+
+7.1 Pouring temperature shall be 1 190° to I 220°G when measured by 
+optical pyrometer. 
+
+8. POURING TIME 
+
+8*1 The pouring rate of metal should correspond to 0*7 to I'O tonne/minute, 
+and it should be in the form of continuous stream, with either bottom 
+or top pouring with the help of pouring cup. Interruptions in pouring 
+should strictly be avoided. After pouring is over, sufficient feeding should 
+be given to avoid shrinkage. 
+
+9. COOLING CYCLES 
+
+9.1 The mould should not be touched up to 8 hours after pouring. There- 
+after the ingot moulds shall be transported from the pit to the stripping 
+site. Mould tearing off shaii be done after complete solidification of the 
+metal in the moulds. This time shall be different for different ingot moulds, 
+but in no case less than 8 hours. The ingot moulds after tearing off shall be 
+kept in sand jackets for uniform cooling to ensure minimum thermal stress. 
+Cooling in the sand jackets shall not be less than 72 hours for up to 15T 
+ingots moulds and 96 hours for other types. Cleaning of sand by hydro- 
+blasting shall not be allowed before 72 to 96 hours of pouring depending 
+upon the mass of the ingot mould, 
+
+10. DIMENSIONS 
+
+10.1 Details of typical dimensions for small-end-up rectangular moulds are 
+given below for guidance only. 
+
+Dimension 8-0 Tonnes 15'7 Tonnes 18-4 Tonnes 21 Tonnes 28'2 Tonnes 
+
+i) Internal 37*5 22*2 22'2 222 22'6 
+
+taper 
+mm/meter 
+
+ii) Mean wall 
+thickness 
+
+(a) 
+
+Top, mm 0'96a 109a l-08a 106a 1006a 
+
+
+
+IS : 3005 ( Part II ) - 1979 
+
+
+
+Dimension 8*0 Tonnes 15'7 Tonnes 18*4 Tonnes 21 Tonnes 28*2 Tonnes 
+
+
+
+Middle, 
+mm 
+
+Bottom, 
+mm 
+
+iii) Corner 
+thickness 
+
+iv) Corner 
+radius 
+( internal ) 
+
+v) Height 
+( mm ) 
+
+vi) Internal 
+surface 
+
+
+
+l'07a 
+M8a 
+
+0-95 
+wall 
+centre 
+
+0-06Z)' 
+
+
+
+2 400 
+
+
+
+M5a 
+l-20a 
+
+0-95 
+wall 
+centre 
+
+0-06Z)' 
+
+
+
+2 700 
+
+
+
+113a 
+l"19a 
+
+0-95 
+wall 
+centre 
+
+0-06D' 
+
+
+
+2 700 
+
+
+
+Mia 
+M5a 
+
+0-95 
+wall 
+centre 
+
+
+
+2 700 
+
+
+
+l-04a 
+l-08a 
+
+0-95 
+wall 
+centre 
+
+
+
+0-06Z)' 0-06Z)' 
+
+
+
+2 650 
+
+
+
+plain 
+
+
+
+10. 1-1 For reinforcement steel band may be provided at the bottom 
+which may be 10 to 15 mm inside the outer periphery. The size and 
+shape of steel band may be agreed upon between the purchaser and the 
+manufacturer. 
+
+11. PREPARATION OF SAND MOULDS 
+
+11.1 Ingot moulds should be cast in sand mould. The sand moulds should 
+have a graphite coating and green hardness 80 to 90 and bottom hardness 
+90 minimum. Dry strength of the sand mixture should be more than Q'b kg/ 
+cm2 and permeability more than 200. The sand moulds should be dried 
+and provided with sufficient vents. 
+
+12. HEAT TREATMENT 
+
+12.1 If required, the ingot moulds may be stress relieved by heating to a 
+temperature of 700 to 750''G and soaking for 10-30 hours depending 
+upon the thickness of the ingot mould and by cooling slowly at the rate 
+of 40°C/h in furnace till the temperature of 250''C is attained. 
+
+13. HARDNESS 
+
+13.1 The hardness of the ingot moulds of mass less than 15 tonnes shall 
+not exceed 140 HB and for ingot moulds of mass more than 15 tonnes it 
+shall not exceed 130 HB, 
+
+
+
+IS s 3005 { Part II ) - 1979 
+
+14. FREEDOM FROM DEFECTS 
+
+14.1 Structure of cast iron shall be pearlitic-ferritic, with flaked graphite 
+and without presence of free cementite. The fracture shall be grey 
+homogeneously dense without any porosity. Inside surface of ingot moulds 
+should be cleaned of moulding sand, free from any seams, sand depression, 
+cracks, crust, cavities, cold shut, scruff marks pittings, scabs, rat-tail, bulger 
+or depression and similar other defects. 
+
+15. REPAIR OF CASTINGS 
+
+15.1 No castings shall be repaired or welded without prior permission of 
+the purchaser. 
+
+15*1.1 All repairs by welding shall be carried out in accordance with the 
+procedure laid down in IS : 5139-1969*. 
+
+15.2 If required the welding could be permitted on the inside surface of 
+the ingot mould only after fulfilling the following conditions: 
+
+a) Defects that are to be repaired shall be cleaned by chiselling. 
+
+b) The depth of defects prepared for welding shall not exceed 15 
+percent of the ingot mould wall thickness at that point and the 
+total defective area shall not exceed the values given below for 
+various thicknesses: 
+
+Thickness of Ingot Total Surface Area of Defects 
+
+Mould at the Centre Allowed for Vv elding 
+
+mm 
+
+Up to 500 10 000 mm2 
+
+Over 500 to 1 000 62 500 mm2 
+
+Over 1 000 to 2 000 160 000 mmS 
+
+Note — If it is essential to weld cavities located on inside surface of the ingot 
+mould within a depth of 200 mm from upper edge, this area shall not be taken into 
+account while calculating the total area of welding. 
+
+15.3 While welding the cavities on inside surface, the following points 
+shall be observed: 
+
+a) Before welding the area should be chiselled up to the base metal. 
+
+b) Welding should be done with proper electrodes. 
+
+c) Welded area should be thoroughly cleaned by grinding. 
+
+
+
+* P>ecom.m.ended procedure for repair of grey iron castings by oxyacetylene and 
+manual metal arc welding. 
+
+
+
+IS : 3005 ( Part II ) - 1979 
+
+d) In no case artificial rectification of defects by filling them with 
+cast iron, clips in graphite or paste or by rivetting shall be 
+allowed. 
+
+15,3.1 While checking the inside surface of the ingot moulds by a 
+straight edge, the gap between the mould surface and the edge shall not 
+be more than that specified below: 
+
+Thickness of Ingot Maximum Permissible Gap 
+
+Mould at the Centre 
+
+mm mm 
+
+250 to 330 4 
+
+Over 330 up to 550 5 
+
+Over 550 up to 750 6 
+
+Over 750 10 
+
+15.4 Outside surface of ingot moulds shall not have any cracks, cavities, 
+projections, and shall be clean from burnt moulding sand and fins. Local 
+projections up to 30 mm high shall be allowed on outside surface, provided 
+they do not hinder proper installation of an ingot mould on the bottom 
+plate. 
+
+15.5 Projections at 200 mm distance around the lugs shall not be more 
+than 15 mm. 
+
+15.6 Certain cavities and local depressions of depth not more than 10 
+percent of average wall thickness shall be allowed without welding on 
+outside surface of the grade 1 ingot moulds. 
+
+15.7 Certain cavities and local depressions of depth not more than 15 
+percent of average wail thickness shall be allowed without welding on 
+outside surface of the grade 2 ingot moulds. 
+
+15.8 Local cavities and depressions on the outside surface of ingot moulds 
+with depth which is above the norms of grade 2 but does not exceed 20 
+percent of the wall thickness, should be welded with electrodes and ground 
+by grinding wheel. Such welded ingot mould shall be treated as grade 2. 
+
+15.9 The following defects shall be allowed on the outside surface of the 
+ingot moulds: 
+
+a) The areas of severe sand fusion which is difficult to remove. 
+
+b) Rectification of defective sand depressions by chipping, welding 
+and grinding on a grinding wheel can be done if the defective 
+area does not exceed 300 cm^ and depth of chipping not more 
+than 15 mm* 
+
+
+
+IS : 3005 ( Part II ) - 1979 
+
+c) Welding of not through cracks at any place on the outside surface 
+of the ingot mould shall be allowed if the length of a crack does 
+not exceed 300 mm, width not m.ore than 5 m^m and depth of 
+chiselling not more than 5 percent of wall thickness, 
+
+15.10 The bottom face of the open ingot m.oulds should be machined 
+strictly so as to make it perpendicular to the axis of ingot mould, 
+
+15.11 Cavities on the bottom, surface, not more than 20 mm deep and 
+located beyond the reach of 50 mm from inside surface shall be allowed to 
+be welded. The cavities shall be chiselled properly before welding. Total 
+area of welding should not exceed 10 percent of the bottom surface area. 
+The grade of ingot moulds as per welding area of bottom surface should 
+be determined as follows : 
+
+SI No. Grade Welding Area of Bottom Surface 
+
+mm 2 
+
+i) 1 Up to 10 000 
+
+ii) 2 Up to 20 000 
+
+Welded areas should be ground by grinding wheel, 
+
+15*12 Inside edges of the bottom surface should be sharp, without any 
+cavities, depression and dents. The inside edges with not more than 15 
+mm in radius shall be allowed without rectification. 
+
+15.13 The top and bottom surface of the open ingot moulds shall be 
+machined, if required, 
+
+15.14 Local cavities not more than 10 mm deep and located beyond the 
+reach of 30 mm from the inside bottom ^dgc may be allowed on the 
+bottom surface of the mould. 
+
+15.14.1 Welding of inside surface defect not more than 15 mm deep 
+and extending at not more than 25 percent of the surface edge length may 
+be allowed. 
+
+15.15 Local cavities with diameter and depth 10 mm and 5 mm respec- 
+tively for grade 1 and 20 mm and 10 mm respectively for grade 2 shall 
+be allowed on the lug surface, but they should not be more than two in 
+number for each lug. 
+
+15.16 Permissible deviation in the ingot mould dimensions from the 
+drawing dimensions shall be as specified in Table 2. 
+
+
+
+ISt 3005 ( Part n). 1979 
+
+
+
+TABLE 2 PERMISSIBLE DEVIATION IN INGOT MOULD DIMENSIONS 
+
+
+Si. 
+No. 
+
+
+Description of DEVIATIo:^TS 
+
+
+Grade 
+
+
+Deviation 
+mm 
+
+
+NOTB 
+
+
+i) 
+
+
+Height deviation 
+
+
+1 
+2 
+
+
+±25 
++ 30 
+-25 
+
+
+
+
+ii) 
+
+
+Difference in wall thickness 
+
+
+1 
+2 
+
+
+±10 
+■ ± 15 
+
+
+— 
+
+
+Hi) 
+
+
+Difference, diagonal of inside 
+cross-section 
+
+
+1 
+2 
+
+
+±10 
+±15 
+
+
+Rhomboidal 
+
+
+iv) 
+
+
+Dimensions of inside cross-section 
+
+
+:} 
+
+
+±10 
+
+
+
+
+v) 
+
+vi) 
+
+
+Angular curvature radius 
+Lugs dimensions 
+
+
+n 
+
+:} 
+
+
+± 10 
+
+±20 
+±15 
+± 10 
+
+
+As per height 
+
+As per thickness 
+As per width 
+
+
+vii) 
+
+
+Lugs displacement 
+
+
+1 
+
+2 
+
+
+± lOT 
+± 15J 
+
+
+Vertically and 
+horizontally 
+
+
+viii) 
+
+
+Difference of wall thickness 
+of flutes as per depth 
+
+
+1 
+2 
+
+
+± 10 
+± 15 
+
+
+
+
+
+16, GUIDELINES FOR USING INGOT MOULDS 
+
+16.1 Guidelines for using ingot moulds for achieving better results have 
+been specified in Appendix A for information. 
+
+17. SAMPLING FOR CHEMICAL ANALYSIS 
+
+17.1 Two spoon samples shall be taken during the pouring of each cast 
+or ladle when about one-third and two-thirds of the metal has been 
+discharged. The spoon samples so obtained shall be cast separately in 
+dry sand in the form of 30 m.m diameter bars about 75 m.m long. Alter- 
+natively the mould may be filled directly from the metal stream. The test 
+bars shall be suitably marked so that the castings they represent could be 
+identified. 
+
+17.2 After cleaning the surface, two flats shall be ground near the bottom 
+of each test bar and the test bar drilled with a 25 mm drill from one 
+clean surface to the other. The speed of the drill should not be more than 
+9 to lOrev/min. Drillings after being thoroughly mixed shall constitute 
+the sample for chemical analysis. 
+
+
+
+10 
+
+
+
+IS: 3005 (Part II) -1979 
+
+17.3 For the determination of total carbon the liquid metal shall be 
+poured into a special split mould ( see Fig. 1 ). This gives pins of iron 3 
+mm in diameter which can be broken off and used directly for total car- 
+bon determination. 
+
+
+
+
+
+FRONT AND SiDE ELEVATIONS 
+
+
+
+
+All dimensions in millimetres. 
+Fig. 1 Pin Mould for Carbon Samples 
+
+
+
+11 
+
+
+
+IS: 3005 (Fart II) -1979 
+
+18, RE-TEST AND REJECTION 
+
+18.1 If a sample selected for testing fails to meet the requirements speci- 
+fied under 5.1 and 13,1, the purchaser shall select two further samples 
+from the same cast or ladle. If on- testing, either of these samples fails to 
+meet the specified requirements, the whole lot shall be deemed as not 
+complying with this standard. 
+
+19. MARKING 
+
+19.1 Each ingot mould shall be legibly marked with an identification 
+mark by which it is possible to trace the cast or ladle from which it was 
+poured. 
+
+19.2 By agreement between the purchaser and the manufacturer ingot 
+moulds complying with the requirements of this standard shall, after 
+inspection, be marked with an acceptance mark, 
+
+19.2.1 The ingot moulds may also be marked with the ISI Certification 
+Mark. 
+
+Note — The use of the ISI Certification Mark is governed by the provisions of 
+the Indian Standards Institution ( Certification Marks ) Act and the Rules and 
+Regulations made thereunder. The ISI Mark on products covered by an Indian 
+Standard conveys the assurance that they have been produced to comply with the 
+requirements ot that standard under a well-defined system of inspection, testing and 
+quality control which is devised and supervised by ISI and operated by the prod- 
+ucer, ISI marked products are also coniinuously checked by ISI for conformity to 
+that standard as a further safeguard. Details of conditions under which a licence 
+for the use of the ISI Certification Mark may be granted to manufacturers or 
+processors, may be obtained from the Indian Standards Institution. 
+
+
+
+APPENDIX A 
+
+( Clause 16.1 ) 
+
+GUIDELINES FOR USING INGOT MOULDS FOR ACHIEVING 
+
+BETTER RESULTS 
+
+A-0* GENERAL 
+
+A-O.I The following guidelines may be adopted for the use of ingot 
+moulds for achieving better results. 
+
+A-1, Every new mould should be thoroughly preheated to a temperature 
+of 100*-150''C before it is put in service* 
+
+12 
+
+
+
+IS : 3005 ( Part II } - 1979 
+
+A-2. Mould temperature before teeming should be maintained within the 
+range of 50-80°G. Mould should not be used in either overheated or 
+cold condition. 
+
+A-3» Moulds should invariably be cleaned and coated before teeming. 
+
+A-4. Temperature of metal during teeming should not exceed 1 570'^C. 
+
+A-5. Running stopper, inclined stream and cold heat should be avoided 
+
+as far as possible. 
+
+A-6. Ingot residence time should be effectively controlled to a minimum. 
+
+A-7. Artificial cooling should not be resorted to until the mould tempe- 
+rature comes down to SOO^G, which may take 3 to 4 hours. Mould cycle 
+should be preferably kept at 16 hours. 
+
+A-8. Economic feasibility of redressing and stress relieving treatment of 
+moulds, after half life is spent, shall be considered. 
+
+A-9» Change of mutual position of moulds in a mould train after every 
+heat is teemed should be introduced so that all are uniformly affected 
+during the cycle of operation. 
+
+A-10. Chemical composition of the mould metal shall be selected depend- 
+ing upon performances in the plant. However, some special attempt to 
+minimize S, P, N, O and H content shall have beneficial effect on mould 
+life, 
+
+A-II. The technology of manufacture of moulds should be framed 
+through proper investigation so that castings are free from discontinuities 
+entrapment; or deterimental micro-constituents. 
+
+A-12. Special attention shall be paid to the cooling of moulds. 
+
+
+
+13 
+
+
+
+INDIAN STANDARDS 
+
+ON 
+
+CAST IRON AND MALLEABLE CAST IRON 
+
+IS: 
+
+210-1978 Grey iron castings { third revision ) 
+
+1230-1978 Cast iron rainwater pipes and fittings ( second revision ) 
+1536-1976 Gentrifugally cast ( spun ) iron pressure pipes for water, gas and sewage 
+
+( second revision ) 
+1537-1976 Vertically cast iron pressure pipe for water, gas and sewage ( first revision ) 
+1538 ( Parts I to XXIII )-i976 Cast iron fittings for pressure pipes for water, gas and 
+
+sewage ( second revision ) 
+1729-1964 Sand cast iron spigot and socket soil, waste and ventilating pipes fittings 
+
+and accessories 
+1865-1974 Iron castings with spheroidal or nodular graphite { second revision ) 
+1879 ( Parts I to X )-1975 Malleable cast iron pipe fittings {first revision ) 
+2107-1977 Whiteheart malleable iron castings [first revision ) 
+2108-197? Elackheart malleable iron castings {fi.rst reviswn ) 
+2640-1977 Pearlitic malleable iron castings (first revision ) 
+2749-1974 Austenitic iron castings (first revision ) 
+3355-1974 Grey iron castings for elevated temperatures for non-pressure containing 
+
+parts [first revision ) 
+3486-1966 Gast iron spigot and socket drain pipes 
+
+3516-1968 Cast iron pipe flanges and flanged fittings for petroleum industry 
+3896-1966 Comparison of Indian and Overseas standards for iron castings 
+3989-1970 Gentrifugally cast (spun ) iron spigot and socket soil, waste and ventilat- 
+ing pipes, fittings and accessories (first revision ) 
+4771-1972 Abrasion-resistant iron castings (first revision ) 
+
+5519-1979 Deviations for untoleranced dimensions of grey iron castings (f,rst revision ) 
+5531 (Parts I to III)-1977 Gast iron specials for use with asbestos cement pressure 
+
+pipes (first revision ) 
+5787-1970 Spheroidal or nodular graphite iron castings for paper mill dryer rolls 
+5788-1970 Iron castings with spheroidal or nodular graphite for pressure containing 
+
+parts for use at elevated temperatures 
+5789-1970 Austenitic spheroidal iron castings for pressure containing parts suitable 
+
+for low temperature service 
+6163-1978 Gentrifugally cast ( spun) iron low pressure pipes for water, gas and sewage 
+
+(first revision ) 
+6331-1971 Automotive grey iron castings 
+
+6418-1971 Gast iron and melleable cast iron flanges for general engineering purposes 
+6629-1972 Cast iron rolls 
+
+7181-1974 Horizontally cast iron double flanged pipes for water, gas and sewage 
+7520-1974 Corrosion-resistant high silicon iron castings 
+7925-1976 Low alloy types of abrasion resistant iron castings 
+8329-1977 Gentrifugally cast (spun ) ductile iron pressure pipes for water, gas and 
+
+sewage 
+8349-1977 Deviations for untoleranced dimensions of malleable iron castings 
+8350-1977 Deviations for untoleranced dimensions of spheroidal or modular graphite 
+
+iron castings 
+8794-1978 Gast iron detachable joints for use with asbestos cement pressure pipes 
+
+
+
+PUBLICATIONS OF INDIAM STANDARDS INSTITUTION 
+
+
+
+INOtAN STANDARDS 
+
+Ov&r 10 000 Indian Standards cov&rinc various aubfacts have been 
+issued so tar. Of these, Ih© standards belonging to the Structural and 
+Metals Group faff und^r th# folJowina categories: 
+
+
+
+■Li^ppqr Jind coppcf alioyn 
+
+Cfinai and Bllifld tp!>Ujiin»i 
+Dttign cod^s 
+
+Foundry raw materlalft and ^-qylpfintfll 
+
+altoyi 
+LlQht m^ldis and Ifi-Qir aUoyg 
+Metatllc flnishsi 
+
+M«til1egrfphy itid he it treBtment 
+Ndn^dflttryctive les^tma 
+Oriidi aiid raw n^ialtarlalit 
+PJg I rem, esat ir&n Dnd rnalltiblt 
+
+
+
+Pqwdflr metLillorgicJl malirrj^li^ qnd 
+
+products 
+
+QuBltly c:cntr(}l 
+
+Steel cflStEBigfr 
+Staaj lurglitgs 
+
+Stc^l |jfOLlLiCti| wrQuglil dditl duyr 
+St^E-l tube^Sr p^pea ^nd filtingis 
+Slr4JclurBi aHapsii 
+
+Welding 
+
+EnQJowrs' &||de 
+
+Ha^idbeol; fc^r vriild*ri 
+
+ISI handbOQlisldr fttniDtufaionoins^ri 
+
+Sl-fram tabled 
+
+
+
+OTHER PUBLICATIONS 
+
+€1 BLiiJ«tln (Published £v«ry Ivtonth} 
+
+SiriiglB Copy 
+
+Annual S^bacfiptSofn „, ... ..< 
+
+Slflnddrds : Monttily AddfUons 
+
+Artnjal Subscription 
+Annja[ Reports (from l94£-4g Onwartfs J 
+
+
+
+Ra 4' DO 
+
+Re a«'«o 
+
+Re 0-ao 
+
+Rs top 
+Ra 2-ODiol-ofl 
+
+Rs ee-Qci 
+
+
+
+INDIAN STANDARDS IN9T|TUTrO» 
+Manal Bhavin. B BAhadur ^HAh zarar Marup Ntw utLHi i\\tQ9Z 
+
+T«t*0lion*i I M W ai, 27 01 31 
+fttgionat OtficMSi 
+
+We<»l«rn : Nov^lly Chambsri, Sram ftepo 
+Eastarn t S Chowrliiohae Approach 
+Southorn I C, J^ T. C»niput, A4fur 
+
+■^pu^hpafc', NurmohiBrned Shalhl^ Marq, Khanpur 
+' P^' Hiuch, Ui^lly Bldg, NarailrrihArala Square 
+
+SangQEri Comptflx, Bhadbhada Hot.fi, T. T» Naoar 
+
+Est Kalpa^a Ar«a 
+
+ANFiiaa Bida, SCO Ji?-aa, SmEqMTC 
+
+D-27 7 Tcdarcii&ii Marc, ganloafli, 
+117<41P B SarvodavD Naqaf 
+
+Pal I Ipiitra Industrial Eatata 
+
+Hanipx Rlria C3nd Ftaon.RtV Sliillan Road 
+
+
+
+r-uti 
+
+
+iram4 n Mai 
+
+
+iAl^MM*th« 
+
+
+
+
+Telflp^ona 
+
+
+eoMSAY 4[uua7 
+
+
+ar ^ ^ 2y 
+
+
+CALCUTTA 700&72 
+
+
+£T5J0^ 
+
+
+MAonAS Epooeo 
+
+
+41 24 4SS 
+
+
+AHUADAB^a 
+
+
+kD 380001 
+
+
+e P3»1 
+
+
+BAN^sALOR 
+
+
+E 5ED0a2 
+
+
+ff 1 
+
+
+'€ 49 
+
+
+6H0PAL 4&: 
+
+
+?-)&3 
+
+
+a: 
+
+
+f7 ie 
+
+
+Bt^UBANESF 
+
+
+^^AR 7Slal 4 5 3 
+
+
+[b SJ 
+
+
+CHANDI6A 
+
+
+RH16DD17 
+
+
+2 Ei 
+
+
+tJ2U 
+
+
+HYDCRABA 
+
+
+□ 5UUU(I1 
+
+
+If? 10 ua 
+
+
+JAIPUR 3(W 
+
+
+OOo 
+
+
+6 93 32^ 
+
+
+KANPUR 20:1005 
+
+
+1 12 7£ 
+
+
+RATNA 300013 
+
+
+B£ai3a 
+
+
+TRlVANDfll 
+
+
+JM assooi 
+
+
+i 
+
+
+12 2? 
+
+
+

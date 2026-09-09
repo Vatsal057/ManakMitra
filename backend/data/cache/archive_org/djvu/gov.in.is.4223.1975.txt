@@ -1,0 +1,931 @@
+**************** 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 4223 (1975): Steel Wire for Umbrella Ribs [MTD 4: 
+Wrought Steel Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+15:4223. 1975 
+
+( Reaffirmed 2001 ) 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+STEEL WTRE FOR UMBRELLA RIBS 
+
+
+
+( First Revision ) 
+
+
+
+UDC C69'14-426:G72'92 
+
+
+
+
+© Ccpyrish! 197fi 
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAK BHAVAN. *» BAHADUR SHAH ZAFAR MAkG 
+
+NJ-;W DELHI IICKK);^ 
+
+Pri^e ^j 5"* - Jiimujry 1976 
+
+
+
+IS : 4223 - 1975 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+STEEL WIRE FOR UMBRELLA RIBS 
+
+
+
+(First Revision) 
+
+
+
+Wrought Steel Products Sectional Committeej SMDG 5 
+Chairman Representing 
+
+Db U. N. Bhbany Modella Steel and Alloys Ltd, Bombay 
+
+Members 
+Shki E. Abraham Association of Indian Engineering Industry, 
+
+Calcutta 
+Shbi M. Anjaneyulu Mining & Allied Machinery Corporation Ltd, 
+
+Durgapur 
+Shbi D. P. Sanyal ( Alternate ) 
+Shbi N. C. Bagchi National Test House, Calcutta 
+
+Shbi A. K. Banerjee Metallurgical and Engineering Consultants (India) 
+
+Ltd, Ranchi 
+Shbi B. N. Sikgh ( Alternate ) 
+Shbi S. Banebjbe Steel Re-rolling Mills Association of India, 
+
+Calcutta 
+Shbi S. K. Basu Guest, Keen, Williams Ltd, Howrah 
+
+Shbi A. Roy GhowdHuby ( Alternate ) 
+Db S. S. Bhatnagab National Metallurgical Laboratory ( CSIR ), 
+
+Jamshedpur 
+Shbi Y. P. S, Bishnoi Bokaro Steel Ltd, Bokaro Steel City 
+
+Shbi J. C. Erby (Alternate) 
+Shbi P, K. Ghakbavabty Tata Iron & Steel Co Ltd, Jamshedpur 
+
+Shbi M. C. Ktjmabaswamy ( Alternate ) 
+Shbi G, Chattebjeb Durgapur Steel Plant, Durgapur 
+
+Shbi K. Z. Mathem ( Alternate ) 
+Shbi P. K. Chattbbjbe Ministry of Defence ( DGI ) 
+
+Shbi M. M. Gupta ( Alternate ) 
+Dr N. S. Datab Rourkela Steel Plant, Rourkela 
+
+Shbi K. S. Singh ( Alternate ) 
+Maj-Gen M. G. Dewan Tinplate Company of India Ltd, Golmuri 
+
+Shbi S. Balashankab ( Alternate ) 
+Director ( M & C ) Ministry of Railways 
+
+Chemist & Metallurgist, 
+Chittaranjan Locomotive 
+Works {Alternate) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1976 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Ad (XIV of 1957) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS: 4223 -19^5 
+
+( Continued from page 1 ] 
+
+Members 
+Shri a. K. Guha 
+
+
+
+Shri p. C. Mustafi ( Alternate ) 
+Joint Director Standards Ministry of Railways 
+( Wagon ) 
+JoijiTT Director ( Iron & 
+Steel ) ( Alternate ) 
+Dr V. G, Kashyap 
+
+Shbi S. S. Mtjranjan ( Alternate ) 
+
+
+
+Representing 
+
+Inspection Wing, Directorate General of Supplies 
+& Disposals, New Delhi 
+
+
+
+Special Steels Ltd, Bombay 
+
+
+
+Shri M, N. Khanna 
+
+Shri K. C. Som ( Alternate ) 
+Shri R. M. Krishnan 
+Shbi D. M, Lakhiani 
+
+Shri T. K. Datta ( Alternate ) 
+Shri P. Laxminabayana 
+Shri R. G. Mahajan 
+
+Shri Avtar Singh ( Alternate ] 
+Dr S. S. Malhotra 
+
+
+
+Shri K. R. Nabasimhan ( Alternate ) 
+
+
+
+Bhilai Steel Plant, Bhilai 
+
+Iron and Steel Control, Calcutta 
+Indian Iron & Steel Co Ltd, Burnpur 
+
+Hindustan Shipyard Ltd, Visakhapatnam 
+Indian Steel & Wire Products Ltd, Indranagar, 
+Jamshedpur 
+
+Metal Box Co of India Ltd, Calcutta 
+
+
+
+Shri D. Y, Moghe 
+
+Shbi D. Sen ( Alternate ) 
+Shbi R. A. Rama Rao 
+Shri R. H. G, Rau 
+
+Shri S. A. Nigam ( Alternate ) 
+Shbi D. V. Reddi 
+Shri R. K. Sethi 
+Dr S.J. Shah 
+
+Shri D. Srinivasan 
+
+Shri B. P. Ghosh ( Alternate ) 
+Technical Adviser ( Boilers ) 
+
+
+
+Ministry of Defence ( DGOF ) 
+
+Hindustan Steel Works Construction Ltd, Calcutta 
+Mukand Iron & Steel Works Ltd, Bombay 
+
+Indian Institute of Metals, Calcutta 
+
+Industrial Fasteners Association of India, Calcutta 
+
+Spinning Machinery ( Cotton System ) Sectional 
+
+Committee, TDG 30, ISI 
+Joint Plant Committee, Calcutta 
+
+
+
+of Industrial 
+
+
+
+Shri K. S. Vaidyanathan 
+Shri G, Venkateswablu 
+
+
+
+Central Boilers Board, Ministry 
+
+Development, New Delhi 
+M. N, Dastur & Co ( Pvt ) Ltd, Calcutta 
+Ministry of Defence (R&D) 
+Shri E, S. Bhagiratha Rao ( Alternate ) 
+Shri C. R. Rama Rao, Director General, ISI ( Ex-officio Member ) 
+
+Director ( Struc & Met ) 
+
+Secretary 
+
+Shbi Shanti Swabtjp 
+
+Assistant Director (Metals), ISI 
+
+Panel for Steel Wires for General Engineering Purposes, SMDG 5 : P 38 
+
+
+
+Convener 
+Db V. C, Kashyap 
+
+Members 
+
+Shri O. P. Aggarwal 
+
+Shbi Lava Kumar ( Alternate ] 
+
+
+
+Special Steels Ltd, Bombay 
+Modi Steels, Modinagar 
+
+
+
+( Continued on page 7 ) 
+
+
+
+18:4223-1975 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+STEEL WIRE FOR UMBRELLA RIBS 
+
+
+
+( First Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard (First Revision) was adopted by the Indian 
+Standards Institution on 28 November 1975, after the draft finalized by the 
+Wrought Steel Products Sectional (Jommittee had been approved by the 
+Structural and Metals Division Council. 
+
+0*2 Txiis standard was first published in 1967 to guide the umbrella rib 
+manufacturers in selecting proper material. While reviewing this standard 
+in the light of the experience gained, it was decided to modify the sizes and 
+tensile test requirements and also to include the product analysis. 
+
+0«3 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expressing 
+the result of a test or analysis, shall be rounded off in accordance with 
+IS : 2-1960*. The number of significant places retained in the rounded off 
+value should be the same as that of the specified value in this standard. 
+
+
+
+1. SCOPE 
+
+1*1 This standard covers the requirements for carbon steel round and flat 
+wire used for umbrella ribs. 
+
+1.1*1 This standard does not cover the requirements for wire for hollow 
+U-shaped ribs. 
+
+2. TERMINOLOGY 
+
+2.1 For the purpose of this standard, the definitions of various terms shall 
+be as given in IS : 1956-1962t. 
+
+*Rules for rounding oif numerical values ( revised ) , 
+jGlossary of ter?ng relating to iron and steel. 
+
+
+
+IS I 4223 - 1975 
+
+3. SUPPLY OF MATERIAL 
+
+3.1 General requirements relating to supply of material shall conform to 
+IS: 1387-1967*. 
+
+4. GRADES 
+
+4.1 There shall be three grades of wire designated as Grades 1^ 2 and 3. 
+
+5. MANUFACTURE 
+
+5.1 Steel shall be manufactured by the open-hearth, electric, duplex, basic- 
+oxygen, or a combination of these processes. In case any other process is 
+employed by the manufacturer, prior approval of the purchaser should be^ 
+obtained. 
+
+6. CHEMICAL COMPOSITION 
+
+6.1 The ladle analysis of steel, when analysed in accordance with the 
+appropriate parts of IS :228t shall be as given below: 
+
+Constituent Percent, Max 
+
+Sulphur 0*040 
+
+Phosphorus 0*040 
+
+6.2 Product Analysis — • Permissible variation in case of product analysis 
+from the limits specified under 6.1 shall be as follows : 
+
+Constituent Variation Over Specified 
+
+Limits^ Percent^ Max 
+
+Sulphur 0*005 
+
+Phosphorus 0*005 
+
+6.2.1 Chemical analysis shall be carried out for every 10 coils or part 
+thereof and where the wire is cut into lengths, for every 10 bundles or part 
+thereof. 
+
+7. FREEDOM FROM DEFECTS 
+
+7.1 All finished wires shall be well and cleanly drawn to the dimensions 
+specified. The wire shall be sound; free from splits; surface flaws; rough, 
+jagged and imperfect edges; and other harmful surface defects. 
+
+8. SIZES 
+
+8.1 The wire shall be supplied to any of the sizes given below : 
+
+1-60, 1*65, 1-70, 1*75, 1*80, 1*90, 1*95, 2-00, 2*10, 2*20,2*30, 2*40, 
+2*50, 2*65, 2*80, 3*00, 3*15, 3*35, 3*55, 3*75 and 4*00 mm. 
+
+♦General requirements for the supply of metallurgical materials (first revision). 
+tMethods of chemical analysis of steel { second revision) ( being issued in parts ). 
+
+
+
+18:4223.1975 
+
+
+
+8.1.1 These shall be the preferred diameters in case of round wires, and 
+preferred widths in case of flat wires. 
+
+9, TOLERANCES 
+
+9.1 Tolerances permitted on the diameter, or width in the case of fiat wire, 
+shall be ± 0*050 mm. In case of round wire, the maximum difference bet- 
+ween the two readings taken on any two diameters on the cross section shall 
+be 0'050 mm. 
+
+10. PHYSICAL PROPERTIES 
+
+10.1 Tensile Test — The tensile strength of wire, when tested in accor- 
+dance with IS : 1521-1972*, shall be within the limits given in Table 1. 
+
+
+
+TABLE 
+
+
+1 TENSILE STRENGTH 
+
+
+
+
+Si. Type of Wire 
+
+
+
+
+Grade 
+
+
+Size Range 
+
+
+Tensile Strength 
+
+
+rSTo. 
+
+
+
+
+
+
+
+
+
+
+(1) (2) 
+
+
+
+
+(3) 
+
+
+(4) 
+mm 
+
+
+(5) 
+N/mm2* 
+
+
+i) llardened/tempered 
+
+
+
+
+1 
+
+
+1-60 to 3-00 
+
+
+i 570 to i 870 
+
+
+ii) As-drawn 
+
+
+
+
+2 
+
+
+1-60 to 400 
+
+
+1 270 to 1 570 
+
+
+iii) As-drawn 
+
+
+
+
+3 
+
+
+1-60 to 2-50 
+
+
+1 570 to 1 870 
+
+
+•1 N/inin2= iMN/m'2 = 
+
+
+0-102 kgf/mm2. 
+
+
+
+
+
+
+
+10-1.1 Number of Tensile Tests — One tensile test shall be carried 
+out for every 10 coils or part thereof and where the wire is cut into lengths, 
+for every 10 bundles or part thereof. 
+
+10.2 Torsion Test — ^^he test piece, when subjected to torsion test in 
+accordance with IS : 1717-1971t, shall withstand 10 number of turns in a 
+length equivalent to 100 diameters or width in the case of flat wire. If the 
+test piece is less than 100 diameters or widths, the number of turns shall be 
+proportionaiiy reduced. 
+
+10.2.1 Number of Torsion Tests — One torsion test shall be carried out for 
+every 10 coils or part thereof and where the wire is cut into lengths, for 
+every 10 bundles or part thereof. 
+
+10.3 Reverse Bend Test — ' The test piece, when tested in accordance with 
+IS : 17 16-1971+, shall withstand, without sign of failure, being bent forward 
+and backward three times through 180 degrees over a diameter equal to 
+six times the wire diameter or width, the first bend of 90 degrees not being 
+counted. 
+
+
+
+♦Methods for tensile testing of steel wire {first revision), 
+fMethods for simple torsion testing of steel wire {first revision ). 
+JMethods for reverse bend testing of steel wire {f.rst revision). 
+
+
+
+18:4223-1975 
+
+10,3.1 One reverse bend test shall be carried out for every 10 coils or 
+part thereof and where the wire is cut into lengths, for every 10 bundles or 
+part thereof. 
+
+10«4 Stralghtness Test — A sample of 675 mm shall roll freely on a 
+perfectly flat surface* 
+
+10,5 Deflection Test — ' Both ends of 675 mm sample of wire shall be 
+made to meet each other and then released, the deflection shaU not exceed 
+50 mm. 
+
+11. RETEST 
+
+11.1 Should any one of the test pieces first selected fail to pass any of the 
+tests specified in this standard, two further samples shall be selected for 
+testing in respect of each failure. Should the test pieces from both these 
+additional samples pass, the material represented by the test samples shall 
+be deemed to comply with the requirements of that particular test. Should 
+the test pieces from either of these additional samples fail, the material 
+represented by the test samples shall be considered as not having complied 
+v/ith this standard. 
+
+12. RUST PROTECTION 
+
+12.1 When steel wire for um.brella ribs is supplied without any protective 
+coating, each coil or bundle of wire shall be dipped in a suitable oil for rust 
+prevention during storage. 
+
+13. PACKING 
+
+13.1 Unless otherwise specified by the purchaser, steel wire for umbrella 
+ribs shall be supplied in coils and wrapped with gunny bags. 
+
+14. MARKING 
+
+14.1 Each coil or bundle of wire shall be bound and fastened compactly and 
+shall have a tag legibly marked with the size, length and mass of the wires 
+and also the name or trade-mark of the manufacturer. 
+
+14*1,1 The material may also be marked with the ISI Certification 
+Mark. 
+
+Note — The use of the ISI Certification Mark is governed by the provisions of 
+the Indian Standards Institution ( Certification Marks ) Act and the Rules and 
+Regulations made thereunder. The ISI Mark on products covered by an Indian 
+Standard conveys the assurance that they have been produced to comply with the 
+requirements of that standard under a well-defined system of inspection, testing and 
+quality control which is devised and supen/ised by ISI and operated by the producer. 
+ISI marked products are also continuously checked by ISI for conformity to that 
+standard as a further safeguard. Details of conditions under which a licence for the 
+use of the ISI Certification Mark may he granted to manufacturers or processors, may 
+be obtained from the Indian Standards Institution. 
+
+
+
+tS:4l2^-i97S 
+
+
+
+( Continued from page 2 ) 
+
+Members 
+
+Shbi D. S. Bhullae 
+
+Shri a, G. Gupta ( AUermte ) 
+Shbi P. K. Ghattbbjee 
+Shbi T. K. Gupta 
+
+Shbi A, Sen ( Alternate) 
+Shbi D. L. Kbipalaney 
+
+Shbi N. V. Ranjanb ( Alternate ] 
+Shei R. C. Mahajan 
+
+Shbi D. P. Mehd 
+
+Shbi A, A. Mibchandani 
+
+Shbi R. J. Thakkab ( Alternate ) 
+Shbi A. K. Pote 
+Repeesentative 
+
+Shbi Ajay K. Rungta 
+
+Shei Pbadyumjs^a Balubhai Sheth 
+
+
+
+Representing 
+General Engineering WorkSj Bharatpur 
+
+Ministry of Defence ( DGI ) 
+Dunlop India Ltd, Sahaganj 
+
+Krips Consultants, Bombay 
+
+Indian Steel & Wire Products Ltd, Indranagar, 
+
+Jamshedpur 
+Tensile Steels Ltd, Baroda 
+All India Spring Manufacturers* Association, 
+
+Bombay 
+
+Apar Ltd, Kalyan 
+
+T & D Circle, Posts & Telegraphs Department, 
+
+Jabalpur 
+Steel Wire Manufacturers' Association of India, 
+
+Calcutta 
+P. Sheth & Co, Ahmedabad 
+
+
+
+lNt>IAN STAKDAtlD$ 
+
+ON 
+
+WIRE AND WIRE RODS 
+
+
+
+IS: 
+
+279-1972 Galvanized steel wire for telegraph and telephone purposes {second revision) 
+
+280-1972 Mild steel wire for general engineering purposes ( second revision ) 
+
+1673-1973 Mild steel wire for the manufacture of machine screws (by cold heading 
+process ) ( first revision) 
+
+1812-1973 Carbon steel wire for the manufacture of wood screws {first revision ) 
+
+1835-1972 Steel wire for ropes ( second revision) 
+
+2255-1969 Mild steel wire rod for the manufacture of machine screws ( by cold heading 
+process ) ( first revision ) 
+
+2589-1975 Hard drawn steel wire for upholstery springs {first revision ) 
+
+3835-1966 Aluminized steel core wire for aluminium conductors ( ACSR ) 
+
+4223-1975 Steel wire for umbrella ribs {first revision ) 
+
+4224-1972 Steel wire for staples, pins and clips {first revision ) 
+
+4824-1973 Bead wire for tyres {first revision) 
+
+5239-1969 Wire rod for the manufacture of aluminized steel core wire for aluminium 
+conductors 
+
+5993-1970 Aluminized steel wire for telegraph and telephone purposes 
+
+6902-1973 Steel wire for spokes 
+
+7557-1974 Steel wire ( up to 20 mm dia ) for the manufacture of cold forged rivets 
+
+7887-1975 Mild steel wire rods for general engineering purposes 
+
+7904-1975 Carbon steel wire rods 
+
+
+
+PUBLICAKONS OF iNDlAN STANDARDS INSTITUTION 
+
+INDIAN STANDARDS 
+
+
+
+Over BOOO Indian Standards covering various subjects have b^en 
+lasued 90 far. Of the^&i th^ standards t:jtilonuing to the Slmcturai and 
+Metals Group fall under the following categoriesi 
+
+Bnnzling allGiye And -soifif^r? 
+Copper unti copper oiip^^ 
+
+
+
+Cranoft aiiU alliud eip[3lJ3ri(;P9 
+
+Pgaign cod«t 
+
+Ffirrici-ELiicivs 
+
+Foundry raw Ri^terriols cinef equipineni 
+
+Lead, zmc. tin^ aniiiriiORy ^fid IheJi 
+
+alloys 
+Li[jh1 metals and their alloys 
+
+Metal I rc fmislm:* 
+
+Mela:- 1 a graph y and hsat Ireitmeni 
+
+Morh-du!^ErLJCtlve testlFlf] 
+Ores and f^iv matafja^a 
+
+Pig iran, c^st Jron and malleable 
+qngt iron 
+
+
+
+Powder motftlrurpicail malorJala and 
+
+products 
+
+Pfetious rn<BLi|H 
+
+Omaljly tontrot 
+
+RoEracEoTJea 
+
+Sle^l cri sling's 
+
+Etwl forgings 
+
+StMl pfodijti^. wrought and nll^i 
+
+Sl^&l tu^ug, pip€5 ancl fitting 1 
+
+Structural shapes 
+
+Welding 
+
+Uricia££iti-ed 
+
+Engin^aFs' ^li<le 
+
+Handbook lor wddari 
+
+t S L h Jind &o oh s^ t Qf it ru c tu ra I an{] I na* ra 
+
+Sleani tdbj^;^ 
+
+
+
+OTHER PUBLICATIONS 
+
+
+
+ISI BLilEitrn ( PubUshad Ev&fy Montli ) 
+
+Sing If Copy 
+
+Ann-ual SubA^flptlDfi 
+Slandardi ; Montliljf AddilFons 
+
+Single C&py 
+
+Ani^^iiDl SubBcriptiocii 
+Annual R&portai { ffom 194B-4» Onward § ) 
+iSI Hanitbeok^ 197 S 
+
+
+
+... I?a 0^3^ 
+
+R^S^oq 10 f-OO 
+... Ra 3005 
+
+
+
+iNOtAN STANDARDS IMSTtTUTION 
+
+Manah Bnoivmn, S Xanadu r Shah Zafar HAarOp NEW OF LH I 1 10002 
+
+
+
+TelAphon* : 27 01 31 {m lines J 
+
+Western : :Nfivelty diamberEi^ GranI Road 
+East Bin : 5 Chowrinah^'Q Approach! 
+
+Soutihorii : S4l General Piatt ers iJ^alLd 
+
+Brnnch OfficM: 
+
+' PyilipaJc ', Nurmotianried Shan^ti Mnr^^ Khan pur 
+
+T' BPock,, Unity Bldg^ Narasifnharaja Square 
+
+K^iThl N(2, 90, Sector 1HA 
+
+S-8-&S;S7 Nampalty Eifllioo Road 
+
+il7i4li B Sartfoddva Na^^f 
+
+BXJ- Bidfl (Third Floor), Gandhi Waldan Eaal 
+
+
+
+Tele grama ; Mainak^ftiiKtha 
+
+TelBptionE 
+HOMRAY inO0^7 3[7 97 M 
+
+C A L C UTT A 700072 133-0* 02 
+
+*;i ADflAS WWNJOS B 07 m 
+
+
+
+AHMEDABAD agiJOOl 2 03 flf 
+
+BANGALORE S60^D"32 2 76 49 
+
+CHANUIt^AKH IffiiJOIB 2 63 £0 
+
+HYDERABAD Smm 4 57 11 
+
+KAN PUR FOSD05 BZ 7Z 
+
+PATNA 300004 £ &6 55 
+
+
+
+Prlnli^d at Ken Jndln PrJntlna Pi^c&yKiiurla. India 
+
+
+

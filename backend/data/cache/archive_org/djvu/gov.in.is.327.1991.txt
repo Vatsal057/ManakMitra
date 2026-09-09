@@ -1,0 +1,875 @@
+**************** 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+^^^Eii^^^^^ti^^i iil%k^K>S :^^^T<:^ 
+
+
+
+IS 327 (1991) : Oil of Lemongrass [PCD 1^ 
+Synthetic Fragrance Materials] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+Natural and 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+13 327:1991 
+
+VTR^^q-TTr^^ (Reaffirmed 2002) 
+
+( ^^Tf ^?TTt§m ) 
+
+Indian Standard 
+OIL OF LEMONGRASS — SPECIFICATION 
+
+( Second Revision ) 
+
+UDC 665-524-26 
+
+
+
+® BIS 1991 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+December 1991 o_- <-. - 
+
+Price Group 2 
+
+
+
+Natural and Synthetic Perfumery Materials Sectional Committee, PCD 18 
+
+
+
+FOREWORD 
+
+This Indian Standard (Second Revision) was adopted by the Bureau of Indian Standards, after the draft 
+finahzed by the Natural and Synthetic Perfumery Materials Sectional Committee had been approved by 
+the Petroleum, Coal and Related Products Division v^ouncii. 
+
+This standard was originally published in 1952 and first revised in 1961. The Sectional Committee 
+responsible for its preparation felt that the standard should be revised with a view to bring it in line with 
+trade practices prevalent in perfumery industry and also to align the quality level of material currently 
+being manufactured and sold m the country. 
+
+In the earlier revision, determination of citral content using freshly prepared 30 percent mlv solution of 
+sodium bisulphite was prescribed. In this revision hydroxylamine method is being included as an alter- 
+native method for determination of citral content. Gas Layer Chromatographic method for determina- 
+tion of neral and geraniai content is being included for guidance only under Annex B. 
+
+In India, oil of lemongrass is produced in the South- Western State of Kerala by the distillation of lemon- 
+grass ( Cymbopogon flexuosus Stapf fam. Gramineae ). This essential oil produced largely in India since 
+ages has come to be known as the East Indian Oil of Lemongrass and has found favour in the world 
+market particularly because of its uniformly high citral content and the soiubiiity in 70 percent alcohol 
+of most of the oil produced in the country. This solubility in alcohol is regarded as synonymous with 
+freshness and freedom from adulterants; though investigalions have disclosed that som_e specimens of 
+freshly distilled oil are also found to be insoluble in alcohol, if there is adventitious mixture, even in small 
+proportions, with a similar but botanically different white-stemmed grass, locally known as 'wella poolu" 
+found in the fields. The white-stemmed grass now identified as Cymbopogon flexuosus Stapf Var, albes- 
+cens has, however, been almost rooted out of the lemongrass fields by intensive efforts of the State 
+Departments of Agriculture and Forests. The solubility of all specimens of the oil is known to be reduced 
+on storage. 
+
+The oil produced in other countries, most notably West Indies, is insoluble in 70 percent alcohol. The 
+lower solubilUy of the *West Indian' oil, particularly noticeable after storage of the freshly distilled oil, 
+is due to the presence, in the foreruns, of myrcene, an olefinic terpene, which on exposure to air and 
+light readily polymerizes. This difference in the quality of the oil is attributed to the different plant 
+species, Cymbopogon citratus Stapf. ( fam. Gramineae ) from which the 'West Indian' oil is derived. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the 
+final value, observed or calculated, expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS 2 : 1960 'Rules for rounding off numerical values ( revised )\ The number of signifi- 
+cant places retained in the rounded off value should be the same as that of the specified values in this 
+standard. 
+
+
+
+IS 327 : 1991 
+
+
+
+Indian Standard 
+
+
+
+OIL OF LEMONGRASS - SPECIFICATION 
+
+( Second Revision J 
+
+
+
+1 SCOPE 
+
+This standard prescribes the requirements 
+and the methods of test for the material 
+commercially known as the oil of lemongrass or 
+the East Indian Oil of lemongrass. The material 
+is largely used in the extraction of citral, the 
+chief constituent of the oil and the starting 
+material for the manufacture of important ion- 
+ones. It is also employed in the preparation of 
+lemon-like perfumes, germicides, etc. 
+
+2 REFERENCES 
+
+The following Indian Standards are necessary 
+adjuncts to this standard: 
+
+IS No. Title 
+
+326 Methods of sampling and test 
+
+for natural and synthetic per- 
+fumery materials; 
+
+( Part I ) : 1984 Sampling ( second revision ) 
+
+( Part 2 ) : 1980 Preliminary examination of 
+perfumery materials and 
+samples ( second revision ) 
+
+
+
+( Part 3 ) : 
+( Part 4 ) : 
+( Part 5 ) : 
+( Part 6 ) : 
+(Part 11 ) 
+
+1070 : 1977 
+2284 : 1988 
+
+6597 : 1988 
+
+
+
+1980 
+1980 
+
+
+
+density ( second 
+
+
+
+Relative 
+revision ) 
+
+Determination of optical 
+rotation ( second revision ) 
+
+1986 Determination of refractive 
+index ( second revision ) 
+
+1986 Determination of solubility in 
+ethanol ( second revision ) 
+
+1986 Determination of carbonyl 
+value and content of carbonyl 
+compounds ( second revision ) 
+
+Water for general laboratory 
+use ( second revision ) 
+
+Method for olfactory assess- 
+ment of natural and synthetic 
+perfumery materials ( first 
+revision ) 
+
+Glossary of terms relating to 
+natural and synthetic perfu- 
+mery materials (first revision ) 
+
+3 TERMINOLOGY 
+
+For the purpose of this standard, the definitions 
+of terms given in IS 6597 : 1988 shall apply. 
+
+
+
+4 SAMPLING 
+
+Representative samples of the material, shall be 
+drawn as prescribed in IS 326 ( Part 1 ) : 1984. 
+
+5 REQUIREMENTS 
+
+5.1 Description 
+
+Oil of lemongrass shall be obtained by water or 
+steam distillation of the freshly cut and partially 
+dried grass botanically known as Cymbopogon 
+flexuosus, Stapf fam. Gramineae. 
+
+5.1.1 Oil of lemongrass shall be a clear liquid, 
+free from sediment, suspended matter, separated 
+water and added adulterants. 
+
+5.1.2 The oil shall be examined for its colour ,^ 
+clarity, separated water, by notes and sediment, 
+as prescribed under IS 326 ( Part 2 ) : 1980. 
+
+5.2 Solubility 
+
+Oil of lemongrass shall be soluble in 3 volumes 
+of ethyl alcohol ( 70 percent by volume), 
+occasionally with slight turbidity, when tested 
+as prescribed in IS 326 ( Part 6 ) : 1986. 
+
+5.3 Oil of lemongrass shall also comply with the 
+requirements given in Table 1. 
+
+Table 1 Requirement for Oil of Lemongrass 
+
+
+
+SI Characteristic 
+
+No. 
+
+
+Requirement 
+
+
+Method of Test, 
+Ref to IS No. 
+
+
+(1) (2) 
+
+
+(3) 
+
+
+(4) 
+
+
+i) Colour and 
+appearance 
+
+
+Dark yellow 
+to light 
+brown-red 
+mobile liquid 
+
+
+IS 326 
+(Part 2) : 1980 
+
+
+ii) Odour 
+
+
+Lemon- like 
+
+
+IS 2284: 1988 
+
+
+iii) Relative density*, 
+
+irnrc 
+
+
+0*886 to 0*896 
+
+
+IS 326 
+(Parts) :1980 
+
+
+iv) Optical rotation 
+
+
+- 3" to + r 
+
+
+IS 526 
+(Part 4) :1980 
+
+
+v) Refractive 
+
+indext, 2TC 
+
+
+1*477 4 to 
+1*483 4 
+
+
+IS 326 
+(Parts): 1986 
+
+
+vi) Citral content, 
+percent by vol- 
+ume, Min 
+
+
+75 
+
+
+Annex A 
+
+
+
+*The correction factor for relative density for each 
+degree Celsius change in temperature is 0*000 62. 
+
+tThe coreclion factor for refractive index for each 
+degree Celsius change in temperature is 0*000 44. 
+
+
+
+18 327:1991 
+
+
+
+6 PACKING AND MARKING 
+
+6.1 Packing 
+
+The material shall be supplied in air-tight con- 
+tainers preferably glass, tin lined or aluminium; 
+or as agreed to between the purchaser and the 
+supplier. 
+
+6.1.1 The material shall be protected from light 
+and stored in cool and dry place. 
+
+6.2 Marking 
+
+The material shall be marked with the following 
+information; 
+
+a) Name of the material, 
+
+b) Indication of the source of manufacture, 
+
+c) Net mass of the material and percentage 
+of total citral content, and 
+
+d) Batch number. 
+
+
+
+6.2.1 The containers may also be marked with 
+the Standard Mark- 
+
+7 SAMPLING 
+
+Representative samples of the material, shall be 
+drawn as prescribed in IS 326 ( Part 1 ) : 1984. 
+
+8 TESTS 
+
+8.1 Tests shall be carried out as prescribed 
+under 5.1, 5.2 and the appropriate references 
+specified in col 4 of Table 1. 
+
+8.2 Quality of Reagents 
+
+Unless specified otherwise, pure chemicals and 
+distilled water ( see IS 1070 : 1977 ) shall be 
+employed in tests. 
+
+NOTE — 'Pure chemicals' shall mean chemicals that 
+do not contain impurities which affect the results of 
+analysis. 
+
+
+
+ANNEX A 
+[Table \, SI No, (vi) ] 
+
+DETERMINATION OF CITRAL CONTENT 
+
+
+
+A-0 GENERAL 
+
+A-0.1 Two methods, namely, hydroxylamine 
+method and sodium bisulphite methods are being 
+prescribed for determining citral content of oil 
+of lemongrass. Any one of these may be adopted 
+for determining citral content or as may be 
+agreed to between the purchaser and the supp- 
+lier. The procedure for hydroxylamine method 
+as given under IS 326 ( Part U ) : 1986 may be 
+followed. Sodium bisulphite method has been 
+prescribed under this Annex. 
+
+NOTE — It is of utmost importance always to record 
+the method used when reporting an analytical result. 
+
+A-1 REAGENTS 
+
+A-1.1 Sodium Bisulphite Solution 
+
+Freshly prepared, 35 percent ( m/v ). 
+
+A-2 PROCEDURE 
+
+A-2.1 Introduce 75 ml of the sodium bisulphite 
+solution measured from a graduated cylinder, 
+into a cassia flask ( Fig. 1 ): Pipette exactly 
+10 ml of the material into the flask and shake 
+thoroughly. Immerse the flask in a boiling water- 
+bath and shake repeatedly, until the solid addi- 
+tion compound goes completely into solution. 
+Make a further addition of 25 ml of the bisul- 
+phite solution and again shake the flask repeate* 
+dly for one-half to one hour to ensure complete 
+
+
+
+reaction of the carbonyl compound with the 
+bisulphite solution. After allowing the cassia 
+flask to stand undisturbed in boiling water for 
+10 minutes to permit the unreacted material 
+to rise to the surface, add sufficient volume of 
+sodium bisulphite solution to raise the residual 
+material into the neck of the flask. Gently tap 
+the flask and rotate it rapidly between the plams 
+of the hands to raise droplets of materials 
+adhering to the sides of the flask into the neck. 
+After cooling the flask to room temperature, 
+measure the volume of the residual material. 
+
+
+
+A small amount of the bisulphite addition 
+compound often precipitates out of solution, 
+sometimes at the surface when the material and 
+aqueous layers meet, thus rendering exact reading 
+difficult. If so, add a few drops of water in such 
+a way that the water runs down along the inside 
+of the neck of the flask so that it may remain 
+temporarily on top of the bisulphite solution and 
+give a sharp separation of the material and 
+aqueous layers. 
+
+
+
+NOTE — If the material contains heavy metals, 
+these should be removed before the determination by 
+shaking the material thoroughly with a small amount 
+( about 1 percent ) of powdered tartaric acid and 
+filtering, a sharper separation of the residual material 
+will then result. 
+
+
+
+IS 327 : 1991 
+
+
+
+A-2.2 Calculation 
+
+
+
+Calculate the citral content by the following 
+formula: 
+
+
+
+Citral content, 
+
+percent by volume =10 ( 10 
+
+
+
+V) 
+
+
+
+where 
+
+V = volume in ml of residual material. 
+
+NOTE — Citral content may be expressed as percent 
+by mass (Af) if the relative density of the original 
+material and of the carbonyl compound is known at 
+the same temperature, using the formula: 
+
+Relative density of carbonyl compond 
+Relative density of material 
+
+
+
+M 
+
+
+
+V X 
+
+
+
+20 MIN 
+
+
+
+-^ t*"^ ^^ 
+
+
+
+200 
+MAX 
+
+
+
+150-170 
+
+
+
+
+All dimensions in millimetres. 
+
+Fig. 1 Cassu Flask 
+
+ANNEX B 
+( Clause 0.2 ) 
+
+GAS CHROMATOGRAPHIC ANALYSIS FOR OIL OF LEMONGRASS 
+
+
+
+B^O GENERAL 
+
+
+
+B-0,2 Outline of the Method 
+
+
+
+B-0.1 The chromatographic conditions given A sample of the material is dissolved in a suita- 
+here are for guidance only, ble solvent ( for example, cyclohexane and 
+
+
+
+IS 327: 1991 
+
+
+
+petroleum ether ) and is injected into the gas 
+chromatograph where it is carried by the carrier 
+gas from one end of the column to the other. 
+During its movement the constituents of the 
+sample undergo distribution at different rates 
+and ultimately get separated from one another. 
+The separated constituents emerge from the end 
+of the column one after another and are detec- 
+ted by suitable means whose response is related 
+to the amount of a specific component leaving 
+the column. 
+
+B-1 APPARATUS 
+
+B-1.1 Any gas chromatograph capable of being 
+operated under conditions suitable for resolving 
+the individual constituents into distinct peaks 
+may be used. The typical chromatogram for oil 
+of lemongrass using a chromatograph with the 
+following chromatographic conditions is shown 
+in Fig. 2. 
+
+Sample 
+
+Column 
+
+Material 
+
+Length 
+
+Orifice 
+
+Stationary phase 
+and solid support"' 
+
+
+
+Oil of Lemongrass 
+
+AT — 1 000 
+
+Stainless steel 
+
+5 m 
+
+0*32 cm 
+
+10 percent by mass on 
+chromosorb 
+
+
+
+WHP 100-120 mesh 
+Nitrosen 
+
+
+
+Carrier Gas 
+Conditions 
+
+Column temperature 
+Injection port temperature 
+
+Detector 
+Type 
+Temperature 
+
+
+
+190"C 
+
+250°C 
+
+F.LD 
+
+250X 
+
+
+
+*The analysis may also be accomplished with 
+columns containing : DEGS ( Diethylene glycol 
+succinate ) and FFAP ( Free Fatty Acid Phase ) in 
+carbowax 20 M treated with nitrophthalic acid. 
+
+
+
+B-2 CALCULATION 
+
+B-2.1 Area Measurements ( see Note 1 ) 
+
+Since normal peaks approximates a triangle, 
+the area is measured by multiplying the peak 
+height times the width of the half height. The 
+normal peak base is not taken since large devia- 
+tions may be observed due to tailing or adsorp- 
+tion. This technique is rapid, simple and fairly 
+accurate when peaks are symmetrical and of 
+reasonable width. 
+
+
+
+
+Fig. 2 Oil of Lemongrass 
+
+B-2.2 Area Normalization ( see Note 2 ) 
+
+By normalizing, it is meant calculating the per- 
+centage composition by measuring the area of 
+each and dividing the individual areas by total 
+area, for example: 
+
+n . c A Area of A 
+
+Percentage of ^ == 
+
+
+
+Total area 
+
+
+
+X 100 
+
+
+
+NOTES 
+
+1 Other methods of area measurements, namely 
+triangulation, disc integrator and electronic digital 
+integrator if fixed with GLC machine would be of 
+great advantage. 
+
+2 Internal standardization may be used if pure 
+appropriate internal standard is available. This 
+method is known as relative or indirect calibration. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian Standard conveys the assurance that they have been 
+produced to comply with the requirements of that standard under a well defined system of 
+inspection, testing and quality control which is devised and supervised by BIS and operated 
+by the producer. Standard marked products are also continuously checked by BIS for con- 
+formity to that standard as a further safeguard. Details of conditions under which a licence 
+for the use oft he Standard Mark may be granted to manufacturers or producers may be 
+obtained from the Bureau of Indian Standards. 
+
+
+
+Bureao of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any 
+form without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director ( Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if any, are 
+issued from time to time. Users of Indian Standards should ascertain that they are in possession of the 
+latest amendments or edition. Comments on this Indian Standard may be sent to BIS giving the 
+following reference: 
+
+Doc: No. PCD 18(953) 
+
+
+
+Amendments Issued Since Publication 
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+Headquarters : 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 Telegrams : Manaksanstha 
+
+Telephones : 331 01 31, 331 13 75 ( Common to all OfSces ) 
+
+Regional Offices i Telephone 
+
+Central x Manak Bhavan, 9 Bahadur Shah Zafar Marg (331 01 31 
+
+NEW DELHI 110002 1331 13 75 
+
+Eastern t 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola 87 86 62 
+
+CALCUTTA 700054 
+
+Northern \ SCO 44S«446. Sector 35-0, CHANDIGARH 160036 53 38 43 
+
+Southern t 0. L T. Campus, IV Cross Road, MADRAS 600113 235 02 16 
+
+Western t Manakalaya, E9 MIDC, Marol, Andheri ( East ) 632 92 95 
+
+BOMBAY 400093 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. 
+JAIPUR. KANPUR. LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+Ptinted at New India Ptintintf PceM. KhuTJa, India 
+
+
+
+AMENDMENT NO. 1 DECEMBER 1998 
+
+TO 
+
+IS 327:1991 OIL OF LEMONGRASS — 
+
+SPECinCATION 
+
+(Second Revision) 
+
+[ Page 1, Table 1, SI No. (v), col 3] — Substitute '1.479 9 to 1.485 9' for 
+'l.4774to 1.4834'. 
+
+
+
+(PCD 18) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

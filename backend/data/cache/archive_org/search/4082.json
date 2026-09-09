@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":18,"params":{"query":"identifier:gov.in.is.4082.*","qin":"identifier:(gov.in.is.4082.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.4082.1996","title":"IS 4082: Recommendations on stacking and storage of construction materials and components at site"}]}}

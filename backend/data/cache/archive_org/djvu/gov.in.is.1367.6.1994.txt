@@ -1,0 +1,4619 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 1367-6 (1994) : Technical Supply Conditions for Threaded 
+Steel Fasteners, Part 6: Mechanical Properties and Test 
+Methods for Nuts with Specified Proof Loads [PGD 31: Bolts, 
+Nuts and Fasteners Accessories] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+a^v j i imzzmn^a rafrg amsBs 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+JS 1367 (Part 6) : 1994 
+ISO 898-2:1992 
+
+( Reaffirmed 2004 ) 
+
+^fcTT WWRT 3f SPEf eft dcb^lcbl <jff §Rf 
+*nr 6 faff «s jnrriRj *m wreft fMfcff * ftn? ?n^RJ 3«wf affe «rtter»! i«M 
+
+/A7d/an Standard 
+
+TECHNICAL SUPPLY CONDITIONS FOR THREADED/ 
+
+STEEL FASTENERS 
+
+PART 6 MECHANICAL PROPERTIES AND TEST METHODS FOR NUTS 
+WITH SPECIFIED PROOF LOADS 
+
+( Third Revision ) 
+
+(ISO Title : Mechanical properties of fasteners — 
+Part 2 : Nuts with specified proof load values — Coarse thread) 
+
+UDC 621882-3:62017:006-87 
+
+
+
+©BIS 1994 
+
+BUREAU' OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+ApriH994. Price Group 7 
+
+
+
+Bolts, Nuts and Fasteners Accessories Sectional Committee, LM 14 
+
+
+
+NATIONAL FOREWORD 
+
+This Indian Standard (Part 6) which is identical with ISO 898-2:1 992 'Mechanical properties of fasteners — Part 2: 
+Nuts with specified proof load values — Coarse thread' issued by the International Organization for Standardization 
+(ISO) was adopted by the Bureau of Indian Standards on the recommendation of the Bolts, Nuts and Fasteners 
+Accessories Sectional Committee (LM 14) and approval of Light Mechanical Engineering Division Council. 
+
+The second version of this standard published in 1 980 was based on Draft International Standard ISO/DIS 898/11 
+'Mechanical properties for fasteners — Part II Nuts with specified proof load values* issued by ISO. This revision 
+has been made by the adoption of latest version ISO 898-2:1992 The following major changes have been made 
+in this revision: 
+
+1) Mechanical properties and other requirements for nuts of style 1, style 2 and thin nuts have been 
+incorporated. 
+
+2) Marking symbols for nuts of different property classes have been made mandatory in accordance with the 
+designation system. 
+
+In the adopted standard, certain terminology and conventions are not identical with those used in the Indian 
+Standard, attention is especially drawn to the following: 
+
+a) Comma (,) has been used as a decimal marker while in Indian Standards, the current practice in to use 
+point (.) as the" decimal marker. 
+
+b) Wherever the words International Standard' appear, referring to this standard, they should be read as 
+Indian Standard'. 
+
+In the adopted standard, reference appears to certain International Standards for which Indian Standards also exist. 
+The corresponding Indian Standards which have been substituted in their place are listed below along with their 
+degree of equivalence for the editions indicated 
+
+
+
+International 
+Standard 
+
+ISO 1:1975 
+ISO 68:1973 
+ISO 261:1973 
+ISO 262:1973 
+
+
+
+Corresponding Indian 
+Standard 
+
+IS 196:1966 Atmospheric conditions for testing 
+(revised) 
+
+IS 4218 (Part 1):1976 ISO metric screw threads: 
+Part 1 Basic and design profiles (first revision) 
+
+IS 4218 (Part 2):1978 ISO metric screw threads: 
+Part 2 Diameter pitch combinations (first revision) 
+
+IS 12241 :1987 ISO general purpose metric screw 
+threads — Selected sizes for screws, bolts and 
+nuts 
+
+
+
+Degree of 
+Equivalence 
+
+Technically 
+equivalent 
+
+Technically 
+equivalent 
+
+Technically 
+equivalent 
+
+Identical 
+
+
+
+ISO 272:1 982 IS 951 9:1 980 Dimensions tor width across flats for 
+
+hexagon head bolts and nuts 
+
+ISO 286-2:1 980 IS 91 9 (Part 2):1 993 ISO system for limits and fits: 
+
+Part 2 Tables of standard tolerances grades and 
+limit deviations for holes and shafts (first revision) 
+
+ISO 724:1978 IS 4218 (Part 3):1976 ISO Metric screw threads: 
+
+Part 3 Basic dimensions for design profiles (first 
+revision) 
+
+
+
+Technically 
+equivalent 
+
+Technically 
+equivalent 
+
+
+
+Technically 
+equivalent 
+
+
+
+(Continued on third cover) 
+
+
+
+IS 1367 (Part 6): 1994 
+ISO 898-2 : 1992 
+
+
+
+Indian Standard 
+
+TECHNICAL SUPPLY CONDITIONS FOR THREADED 
+
+STEEL FASTENERS 
+
+PART 6JWIECHANICAL PROPERTIES AND TEST METHODS FOR NUTS 
+WITH SPECIFIED PROOF LOADS 
+
+( Third Revision ) 
+
+(ISO Title : Mechanical properties of fasteners — 
+Part 2 : Nuts with specified proof load values — Coarse thread) 
+
+
+
+1 Scope 
+
+This International Standard specifies the mechanical 
+properties of nuts with specified proof load values 
+when tested at room temperature (see ISO 1). Prop- 
+erties will vary at higher and lower temperature. 
+
+It applies to nuts 
+
+— with nominal thread diameters up to and includ- 
+ing 39 mm; 
+
+— of triangular ISO thread and with diameters and 
+pitches according to ISO 68 and ISO 262 (coarse 
+thread); 
+
+— with diameter/pitch combinations according to 
+ISO 261 (coarse thread); 
+
+— with thread tolerances 6H according to ISO 965-1 
+and ISO 965-2; 
+
+— with specific mechanical requirements; 
+
+— with widths across flats as specified in ISO 272 
+or equivalent; 
+
+— with nominal heights greater than or equal to 
+0,5/r»; 
+
+— made of carbon steel or low alloy steel. 
+
+It does not apply to nuts requiring special properties 
+such as 
+
+— locking abilities (see ISO 2320); 
+
+— weldability; 
+
+
+
+corrosion resistance (see ISO 3506); 
+
+ability to withstand temperatures 
+4- 300 °C or below - 50 °C. 
+
+
+
+above 
+
+
+
+NOTES 
+
+1 Nuts made from free-cutting steel should not be used 
+above + 250 °C. 
+
+2 For special products such as nuts for high-strength 
+structural bolting, and overtapped nuts for use with hot- 
+dipped galvanized bolts, see the product standards for 
+appropriate values 
+
+3 For assemblies with threads having tolerances wider 
+than 6H/6g, there is an increased risk of stripping; see 
+also table 1. 
+
+4 In the case of thread tolerances other or larger than 
+6H, a decrease of the stripping strength should be con- 
+sidered (see table 1 ). 
+
+
+
+Table 1 — Reduction in thread strength 
+
+
+
+greater 
+than 
+
+
+Thread 
+
+less than or 
+equal to 
+
+
+T 
+Thr 
+
+6H 
+
+
+est toad, % 
+
+sad toleran< 
+
+-7H 
+
+
+:es 
+
+6G 
+
+
+~ 
+
+
+M2,5 
+
+
+100 
+
+
+- 
+
+
+95,5 
+
+
+M2,5 
+
+
+M7 
+
+
+100 
+
+
+95,5 
+
+
+97 
+
+
+M7 
+
+
+M16 
+
+
+100 
+
+
+96 
+
+
+97,5 
+
+
+M16 
+
+
+M39 
+
+
+100 
+
+
+98 
+
+
+98,5 
+
+
+
+*) D is the nominal diameter of the internal thread in accordance with ISO 724. 
+
+
+
+IS 1367 (Part 6): 1994 
+ISO 898-2 : 1992 
+
+
+
+2 Normative references 
+
+The following standards contain provisions which, 
+through reference in this text, constitute provisions 
+of this part of ISO 898. At the time of publication, the 
+editions indicated were valid. All standards are 
+subject to revision, and parties to agreements based 
+on this part of ISO 898 are encouraged to investigate 
+the possibility of applying the most recent editions 
+of the standards indicated below. Members of IEC 
+and ISO maintain registers of currently valid inter- 
+national Standards. 
+
+ISO 1:1975, Standard reference temperature for in- 
+dustrial length measurements. 
+
+ISO 68:1973, ISO general purpose screw threads — 
+Basic profile. 
+
+ISO 261:1973, ISO general purpose metric screw 
+threads — - General plan. 
+
+ISO 262:1973, ISO general purpose meitric screw 
+threads — Selected sizes for screws, bolts and nuts. 
+
+ISO 272:1982, Fasteners — Hexagon products — 
+Widths across flats. 
+
+ISO 286-2:1988, ISO system of limits and fits — 
+Part 2: Tables of standard tolerance grades and limit 
+deviations for holes and shafts. 
+
+
+
+ISO 724:1978, ISO metric screw threads 
+mensions. 
+
+
+
+Basic di- 
+
+
+
+ISO 965-1:1980, ISO general purpose metric screw 
+threads — Tolerances - Par* 1: Principles and basic 
+data. 
+
+ISO 965-2:1980, ISO general purpose metric screw 
+threads — Tolerances — Part 2: Limits of sizes for 
+general purpose bolt and nut threads — Medium 
+quality. 
+
+ISO 4964.1984, Steel — Hardness conversions. 
+
+ISO 6157-2: - 1J , Fasteners — Surface discontinuities 
+— Part 2: Nuts with threads M5 to M39. 
+
+
+
+ISO 6506:1981, 
+Brinell test. 
+
+
+
+Metallic materials — Hardness test 
+
+
+
+ISO 6507-1:1982, Metallic materials — Hardness test 
+- Vickers test - Part 1: HV 5 to HV 100. 
+
+ISO 6508:1986, Metallic materials — Hardness test — 
+Rockwell test (scales A-B-C-D-E-F-G-H- 
+
+K). 
+
+
+
+3 Designation system 
+
+
+
+3.1 Nuts with nominal heights > 0,8/) 
+(effective lengths of thread > 0,6/)) 
+
+Nuts with nominal heights > 0,8/) (effective lengths 
+of thread > 0,6/)) are designated by a number to 
+indicate the maximum appropriate property class of 
+bolts with which they may be mated. 
+
+Failure of threaded fasteners due to over-tightening 
+can occur by bolt shank fracture or by stripping of 
+the threads of the nut and/or bolt. Shank fracture is 
+sudden and therefore easily noticed. Stripping is 
+gradual and therefore difficult to detect and this in- 
+troduces the danger of partly failed fasteners being 
+left in assemblies. 
+
+It would therefore be desirable to design threaded 
+connections so that their mode of failure would al- 
+ways be by shank fracture but, unfortunately, be- 
+cause of the many variables which govern stripping 
+strength (nut and bolt material strengths, threaxJ 
+clearances, across-flats dimensions, etc.), nuts 
+would have to be objectionably thick to guarantee 
+this mode in all cases. 
+
+A bolt or screw of thread M5 to M39 assembled with 
+a nut of the appropriate property class, in accord- 
+ance with table 2, is intended to provide an as- 
+sembly capable of being tightened to the bolt proof 
+load without thread stripping occurring. 
+
+However, should tightening beyond bolt proof load 
+take place, the nut design is intended to ensure at 
+least 10 % of the over-tightened assemblies fail 
+through bolt breakage in order to warn the user that 
+the installation practice is not appropriate. 
+
+NOTE 5 For more detailed information on the strength 
+of screw thread assemblies, see annex A. 
+
+
+
+1) To be published. 
+
+
+
+IS 1367(Part6):1994 
+ISO 898-2:1992 
+
+
+
+Table 2 — Designation system for nuts with nominal 
+heights > 0,8Z) 
+
+
+
+Property 
+
+class of 
+
+nut 
+
+
+Mating bolts 
+
+
+Nuts 
+Style 1 Style 2 
+
+
+Property class 
+
+
+Thread 
+range 
+
+
+Thread ranges 
+
+
+4 
+
+
+3.6; 4.6; 4.8 
+
+
+> M16 
+
+
+> M16 
+
+
+_. 
+
+
+5 
+
+
+3.6; 4.6; 4.8 
+
+
+< M16 
+
+
+< M39 
+
+
+- 
+
+
+5.6; 5.8 
+
+
+^ M3S 
+
+
+6 
+
+
+6.8 
+
+
+< M39 
+
+
+< M39 
+
+
+~ 
+
+
+8 
+
+
+8.8 
+
+
+< M39 
+
+
+< M39 
+
+
+> M16 
+< M39 
+
+
+S 
+
+
+9.6 
+
+
+< Mi6 
+
+
+- 
+
+
+< M 16 
+
+
+10 
+
+
+10.9 
+
+
+<; M39 
+
+
+< M39 
+
+
+..._ 
+
+
+12 
+
+
+12.9 
+
+
+< M39 
+
+
+< M16 
+
+
+< M39 
+
+
+NOTE In general, nuls of a higher property class can re- 
+place nuts of a lower property class. This is advisable for a 
+bolt/nut assembly going into a stress higher than the yield 
+stress or the stress under proof load. 
+
+
+
+Table 3 — Designation system and stresses under 
+
+proof load for nuts with nominal heights > 0,5/) but 
+
+<0,8D 
+
+
+
+3.2 Nuts with nominal heights > 0,5/) but 
+
+< 0,8/; (effective heights of thread > 0,4D but 
+
+< 0,6/)) 
+
+Nuts with nominal heights > 0,5/) but <0,8/> (effec- 
+tive height of thread > 0,4/) but < 0,6/)) are desig- 
+nated by a combination of two numbers: the second 
+indicates the nominal stress under proof load on a 
+hardened test mandrel, while the first indicates that 
+the loadability of a bolt-nut assembly is reduced in 
+comparison with the loadability on a hardened test 
+mandrel and also in comparison with a "bolt-nut as- 
+sembly described in 3.1. The effective loading ca- 
+pacity is not only determined by the hardness of the 
+nut and the effective height of thread but also by the 
+tensile strength of the bolt with which the nut is as- 
+sembled. Table 3 gives the designation system and 
+the stresses under proof load of the nuts. Proof 
+loads are shown in table 6. A guide for minimum 
+expected stripping strengths of the joints when 
+these nuts are assembled with bolts of various 
+property classes is shown in table 7. 
+
+
+
+Property ciass of 
+nut 
+
+
+Nominal stress 
+under proof load 
+
+N/mm 2 
+
+
+Actual stress 
+under proof load 
+
+N/mm 2 
+
+
+04 
+
+
+400 
+
+
+380 
+
+
+05 
+
+
+500 
+
+
+500 
+
+
+
+4 Materials 
+
+
+
+Nuts shall be made of steel conforming to the 
+chemical composition limits specified in table 4. 
+
+
+
+Table 4 - 
+
+
+Limits of chemical composition 
+
+
+Property class 
+
+
+Chenr 
+
+« 
+C 
+
+max. 
+
+
+itcal com] 
+
+check an, 
+
+Mn 
+
+min. 
+
+
+position li 
+
+■lysis), % 
+
+P 
+
+max. 
+
+
+inits 
+
+S 
+
+max, 
+
+
+41V5I); s 1 > 
+
+
+_. 
+
+
+0,50 
+
+
+- 
+
+
+0,060 
+
+
+0,150 
+
+
+8.9 
+
+
+04 1 > 
+
+
+0,58 
+
+
+0,25 
+
+
+0,060 
+
+
+0,150 
+
+
+10?) 
+
+
+05 *> 
+
+
+0,58 
+
+
+0,30 
+
+
+0,048 
+
+
+0,058 
+
+
+12 2) 
+
+
+- 
+
+
+0,58 
+
+
+0,45 
+
+
+0,048 
+
+
+0,058 
+
+
+1) Nuts of these property classes may be manufactured 
+from free-cutting steel unless otherwise agreed between the 
+purchaser and the manufacturer. In such cases, the following 
+maximum sulfur, phosphorus and lead contents are per- 
+missible: 
+
+sulfur 0,34 %; phosphorus 0,11 %; lead 0,35 %. 
+
+2) Alloying elements may be added, if necessary, to de 
+velop the mechanical properties of the nuts 
+
+
+
+Nuts of property classes 05, 8 (style 1 above M16), 
+10 and 12 shall be hardened and tempered. 
+
+
+
+5 Mechanical properties 
+
+When tested by the methods described in clause 8, 
+the nuts shall have the mechanical properties set 
+out in tables. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 5 — 
+
+
+Mechanical properties 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+04 
+
+
+Property class 
+05 
+
+
+4 
+
+
+Th 
+
+greater 
+
+than 
+
+
+read 
+
+less 
+than or 
+equal to 
+
+
+Stress 
+
+! under 
+proof 
+load 
+
+N/mm2 
+
+
+i 
+
+Vic* 
+hard 
+
+H 
+
+min. 
+
+
+cers 
+
+ness 
+
+V 
+
+max. 
+
+
+state 
+
+
+Nut 
+
+style 
+
+
+Stress 
+under 
+proof 
+load 
+
+s „ 
+
+N/mm2 
+
+
+Vickers 
+hardness 
+
+HV 
+
+min. max. 
+
+
+Nut 
+state style 
+
+
+Stress 
+
+under 
+proof 
+load 
+
+5 p 
+
+N/mm2 
+
+
+Vickers 
+hardness 
+
+HV 
+
+min. max. 
+
+
+Nut 
+state style 
+
+
+— 
+
+
+M4 
+
+
+380 
+
+
+188 
+
+
+302 
+
+
+NQTD 
+
+
+thin 
+
+
+500 
+
+
+272 
+
+
+353 
+
+
+QT2) 
+
+
+thin 
+
+
+- 
+
+
+- 
+
+
+- 
+
+
+- 
+
+
+- 
+
+
+M4 
+
+
+M7 
+
+
+M7 
+
+
+M10 
+
+
+M10 
+
+
+M16 
+
+
+M16 
+
+
+M33 
+
+
+510 
+
+
+117 
+
+
+302 
+
+
+NQTD 
+
+
+1 
+
+
+
+
+
+
+
+
+5 3) 
+
+
+6 
+
+
+Property class 
+
+8 
+
+
+Thf 
+
+greater 
+than 
+
+
+■ead 
+
+less 
+than or 
+equal to 
+
+
+Stress 
+
+under 
+proof 
+load 
+
+S ? 
+
+N/mm2 
+
+
+Vic 
+hard 
+
+H 
+
+min. 
+
+
+cers 
+ness 
+
+V 
+
+max. 
+
+
+N 
+
+state 
+
+
+ut 
+style 
+
+
+Stress 
+
+under 
+
+proof 
+
+load 
+
+5 p 
+
+N/mm2 
+
+
+Vic 
+hard 
+
+H 
+
+min. 
+
+
+<ers 
+
+ness 
+
+V 
+
+max. 
+
+
+Nu 
+
+state 
+
+
+t 
+
+style 
+
+
+Stress 
+
+under 
+
+proof 
+
+load 
+
+S ? 
+
+N/mm2 
+
+
+Vickers 
+hardness 
+
+HV 
+
+min. max. 
+
+
+Nut 
+state style 
+
+
+Stress 
+
+under 
+
+proof 
+
+load 
+
+N/mmZ 
+
+
+Vickers 
+
+hardness 
+
+HV 
+
+min. max. 
+
+
+Nut 
+state style 
+
+
+— 
+
+
+M4 
+
+
+520 
+
+
+130 
+
+
+302 
+
+
+NQTD 
+
+
+1 
+
+
+600 
+
+
+150 
+
+
+302 
+
+
+NQT.D 
+
+
+1 
+
+
+800 
+
+
+180 
+
+
+302 
+
+
+NQTD 
+
+
+1 
+
+
+- 
+
+
+- 
+
+
+- 
+
+
+- 
+
+
+- 
+
+
+M4 
+
+
+M7 
+
+
+580 
+
+
+670 
+
+
+855 
+
+
+200 
+
+
+M7 
+
+
+M10 
+
+
+590 
+
+
+680 
+
+
+870 
+
+
+M10 
+
+
+M16 
+
+
+610 
+
+
+700 
+
+
+380 
+
+
+M16 
+
+
+M39 
+
+
+630 
+
+
+146 
+
+
+720 
+
+
+170 
+
+
+
+
+
+
+
+
+
+
+920 
+
+
+233 
+
+
+353 
+
+
+QT2) 
+
+
+
+
+
+
+390 
+
+
+180 
+
+
+302 
+
+
+NQTD 
+
+
+2 
+
+
+
+8f 
+
+5* 
+
+
+
+
+
+
+
+
+Property class 
+
+
+
+
+Thread 
+
+
+9 
+
+
+10 
+
+
+12 
+
+
+
+
+Stress 
+
+under 
+proof 
+
+load 
+
+
+Vickers 
+
+hardness 
+
+HV 
+
+
+Nut 
+
+
+Stress 
+under 
+proof 
+load 
+
+s ? 
+
+
+Vickers 
+hardness 
+
+HV 
+
+
+Nut 
+
+
+Stress 
+under 
+proof 
+
+load 
+
+5 P 
+
+
+Vickers 
+hardness 
+
+HV 
+
+
+Nut 
+
+
+Stress 
+under 
+proof 
+load 
+
+
+Vickers 
+hardness 
+
+HV 
+
+
+Nut 
+
+
+greater 
+than 
+
+
+less 
+than or 
+equal to 
+
+
+N/mm2 
+
+
+min. 
+
+
+max 
+
+
+state 
+
+
+style 
+
+
+N/mm2 
+
+
+min. 
+
+
+max. 
+
+
+state 
+
+
+style 
+
+
+N/mm2 
+
+
+min. 
+
+
+max. 
+
+
+state 
+
+
+style 
+
+
+N/mm2 
+
+
+min. 
+
+
+max. 
+
+
+state 
+
+
+style 
+
+
+- 
+
+
+M4 
+
+
+900 
+
+
+170 
+
+
+302 
+
+
+NQTU 
+
+
+2 
+
+
+1 040 
+
+
+272 
+
+
+353 
+
+
+0T2) 
+
+
+1 
+
+
+1 140 
+
+
+295 
+
+
+353 
+
+
+QT2J 
+
+
+1 
+
+
+1 150 
+
+
+272 
+
+
+353 
+
+
+QT2) 
+
+
+2 
+
+
+M4 
+
+
+M7 
+
+
+915 
+
+
+188 
+
+
+1 040 
+
+
+1 140 
+
+
+1 150 
+
+
+M7 
+
+
+M10 
+
+
+940 
+
+
+1 040 
+
+
+1 140 
+
+
+1 160 
+
+
+M10 
+
+
+M16 
+
+
+950 
+
+
+1 050 
+
+
+1 170 
+
+
+1 190 
+
+
+M16 
+
+
+M39 
+
+
+920 
+
+
+1 060 
+
+
+- 
+
+
+- 
+
+
+_ 
+
+
+- 
+
+
+— 
+
+
+1 200 
+
+
+}) NQT - Not quenched or tempered. 
+
+
+
+
+2) OT = Quenched and tempered. 
+
+
+
+
+3) The maximum bolt hardness of property classes 5.6 and 5.8 will be changed to be 220 HVj n the next revision of ISO 898-1:1988. This is the maximum bolt hardness in the thread engagement area 
+whereas only the thread end or the head may have a maximum hardness of 250 HV. Therefore the values of stress under proof load are based on a maximum bolt hardness of 220 HV. 
+
+
+NOTE - Minimum hardness is mandatory only for heat-treated nuts and nuts too large to be proof-load tested. For all other nuts, minimum hardness is not mandatory but is provided for guidance only. 
+For nuts which are not hardened and tempered, and which satisfy the proof-load test, minimum hardness shall not be cause for rejection. 
+
+
+
+WW 
+
+I* 
+
+-*£ 
+
+ate 
+
+
+
+IS 1367( Parte): 1994 
+ISO 898-2 : 1992 
+
+
+
+6 Proof load values 
+
+Proof load values are given in table 6. 
+
+The nominal stress area A s is calculated as follows: 
+
+
+
+n / d 2 + d z V 
+
+
+
+where 
+
+rf 2 *> is the basic pitch diameter of the external 
+thread; 
+
+
+
+d 3 is the minor diameter of the external 
+thread; 
+
+
+
+d^d,-~ 
+
+
+
+where 
+
+
+
+rf, is the basic minor diameter of the ex- 
+ternal thread; 
+
+77 is the height of the fundamental trian- 
+gle of the thread. 
+
+
+
+') See ISO 724. 
+
+
+
+
+
+
+
+
+
+
+
+Table 6 
+
+
+— Proof load values — Coarse thread 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Property class 
+
+
+
+
+
+
+
+
+
+
+Thread 
+
+
+Thread 
+pitch 
+
+
+Nominal stress area 
+of the mandrel 
+
+A* 
+
+
+04 
+
+
+05 
+
+
+4 
+
+
+5 
+
+
+6 
+
+
+8 
+
+
+9 
+
+
+10 
+
+
+
+
+12 
+
+
+
+
+
+
+style 1 
+
+
+style 1 
+
+
+Proof load (A s x 5 P ) 
+
+N 
+
+
+style 2 
+
+
+style 1 
+
+
+style 1 
+
+
+style 2 
+
+
+mm 
+
+
+mm 2 
+
+
+style 1 
+
+
+style 1 
+
+
+style 2 
+
+
+M3 
+
+
+0,5 
+
+
+5,03 
+
+
+1 910 
+
+
+2 500 
+
+
+— 
+
+
+2 600 
+
+
+3 000 
+
+
+4 000 
+
+
+- 
+
+
+4 500 
+
+
+5 200 
+
+
+5 700 
+
+
+5 800 
+
+
+M3.5 
+
+
+0,6 
+
+
+6,78 
+
+
+2 580 
+
+
+3 400 
+
+
+- 
+
+
+3 550 
+
+
+4 050 
+
+
+5 400 
+
+
+- 
+
+
+6 100 
+
+
+7050 
+
+
+7 700 
+
+
+7 800 
+
+
+M4 
+
+
+0,7 
+
+
+8,78 
+
+
+3340 
+
+
+4 400 
+
+
+- 
+
+
+4 550 
+
+
+5 250 
+
+
+7 000 
+
+
+— 
+
+
+7 900 
+
+
+9 150 
+
+
+10 000 
+
+
+10 100 
+
+
+M5 
+
+
+0,8 
+
+
+14,2 
+
+
+5 400 
+
+
+7 100 
+
+
+— 
+
+
+8 250 
+
+
+9 500 
+
+
+12 140 
+
+
+— 
+
+
+13000 
+
+
+14 800 
+
+
+16 200 
+
+
+16 300 
+
+
+M6 
+
+
+1 
+
+
+20,1 
+
+
+7 640 
+
+
+10 000 
+
+
+- 
+
+
+11 700 
+
+
+13 500 
+
+
+17 200 
+
+
+- 
+
+
+18 400 
+
+
+20 900 
+
+
+22 900 
+
+
+23 100 
+
+
+M7 
+
+
+1 
+
+
+28,9 
+
+
+11 000 
+
+
+14 500 
+
+
+- 
+
+
+16 800 
+
+
+19 400 
+
+
+'24 700 
+
+
+_ 
+
+
+26 400 
+
+
+30 100 
+
+
+32 900 
+
+
+33 200 
+
+
+M8 
+
+
+1,25 
+
+
+36,6 
+
+
+13900 
+
+
+18 300 
+
+
+— 
+
+
+21 600 
+
+
+24 900 
+
+
+31 800 
+
+
+- 
+
+
+34 400 
+
+
+38 100 
+
+
+41 700 
+
+
+42 500 
+
+
+M10 
+
+
+1,5 
+
+
+58 
+
+
+22 000 
+
+
+26 000 
+
+
+— 
+
+
+34 200 
+
+
+39 400 
+
+
+50 500 
+
+
+- 
+
+
+54 500 
+
+
+60 300 
+
+
+66 100 
+
+
+67 300 
+
+
+M12 
+
+
+1,75 
+
+
+84,3 
+
+
+32 000 
+
+
+42 200 
+
+
+- 
+
+
+51 400 
+
+
+59 000 
+
+
+74 200 
+
+
+— 
+
+
+80 100 
+
+
+88 500 
+
+
+98 600 
+
+
+100 300 
+
+
+M14 
+
+
+2 
+
+
+115 
+
+
+43 700 
+
+
+57 500 
+
+
+— 
+
+
+70 200 
+
+
+80 500 
+
+
+101 200 
+
+
+_ 
+
+
+109 300 
+
+
+120 800 
+
+
+134 600 
+
+
+136 900 
+
+
+M16 
+
+
+2 
+
+
+157 
+
+
+59 700 
+
+
+78 500 
+
+
+— 
+
+
+96 800 
+
+
+109 900 
+
+
+138 2b0 
+
+
+- 
+
+
+149 200 
+
+
+164 900 
+
+
+183 700 
+
+
+186 800 
+
+
+M18 
+
+
+2,5 
+
+
+192 
+
+
+73 000 
+
+
+96 000 
+
+
+97 900 
+
+
+121 000 
+
+
+138 200 
+
+
+176 600 
+
+
+170 900 
+
+
+176 600 
+
+
+203 500 
+
+
+— 
+
+
+230 400 
+
+
+M20 
+
+
+2,5 
+
+
+245 
+
+
+93 '100 
+
+
+122 500 
+
+
+125 000 
+
+
+154 400 
+
+
+176 400 
+
+
+225 400 
+
+
+218 lt» 
+
+
+225 400 
+
+
+259 700 
+
+
+- 
+
+
+294 000 
+
+
+M22 
+
+
+2,5 
+
+
+303 
+
+
+.115 100 
+
+
+151 500 
+
+
+154 500 
+
+
+193 900 
+
+
+218 200 
+
+
+278 800 
+
+
+269 700 
+
+
+278 800 
+
+
+321 200 
+
+
+- 
+
+
+363 600 
+
+
+M24 
+
+
+3 
+
+
+353 
+
+
+134 100 
+
+
+176 500 
+
+
+180 000 
+
+
+222 400 
+
+
+254 200 
+
+
+324 800 
+
+
+314 200 
+
+
+324 800 
+
+
+374 200 
+
+
+— 
+
+
+423 600 
+
+
+M27 
+
+
+3 
+
+
+459 
+
+
+174 400 
+
+
+229 500 
+
+
+234 100 
+
+
+289 200 
+
+
+330 500 
+
+
+422 300 
+
+
+408 500 
+
+
+422 300 
+
+
+486 500 
+
+
+— 
+
+
+550 800 
+
+
+M30 
+
+
+3,5 
+
+
+561 
+
+
+213 200 
+
+
+280 500 
+
+
+286 100 
+
+
+353 400 
+
+
+403 900 
+
+
+516 100 
+
+
+499 300 
+
+
+516 100 
+
+
+594 700 
+
+
+- 
+
+
+673 200 
+
+
+M33 
+
+
+3,5 
+
+
+694 
+
+
+263 700 
+
+
+347 000 
+
+
+353 900 
+
+
+437 200 
+
+
+499 700 
+
+
+638 500 
+
+
+617 700 
+
+
+638 500 
+
+
+735 600 
+
+
+- 
+
+
+832 800 
+
+
+M36 
+
+
+4 
+
+
+817 
+
+
+310 500 
+
+
+408 500 
+
+
+416 700 
+
+
+514 700 
+
+
+588 200 
+
+
+751 600 
+
+
+727 100 
+
+
+751 600 
+
+
+866 000 
+
+
+— 
+
+
+980 400 
+
+
+M39 
+
+
+4 
+
+
+976 
+
+
+370 900 
+
+
+488 000 
+
+
+497 ^00 
+
+
+614 900 
+
+
+702 700 
+
+
+897 900 
+
+
+868 600 
+
+
+897 900 
+
+
+1 035 000 
+
+
+— 
+
+
+1 171 000 
+
+
+
+g» 
+
+
+
+(A M* 
+
+
+
+IS 1367 (Part 6): 1994 
+ISO 898-2 : 1992 
+
+
+
+7 Failure loads for nuts with nominal 
+height > 0,5Z) but < 0,8D 
+
+The values of failure loads given in table 7 for guid- 
+ance apply to different bolt classes. Bolt stripping is 
+the expected failure mode for lower strength bolts, 
+while nut stripping can be expected for bolts of 
+higher property classes. 
+
+
+
+shall be the last quarter of the 6g range on the 
+minimum material side. 
+
+
+
+Table 7 — Minimum bolt stress when stripping 
+
+
+
+
+' 
+
+
+occurs 
+
+
+Property 
+class of 
+
+
+Proof load 
+
+stress of the 
+
+nut 
+
+
+Minimum stress in the core of 
+bolt when stripping occurs 
+
+N/mm 2 
+
+
+the nut 
+
+
+N/mm 2 
+
+
+for bolts with | 
+
+
+uoperty class 
+
+
+
+
+
+
+6.8 
+
+
+8,8 
+
+
+10.9 
+
+
+12.9 
+
+
+04 
+
+
+380 
+
+
+260 
+
+
+300 
+
+
+330 
+
+
+350 
+
+
+05 
+
+
+500 
+
+
+290 
+
+
+370 
+
+
+410 
+
+
+460 
+
+
+
+8 Test methods 
+
+8.1 Proof load test 
+
+The proof load test shall be used wherever the ca- 
+pacity of available testing equipment permits, and 
+shall be the referee method for sizes > M5. 
+
+The nut shall be assembled on a hardened and 
+threaded test mandrel as shown in figures 1 and 2. 
+For referee purposes, the axial tensile test is decis- 
+ive. 
+
+The proof load shall be applied against the nut in an 
+axial direction, and shall be held for 15 s. The nut 
+shall resist the load without failure by stripping or 
+rupture, and shall be removable by the fingers after 
+the load is released. If the thread of the mandrel is 
+damaged during the test, the test should be dis- 
+carded. (It may be necessary to use a manual 
+wrench to start the nut in motion. Such wrenching is 
+permissible provided that it is restricted to one half 
+turn and that the nut is then removable by the fin- 
+gers.) 
+
+The hardness of the test mandrel shall be 45 HRC 
+minimum. 
+
+Mandrels used shall be threaded to tolerance class 
+5h6g except that the tolerance of the major diameter 
+
+
+
+
+
+
+
+
+
+h C 
+
+
+
+
+
+
+Hardened \ 
+
+
+
+
+
+
+
+
+! 
+
+
+i \ 
+
+
+
+
+
+
+
+
+A 
+
+
+
+
+^^ 
+
+
+
+
+
+
+t^^> 
+
+
+>$$^$l 
+
+
+i 
+
+
+^^ 
+
+
+i 
+
+
+i 
+
+
+
+
+
+
+A. 
+
+
+
+
+
+
+
+c/h=«/Dir ) 
+
+
+
+T Load 
+
+*) D11 is taken from ISO 2*2. 
+Figure 1 — Axial tensile test 
+
+| Load 
+
+
+
+Hardened 
+
+
+
+
+Figure 2 — Axial compressive test 
+
+
+
+IS 1367(Part6): 1994 
+ISO 898-2 : 1992 
+
+
+
+8.2 Hardness test 
+
+For routine inspection, hardness tests shall be car- 
+ried out on one bearing surface of the nut and the 
+hardness shall be taken as the mean of three values 
+spaced 120° apart. In case of dispute, the hardness 
+tests shall be carried out on a longitudinal section 
+through the nut axis and with impressions placed as 
+close as possible to the nominal major diameter of 
+the nut thread. 
+
+The Vickers hardness test is the referee test, and 
+where practicable a load of HV 30 shall be applied. 
+
+If Brinell and Rockwell hardness tests are applied, 
+the conversion tables in accordance with ISO 4964 
+shall be used. 
+
+The Vickers hardness test shall be carried out in 
+accordance with the requirements of ISO 6507-1. 
+
+The Brinell hardness test shall be carried out in ac- 
+cordance with the requirements of^lSO 6506. 
+
+
+
+The Rockwell hardness test shall be carried out in 
+accordance with the requirements of ISO 6508. 
+
+8.3 Surface integrity test 
+
+For the surface integrity test, see ISO 6157-2. 
+
+9 Marking 
+
+9.1 Symbols 
+
+Marking symbols are shown in tables 8 and 9. 
+
+9.2 Identification 
+
+Hexagon nuts of threads > M5 and all property 
+classes shall be marked in accordance with the 
+designation system described in clause 3, by in- 
+denting on the side or bearing surface, or by 
+embossing on the chamfer. See figures 3 and 4. 
+Embossed marks shall not protrude beyond the 
+bearing surface of the nut. 
+
+
+
+
+
+Marking dot may be replaced 
+^\ by manufacturer's mark here 
+
+
+
+
+Figure 3 — Examples of marking with designation Figure 4 
+
+symbol 
+
+
+
+Examples of marking with code symbol 
+(clock-face system) 
+
+
+
+Table 8 — Marking symbols for nuts with property classes in accordance with 3.1 
+
+
+
+Property class 
+
+
+
+either designation 
+symbol 
+
+
+
+3> 
+
+c 
+
+
+
+to 
+E 
+
+0) 
+
+> 
+
+CO 
+
+c 
+< 
+
+
+
+or code symbol 
+(clock-face system) 
+
+
+
+
+
+
+
+9 
+
+
+
+
+*) The marking dot cannot be replaced by the manufacturer's mark. 
+
+
+
+10 
+
+
+
+10 
+
+
+
+
+12") 
+
+
+
+12 
+
+
+
+
+(0(0 
+
+"J 
+
+-a 
+
+S* 
+
+
+
+Table 9 — Marking for nuts with property classes in accordance with 3.2 
+
+
+
+Property class 
+
+
+04 
+
+
+05 
+
+
+Marking 
+
+
+
+
+
+m 
+
+
+
+9.3 Marking of left-hand thread 
+
+
+
+IS 1367(Part6): 1994 
+ISO 898-2 : 1992 
+
+
+
+Nuts with left-hand thread shall be marked as shown 
+in figures on one bearing surface of the nut by in- 
+denting. 
+
+
+
+
+
+Figure 5 — Left-hand thread marking 
+
+
+
+Marking is required for nuts with threads > M5. 
+
+The alternative marking for left-hand thread shown 
+in figure 6 may aiso be used. 
+
+
+
+1) s = width across flats. 
+Figure 6 — Alternative left-hand thread marking 
+
+9.4 Alternative marking 
+
+Alternative or optional permitted marking as stated 
+in 9.1 to 9.3 is left to the choice of the manufacturer. 
+
+9.5 Trade (identification) marking 
+
+The trade (identification) marking of the manufac- 
+turer is mandatory on all products covered by the 
+obligatory marking requirements for property 
+classes, provided this is possible for technical rea- 
+sons. Packages, however, shall be marked in all 
+cases. 
+
+
+
+11 
+
+
+
+JS 1367(Part6): 1994 
+ISO 898-2 : 1992 
+
+
+
+Annex A 
+
+(informative) 
+
+Loadability of bolted connections 
+
+(Explanatory note concerning the specifications of Technical Committee ISO/TC 2 
+
+regarding nut strength and nut design.) 
+
+
+
+Following the introduction of the ISO Recommen- 
+dation oh property classes for bolts and screws 
+(ISO/R 898-1:1968), an. ISO Recommendation on 
+property classes for nuts (ISO/R 898-2) was pub- 
+lished in 1969. These ISO Recommendations to- 
+gether produced a new system for the property 
+classes of bolts, screws and nuts, and, in conjunc- 
+tion with new marking requirements, provided a 
+clear statement of the loadability of a bolt-nut as- 
+sembly. 
+
+a) In the case of bolts and screws, the symbol indi- 
+cates: 
+
+minimum tensile strength and yield to ultimate 
+stress ratio. 
+
+EXAMPLE 
+
+Property class 8.8 
+
+First figure ("8" in 8.8) = 1/100 of the 
+minimum tensile strength, in newtons per 
+square millimetre. 
+
+Second figure ("8" in 8.8) = 10 times the 
+yield stress ratio (0,8). 
+
+Multiplication of these two figures 
+(8 x 8^ 64) = 1/10 of the minimum yield 
+stress, in newtons per square millimetre. 
+
+b) In the case of nuts: 
+
+designation number = 1/100 of the minimum 
+tensile strength, in newtons per square milli- 
+metre, of a bolt and screw, which, when mated 
+with the nut, can be loaded up to the minimum 
+yield stress. 
+
+EXAMPLE 
+
+Bolt or screw 8.8 — nut 8 
+
+connection loadable up to minimum yield 
+stress of the bolt or screw. 
+
+
+
+Following publication of both ISO Recommen- 
+dations, this system of property classes lias been 
+introduced worldwide and has proved to be a suc- 
+cess. 
+
+In 1973 the Sub-Committee SC 1 of ISO/TC 2 com- 
+menced revision of the ISO Recommendations on 
+the basis of experience gathered and also planned 
+to convert both Recommendations into ISO Stan- 
+dards. In 1974, a draft ISO/DIS 898-1 on property 
+classes for bolts and screws was published, incor- 
+porating certain modifications and supplements, 
+which, however, did not change the system of the 
+property classes in principle. This draft was then 
+revised once more. A second draft was prepared in 
+1977 and has since been adopted by a large majority 
+of the member bodies of ISO. While considerable 
+effort was required to develop thoroughly this draft 
+concerning property classes for bolts and screws, it 
+was finally resolved to the satisfaction of the inter- 
+ested countries within Sub-Committee SC 1 of 
+ISO/TC 2 and now is agreed to by ISO. More exten- 
+sive by far, and touching the substance of the 
+specifications, was the work on a revised version of 
+the ISO Recommendation ISO/R 898-2 and its con- 
+version into an ISO Standard on property classes for 
+nuts. 
+
+Experience had shown that, while the concept of 
+property classes in conjunction with a nominal 0,8/> 
+nut height is simple and straightforward, certain 
+practical difficulties arise. First, it is sometimes dif- 
+ficult or impossible to achieve specified nut proper- 
+ties with the most economical materials and 
+methods, for example with fine threads and certain 
+sizes of coarse threads. Secondly, compliance with 
+the requirements does not necessarily provide the 
+assurance that the assembly would resist thread 
+stripping during tightening. Previously it was con- 
+sidered adequate if the nut proof load was designed 
+equal to the bolt minimum ultimate strength, how- 
+ever, the advent of yield point tightening methods 
+and improved understanding of the interaction be- 
+tween nut and bolt threads showed the nuts required 
+re-design to provide greater resistance to stripping 
+of both the internal and externalthreads. 
+
+
+
+12 
+
+
+
+IS 1367 (Part 6): 1994 
+ISO 898-2 : 1992 
+
+
+
+For example, consider that the effective tensile 
+strength of a bolt of class 8.B may be between 
+800 N/mm 2 and about 965 N/mm 2 (determined from 
+the maximum hardness) in sizes up to M16. Conse- 
+quently the yield stress may range between 
+640 N/mm 2 and 772 N/mm 2 for a yield to ultimate 
+stress ratio of 80 %. With the use of yield point 
+tightening it will be seen that the tightening stress 
+approaches the proof stress. Recent research has, 
+in addition, shown that a nut tested with a hardened 
+mandrel is capable of sustaining a higher load be- 
+fore stripping than when tested with a bolt of the 
+appropriate property class. For example, a property 
+class 8 nut when tested with a mandrel. of 45 HRC 
+will be capable of approximately 10 % higher load 
+than when tested with a property class 8.8 bolt of 
+dimensions similar to the mandrel. Therefore, a nut 
+that just meets a proof stress of 800 N/mm 2 with a 
+hardened mandrel might only be expected to sustain 
+a load of approximately 720 N/mm 2 when mated with 
+a property ciass 8.8 boit of minimum dimensions, it 
+will be seen that stripping of the threads may occur 
+when tightening to stresses in excess of this, and 
+from the bolt mechanical properties it will be seen 
+that this could be a frequent occurrence with yield 
+point tightening. It might be argued, however, that 
+under torque tension loading the tensile strength of 
+the bolt is reduced by about 15 %, but it should also 
+be realized that the stripping strength of the as- 
+sembly is also reduced by almost the same amount 
+under torque tension loading. In addition to Ihe in- 
+troduction of yield point tightening methods, 
+changes in certain ISO standards were under con- 
+sideration that would also adversely affect this 
+stripping tendency. Upgrading of bolt and screw 
+mechanical properties was proposed as shown in 
+tabie A.I (which is an excerpt from iSO 898-1), the 
+purpose of which was to utilize fully the available 
+strength of the commonly used materials for grades 
+4.8, 5.8, 8.8 (above M16), 10.9 and 12.9. 
+
+
+
+Another proposed change under consideration at 
+this time was to reduce ihe width across flats of 
+certain sizes of hexagon products to provide econ- 
+omies through optimized material use. As a result 
+of these and other factors, certain member countries 
+(Canada, Germany, Netherlands, Sweden, UK, USA) 
+of Sub-Committee SC 1 of ISO/TC 2 conducted re- 
+search and extensive testing of nut-bo.lt assemblies. 
+Tests included a full variety of product sizes, 
+strength levels and materials. In general, tests were 
+conducted on typical production fasteners utilizing 
+standard materials. Test parts were accurately 
+measured for dimensions and materia! strength 
+which then allowed appropriate statistical interpret- 
+ation of the data. Results of the various investigators 
+were evaluated by Canada and found to correlate 
+well. A general series of formulae resulted that 
+couid be applied to predict the assembly strength 
+of threaded components with the ISO 68 basic 
+thread profile. These findings were thoroughly 
+
+
+
+discussed within Sub-Committee SC 1 as well as in 
+the various national committees. 
+
+Despite the initial reluctance of the committee to 
+permit changes in existing specifications, the test 
+programme clearly indicated that there was inad- 
+equate resistance to assembly stripping, brought 
+about largely by the improved tightening methods 
+and upgrading of mechanical properties. The prob- 
+lem was both one of bolt thread stripping and nut 
+thread stripping, and, as a result, it was concluded 
+that the most viable means of overcoming the prob- 
+lem was by increasing the nominal 0.8D nut height 
+where required. It Is not the purpose of this annex 
+to provide a detailed description of the tests con- 
+ducted and the nut design method developed, for 
+which the reader is referred to the following publi- 
+cation which provides a summary of results and the 
+method employed: " Analysis and Design of Threaded 
+Assemblies", E.M. Alexander, 1977 SAE Trans- 
+actions, Paper No. 770420. 
+
+The calculation for nuts of property classes 4 to 6 
+according to the Alexander theory was not based on 
+the maximum bolt hardness 250 HV, as given in 
+iSO 898-1, see tabie A.I, because this is a hardness 
+which may occur at the bolt end or the head only. 
+Therefore it was agreed to make calculations on the 
+basis of the effective maximum hardnesses within 
+the thread engagement part of the bolt, which are 
+given in table A. 2. 
+
+Similar graduated hardness values were specified 
+in ISO/R 898-1:1968. 
+
+The above work showed that many factors influ- 
+enced resistance of tire stripping of threads, includ- 
+ing tolerances, pitch, beil mouthing of nut minor 
+diameter, size of countersink in nut, relative strength 
+of nut threads to bolt threads, length of engagement, 
+width across flats of nut, and style (for example 
+hexagon f)ange)., coefficient of friction, number of 
+threads in the grip, etc. Analysis of the various sizes 
+of fasteners on this basis indicated that it was not 
+appropriate to have a fixed nominal nut height, for 
+example 0,8/) as before* but rather each standard 
+assembly should be designed to give a suitable re- 
+sistance to stripping. The result of this analysis 
+gives the nut heights shown in tabie A. 3. 
+
+It will be seen that there are two styles of nut, 
+style 2 being approximately 10 % higher than 
+style 1. Style 1 height is intended for property 
+classes 4, 5, 6, 8, 10 and 12 (up to M16) in conjunc- 
+tion with appropriate mechanical properties, while 
+style 2 dimensions are intended for use with prop- 
+erty classes 8, 9 and 12, also with appropriate me- 
+chanical properties. The higher style of nut was 
+primarily developed as an economical cold-formed 
+nut to be used with property ciass 9.8 bolts and 
+screws and it also provides suitable dimensions for 
+a heat-treatable nut of good ductility for use with 
+property class 12.9 bolts and screws. The intended 
+
+
+
+13 
+
+
+
+IS 1367(Part6): 1994 
+ISO 898-2 : 1992 
+
+
+
+applications of the two styles of nuts are detailed in 
+tables, from which it is seen that this additional style 
+of nut does not mean that dual stocking of part ge- 
+ometry will result. 
+
+An overlapping between style 1 and style 2 occurs 
+only in two cases. In the case of style 1, property 
+class 8 allows the employment of nuts, not 
+quenched and tempered (cold-worked low-carbon 
+steel) only up to and including M16; above M16 the 
+nut style 1 has to be quenched and tempered. How- 
+ever, it is possible in this case to use alternatively 
+the thicker, not quenched and tempered, ^tyle 2. 
+This is a question of economics in the final analysis. 
+In the case of property class 12, it is not appropriate 
+to use style 1 nuts above size M16. Due to the re- 
+quired proof loads, it would be necessary to raise 
+the hardness of the nut to such an extent that its 
+ductility, which is necessary from the functional 
+point of view, would be impaired. Hence, the thicker 
+style 2 nuts quenched and tempered are necessary 
+in this case. If necessary, it would be possible to 
+restrict the use of these nuts to sizes above M16, so 
+that then no overlapping between style 1 and 
+style 2 would occur in the case of property class 12. 
+
+Once nut dimensions were determined based on 
+assembly strength criteria, the proof loads of these 
+nuts with a restricted size hardened mandrel were 
+determined. The result was that stresses under 
+proof load were not constant for each property class 
+of nut but varied with size. Accordingly, table 5 
+shows revised stresses under proof load and hard- 
+ness values for nuts. The property classes 04 and 
+05 (previously 06) for hexagon thin nuts with result- 
+ant reduced loadability are also indicated in this ta- 
+ble. These nuts incidentally were not designed to 
+provide resistance to stripping and are simply based 
+on a fixed height of 0,6D. 
+
+The stresses under proof load given in table 5 are for 
+the standard tolerance of 6H usually applied to nuts 
+for mechanical fasteners. Where a larger tolerance 
+or allowance is applied, these stresses should be 
+modified by a factor as shown in table 1. 
+
+
+
+The values of table 5 are only related to nuts with 
+coarse thread. The same applies also to the test 
+loads given in table 1. For nuts with fine pitch thread, 
+see ISO 898-6. 
+
+The loads given in table 1 are based on a test 
+mandrel as specified in this part of ISO 898 with a 
+minimum hardness of 45 HRC and thread tolerance 
+of 5h6g (major diameter of 6g in the last quarter). 
+
+ISO 898-1 and this part of ISO 898 on mechanical 
+properties, ISO 4014 to ISO 4018 on hexagon bolts 
+and screws, and ISO 4032 to ISO 4036 on hexagonal 
+nuts have been published reflecting the revised 
+mechanical properties, changes in nut heights and 
+changes in width across flats (width across flats of 
+M10, M12, M14 and M22 revised to 16 mm, 18 mm, 
+21 mm v and 34 mm respectively from 17 mm, 
+19 mm, 22 mm and 32 mm) as recommended by 
+ISO/TC 2. 
+
+Thrs part of ISO 898 makes the following statement 
+concerning the property classes for nuts with full 
+loadability: 
+
+A bolt or screw of a particular property class as- 
+sembled with the equivalent property class of 
+nut, in accordance wrth table 2, is intended to 
+provide an assembly capable of being tightened 
+to achieve a bolt tension equivalent to the bolt 
+proof load or yield load without stripping. Ad- 
+ditionally, geometry and mechanical properties 
+of nuts up to M39 and property class 12 of 6H 
+thread tolerances are designed to provide for a 
+high degree of resistance lo stripping (at least 
+10 % bolt breakage of individual lots even under 
+adverse minimum material conditions) when in- 
+advertently overtorqued, in order to warn the 
+user that the installation practice is not appro- 
+priate. 
+
+Certain users of the referenced standards could not, 
+of necessity, participate in their detailed develop- 
+ment and it is hoped that this explanatory note will 
+provide increased understanding of this relatively 
+complicated subject. 
+
+
+
+
+
+
+
+Table A.1 — Property classes for bolts and screws 
+
+
+
+
+
+
+
+
+Property class 
+
+
+3.6 
+
+
+46 
+
+
+4.8 
+
+
+5.6 
+
+
+5.8 
+
+
+6.8 
+
+
+8 
+
+<M16 
+
+
+8 
+
+>M16 
+
+
+9.8 
+
+
+10.9 
+
+
+12.9 
+
+
+Tensile nom. 
+strength, R m 
+
+
+300 
+
+
+400 
+
+
+400 
+
+
+500 
+
+
+500 
+
+
+600 
+
+
+800 
+
+
+800 
+
+
+900 
+
+
+1 000 
+
+
+1 200 
+
+
+N/mm 2 min. 
+
+
+330 
+
+
+400 
+
+
+420 
+
+
+.500 
+
+
+520 
+
+
+600 
+
+
+800 
+
+
+830 
+
+
+900 
+
+
+1 040 
+
+
+1 220 
+
+
+Vickers hard- 
+ness 
+
+
+250 HV 
+
+
+250 HV 
+
+
+250 HV 
+
+
+250 HV 
+
+
+250 HV 
+
+
+250 HV 
+
+
+320 HV 
+
+
+335 HV 
+
+
+360 HV 
+
+
+380 HV 
+
+
+435 HV 
+
+
+
+14 
+
+
+
+IS 1367 (Part 6): 1994 
+ISO 898-2: 1992 
+
+
+
+Table A.2 — Effective maximum hardness within the 
+thread engagement part of the bolt 
+
+
+
+Property class 
+
+
+Maximum hardness 
+
+
+3.6 
+4.6; 4.8 
+5.6; 5.8 
+
+6.8 
+
+
+158 HV 
+180 HV 
+220 HV 
+250 HV 
+
+
+
+
+
+Table A.3 - 
+
+
+Heights of hexagon nuts 
+
+
+
+
+
+
+
+
+Thread 
+
+
+Width across flats 
+
+mm 
+
+
+Nut height 
+
+
+Style 1 
+
+
+Style 2 
+
+
+min. 
+mm 
+
+
+max. 
+mm 
+
+
+mjD 
+
+
+min. 
+mm 
+
+
+max. 
+mm 
+
+
+m\D 
+
+
+M5 
+
+
+8 
+
+
+4,4 
+
+
+4,7 
+
+
+0,94 
+
+
+4,8 
+
+
+5,1 
+
+
+1,02 
+
+
+M6 
+
+
+10 
+
+
+4,9 
+
+
+5,2 
+
+
+0,87 
+
+
+5,4 
+
+
+5,7 
+
+
+0,95 
+
+
+M7 
+
+
+11 
+
+
+6,14 
+
+
+6,50 
+
+
+0,93 
+
+
+6,84 
+
+
+7,20 
+
+
+1,03 
+
+
+M8 
+
+
+13 
+
+
+6,44 
+
+
+6,80 
+
+
+0,85 
+
+
+7,14 
+
+
+7,50 
+
+
+0,94 
+
+
+M10 
+
+
+16 
+
+
+8,04 
+
+
+8,40 
+
+
+0,84 
+
+
+8,94 
+
+
+9,30 
+
+
+0,93 
+
+
+M12 
+
+
+18 
+
+
+10,37 
+
+
+10,80 
+
+
+0,90 
+
+
+11,57 
+
+
+12,00 
+
+
+1,00 
+
+
+M14 
+
+
+21 
+
+
+12,1 
+
+
+12,8 
+
+
+0,91 
+
+
+13,4 
+
+
+14,1 
+
+
+1,01 
+
+
+M16 
+
+
+24 
+
+
+14,1 
+
+
+14,8 
+
+
+0,92 
+
+
+15,7 
+
+
+16,4 
+
+
+1,02 
+
+
+M18 
+
+
+27 
+
+
+15,1 
+
+
+15,8 
+
+
+0,88 
+
+
+16,9 
+
+
+17,6 
+
+
+0,98 
+
+
+M20 
+
+
+30 
+
+
+16,9 
+
+
+18,0 
+
+
+0,90 
+
+
+19,0 
+
+
+20,3 
+
+
+1,02 
+
+
+M22 
+
+
+34 
+
+
+18,1 
+
+
+19,4 
+
+
+0,88 
+
+
+20,5 
+
+
+21,8 
+
+
+0,93 
+
+
+M24 
+
+
+36 
+
+
+20,2 
+
+
+21,5 
+
+
+0,90 
+
+
+22,6 
+
+
+23,9 
+
+
+1,00 
+
+
+M27 
+
+
+41 
+
+
+22,5 
+
+
+23,8 
+
+
+0,88 
+
+
+25,4 
+
+
+26,7 
+
+
+0,99 
+
+
+M30 
+
+
+46 
+
+
+24,3 
+
+
+25,6 
+
+
+0,85 
+
+
+27,3 
+
+
+28,6 
+
+
+0,95 
+
+
+M33 
+
+
+50 
+
+
+27,4 
+
+
+28,7 
+
+
+0,87 
+
+
+30,9 
+
+
+32,5 
+
+
+0,98 
+
+
+M36 
+M39 
+
+
+55 
+
+
+29,4 
+
+
+31,0 
+
+
+0,86 
+
+
+33,1 
+
+
+34,7 
+
+
+0,96 
+
+
+60 
+
+
+31,8 
+
+
+33,4 
+
+
+0,86 
+
+
+35,9 
+
+
+37,5 
+
+
+0,96 
+
+
+
+15 
+
+
+
+IS 1367(Part6): 1994 
+ISO 898-2 : 1992 
+
+
+
+Annex B 
+
+(informative) 
+
+Bibliography 
+
+
+
+[1] ISO 3506:1979, Corrosion-resistant stainless 
+steel fasteners — Specifications. 
+
+[2] ISO 4014:1988, Hexagon head bolts — Product 
+grades A and B 
+
+[3] ISO 4015:1979, Hexagon head bolts — Product 
+grade B — Reduced shank (shank diameter ap- 
+proximately equal to pitch diameter). 
+
+[4] ISO 4016:1988, Hexagon head bolts — Product 
+grade C. 
+
+[5] ISO 4017:1988, Hexagon head screws — Prod- 
+uct grades A and B. 
+
+
+
+[6] ISO 4018:1988, Hexagon head screws — Prod- 
+uct grade C. 
+
+[7] ISO 4032:1986, Hexagon nuts, style 1 — Product 
+grades A and B. 
+
+[8] ISO 4033:1979, Hexagon nuts t style 2 — Product 
+grades A and B. 
+
+[9] ISO 4034:1986, Hexagon nuts — Product grade 
+C. 
+
+[10] ISO 4035:1986, Hexagon thin nuts (chamfered) 
+— Product grades A and B. 
+
+[11] ISO 4036:1979, Hexagon thin nuts — Product 
+grade B (unchamfered). 
+
+
+
+16 
+
+
+
+(Continued from second cover) 
+
+International 
+Standard 
+
+
+
+Corresponding Indian 
+Standard 
+
+
+
+ISO 965-1:1988 
+ISO 965-2:1980 
+
+ISO 4964:1 984 
+ISO 6506:1981 
+ISO 6507:1982 
+
+ISO 6508:1986 
+
+
+
+IS 4218 (Part 4):1976 ISO metric screw threads : 
+Part 4 Tolerancing system (first revision) 
+
+IS 4218 (Part 6):1978 ISO metric screw threads: 
+Part 6 Limits of sizes for commercial bolts and nuts 
+(diameter range 1 to 52 mm) (first revision) 
+
+IS 4258:1982 Hardness conversion tables for 
+metallic materials (first revision) 
+
+IS 1500:1983 Method for Brinell hardness test for 
+metallic materials (second revision) 
+
+IS 1 501 (Part 1 ):1 984 Methodfor Vickers hardness 
+test for metallic materials: Part 1 HV 5 to HV 100 
+(second revision) 
+
+IS 1586:1985 Methodfor Rockwell hardness test 
+for metallic material (Scales A-B-C-D-E-F-G-H-K) 
+(second revision) 
+
+
+
+Degree of 
+
+Equivalence 
+
+Technically 
+equivalent 
+
+Technically 
+equivalent 
+
+
+
+Technically 
+equivalent 
+
+Technically 
+equivalent 
+
+Technically 
+equivalent 
+
+
+
+Technically 
+equivalent 
+
+
+
+The ISO 6517-2 is under publication. The concerned technical committee has reviewed the provision of 
+ISO 61 57-2 referred in this adopted standard and has decided that this is acceptable for use in conjunction with this 
+standard. The related Indian Standard of ISO 6175-2 is IS 1367 (Part 10) :1979 Technical supply conditions for 
+threaded steel fasteners: Part 10 Surface discontinuities on nuts (second revision)' . 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote harmonious 
+development of the activities of standardization, marking and quality certification of goods and attending to 
+connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form without 
+the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing the 
+standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to 
+copyright be addressed to the Director (Publication), BIS 
+
+Revision of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+"BIS Handbook' and 'Standards Monthly Additions'. 
+
+
+
+This Indian standard has been developed from Doc No. LMi4 (0207) 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10002 
+
+Telephones : 3.31 01 31, 331 13 75 
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C.I.T. Scheme VII M, V.I.R Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 
+
+Southern : C.I.T. Campus, IV Cross Road, MADRAS 6001 13 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+BOMBAY 400093 
+
+
+
+13 
+
+
+
+Telegrams : Manaksanstha 
+Common to all offices) 
+
+Telephone 
+
+T331 01 31 
+1331 13 75 
+
+{37 84 99, 37 85 61 
+37 86 26, 37 86 62 
+
+("53 38 43, 53 16 40 
+\ 53 23 84 
+
+f235 02 16, 235 04 42 
+1235 15 19, 235 23 15 
+
+f 632 92 95, 632 78 58 
+1632 7891, 632 78 92 
+
+
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESWAR. COIMBATORE. FARIDABAD. 
+GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. PATNA. 
+THIRUVANANTHAPURAM. 
+
+
+
+Printed at Dee Kav Printers, New Delhi- 11001 5, India 
+
+
+

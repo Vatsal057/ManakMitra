@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":17,"params":{"query":"identifier:gov.in.is.4100.*","qin":"identifier:(gov.in.is.4100.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.4100.2005","title":"IS 4100: Alcoholic Drinks - Gin"}]}}

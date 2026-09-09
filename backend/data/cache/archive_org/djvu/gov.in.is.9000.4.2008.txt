@@ -1,0 +1,567 @@
+**************** 
+
+
+
+* tOT£ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+IS 9000-4 (2008) : Basic Environmental Testing Procedures 
+for Electronic and Electrical Items, Part 4: Damp hear 
+(Steady state) [LITD 1: Environmental Testing Procedure] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+5fR TT^ ^TT <sMHI | *ft ^fft ^TRT ^ff ^TT ^T^fT )f 
+
+Bhartrhari — Nltisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+<*i *3f», 
+
+
+
+
+*?W!& 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 9000 (Part 4) : 2008 
+IEC 60068-2-78 : 2001 
+
+
+
+M^c|xju| T^taT^T nf^TT 
+TPT4 ^r 3^tt (wf 3T^an) 
+
+( t7^^7 tprffem ) 
+
+
+
+Indian Standard 
+
+BASIC ENVIRONMENTAL TESTING PROCEDURES 
+FOR ELECTRONIC AND ELECTRICAL ITEMS 
+
+PART 4 DAMP HEAT (STEADY STATE) 
+
+( First Revision ) 
+
+
+
+ICS 19.040; 29.020 
+
+
+
+© BIS 2008 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+September 2008 Price Group 3 
+
+
+
+Environmental Testing Procedures Sectional Committee, LITD 01 
+
+
+
+NATIONAL FOREWORD 
+
+This Indian Standard (Part 4) (First Revision) which is identical with IEC 60068-2-78 : 2001 
+'Environmental testing — Part 2-78: Tests — Test Cab: Damp heat, steady state' issued by the 
+International Electrotechnical Commission (IEC) was adopted by the Bureau of Indian Standards on 
+the recommendation of the Environmental Testing Procedures Sectional Committee and approval of 
+the Electronics and Information Technology Division Council. 
+
+This standard was first published in 1979. This revision has been undertaken to align it with latest 
+IEC publication of IEC 60068-2-78 : 2001. 
+
+The text of IEC Standard has been approved as suitable for publication as an Indian Standard without 
+deviations. Certain conventions are, however, not identical to those used in Indian Standards. 
+Attention is particularly drawn to the following: 
+
+a) Wherever the words 'International Standard' appear referring to this standard, they should 
+be read as 'Indian Standard'. 
+
+b) Comma (,) has been used as a decimal marker, while in Indian Standards, the current 
+practice is to use a point (.) as the decimal marker. 
+
+In this adopted standard, reference appears to certain International Standards for which Indian 
+Standards also exist. The corresponding Indian Standards, which are to be substituted in their 
+respective places, are listed below along with their degree of equivalence for the editions indicated: 
+
+
+
+International Standard Corresponding Indian Standard Degree of 
+
+Equivalence 
+
+IEC 60068-1 : 1982 Environmental IS 9000 (Part 1) : 1988 Basic Technically 
+testing — Part 1: General and environmental testing procedures for Equivalent 
+guidance electronic and electrical items: Part 1 
+
+General (first revision) 
+
+
+
+IEC 60068-2-2 1974 Basic 
+
+environmental testing procedures — 
+Part 2: Tests — Tests B: Dry heat 
+
+
+
+IS 9000 (Part 2/Sec 1 to 5) : 1977 Basic do 
+
+environmental testing procedures for 
+
+electronic and electrical items: Part 2 Dry 
+
+heat test, 
+
+Section 1 General 
+
+Section 2 Dry heat test for non-heat 
+
+dissipating items with sudden change of 
+
+temperature 
+
+Section 3 Dry heat test for non-heat 
+
+dissipating items with gradual change of 
+
+temperature 
+
+Section 4 Dry heat test for heat dissipating 
+
+items with sudden change of temperature 
+
+Section 5 Dry heat test for heat dissipating 
+
+items with gradual change of temperature 
+
+Only the English language text of the International Standard has been retained while adopting it as an 
+mdian Standard, and as such the page numbers given here are not the same as in the IEC 
+Publication. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the 
+final value, observed or calculated, expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS 2 : 1960 'Rules for rounding off numerical values {revised)'. The number of 
+significant places retained in the rounded off value should be the same as that of the specified value 
+m this standard. 
+
+
+
+IS 9000 (Part 4) : 2008 
+IEC 60068-2-78 : 2001 
+
+Indian Standard 
+
+BASIC ENVIRONMENTAL TESTING PROCEDURES 
+FOR ELECTRONIC AND ELECTRICAL ITEMS 
+
+
+
+1 Scope 
+
+
+
+PART 4 DAMP HEAT (STEADY STATE) 
+
+( First Revision ) 
+
+
+
+This part of IEC 60068 provides a test method for determining the suitability of electrotechnical 
+products, components or equipment for transportation, storage and use under conditions of 
+high humidity. The test is primarily intended to permit the observation of the effect of high 
+humidity at constant temperature without condensation on the specimen over a prescribed 
+period. 
+
+This test provides a number of preferred severities of high temperature, high humidity and test 
+duration. The test can be applied to both heat-dissipating and non-heat dissipating specimens. 
+
+The test is applicable to small equipment or components as well as large equipment having 
+complex interconnections with test equipment external to the chamber, requiring a set-up time 
+which prevents the use of preheating and the maintenance of specified conditions during the 
+installation period. 
+
+2 Normative references 
+
+The following normative documents contain provisions which, through reference in this text, 
+constitute provisions of this part of IEC 60068. For dated references, subsequent amendments 
+to, or revisions of, any of these publications do not apply. However parties to agreements 
+based on this part of IEC 60068 are encouraged to investigate the possibility of applying the 
+most recent editions of the normative documents indicated below. For undated references, the 
+latest edition of the normative document referred to applies Members of ISO and IEC maintain 
+registers of currently valid International Standards. 
+
+IEC 60068-1, Environmental testing - Part 1: General and guidance 
+
+IEC 60068-2-2, Basic environmental testing procedures - Part 2: Tests - Tests B Dry heat 
+
+3 General description 
+
+In this test, the specimen is introduced into the chamber, both of which are at laboratory 
+temperature. 
+
+The conditions in the chamber are adjusted to the severity required according to clause 5 and 
+maintained for the prescribed time 
+
+Because the conditions of temperature and humidity adjacent to a heat-dissipating specimen 
+can be different from the specified test values, the measurement of these parameters is 
+prescribed in the manner used for free air conditions (see 4 4 and 4.6,2 of IEC 60068-1) 
+
+
+
+IS 9000 (Part 4) : 2008 
+IEC 60068-2-78 : 2001 
+
+4 Test chamber 
+
+The chamber and measuring system shall be such that 
+
+a) sensing devices can be located in the working space to monitor the temperature and 
+humidity For the testing of heat dissipating specimens, the devices are located at positions 
+as defined in IEC 60068-1, 
+
+b) the temperature and relative humidity in the working space can be maintained at the values 
+and within the tolerances prescribed, taking into account the effect of the specimen under 
+test on chamber conditions. The temperature tolerances given in clause 5 are intended to 
+take account of absolute errors in measurements and slow changes of temperature 
+
+For heat-dissipating specimens, the temperature and relative humidity near the specimen 
+are influenced by the effect of heat-dissipation of the specimen itself and can be different 
+from the values measured in the positions defined in IEC 60068-1, 
+
+c) condensed water is continuously drained from the chamber and not re-used until re- 
+punfied, 
+
+d) no condensed water from the walls and roof of the test chamber can fall on the specimens; 
+
+e) water utilized for the maintenance of chamber humidity shall have a resistivity of not less 
+than 0,05 MUcm, 
+
+f) »he specimen under test shall not be subjected to radiant heat from the chamber 
+conditioning devices, 
+
+g) in injection-type chambers, moisture shall be injected remotely from the specimen and 
+without impinging directly on it 
+
+4.1 Testing of heat-dissipating specimens 
+
+The volume of the test chamber shall be at least five times the total volume of the specimen 
+under test 
+
+The distance between the specimen and the chamber walls shall be in accordance with 
+appendix A of IEC 60068-2-2 The air speed within the chamber shall be commensurate with 
+achieving the desired conditions 
+
+4.2 Mounting of the specimens 
+
+The relevant specification shall prescribe specific mounting structures, which shall replicate or 
+simulate the thermal characteristics applicable in real life conditions If these conditions are not 
+defined, the mounting device shall have the minimum influence on the heat and humidity 
+exchanges between specimen and surrounding conditions. 
+
+
+
+IS 9000 (Part 4) : 2008 
+IEC 60068-2-78 : 2001 
+
+
+
+5 Severity 
+
+
+
+The test severity is defined by a combination of temperature relative humidity and total test 
+duration 
+
+Unless otherwise specified in the relevant specification, temperature and relative humidity 
+seventies may be selected from the following 
+
+
+
+(30 t 21 X 
+
+
+(93 1 3) % RH 
+
+
+(30 i 21 - C 
+
+
+(85 i 31 % RH 
+
+
+i40 ± 2) *C 
+
+
+(93 ± 3i % RH 
+
+
+(40 ± 2) - C 
+
+
+(85 ± 31 % RH 
+
+
+
+Preferred test durations are 12 h 16 h 24 h. and 2, 4 10 21 or 56 days 
+
+The total temperature tolerance of i2 K is intended to take account of absolute errors in the 
+measurement, slow changes of temperature, and temperature variations of the working space 
+However, in order to maintain the relative humidity within the required tolerances it is 
+necessary to keep the temperature difference between any two points in the working space at 
+any moment within narrower limits The required humidity conditions will not be achieved if 
+such temperature differences exceed 1 K It may also be necessary to keep short term 
+fluctuations within ±0,5 K to maintain the required humidity 
+
+6 Initial measurements 
+
+The specimen shall be visually inspected and electrically and mechanically checked, as 
+required by the relevant specification 
+
+
+
+7 Conditioning 
+
+
+
+The conditioning shall be such that 
+
+a) Unless otherwise specified, the specimen shall be introduced Into the chamber, both of 
+which shall be at standard ambient conditions of the laboratory The specimen shall be 
+introduced In the unpacked, switched-off, ready-for-use state 
+
+In certain cases the relevant specification may allow the introduction of the specimen in the 
+chamber when this is already at the conditions prescribed for the test, however, 
+condensation on the specimen siall always be avoided This can be obtained for small 
+specimens by pre-heating them to the chamber temperature 
+
+b) Adjust the temperature in the chamber to the prescribed severity, and allow the specimen 
+to reach temperature stability 
+
+Temperature stability is defined in 4 8 of IEC 60068-1 The rate of change of temperature 
+shall not exceed 1 K/min, averaged over a period of not more than 5 min During this 
+period condensation on the specimen shall not occur 
+
+
+
+IS 9000 (Part 4) : 2008 
+IEC 60068-2-78 : 2001 
+
+c) Condensation can be avoided during this period by not increasing the absolute humidity. 
+
+d) Adjust the humidity to the prescribed severity within a time of not more than 2 h 
+
+e) Expose the specimen to the test conditions and duration as specified in the relevant 
+specification The duration is measured from the time the specified conditions are 
+achieved 
+
+f) The relevant specification shall define the operating conditions and the period (or periods) 
+in which they shall be carried out 
+
+g) At the end the recovery procedure shall be followed 
+
+8 Intermediate measurements 
+
+The relevant specification may call for measurements during, or at the end of, conditioning 
+while the specimen is still in the chamber If such measurements are required, the relevant 
+specification shall define the measurements and the period (or periods) at which they shall be 
+carried out For these measurements the specimen shall not be removed from the chamber. 
+
+9 Recovery 
+
+The relevant specification shall prescribe whether recovery shall be made at standard 
+atmospheric conditions for testing (see 53 of IEC 60068-1), or at controlled recovery 
+conditions (see 5 4 1 of IEC 60068-1). If controlled recovery conditions are required, the 
+specimen may be transferred to a second chamber for this recovery period or may remain in 
+the test chamber 
+
+If the second chamber method is used, the changeover time shall be as short as possible. 
+
+Relative humidity shall be adjusted to a value of 73 % to 77 % RH in not more than 0,5 h, after 
+which the temperature shall be adjusted to laboratory temperature within ±1 K in not more 
+than 0,5 h 
+
+The recovery time if specified in the relevant specification is counted from the moment when 
+the prescribed recovery conditions have been obtained. 
+
+10 Final measurements 
+
+The specimen shall be visually inspected and electrically and mechanically checked, as 
+required by the relevant specification 
+
+
+
+IS 9000 (Part 4) : 2008 
+IEC 60068-2-78 : 2001 
+
+
+
+11 Information to be given in the relevant specification 
+
+
+
+When this test is included in the relevant specification, the following details shall be given as 
+far as they are applicable 
+
+Information to be given. Clause or subclause 
+
+a) Specific mounting structures, if required 4 2 
+
+b) Test severities and tolerances 5 
+
+- temperature 
+
+- relative humidity 
+
+- duration 
+
+c) Initial measurements 6 
+
+d) Conditioning 7 
+
+e) Intermediate measurements 8 
+
+f) Recovery conditions 9 
+
+g) Final measurements 10 
+
+
+
+MGIPF— 64o Dcptt. of BIS/20M— 6.9 J0M— 300 Boon 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any 
+form without the prior permission in writing of BIS. This does not preclude the free use, in course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade 
+designations. Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are 
+also reviewed periodically; a standard along with amendments is reaffirmed when such review 
+indicates that no changes are needed; if the review indicates that changes are needed, it is taken up 
+for revision. Users of Indian Standards should ascertain that they are in possession of the latest 
+amendments or edition by referring to the latest issue of 'BIS Catalogue' and 'Standards: Monthly 
+Additions'. 
+
+This Indian Standard has been developed from Doc: No. LITD 01 (3062). 
+
+Amendments Issued Since Publication 
+
+Amendment No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10 002 
+
+Telephones: 2323 01 31 , 2323 3375, 2323 9402 Website: www.bis.org.in 
+
+Regional Offices: Telephones 
+
+Central: Manak Bhavan, 9 Bahadur Shah Zafar Marg ("2323 7617 
+
+NEW DELHI 1 1 002 I 2323 3841 
+
+Eastern : 1/14, C.I.T. Scheme VII M, V.I.P. Road, Kankurgachi / 2337 8499, 2337 8561 
+
+
+
+{ 
+
+
+
+KOLKATA 700 054 \ 2337 8626, 2337 91 20 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 1 60 022 / 260 3843 
+
+1260 9285 
+
+
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 600 113 / 2254 1216, 2254 1442 
+
+2254 2519,2254 2315 
+
+
+
+{ 
+
+
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) / 2832 9295, 2832 7858 
+
+MUMBAI 400 093 X 2832 7891 , 2832 7892 
+
+Branches: AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. 
+GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+PARWANOO. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM. 
+
+
+
+Printed by the Manager. Govt, of India Press. Faridabad 
+
+
+

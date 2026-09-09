@@ -1,0 +1,796 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10584-2 (1983): Glass marking pencils, Part 2: With 
+spiral paper-form casing [CHD 14: Printing, Inks, 
+Stationary and Allied Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 10584 (Pari 2) - 1983 
+
+( Reaffirmed 2004 ) 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+GLASS-MARKING PENCILS 
+
+PART 2 WITH SPIRAL PAPER-FORM CASING 
+
+
+
+UDG ti77'T>6 r > r 666' I -777 
+
+
+
+
+® Copyright IMR3 
+
+INDIAN STANDARDS INSTITUTION 
+MANAK 111 IS VAN, 9 BAHADUR SHaH ZAFAR MARG 
+
+NEW DELHI 110003 
+
+
+
+Gr 3 
+
+
+
+S/pUmhtr 1983 
+
+
+
+IS : 10584 ( Part 2 ) - 1983 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+GLASS-MARKING PENCILS 
+
+PART 2 WITH SPIRAL PAPER-FORM CASING 
+
+
+
+Pencils Sectional Committee, GPDG 8 
+
+Chairman Representing 
+
+Shri H. Mitra Government of India Stationery Office, Calcutta 
+
+Members 
+
+Shri N. G. Basak Directorate General of Technical Development, 
+
+New Delhi 
+Shri B. Bose ( Alternate ) 
+Shri D. N. Bhargava Indian Bureau of Mines, Nagpur 
+
+Shri R. D. Naik ( Alternate ) 
+Shri A. Biswas Tire Bharat Carbon & Ribbon Mfg Co Ltd, 
+
+New Delhi 
+Shri A. K, Sengupta ( Alternate ) 
+Shri S. D. Dandekar Camlin Private Ltd, Bombay 
+
+Shri D. D. Dandekar ( Alternate ) 
+Director, Map Publication Survey of India, Dehra Dun 
+
+Officer-iN-Charge ( Alternate ) 
+Shri S. G. Ghanekar Office of the Development Commissioner, Small 
+
+Scale Industries, New Delhi 
+Shri P. K. Ghose National Council of Educational Research & 
+
+Training, New Delhi 
+Shrt Kuldip Chand Jain Lion Pencils Pvt Ltd, Bombay 
+
+Shri Rajendra Bhushan 
+Jain ( Alternate ) 
+Shri Nripraj Jain Indian Pencil Manufacturers' Association, Bombay 
+
+Shri V. S. Narang ( Alternate ) 
+Shri B. MohaNty Directorate General of Posts & Telegraphs, 
+
+New Delhi 
+Dr K. S. NarASimhan Regional Research Laboratory ( CSIR ), 
+
+Bhubaneshwar 
+Shri Nirmal Singh Delhi Stationers Association ( Regd ), Delhi 
+
+
+
+Shri Ravinder Kumar 
+Khanna ( Alternate ) 
+
+
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1983 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be ah infringement of copyright under the said Act. 
+
+
+
+IS : 10584 ( Part 2 ) - 1983 
+
+( Continued from page \ ) 
+
+Members Representing 
+
+Oitficer-in-C h a r g e, Forest Research Institute & Colleges, Dehra Dun 
+
+Wood Seasoning Branch 
+Shri K. G. Purang Associated Instrument Manufacturers ( India ) 
+
+Pvt Ltd, New Delhi 
+Shri M. D. Nair ( Alternate ) 
+Shri G. Radhapathy The Madras Pencil Factory, Madras 
+
+Shri V. Swaroof ( Alternate ) 
+Shri B. J. Sanghvi Stationery & Office Equipment Association of India, 
+
+Calcutta 
+Shri H. B. Sanghvi Hindustan Pencils Pvt Ltd, Bombay 
+
+Shri D. M. Lal Srivastava ( Alternate ) 
+Dr A. S. Sethi, Director General, ISI ( Ex-qfficio Member ) 
+
+Director ( Consr Prod & Med 
+Instrs ) 
+
+Secretary 
+
+Shri J. P. Mehta 
+Deputy Director ( Consr Prod & Med Instrs ), ISI 
+
+
+
+IS : 10584 ( Part 2 )- 1983 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+GLASS-MARKING PENCILS 
+
+PART 2 WITH SPIRAL PAPER-FORM CASING 
+0. FOREWORD 
+
+0,1 This Indian Standard was adopted by the Indian Standards 
+Institution on 12 May 1983, after the draft finalized by Pencils Sectional 
+Committee had been approved by the Consumer Products and Medical 
+Instruments Division Council. 
+
+0.2 This standard contains clauses which call for agreement between the 
+purchaser andthe supplier and which permit the purchaser to use his 
+option for selection to suit his requirements. The relevant clauses are 2.2, 
+7.1 and 8.2. 
+
+0.3 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, ex- 
+pressing the result of a test or analysis, shall be rounded ofTin accordance 
+with IS : 2-1960*. The number of significant places retained in 
+the rounded off value should be the same as that of the specified value 
+in this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard covers the requirements and methods of tests for 
+pencils with spiral paper-form casing for marking on glossy-surface 
+materials. 
+
+2. TYPE AND COLOUR 
+
+2.1 Types — The pencil shall be of two types depending upon diameter 
+of slip ( see also 5,3 ). 
+
+Type I 4*6 to 5'0 mm 
+Type II 3-6 to 4'0 mm 
+
+
+
+*Rules for rounding off numerical values ( revised ). 
+
+3 
+
+
+
+IS : 10584 ( Part 2 ) - 1983 
+
+2.2 Colours — As agreed to between the purchaser and the supplier the 
+pencil and slip shall be any of the following colours: 
+
+
+
+Black 
+
+
+Green 
+
+
+Red 
+
+
+Blue 
+
+
+Orange 
+
+
+White 
+
+
+Brown 
+
+
+Purple 
+
+
+Yellow 
+
+
+
+3. MATERIALS 
+
+3.1 Slip — The slip shall be a mixture of wax, extender and pigments 
+compounded to meet the requirements of this specification. 
+
+3.2 Casing — Slips shall be spirally wrapped with at least seventeen 
+layers of paper. The wrapping shall be scored suitably at intervals of 
+5 mm to permit easy removal as slip is consumed. Each interval shall be 
+provided with an indention or other suitable method for easily starting 
+the process of removing the paper. 
+
+4. WORKMANSHIP AND FINISH 
+
+4.1 The slip shall be in one piece of uniform grading and uniform 
+colour. It shall mark easily on smooth surfaces without crumbling or 
+slipping. 
+
+4.2 The pencil shall be free from irregularities, twisting, or other defects 
+and shall be properly finished. The casing shall be uniform thickness 
+and co-axial with the slip. The ends shall be at right angles to the length 
+of the pencil. The outer surface of the pencil shall reasonably represent 
+the colour of the slip. The pencil shall be finished in accordance with 
+standard trade practice. 
+
+5. SHAPES AND DIMENSIONS 
+
+5.1 Shape — The pencils shall be manufactured into circular in cross- 
+section. 
+
+5.2 Length of Pencils — The length of pencils shall be 180 ± 3 
+mm, 
+
+5.3 Diameter of Slip — The diameter of slip of pencil shall be as 
+under: 
+
+a) Type I 4*6 to 5*0 mm, and 
+
+b) Type II 3*6 to 4'0 mm. 
+
+5.4 The diameter of pencils shall be between 9'0 and 10*0 mm. 
+
+
+
+IS : 10584 ( Part 2 ) - 1983 
+
+6. TESTS 
+
+6.1 Dimension — For measurement of length, effective length of the 
+slip should be measured. For measurement of slip-diameter the slip shall 
+be taken out of the casing. Diameter of slip may also be measured 
+before being wrapped with papers. 
+
+6.2 Eccentricity of Slip with the Casing — Slip shall not show an 
+eccentricity of more than 0'3 mm with the casing when measured by the 
+method described in Appendix A. 
+
+6.3 Legibility and Stability — Six 10 mm high letters and numbers 
+shall be inscribed on the side of a glass beaker with a sample pencil. The 
+beaker shall be placed in an oven at a temperature of 60 ± 2°C for a 
+period of one hour. The beaker shall then be removed and allowed to 
+cool down to room temperature. Marking shall be clearly legible with 
+little or no colour change. 
+
+6.4 Marking Characteristics — The same pencil used in the preced- 
+ing test shall be tested for writing on the following glossy surface 
+materials: 
+
+Aluminium, callophane, PVG and HD polyethene sheet and glazed 
+white porcelain. Straight line and zig-zag lines consisting of short 
+straight lines forming sharp angles shall be drawn on each of the speci- 
+fied materials. Markings shall then be examined. Markings shall be 
+continuous, clearly visible, distinct and sharp, free from chips and 
+crumbs, except that a slight break in continuity of markings at any angle 
+will be permitted. 
+
+6.5 Water-Soluble Matter of Slip — When tested in accordance with 
+the procedure given under Appendix B, this shall not exceed 1*25 percent 
+by weight. 
+
+6S Breaking -Strength of Slip — The slip shall have a breaking 
+strength of not less than 2*0 kg for Type I pencils and 1'4 kg for Type II 
+pencils when tested in accordance with Appendix G. 
+
+7. SAMPLING 
+
+7.1 Sampling and acceptance criteria shall be as agreed to between the 
+purchaser and the supplier. A recommended scheme for the same is 
+given in Appendix D. 
+
+8. MARKING AND PACKING 
+
+8.1 Each pencil shall be marked with: 
+
+a) the name and trade-mark of the manufacturer, 
+
+b) type and colour of the pencil, and 
+
+c) other indication which may be specified by the purchaser. 
+
+5 
+
+
+
+IS : 10584 ( Part 2 )- 1983 
+
+8.1.1 Pencils may also be marked with the ISI Certification Mark, 
+
+Note — The use of the ISI Certification Mark is governed by the provisions of the 
+Indian Standards Institution ( Certification Marks ) Act and the Rules and Regu- 
+lations made thereunder. The ISI Mark on products covered by an Indian Standard 
+conveys the assurance that they have been produced to comply with the require- 
+ments of that standard under a well-defined system of inspection, testing and quality 
+control which is devised and supervised by ISI and operated by the producer, ISI 
+marked products are also continuously checked by ISI for conformity to that 
+standard as a further safeguard. Details of conditions, under which a licence for the 
+use of the ISI Certification Mark may be granted to manufacturers or processors 
+may be obtained from the Indian Standards Institution. 
+
+8.2 Twelve or any number of pencils of the same colour and type as 
+agreed to between the purchaser and the supplier shall be packed in a 
+paper-board open-end sleeve, clear plastics tray or other suitable 
+container bearing the name or trade-mark of the manufacturer, type and 
+colour of the pencils, and month and year of packing of the pencils. 
+Twelve such packets shall be packed in a cardboard or plastic box. 
+Each such box shall be marked to indicate the type, colour, month and 
+year of packing of the pencils and also the name or trade-mark of the 
+manufacturer. 
+
+
+
+APPENDIX A 
+
+( Clause 6.2 ) 
+ECCENTRICITY OF SLIP WITH THE CASINGS 
+
+A-l. PROCEDURE 
+
+A-l.l The pencil shall be prepared so that the normal circular, 
+unsharpened portion of the slip extends 15 mm from the casing at both 
+the ends. 
+
+A-1.2 Place the two exposed portions of the slip on two suitable smooth 
+semi-circular vertical notches suitably adjusted to be in the same horizon- 
+tal axis as that of the sample pencil so that the pencil may be made to 
+rotate freely round its own axis, while exposed slip-ends rest on two 
+notches. 
+
+A-1.3 Choose a suitable point on the surface of the casing such that it is 
+approximately 20 mm inside the casing from one end. Take the reading 
+of a dial-gauge by placing its needle vertically on the point. Give the 
+pencil a rotation of about 60° and take the second reading of the dial- 
+gauge. Take six such readings by giving the pencil a rotation of 60° 
+successively. The readings may now be compared to obtain the eccentri- 
+city of the slip with the casing. 
+
+
+
+IS : 10584 ( Part 2 ) - 1983 
+
+A-1.4 Reverse the ends of the pencil and take second set of readings as 
+described in A-1.3. 
+
+
+
+APPENDIX B 
+
+( Clauses 6.5 and D-2.4 ) 
+
+WATER SOLUBLE MATTER OF SLIP 
+
+B-l. Weigh accurately about 5 g of the material and boil with 200 ml of 
+water for 5 minutes. Make up the volume to 250 ml with water. Filter 
+the solution. 
+
+B-Ll Reject the first 50 ml of the filtrate. Take an aliquot portion 
+( say V ml ) from the remaining solution and evaporate to dryness on a 
+water-bath. Dry the residue to constant weight in an air-oven maintained 
+at 150 ± 1°C. 
+
+B-l, 2 Calculate as under: 
+
+w ♦ i ui *♦ 25 x C x 100 
+
+Water soluble matter ==*= yttxt 
+
+VW 
+
+where 
+
+C « constant weight in g of the residue, 
+
+V = volume in ml of the solution taken for the test, and 
+
+W = weight in g of the material taken for the test. 
+
+Note — Distilled water conforming to IS : 1070-1977* shall be used for this test. 
+
+
+
+APPENDIX C 
+
+[ Clause 6.6 ) 
+BREAKING STRENGTH OF SLIP 
+
+C-l. The apparatus used in the test is shown in Fig. 1. 
+
+C-2. PROCEDURE 
+
+C-2.1 Pencils shall be prepared so that unsharpened tip of the slip extends 
+5 to 6 mm from the casing. 
+
+
+
+♦Specification for water for general laboratory use ( second revision ). 
+
+7 
+
+
+
+IS : 10584 ( Part 2 ) - 1983 
+
+
+
+
+WEIGHT PAN 
+
+
+
+PENCIL 
+
+
+
+GLASS PLATE 
+
+
+
+WOODEN STOOL 
+
+
+
+Fig. 1 Apparatus for Testing Breaking Strength -of Slip 
+
+C-2.2 Fix the pencil firmly at a distance of 35 to 40 mm from the'exposed 
+end of slip in a clamp such a way that the pencil remains at an%ngle of 
+45° to the horizontal smooth glass plate. 
+
+C-2.3 Add weights gradually on the top of the clamp. Find the load at 
+which the slip breaks. 
+
+C-2.4 Repeat the test at four different places on the pencil and find the 
+average breaking load of the slip. 
+
+
+
+IS : 10584 ( Part 2 ) - 1983 
+
+APPENDIX D 
+
+( Clause 7.1 ) 
+
+SAMPLING AND CRITERIA FOR CONFORMITY OF GLASS 
+MARKING PENCILS WITH SPIRAL PAPER-FORM CASING 
+
+D-l. LOT 
+
+D-l.l In any consignment all the packets of pencils of same type and 
+colour manufactured during the same period under similar conditions 
+shall be grouped together to constitute a lot. 
+
+D-l. 2 Number of pencils to be selected from each lot shall depend upon 
+the size of the lot and shall be in accordance with col 1 and 2 of 
+Table 1. 
+
+
+
+TABLE 1 SAMPLE SIZE AND CRITERIA FOR CONFORMITY 
+
+
+Lot Size 
+
+, -*- , 
+
+No. of 
+Packets 
+
+
+Sample^Size 
+, * , 
+
+No. of No. of 
+Packets Pencils 
+
+
+» Fob Dimensions 
+Eccentricity of ! 
+
+.. -K. 
+
+
+AND 
+
+Slip 
+
+
+Fob Legibility and 
+Stability, Marking 
+Chabactebistics and 
+Breaking Stbength 
+of Pencils 
+
+
+Sample 
+Size 
+
+
+Acceptance 
+
+No. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sample Size 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+
+
+(6) 
+
+
+Up to 25 
+
+
+2 
+
+
+7 
+
+
+5 
+
+
+
+
+
+
+
+2 
+
+
+26 to 50 
+
+
+3 
+
+
+11 
+
+
+8 
+
+
+
+
+
+
+
+3 
+
+
+51 to 150 
+
+
+5 
+
+
+18 
+
+
+13 
+
+
+
+
+
+
+
+5 
+
+
+151 & above 
+
+
+7 
+
+
+28 
+
+
+20 
+
+
+1 
+
+
+
+
+8 
+
+
+
+D-l.2.1 These pencils shall be selected from the lot at random and to 
+ensure the randomness of selection, procedure given in IS : 4905-1968* 
+may be followed. 
+
+D-2- NUMBER OF TESTS AND CRITERIA FOR CONFORMITY 
+
+D-2.1 The pencils selected at random in accordance with col 3 of 
+Table 1 shall be divided into two parts in accordance with col 4 and 6 
+of Table 1. 
+
+
+
+* Methods for random sampling. 
+
+
+
+IS : 10584 ( Part 2 ) - 1983 
+
+D-2.2 The pencils selected in accordance with col 4 of Table 1 shall be 
+subjected to test for dimensions ( see 6.1 ), and eccentricity of slip with 
+the casing ( see 6.2 ). A lot shall be considered as conforming to these 
+requirements if the number of defectives found in the sample is less than 
+or equal to corresponding permissible number of defectives as given in 
+col 5 of Table 1. 
+
+D-2.3 The pencils selected from the sample in accordance with col 6 of 
+Table 1 shall be examined for legibility and stability {see 6.3), marking 
+characteristics ( see 6.4 ). If none of the pencils in the sample fails in 
+these tests the number of pencils shall be tested for breaking strength of 
+slip ( see 6.6 ). If all the pencils pass, the lot shall be considered as 
+conforming to this test. 
+
+D-2.4 If the lot is conforming to all the requirements as mentioned in 
+D-2.2 and D-2.3, the test for water soluble matter of slip ( see 6.5 ) shall 
+be carried out as given in Appendix B. If the sample passes, the lot shall 
+be considered as conforming to this test. 
+
+D-2.5 The lot shall be accepted if D-2.2, D-2.3 and D-2.4 are satisfied, 
+otherwise rejected. 
+
+
+
+10 
+
+
+

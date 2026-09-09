@@ -1,0 +1,1602 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 2720-1 (1983): Methods of test for soils, Part 1: 
+Preparation of dry soil samples for various tests [CED 43: 
+Soil and Foundation Engineering] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+?TR TJ^ ^TT teMHI | ^t ^Wt ^^PTT ^f ^TT ^T^?TT \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS J 2720 ( P»rt1)-1M3 
+
+( Reaffirmed 2006 ) 
+
+Indian Standard 
+
+METHODS OF TEST FOR SOILS 
+
+PART I PREPARATION OF DRY SOIL 
+SAMPLES FOR VARIOUS TESTS 
+
+( Second Revision } 
+
+
+
+VYiC f»24l31'37 
+
+
+
+
+ten 4 
+
+© Copyright r§& 
+
+INDIAN STANDARDS INSTITUTION 
+I4ANAVC nil A VAN, 1* BAUAWR SHAH 7AFAU MAHG 
+
+nfw iin hi itrvoo? 
+Q t April 1W 
+
+
+
+IS t 2720 ( Part 1 ) - 1983 
+
+Indian Standard 
+
+METHODS OF TEST FOR SOILS 
+
+PART 1 PREPARATION OF DRY SOIL 
+SAMPLES FOR VARIOUS TESTS 
+
+( Second Revision ) 
+
+
+
+Soil Engineering and Rock Mechanics Sectional Committee, BDC 23 
+
+Chairman Representing 
+
+Dr Jagdish Nabain Association of Indian Universities, New Delhi 
+
+Members 
+
+Shri P. D. Agarwal Public Works Department, Government of Uttar 
+
+Pradesh, Lucknow 
+Shri B. L. Dhawan ( Alternate ) 
+Phof Alam Singh University of Jodhpur, Jodhpur 
+
+SkriB, Anjiab Engineering Research Laboratories, Government 
+
+of Andhra Pradesh, Hyderabad 
+Shri E. M. Benjamin Concrete Association of India, Bombay 
+
+Shri N. C. Duggal ( Alternate ) 
+Chief Engineer ( IPRI ) Irrigation Department, Government of Punjab, 
+
+Chandigarh 
+Director (Dam) ( Alternate ) 
+Shri A. G. Dastipar In personal capacity (5 Hungerford Court, 12! J, 
+
+Hungerford Street, Calcutta ) 
+Dr G. S. I>riixon Indian Geotechnical Society, New Delhi 
+
+Director Central Soil & Materials Research Station, New 
+
+Delhi 
+Deputy Director ( Alternate ) 
+Director, IRI Irrigation Department, Government of Uttar 
+
+Pradesh, Roorkee 
+Shri A. H. Divakjt Asia Foundations and Construction (P) Ltd, 
+
+Bombay 
+Shri A. N. Jangle ( Alternate ) 
+Dr Gopal Ranjan University of Roorkee, Roorkee; and Institute of 
+
+Engineers (India ), Calcutta 
+Shri S, Gupta Cemindia Company Limited, Bombay 
+
+Shri N. V. De-Sousa ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1984 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act (XIV of 1957) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 2720 ( Par 1 1 )- 1983 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri M. Iyengar Engineers India Limited, New Delhi 
+
+Shri Ashok K. Jain G. S. Jain and Associates, Roorkee 
+
+.Shri Vijay K. Jain ( Alternate ) 
+Joint Director Research (GE)-I, Ministry of Railways 
+RDSO 
+Joint Director Research 
+(GE)-H RDSO ( Alternate ) 
+Lt-Col V. K. Kanitkar Engineer-in-Chief 's Branch, Army Headquarters 
+
+Shri O. P. Malhotra Public Works Department, Chandigarh Adminis- 
+
+tration, Chandigarh 
+Shri D. R. Nauahari Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Siiui V. S. Agarwal ( Alternate ) 
+Shri T. K. Natrajan Central Road Research Institute (CSIR), New 
+
+Dejhi 
+Shri Ranjit Singh Ministry of Defence (R&D) 
+
+Shri P. D. Deshpanm ( Alternate) 
+Dr G. B. Rao Indian Institute of Technology, New Delhi 
+
+Dr K. K. Gupta ( Alternate ) 
+Research Officer ( B & RRL ) Public Works Department, Government of Punjab, 
+
+Chandigarh 
+Secretary Central Board of Irrigation and Power, New Delhi 
+
+Deputy Secretary ( Alternate ) 
+Shri N. Sivaguru Roads Wing ( Ministry of Shipping and Transport ) 
+
+Shri P. R. Kai,ra ( Alternate ) 
+Shri K. S. Srinivasan National Buildings Organization, New Delhi 
+
+Shri Sunil Berry ( Alternate ) 
+Dr N. Som Jadavpur University, Calcutta 
+
+Shri N. Subramanyam Karnataka Engineering Research Station, 
+
+Krishnarajasagar 
+Superintending Engine e r Public Works Department, Government of Tamil 
+( P & D C) Nadu, Madras 
+
+Executive Engineer ( SMRD) 
+( Alternate ) 
+Shri H. C. Verm a All India Instrument Manufacturers and Dealers 
+
+Association, Bombay 
+Shri H. K. Guha ( Alternate ) 
+Shri G. Raman, Director General, 1ST ( Ex-ojficio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shri K. M. Matrur 
+
+Senior Deputy Director ( Civ Engg ), ISI 
+
+Soil Testing Procedures Subcommittee, BDC 23 : 3 
+
+Convener 
+Dr Alam Singh University of Jodhpur, Jodhpur 
+
+Members 
+Shri Amar Singh Central Building Research Institute (CSIR), 
+
+Roorkee 
+Shri M. R. Soneja ( Alternate ) 
+
+( Continued on page 10 ) 
+
+
+
+IS: 2720 (Parti) -1983 
+
+Indian Standard 
+
+METHODS OF TEST FOR SOILS 
+
+PART 1 PREPARATION OF DRY SOIL 
+SAMPLES FOR VARIOUS TESTS 
+
+
+
+( Second Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( Second Revision ) was adopted by the Indian 
+Standards Institution on 28 November 1983, after the draft finalized by 
+the Soil Engineering and Rock Mechanics Sectional Committee had been 
+approved by the Civil Engineering Division Council. 
+
+0.2 With a view to establishing uniform procedure for the 
+determination of different characteristics of soils, Indian Standards on 
+methods of test for soils ( IS : 2720 ) have been formulated in various 
+parts. This part covers method of preparation of samples for the various 
+laboratory tests covered in the standard. This part was first published in 
+1966 and revised in 1972. Since then more parts of this standard have 
+been published covering additional characteristics besides some of the 
+published parts have been revised wherein requirements have been 
+modified. This revised version has therefore been formulated in order to 
+up date in this respect. 
+
+0.3 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test, shall be rounded off in accordance with 
+IS: 2-1960*. The number of significant-places retained in the rounded 
+off value should be the same as that of the specified value in this 
+standard- 
+
+
+
+1. SCOPE 
+
+1.1 This standard ( Part 1 ) covers the method of preparation of dry 
+samples from the bulk soil sample received from the field for various 
+laboratory tests. 
+
+
+
+♦Rules for rounding off numerical values ( revistd)* 
+
+3 
+
+
+
+IS : 2720 ( Part 1 )- 1983 
+
+2. APPARATUS 
+
+2.1 Wooden-Mallet — for breaking soil clods. 
+
+2.2 Trays — for air drying of soil, of suitable size and of non-rusting 
+material. 
+
+2.3 Pulverizing Apparatus — Either mortar and rubber covered 
+pestle or a mechanical device consisting of mortar and a power-driven 
+rubber covered pestle suitable for breaking up the aggregation of soil 
+particles without reducing the size of the individual grains. Pestle and 
+mortar made of soft wood may also be used. 
+
+2.4 Sampler — A suitable riffle sampler or sample splitter for quartering 
+the samples {see IS : 1607-1960* ). 
+
+2.5 Sieves — of sizes 75-mm, 63-mm, 37*5-mm, 19-mm, 13'2-mm, 
+9'50-mm, 6'7-mm, 4'75-mm, 2*00-mm and 425-micron [see IS: 460 
+(Part 1 )-1978t]. 
+
+2.6 Drying Apparatus 
+
+a ) Drying Oven — Thermostatically controlled, with interior of 
+non-corroding material to maintain the temperature between 
+105 and 110°C. 
+
+b) Other suitable drying apparatus. 
+
+2.7 Balances 
+
+a) Capacity 10 kg and minimum sensitivity 100 g. 
+
+b) Capacity 1 kg and minimum sensitivity 1 g. 
+
+c) Capacity 250 g and minimum sensitivity 0*01 g. 
+
+3. PREPARATION OF SAMPLE FOR TESTS 
+
+3.1 General — Soil sample as received from the field shall be dried in the 
+air or in sun. In wet weather a drying apparatus may be used in which 
+case the temperature of the sample should not exceed 60°C. The clods 
+may be broken with a wooden-mallet to hasten drying. The organic 
+matter, like tree roots and pieces of bark should be removed from the 
+sample. Similarly, matter other than soil, like shells should also be 
+separated from the main soil mass. A noting shall be made of such 
+removals and their percentage of the total soil sample noted. When 
+
+
+
+♦Methods for dry sieving, 
+
+fSpecification for test sieves : Fart I Wire doth test sieves ( second revision ) . 
+
+
+
+IS : 2720 ( Part 1 ) - 1983 
+
+samples are to be taken for estimation of organic content, lime content, 
+etc, total sample should be taken for estimation without removing 
+shells, roots, etc. 
+
+3.2 Drying of the Sample — The amount of drying depends upon the 
+proposed test to be conducted on the particular sample. The type, 
+temperature and duration of drying of soil samples for different tests 
+are given in Table 1. When oven is used for drying, the temperature 
+in the oven shall not exceed 110°C (see Note). Chemical drying of 
+samples should not be adopted for any tests. 
+
+Note — Soils containing organic or calcareous matter should not be dried at 
+temperature above 60°C. 
+
+
+
+TABLE 1 QUANTITY OF SOIL SAMPLE REQUIRED FOR CONDUCTING 
+
+THE TESTS 
+
+(Clauses 3.2,3.3 andlA ) 
+
+
+
+No 
+
+
+
+L 
+
+
+Test 
+
+
+Type, Tempe- 
+
+
+Amount 
+
+
+OF 
+
+
+Degree 
+
+
+Ref to 
+
+
+O. 
+
+
+
+
+rature and 
+
+
+Soil Sample 
+
+
+of Pul- 
+
+
+Part of 
+
+
+
+
+
+
+DtTRATION 
+
+of Drying 
+
+
+Required 
+tor Test 
+
+
+verization 
+( Passing 
+IS Sieve 
+
+Size) 
+
+
+IS: 2720* 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+
+
+(5) 
+
+
+(6) 
+
+
+i) 
+
+
+Water content 
+
+
+Oven, 24 h 
+
+
+As given 
+Table 2 
+
+
+in 
+
+
+— 
+
+
+Part 2 2 
+
+
+») 
+
+
+Specific gra- 
+vity 
+
+
+Oven 105-U0°C, 
+24 h 
+
+
+50 g for fine 
+grained soils 
+
+
+2 mm 
+
+
+Part 3/Secl 3 
+
+
+
+
+
+
+
+
+400 g for 
+medium 
+
+
+fine, 
+and 
+
+
+— 
+
+
+Part 3/Sec 2 4 
+
+
+
+
+
+
+
+
+coarse grained 
+soils 
+
+
+
+
+
+
+Hi) 
+
+
+Grained size 
+analysis 
+
+
+Air drying 
+
+
+As given in 
+Table 3 
+
+
+
+
+— 
+
+
+Part 4 5 
+
+
+XV) 
+
+
+Liquid limit 
+
+
+do 
+
+
+270 g 
+
+
+
+
+425 micron 
+
+
+Part 5 6 
+
+
+v) 
+
+
+Plastic limit 
+
+
+do 
+
+
+60 g 
+
+
+
+
+do 
+
+
+do 
+
+
+
+1 Methods of test for soils. 
+
+•Determination of water content. 
+
+determination of specific gravity, Section 1 Fine grained soils. 
+
+determination of specific gravity, Section 2 Fine, medium and coarse grained soils. 
+
+6 Grain size analysis. 
+
+"Determination of liquid and plastic limits. 
+
+( Continued ) 
+
+
+
+IS : 2720 ( Part 1 ) - 1983 
+
+
+
+TABLE 1 
+
+
+
+Sl 
+
+No. 
+
+
+
+QUANTITY OF SOIL SAMPLE REQUIRED FOR CONDUCTING 
+THE TESTS — Contd 
+
+
+
+Test 
+
+
+
+(2) 
+
+
+
+Type, TEmPE- 
+
+RATURE AND 
+
+Duration 
+of Drying 
+
+
+
+(1) 
+
+vi) Shrinkage 
+factors 
+
+vii) Compaction 
+
+a) Light 
+
+compaction 
+
+
+
+b) Heavy 
+
+compaction 
+
+c) Constant 
+
+mass 
+
+viii) Unconfined 
+
+compressive 
+strength 
+
+ix) Triaxial com- 
+pression (un- 
+consolidated) 
+
+x) Triaxial 
+
+compression 
+( consolidated ) 
+
+xi) Direct shear 
+
+
+
+(3) 
+Air drying 
+
+do 
+
+do 
+do 
+
+
+
+oven 110°C 
+
+±5°C 
+
+do 
+
+
+
+do 
+
+
+
+Amount of 
+
+Soil Sample 
+
+Required 
+
+tor Test 
+
+
+
+(4) 
+100 g 
+
+6 kg (15 kg 
+if soil is 
+susceptible 
+to crushing ) 
+
+do 
+
+2 kg 
+lkg 
+
+I kg/5 kg 
+
+do 
+
+
+
+Degree 
+op Pul- 
+verization 
+( Passing 
+IS Sieve 
+Size) 
+
+(5) 
+425 micron 
+
+
+
+19 mm 
+
+19 mm 
+4*75 mm 
+
+
+
+Air drying/Oven 
+llO°C±5 C 
+
+
+
+lkg 
+
+
+
+4-75 mm 
+
+
+
+Rep to 
+Part op 
+IS : 2720 1 
+
+
+
+(6) 
+Part 6 2 
+
+Part 7 s 
+
+Part 8 4 
+Part 9 5 
+Part 10 6 
+
+Part U 7 
+
+Part 12 8 
+
+Part 13 9 
+
+
+
+x Methods of test for soils. 
+
+•♦Determination of shrinkage factors. 
+
+determination of water content dry density relation using light compaction. 
+
+determination of water content dry density relation using heavy compaction. r 
+
+^Determination of dry density — moisture content relation by constant weight of 
+soil method. 
+
+•Determination of unconfied compressive strength. 
+
+'Determination of shear strengh parameters of specimen tested in unconsolidated 
+undrained triaxial compression without the measurement of pore water pressure. 
+
+determination of shear strength parameters of soil from consolidated undrained 
+triaxial compression test with measurement of pore water pressure. 
+
+•Direct shear test. 
+
+( Continued) 
+
+
+
+IS : 2720 ( Part 1 ) - 1983 
+
+
+
+TABLE 1 QUANTITY OF SOIL SAMPLE REQUIRED 
+
+THE TESTS- Contd 
+
+
+FOR CONDUCTING 
+
+
+Sl Test 
+No. 
+
+
+Type, Tempe- 
+rature and 
+Duration 
+of Drying 
+
+
+Amount of Degree 
+
+Soil Sample of Pul- 
+
+Required verization 
+
+for Test ( Passing 
+
+IS Seive 
+
+Size) 
+
+
+Ref to 
+
+Part of 
+IS : 2720i 
+
+
+(1) (2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+xii) Density index 
+( relative 
+density ) 
+
+
+Oven, 105-110 Q C, 
+24 h 
+
+
+As per size of 
+particle given 
+below: 
+
+75 mm 45 kg 
+
+37*5 „ 12.. 
+
+19 „ 12 „ 
+
+9'50 „ 12 „ 
+
+475 „ 12 „ 
+
+
+
+
+Part 14* 
+
+
+xui) Consolidation 
+properties 
+
+
+Air drying/Oven 
+
+1I0°C±5°C 
+
+
+500 g 
+
+
+— 
+
+
+Part 15 s 
+
+
+xiv) CBR 
+
+
+Air drying 
+
+
+6 kg 
+
+
+19 mm 
+
+
+Part 16* 
+
+
+xv) Permeability 
+
+
+Oven, 105-110°C, 
+24 h 
+
+
+2*5 kg (100 
+mm dia)/ 
+5 kg ( 200 
+mm dia ) 
+
+
+9*5 mm 
+
+
+Part 17 5 
+
+
+xvi) Field moisture 
+equivalent 
+
+
+Air drying 
+
+
+15g 
+
+
+425 
+micron 
+
+
+Part 18 6 
+
+
+xvii) Centrifuge 
+moisture 
+equivalent 
+
+
+do 
+
+
+10 g 
+
+
+do 
+
+
+Part 19 7 
+
+
+xviii) Linear shrinkage 
+
+
+i do 
+
+
+450 g 
+
+
+do 
+
+
+Part20 8 
+
+
+xix) Chemical tests 
+
+
+
+
+
+
+
+
+
+
+a) Total 
+
+soluble 
+
+solids 
+
+
+Oven, 105-1 10°C, 
+24 h 
+
+
+10 g 
+
+
+2 mm 
+
+
+Part 2 1 9 
+
+
+b) Organic 
+matter 
+
+
+Air drying 
+
+
+100 g 
+
+
+do 
+
+
+Part 22 10 
+
+
+
+*Methods of test for soils. 
+
+^Determination of density index (relative density) of cohesionless soils, 
+determination of consolidation properties. 
+^Laboratory determination of CBR. 
+^Laboratory determination of permeability. 
+^Determination of field moisture equivalent, 
+determination of centrifuge moisture equivalent. 
+^Determination oflinear shrinkage, 
+•Determination of total soluble solids. 
+"Determination of organic matter. 
+
+
+
+( Continued ) 
+
+
+
+IS : 2720 ( Part 1 ) - 1983 
+
+
+
+TABLE 1 QUANTITY OF SOIL SAMPLE REQUIRED FOR CONDUCTING 
+
+THE TESTS — Contd 
+
+
+
+Si, 
+No. 
+
+
+
+TesT 
+
+
+
+Type, Tempe- Amount op 
+
+rature and soil sample 
+
+Duration Required 
+
+of Drying for Test 
+
+
+
+(1) (2) 
+
+c) Calcium 
+
+carbonate 
+
+d) Cation 
+
+exchange 
+capacity 
+
+e) Silica-ses- 
+
+quioxide 
+ratio 
+
+f) *H value 
+
+g) Total 
+
+soluble 
+sulphates 
+xx) Vane shear 
+
+
+
+(3) 
+
+Oven, 105-110 Q C, 
+24 h 
+
+do 
+
+
+
+do 
+
+do 
+do 
+
+
+
+Air drying/oven 
+1 10°C ± 5°C 
+
+do 
+
+
+
+xxi) Negative pore 
+
+water pressure 
+
+xxii) Permeability of do 
+
+granular soils 
+
+xxiii) Sand 105 ± 5°C 
+
+equivalent value 
+
+xxiv) Direct shear Air drying 
+
+xxv) Free swell Oven dry 
+
+index 
+
+xxvi) Swelling Air drying/ 
+
+pressure Oven dry 
+
+
+
+(4) 
+5g 
+
+80-130 g 
+
+15 g 
+
+30 g 
+30 g 
+
+250 g 
+1 kgf5 kg 
+do 
+1500g 
+
+
+
+Degree 
+
+
+Ref to 
+
+
+op Pul- 
+
+
+Part op 
+
+
+verization 
+
+
+IS : 2720* 
+
+
+( Passing 
+
+
+
+
+IS Sieve 
+
+
+
+
+Size) 
+
+
+
+
+(5) 
+
+
+(6) 
+
+
+— 
+
+
+Part 23 8 
+
+
+
+425 micron 
+
+
+
+4'75 mm 
+
+
+
+Part 24" 
+
+Part 25* 
+
+Pan26 5 
+Part 27 6 
+
+Part SO 7 
+Part 35 8 
+Part 36 9 
+Part 37 10 
+
+
+
+up to 120 g 
+20 g 
+
+2 kg 
+
+
+
+Above 4*75 mm Part 39/Sec l u 
+425 micron Part 40 ia 
+
+
+
+2 mm 
+
+
+
+Part 41» 
+
+
+
+^Methods of test for soils, 
+^Determination of calcium carbonate, 
+determination of cation exchange capacity. 
+*Determination of silica sesquioxide ratio. 
+•Determination of ^H value. 
+"Determination of total soluble sulphates. 
+'Laboratory vane shear test. 
+•Measurement of negative pore water pressure. 
+
+•Laboratory determination of permeability of granular soils ( constant head). 
+"Determination of sand equivalent values of soils and fine aggregates. 
+Il Direct shear test for soils containing gravel: Section 1 Laboratory test. 
+"Determination of free swell index of soils. 
+"Measurement of swelling pressure of soils. 
+
+
+
+8 
+
+
+
+IS : 2720 ( Part 1 ) - 1983 
+
+3.3 Degree of Pulverization — The big clods may be broken with the 
+Jielp of wooden mallet. Further pulverization may be done in pestle 
+and mortar. The pulverized soil shall be passed through the specified 
+sieve for the particular test and the soil retained on that sieve shall be 
+again pulverized for sieving. This procedure should be repeated until 
+on further attempts at pulverizing very little soil passes through the 
+specified sieve. Care should be taken not to break up the individual 
+soil particles ( see Table 1 ). 
+
+4. QUANTITY OF SAMPLE 
+
+4.1 The quantities of soil sample required for conducting various 
+laboratory tests are given in Table 1 for guidance. 
+
+Note — For actual quantities, corresponding part of IS : 2720 shall be referred. 
+
+4.2 When a smaller quantity has to be taken out of a Trigger soil mass 
+the representative sampling shall be done by quartering or riffling. 
+
+Note — In the case of coarse gravel or gravelly soils quartering by forming 
+a cone shall not be done. The entire sample shall be thoroughly mixed and spread 
+on a flat surface. The sample so spread shall be divided into four quadrants and 
+diagonally opposite quadrants mixed. This process shall be repeated till the desired 
+quantity of sample is obtained. 
+
+
+
+TABLE 2 
+
+
+
+QUANTITY OF SAMPLE REQUIRED FOR DETERMINATION 
+OF WATER CONTENT 
+
+
+
+Size of Particles More Than 
+90 Percent Passing 
+
+
+
+Minimum Quantity of Soil 
+
+Specimen to be Taken 
+
+for the Test 
+
+Mass in g 
+
+
+
+425-micron IS Sieve 
+
+
+
+
+25 
+
+
+2-mm IS Sieve 
+
+
+
+
+50 
+
+
+4*75 mm IS Sieve 
+
+
+
+
+200 
+
+
+9'50 mm IS Sieve 
+
+
+
+
+300 
+
+
+19 mm IS Sieve 
+
+
+
+
+500 
+
+
+37*5 mm IS Sieve 
+
+
+(C^V" 
+
+
+v ~* 1000 
+
+
+
+
+TABLE 3 QUANTITY OF SOIL 
+
+
+REQUIRED FOR GRAIN SIZE ANALYSIS 
+
+
+Maximum Size of Material Present 
+
+
+Mass to be Taken 
+
+
+in Substantial Quantities 
+
+
+( 
+
+
+for Test 
+
+
+mm 
+
+
+
+
+kg 
+
+
+75 
+
+
+
+
+60 
+
+
+37*5 
+
+
+
+
+25 
+
+
+19 
+
+
+
+
+65 
+
+
+13 2 
+
+
+
+
+3-5 
+
+
+9-5 
+
+
+
+
+1*5 
+
+
+6'7 
+
+
+
+
+0*75 
+
+
+475 
+
+
+
+
+0-4 
+
+
+
+IS : 2720 { Part 1 )- 1983 
+
+( Continued from page 2 ) 
+
+Members 
+Assistant Research Officer 
+
+.(.IPRI) 
+Assistant Research Officer 
+
+(SRD) 
+Deputy Director Research 
+( GE-III ), RDSO 
+Joint Director Research 
+(GE-I), RDSO {Alternate) 
+Director 
+
+Deputy Director ( Alternate ) 
+Shri H. K. Guha 
+
+Shri N. N. Bhattacharaya 
+( Alternate ) 
+Dr Gqpal Ranjan 
+
+Dr S. G. Handa (Alternate) 
+Dr.Shashi K. Gulhati 
+Shri P. Jaganatha Rao 
+
+Lt-Cox- V. K. Kanitkar 
+Shri M, D. Nair 
+
+Prop T. S. Nagaraj ( Alternate) 
+
+
+
+Representing 
+
+Irrigation Department, Government of Punjab, 
+
+Chandigarh 
+Irrigation Department, Government of Uttar 
+
+Pradesh, Lucknow 
+Ministry ofRailways 
+
+
+
+Central Soil and Materials Research Station, New 
+Delhi 
+
+Geologist Syndicate Private Limited, Calcutta 
+
+
+
+University of Roorkee, Roorkee 
+
+Indian Institute of technology, New Delhi 
+Central Road Research Institute (CSIR), New 
+
+Delhi 
+Engineer-in-Chief s Branch, Army Headquarters 
+Associated Instruments Manufacturers (I) Private 
+
+Limited, New Delhi 
+
+
+
+10 
+
+
+

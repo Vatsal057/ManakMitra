@@ -1,0 +1,1017 @@
+**************** 
+
+
+
+^ tOTH: 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" ' 
+
+
+
+IS 12330 (1988): Specif icatioon for sulphate resisting 
+Portland cement [CED 2: Cement and Concrete] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+^*-:gv 
+
+
+
+
+^^35^* 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS: 12330-1988 
+
+( Reaffirmed 2009) 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+SULPHATE RESISTING PORTLAND CEMENT 
+
+( Fourth Reprint MAY 2000) 
+UDC 666-942-35 
+
+
+
+© Copyright 1988 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr 3 August 1988 
+
+
+
+IS 1 12330 ■ 1988 
+
+Indian Standard 
+SPECIFICATION FOR 
+
+
+
+AMENDMENT NO. 1 AUGUST 1991 
+TO 
+
+IS 12330 : 1988 SPECIFICATION FOR 
+SULPHATE RESISTING PORTLAND CEMENT 
+
+( Page 3, clause 8.2 ) — Insert the following new clauses after 8.2 
+and renumber the existing clause 8.3 as 8.4: 
+
+'8.3 When cement is intended for export and if the purchaser so requires, 
+packing of cement may be done in bags other than those given in 8.2 with 
+an average net mass of cement per bag as agreed to between the purchaser 
+and the manufacturer. 
+
+8.3.1 For this purpose the permission of the certifying authority shall 
+be obtained in advance for each export order. 
+
+8.3.2 The words 'FOR EXPORT' and the average net mass of cement 
+per bag shall be clearly marked in indelible ink on each bag. 
+
+8.3.3 The packing material shall be as agreed to between the supplier 
+and the purchaser. 
+
+8.3.4 The tolerance requirements for the mass of cement packed in bags 
+shall be at given in Appendix A except the average net mass which shall 
+be equal to or more than the quantity in 8.3.' 
+
+
+
+Primed at Dee Kay Primers, New Delhi-110015, India 
+
+
+
+Indian Standard 
+SPECIFICATION FOR 
+
+
+
+AMENDMENT NO. 2 NOVEMBER 1991 
+
+TO 
+
+IS 12330 : 1988 SPECIFICATION FOR SULPHATE 
+
+RESISTING PORTLAND CEMENT 
+
+{Page 5, clause A-1.2 ) — Substitute 'up to 25 tonnes' for 'of 20 to 25 
+tonnes'. 
+
+
+
+(CED2) 
+
+
+
+Printed at Dee Kay Printers. New Delhi! lOOtS. India 
+
+
+
+Indian Standard 
+SPECIFICATION FOR 
+
+
+
+AMENDMENT NO. 3 JUNE 1993 
+
+TO 
+
+IS 12330 : 1988 SPECIFICATION FOR SULPHATE 
+
+RESISTING PORTLAND CEMENT 
+
+[ Page 3, clause 8.2 ( see also Amendment No. 1 )] — Substitute the 
+following for the existing clauses %3 to 8.3.4: 
+
+"83 When cement is intended for expoit and if the purchaser so requires, 
+packing of cement may be done in bags or in drums with an average net mass of 
+cement per bag or drum as agreed to between the purchaser and the 
+manufacturer. 
+
+8.3.1 For this purpose the permission of the certifying authority shall be obtained 
+in advance for each export order. 
+
+8.3.2 The words 'FOR EXPORT' and the average net mass of cement per 
+bag/dium shall be clearly marked in indelible ink on each bag/drum. 
+
+8.33 The packing material shall be as agreed to between the manufacturer and 
+the purchaser. 
+
+83.4 The tolerance requirements for the mass of cement packed in bags/drum 
+shall be as given in 8.2 except the average net mass which shall be equal to or 
+more than the quantity in 8.3." 
+
+
+
+(CED2) 
+
+
+
+Printed at Dee Kay Printers. New Delhi! 10015, India. 
+
+
+
+AMENDMENT NO. 4 APRIL 2000 
+
+TO 
+
+IS 12330:1988 SPECIFICATION FOR SULPHATE 
+
+RESISTING PORTLAND CEMENT 
+
+Sulwtitute 'net mass' for 'avenge net mass' wherever it appean in the 
+standard. 
+
+
+
+(CED2) 
+
+
+
+Primed at Dee Kay Printers, New Delhi 
+
+
+
+AMENDMENT NO. 5 MAY 2004 
+
+TO 
+
+IS 12330:1988 SPECIFICATION FOR SULPHATE 
+RESISTING PORTLAND CEMENT 
+
+{ Pagcl, clause 5.3.1, line 6) — Substitute 'less than' />r 'not less than'. 
+
+
+
+( CED 2 ) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 6 JUNE 2006 
+
+TO 
+
+IS 12330 : 1988 SPECIFICATION FOR SULPHATE 
+
+RESISTING PORTLAND CEMENT 
+
+( First cover page ) — Insert the following above the English title of the 
+Indian Standard: 
+
+V \ r» N ft N f «f ft V ft fv fN /••« ^ 
+
+
+
+(CED2} 
+
+
+
+Repro|ro|)tiy Unit, BIS, New Delhi, ladU 
+
+
+
+IS 1 12330 . 1988 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+SULPHATE RESISTING PORTLAND CEMENT 
+
+
+
+0. FOREWORD 
+
+
+
+0.1 This Indian Standard was adopted by the 
+Bureau of Indian Standards on 12 May 1988, 
+after the draft finalized by the Cement and 
+Concrete Sectional Committee hid been approved 
+by the Civil Engineering Division Council. 
+
+0.2 Sulphate resisting Portland cement is a type 
+of Portland cement in which the amount of 
+tricaicium aluminaie is restricted to an acceptably 
+low value. This cement should not be mistaken 
+for supersulphated cement, which is produced by 
+intcrgrinding or intimately blending a mixture of 
+granulated blastfurnace slag, calcium sulphate 
+and a small amount of Portland cement or Port- 
+land cement clinker or any other source of lime. 
+
+Sulphate resisting Portland cement can be 
+used for structural concrete wherever ordinary 
+Portland cement or Portland pozzolana cement 
+or Portland slag cement are useable under normal 
+conditions. Use of supersulphated cement is, 
+however, generally restricted where the prevailing 
+temperature is below 40°C. The later is not 
+recommended for producing steam-cured 
+products. 
+
+0.2.1 Use of sulphate resisting Portland cement 
+is particularly beneficial in such conditions where 
+
+
+
+1. SCOPE 
+
+1.1 This standard covers the manufacture, 
+chemical and physical requirements and testing 
+of sulphate icsisting Portland cement. 
+
+
+
+of this standard, the 
+4845-1968* shall apply. 
+
+
+
+2. TERMINOLOGY 
+
+2.1 For the purpose 
+definitions given in IS : 
+
+3. MANUFACTURE 
+
+3.1 Sulphate resisting Portland cement shall be 
+manufactured by grinding and intimaiely mixing 
+together calcareous and argillaceous and/or other 
+silica, alumina and iron oxide bearing materials, 
+burning them at clinkering temperature and 
+grinding the resultant clinker so as to produce a 
+cement capable of complying with this specifica- 
+tion. No material shall be added after burning 
+other than gypsum < natural or chemical ) or 
+
+*Oelinition9 and tcnniaology relating to hydraulic 
+cement. 
+
+
+
+the concrete is exposed to the risk of deteriora- 
+tion due to sulphate attack, for example, in cont- 
+act with soils and ground waters containing 
+excessive amounts of sulphates as well as for 
+concrete in sea water or exposed directly to sea 
+coast. 
+
+0.3 Mass of cement packed in bags and the 
+tolerance requirements for the mass of cement 
+packed in bags shall be in accordance with the 
+relevant provisions of the Standards of Weights 
+and Measures ( Packaged Commodities ) Rules, 
+1977 and A-1.2 ( see Appendix A for informa- 
+tion ). Any modification to these Rules in respect 
+of toleiance on mass of cement would automati- 
+cally apply lo this standard. 
+
+0.4 For the purpose of deciding whether a 
+particular requirement of this standard is compli- 
+ed with, the final value, observed or calculated, 
+expressing the result of a test, shall be rounded 
+off in accordance with IS : 2-1960'. The number 
+of significant places retained in the rounded off 
+value should be the same as that of the specified 
+value in this standard. 
+
+
+
+•Rules for rounding off numerical values ( revised). 
+
+
+
+water or both, and not more than one percent of 
+air-entraining agents or other agents which have 
+proved not to be hainiful. 
+
+^f|)TK — Chcniit.il gypsum may be adaed provided 
+that the. performance lequireiiients of tin- final product 
+;is spccilipd in this standard an- met with. 
+
+4. CHEMICAL REQUIREMENTS 
+
+4.1 When tested in acrnrdance with the ntelhotls 
+given in IS : 4032-1985*, sulphate resisting Poit- 
+laiicl cement shall comply with the chemical 
+requirements given in Table 1. 
+
+5. PHYSICAL REQUIREMENTS 
+
+5.1 Fineness — When tested for fineness by 
+Blaine's air permeability method as given in 
+IS : 4031 ( Part 2 )-1988t, the specific surface 
+of cement shall be not less than 225 ni^/kg. 
+
+'Methods of chemical analyitis for hydraulic cement 
+( first reoiiion ). 
+
+fMethods of physical tests for hydraulic cement: Part 2 
+Determination of fineness by specific surface by Blaine air 
+permeability method ( first revision j. 
+
+
+
+1 
+
+
+
+IS I 12330 - 1988 
+
+
+
+TABLE 1 CHEMICAL REQUIREMENTS FOR SULPHATE RESISTING PORTLAND CEMENT 
+
+( Chust 4.1 ) 
+
+
+
+Sl No. Characteristic 
+
+i) Ratio of percentage of lime to percentages of silica, alumina and iron 
+oxide; when calculated by (he formula; 
+
+CaO — 0-7 SO, 
+
+•J-B S.O, + 1-2 AI.O, + 0-65 Fe,0, 
+ii) Insoluble residue, percent by mass 
+iii) Magnesia, percent by mass 
+
+iv) Total sulphur content calculated as sulphuric anhydride (SO,), per- 
+cent by mass 
+v) Tricalcium aluminate ( C,A ), percent by mass ( s** Note 1 ) 
+vi) Tetracalcium alumino ferrite phase plus twice the tricalcium 
+
+aluminate ( CtAF + 2C,A ), percent by mass ( set Note 1 ) 
+vii) Total loss on ignition, percent by mass 
+
+
+
+RzqOIilEMEMT 
+
+Not greater than 1*02 and not less 
+than 0-66 
+
+
+
+Not more than 4 
+Not more than 6 
+Not more than 2*5 
+
+Not more than 5 
+Not more than 25 
+
+Not more than 5 
+
+
+
+NoTK 1 — The tricalcium aluminate and tetracalcium alumino ferrite content are calculated by the following 
+formulae: 
+
+C,A = 2-65 AI.O, - 1-69 Fe.O, 
+CtAF - 3043 Fe.O, 
+
+When the alumina — ferric oxide, ratio is less than 0'64 ( hence C,/< is absent ), a calcium alumino ferrite solid 
+solution expressed as 55 (C|(4F+C|F) is formed. Contents of this solid solution and of tricalcium silicate shall 
+be calculated by the following formulae: 
+
+
+
+SSiCAF-^ C,F) 
+
+
+
+( 2-100 Al.O,) + ( 1702 Fe,0,) 
+
+( 4071 CaO ) - ( 7-600 SiO, ) - 
+
+( 4-479 AI.O, ) - ( 2-859 Fe.O, ) - ( 2-852 SO, ) 
+
+
+
+NoTB 2 — When expressing compounds, cenain symbols have been used, namely, C => CaO, i °> SiO,, A =• 
+Al,0„ and F — Fe,0,. For example, C^A = 3CaO.Al,0,. Titanium dioxide and phosphorous pentoxide 
+( TiO, and P|0, ) shall be included with the Al,0, content. The value historically and traditionally used for A1,0, 
+in calculating potential compounds for specification purposes is the ammonium hydroxide group minus ferric oxide 
+( ^O, — Fe,0, ) as obtained by classical wet chemical methods. This procedure includes as A1,0, the TiO„ 
+P,0, and other trace oxides which precipitate with the ammonium hydroxide group in the classical wet chemical 
+methods. Many modern instrumental methods of cement analysis determine aluminium or aluminium oxide 
+directly without the minor and trace oxides included as in the classical method. Consequently, for consistency and 
+to provide comparability with historic data and among various analytical methods, when calculating potential 
+compounds for specification purposes, those using methods which determine Al or A1,0, directly should add to the 
+determined Al,0, mass quantities of PiO,, TiO, and any other oxide except Fe,0, which would precipitate with 
+the ammonium hydroxide group whr-n analyzed by the classical method and which is present in an amount of 0*05 
+percent by mass or greater. The percentage ( by mass ) of minor or trace oxides to be added to Al,0, by those using 
+direct methods may be obtained by actual analysis of those oxides in the sample being tested or estimated from 
+historical data on those oxides on cements from the same source, provided that the estimated values are identified 
+as such. 
+
+
+
+5.2 Soundness 
+
+5.2.1 When tesied by Le Cliatelier method and 
+autoclave test described in IS : 4031 ( Part 3 )- 
+1988* unaeraied sulphate resisting Ponland 
+cement shall not have an expansion of more than 
+10 mm and O'S percent, respectively. 
+
+5.2.1.1 In the event of cement failing to 
+comply with any one or both the requirements 
+specified in 5.2.1, further tests in respect of each 
+failure shall be made as described in IS : 4031 
+(Part 3)1988* from another portion of the 
+same sample after aeration. The aeration shall 
+be done by spreading out the sample to a depth 
+of 75 mm at a relative humidity of 50 to 80 per- 
+cent for a total period of 7 days. The expansion 
+of cements so aerated shall not be more than 
+5 mm and 6 percent when tested by Lc Chatelier 
+method and autoclave test respeclively. 
+
+
+
+■Methods of physical tests for hydraulic 
+part 3 Determination of soundness ( first rituien ). 
+
+
+
+cement: 
+
+
+
+5.3 Setting Time — The .•setting time of sulphate 
+resisting Porlland cement, when tested by the Vicat 
+apparatus method described in IS : 403 1 ( Part 5 )- 
+1988* shall conform to the following requirement 
+
+a) Initial setting time in minutes, not less 
+than 30, and 
+
+b) Final setting time in minutes, not more 
+than 600. 
+
+5.3.1 If cement exhibits false set, the ratio of 
+final penetration measured after 5 minutes of 
+completion of mixing period to the initial pene- 
+tration measured exactly after 20 seconds of com- 
+pletion of mixing period, expressed as percent, 
+shall not be less than 50. In the event of cement 
+exhibiting fs^lse set, the initial and final setting 
+time of cement when tested by the method describ- 
+ed in IS : 4031 ( Part 5 )-1988* after breaking 
+the false set, shall conform to 5.3. 
+
+'Methods of physical tests for hydraulic cement: Part 5 
+Determination of initial and final tctting time (Jiril rtvilion )■ 
+
+
+
+I8il2330-19n 
+
+
+
+5.4 Sulphate Espanaion 
+
+5.4.1 The sulphate expansion of the sulphate 
+relisting Portland cement when tested by the 
+method described in 5.4.2, shall not be more than 
+045 percent at 1 i days. This test is optional and 
+shall be carried out by agreement between the 
+purchaser and the manufacturer at the time of 
+placing order. 
+
+5.4.2 For this test a mixture of sulphate resist- 
+ing Portland cement and gypsum should be 
+prepared in such proportions that the total SOs 
+content is 7 perceni by mass. The gypsum 
+u^ed shall be natural gypsum 100 percent passing 
+150 /im IS Sieve, at least 94 percent passing 75 
+/im IS Sieve and at least 90 percent passing 45 fim 
+IS Sieve. Mortar should have proportion of 
+( cement + gypsum ) : sand as 1 : 275 and water : 
+( cement + gypsum ) as 0'485. The sand used 
+shall conform to IS : 650-1966*. The dimension 
+of moriar bars shall be 25 X 25 X 250 mm. 
+After demoulding, the bars shall be stored horizon- 
+tally in water. The average expansion of three 
+specimens after 14 days shall be reported. 
+
+5.5 Compreaaive Strength — The average 
+compressive strength of at least three mortar 
+cubes ( area of face 50 cm^ ) composed of one 
+part of cement, three parts of standard sand 
+(conforming to IS : 650-1966* ) by mass and P/4 
++ 30 percent ( of combined mass of cement 
+plus sand ) water and prepared, stored and tested 
+in the manner described in IS : 4031 ( Part 6 )- 
+1988t shall be as follows: 
+
+i) 72 ± 1 h, not less than 10 MPa 
+
+ii) 168 i: 2 h, not less than 16 MPa 
+
+iii) 672 ± 4 h, not less than 33 MPa 
+
+Note — P is the percentage of water required to 
+produce a paste of standard consiitency ( tet 10.3 )• 
+
+5.6 By arrangement between the purchaser and 
+the manufacture^, transverse strength test of plastic 
+nioriar in accordance with the method described 
+in IS : 4031 ( Part 8 )-1988J may be specified in 
+addition to the test specified in 5.5. The permissi- 
+ble values of the transverse strength shall be 
+mutually agreed to between the purchaser and 
+the sup*plier at the time of placing order. 
+
+5.7 Notwithstanding the strength requirements 
+specified in 5.5 and 5.6, sulphate resisting Port- 
+land cement shall show a progressive increase in 
+strength from the strength at 72 h. 
+
+
+
+'Specification for standard sand for testing of cement 
+{ JirsI nuision ). 
+
+tMethodi of physical tests fur hydraulic cement: Part 6 
+Determination of compressive strength of hydraulic cement 
+( other than masonry cement ) ( first nvition ). 
+
+{Methods of physical tests for hydraulic cement: 
+Part 8 Determination of transverse and compressive 
+strength of plastic mortar using prism ( first rtvision ), 
+
+
+
+6. STORAGE 
+
+6.1 The sulphate resisting Portland cenaent shall 
+be stored in such a manner as to permit easy 
+access for proper inspection and identification, 
+and in a suitable weather-tight building to protect 
+the cement from dampness and to minimize 
+warehouse deterioratinn. 
+
+7. MANUFACTURER'S CERTIFICATE 
+
+7.1 The manufacturer shall furnish a certificate 
+to the purchaser or his representative, within 10 
+days of despatch of the cement stating that the 
+material conforms to all the requirements of this 
+standard. 
+
+8. DELIVER. 
+
+8.1 The cement shall be packed in bags [ jute 
+sacking bag conforming to IS : 2580-1982*, 
+double hes5ian bituminized ( CRI type ), multi- 
+wall paper conforming to IS: ll761-1986t, poly- 
+ethylene lined ( CRI type ) jute, light weight juie 
+conforming IS : 12154- 1987J woven HDPE con- 
+forming to IS : 11652-1986§, woven polypropylene 
+conforming to IS : 1 1653-1986||, jute synthetic 
+union conforming to IS: 12174- I987f or any other 
+approved composite bags ] bearing the manu- 
+facturer's name or his registered trade-mark, if 
+any. The words 'sulphate resisting Portland 
+cement' and the number of bags ( net mass ) to 
+the tonne or the average pet mass ( see 8.2 ) of 
+the cement shall be legibly and indelibly marked 
+on each bag. The bags shall be in good condition 
+at the time of inspection. 
+
+8.1.1 Similar information shall be provided in 
+the delivery advices accompanying the shipment 
+of packed or bulk cement ( ste 8.3 }. 
+
+8.1.2 The bags or packages may also be mark- 
+ed with the Standard Mark. 
+
+NoTs — The use of the Standard Mark is governed 
+by the provisions of the Bureau of Indian Standards Act 
+1986 and the Rules and Regulations made thereunder. 
+The Standard Mark on products covered by an Indian 
+Standard conveys the a<surance that they have been 
+produced to comply with the requirements of that 
+standard under a well-rlcfined system of inspection, test- 
+ing and quality control which is devised and supervised 
+by DIS and operated h) the producer. Standard marked 
+products are also continuouslv chrckrd by BIS for con- 
+formity to that siandard as a further safeguard. Details 
+of conditions under which a licence for the use of the 
+Standard Mark may be granted to manufacturers or 
+producers, m-iy be obtained from the Bureau of Indian 
+Standards. 
+
+8.2 The average net inass of cement per bag 
+shall be 50 kg ( see Appendix A ). 
+
+'Specification for jute sacking bags for packing cemrnt 
+( stand ruisitn ). 
+
+tSpecification for multiwall paper sacks for crmeni, 
+valved'sewn-gussetted type. 
+
+^Specification for light weight jute bags for packing 
+cement 
+
+§Specification for high density polyethylene (HDPE) 
+woven sar-ks for packing cement. 
+
+llSpecification for polypropylene ( PP ) woven sacks for 
+packing cement. 
+
+^Specification for jute synthetic union bag for packing 
+cement. 
+
+
+
+IS I 12330 - 1988 
+
+
+
+8.3 Supplies of cement in bulk may be made by 
+arrangement between the purchaser and the 
+supplier ( manufacturer or stockists ). 
+
+NoTS — A single bag or container containing I 000 kg 
+or more net masi of cement shall be considered as bulk 
+supply of cement. Supplies of cement may also lie made 
+in intermediate containers, for example, drums of 200 kg, 
+by agreement between the purchaser and the manufac- 
+turer. 
+
+9. SAMPLING 
+
+9.1 Samples for Teiting and by Whom to 
+be Taken — A sample or samples for testing 
+may be taken by the purchaser or his representa- 
+tive, or by any person appointed to superintend 
+the work for purpose of which the cement is 
+required or by the latter's representative. 
+
+9.1.1 The samples shall be taken within three 
+weeks of the delivery and all the tests shall be 
+commenced within one week of sampling. 
+
+9.1.2 When it is not possible to test the samples 
+within one week, the samples shall be packed 
+and stored in air-tight containers till such time 
+that they are tested. 
+
+9.2 In addition to the requirements of 9.1, the 
+methods and procedure of sampling shall be in 
+accordance with IS : 3535-1986*. 
+
+9.3 Facilitiei for Sampling and Identifica- 
+tion — The manufacturer or supplier shall 
+afford every facility, and shall provide all labour 
+and materials for taking and packing the samples 
+for testing the cement and for subsequent identi- 
+fication of cement sampled. 
+
+10. TESTS 
+
+10.1 The sample or samples of cement for test 
+shall be taken as described in 9 and shall be test- 
+ed in the manner described in the relevant 
+clauses. 
+
+•Methods of sampling hydraulic cements ( fir it rtviiion ). 
+
+
+
+10.2 Temperature for Testing — The 
+
+temperature range within which physical tests 
+may be carried out shall, as far as possible, be 
+27 :t 2''C. The actual temperature during the 
+testing shall be recorded. 
+
+10.3 Consiitency of Standard Cement Paste 
+
+— The quantity of water required to produce a 
+paste of standard consistency, to be used for 
+the determination of the water content of mortar 
+for the compressive strength tests and for the 
+determination of soundness and setting time, 
+shall be obtained by the method described in 
+18:4031 ( Part4)-1988*. 
+
+10.4 Independent Testing 
+
+10.4.1 If the purchaser or his representative 
+require independent tests, the samples shall be 
+taken before or immediately after deliveiy at the 
+option of the purchaser or his representative, and 
+the tests shall be carried out in accordance with 
+this standard on the written instructions of the 
+purchaser or his representative. 
+
+10.4.2 After a representative sample has been 
+drawn, tests on the sample shall be carried out as 
+expeditiously as possible. 
+
+11. REJECTION 
+
+11.1 Cement may be rejected if it does not 
+comply with any of the requirements of this 
+specification. 
+
+11.2 Cement remaining in bulk storage at the 
+mill, prior to shipment, for more than six months, 
+or cement in bags in local storage in the hands 
+of a vendor for more than 3 months after comple- 
+tion of tests, may be retested before use and may 
+be rejected if it fails to conform to any of the 
+requirements of this specification. 
+
+• Methods of physical tests for hydraulic cement: Part 4 
+Determination of consistency of standard cement paste 
+( first revision ). 
+
+
+
+IS 1 12330 • 1988 
+
+
+
+APPENDIX A 
+
+( Clausts 0.3 and 8.2 ) 
+TOLERANCE REQ,UIREMENTS FOR THE MASS OF CEMENT PACKED IN BAGS 
+
+
+
+A-1. The average net mass of cement packed in 
+bags at the plant in a sample shall be equal to or 
+more than 50 kg. The number of bags in a 
+sample shall be as given below: 
+
+
+
+Batch Size 
+
+
+Sample Size 
+
+
+100 to 150 
+
+
+20 
+
+
+151 to 280 
+
+
+32 
+
+
+281 to 500 
+
+
+50 
+
+
+501 to 1 200 
+
+
+80 
+
+
+1 201 to 3 200 
+
+
+125 
+
+
+3 201 and above 
+
+
+200 
+
+
+
+The bags in a sample shall be selected at 
+random ( see IS : 4905-1968* ). 
+
+A-1.1 The number of bags in a sample showing 
+a minus error greater than 2 percent of the 
+specified net mass ( 50 kg ) shall be not more 
+
+
+
+than 5 percent of the bags in the sample and the 
+minus error in none of such bags in the sample 
+shall exceed 4 percent of the specified net mass 
+of the bag. 
+
+Note — The matter given in A-1 and A-1.1 are 
+extracts based on the Standards of Weighii and Measure 
+( Paclcaged Commcdities ) Rules, 1977 to which references 
+shall be made for full details. Any modification made in 
+these Rules and otlier related Acts and Rule* would 
+apply automatically. 
+
+A-1.2 In case of a wagon/truck load of 20 to 25 
+tonnes, (he overall tolerance on net mass of 
+cement shall be zero to +05 percent. 
+
+NoTK — The mass of a jute sacking bag cmiforming 
+to IS : 2580-1982* to bold 50 kg of cement it 531 g, the 
+mass of a double hessian bituminixed ( CRI type ) bag to 
+hold 50 kg of cement is 630 g, the mats of a 6-ply paper 
+bag to ho'd 50 kg of cement is approximately 400 g and 
+the mass of a polyethylene lined ( CRI type ) jute bag 
+to hold 50 kg of cement is approximately 480 g. 
+
+
+
+'Methods for random sampling. 
+
+
+
+'Specification 
+( sicond rwitUn ). 
+
+
+
+for jute bags for packing cement 
+
+
+
+BurUtt oftndian Staadards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the e.'.ivities of i,i<tndardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+Copyright 
+
+BIS h^s the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+impiemonting the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+'BIS Catalogue' and 'Standards: Monthly Additions'. 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters : 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10 002 Telegrams : Manaksanstha 
+
+Telephones : 323 1 3 1 , 323 33 75, 323 94 02 (Common to all offices) 
+
+Regional Offices : Telephone 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg r323 76 17 
+
+NEW DELHI 1 10 002 \323 38 41 
+
+Eastern : 1/14 C. 1. T. Scheme VII M, V. 1. P. Road, Kankurgachi r337 84 99, 337 85 61 
+
+CALCUTTA 700 054 \337 86 26, 337 91 20 
+
+
+
+Northern : SCO 335-336. Sector 34-A, CHANDIGARH 160 022 f 60 38 43 
+
+60 20 25 
+
+
+
+{: 
+
+
+
+Southern : C. 1. T. Campus, IV Cross Road, CHENNAl 600 1 13 r235 02 16, 235 04 42 
+
+\235 15 19,235 23 15 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) r832 92 95, 832 78 58 
+
+MUMB AI 400 093 1. 832 78 9 1 , 832 78 92 
+
+Branches ; AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+PARI DAB AD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. NAGPUR. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. 
+
+
+
+Printed at Dee Kay Printen, New Delhi 
+
+
+

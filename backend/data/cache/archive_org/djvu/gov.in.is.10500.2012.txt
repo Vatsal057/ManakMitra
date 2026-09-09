@@ -1,0 +1,2414 @@
+**************** 
+
+
+*  tOT£ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live" 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New" 
+
+
+IS  10500  (2012) :  Drinking  water  [FAD  25:  Drinking  Water] 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+5fR  TT^  ^TT  <sMHI  |  *ft  ^fft  ^TRT  ^ff  ^TT  ^T^fT  )f 
+
+Bhartrhari — Nltisatakam 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+BLANK  PAGE 
+
+
+<*i  *3f», 
+
+
+*?W!& 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  10500:  2012 
+
+S7Rc7fa-  -RFFF 
+
+Indian  Standard 
+DRINKING  WATER  —  SPECIFICATION 
+
+( Second  Revision  ) 
+
+
+ICS  13.060.20 
+
+
+©  BIS  2012 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+MANAK   BHAVAN,    9    BAHADUR    SHAH   ZAFAR   MARG 
+NEW  DELHI  110002 
+
+
+May  2012  Price  Group  6 
+
+
+Drinking  Water  Sectional  Committee,  FAD  25 
+
+
+FOREWORD 
+
+This  Indian  Standard  (Second  Revision)  was  adopted  by  the  Bureau  of  Indian  Standards,  after  the  draft  finalized 
+by  the  Drinking  Water  Sectional  Committee  had  been  approved  by  the  Food  and  Agriculture  Division  Council. 
+
+This  standard  was  originally  published  in  1983.  A  report  prepared  by  the  World  Health  Organization  in  cooperation 
+with  the  World  Bank  showed  that  in  1975,  some  1  230  million  people  were  without  safe  water  supplies.  These 
+appalling  facts  were  central  to  the  United  Nations  decision  to  declare  an  International  Drinking  Water  Supply  and 
+Sanitation  decade,  beginning  in  1981.  Further,  the  VI  Five- Year  Plan  of  India  had  made  a  special  provision  for 
+availability  of  safe  drinking  water  for  the  masses.  Therefore,  the  standard  was  formulated  with  the  objective  of 
+assessing  the  quality  of  water  resources,  and  to  check  the  effectiveness  of  water  treatment  and  supply  by  the 
+concerned  authorities. 
+
+The  first  revision  was  undertaken  to  take  into  account  the  up-to-date  information  available  about  the  nature  and 
+effect  of  various  contaminants  as  also  the  new  techniques  for  identifying  and  determining  their  concentration. 
+Based  on  experience  gained  additional  requirements  for  alkalinity;  aluminium  and  boron  were  incorporated  and 
+the  permissible  limits  for  dissolved  solids,  nitrate  and  pesticides  residues  modified. 
+
+As  per  the  eleventh  five  year  plan  document  of  India  (2007- 1 2),  there  are  about  2.17  lakh  quality  affected  habitations 
+in  the  country  with  more  than  half  affected  with  excess  iron,  followed  by  fluoride,  salinity,  nitrate  and  arsenic  in 
+that  order.  Further,  approximately,  10  million  cases  of  diarrhoea,  more  than  7.2  lakh  typhoid  cases  and  1.5  lakh 
+viral  hepatitis  cases  occur  every  year  a  majority  of  which  are  contributed  by  unclean  water  supply  and  poor 
+sanitation.  The  eleventh  five  year  plan  document  of  India  (2007-2012)  recognizes  dealing  with  the  issue  of  water 
+quality  as  a  major  challenge  and  aims  at  addressing  water  quality  problems  in  all  quality  affected  habitations  with 
+emphasis  on  community  participation  and  awareness  campaigns  as  well  as  on  top  most  priority  to  water  quality 
+surveillance  and  monitoring  by  setting  up  of  water  quality  testing  laboratories  strengthened  with  qualified 
+manpower,  equipments  and  chemicals. 
+
+The  second  revision  was  undertaken  to  upgrade  the  requirements  of  the  standard  and  align  with  the  internationally 
+available  specifications  on  drinking  water.  In  this  revision  assistance  has  been  derived  from  the  following: 
+
+a)  EU  Directives  relating  to  the  quality  of  water  intended  for  human  consumption  (80/778/EEC)  and  Council 
+Directive  98/83/EC. 
+
+b)  USEPA  standard  —  National  Primary  Drinking  Water  Standard.  EPA  816-F-02-013  dated  July,  2002. 
+
+c)  WHO  Guidelines  for  Drinking  Water  Quality.  3rd  Edition  Vol.  1  Recommendations,  2008. 
+
+d)  Manual  on  Water  Supply  and  Treatment,  third  edition  —  revised  and  updated  May  1999,  Ministry  of 
+Urban  Development,  New  Delhi. 
+
+This  standard  specifies  the  acceptable  limits  and  the  permissible  limits  in  the  absence  of  alternate  source.  It  is 
+recommended  that  the  acceptable  limit  is  to  be  implemented  as  values  in  excess  of  those  mentioned  under 
+Acceptable'  render  the  water  not  suitable.  Such  a  value  may,  however,  be  tolerated  in  the  absence  of  an  alternative 
+source.  However,  if  the  value  exceeds  the  limits  indicated  under  'permissible  limit  in  the  absence  of  alternate 
+source'  in  col  4  of  Tables  1  to  4,  the  sources  will  have  to  be  rejected. 
+
+Pesticide  residues  limits  and  test  methods  given  in  Table  5  are  based  on  consumption  pattern,  persistence  and 
+available  manufacturing  data.  The  limits  have  been  specified  based  on  WHO  guidelines,  wherever  available.  In 
+cases  where  WHO  guidelines  are  not  available,  the  standards  available  from  other  countries  have  been  examined 
+and  incorporated,  taking  in  view  the  Indian  conditions. 
+
+In  this  revision,  additional  requirements  for  ammonia,  chloramines,  barium,  molybdenum,  silver,  sulphide,  nickel, 
+polychlorinated  biphenyls  and  trihalomethanes  have  been  incorporated  while  the  requirements  for  colour,  turbidity, 
+total  hardness,  free  residual  chlorine,  iron,  magnesium,  mineral  oil,  boron,  cadmium,  total  arsenic,  lead,  polynuclear 
+aromatic  hydrocarbons,  pesticides  and  bacteriological  requirements  have  been  modified. 
+
+In  this  revision,  requirement  and  test  method  for  virological  examination  have  been  included.  Further,  requirements 
+and  test  methods  for  Cryptosporidium  and  giardia  have  also  been  specified. 
+
+Routine  surveillance  of  drinking  water  supplies  should  be  carried  out  by  the  relevant  authorities  to  understand 
+the  risk  of  specific  pathogens  and  to  define  proper  control  procedures.  The  WHO  Guidelines  for  Drinking  Water 
+Quality,  3rd  Edition,  Vol.  1  may  be  referred  for  specific  recommendations  on  using  a  water  safety  approach 
+incorporating  risk  identification.  Precautions/Care  should  be  taken  to  prevent  contamination  of  drinking  water 
+from  chlorine  resistant  parasites  such  as  Cryptosporidium  species  and  giardia. 
+
+
+IS  10500  :  2012 
+
+
+Indian  Standard 
+
+DRINKING  WATER  —  SPECIFICATION 
+
+( Second  Revision  ) 
+
+
+1  SCOPE 
+
+This  standard  prescribes  the  requirements  and  the 
+methods  of  sampling  and  test  for  drinking  water. 
+
+2  REFERENCES 
+
+The  standards  listed  in  Annex  A  contain  provisions 
+which  through  reference  in  this  text,  constitute 
+provisions  of  this  standard.  At  the  time  of  publication, 
+the  editions  indicated  were  valid.  All  standards  are 
+subject  to  revision  and  parties  to  agreements  based  on 
+this  standard  are  encouraged  to  investigate  the 
+possibility  of  applying  the  most  recent  editions  of  the 
+standards  indicated  in  Annex  A. 
+
+3  TERMINOLOGY 
+
+For  the  purpose  of  this  standard  the  following  definition 
+shall  apply. 
+
+3.1  Drinking  Water  —  Drinking  water  is  water 
+intended  for  human  consumption  for  drinking  and 
+cooking  purposes  from  any  source.  It  includes  water 
+(treated  or  untreated)  supplied  by  any  means  for  human 
+consumption. 
+
+
+4  REQUIREMENTS 
+
+Drinking  water  shall  comply  with  the  requirements 
+given  in  Tables  1  to  4.  The  analysis  of  pesticide  residues 
+given  in  Table  3  shall  be  conducted  by  a  recognized 
+laboratory  using  internationally  established  test  method 
+meeting  the  residue  limits  as  given  in  Table  5. 
+
+Drinking  water  shall  also  comply  with  bacteriological 
+requirements  (see  4.1),  virological  requirements 
+(see  4.2)  and  biological  requirements  (see  4.3). 
+
+4.1  Bacteriological  Requirements 
+
+4.1.1  Water  in  Distribution  System 
+
+Ideally,  all  samples  taken  from  the  distribution  system 
+including  consumers'  premises,  should  be  free  from 
+coliform  organisms  and  the  following  bacteriological 
+quality  of  drinking  water  collected  in  the  distribution 
+system,  as  given  in  Table  6  is,  therefore  specified  when 
+tested  in  accordance  with  IS  1622. 
+
+4.2  Virological  Requirements 
+
+4.2.1  Ideally,  all  samples  taken  from  the  distribution 
+
+
+Table  1  Organoleptic  and  Physical  Parameters 
+
+(Foreword  and  Clause  4) 
+
+
+SI  No. 
+
+Characteristic 
+
+Requirement 
+
+Permissible 
+
+Method  of  Test, 
+
+Remarks 
+
+(Acceptable 
+
+Limit  in  the 
+
+Ref  to  Part  of 
+
+Limit) 
+
+Absence  of 
+
+Alternate 
+
+Source 
+
+IS  3025 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+i)        Colour,  Hazen  units.  Max 
+
+
+ii)        Odour 
+
+iii)       pH  value 
+iv)        Taste 
+
+v)        Turbidity,  NTU,  Max 
+vi)        Total  dissolved  solids,  mg/1, 
+Max 
+
+
+5 
+
+15 
+
+Part  4 
+
+Extended  to  15  only,  if  toxic  substances 
+are  not  suspected  in  absence  of  alter- 
+nate sources 
+
+Agreeable 
+
+Agreeable 
+
+Part  5 
+
+a)  Test  cold  and  when  heated 
+
+b)  Test  at  several  dilutions 
+
+6.5-8.5 
+
+No  relaxation 
+
+Part  11 
+
+— 
+
+Agreeable 
+
+Agreeable 
+
+Parts  7  and  8 
+
+Test  to  be  conducted  only  after  safety 
+has  been  established 
+
+1 
+
+5 
+
+Part  10 
+
+— 
+
+500 
+
+2  000 
+
+Part  16 
+
+— 
+
+NOTE  —  It  is  recommended  that  the  acceptable  limit  is  to  be  implemented.  Values  in  excess  of  those  mentioned  under  'acceptable' 
+render  the  water  not  suitable,  but  still  may  be  tolerated  in  the  absence  of  an  alternative  source  but  up  to  the  limits  indicated  under 
+'permissible  limit  in  the  absence  of  alternate  source'  in  col  4,  above  which  the  sources  will  have  to  be  rejected. 
+
+
+IS  10500  :  2012 
+
+
+Table  2  General  Parameters  Concerning  Substances  Undesirable  in  Excessive  Amounts 
+
+(Foreword  and  Clause  4) 
+
+
+SI  No 
+
+Characteristic 
+
+Requirement 
+
+Permissible 
+
+Method  of  Test, 
+
+Remarks 
+
+(Acceptable 
+
+Limit  in  the 
+
+Refto 
+
+Limit) 
+
+Absence  of 
+
+Alternate 
+
+Source 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+i) 
+
+Aluminium  (as  Al),  mg/1,  Max 
+
+0.03 
+
+0.2 
+
+IS  3025  (Part  55) 
+
+
+
+ii) 
+
+Ammonia  (as  total  ammonia-N), 
+mg/1,  Max 
+
+0.5 
+
+No  relaxation 
+
+IS  3025  (Part  34) 
+
+
+
+iii) 
+
+Anionic  detergents  (as  MBAS) 
+mg/1,  Max 
+
+0.2 
+
+1.0 
+
+Annex  K  of  IS  1342S 
+
+IV) 
+
+Barium  (as  Ba),  mg/1,  Max 
+
+0.7 
+
+No  relaxation 
+
+Annex  F  of  IS  13428 
+or  IS  15302 
+
+# 
+
+v) 
+
+Boron  (as  B),  mg/1,  Max 
+
+0.5 
+
+1.0 
+
+IS  3025  (Part  57) 
+
+— 
+
+vi) 
+
+Calcium  (as  Ca),  mg/1,  Max 
+
+75 
+
+200 
+
+IS  3025  (Part  40) 
+
+— 
+
+vii) 
+
+Chloramines  (as  CI,),  mg/1,  Max 
+
+4.0 
+
+No  relaxation 
+
+IS  3025  (Part  26)* 
+or  APHA  4500-C1  G 
+
+— 
+
+viii) 
+
+Chloride  (as  CI),  mg/1,  Max 
+
+250 
+
+1000 
+
+IS  3025  (Part  32) 
+
+— 
+
+IX) 
+
+Copper  (as  Cu),  mg/1,  Max 
+
+0.05 
+
+1.5 
+
+IS  3025  (Part  42) 
+
+— 
+
+X) 
+
+Fluoride  (as  F)  mg/1,  Max 
+
+1.0 
+
+1.5 
+
+IS  3025  (Part  60) 
+
+— 
+
+xi) 
+
+Free  residual  chlorine,  mg/1,  Min 
+
+0.2 
+
+1 
+
+IS  3025  (Part  26) 
+
+To  be  applicable  only  when 
+water  is  chlorinated.  Tested 
+at  consumer  end.  When  pro- 
+tection against  viral  infec- 
+tion is  required,  it  should  be 
+minimum  0.5  mg/1 
+
+xii) 
+
+Iron  (as  Fe),  mg/1,  Max 
+
+0.3 
+
+No  relaxation 
+
+IS  3025  (Part  53) 
+
+Total  concentration  of  man- 
+ganese (as  Mn)  and  iron  (as 
+Fe)  shall  not  exceed  0.3  mg/1 
+
+xiii) 
+
+Magnesium  (as  Mg),  mg/1,  Max 
+
+30 
+
+100 
+
+IS  3025  (Part  46) 
+
+
+
+xiv) 
+
+Manganese  (as  Mn),  mg/1,  Max 
+
+0.1 
+
+0.3 
+
+IS  3025  (Part  59) 
+
+Total  concentration  of  man- 
+ganese (as  Mn)  and  iron  (as 
+Fe)  shall  not  exceed  0.3  mg/1 
+
+XV) 
+
+Mineral  oil,  mg/1,  Max 
+
+0.5 
+
+No  relaxation 
+
+Clause  6  of  IS  3025 
+(Part  39)  Infrared 
+partition  method 
+
+xvi) 
+
+Nitrate  (as  N03),  mg/1,  Max 
+
+45 
+
+No  relaxation 
+
+IS  3025  (Part  34) 
+
+— 
+
+xvii) 
+
+Phenolic  compounds  (as  C6H5OH),      0.001 
+
+0.002 
+
+IS  3025  (Part  43) 
+
+— 
+
+mg/1,  Max 
+
+xviii) 
+
+Selenium  (as  Se),  mg/1,  Max 
+
+0.01 
+
+No  relaxation 
+
+IS  3025  (Part  56)  or 
+IS  15303* 
+
+— 
+
+xix) 
+
+Silver  (as  Ag),  mg/1,  Max 
+
+0.1 
+
+No  relaxation 
+
+Annex  J  of  IS  13428 
+
+— 
+
+XX) 
+
+Sulphate  (as  S04)  mg/1,  Max 
+
+200 
+
+400 
+
+IS  3025  (Part  24) 
+
+May  be  extended  to  400  pro- 
+vided that  Magnesium  does 
+not  exceed  30 
+
+xxi) 
+
+Sulphide  (as  H,S),  mg/1,  Max 
+
+0.05 
+
+No  relaxation 
+
+IS  3025  (Part  29) 
+
+— 
+
+xxii) 
+
+Total  alkalinity  as  calcium 
+carbonate,  mg/1,  Max 
+
+200 
+
+600 
+
+IS  3025  (Part  23) 
+
+— 
+
+xxiii) 
+
+Total  hardness  (as  CaCO,), 
+mg/1,  Max 
+
+200 
+
+600 
+
+IS  3025  (Part  21) 
+
+— 
+
+xxiv) 
+
+Zinc  (as  Zn),  mg/1,  Max 
+
+5 
+
+15 
+
+IS  3025  (Part  49) 
+
+— 
+
+NOTES 
+
+1  In  case  of  dispute,  the  method  indicated  by  '*'  shall  be  the  referee  method. 
+
+2  It  is  recommended  that  the  acceptable  limit  is  to  be  implemented.  Values  in  excess  of  those  mentioned  under  'acceptable'  render  the 
+water  not  suitable,  but  still  may  be  tolerated  in  the  absence  of  an  alternative  source  but  up  to  the  limits  indicated  under  'permissible 
+limit  in  the  absence  of  alternate  source'  in  col  4,  above  which  the  sources  will  have  to  be  rejected. 
+
+
+IS  10500  :  2012 
+
+
+Table  3  Parameters  Concerning  Toxic  Substances 
+
+(Foreword  and  Clause  4) 
+
+
+SI  No. 
+
+Characteristic 
+
+Requirement 
+
+Permissible 
+
+Method  of  Test, 
+
+Remarks 
+
+(Acceptable 
+
+Limit  in  the 
+
+Refto 
+
+Limit) 
+
+Absence  of 
+
+Alternate 
+
+Source 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+i)  Cadmium  (as  Cd),  mg/1,  Max 
+
+ii)  Cyanide  (as  CN),  mg/1,  Max 
+
+iii)  Lead  (as  Pb),  mg/1,  Max 
+
+iv)  Mercury  (as  Hg),  mg/1,  Max 
+
+v)    Molybdenum  (as  Mo),  mg/1,  Max 
+vi)    Nickel  (as  Ni),  mg/1,  Max 
+vii)    Pesticides,  ug/1,  Max 
+viii)    Polychlorinated  biphenyls,  mg/1, 
+Max 
+ix)    Polynuclear  aromatic  hydro- 
+carbons (as  PAH),  mg/1,  Max 
+x)    Total  arsenic  (as  As),  mg/1,  Max 
+xi)    Total  chromium  (as  Cr),  mg/1,  Max 
+xii)    Trihalomethanes: 
+
+a)  Bromoform,  mg/1,  Max 
+
+b)  Dibromochloromethane, 
+mg/1,  Max 
+
+c)  Bromodichloromethane, 
+mg/1,  Max 
+
+d)  Chloroform,  mg/1,  Max 
+
+
+0.003 
+
+0.05 
+
+0.01 
+0.001 
+
+0.07 
+
+0.02 
+
+See  Table  5 
+
+0.000  5 
+
+0.000  1 
+
+0.01 
+0.05 
+
+0.1 
+
+0.1 
+
+0.06 
+
+0.2 
+
+
+No  relaxation 
+No  relaxation 
+No  relaxation 
+No  relaxation 
+
+No  relaxation 
+No  relaxation 
+No  relaxation 
+No  relaxation 
+
+No  relaxation 
+
+0.05 
+No  relaxation 
+
+No  relaxation 
+
+No  relaxation 
+
+No  relaxation 
+
+No  relaxation 
+
+
+IS  3025  (Part  41) 
+IS  3025  (Part  27) 
+IS  3025  (Part  47) 
+IS  3025  (Part  48)/ 
+Mercury  analyser 
+IS  3025  (Part  2) 
+IS  3025  (Part  54) 
+See  Table  5 
+ASTM5175* 
+
+APHA  6440 
+
+IS  3025  (Part  37) 
+IS  3025  (Part  52) 
+
+ASTM  D  3973-85* 
+or  APHA  6232 
+ASTM  D  3973-85* 
+or  APHA  6232 
+ASTM  D  3973-85* 
+or  APHA  6232 
+ASTM  D  3973-85* 
+or  APHA  6232 
+
+
+or  APHA  6630 
+
+
+NOTES 
+
+1  In  case  of  dispute,  the  method  indicated  by  '*'  shall  be  the  referee  method. 
+
+2  It  is  recommended  that  the  acceptable  limit  is  to  be  implemented.  Values  in  excess  of  those  mentioned  under  'acceptable'  render  the 
+water  not  suitable,  but  still  may  be  tolerated  in  the  absence  of  an  alternative  source  but  up  to  the  limits  indicated  under  'permissible 
+limit  in  the  absence  of  alternate  source'  in  col  4,  above  which  the  sources  will  have  to  be  rejected. 
+
+
+Table  4  Parameters  Concerning  Radioactive  Substances 
+
+(Foreword  and  Clause  4) 
+
+
+SI  No. 
+
+Characteristic 
+
+Requirement 
+
+Permissible 
+
+Method  of  Test, 
+
+Remarks 
+
+(Acceptable 
+
+Limit  in  the 
+
+Ref  to  Part  of 
+
+Limit) 
+
+Absence  of 
+
+Alternate 
+
+Source 
+
+IS  14194 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+i)    Radioactive  materials: 
+
+a)  Alpha  emitters  Bq/1,  Max  0.1 
+
+b)  Beta  emitters  Bq/1,  Max  1.0 
+
+
+No  relaxation 
+No  relaxation 
+
+
+Part  2 
+Part  1 
+
+
+NOTE  —  It  is  recommended  that  the  acceptable  limit  is  to  be  implemented.  Values  in  excess  of  those  mentioned  under  'acceptable' 
+render  the  water  not  suitable,  but  still  may  be  tolerated  in  the  absence  of  an  alternative  source  but  up  to  the  limits  indicated  under 
+'permissible  limit  in  the  absence  of  alternate  source'  in  col  4,  above  which  the  sources  will  have  to  be  rejected. 
+
+
+IS  10500  :  2012 
+
+
+Table  5  Pesticide  Residues  Limits  and  Test  Method 
+
+(Foreword  and  Table  3) 
+
+
+SI  No. 
+
+Pesticide 
+
+Limit 
+
+Method  of  Test,  Ref  to 
+
+* — 
+
+USEPA 
+
+AOAC/  ISO 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+i) 
+
+Alachlor 
+
+20 
+
+525.2,  507 
+
+
+
+i.) 
+
+Atrazine 
+
+2 
+
+525.2,  8141  A 
+
+— 
+
+iii) 
+
+Aldrin/  Dieldrin 
+
+0.03 
+
+508 
+
+— 
+
+IV) 
+
+Alpha  HCH 
+
+0.01 
+
+508 
+
+— 
+
+V) 
+
+Beta  HCH 
+
+0.04 
+
+508 
+
+— 
+
+vi) 
+
+Butachlor 
+
+125 
+
+525.2,  8141  A 
+
+— 
+
+vii) 
+
+Chlorpyriphos 
+
+30 
+
+525.2,  8141  A 
+
+— 
+
+viii) 
+
+Delta  HCH 
+
+0.04 
+
+508 
+
+— 
+
+ix) 
+
+2,4-  Dichlorophenoxyacetic  acid 
+
+30 
+
+515.1 
+
+— 
+
+X) 
+
+DDT  (o,  p  and  p,  p  -  Isomers  of  DDT, 
+DDE  and  DDD) 
+
+1 
+
+508 
+
+AOAC  990.06 
+
+3d) 
+
+Endosulfan  (alpha,  beta,  and  sulphate) 
+
+0.4 
+
+508 
+
+AOAC  990.06 
+
+xii) 
+
+Ethion 
+
+3 
+
+1657  A 
+
+— 
+
+xiii) 
+
+Gamma  —  HCH  (Lindane) 
+
+2 
+
+508 
+
+AOAC  990.06 
+
+xiv) 
+
+Isoproturon 
+
+9 
+
+532 
+
+— 
+
+XV) 
+
+Malathion 
+
+190 
+
+8141  A 
+
+— 
+
+xvi) 
+
+Methyl  parathion 
+
+0.3 
+
+8141  A 
+
+ISO  10695 
+
+xvii) 
+
+Monocrotophos 
+
+1 
+
+8141  A 
+
+— 
+
+xviii) 
+
+Phorate 
+
+2 
+
+8141  A 
+
+— 
+
+NOTE  —  Test  methods  are  for  guidance  and  reference  for  testing  laboratory.  In  case  of  two  methods,  USEPA  method  shall  be  the 
+reference  method. 
+
+
+Table  6  Bacteriological  Quality  of  Drinking  Water1' 
+
+(Clause  4.1.1) 
+
+
+SI  No. 
+
+(1) 
+
+
+Organisms 
+
+(2) 
+
+
+Requirements 
+
+(3) 
+
+
+i)       All  water  intended  for  drinking: 
+
+a)    E.  coli  or  thermotolerant  coliform  bacteria21- 
+ii)       Treated  water  entering  the  distribution  system: 
+
+a)  E.  coli  or  thermotolerant  coliform  bacteria21 
+
+b)  Total  coliform  bacteria 
+
+iii)       Treated  water  in  the  distribution  system: 
+
+a)  E.  coli  or  thermotolerant  coliform  bacteria 
+
+b)  Total  coliform  bacteria 
+
+
+Shall  not  be  detectable  in  any  100  ml  sample 
+
+Shall  not  be  detectable  in  any  100  ml  sample 
+Shall  not  be  detectable  in  any  100  ml  sample 
+
+Shall  not  be  detectable  in  any  100  ml  sample 
+Shall  not  be  detectable  in  any  100  ml  sample 
+
+
+"Immediate  investigative  action  shall  be  taken  if  either  E.coli  or  total  coliform  bacteria  are  detected.  The  minimum  action  in  the  case  of 
+total  coliform  bacteria  is  repeat  sampling;  if  these  bacteria  are  detected  in  the  repeat  sample,  the  cause  shall  be  determined  by  immediate 
+further  investigation. 
+
+2  Although,  E.  coli  is  the  more  precise  indicator  of  faecal  pollution,  the  count  of  thermotolerant  coliform  bacteria  is  an  acceptable  alternative. 
+If  necessary,  proper  confirmatory  tests  shall  be  carried  out.  Total  coliform  bacteria  are  not  acceptable  indicators  of  the  sanitary  quality  of 
+rural  water  supplies,  particularly  in  tropical  areas  where  many  bacteria  of  no  sanitary  significance  occur  in  almost  all  untreated  supplies. 
+
+"It  is  recognized  that,  in  the  great  majority  of  rural  water  supplies  in  developing  countries,  faecal  contamination  is  widespread.  Under 
+these  conditions,  the  national  surveillance  agency  should  set  medium-term  targets  for  progressive  improvement  of  water  supplies. 
+
+
+IS  10500  :  2012 
+
+
+system  including  consumers'  premises,  should  be  free 
+from  virus. 
+
+4.2.2  None  of  the  generally  accepted  sewage  treatment 
+methods  yield  virus-free  effluent.  Although  a  number 
+of  investigators  have  found  activated  sludge  treatment 
+to  be  superior  to  trickling  filters  from  this  point  of  view, 
+it  seems  possible  that  chemical  precipitation  methods 
+will  prove  to  be  the  most  effective. 
+
+4.2.3  Virus  can  be  isolated  from  raw  water  and  from 
+springs,  enterovirus,  reovirus,  and  adenovirus  have 
+been  found  in  water,  the  first  named  being  the  most 
+resistant  to  chlorination.  If  enterovirus  are  absent  from 
+chlorinated  water,  it  can  be  assumed  that  the  water  is 
+safe  to  drink.  Some  uncertainty  still  remains  about  the 
+virus  of  infectious  hepatitis,  since  it  has  not  so  far  been 
+isolated  but  in  view  of  the  morphology  and  resistance 
+of  enterovirus  it  is  likely  that,  if  they  have  been 
+inactivated  hepatitis  virus  will  have  been  inactivated 
+also. 
+
+4.2.4  An  exponential  relationship  exists  between  the 
+rate  of  virus  inactivation  and  the  redox  potential.  A 
+redox  potential  of  650  mV  (measured  between 
+platinum  and  calomel  electrodes)  will  cause  almost 
+instantaneous  inactivation  of  even  high  concentrations 
+of  virus.  Such  a  potential  can  be  obtained  with  even  a 
+low  concentration  of  free  chlorine,  but  only  with  an 
+extremely  high  concentration  of  combined  chlorine. 
+This  oxidative  inactivation  may  be  achieved  with  a 
+number  of  other  oxidants  also,  for  example,  iodine, 
+ozone  and  potassium  permanganate,  but  the  effect  of 
+the  oxidants  will  always  be  counteracted,  if  reducing 
+components,  which  are  mainly  organic,  are  present. 
+As  a  consequence,  the  sensitivity  of  virus  towards 
+disinfectants  will  depend  on  the  milieu  just  as  much  as 
+on  the  particular  disinfectant  used. 
+
+4.2.5  Viruses  are  generally  resistant  to  disinfectants  as 
+well  as  get  protected  on  account  of  presence  of 
+particulate  and  organic  matter  in  water.  Because  the 
+difference  between  the  resistance  of  coliform 
+organisms  and  of  virus  to  disinfection  by  oxidants 
+increases  with  increasing  concentration  of  reducing 
+components,  for  example,  organic  matter,  it  cannot  be 
+assumed  that  the  absence  of  available  coliform 
+organisms  implies  freedom  from  active  virus  under 
+circumstances  where  a  free  chlorine  residual  cannot 
+be  maintained.  Sedimentation  and  slow  sand  filtration 
+in  themselves  may  contribute  to  the  removal  of  virus 
+from  water. 
+
+4.2.6  In  practice,  >0.5  mg/1  of  free  chlorine  for  1  h  is 
+sufficient  to  inactivate  virus,  even  in  water  that  was 
+originally  polluted  provided  the  water  is  free  from 
+particulates  and  organic  matter. 
+
+
+4.2.7  MS2  phage  are  indicator  of  viral  contamination 
+in  drinking  water.  MS2  phage  shall  be  absent  in  1  litre 
+of  water  when  tested  in  accordance  with  USEPA 
+method  1602.  If  MS2  phage  are  detected  in  the  drinking 
+water,  virological  examination  shall  be  done  by  the 
+Polymerase  Chain  Reaction  (PCR)  method  for 
+virological  examination  as  given  in  Annex  B.  USEPA 
+method  in  Manual  of  Method  for  Virology  Chapter  16, 
+June  2001  shall  be  the  alternate  method.  If  viruses  are 
+detected,  the  cause  shall  be  determined  by  immediate 
+further  investigation. 
+
+4.3  Biological  Requirements 
+
+4.3.1  Ideally,  all  samples  taken  including  consumers 
+premises  should  be  free  from  biological  organisms. 
+Biological  examination  is  of  value  in  determining  the 
+causes  of  objectionable  tastes  and  odours  in  water  and 
+controlling  remedial  treatments,  in  helping  to  interpret 
+the  results  of  various  chemical  analysis,  and  in 
+explaining  the  causes  of  clogging  in  distribution  pipes 
+and  filters.  In  some  instances,  it  may  be  of  use  in 
+demonstrating  that  water  from  one  source  has  been 
+mixed  with  that  from  another. 
+
+4.3.2  The  biological  qualities  of  water  are  of  greater 
+importance  when  the  supply  has  not  undergone  the 
+conventional  flocculation  and  filtration  processes,  since 
+increased  growth  of  methane-utilizing  bacteria  on 
+biological  slimes  in  pipes  may  then  be  expected,  and 
+the  development  of  bryozoal  growths  such  as 
+Plumatella  may  cause  operational  difficulties. 
+
+4.3.3  Some  of  the  animalcules  found  in  water  mains 
+may  be  free-living  in  the  water,  but  others  such  as 
+Dreissena  and  Asellus  are  more  or  less  firmly  attached 
+to  the  inside  of  the  mains.  Although  these  animalcules 
+are  not  themselves  pathogenic,  they  may  harbour 
+pathogenic  organisms  or  virus  in  their  intestines,  thus 
+protecting  these  pathogens  from  destruction  by 
+chlorine. 
+
+4.3.4  Chlorination,  at  the  dosages  normally  employed 
+in  waterworks,  is  ineffective  against  certain  parasites, 
+including  amoebic  cysts;  they  can  be  excluded  only 
+by  effective  filtration  or  by  higher  chlorine  doses  than 
+can  be  tolerated  without  subsequent  dechlorination. 
+Amoebiasis  can  be  conveyed  by  water  completely  free 
+from  enteric  bacteria;  microscopic  examination  after 
+concentration  is,  therefore,  the  only  safe  method  of 
+identification. 
+
+4.3.5  Strict  precautions  against  back-syphonage  and 
+cross-connections  are  required,  if  amoebic  cysts  are 
+found  in  a  distribution  system  containing  tested  water. 
+
+4.3.6  The  cercariae  of  schistosomiasis  can  be  detected 
+by  similar  microscopic  examination,  but  there  is,  in 
+
+
+IS  10500  :  2012 
+
+
+any  case,  no  evidence  to  suggest  that  this  disease  is 
+normally  spread  through  piped  water  supplies. 
+
+4.3.7  The  cyclops  vector  of  the  embryos  of 
+Dracunculus  medinensis  which  causes  dracontiasis  or 
+Guinea-worm  disease  can  be  found  in  open  wells  in  a 
+number  of  tropical  areas.  They  are  identifiable  by 
+microscopic  examination.  Such  well  supplies  are 
+frequently  used  untreated,  but  the  parasite  can  be 
+relatively  easily  excluded  by  simple  physical 
+improvements  in  the  form  of  curbs,  drainage,  and  apron 
+surrounds  and  other  measures  which  prevent  physical 
+contact  with  the  water  source. 
+
+4.3.8  Cryptosporidium  shall  be  absent  in  10  liter  of 
+water  when  tested  in  accordance  with  USEPA  method 
+1622  or  USEPA  method  1623*  or  ISO  15553  :  2006. 
+
+
+4.3.9  Giardia  shall  be  absent  in  10  liter  of  water  when 
+tested  in  accordance  with  USEPA  method  1623*  or 
+ISO  15553  :  2006. 
+
+4.3.10  The  drinking  water  shall  be  free  from 
+microscopic  organisms  such  as  algae,  zooplanktons, 
+flagellates,  parasites  and  toxin  producing  organisms. 
+An  illustrative  (and  not  exhaustive)  list  is  given  in 
+Annex  C  for  guidance. 
+
+NOTE  —  In  case  of  dispute,  the  method  indicated  by  '*'  in 
+4.3.8  and  4.3.9  shall  be  referee  method. 
+
+5  SAMPLING 
+
+Representative  samples  of  water  shall  be  drawn  as 
+prescribed  in  IS  1622  and  IS  3025  (Part  1). 
+
+
+IS  No. 
+1622  :  1981 
+
+
+3025 
+
+
+ANNEX  A 
+
+(Clause  2) 
+
+LIST  OF  REFERRED  INDIAN  STANDARDS 
+
+Title 
+
+
+(Part  1)  : 
+
+1987 
+
+(Part  2)  : 
+
+2002 
+
+(Part  4)  : 
+
+1983 
+
+(Part  5)  : 
+
+1983 
+
+(Part  7)  : 
+
+1984 
+
+(Part  8)  : 
+
+1984 
+
+(Part  10) 
+
+1984 
+
+(Part  11) 
+
+1983 
+
+(Part  16) 
+
+1984 
+
+(Part  21) 
+
+1983 
+
+(Part  23) 
+
+1983 
+
+(Part  24) 
+
+1986 
+
+(Part  26) 
+
+1986 
+
+(Part  27) 
+
+1986 
+
+(Part  29) 
+
+1986 
+
+(Part  32) 
+
+1988 
+
+(Part  34) 
+
+1988 
+
+(Part  37) 
+
+1988 
+
+(Part  39) 
+
+1989 
+
+(Part  40) 
+
+1991 
+
+Methods      of      sampling      and 
+
+microbiological  examination  of 
+
+water  (first  revision) 
+
+Methods  of  sampling  and  test 
+
+(physical  and  chemical)  for  water  and 
+
+waste  water: 
+
+Sampling  (first  revision) 
+
+Determination  of  33  elements  by 
+
+inductively  coupled  plasma  atomic 
+
+emission  spectroscopy 
+
+Colour  (first  revision) 
+
+Odour  (first  revision) 
+
+Taste  threshold  (first  revision) 
+
+Tasting  rate  (first  revision) 
+
+Turbidity  (first  revision) 
+
+pH  value  (first  revision) 
+
+Filterable  residue  (total  dissolved 
+
+solids)  (first  revision) 
+
+Total  hardness  (first  revision) 
+
+Alkalinity  (first  revision) 
+
+Sulphates  (first  revision) 
+
+Chlorine  residual  (first  revision) 
+
+Cyanide  (first  revision) 
+
+Sulphide  first  revision) 
+
+Chloride  first  revision) 
+
+Nitrogen  first  revision) 
+
+Arsenic  first  revision) 
+
+Oil  and  grease 
+
+Calcium 
+
+
+IS  No. 
+
+Title 
+
+(Part  41) 
+
+1992  Cadmium  first  revision) 
+
+(Part  42) 
+
+1992  Copper  first  revision) 
+
+(Part  43) 
+
+1992  Phenols  first  revision) 
+
+(Part  46) 
+
+1994  Magnesium 
+
+(Part  47) 
+
+1994  Lead 
+
+(Part  48) 
+
+1994  Mercury 
+
+(Part  49) 
+
+1994  Zinc 
+
+(Part  52) 
+
+2003  Chromium 
+
+(Part  53) 
+
+2003  Iron 
+
+(Part  54) 
+
+2003  Nickel 
+
+(Part  55) 
+
+2003  Aluminium 
+
+(Part  56) 
+
+2003  Selenium 
+
+(Part  57) 
+
+2005  Boron 
+
+(Part  59) 
+
+2006  Manganese 
+
+(Part  60) 
+
+2008  Fluoride 
+
+13428  :  2003         Packaged  natural  mineral  water  — 
+
+Specification  (first  revision) 
+
+14194                    Radionuclides  in  environmental 
+
+samples  —  Method  of  estimation: 
+
+(Part  1)  :  1994    Gross  beta  activity  measurement 
+
+(Part  2)  :  1994    Gross  alpha  activity  measurement 
+
+15302  :  2002        Determination  of  aluminium  and 
+
+barium  in  water  by  direct  nitrous 
+
+oxide-acetylene    flame    atomic 
+
+absorption  spectrometry 
+
+15303  :  2002        Determination  of  antimony,  iron  and 
+
+selenium  in  water  by  electrothermal 
+
+atomic  absorption  spectrometry 
+
+IS  10500  :  2012 
+
+
+ANNEX  B 
+
+(Clause  4.2.7) 
+
+POLYMERASE  CHAIN  REACTION  (PCR)  METHOD 
+
+
+B-l  GENERAL 
+
+
+The  method  involves  the  concentration  of  viruses  from 
+100  litre  of  drinking  water  to  1  ml  by  membrane  filter 
+technique.  The  concentrate  is  subjected  to  amplification 
+using  polymerase  chain  reaction  (PCR)  and  primers 
+based  on  highly  conserved  regions  of  viral  genomes. 
+This  method  can  detect  as  low  as  10  genome  copies. 
+Stringent  precautions  are  needed  to  avoid 
+contamination  with  amplified  DNA  products  leading 
+to  false  positive  reactions.  Detection  of  hepatitis  A  virus 
+(HAV)  RNA  and  enterovirus  (EV)  RNA  is  considered 
+as  an  indication  of  presence  of  viruses  in  water.  Steps 
+involved  include  concentration  of  water,  RNA 
+extraction,  complementary  DNA  (cDNA)  synthesis  and 
+PCR. 
+
+B-2  CONCENTRATION  OF  DRINKING  WATER 
+
+B-2.1  Apparatus 
+
+B-2.1.1  Pressure  Pump 
+
+B-2. 1.2  Membrane  Filter  Assembly  with  144  mm 
+Diameter  with  Tripod  Stand 
+
+B-2. 1.3  Pressure  Vessel  (50  litre  capacity)  with 
+Pressure  Gauge 
+
+B-2.1.4  Inter-connecting  Pressure  Tubes 
+
+B-2.2  Reagents 
+
+Autoclaved  double  distilled  water  shall  be  used  for  the 
+preparation  of  reagents/buffers  in  this  study. 
+
+B-2.2.1  Aluminium  Chloride 
+
+B-2.2.2  HCl/NaOH  Urea  (Extra  Pure) 
+
+B-2.2. 3  Disodium  Hydrogen  Phosphate  (Na2HP04. 
+2H20)  —  0.2  M,  filter  sterilized. 
+
+B-2. 2.4  Sodium  Dihydrogen  Phosphate  (NaH2P04. 
+2H20)  —  0.2  M,  filter  sterilized. 
+
+B-2.2.5  Citric  Acid  —  0.1  M,  filter  sterilized. 
+
+B-2.2.6  L-Arginine  —  0.5  M,  filter  sterilized. 
+
+B-2.2.7  Urea-Arginine  Phosphate  Buffer  (U-APB)  — 
+Mix  4.5  g  of  urea  with  2  ml  of  0.2  M  NaH2P04  and 
+2  ml  of  0.5  M  L  -  Arginine  and  make  up  the  volume  to 
+50  ml  with  sterile  distilled  water.  The  pH  of  the  eluent 
+shall  be  9.0. 
+
+B-2.2.8  Magnesium  Chloride  (MgCl2)  —  1  M. 
+
+B-2.2.9  McII  Vaines  Buffer  (pU  5.0)  —  Mix  9.7  ml  of 
+
+
+0. 1  M  citric  acid  with  10.3  ml  of  0.2  M  Na2HP04 .2H20 
+under  sterile  conditions. 
+
+B-2.3  Procedure 
+
+Filter  100  litre  of  drinking  water  sample  through 
+membrane  filter  assembly  using  either  positively 
+charged  membrane  of  144  mm  diameter  or  0.22  micron 
+diameter  pore  size  nitrocellulose  membrane.  For 
+positively  charged  membrane  the  test  water  pH  need 
+not  be  adjusted.  But  for  the  0.22  micron  nitrocellulose 
+membrane  adjust  the  pH  to  3.5  after  adding  the 
+aluminium  chloride  as  a  coagulant  to  a  final 
+concentration  of  0.000  5  M. 
+
+At  lower  pH  pass  the  water  through  the  membrane. 
+The  flow  rate  shall  be  40  litre/h  approximately.  After 
+the  completion  of  the  filtration,  elute  the  adsorbed 
+particles  using  100  ml  of  urea-arginine  phosphate 
+buffer  (U-APB).  Precipitate  the  suspended  particles 
+using  1  ml  of  magnesium  chloride  (1  M).  Dissolve  the 
+resultant  precipitate  centrifuged  out  of  the  sample  in 
+800-1 .0  ml  of  McII  vaines  buffer.  The  processed  sample 
+can  be  stored  at  refrigerator  until  required. 
+
+B-3  RNA  EXTRACTION 
+
+B-3.1  Apparatus 
+B-3.1.1  Cooling  Centrifuge 
+B-3.1.2  Deep  Freezer  (-20° C) 
+B-3. 1.3  Vortex  Mixer 
+B-3.1.4  Pipette  Man 
+
+B-3.2  Reagents 
+
+B-3.2.1  Cetyl  Trimethyl  Ammonium  Bromide  (CTAB) 
+Buffer 
+
+
+CTAB 
+
+1  percent 
+
+Sodium  Dodecyl  Sulphate  (SDS) 
+
+1  percent 
+
+EDTA 
+
+20  mM 
+
+Sodium  Chloride 
+
+1M 
+
+B-3.2.2  Phenol,  Chloroform  and  Isoamylalcohol  in  the 
+ratio  of  25:24:1  (PCI) 
+
+B-3.2.3  Ethanol 
+
+B-3.2.4  TE  Buffer  (pH  8.0) 
+
+Tris  base        :  1  M 
+
+EDTA  :  0.5  M 
+
+B-3.2.5  Sodium  Acetate  —  3  M. 
+
+
+IS  10500  :  2012 
+
+
+B-3.3  Procedure 
+
+Treat  300  pi  of  concentrated  water  sample  with  equal 
+volume  of  CTAB  and  l/10th  volume  of  PCI.  Vortex 
+and  centrifuge  at  5  000  x  g  for  30  min  at  4°C.  Add  1/ 
+10th  volume  of  3  M  sodium  acetate  and  double  the 
+volume  of  cold  ethanol  to  the  aqueous  layer.  Keep  the 
+mixture  at  either  at  -20°C  for  overnight  or  in  liquid 
+nitrogen  for  2-5  min.  Centrifuge  at  10  000  x  g,  for 
+30  min  at  4°C.  Discard  the  supernatant  and  air  dry  the 
+pellet  and  dissolve  it  in  20  ul  TE  buffer. 
+
+B-4  COMPLEMENTARY  DNA  (c  DNA)  SYNTHESIS 
+
+B-4.1  Apparatus 
+B-4.1.1  PCR  Machine 
+B-4.1.2  Deep  Freezer  (-20°C) 
+
+B-4.2  Reagents 
+
+B-4.2.1  cDNA  Synthesis  Kit 
+
+B-4.3  Procedure 
+
+Suspend  the  extracted  RNA  in  20  ul  of  cDNA  reaction 
+mixture,  which  consists  of  4  ul  of  5X  reverse 
+transcriptase  reaction  buffer  [250  mM  TRIS-HC1 
+(pU  8.5),  40  mM  KC1,  150  mM  MgCl2,  5  mM 
+dithiothreitol  (DTT)],  0.5  ul  of  10  mM  deoxynucleotide 
+phosphate  (dNTP),  2  ul  of  hexa  nucleotide  mixture, 
+1  ul  of  25  U  of  Maloney  Murine  Leukaemia  Virus  (M- 
+MuLV)  reverse  transcriptase,  0.5  ul  of  20  U  of  human 
+placental  RNase  inhibitor.  Heat  the  reaction  mixture  to 
+95  °C  for  5  min  and  rapidly  chill  on  ice,  this  is  followed 
+by  the  addition  of  1  ul  (25  U/ul)  of  M-MuLV  reverse 
+transcriptase.  Incubate  the  reaction  mixture  as  given 
+by  the  manufacturer  of  the  kit  and  quickly  chill  the 
+reaction  tube  on  ice. 
+
+B-5  PCR  AMPLIFICATION 
+
+B-5.1  Apparatus 
+B-5.1.1  PCR  Machine 
+B-5.1.2  Deep  Freezer  (-20°C) 
+B-5.1.3  Micropippette 
+
+B-5.2  Reagents 
+
+B-5.2.1  Primers  for  EV  and  HAV 
+
+EV        sense  primer,  5 '  —  TCC  TCC  GGC  CCC 
+
+TGA  ATG  CG  —  3 ' 
+
+antisense  primer,  5 '  —  ATT  GTC  ACC 
+
+ATA  AGC  AGC  CA  —  3 ' 
+HAV     sense  primer,  5*  —  GTTTT  GCTCC 
+
+TCTTT  ATCAT  GCTAT  G-3 ' 
+
+
+antisense  primer,  5 '  —  GGAAA  TGTCT 
+CAGGT  ACTTT  CTTTG-3 ' 
+
+B-5.2.2  PCR  Master  Mix 
+
+B-5.2.3  Mineral  Oil 
+
+B-5.3  Procedure 
+
+B-5.3.1  PCR  Amplification  for  Hepatitis  A  Virus  (HAV) 
+
+In  5  ul  of  cDNA,  add  95  ul  of  a  PCR  Master  Mix  (10 
+mM  TRIS-HC1  (pR  8.3),  50  mM  KC1,  2.5  mM  MgCl2, 
+0.01  percent  gelatin  (lx  PCR  buffer),  200  uM  of  each 
+dNTP,  1.5  U  of  Thermits  aquaticus  polymerase).  Add 
+25  pico  moles  of  sense  and  antisense  oligonucleotide 
+primers  of  HAV  and  overlay  with  mineral  oil. 
+Appropriate  positive  and  negative  controls  shall  be 
+included  with  each  run.  Set  the  following  reaction  at 
+thermo  cycler: 
+
+Denaturation  at  94°C  for  2  min 
+
+
+Denaturation  for 
+
+1 .0  min 
+
+at  94°C 
+
+Annealing  for 
+
+1.0  min 
+
+at  57°C 
+
+Extension  for 
+
+1.3  min 
+
+at  72°C 
+
+►35  cycles 
+
+
+Final  extension  at  72°C  for  7  min. 
+
+B-5.3.2  PCR  Amplification  for  Enterovirus  (EV) 
+
+In  5  ul  of  cDNA,  add  95  ul  of  a  PCR  Master  Mix  (10 
+mM  TRIS-HC1  (pR  8.3),  50  mM  KC1,  2.5  mM  MgCl2, 
+0.01  percent  gelatin  (IX  PCR  buffer),  200  uM  of  each 
+dNTP,  1.5  U  of  Thermus  aquaticus  polymerase).  Add 
+25  pico  moles  of  sense  and  antisense  oligonucleotide 
+primers  of  EV  and  overlay  with  mineral  oil. 
+Appropriate  positive  and  negative  controls  shall  be 
+included  with  each  run.  Set  the  following  reaction  at 
+thermo  cycler: 
+
+Denaturation  at  94°C  for  2  min 
+
+Denaturation  for     1 .0  min     at  94°C 
+Annealing  for  1.0  min     at  42°C  ^-35  cycles 
+
+Extension  for  2.0  min     at  72°C 
+
+J 
+
+Final  extension  at  72°C  for  7  min. 
+
+B-6  AGAROSE  GEL  ELECTROPHORESIS 
+
+B-6.1  Apparatus 
+
+B-6.1.1  Micropippette 
+
+B-6.1.2  Electrophoresis  Apparatus 
+
+B-6.1.3  Gel  Documentation  System 
+
+B-6.2  Reagents 
+
+B-6.2.1  Running  Buffer  —  50X  TAE  buffer 
+Tris  base/Tris  buffer  :    121.00  g 
+
+
+IS  10500  :  2012 
+
+
+Glacial  acetic  acid 
+0.5  M  EDTA 
+Distilled  water 
+(autoclaved) 
+
+
+28.55  ml 
+50  .00  ml 
+300.45  ml 
+
+
+Make  the  final  volume  upto  1  000  ml  with  deionised 
+distilled  water,  sterilize  and  store  at  4°C.  The  final 
+concentration  for  the  preparation  of  agarose  gel  and  to 
+run  the  gel  shall  be  IX. 
+
+B-6.2.2  Tracking  Dye  —  6X  bromophenol  blue. 
+
+B-6.2.3  Ethidium  Bromide  —  0.5  ug/ml. 
+
+
+B-6.3  Procedure 
+
+Run  the  PCR  amplified  product  of  EV  and  HAV  on 
+1.5  percent  agarose  gel  using  IX  TAE  buffer.  Load 
+10  ul  of  amplified  product  after  mixing  it  with  1  ul 
+10X  loading  dye.  Run  the  molecular  weight  marker 
+along  with  the  samples.  Run  the  electrophoresis  at 
+100  V  for  30  min.  Stain  the  gel  with  ethidium  bromide 
+(0.5  ul/ml)  for  20  min.  Wash  it  with  distilled  water 
+and  view  under  UV  transilluminator  and  photograph 
+the  gel  to  analyse  the  band  pattern.  EV  gives  the  band 
+as  155  base  pair  and  the  HAV  gives  band  as  225  base 
+pair. 
+
+
+ANNEX  C 
+
+{Clause  4.3.10) 
+
+ILLUSTRATIVE  LIST  OF  MICROSCOPIC  ORGANISMS  PRESENT  IN  WATER 
+
+
+SI    Classification  of 
+No.      Microscopic 
+
+Organism 
+(1)  (2) 
+
+
+Group  and  Name  of  the  Organism 
+
+
+(3) 
+
+
+Habitat 
+
+
+(4) 
+
+
+Effect  of  the 
+
+Organisms  and 
+
+Significance 
+
+(5) 
+
+
+i)  Algae 
+
+
+a)  Chlorophyceae: 
+
+1)  Species  of  Coelastrum,  Gomphospherium, 
+Micractinium,  Mougeotia,  Oocystis, 
+Euastrum,  Scenedesmus,  Actinastrum, 
+Gonium,  Eudorina  Pandorina,  Pediastrum, 
+Zygnema,  Chlamydomonas,  Careteria, 
+Chlorella,  Chroococcus,  Spirogyra, 
+Tetraedron,  Chlorogonium,  Stigeoclonium 
+
+2)  Species  of  Pandorina,  Volvox, 
+Gomphospherium,  Staurastrum, 
+Hydrodictyon,  Nitella 
+
+3)  Species  of  Rhizoclonium,  Cladothrix, 
+Ankistrodesmus,  Ulothrix,  Micrasterias, 
+Chromulina 
+
+4)  Species  of  Chlorella,  Tribonema, 
+Clostrium,  Spirogyra,  Palmella 
+
+b)  Cyanophyceae: 
+
+1)  Species  of  Anacystis  and  Cylindrospermum 
+
+
+2)  Species       of      Anabena,       Phormidium, 
+Lyngbya,  Arthrospira,  Oscillatona 
+
+3)  Species        of        Anabena,         Anacystis, 
+Aphanizomenon 
+
+
+4)  Species        of        Anacystis, 
+Coelospherium, 
+Aphanizomenon 
+
+5)  Species        of        Anacystis, 
+Oscillatoria,  Anabena 
+
+
+Anabena, 
+Cleotrichina, 
+
+
+Polluted  water,      Impart 
+impounded  colouration 
+
+
+Polluted  waters 
+
+
+Clean  water 
+
+
+Polluted   waters, 
+
+impounded 
+
+sources 
+
+Polluted  waters 
+
+
+Polluted  waters 
+
+Polluted  waters, 
+impounded 
+sources 
+Polluted  waters 
+
+
+Produce  taste  and 
+odour 
+
+Indicate  clean 
+condition 
+
+Clog  filters  and 
+create  impounded 
+difficulties 
+
+Cause  water 
+bloom  and  impart 
+colour 
+Impart  colour 
+
+Produce  taste  and 
+odour 
+
+Toxin  producing 
+
+
+Rivularia,     Polluted  waters     Clog  filters 
+
+
+IS  10500  :  2012 
+
+
+SI     Classification  of 
+No.       Microscopic 
+
+Organism 
+(1)  (2) 
+
+
+Group  and  Name  of  the  Organism 
+
+
+(3) 
+
+
+Habitat 
+
+
+(4) 
+
+
+Effect  of  the 
+
+Organisms  and 
+
+Significance 
+
+(5) 
+
+
+ii)  Zooplankton 
+
+
+iii)    Rotifers 
+
+
+6)  Species  of  Rivularia 
+
+
+Calcareous 
+waters   and   also 
+rocks 
+
+
+7)  Species     of    Agmenellum,     Microcoleus,  Clean  waters 
+Lemanea 
+c)  Diatoms  (Bacillareophyceae): 
+
+1)  Species    of    Fragillaria,     Stephanodiscus,  — 
+Stauroneis 
+
+2)  Species  o/Asterionella,  Tabellaria  Hill  streams 
+
+high  altitude, 
+torrential  and 
+temperate  waters 
+Polluted  waters 
+
+
+3)  Species  o/Synedra  and  Fragillavia 
+
+4)  Species  of  Nitzchia,  Gomphonema 
+
+5)  Species  of  Cymbela,  Synedra,  Melosira, 
+Navicula,  Cyclotella,  Fragillaria,  Diatoma, 
+Pleurogsigma 
+
+6)  Species  of  Pinmularia,  Surinella, 
+Cyclotella,  Meridion,  Cocconeis 
+
+d)  Xanthophyceae: 
+
+Species  ofBotryococcus 
+
+
+Moderately 
+polluted  waters 
+Rivers  and 
+
+streams 
+impounded 
+sources 
+Clean  waters 
+
+
+Hill  streams, 
+high  altitude  and 
+temperate  waters 
+
+
+a)  Protozoa: 
+
+1)  Amoeba,       Giardia      Lamblia      Arcella,  Polluted  waters 
+Difflugia,  Actinophrys 
+
+2)  Endamoeba,  Histolytica 
+
+
+b)  Ciliates: 
+
+Paramoecium,  Vorticella,  Carchesium, 
+Stentor,  Colpidium,  Coleps,  Euplotes, 
+Colopoda,  Bodo 
+
+c)  Crustacea: 
+
+1)  Bosmina,  Daphnia 
+
+2)  Cyclops 
+
+a)  Rotifers: 
+
+Anurea,  Rotaria,  Philodina 
+
+
+b)  Flagellates: 
+
+1)  Ceratium,        Glenodinium, 
+Dinobryon 
+
+2)  Euglena,  Phacus 
+
+
+Peridinium 
+
+
+Sewage  and 
+
+activated  sludge 
+
+Highly  polluted 
+
+waters,  sewage 
+
+and  activated 
+sludge 
+
+Stagnant     pollu- 
+ted waters 
+Step     wells     in 
+tropical  climate 
+
+Polluted         and 
+Algae  laden 
+
+waters 
+
+Rocky  strata,  iron 
+bearing  and 
+
+acidic  waters 
+Polluted  waters 
+
+
+Bores  rocks  and 
+calcareous  strata 
+and  causes 
+matted  growth 
+Indicators  of 
+purification 
+
+Cause 
+
+discoloration 
+Taste  and  odour 
+producing  clog 
+filters 
+
+Taste  and  odour 
+
+producing 
+
+Cause 
+
+discoloration 
+
+Clog  filters  and 
+
+cause  operational 
+
+difficulties 
+
+Indicators  of 
+purification 
+
+Produces 
+coloration 
+
+
+Pollution 
+indicators 
+Parasitic  and 
+pathogenic 
+
+Bacteria  eaters 
+
+
+Indicators  of 
+pollution 
+Carrier  host  of 
+guinea  worm 
+
+Feed  on  algae 
+
+
+Impart  colour 
+and  fishy  taste 
+
+Impart  colour 
+
+
+10 
+
+
+IS  10500  :  2012 
+
+
+SI     Classification  of     Group  and  Name  of  the  Organism 
+No.       Microscopic 
+Organism 
+
+(1)  (2)  (3) 
+
+
+Habitat  Effect  of  the  Organisms 
+
+and  Significance 
+
+(4)  (5) 
+
+
+iv)  Miscellaneous 
+Organisms 
+
+
+a)  Sponges,  Hydra 
+
+
+b)  Tubifex,  Eristalls,  Chironomids 
+
+
+c)  Plumatella 
+
+
+c)  Dreissena,  Asellus 
+
+
+Fresh  water 
+
+Highly  polluted  waters, 
+sewage  and  activated 
+sludge  and  bottom 
+deposits 
+
+Polluted  waters 
+
+
+Polluted  waters 
+
+
+Clog  filters  and  affect 
+purification  systems 
+
+Clog  filters  and  render 
+water  unaesthetic 
+
+
+Produces  biological 
+slimes  and  causes  filter 
+operational  difficulties 
+
+Harbour  pathogenic 
+organisms 
+
+
+11 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  established  under  the  Bureau  of  Indian  Standards  Act,  1986  to  promote 
+harmonious  development  of  the  activities  of  standardization,  marking  and  quality  certification  of  goods 
+and  attending  to  connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publications.  No  part  of  these  publications  may  be  reproduced  in  any  form 
+without  the  prior  permission  in  writing  of  BIS.  This  does  not  preclude  the  free  use,  in  the  course  of 
+implementing  the  standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade  designations. 
+Enquiries  relating  to  copyright  be  addressed  to  the  Director  (Publications),  BIS. 
+
+Review  of  Indian  Standards 
+
+Amendments  are  issued  to  standards  as  the  need  arises  on  the  basis  of  comments.  Standards  are  also  reviewed 
+periodically;  a  standard  along  with  amendments  is  reaffirmed  when  such  review  indicates  that  no  changes  are 
+needed;  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision.  Users  of  Indian  Standards 
+should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or  edition  by  referring  to  the  latest  issue  of 
+'BIS  Catalogue'  and  'Standards  :  Monthly  Additions'. 
+
+This  Indian  Standard  has  been  developed  from  Doc  No.:  FAD  25  (2047). 
+
+
+Amendments  Issued  Since  Publication 
+
+Amend  No.  Date  of  Issue  Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+Headquarters: 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  1 10002 
+
+Telephones  :  2323  0131,  2323  3375,  2323  9402  Website:  www.bis.org.in 
+
+Regional  Offices:  Telephones 
+
+Central       :   Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg  f  2323  7617 
+
+NEW  DELHI  1 10002  \  2323  3841 
+
+Eastern       :    1/14  C.I.T  Scheme  VII  M,V.  I.  P.  Road,  Kankurgachi  ("2337  8499,2337  8561 
+
+KOLKATA  700054  \  2337  8626,  2337  9120 
+
+
+Northern    :    SCO  335-336,  Sector  34-A,  CHANDIGARH  160022  J  60  3843 
+
+60  9285 
+
+
+{! 
+
+
+Southern    :    C.I.T.  Campus,  IV  Cross  Road,  CHENNAI  600113  J  2254  1216,  2254  1442 
+
+\  2254  2519,  2254  2315 
+
+Western      :   Manakalaya,  E9  MIDC,  Marol,  Andheri  (East)  f  2832  9295,  2832  7858 
+
+MUMBAI  400093  \  2832  7891,  2832  7892 
+
+Branches:  AHMEDABAD.  BANGALORE.  BHOPAL.  BHUBANESHWAR.  COIMBATORE.  DEHRADUN. 
+FARIDABAD.  GHAZIABAD.  GUWAHATI.  HYDERABAD.  JAIPUR.  KANPUR.  LUCKNOW. 
+NAGPUR.  PARWANOO.  PATNA.  PUNE.  RAJKOT.  THIRUVANANTHAPURAM. 
+VISAKHAPATNAM. 
+
+
+Published  by  BIS,  New  Delhi 
+
+

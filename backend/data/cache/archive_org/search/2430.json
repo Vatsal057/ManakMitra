@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":30,"params":{"query":"identifier:gov.in.is.2430.*","qin":"identifier:(gov.in.is.2430.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.2430.1986","title":"IS 2430: Methods for Sampling of Aggregates for Concrete"}]}}

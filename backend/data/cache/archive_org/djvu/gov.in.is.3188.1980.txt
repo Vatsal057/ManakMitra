@@ -1,0 +1,1121 @@
+**•*•••••*•**••• 
+
+
+
+A ♦ ^ 
+
+
+
+^ 
+
+
+
+TTH^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+The Right to Information, The Right to Live' 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+IS 3188 (1980) : Characteristics of string insulator units 
+[ETD 6: Electrical Insulators and Accessories] 
+
+
+
+
+^■^^^r 
+
+
+
+^^s^iHf 
+
+
+
+
+
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakarri 
+"Knowledge is such a treasure which cannot be stolen' 
+
+
+
+
+'^^^^rr 
+
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+/Ol 
+
+
+
+<si£L»iL, 
+
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 3188-1980 
+
+( Reaffirmed 2004 ) 
+
+
+
+
+
+
+CHARACTERISTICS OF 
+STRING INSULATOR UNITS 
+
+( First Revision ) 
+
+First Reprint JULY 1991 
+
+
+
+UDC 62l-315-624'4 
+
+
+
+© Copyright 1980 
+
+RijPEAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr 3 December 1980 
+
+
+
+IS: 3188 -mo 
+
+Indian Standard 
+
+CHARACTERISTICS OF 
+STRING INSULATOR UNITS 
+
+
+
+( First Revision ) 
+
+
+
+Electrical Insulators and Accessories Sectional Committee, ETDG 3 
+
+Chairman Representing 
+
+Smri L. C. Jain Ministry of Energy, New Delhi 
+
+Members 
+
+Shbi B. C. Banbrjbe All India Pottery Manufacturers' Association, 
+
+Calcutta 
+
+Shri N. K. Guha ( Alternate ) 
+Shbi Chandeb Parkas h Bengal Potteries Ltd, Calcutta 
+
+Shbi S. C. Sen ( Alternate ) 
+Shbi D. S. Ghabkal Directorate General of Technical Development, 
+
+i New Delhi 
+
+SHrii R. T. Chabi Tag Corporation, Madras 
+
+I Shbi A. Gubxtpatham ( Alternate ) 
+Shbi K. S, Chellappan Tamil Nadu Electricity Board, Madras 
+
+Shbi N. R. Sankabak ( Alternate) 
+Shbi A. K. Chopra Punjab State Electricity Board, Patiala 
+
+Shbi NiBVAiB Singh (vl/f*r«a/«) 
+Shbi A. N. Deb Damodar Valley Corporation, Calcutta 
+
+Shbi A. G. Bosb ( Alternate ) 
+DiBEcTOB OF Research ( T&D ) Maharashtra State Electricity Board, Bombay 
+DiRECTOB ( Tbaction and In- Research. Designs & Standards Organization 
+■ STALLATiON ) ( Ministry of Railways ), Lucknow 
+
+Joint Director Standabds 
+( Tl ) {Alternate) 
+Director ( Transmission ) Central Electricity Authority, New Delhi 
+
+Deputy Directob { Substation ) 
+( Alternate ) 
+Shri H. M. S. Lingaiah Karnataka Electricity Board, Bangalore 
+
+Shbi G. S. Mahagaonkab Mysore Porcelains Ltd, Bangalore 
+
+Shri S. K. Mukherjee National Test House, Calcutta 
+
+Shri U. S. Verma ( Alternate ) 
+
+{ Continued on page 2 ) 
+
+
+
+@ Copyright 1980 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XlV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS X 3188 . 1980 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+D» G. M. Phadke Indian Electrical Manufacturers' Association, 
+
+Bombay 
+Shbi p. Ramachandran ( ^/fernflie ) 
+Shbi T M. PitANJPAY Directorate General of Posts & Telegraphs, New 
+
+Delhi 
+Shbi T, L. Bhatia { Alternate ) 
+Shbi P. S. Raman NGEF Limited, Bangalore 
+
+Shbi E. P. Wilfred ( Alternate ) 
+Shbi R. Subba Rao Bharat Heavy, Electricals^Ltd, Bhopal 
+
+Shbi M. L, Mittal ( Alternate ) 
+Shbi D. N. Naidu ( Alternate ) 
+Shri M. Sankabalingam Directorate General of Supplies & Disposals, New 
+
+Delhi 
+Deputy Directob of Inspection { Alternate ) 
+Shbi P. K. Saxbna Rur^l Electrification Corporation Ltd, New Delhi 
+
+Suet G, I... Dtta ( Alternate ) 
+Shbi N. S. Seethuramon W, S. Insulators of India Ltd, Madras 
+
+Shbi V. Srinivasan ( Alternate ) 
+Shbi R, D. Sheth Electro Metal Industries, Bombay 
+
+Shbi V. Ventjqopalan { Alternate ) 
+Da U. S. Singh High Tension Insulator Factory, Ranchi 
+
+Shbi A. D, Dua ( Alternate ) 
+Shbi Subendba Singh U. P. Government Pottery Development Centre, 
+
+Khurja 
+Shbi T. B. L. Seivastava ( Alternate ) 
+Shbi L. Venkatestjbbu Seshasayee Industries Ltd, Vadalur South Arcot 
+
+District 
+Shbi R. V. Achutiian ( Alternate ) 
+Shbi S. P. Sachdev, Director General, ISI ( Ex-officio Member) 
+
+Director ( Elec tech ) 
+
+Secretaries 
+
+Shbi R. K. Monga 
+Deputy Director ( Elec tech ), ISI 
+
+Shri R. S, Sarma 
+Assistant Director ( Elec tech ), ISI 
+
+
+
+IS : 3188 . 1980 
+
+Indian Standard 
+
+CHARACTERISTICS OF 
+STRING INSULATOR UNITS 
+
+
+
+{ First Revision ) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( First Revision ) was adopted by the Indian 
+Standards Institution on 27 September 1980, after the draft finalized by 
+the Electrical Insulators and Accessories Sectional Committee had been 
+approved by the Electrotechnical Division Council. 
+
+0.2 This standard was first published in 1965 and was based on the 
+practices followed in the country at that time. This revision has been 
+undertaken with a view to bring the requirements of this standard in line 
+with the International practices and also to take into account the techno- 
+logical advancement taking place in this field. 
+
+0.3 String insulator units are used singly or in the form of insulator strings 
+consisting of a number of insulator units to serve the insulation needs of 
+overhead power lines. The number of insulator units constituting 
+the strings is dependent upon the voltage of the line. The object of this 
+standard is to prescribe specified values for the mechanical characteristics 
+and the principal dimensions of the string insulator units to ensure 
+their interchangeability. 
+
+0.4 Electrical characteristics-power- frequency withstand voltages and 
+impulse withstand voltages of a string insulator unit which depend mainly 
+on its geometrical dimensions are not specified in this standard. They 
+shall be as agreed to between the manufacturer and purchaser ( see also 
+IS : 731-1971* ). The withstand voltages shall not be considered as 
+determining the characteristics of insulator strings consisting of several 
+units which shall also be agreed. 
+
+0.5 The puncture voltage of a string insulator unit is also a specified 
+characteristic which exceeds the actual dry flashover voltage of the unit 
+by a safety margin of 1,3. 
+
+
+
+•Specification for porcelain insulators for overhead power lines with a nominal 
+voltage greater than I 000 V ( seconJ revision ). 
+
+
+
+IS : 3188 - 1980 
+
+0.6 In the preparation of this standard, assistance has been derived from 
+the following publications, issued by the International Electrotechnical 
+Commission: 
+
+I EG Publication 305 ( 1974) Characteristics of string insulator units 
+of the cap and pin type. 
+
+lEG Publication 383 ( 1976 ) Tests on insulators of ceramic material 
+or glass for overhead lines with a nominal voltage greater than 
+1 000 V. 
+
+lEG Publication 471 ( 1977) Dimensions of clevis and tongue coup- 
+lings of string insulator units. 
+
+0.7 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, express- 
+ing the result of a test, shall be rounded off in accordance with IS: 2- 
+1960*. The number of significant places retained in the rounded off 
+value should be the same as that of the specified value in this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard applies to string insulator units of the cap and pin type 
+with porcelain insulating parts intended for ac overhead power lines with 
+nominal voltage greater than 1 000 V and a frequency not greater than 
+100 Hz. 
+
+1.2 This standard applies to string insulator units of the cap and pin type 
+with ball and socket couplings or clevis and tongue couplings. 
+
+1.3 This standard applies to string insulator units for use on overhead 
+power lines situated in atmospheres with no significant pollution. It may 
+be applied to insulators intended for polluted atmospheres, in which case 
+it will be necessary to modify certain dimensions. In any case, it is 
+recommended that the standardized mechanical characteristics of this 
+standard should be followed in such cases also. 
+
+2. GENERAL INFORMATION 
+
+2.1 Definitions and Methods of Test — The definitions and methods 
+of tests are given in IS : 731-19711- 
+
+2.2 Couplings — Ball and socket, and tongue and clevis type of couplings 
+used for the string insulator units are covered by the following Indian 
+Standards: 
+
+IS : 2486 Specification for insulator fittings for overhead power lines 
+with a nominal voltage greater than 1 000 V. 
+
+
+
+♦Rules for rounding off numerical values ( revised ). 
+
+fSpecification for porcelain insulators for overhead power Ijnes with a nominal 
+voltage greater than 1 000 V ( second revision ). 
+
+
+
+18(3188-1980 
+
+IS: 2486 (Part I)- 1971 General requirements and tests {first 
+
+revision) 
+IS : 2486 ( Part 1 1 )- 1 974 Dimensional requirements { Jirst revision ) 
+IS: 2486 (Part III)- 1974 Locking devices 
+3. MECHANICAL AND DIMENSIONAL CHARACTERISTICS 
+
+3.1 String insulator units are standardized by the following characteristics: 
+
+a) Electromechanical or mechanical failing load { see IS : 731- 
+1971*), 
+
+b) Nominal diameter of the insulating part, 
+
+c) Nominal spacing, 
+
+d) Minimum crecpage distance, and 
+
+e) Standard coupling. 
+
+3.2 The corresponding values of these characteristics are given in Table? I 
+and 2. 
+
+TABLE 1 VALUES OF MECHANICAL AND DIMENSIONAL 
+
+CHARACTERISTIC FOR STRING INSULATOR UNITS WITH 
+
+BALL AND SOCKET COUPLING 
+
+( Clauses 3.2 and 3.3 ) 
+
+
+
+Type 
+
+
+Elbctbomeohani- 
+
+
+Nominal Dia 
+
+
+Nominal 
+
+
+Minimum 
+
+
+Size of Pin 
+
+
+No. 
+
+
+CAi, OR Mechanical 
+
+
+d OB' Insula- 
+
+
+Spacing 
+
+
+Grebpagb 
+
+
+Ball and 
+
+
+
+
+Failing Load 
+
+
+ting Part 
+
+
+s 
+
+
+Distance 
+
+
+Socket Coup- 
+ling* 
+
+
+m 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+( 
+
+
+kN 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+mm 
+
+
+u 
+
+
+45 
+
+
+255 
+
+
+145 
+
+
+280 
+
+
+16 
+
+
+kh 
+
+
+45 
+
+
+255 
+
+
+H5 
+
+
+320 
+
+
+16 
+
+
+3b 
+
+
+70 
+
+
+255 
+
+
+145 
+
+
+280 
+
+
+16 
+
+
+4b 
+
+
+70 
+
+
+255 
+
+
+145 
+
+
+320 
+
+
+16 
+
+
+5b 
+
+
+90 
+
+
+255 
+
+
+145 
+
+
+280 
+
+
+16 
+
+
+6b 
+
+
+90 
+
+
+255 
+
+
+145 
+
+
+320 
+
+
+16 
+
+
+7b 
+
+
+120 
+
+
+255 
+
+
+145 
+
+
+290 
+
+
+16 
+
+
+8b 
+
+
+, 120 
+
+
+255 
+
+
+145 
+
+
+320 
+
+
+16 
+
+
+9b 
+
+
+i 120 
+
+
+255 
+
+
+145 
+
+
+290 
+
+
+20 
+
+
+10 b 
+
+
+120 
+
+
+280 
+
+
+145 
+
+
+290 
+
+
+20 
+
+
+11 b 
+
+
+120 
+
+
+280 
+
+
+145 
+
+
+320 
+
+
+20 
+
+
+12 b 
+
+
+160 
+
+
+280 
+
+
+170 
+
+
+330 
+
+
+20 
+
+
+
+♦The dimensions of pin ball and socket shall be according to Fig. 8 and 9 respec- 
+tively of IS : 2486 ( Part II )-1974 Specification for insulator fittings for overhead 
+power lines with a nominal voltage greater than 1 000 V : Part II Dimensional 
+
+requirements {first revision ) . 
+
+
+
+•Specification for porcelain insulators for overhead power lines with a nominal 
+voltage greater than 1 000 V \ m^ttd revision ). 
+
+
+
+IS 1 3188 -1980 
+
+3.3 The insulators are designated in Table 1 by type numbers 1, 2, 3,,.. 
+{see col 1), followed by a letter 'b' which denotes ball and socket 
+coupling. 
+
+3.3.1 Figure 1 shows a typical string insulator unit with ball and socket 
+coupling. 
+
+3.4 The insulators are designated in Table 2 by Type numbers 1, 2, 3, ... 
+( see col 1 ), followed by a letter ' c ' which denotes clevis and tongue 
+coupling. 
+
+3.4.1 Figure 2 shows a typical string insulator unit with clevis and 
+tongue coupling. 
+
+
+
+TABLE 2 VALUES OF MECHANICAL AND DIMENSIONAL 
+
+CHARACTERISTICS FOR STRING INSULATOR UNITS WITH 
+
+CLEVIS AND TONGUE COUPLING 
+
+( Clauses 3.2 and 3.4 ) 
+
+
+
+Type 
+No. 
+
+
+Electb omechani- 
+
+CAL OR Mechanical 
+
+Failing Load 
+
+
+Nominal Dia 
+
+d OF Inscjla- 
+
+TiNO Part 
+
+
+Nominal 
+
+Spacing 
+
+s 
+
+
+Minimum 
+
+CBEEFAGe: 
+
+Distance 
+
+
+Dimensions 
+OF Clevis and 
+Tongue Coup- 
+lino 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+
+
+kN 
+
+
+mm 
+
+
+
+
+mm 
+
+
+mm 
+
+
+
+
+Ic 
+
+
+45 
+
+
+255 
+
+
+
+
+145 
+
+
+280 
+
+
+see Note 
+
+
+2c 
+
+
+45 
+
+
+255 
+
+
+
+
+145 
+
+
+320 
+
+
+see Note 
+
+
+
+Note — The dimensions of clevis and tongue coupling shall be according 
+to Fig. 25 of IS : 2486 ( Part II )-1974 Specification for insulator fittings for over- 
+bead power lines with a nominal voltage greater than 1 000 V : Part II Dimensional 
+requirements { first revision ). 
+
+
+
+4. MARKING 
+
+4.1 The marking shall be in accordance with 8 of IS : 731-1971*. 
+
+
+
+•Specification for porcelain insulators for overhead power lines with a nominal 
+voltage greater than 1 000 V ( second revision ). 
+
+
+
+IS: 3188 -1980 
+
+5. DIMENSIONS AND TOLERANCES 
+
+5.1 The string insulator unit shall be in accordance with the relevant 
+drawings, particularly as regards any dimensions to which special 
+tolerances apply ( for example, spacing ) and details affecting interchange- 
+ability ( for example, ball and socket dimensions ). 
+
+5.2 Unless otherwise specified, a tolerance of: 
+
+± ( 004 J + 1'5 ) mm when d < 300 mm, and 
+± ( 0*03 <f + 6 ) mm when d > 300 mm 
+
+is allowed on all dimensions for which special tolerances do not apply 
+( d being the dimension in millimetres ). 
+
+
+
+METAL 
+FITTINGS 
+
+
+
+
+Fig. 1 Ball and Socket Type 
+
+
+
+tS t 3188 - 1980 
+
+
+
+METAL 
+FITTINGS 
+
+
+
+
+Fig. 2 Clevis and Tongue Type 
+
+5.3 Unless otherwise specified, a tolerance of ± ( 0*03 5 + 03) mm is 
+allowed on spacing, where s is the spacing in millimetres, of the string 
+insulator unit. 
+
+5.4 Horizontal and Vertical Discharge Distances ( d^i and d\ ) 
+
+5.4.1 Wet flash over characteristics of insulator strings depend on 
+certain special dimensions which are not specified in Table 1 and 2 and 
+particularly the dimensions in and dy ( see Fig. 3 ) as well as the ratio 
+tfv 
+
+d^ ' 
+
+5.4.2 The requirements for rfh and rfy arc under consideration. 
+
+
+
+IS X 3188 - 1980 
+
+
+
+
+Fig. ^ Horizontal and Vertical Discharoe Distances ( </h and dr ) 
+
+9 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters : 
+
+Manak Bhavan. 9 Bahadur Shah Zafar Marg, NEW DELHI 110002 
+Telephones : 331 01 31 Telegrams : Manaksanstha 
+
+331 13 75 (Common to all Offices) 
+
+
+
+Regional Offices 
+Central 
+
+
+
+• Eastern 
+
+Northern 
+Southern 
+t Western 
+
+
+
+Manak Bhavan, 9, Bahadur Shah Zafar Marg, 
+
+NEW DELHI 110002 
+
+1/14 C.I.T. Scheme Vll M, 
+
+V.I. P. Road, Maniktoia, CALCUi lA 700054 
+
+SCO 445-446. Sector 35-G, CHANDIGARH 160036 
+
+C.I.T. Campus, tV Cross Road, MADRAS 600113 
+
+Manakalaya, E9 MIDC, Marol, Andheri (East), 
+
+BOMBAY 400093 
+
+Brancli Offices : 
+
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur, AH MADABAD 380001 
+t Peenya Industrial Area, 1st Stage, Bangalore-Tumkur Road, 
+
+BANGALORE 560058 
+Gangotri Complex, 5th Floor, Bhadbhada Road, T.T. Nagar, 
+
+B HO PAL 462003 
+Plot No. 82/83, Lewis Road. BHUBANESHWAR 751002 
+Kalai Kathir Building, 6/48-A Avanasi Road, COIMBATORE 641037 
+Quality Marking Centre, N-H- IV, N-l.T., FARIDABAD 121001 
+Savitri Complex, 116 G.T. Road, GHAZIABAD 201001 
+53/5 Ward No. 29, R.G. Barua Road, 5th By-lane, 
+
+GUWAHATI 781003 
+5-8-56C L. N, Gupta Marg, ( Nampally Station Road ) 
+
+HYDERABAD 500001 
+R14 Yudhister Marg, C Scheme, JAIPUR 302005 
+117/418 B Sarvodaya Nagar. KANPUR 208005 
+
+Plot No. A-9, House No. 561/63, Sindhu Nagar, Kanpur Road. 
+
+LUCKNOW 226005 
+Patliputra Industrial Estate, PATNA 800013 
+
+District Industries Centre Complex, Bagh-e-Ali Maldan, 
+
+SRI NAGAR 190011 
+T. C. No. 14/1421, University P.O., Palayam, 
+
+THIRUVANANTHAPURAM 695034 
+inspection Offices (With Sale Point) ; 
+Pushpanjali, First Floor, 205-A West High Court Road, 
+
+Shankar Nagar Square, NAGPUR 440010 
+Institution of Engineers (India) Building, 1332 Shivaji Nagar. 
+
+PUNE 411005 
+
+
+
+•Sales Office Calcutta is at 5 Chowringhee Approach, 
+P. O. Princep Street, CALCUTTA 
+
+t Sales Office is at Novelty Chambers, Grant Road, BOMBAY 
+
+i Sales Office is at Unity Building, Narasimharaja Square. 
+BANGALORE 
+
+
+
+Te/epfione 
+
+f 331 01 31 
+
+^331 13 75 
+
+37 86 62 
+
+218 43 
+
+41 29 1 6 
+
+6 32 92 95 
+
+
+
+2 63 48 
+39 49 55 
+
+55 40 21 
+
+5 36 27 
+2 67 05 
+
+8-71 19 96 
+
+3 31 77 
+
+2310 83 
+
+6 34 71 
+21 68 76 
+
+5 55 07 
+
+6 23 05 
+
+
+
+6 21 04 
+
+62 51 71 
+
+5 24 35 
+
+27 68 00 
+
+89 65 28 
+22 39 71 
+
+
+
+Printed at Dee Kay Printers. New Delhi, India 
+
+
+

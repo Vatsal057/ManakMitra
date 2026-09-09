@@ -1,0 +1,1911 @@
+•••••••••••••••• 
+
+
+^  is^ 
+
+
+T-^^^i^ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live' 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New' 
+
+
+&^JfflAc»frj^^¥ffflAfe^lCO>.jrfa^T^S^=^Irt^^^P^^ 
+
+
+IS  4250  (1980) :  Domestic  Electric  Food-Mixers  (Liquidizes 
+and  Grinders)  [ETD  32:  Electrical  Appliances] 
+
+
+>^^lllfcJ^9>^^bv/ff^feial>^h:>^^Ts;>&^T^FS 
+
+
+5?aiU  I  l>ft=55S5&'>S*^ 
+
+
+^^:<xvvv^i^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+BLANK  PAGE 
+
+
+*Tsr- 
+
+
+^^ 
+
+
+iA*^*^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  -.4250-19^0 
+
+Indian  Standard   ^"-"'-^^^^^^^ 
+
+SPECIFICATION  FOR 
+
+DOMESTIC  ELECTRIC  FOOD-MIXERS 
+
+(LIQUIDIZERS  AND  GRINDERS) 
+
+
+(  First  Revision  ) 
+
+
+Second  Reprint  OCTOBER  1990 
+
+
+UDC  643.343.34  -  83:64.06  -  83 
+
+
+©  Copyright  1980 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+MANAK    BHAVAN,   9    BAHADUR   SHAH   ZAFAR    MARG 
+
+NEW  DELHI  110002 
+
+Qj  5  September   1980 
+
+
+IS  :  4250  -  1980 
+
+Indian  Standard 
+
+SPECIFICATION  FOR 
+
+DOMESTIC  ELECTRIC  FOOD-MIXERS 
+
+( LIQUIDIZERS  AND  GRINDERS ) 
+
+
+(  First  Revision  ) 
+
+
+Electrical  Appliances  Sectional  Committee,  ETDC  43 
+
+Chairman  Representing 
+
+Shbi  B.  Maj-mdab  Development       Commissioner,       Small       Scale 
+
+Industries    (Ministry    of     Induatrv),     New 
+Df-lhi 
+
+Memhers 
+
+Shri  a.  N.  Ghosh  (  Alternate  to 
+Shri  B.  Majumdar ) 
+Shri  M,  L.  Asaud  Consumer  Council  of  India,  New  Delhi 
+
+Coj,  J.  C.  ABfAKii  Gomrollerate      of      Inspection       (Electronics) 
+
+(  Ministry  of  Defence  ),  Bangalore 
+Maj  V.  B,  De5«hmukh  [Alternate) 
+Shsi  S.  K,  Aneja  Electrical  Appliances  Manufacturers'  .'Association, 
+
+Delhi 
+Shbi  Y.  P.  Sijbi  (  Altfrmtt ) 
+Shri  A.  U.  Ansari  Directorate  of  Industrie?,   Delhi  Administration, 
+
+Delhi 
+Sniu  J,  L.  Chhabra  Directorate    General    of    Supplies    &     Disposal* 
+
+( Inspection  Wii^),  New  Delhi 
+Shri  K.  L.  Gabo  {Aiterriatt) 
+Chief  Engjseeb  (Electrical  )-I     Central  Public  Works  Department,  New  Delhi 
+
+Surveyor  of  Works  V  (  Alternate ) 
+Shri  S.  S.  Chitn'IS  Elpro  International  Ltd,  Pune 
+
+Shbi  P.  S.  Bratia  [AUernate) 
+Shri  H.  M.  Desai  The  Bombay  Electric  Svipply  &  Transport  Under- 
+
+taktnir,  Bombay 
+Shri  P.  A.  B.  Panikab  {  Alternate  ) 
+Db  R.  N.  Dhar  National    Physical    Laboraiorv    (  CSIR  ),    New 
+
+Delhi 
+Shbi  B.  K.  Doshi  Messrs  Jathwantlal  Kantilal,  Bombay 
+
+Shbi  N.J.  Doshi  (  Alternate) 
+
+{  Continued  on  pagi  2  ) 
+
+
+^  Copyright  1980 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+This  publication  is  protected  under  the  Indian   Copyright  Act  { XIV  of  1957  )   and 
+
+reproduction  in  whole  or  in  part  by  any  means  except  with  written  permission  of  the 
+
+publisher  shall  be  deemed  to  be  an  iniringemfint  of  copyright  under  the  Mid  Act. 
+
+
+(  Continued  from  puge  1  ) 
+
+Members  Reprtsenling 
+
+Shri  P.  K.  Jain  Directorate      of     Industries,      Government       of 
+
+Haryana,  Chandigarh 
+Sh»i  O.  p.  Bahl  {  Alternate ) 
+Joint      Dikectob      (  Electricax    Railway  Board  (  Ministry  of  Railways  ) 
+
+Ekoineerinq  ) 
+Shbi  v.  S.  Kalbag  Tempo  Industrial  Corporation,  Bombay 
+
+S»ai  Abvind  Bolar  ( Alternate ) 
+ShkiG.  L.  Keswani  Directorate  General  of  Technical  Development, 
+
+New  Delhi 
+Shbi  D.  D,  RaJDEV  ( Alternate  ) 
+Smt  Beaboavi  Menon  Lady  Irwin  College,  New  Delhi 
+
+Shbi  S.  K.  Mukhbbjee  National  Test  House,  Calcutta 
+
+Shbi  K.  K.  5harma  (  Alternate ) 
+Shbi  P.  M.  Naib  National  Radio  &  Electronics  Co  Ltd,  Bombay 
+
+Shri  G.  D.  Vebnekab  {Alternate) 
+Shbi  E.  N.  Nabayanaswamy  Department  of  Indastries  &  Commerce,  Govern- 
+
+ment of  Tamil  Nadu,  Madras 
+Shbi  C.  Natarajan  (  Alternate) 
+Shri  Joginder  Sinqh  Pall  Ditz  Electricals  ( India )  Ltd,  Delhi 
+
+Shbi  Hardit  Singh  ( Alternate ) 
+Shri  H.  C.  Pandk  Directorate     of     Technical       Development      & 
+
+Production    (Air)    (Ministry    of    Defence), 
+New  Delhi 
+Shbi  S.  R.  Bhaskaran  {Alternate) 
+Shbi  D.  V.  Krishna  Rao  Consumer  Guidance  Society    of  India  (Regd), 
+
+Bombay 
+Shbi  N.  Rajaoopai,a»  The  Standard  Electric  Appliances,  Tuticorin 
+
+Shbi  R.  Iyaddha!!  ( Alternate  ) 
+Lt-Col  B.  B.  Rajpal  Engineer-in-Chief 's  Branch,  Army  Headquarters 
+
+Shbi  Sohan  Sikgh  ( Alternate ) 
+Shri  D.  Sdi>hae.ar  Reddy  Tamil  Nadu  Electrical  Appliances  Manufacturers' 
+
+Association,  Madras 
+Dr  R.  Ramabathkam  ( Alterrtate  ) 
+Shri  K.  P.  Sethi  Racold  Appliances  Pvt  Ltd,  Punt 
+
+Shri  S.  K.  Vinayak  (  Alternate ) 
+Shbi  JAODI8H  Sharan  Bajaj  Electricals  Ltd,  Bombay 
+
+Shri  S.  P.  Sachdbv,  Director  General,  IS  I  (  £«f-<j^f«a  Af«miCT-> 
+
+Director  ( Elec  tech ) 
+
+Secretaty 
+
+Shri  M.  N.  Murthy 
+
+Assistant  Director  (  Elec  tech  ),  ISI 
+
+
+IS  :  4250  -  1980 
+
+Indian  Standard 
+
+SPECIFICATION  FOR 
+
+DOMESTIC  ELECTRIC  FOOD-MIXERS 
+
+(  LIQUIDIZERS  AND  GRINDERS  ) 
+
+(  First  Revision  ) 
+
+0.    FOREWORD 
+
+0,1  This  Indian  Standard  ( First  Revision )  was  adopted  by  the  Indian 
+Standards  Institution  on  29  January  1 980,  after  the  draft  finalized  by  the 
+Electrical  Appliances  Sectional  Committee  had  been  approved  by  the 
+Electrotechnical  Division  Council. 
+
+0.2  This  standard  was  originally  published  in  1967.  This  revision  has 
+been  carried  out  to: 
+
+a)  include  the  experience  gained  in  the  field  since  publication  of 
+the  earlier  version, 
+
+b)  align  with  the  latest  developments  at  the  international  level, 
+and 
+
+c)  align  with  IS  :  302-1979*. 
+
+0.3  This  standard  covers  general  and  safety  requirements  of  domestic 
+electric  food-mixers  used  for  mixing  liquids,  making  slurries  or  pulps  of 
+food  and  for  pulverizing  dry  food  stuffs.  Determinaion  of  performance 
+of  food-mixers  is  also  a  very  important  aspect  for  evaluating  the  quality 
+of  food-mixers.  This  necessitates  conducting  some  actual  operational 
+tests  for  which  the  food-mixers  are  designed. 
+
+0.4  While  preparing  this  standard  assistance  has  been  derived  from  the 
+following  publications: 
+
+lEC  Pub  335-14  ( 1973)  Safety  of  household  and  similar  electrical 
+appliaiices:  Particular  requirements  for  electric  kitchen 
+machines.     International  Electrotechnical  Commission. 
+
+GEE  Pub  10  Part  II  Section  G/H  (  1970 )  Particular  specification 
+for  kitchen  machines.  International  Commission  on  Rules  for 
+Approval  of  Electrical  Equipment. 
+
+
+*Generat  and  safety  requirements  for  household  and  similar  electrical  appliances 
+(fiftk  rmsim ) . 
+
+
+IS  :  4250  -  1980 
+
+0.5  In  this  standard  reference  with  regard  to  general  and  safety 
+requirements  and  methods  of  test  have  been  made  to  IS  :  302-1979* 
+which  is  a  necessary  adjunct  to  this  standard.  The  clauses  of  this 
+standard  correspond  to  the  clauses  of  IS  :  302-1979*.  Additional 
+requirements  and  modifications  in  respect  of  various  clauses  are  indicated 
+to  cover  domestic  electric  food-mixers.  Should,  however,  any  deviation 
+exist  between  IS  ;  302-1979*  and  this  standard  the  provisions  of  the  latter 
+shall  apply. 
+
+0.6  For  the  purpose  of  deciding  whether  a  particular  requirement  of  this 
+standard  is  complied  with,  the  final  value,  observed  or  calculated,, 
+expressing  the  result  of  a  test,  shall  be  rounded  off  in  accordance  whh 
+IS:  2-19601.  The  number  of  significant  places  retained  in  the  rounded 
+off"  value  should  be  the  same  as  that  of  the  specified  value  in  this 
+standard. 
+
+
+1.  SCOPE 
+
+1.1  This  standard  covers  electric  motor  driven  food-mixers.  (  grinders  and 
+liquidizers )  intended  for  domestic  use  and  designed  for  operation  at 
+voltages  not  exceeding  250  V.  Multipurpose  machines  which  are  used 
+together  with  certain  accessories  are  also  covered  by  this  standard  as  far 
+as  it  applies. 
+
+2.  TERMINOLOGY 
+
+2.0  For  the  purpose  of  this  standard,  the  foUowmg  definitions,  in  addition 
+to  the  relevant  definitions  given  in  IS  :  302-1979*  shall  apply 
+
+2.1  Food-Mixer  —  A  single  appliance  which  can  do  the  functions 
+indicated  at  2.2  and  2.3. 
+
+2.2  Grinder  —  A  portable  appliance  which  by  operation  of  high  speed 
+blades  or  cutters  is  intended  primarily  for  pulverizing  or  powdering  dry 
+foodstuffs  either  raw  or  roasted,  such  as  coffee  seeds,  cereals,  grains,  etc. 
+
+2.3  Liquidizer  —  A  portable  appliance  which  by  operation  of  high  speed 
+blades  or  cutters  is  designed  either  for  mixing  liquids  or  for  converting 
+foods  with  or  without  the  presence  of  water  ( or  vegetable  oils ) 
+depending  on  the  type  of  food,  into  forms  of  slurry  or  pulps. 
+
+
+•General  and   safety  requirements  for  household  and  similar  electrical  appliances 
+
+{ fifth  revismt). 
+
+tRules  for  rounding  off  numerical  values  (  rtvistd). 
+
+
+IS  :  4250  •  1980 
+
+2.4  Normal  Load  —  Denotes  the  load  obtained  when  the  appliance  is 
+operated  under  the  load  indicated  in  the  instructions  booklet  in  terms  ol" 
+recipes  ( can  be  different  for  grinder  and  liquidizer )  or  the  load 
+necessary  to  attain  the  rated  input  (including  the  tolerances  )  at  rated 
+voltage  in  case  the  at;tual  load  in  terms  of  recipes  is  not  indicated  by  the 
+manufacturer  in  the  instructions  booklet. 
+
+NoTK  —  In  case  the  input,  differs  with  various  kinds  of  recipes  indicated  in  the 
+instructions  booklet,  the  normal  load  shall  correspond  to  the  highest  input. 
+
+3.  GENERAL  REQjUIREMENTS 
+
+3.1  The  provisions  of  3  of  IS  :  302-1979*  shall  apply  in  addition  to  3.2. 
+
+3.2  The  external  finish  used  on  metal  components  shall  be  of  heat  and 
+moisture  resisting  nature  and  shall  not  be  adversely  affected  by  variations 
+in  temperature  occuring  under  normal  operating  conditions  or  during  the 
+endurance  test.  The  external  finish  of  the  body  of  the  food-mixer  shall 
+not  become  stained  due  to  spillage  of  food-stuff  from  the  bowl  of  the  food- 
+mixer. 
+
+4.  GENERAX  NOTES  ON  TESTS 
+
+4.1  The  relevant  provisions  of  4  of  IS  :  302-1979*  shall  apply  except  as 
+stated  otherwise  in  individual  tests. 
+
+4.2  Unless  the  appliance  is  designed  to  be  fixed  in  normal  use,  it  is  tested 
+as  a  portable  appliance. 
+
+5.  RATING 
+
+5.1  Rated  Voltage  ~  The  provisions  of  5.1  of  IS:  302-1979*  shaii 
+apply. 
+
+5.2  Rated  Inpat  —  The  rated  input  shall  not  exceed  600  watts. 
+
+5.3  Rated  Capacity  —  The  rated  capacity  shall  be  the  maximum 
+specified  quantity  handled  by  the  unit  for  each  complete  cycle  of  operation. 
+The  value  shall  be  declared  by  the  manufacturer. 
+
+5.3.1  The  recommended  rated  capacities  are  as  under: 
+
+a)  For  liquidizers  0-5,  0'75,  1,  1-25  and  15  litres 
+
+b)  For  grinders  50,  75  and  100  ml 
+
+
+'General  and  safety  requirements  for  household  and  similar  electrical  appliances 
+(jS/)A  revision ) . 
+
+
+lSt«250-1980 
+
+6.  GLASSmCATION 
+
+€.1  The  relevant  provisions  of  6  of  IS  :  302-1979*  shall  apply. 
+
+7.1  The  relevant  provisions  of  7  of  IS  :  302-1979*  shall  apply  in  addition 
+to  those  indicated  in  7^  to  7.5. 
+
+7.2  Each  appliance  shall  be  accompanied  by  an  instructions  booklet 
+containing  the  following  information: 
+
+a)  Precautions 
+
+
+1)  While  positioning  of  the  appliance,  and 
+
+2)  Before  switching  on  the  appliance. 
+
+
+b)  Warning 
+
+1}  About  the  parts  of  the  appliance  which  shall  not  be  brought 
+into  contact  with  liquids; 
+
+2)  About  keeping  away  from  moving  parts;  and 
+
+3)  About  running  the  appliance  empty,  if  necessary. 
+
+c)  Instructions 
+
+1)  For  assembling  and  dismantling  the  bowl  for  cleaning  and 
+servicing; 
+
+2)  Type  of  supply  to  which  the  appliance  may  be  connected, 
+and  instructions  for  electrical  connections; 
+
+3)  Instructions  to  the  affect  that  after  every  use  of  food-mixer, 
+pour  little  hot  water  into  the  bowl  to  remove  left  over 
+material,  specially  sticky  substances,  so  that  the  cutter  will 
+rotate  freely  during  the  subsequent  use;  and 
+
+4)  The  manufacturer  may  include  instructions  stating  that  the 
+machine  may  be  overhauled  at  least  once  in  a  year  so  that 
+its  useful  life  is  increased. 
+
+d)  Directions  to  switch  off  when  the  motor  stalls  or  smoke  emanates 
+from  the  appliance,  and 
+
+e)  Guide  for  operation  giving  maximum  quantity  per  loading  and 
+
+in  the  case  of  multi-speed  appliances  speed/control  pMitions 
+suitable  for  various  operations. 
+
+
+*Gedcral  and  safety  requirements  for  household  and  similar  electrical  aeplMQcei 
+
+Jijlh  revision). 
+
+
+IS  !  4250  -  1980 
+
+7.3  If  the  appliance  is  delivered  with  alternative  accessories,  the  rated 
+input  shall  correspond  to  the  most  unfavourable  accessory  and  speed 
+setting. 
+
+7.4  Marking  of  Control  Switch  —  The  '  on  '  or  *  off '  or  both  positions 
+of  the  control  switch  shall  be  clearly  marked.  If  any  speed  control  device 
+is  provided,  the  various  positions  shall  be  clearly  and  indelibly  marked. 
+
+7.5  Accessories  sold  separately  by  the  appliance  manufacturer  shall  be 
+accompanied  by  an  instructions  sheet  giving  all  relevant  information, 
+unless  it  is  included  in  the  manufacturer's  instructions  for  the  appliance. 
+
+7.6  The  appliance  may  also  be  marked  with  the  ISI  Certification  Mark. 
+
+NOTB  —  The  use  of  the  ISI  Certification  Mark  is  governed  by  the  provisions  of 
+the  Indian  Standards  Institution  ( Certification  Marks )  Act  and  the  Rules  and 
+Regulations  made  thereunder.  The  ISI  Mark  on  products  covered  by  an  Indian 
+Standard  conveys  the  assurance  that  they  have  been  produced  to  comply  with  the 
+requirements  of  that  standard  under  a  well-defined  system  of  inspection,  testing 
+and  quality  control  which  b  devised  and  supervised  by  ISI  and  operated  by  the 
+producer.  ISI  marked  products  are  also  continuously  checked  by  ISI  for  conformity 
+10  that  standard  as  a  further  safeguard.  Details  of  conditions  under  which  a 
+licence  for  the  use  of  the  ISI  Certification  Mark  may  by  granted  to  manufacturers 
+or  processors,  may  be  obtained  from  the  Indian  Standards  Institution. 
+
+8.  PROI^CTION  AGAINST  ELECTRIG  SHOCK 
+
+8.1  The  relevant  provisions  of  8  oi  IS  :  302-1979*  shall  apply. 
+
+9.  STARTING 
+
+9.1  The  relevant  provisions  of  IS  :  302-1979*  shall  apply.  However, 
+care  shall  be  taken  to  see  that  accidental  stalling  does  not  occur  during 
+the  test.  The  speed  control  shall  be  at  the  lowest  setting  and  the  test 
+shall  be  carried  out  under  normal  load  ( see  2.4 ). 
+
+10.  INPUT 
+
+10.1  The  input  of  the  tood-rnirer  shall  be  measured  with  the  normal  load 
+as  indicated  in  the  instruciioris  booklet  by  the  manufacturer.  For  ihe 
+purpose  of  this  test,  the  normal  load  shall  preferably  be  in  terms  of 
+weight/volume  of  the  food  required  for  operational  tests  indicated  in  34. 
+The  method  of  preparation  of  the  food  and  the  operating  time  shall 
+also  be  as  indicated  by  the  manufacturer.  If  the  appliance  is  either  a 
+simple  mixer  or  liquidizer,  the  input  shall  be  measured  for  th^ 
+corresponding  operation  only.    If  the  input  varies  considerably  during  the  • 
+
+
+•General  and   safety  requiremenu  for  household  and  similar  electrical  appliances 
+{jifih  revision). 
+
+
+IS  I  4250  -  IS^ 
+
+operation,  the  energy  consumed  is  measured  by  means  of  an  energy 
+meter  and  the  mean  value  of  the  input  is  determined  for  the  representative 
+period.  The  input  so  measured  shall  conform  to  10.1  of  IS  :  302-1979*. 
+If  the  normal  load  is  not  dejclared  by  the  manufacturer  this  test  shall  be 
+carried  out  under  loading  conditions  indicated  in  34u2  and/or  34.3  and/ 
+or  34.4. 
+
+11.  TEMFERATURE-RISE 
+
+11.1  The  relevant  provision  of  11  of  IS  :  302-1979*  shall  apply  in  addition 
+to  the  following. 
+
+11.2  The  food-mixer  is  opet-ated  under  conditions  of  normal  loading 
+{see  2.4)  while  connected  to  the  supply  circuit  at  the  maximum  rated 
+voltage.  To  obtain  normal  loading  conditions,  the  mixer  bowl  (  generally 
+liquidizer)  shall  be  filled  with  lubricating  oil  or  mixture  of  oils,  paper 
+pulp  and  water  or  any  other  suitable  material  as  to  give  consistently  the 
+normal  loading  ( in  watts ). 
+
+11.3  The  temperature  of  any  material  or  insulation  which  may  be  exposed 
+to  excessive  temperature  during  the  operation  of  the  appliance  shall  be 
+measured.  The  values  measured  shall  not  exceed  the  values  specified 
+in  Table  1  of  IS  :  302-1979*  when  measured  by  the  methods  indicated 
+therein. 
+
+12.  OPERATION      UNDER      OVERLUAU     CONDITIONS     OF 
+APPLIANCES  WITH  HEAffi^  EEEKIENTS 
+
+12.1  Clause  12  of  IS  ;  302-1979*  does  not  appiy. 
+
+13.  ELECIRICAL  INSULATION  AND  LEAKAGE  CURRENT 
+AT  OPERATING  TEMPERATURE 
+
+13.1  The  relevant  provisions  of  13  of  IS  :  302-1979*  shall  apply  except 
+that  the  provisions  of  13.4  are  not  applicable. 
+
+14.  RADIO  AND  TELEVISION  INTERFERENCE  SUPPRESSION 
+
+14.1  The  relevant  provisions  of  14  of  IS  :  302-1979*  shall  apply. 
+
+15.  MOISTURE  RESISTANCE 
+
+15.1  The  relevant  provisions  of  15  of  IS  :  302-1979*  shall  apply  except 
+that  the  spillage  test  shall  be  carried  out  as  given  in  15,2. 
+
+
+•General  and  safety  requirements  for  household  and  similar  eltctricul  appliances 
+ijijih  revision ). 
+
+8 
+
+
+IS  :  4250  - 1980 
+
+15.2  Spillage  —  The  bow]  shall  be  completely  filled  with  water,  and  a 
+further  quantity  of  water,  equal  to  15  percent  of  the  volume  of  the  bowl 
+shall  be  poured-in  slowly  over  a  period  of  one  minute.  In  the  case  of 
+completely  closed  lidless  bowls  20  percent  by  volume  of  the  bowl  shall  be 
+slowly  poured  over  the  centre  of  the  bowl. 
+
+15.2.1  The  machine  shall  then  withstand  the  tests  specifiad  in  16.3  and 
+16.4of  IS:  302-1979* 
+
+16.  INSULATION  RESISTANCE  AND  ELECTRIC  STRENGTH 
+
+16.1  The  relevant  provisions  of  16  of  IS  :  302-1979*  shall  apply. 
+
+17.  OVERLOAD  PROTECTION 
+
+17.1  Clause  17  of  IS  :  302-1979*  is  not  applicable. 
+
+18.  ENDURANCE 
+
+18.1  The  relevant  provisions  of  18  of  IS  :  302-1979*  shall  apply  with  the 
+modifications  mentioned  in  18.2  to  18.4. 
+
+18.2  The  food-mixer  shall  be  operated  for  500  cycles  with  '  ON  '  and  • 
+'OFF'  times  as  marked  by  the  manufacturer  in  case  of  food-mixers 
+intended  for  intermittent  operation.  In  case  of  short  time  rated  food- 
+mixers,  the  appliance  shall  bs  operated  for  500  cycles,  the  *  ON '  time  shall 
+be  as  marked  on  the  name  plate  and  the  *  OFF '  time  shall  be  the  tims 
+required  to  return  back  to  approximately  ambient  temperature. 
+
+18.3  Food-mixers  which  can  be  operated  at  different  speeds  shall  be 
+operated  at  the  highest  speed  setting. 
+
+18.4  Food-mixers  may  be  operated  with  artificial  load  as  indicated  in  11.2 
+provided  the  input  is  same  as  that  obtained  under  normal  load. 
+
+19.  ABNORMAL  OPERATION 
+
+19.1  The  relevant  provisions  of  19  of  IS  :  302-1979*  shall  apply  except 
+that  the  provisions  of  19.2  to  19.5  are  not  applicable. 
+
+20.  STABILITY  AND  MECHANICAL  HAZARDS 
+
+s 
+
+20.1  The  relevant  provisions  of  20  of  IS  :  302-1979*  shall  apply  except 
+that  the  test  finger  test  specified  at  20.2  is  carried  cut  with  the  lid  placed 
+on  the  bowl  and  the  bowl  placed  on  the  pedestal. 
+
+
+'General  and  safety  requirements  for  household  and  similar   electrical  appliance* 
+{Jiflhumsion ) , 
+
+
+IS  :  4250  -  1980 
+
+21.  MECHANICAL  STRENGTH 
+
+21.1  The  relevant  provision  of  21  of  IS  :  302-1979*  shall  apply. 
+
+22.  CONSTRUCTION 
+
+22.1  The  relevant  provisions  of  22  of  IS  :  302-1979*  shall  apply  in 
+addition  to  those  specified  in  22.2  to  22.10. 
+
+22.2  The  machine  shall  be  compact,  self-contained,  and  of  rigid 
+construction. 
+
+22.3  All  parts  required  to  be  cleaned  and  kept  in  a  hygienic  Condition  shall 
+be  readily  accessible  without  the  use  of  special  tools. 
+
+22.4  All  castings  and  other  materials  required  to  be  handled  shall  be 
+smooth,  round  edged,  free  from  blow  holes,  pits,  foreign  matter  and 
+surface  imperfections. 
+
+22.5  Machined  and  formed  parts  shall  be  made  to  ensure  complete 
+interchangeability  and  parts  subject  to  wear  shall  easily  replaceable. 
+
+22.6  In  the  case  of  liquidizers,  a  lid  shall  be  provided  to  retain  food  during 
+preparation.  It  shall  be  so  designed  as  to  remain  secured  to  the  appliance 
+during  its  extended  operation.  A  breather  incorporated  either  in  the  lid 
+or  in  a  stopper  to  be  connected  to  the  lid  shall  also  be  provided. 
+
+22.7  In  the  case  of  grinder  with  the  bowl  of  the  open  type  a  Hd  shall  be 
+provided. 
+
+22.8  The  design  shall  ensure  that  no  accidental  bodily  contact  is  made 
+with  the  cutters  or  blades  during  the  operation  of  the  machine. 
+
+22.9  The  machine  sh&ll  be  designed  to  ensure  that  lubricants  do  not 
+contaminate  the  food  and  that  food  is  prevented  from  reaching  the  moving 
+parts  of  the  machine  except  blades  and  cutters. 
+
+22.10  The  cutters  and  such  other  exposed  parts  of  the  machine  in  contact 
+with  food  shall  be  of  such  material  as  to  prevent  fouling  of  foodstuflTs  and 
+to  resist  corrosion  and  rusting.  Stainless  steel  is  one  such  material  which 
+can  meet  the  above  requirements. 
+
+23.  INTERNAL  WIRING 
+
+23.1  The  relevani  provisions  of  23  of  IS  :  302-1979*  shall  apply. 
+
+
+•General   and   safety   requirements  lor  household  and  similar  electricai  appliances 
+{fifih  revision  ). 
+
+10 
+
+
+IS  :  4250  -  19ft8 
+
+24.  COMPONENTS 
+
+24.1  The  relevant  provision*  of  24  of  IS  :  302-1979*  shall  apply  in 
+addition  to  the  following. 
+
+24.2  Body  or  the  Motor  Housing  —  It  shall  be  made  of  cast  iron, 
+cast  aluminium,  sheet  metal,  high  impact  thermosetting  plastics  or 
+thermoplastics  like  acrylonitrile-butadiene-styrene  ( ABS )  and  polypro- 
+pylene, of  adequate  strength  and  shall  provide  stability  to  the  machine 
+and  shall  also  withstand  all  stresses  encountered  during  normal  use. 
+Openings  for  ventilation  of  the  motor  shall  be  properly  screened  to  ensure 
+that  no  water,  dirt  or  vermin  can  enter  the  housing  during  normal  use. 
+
+24.3  Electric  Motor  —  For  satisfactory  performance  of  food-mixers,  it 
+is  recommended  that  the  motors  used  shall  generally  conform  to  the 
+requirements  of  IS  :  996-1 979t.  However,  if  there  are  any  deviations 
+between  the  requirements  of  IS  ;  996-1979f  and  those  of  this  standard, 
+the  provisions  of  the  latter  shall  apply.  It  may  be  provided  with  facility 
+to  operate  at  jnore  than  one  speed. 
+
+24.4  Controls  —  Switches  shall  conform  to  the  provisions  of  36.1. 
+They  may  have  stable  positions  for  operation  at  various  speeds.  However, 
+they  may  have  a  non-hoiding  quick  action  position  for  instantaneous 
+operation  extending  over  controlled  short  durations 
+
+24.5  Mechanical  Power  Coupling  —  The  coupling  shall  be  flexible 
+and  shall  be  fabricated  out  of  materials  which  shall  not  deteriorate  with 
+extended  normal  use  of  500  cycles  as  indicated  in  18.  It  shall  be  able  to 
+withstand  shocks  and  vibrations  of  power  transmission  and  speed  changes 
+( in  case  of  multi-speed  machine ).    It  shall  be  easily  replaceable. 
+
+24.6  Bearings  —  The  bearings  may  be  of  the  sleeve  or  ball  type.  They 
+shall  be  permanently  lubricated.  The  bearings  shall  have  a  life  of  at 
+least  500  cycles  as  indicated  in  18. 
+
+24.7  Bowl  —  The  container  or  the  bowl  in  which  food  is  converted  into 
+slurry,  pulp  or  other  liquids  or  in  which  dry  food  is  pulverized  shall  be 
+made  out  of  materials  which  are  neutral  to  food  acids  and  salts,  which 
+do  not  deteriorate  with  age  and  which  are  able  to  withstand  temperatures 
+up  to  lOO'C  without  change  in  their  physical,  mechanical  and  chemical 
+structures  and  properties.  Preferred  materials  are  clear  or  coloured  or 
+milky  glass,  clear  or  coloured  high  impact  thermosetting  plastic  or  stainless 
+steel.  The  bowl  shall  be  easily  removable  from  the  machine,  and  shall 
+be  free  from  pits,  cracks  and  crevices.  It  shall  be  smooth  and  shall  not 
+have  corners  and  niches,  to  facilitate  cleaning.     The  fixing  arrangement 
+
+
+'General  and  wifety  requirements  for  household  and  similar  electrical  appliances 
+{fifth  ttoisim ). 
+
+tSpeciiication  for  single-phase  small  ac  and  univenal  electric  motors  {first  rnifm ). 
+
+11 
+
+
+IS  :  4250  -  1980 
+
+of  the  Ijoul  shall  be  adecjiiately  strong  to  stand  repeated  operations.  It 
+may  be  fitted  with  handling  grips. 
+
+24.8  Assembly  —  The  bowl  shall  have  arrangements  for  its  stable  and 
+eaisy  mounting  on  the  motor  hovislng  without  the  use  of  any  tools. 
+Accurate  guides  shall  be  provided  to  ensure  correct  mounting.  Where 
+thfe  bowl  is  detachable  from  base  plate,  a  proper  gasket  shall  be  provided, 
+alio  mechanical  seal  for  leak-proof  assembly  shall  be  provided.  It  shall 
+be  possible  to  remove  the  bowl  with  base  plate  if  provided  separately  as 
+one  assembly  for  the  purposes  of  emptying  the  contents. 
+
+24r3  Blades  of  Cutters  —  The  material  of  the  blades,  of  cutters  shall  be 
+staiinless  steel. 
+
+25*  SUPPLY     CONNECTIONS      AND     EXTERNAL     FLEXIBLE 
+CABLES  AND  CORDS 
+
+25.1  The  relevant  provisions  of  25  of  IS  :  302-1979*  shall  apply  except 
+that  the  provisions  of  25.2,  25.3,  25.8,  25.9,  25.14  are  not  applicable. 
+
+26.  TERMINALS  FOR  EXTERNAL  CONDUCTORS 
+
+26.1  The  relevant  provisions  of  26  of  IS  :  302-1979*  shall  apply. 
+
+27.  PROVISION  FOR  EARTHING 
+
+27.1  The  relevant  provisions  of  27  of  IS  :  302-1979*  shall  apply. 
+
+28.  SCREWS  AND  CONNECTIONS 
+
+28.1  The  relevant  provisions  of  28  of  IS  :  302-1979*  shall  apply. 
+
+29.  CREEPAGE    DISTANCES,    CLEARANCES   AND  DISTANCES 
+THROUGH  INSULATION 
+
+29.1  The  relevant  provisions  of  29  of  IS  ;  302-1979*  shall  apply. 
+
+30.  RESISTANCE  TO  HEAT,  FIRE  AND  TRACKING 
+
+30.1  The  provisions  of  30.1  and  30.2  of  IS  :  302-1979*  shall  apply.  The 
+provisions  of  30.3  of  IS  :  302-1979*  are  not  applicable. 
+
+31.  RESISTANCE  TO  RUSTING 
+
+31.1  The  provisions  of  31  of  IS  :  302-1979*  shall  apply. 
+
+32.  RADIATION 
+
+32.1  Clause  32  of  IS  :  302-1979*  is  not  applicable. 
+
+
+•Central    and    safety  requirements  lor  household  and  similar  electrical  appliances 
+(fifth  nvision  ). 
+
+!2 
+
+
+IS  :  4250  -  1960 
+
+33.  FINISH 
+
+33.1  The  relevant  provisions  of  33  of  IS  :  302-1979*  shall  appiy. 
+
+34.  OPERATIONAL  TESTS 
+
+34.1  The  food-mixers  shall  be  subjected  to  such  of  the  following  operational 
+tests  for  which  it  is  declared  suitable  by  the  manufacturer  with  the  mixer 
+connected  in  a  circuit  with  a  watt-meter  and  supplied  with  the  maximum 
+rated  voltage.  The  tests  with  the  recipes  shall  generally  be  conducted  as 
+per  the  method  specified  in  the  instructions  booklet  for  the  corresponding 
+recipes.  However,  if  the  method  for  making  the  recipes  is  not  given  in 
+the  instructions  booklet,  the  methods  given  in  34.2,  34.3  .-nd  34.4  shall  be 
+followed.  The  total  time  of  actual  operation  of  the  machine  in  each 
+test  shall  be  noted  and  recorded  with  a  stop-watch  or  a  similar  device. 
+When  the  food-mixer  is  of  intermittent  operation  type,  each  maxinium 
+period  of  operation  during  the  test  shall  be  equal  to  the  period  marked 
+and  each  period  of  rest  shall  at  least  be  equal  to  the  rest  period  marked. 
+
+34.2  Grinding  Coffee  ( For  Machines  Which  Have  a  Dry  Grinding 
+Arrangement )  —  Freshly  roasted  coffee  seeds  corresponding  to  the 
+grading  'Light  roast '  of  IS  :  3077-1972t  shall  be  used  for  this  test.  The 
+weight  of  seeds  in  grams  shall  be  40  percent  of  the  rated  capacity  in 
+millilitres  bf  the  grinder  bowl  of  the  machine  under  test.  The  seeds  shall 
+be  ground  for  an  operational  time  of  3  minutes  or  less  and  the  total  time 
+including  periods  of  rest  shall  not  exceed  5  minutes.  If  required,  the 
+material  adhering  to  the  sides  and  cover  may  be  scrapped  and  loosened 
+with  a  spoon,  once  during  the  test,  when  the  machine  is  at  rest.  At  the 
+end  of  the  test  the  material  shall  be  removed  and  weighed. 
+
+The  result  of  grinding  shall  be  assessed  by  sieving  successively 
+through  the  following  Indian  Standard  Sieves^: 
+
+710.  500  and  355  microns 
+
+The  method  of  sieving  indicated  in  IS:  3077-1 972t  shallbe  used. 
+The  material  retained  on  each  of  the  first  two  sieves  shall  not  be  more 
+than  20  percent  of  the  weight  obtained  at  the  end  of  the  test.  The 
+material  passing  through  the  third  sieve  shall  not  be  less  than  30  percent 
+of  the  same  weight. 
+
+NoTB  —  It  is  recommended  that  coiFee  seeds  of  the  '  Peabury  '  variety  supplied 
+by  the  Ck>ff'ee  Board,  are  used  for  this  test. 
+
+
+'General  and  safety  requirements  for  household  and  similar  electrical  appliances 
+{fijih  revision ) . 
+
+fSpecification  for  roasted  and  ground  coffee  {fast  rnisim ). 
+
+{Sieve  designations  are  according   to  IS  :  4€0-l%2    Specification   for  test    sieves 
+
+(rmstd). 
+
+13 
+
+
+IS  :  4250  -  1980 
+
+34.3  Whisking  Egg  h^ltiites  —  Fresh  eggs  shall  be  used  for  this  test. 
+The  whites  shall  be  carefully  separated  and  used  at  once.  The  weight  in 
+grams  of  the  egg  whites  used  in  a  test  shall  be  20  percent  of  the  rated 
+capacity  of  the  liquidizer  bowl  in  millilitres.  The  egg  whites  shall  be 
+initially  at  room  temperature.  They  shall  be  whisked  in  the  machine  to 
+produce  a  stiff  froth.  The  actual  operational  time  required  shall  not 
+exceed  3  minutes,  and  the  total  time  including  periods  of  rest  shall  not 
+exceed  5  minutes.  The  result  shall  be  considered  satisfactory  if  the  bowl 
+is  inverted  for  5  seconds  and  the  material  remains  in  tlie  bowl, 
+
+34.4  IDLI  Batter  — The  general  procedure  for  preparing  the  IDLl 
+batter  is  to  take  decuticled  black  gram  (  URAD  DAL  )  and  parboiled  rice 
+in  the  proportions  1  :  2  by  mass,  soak  them  separately  in  the  required 
+quantity  of  water  for  12  hours  and  then  to  grind  them  separately  before 
+mixing  them  together.  The  black  gram  is  ground  to  a  smooth  and  frothy 
+consistency,  and  the  rice  is  ground  to  a  fine  semolina  in  water. 
+
+For  the  purpose  of  this  test  the  solid  ingredients  shall  be  taken  in 
+the  weights  specified  below  for  different  sizes  of  liquidizer  bowls  and 
+soaked  in  the  quantity  of  water  shown  against  each  mass  of  solid.  The 
+soaked  solid  with  the  unabsorbed  water  shall  then  be  transferred  to  the 
+bowl  and  ground.  Excess  water  to  the  extent  of  20  percent  can  be  added 
+as  and  when  needed  for  achieving  smooth  grinding  results  during  grinding. 
+
+
+(I  Capacity 
+Bowl 
+
+of 
+
+Bla 
+
+ck  Gram 
+Water 
+
+Parboiled  Rice 
+
+Solids 
+
+Solids 
+
+Water 
+
+litres 
+
+^ 
+
+ml 
+
+g 
+
+ml 
+
+0-5 
+
+100 
+
+225 
+
+100 
+
+113 
+
+I-O 
+
+200 
+
+450 
+
+200 
+
+225 
+
+1-5 
+
+300 
+
+675 
+
+300 
+
+338 
+
+NoTiG  —  For  intermediate  capacities  the  quantity  pf  solid  ingredients  shall  be 
+fixed  by  interpolation. 
+
+The  maximum  operational  time  for  grinding  each  ingredient  shall 
+be  6  minutes  with  a  period  of  rest  as  recommended  by  the  manufacturer. 
+
+NoTK  —  To  prepare  a  batter  with  the  black  trram  and  rice  in  the  proportions 
+1  :  2  requires  two  batches  of  rice  to  be  ground  for  every  batch  of  black  gram.  For 
+the  present  test  one  batch  of  each  will  suffice  as  the  results  of  grinding  are  assessed 
+without  completing  the  mixture  and  cooking  it  in  the  form  of  IDIIS. 
+
+The  results  of  grinding  the  bl^ck  gram  are  assessed  by  working 
+the  mixture  between  the  thumb  and  fingers.  The  mixture  shall  be 
+smooth  and  frothy  and  no  lumps  shall  be  detected. 
+
+14 
+
+
+IS  I  4250  -  I9m 
+
+The  results  of  grinding  the  rice  shall  be  assessed  by  diluting  the 
+ground  mixture  with  sufficient  quantity  of  clean  water  and  sieving  it 
+successively  through  the  following  Indian  Standard  Sieves: 
+
+r40  mm,  I'OO  mm  and  500  microns. 
+
+The  ground  material  from  the  bowl  is  recovered  as  fully  as  possible 
+by  rinsing  it  with  water,  the  same  water  being  then  used  for  dilution. 
+After  sieving,  the  water  from  the  material  retained  by  each  sieve  shall  be 
+allowed  to  drain  away  for  5  minutes  and  the  materia!  shall  then  be 
+recovered  and  weighed. 
+
+The  grinding  shall  be  considered  satisfactory  if  not  more  than 
+10  percent  of  the  mass  of  rice  originally  taken  is  retained  by  the  1*40  mm 
+sieve;  not  more  then  15  percent  by  the  100  mm  sieve  and  not  more  than 
+70  percent  by  the  0*5  mm  sieve. 
+
+35,  TEMPERATURE  WITHSTAND  TEST  FOR  BOWL 
+
+35.1  Boiling  water  shall  be  poured  into  the  bowl  at  room  temperature 
+rapidly  to  fill  it  to  its  capacity. 
+
+35.1.1  After  the  test  the  bowl  shall  be  emptied  and  brought  back  to 
+room  temperature.  The  test  shall  be  repeated  five  times.  The  bowl 
+shall  not  show  any  sign  of  cracks  and  deformation  and  shall  properly  fit 
+into  the  holder  after  the  test. 
+
+Note  — This  te»t  is  not  applicable  in  ca»e  the  bowl  is  made  of  meial. 
+
+36,  TEST  FOR  CONTROLS 
+
+36.1  Test  for  Switches — Controlling  switches  shall   be  capable  of 
+
+breaking  the  stalled  motor  current  at  the  maximum  rated  voltage  six 
+times  without  failure.  This  test  is  carried  out  on  dc  unless  the  jnachine 
+is  marked  *  ac  only  *.  (  For  the  purpose  of  these  tests  the  rated  capacity 
+shall  be  taken  as  equivalent  to  the  rated  input  of  the  machine. ) 
+
+36.2  Test  for  Speed  Regulators  —  Under  consideration. 
+
+37,  STRENGTH  OF  ASSEMBLY 
+
+37.1  The  bowl  shall  be  assembled  and  mounted  on  the  motor  housing 
+under  the  following  controlled  conditions  six  times.  There  shall  be  no 
+chipping,  cracking,  or  visible  denting  on  the  mating  surfaces: 
+
+a)  Press  fit  joints  using  a  force  of  25  kgf,  and 
+
+b)  Screwed  on  joints  using  a  screwing  couple  of  25  kgf.cro. 
+
+15 
+
+
+IS  t  4250  -  1980 
+
+38.  SCHEDULE  OF  TESTS 
+
+38.1  Type  Tests  —  The  tests  specified  in  Table   1   shall  constitute  type 
+tests  and  shall  be  carried  out  on  2  samples  of  the  food-mixers. 
+
+38.1.1  Criteria  of  Acceptance  —  All  the  samples  shall  successfully  pass  all 
+the  type  tests  for  proving  conformity  with  the  requirements  of  this 
+specification.  If  any  of  the  samples  should  fail  in  any  of  the  type  tests, 
+the  testing  authority,  at  its  discretion,  may  call  for  fresh  samples  not 
+exceeding  twice  the  original  number  and  subject  them  to  all  the  tests  or 
+the  test(s)  in  which  the  failure(s)  occurred.  No  failure  shall  be  permitted 
+in  the  repeat  testfs). 
+
+TABLE  1    TYPE  TESTS 
+
+{Clause  38.1  ) 
+
+Si,  Tests  Clause 
+
+No.  RKrEKBKCE 
+
+1 .  Protection  agaiast  electric  shock  8 
+
+2.  Starting  9 
+
+3.  Input  10 
+
+4.  Temperature- me  1 1 
+
+5.  Electrical  insulation  and  leakage  current  at  operating  temperature  13 
+
+6.  Moisture  resistance  15 
+
+7.  Insulation  resistance  and  electric  strength  16 
+
+8.  Endurance  18 
+
+9.  Abnormal  operation  19 
+10.  Stability  and  mechanical  hazards  20 
+1 ! .  Mechanical  strength  2 1 
+
+12.  Supply  connections  and  external  flexible  cables  and  cords  25 
+
+13.  Provision  for  earthing  27 
+
+14.  Screws  and  connections  2E 
+
+15.  Creepage  distances,  clearances  and  distances  through  insulation  29 
+
+16.  Resistance  to  heat,  fire  and  tracking  30 
+
+17.  Finish  33 
+
+18.  Operational  tests  3.4 
+
+19.  Temperature  withstand  test  for  bowl  35 
+
+20.  Test  for  controls  36 
+
+21.  Strength  of  assembly  37 
+
+16 
+
+
+IS  I  ^050- 1980 
+
+38.2  Acc«ptmBCC  Tetti  —  The    following  shall  constitute  acceptance 
+tests: 
+
+Tests  Clause  Reference 
+
+a)  Protection  against  Hlectric  shock  8 
+
+b)  Input  10 
+
+c)  Electrical    insulation    and    leakage  13 
+current  at  operating  temperature 
+
+d)  Moisture  resistance  1 5 
+
+e)  Insulation    resistance    and    electric  16 
+strength 
+
+f)  Provision  for  earthing  27 
+
+g)  Operational  tests  34 
+h)  Temperature  withstand  test  for  bowl  35 
+
+38.2.1  A  recommended  sampling  procedure  for  acceptance  test  is  given 
+in  Appendix  B  of  IS:  302-1979*. 
+
+38.3  Roatin*  Te«t»  — The  following  shall  constitute  routine  tests: 
+
+Tests  Clause  Reference 
+
+a)  Protection  against  electric  shock  8 
+
+b)  High  voltage  13 
+
+c)  Provision  for  earthing  27 
+
+NoTK  I  —  High  voltage  teit  as  a   routine  tett   may  compriie  the  fiatb  teit 
+specified  in  133.2  of  IS  t  302- 1979*. 
+
+Not*  2  —  A  simple  running  test  to  verify   satisfactory  functioniog  shall  be 
+conducted  on  every  food-mixture. 
+
+
+*Oeaerftl  and  iftfety  requifements  for  houieliold  and  liinUar  electrical  appliances 
+(J^rmmm) 
+
+17 
+
+
+INDIAN    STANDARDS 
+
+ON 
+
+ELECTRICAL  APPLIANCES 
+
+
+IS: 
+
+302-1979  General    and    safety    requirements    for   household  and  stmtUr  electrical 
+appliances  {fifth  revision  ) 
+
+365-1965  Electric  hot  plates  (  revised  ) 
+
+366-1976  Electric  irons  (  second  revision  ) 
+
+367-1977  Electric  kettles  and  jugs  for  household  amd  timilar  use  ( steond  taisita  ) 
+
+368-1977  Elr'ctric  immersion  water  heaters  (  second  retdsion  ) 
+
+369-1965  Electric  radiators  ( revised ) 
+
+939-1980  Electric  soldering  irons  ( second  revision  ) 
+
+1287-1965  Electric  toasters  ( reoireii ) 
+
+1401-1970  Assessibility  teat  probes  (/«t  revision  ) 
+
+1415-1966  Electric  hand  lamps  ( revised ) 
+
+M16-1972  Safety  transformer  { first  revisim  ) 
+
+2062-1965  Storage  type  automatic  electric  water  heaters  (  revised )  ' 
+
+22^-1966  Electric  call  bells  and  buzzers  for  indoor  use  ( revised  ) 
+
+2994-1965  Electric  stoves 
+
+3010  (Part  I )- 1965     Appliance-connectors     and      appliance-inlett       ( non-revenible 
+
+three-pin  type ):  Part  1  Appliance  connectors 
+3010  ( Part    II  )-1965    Appliance-connectors    and     appliance-inlets       non-revenible 
+
+three-pin  type):  Part  II  Appliance  inlets 
+
+3017-1965  Thermostats  for  use  with  electric  water  heaters 
+
+3412-1963  Electric  water  boilers 
+
+3481-1966  Electric  portable  lamp  stands  and  brackets 
+
+3514-1966  Electric  coffee  percolators  (  non-regulator  type ) 
+
+3724-1966  Cartridge  type  heating  elements  ( non-embedded  type  ) 
+
+3725-1966  Resistance  wires,  tapes  and  strips  for  heating  elemenU 
+
+4158-1967  Solid  embedded  type  electric  heating  elements 
+
+4159-1976  Mineral  filled  sheathed  heating  elements  {first  revision  ) 
+
+4165-1967  Thermostats  for  general  purpose  electric  ovens 
+
+4250-1980  Domestic  electric  ibod  mixers  (  liquidizers  and  grinders)  {first  remim) 
+
+5159-1969  Mains-operated  electric  shavers 
+
+5160-1969  Mains-operated  synchronous  clocks 
+
+5161-1969  Flexible  electric  heating  pads  for  domestic  use 
+
+5579-1970  Neon  testers 
+
+5790- 197G  Domestic  electric  cooking  ovens 
+
+6290-197 1  Steam  irons 
+
+6365-197!  Laboratory  electric  ovens 
+
+6390-1971  Domestic  electric  clothes  washing  machines  ( iron-automatic) 
+
+6446-1972  Mica  insulated  heating  elements  ' 
+
+7137-1973  Portable,  hand  held  mains-operated  electric  massagers 
+
+7154-1973  Mains-operated  electric  hair-dryers' 
+
+7603-1975  Portable  low  spe^  food  grinding  machioef 
+
+8506>1977  Laboratory  electrical  resistance  furnaces 
+
+
+BUREAU     OF     INDIAN     STANDARDS 
+
+
+Headquarters  : 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  NEW  DELHI  110002 
+Telephones  ;  331  01  31  Telegrams  ;  Manaksanstha 
+
+331  13  75  (Common  to  all  Offices) 
+
+
+Regional  Offices  : 
+
+Central  :  Manak  Bhavan,  9,  Bahadur  Shah  Zafar  Marg, 
+
+NEW  DELHI  110002 
+♦Eastern  :  1/14  C.l.T.  Scheme  VH  M. 
+
+V.i.P.  Road,  Maniktola,  CALCUTTA  700054 
+Northern       :  SCO  445-446,  Sector  35-C,  CHANDIGARH  160036 
+Southern      :  C.l.T.  Campus,  IV  Cross  Road,  MADRAS  600113 
+f  Western         :  Manakalaya,  E9  MIDC,  Marol,  Andheri  (East), 
+BOMBAY  400093 
+Branch  Offices  : 
+
+'Pushpak',  Nurmohamed  Shaikh  Marg,  Khanpur,  AH  M  ADAS  AD  380001 
+X  Peenya  Industrial  Area,  1st  Stage,  Bangalore-Tumkur  Road, 
+
+BANGALORE  560058 
+Gangotri  Complex,  5th  Floor,  Bhadbhada  Road,  T.T.  Nagar, 
+
+BHOPAL  462003 
+Plot  No-  82/83,  Lewis  Road,  BHUBANESHWAR  751002 
+Kalai  Kathir  Building,  6/48-A  Avanasi  Road,  COIMBATORE  641037 
+Quality  Marking  Centre,  N-H-  IV,  N-LT-,  FARIDABAD  121001 
+Savitri  Complex,  116  G.  T    Road,  GHAZIABAD  201001 
+53/5  Ward  No.  29,  R.G.  Barua  Road,  5th  By-lane, 
+
+GUWAHATl  781003 
+5-8-56C  L.  N.  Gupta  Marg,  (  Nampally  Station  Road  ) 
+
+HYDERABAD  500001 
+R14  Yudhister  Marg,  C  Scheme,  JAIPUR  302005 
+117/418  B  Sarvodaya  Nagar,  KANPUR  208005 
+Plot  No.  A-9,  House  No.  561/63,  Sindhu  Nagar,  Kanpur  Road, 
+
+LUCKNOW  226005 
+Patliputra  Industrial  Estate,  PATNA  800013 
+District  Industries  Centre  Complex,  Bagh-e-Ali  Maidan,. 
+
+SRINAGAR  190011 
+T.C.  No.  14/1421,  University  P.O.,  Palayam, 
+
+THIRUVANANTHAPURAM  695034 
+Inspection  Offices  (With  Sale  Point)  '. 
+Pushpanjali,  First  Floor,  205-A  West  High  Court  Road, 
+
+Shankar  Nagar  Square,  NAGPUR  440010 
+Institution  of  Engineers  (India)   Building,  1332  Shivaji  Nagar, 
+
+PUNE  411005 
+
+
+"Sales  Office  Calcutta  is  at  5  Chowringhee  Approach, 
+
+P.  0.  Prinoep  Street,  CALCUTTA 
+
+t    Sales  Office  is  at  Novelty  Chambers,  Grant  Road,  BOMBAY 
+
+%  Sales  Office  is  at  Unity  Building,  Narasimharaja  Square, 
+
+BANGALORE 
+
+
+Telephone 
+
+C  331  01  31 
+
+i331  13  75 
+
+37  86  62 
+
+218  43 
+
+41  29  1 6 
+
+6  32  92  95 
+
+
+2  63  48 
+39  49  55 
+
+55  40  21 
+
+5  36  27 
+2  67  05 
+
+8-71  19  96 
+
+3  31  77 
+
+23  1 0  83 
+
+6  34  71 
+21  68  76 
+
+5  55  07 
+
+6  23  05 
+
+
+6  21  04 
+
+52  51  71 
+5  24  35 
+
+27  68  CO 
+
+89  65  28 
+22  39  71 
+
+
+Printed  at  Dee  Kay  Printers,  New  Delhi,  India 
+
+
+o 
+
+
+AMENDMENT  NO,  1   JULY  1983 
+
+TO 
+
+IS:4Z50-1980  SPECIFICATION  FOR  DOMESTIC  ELECTRIC 
+FOOD-MIXERS  (LIQUIDIZERS  AND  GRINDERS) 
+
+(First  Revision) 
+
+Addenda^ 
+
+{Page  9,  clause  18*4)   -  Add  the  following  notes 
+after  l8.U: 
+
+*NOTE  1  -  0»tt  of  total  of  500  cycles  of 
+operations,  250  cycles  shall  be  carried  out  at  1.1 
+times  the  rated  voltage  and  the  remaininf^  250 
+cycles  at  0.9  times  the  rated  voltage, 
+
+NOTE  2  -  During  the  test ,  brushes  should  be 
+inspeciied  and  only  one  replacement  (if  necessary) 
+by  spare  brushes  supplied  by  nianufacturer  is 
+alloved . * 
+
+(Page  IB^  clause   25,7)  -  Add  the  following  note 
+after  25.1: 
+
+'NOTE  -  For   rated  ciirrent  up  to  3A>  a  nominal 
+cross-sectional  eirea  of  0.5  mni^  is  allowed  pro- 
+vided the  length  of  the  cord  does  not  exceed  2  m. ' 
+
+
+(ETDC  U3) 
+
+
+I  i=f|      AMENDMENT  NO.  2        JANUARY  1986 
+
+^^  '  TO 
+
+IS  :  4250  - 1980    SPECIFICATION  FOR 
+
+DOMESTIC  ELECTRIC  FOOD-MIXERS 
+
+(  LIQUIDIZERS  AND  GRINDERS  ) 
+
+(First  Re^Uion } 
+
+(  Cover  Page,  Pages  \  and  3,  Title  )  —  Substitute  the  foilowing  for  the 
+existing  title: 
+
+'  Indian  Standard 
+
+SPECIFICATION  FOR  DOMESTIC  ELECTRIC 
+
+FOOD-MIXERS  (LIQUIDIZERS  AND  GRINDERS) 
+
+AND  CENTRIFUGAL  JUICERS 
+
+( First  Revision ) ' 
+
+( Page  3,  clause  0.3  )  —  Substitute    the  foilowing   for   the   existing 
+clause: 
+
+*0»3  This  standard  covers  general  and  safety  requirements  of  domestic 
+electric  food-mixers  and  centrifugal  juicers  used  for  mixing  liquids,  making 
+^slurries  or  pulps  of  food  and  for  pulverizing  dry  foodstuffs  and  extracting 
+juije  from  fruits  and  vegetables  on  the  principle  of  centrifugal  system.' 
+
+(  Page  3,  clause  0.4  )  —  Add  tlie  following  at  the  end  of  the  clause: 
+
+*IEC  Pub  619  Methods  of  measuring  performance  of  electrically 
+operated  food  preparation  machines.  International  Electro- 
+technical  Commission.* 
+
+(  Page  4,  clause  1.1  )  -—  Substitute  the  following  for  tnc  existing 
+clause: 
+
+'1*1  This  standard  covers  electric  motor  driven  food-mixers  (  grinders  and 
+liquidizers )  and  centrifugal  juicers  intended  for  domestic  use  and  designed 
+for  operation  at  voltages  not  exceeding  250  V,  Multipurpose  machines 
+which  are  used  together  with  certain  accessories  arc  also  covered  by  this 
+standard  as  far  as  it  applies.' 
+
+
+( Page  5,  clause  2.4  )  —  Substitute  the  following  for  the  exist- ng 
+clause: 
+
+'2.4  Normal  Load 
+
+2.4.1  For  the  Food  Mixers  —  Denotes  the  load  obtained  when  the  appli- 
+ance is  operated  under  the  load  indicated  in  the  instructions  booklet  in 
+terms  of  recipes  (  can  be  different  for  grinder  and  liquidizer  )  or  the  load 
+necessary  to  attain  the  rated  input  (  including  the  tolerance  }  at  rated 
+voltage  in  case  the  actual  load  in  terms  of  recipes  is  not  indicated  by  the 
+manufacturer  in  the  instructions  booklet. 
+
+Note  —  In  case  the  irtp'jt  differs  with  various  kinds  of  recipes  indicated   in  the 
+itistructioQs  booklet,  the  normal  load  shall  correipond  to  the  highest  input. 
+
+2.4.2  For  the  Juicers 
+
+jYormal  Load  —  The  load  necessary  to  attain  rated  input  at  rated 
+voltage  when  the  rated  input  is  marked  on  the  juicer  or  the  load  obtained 
+when  the  appliance  is  operated  under  the  conditions  given  below: 
+
+a)  For  juicers  for  batch  operation;  for  ten  period  during  eadi  of 
+which  the  juicer  is  supplied  with  D-3  kg  of  carrots  for  2  minutes 
+unless  otherwise  indicated  in  the  manufacturers'  instruction, 
+sheet  with  test  period  of  2  minutes  between  each; 
+
+b)  For  juicers  for  continuous  operation;  for  30  minutes,  the  juicer 
+being  supplied  gradually  with  5  kg  of  carrots. 
+
+The  pusher  if  any,  is  pressed  with  a  force  of  5  N  against  the 
+carrots. 
+
+The  carrots  are  soaked  in  water  for  approximately  24  hour*  before 
+the  test  is  started.  ' 
+
+(  Pa^e  5,  clause  2.4.2  )  —  Add  the  following  new  clauses  after  2.4.2: 
+
+*2J  Centrifugal  Jaicer  ~  An  appliance  or  attachment  designed  to 
+remove  juice  from  fruits  or  vegetables  by  cutting  into  pieces  smd  by 
+centriiugal  action. 
+
+2i6  Cycte  of  Operation  —  The  operations  of  juice  extraction,  dismant- 
+ling ior  removal  of  fluff  (waste  )  and  cleaning  and  reassembly. 
+
+2.7  BatcH  Operation  —  The  operation  of  a  juicer  where  the  quantity 
+of  input  o.*"  the  fruits  or  vegetables  is  limited  by  the  capacity  of  the 
+vessel  providcvi  for  the  collection  of  cither  the  juice  extracted  or  the  fluff 
+(  waste  )  without  overHowitig. 
+
+2.8  Continnoaa  Operation  —  The  operation  of  a  juicer  where  the 
+quantity  of  input  of  the  fruits  or  vegetables  is  not  limited  by  the  capacity 
+of  the  vessel  provided  for  the  collection  of  cither  the  juice  extracted  or 
+the  fluff  (  waste).' 
+
+
+[  Page  5,  clause   5.3.1(b)  ]  —  Add  the  following  at  the  end: 
+*  c)  For  juicers  —  As  declared  by  the  manufacturer, ' 
+
+{Page   6,   clause   7.2(c),    (3),  Jirsl  /iW  ]  — Substitute   •  food- mixer/ 
+juicer  'for  •food-mixer  '. 
+
+{Page  7,  clause  10.1 ,  Jirst  line  )  —  Substitute  *  food-mixer /juicer ' /or 
+
+*  food- mixer  '. 
+
+(  Page  8,  clause  11.2,  first  line  )  —  Substitute  •  food-mixer/ juicer  *  for 
+
+*  food-mixer  '. 
+
+(  Page  0,  clause  11.2  )  —  Add  the  following  clause  after  this  clause 
+and  renumber  the  subsequent  clause: 
+
+*  11.3  The  appliance  is  operated: 
+
+a)  for  appliances  for  intermittent  operation,  for  the  consecutive 
+cycles  of  operation  until  steady  conditions  are  established,  the 
+'  ON  '.  and  '  OFF  '  periods  being  the  '  ON  '  and  '  OFF  *  periods 
+as  declared; 
+
+b)  for  appliances  for  short  time,  operation  having  *  ON '  time  of  not 
+more  than  5  minutes,  for  the  *  ON  '  time; 
+
+c)  for  appliances  for  short  time  operation  having  '  ON '  time  of 
+more  than  5  minutes,  for  the  rated  '  ON  '  time  as  declared,  the 
+'  ON  *  time  being  divided  into  periods  of  operation  for  5  minutes 
+each  with  a  rest  of  1  minute  between  each  period,  the  mixture 
+in  the  mixer  bowl  being  replaced  by  a  fresh  one  during  each 
+period  of  rest  and  such  that  the  total  ON  period  is  equal  to  the 
+declared  *  ON  '  j>eriod.  Speed  controls  are  set  to  the  position 
+giving  most  unfavourable  temperature-rise;  and 
+
+d)  for  appliances  for  continuous  operation,  until  steady  conditions 
+are  established.' 
+
+[  Page  9,  clause  18.2  (  See  also  Amendment  No.    1  )  ]  —  Substitute  the 
+following  for  the  existing  clause: 
+
+'  18,2  The  appliance  is  operated  for  a  total  period  of  150  hours  or  500 
+cycles,  whichever  gives  more  operating  time,  under  the  conditions  given 
+in  11. 
+
+Note  1  --  Out  of  tlu-  tota!  of  150  liouis  or  500  cycles  of  operation,  tlie  operation 
+for  75  hours  or  250  cycles  shall  be  carried  out  at  Tl  limes  the  rated  voltage  and  for 
+the  remaining  75  hotirs  or  250  cycles  at  0'9  times  the  rated  voltage. 
+
+Note  2  —  During  the  test,  the  brushes  shall  be  inspected  and  only  one 
+replacement  (  if  necessary  )  by  spare  brushes  supplied  by  the  manufacturer  is 
+allowed.  ' 
+
+
+(  Page  9,  clause  18.4  )  —  Substitute  '  Food  mixures /juicers  '/or  •  Food 
+
+
+nuxer 
+
+
+(  Page  15,  dame  34.4 )  —  Add  the  following  at  the  end  of  the  clause: 
+'  34«5  Operational  Tests  for  Juicers 
+
+34.5.1  A  suitable  quantity  of  carrots  shall  be  taken  and  soaked  in 
+water  at  room  temperature  (  20  to  30*C )  for  24  hours.  These  shall  be 
+washed,  cleaned  and  the  top  and  tail  cut  off.  These  shall  be  cat  into 
+smaller  pieces  approximately  20  mm  thick. 
+
+The  juicer  shall  be  operated  at  the  rated  voltage  as  per  the  operating 
+instructions  given  by  the  manufacturer.  For  juicers  designed  for  batch 
+operation,  a  quantity  of  350  g  of  carrots  shall  be  used  for  each  cycle  of 
+operation  and  the  juicer  shall  be  operated  for  5  cycles  of  operation.  The 
+juicers  designed  for  continuous  operation  shall  be  operated  for  5  minutes* 
+
+In  either  case  the  juice  extracted  shall  be  filtered  through  a  0  25  mm 
+sieve  and  the  quantity  of  juice  and  fluff  ( waste )  weighed.  The  time 
+taken  for  juice  extraction  which  is  the  total  time  for  the  5  cycles  of  opera- 
+tion for  the  juicers  meant  for  batch  operation  and  the  time  for  juice 
+extraction,  cleaning  and  reassembly  for  juicers  meant  for  continuous 
+operation  is  noted.     The  following  results  shall  then  be  calculated: 
+
+a)  The  rate  of  juice  extraction  in  g/min. 
+
+b)  The  amount  of  juicr  extracted  expressed  as  a  percentage  of  the 
+carrots  taken. 
+
+The  juice  pouring  out  of  the  vent  provided  for  the  purpose  should  have 
+an  even  flow.  The  rate  of  juice  extraction  shall  not  be  less  than  500  g/min 
+and  the  amount  of  juice  extracted  shall  not  be  less  than  65  percent. 
+
+34.5.2  The  juicer  shall  be  cleaned  and  reassembled.  It  shall  be  opera- 
+ted for  juice  extraction  untD  either: 
+
+a)  the  juicer  stops  fimctioningj  or 
+
+b)  The  juicer  overflows. 
+
+The  total  quantity  of  carrots  which  the  juicer  can  accommodate  till 
+such  time  shall  be  recorded. 
+
+34.5.3  The  juicer  shall  be  dismantled,  cleaned  and  inspected.  There 
+shall  be  no  spillage/leakage  from  the  centrifugal  mesh  to  such  parts  of  the 
+juicer  which  do  not  form  the  flow  path  of  the  extracted  juice.' 
+
+
+(  ETDC  43  ) 
+
+
+AMENlJi\ffiNT  NO.  3     MAY  1989 
+^-  TO 
+
+IS  :  4250  - 1980  SPECIFICATION  FOR 
+
+DOMESTIC'  ELECTRIC  FOOD^IXERS 
+
+(  LIQUIDIZERS  AND  GRINDERS  ) 
+
+(  First  Revision  )   . 
+
+{  Page  8,  clause  11.3  )  —  Insert  the  following  after  11.3: 
+
+'113.1  For   the   windings,   the  measurement  of  temperature  rise  shall  be 
+carried  out  on  the  stator  windings  only.' 
+
+[  Page  9,  clause  18  (  see  also  Amendment   No.  1  and  2  )  ]  —  Substitute 
+the  following  for  the  existing  clause: 
+
+'18.  ENDURANCE 
+
+18.1  The  relevant  provisions  of  18  of  IS  :  302-1979  shall  apply  with  the 
+modifications  mentioned  in  1S.2  to  18.5. 
+
+18.2  The^food  mixer  is  operated  for  48  operating/ hour^  at  1*1  times  the 
+rated  voltage  in  cycles  of  rated  ON  and  adequate  OFF  periods  and  then  for 
+4S  operating  hours  at  0'9  times  the  rated  voltage  in  cycles  of  rated  ON  and 
+adequate  OFF  periods.  The  rated  ON  period  is  further  sub-divided  into 
+p-eriods  of  operation  as  per  11.3  (c)  if  necessary. 
+
+j^^OTE  —  During  the  test,  brushes  shall  be  inspected  and  only  one  replacement 
+(  if  necessary  )  by  spare  brushes  supplied  by  the  manufacturer  is  allowed. 
+
+18.3  Food   mixers   which  can    be  operated   at   different   speeds   shall  be 
+
+operated  at  the  highest  speed  setting. 
+
+18.4  Food  mixers  may  be  operated  with  artificial  load  as  indicated  in  11.2 
+provided  that  the  input  is  the  same  as  obtained  under  normal  load. 
+
+15.5  After  this  test,  the  food  mixer  shall  withstand  the  electric  strength 
+leii  of  16.4  of  IS  :  302-  1979. 
+
+(  Page    1 1 ,    clause   24.2  )  —  Substitute    the     following     for     the     last 
+
+'Openings  for  ventilation  of  motor  shall  be  properly  screened  to  ensure 
+that  no  v/aier  gets  into  the  appliance  due  to  spillage,' 
+
+{Page]\^    clause   24.5  )-- Substitute   the   following   for   the   existing 
+
+
+l>-! 
+
+
+.i^  . 
+
+
+vJechanica]    Power   Coupiing  —  The   coupling  shaJl   be.  flexible   and 
+sLali  be   fabDcayed    out  of  materials   which   shall   aot   deteriorated   with 
+
+
+extended  normal  use  of  96  hours  as  indicated  in  18.  It  sbali  be  able  to 
+witb.stand  shocks  and  vibrations  of^power  transmission  and  speed  changes 
+(  in  case  of  muiu-speed  machine  ).  It  shall  be  easily  replace dbie. 
+
+{  Fage  11,  clause  24.6)  —  Substitute   the  following   for  the  existing 
+
+da  use: 
+
+'24.6  Bearings  —  The  bearin.^Js  may  be  of  the  sleeve  or  ball  type.  They  shall 
+be  permanently  lubricated.  The  bearings  shall  have  a  life  of  at  least  96 
+hours  as  indicated  in  18.' 
+
+
+(  ETDC  43  ) 
+
+
+Printed  at  Printwell  Printers,  Delhi,  India 
+
+
+AMENDiVIENT  NO.  4    OCTOBER  1989 
+
+TO 
+
+IS  :  4250  -  1980  SPECIFICATION  FOR  DOMESTIC 
+
+ELECTRIC  FOOD-lv'UXERS  (  LIQUIDIZERS  AND 
+
+GRINDERS  )  AND  CENTRIFUGAL  JUICERS 
+
+(  First  Revision)     ^ 
+
+[  Clause  34.5  (  see  also  Amendment  No.  2  )  ]  —  Substitute  the  follow- 
+ing for  t^e  existing  clause; 
+
+'34.5  Operational  Tests  for  Jnicers 
+
+34.5.1  A  suitable  quantity  of  washed  and  cleaned  carrots  shall  be  taken 
+and  soaked  in  water  at  room  temperature  for  24  hours.  The  top  and  tail 
+shall  be  cut  off.  These  shall  be  cut  into  smaller  pieces  approximately 
+20  mm  thick  and  weighed. 
+
+The  juicer  shall  be  operated  at  the  rated  voltage  as  per  the  operating 
+instructions  given  by  the  manufacturer.  ..  For  juicers  designed  for  batch 
+operation,  a. -quantity  of  about  350  g  of  carrots  shall  be  used  for  each 
+cycle  of  operation.  The  juicer  shall  be  operated  for  5  cycles  of  operation. 
+The  juicers  designed  for  continuous  operation  shall  be  operated  for  5 
+minutes  or  the  rared  operating  time  of  the  juicer  whichever  is  less. 
+
+Jn  either  case,  the  juice  extracted  shall  be  filtered  through  a  0'25  mm 
+sieve  and  the  total  quantity  of  juice  we'ghed.  ,  The  total  time  ror  juice 
+extraction  which  is  measured  from  the  moment.%  the  feeding  of  carrots  is 
+started  till  the  juice  stops  coming  out  and  .excludes  the  time  required  for 
+disinantiing,  cleaning  and  reassembly  is  noted.  Tn  case  of  juicers  designed 
+for  batch  operation,  this  time  is  the  sum  of  time  for  juice  extraction  for 
+the  h-ve  cycles  for  which  the  juicer  is  to  be  operated.  The  fojJowing 
+results  shall  then  be  calculated: 
+
+a)  The  rate  of  juice  extraction  in  g/min  (  SJC  );  and 
+
+b)  The  amount  of  juice  e;.:tiacted   expressed    as   a  percentage   of  the 
+carrots  taken  B/A 
+
+
+A  :-=  the  total  quantity  of  carrots  taken  in  g: 
+
+ii'  ^^  the  loteI  amount  of  juice  extracted  in  g;  and 
+
+C  ^--  the  total  time  taken  for  ju'ce  extraction  in  njinutes. 
+
+1 
+
+
+Tre  juice  pouring  out  oi  the  vent  provided  for  the  purpose  should 
+have  an  even  flow.  The  rat-;  of  juice  extraction  shall  not  be  less  than 
+500  g'r.ia   and    the   ainount   of  juice  extracted   shall    not  be  less  than  50 
+
+perc^.n?. 
+
+34,5,1  The  juicer  shall  be  dismantled,  cleaned  and  inspected.  There 
+shall  2':  ao  spiifage/leakcige  from  the  centrifugal  mesh  to  such  parts  of 
+thcj'iiic:::  which  do  not  form  the  flow  path  of  the  extracted  juice.' 
+
+
+ClETDC  43  ) 
+
+
+Printed  at  Printwell  Priniers,  Delhi,  India 
+
+
+AMENDMENT  NO.  5  AUGUST  1992 
+
+TO 
+
+IS  4250  :  1980    SPECIFICATION  FOR  DOMESTIC 
+
+ELECTRIC  FOOD-MIXERS  (LIQUIDIZERS  AND 
+
+GRINDERS)  AND  CENTRIFUGAL  JUICERS 
+
+(  First  Revision  ) 
+
+Substitute  'IS  302-1  (1979)  Safety  of  household  and  similar  electrical 
+appliances  :  Part  1  General  requirement  (  fifth  revision  )'  /or  IS  302  :  1979 
+General  and  safety  requirements  for  household  and  similar  electrical  appliances 
+(fifth  revision  )'  wherever  it  appears  in  the  standard. 
+
+
+(ETD32) 
+
+
+Reprography  Unit,  BIS,  New  Delhi,  India 
+
+
+AMENDMENT  NO.  6    OCTOBER  1993 
+
+TO 
+
+IS  4250  :  1980  SPECIFICATION  FOR  DOMESTIC 
+
+ELECTRIC  FOOD  MIXERS  (LIQUIDIZERS  AND 
+
+GRINDERS)  AND  CENTRIFUGAL  JUICERS 
+
+(First  Revision) 
+
+[  Page  9,  clause  18.5  (see  also  Amendments  No.  1,  2  and  3  )]  — Add  the 
+following  Note  at  the  end  of  this  clause: 
+
+'NOTE  —  In  the  case  of  appliances  for  short  time  operation  having  'ON'  time  of  more 
+than  5  minutes,  the  test  shall  be  kept  in  abeyance  till  30  November  1993.' 
+
+
+(  ETD  32  ) 
+
+
+Reprography  Unit,  BIS,  New  Delhi,  India 
+
+
+AMENDMENT  NO.  7    APRIL  1994 
+
+TO 
+
+IS  4250  :  1980    SPECIFICATION  FOR  DOMESTIC 
+
+ELECTRIC  FOOD-MIXERS  (LIQUIDIZERS  AND 
+
+GRINDERS) 
+
+(  First  Revision  ) 
+
+(  Page  5,  clause  4.2  )  —  Insert  the  following  new  clause  4.3  after  this 
+clause: 
+
+The  relevant  provision  of  4.3  of  IS  302-1  (1979)  shall  apply  except  that  the 
+endurance  test  (clause  18  )  shall  be  carried  out  after  the  operation  test 
+(clause  34).' 
+
+[  Page  5,  clause  2.4.2  (a)  and  (b)  (see  also  Amendment  No.  2  )]  —  Substitute 
+the  word  'carrots'  with  'carrot  or  fresh  seasonal  fruits'. 
+
+(Page  8,  clause  11.2  )  —  Substitute  the  following  for  the  existing: 
+
+'The  food  mixer/juicer  is  operated  under  condition  of  normal  loading  (  see  2.4  ) 
+while  connected  to  the  supply  circuit  at  the  maximum  rated  voltage.  To  obtain 
+normal  loading  conditions,  the  mixer/juicer  bowl  (generally  liquidizer  shall  be 
+filled  with  paper  pulp  and  water  so  as  to  give  consistently  the  normal  loading  (in 
+watts).' 
+
+[  Page  8,  clause  11.3  (c)  line  four  (  see  also  Amendment  No.  2  )]  — 
+Substitute  '2  minute'  for  '1  minute'. 
+
+[  Page  8,  clause  11.3  (c)   (  see  also  Amendment  No.  2  )]  ^  Insert  the 
+following  note  after  the  entries  at  11.3  (c): 
+
+'Note  —  For  the  sake  of  convenience  in  carrying  the  test,  sufficient  number  of  sample 
+load  (  mixture  of  paper  pulp  and  water  )  shall  be  kept  ready.  The  mixture  shall  be 
+replaced  by  a  fresh  mixture  of  paper  pulp  and  water  during  each  period  of  test.' 
+
+(  Page  9,  clause  18.2,  Note  )  —  Insert  the  following  Note  as  Note  2  and 
+renumber  the  existing  Note  as  Note  1. 
+
+'  Note  2  —  The  adequate  off  periods  shall  be  the  period  sufficient  enough  to  bring  the 
+appliance  to  the  room  temperature.' 
+
+( Page  9,  clause  18.2,  first  line )  —  Substitute  'food  mixer/juicer'  for  'food- 
+mixer'. 
+
+
+(  Page  9,  clause  18.3,  first  line )  —  Substitute  'food  mixer/juicer'  for  'food- 
+mixers'. 
+
+[  Page  9,  clause  18.4,  first  line  (  see  also  Amendment  No.  2  )]  —  Substitute 
+'food  mixer/juicers' /c""  'food  mixer'. 
+
+[  Page  9,  clause  18.5,  first  line  (  see  also  Amendment  No.  3  )]  —  Substitute 
+'food  mixer/juicer' /or  'Food-mixers'. 
+
+[  Page  15,  clause  34.5.1,  line  1  (  see  also  Amendment  No.  4 )]  —  Substitute 
+the  word  'carrot'  with  'carrot  or  fresh  seasonal  fruits'. 
+
+(  Page  16,  Table  1,  entries  against  SI  No.  8  )  —  Shift  the  entire  entries 
+against  S]  No.  8  after  entries  at  18  and  renumber  the  SI  No.  in  this  table 
+accordingly. 
+
+
+( ETD  32 ) 
+
+
+Reprography  Unit,  BIS,  New  Delhi,  India 
+
+
+AMENDMENT  NO.   «    DECEMBER  1999 
+
+TO 
+
+IS     4250  :  1980    SPECIFICATION  FOR  DOMESTIC 
+
+ELECTRIC  FOOD-MIXERS  (LIQUIDIZERS  AND 
+
+GRINDERS)  AND  CENTRIFUGAL  JUICERS 
+
+(  First  Revision  ) 
+
+( Page  16,  clause  38.1 )  —  Substitute  the  following  for  the  existing: 
+
+'Type  Tests  —  The  tests  specified  in  Table  1  shall  constitute  the  type  tests  and 
+shall  be  carried  out  on  one  sample  of  food-mixer  selected  preferably  at  random 
+from  a  regular  production  lot.' 
+
+( Page  16,  clause  38.1.1,  line  1  )  —  Substitute  the  words  'The  sample'  for 
+'All  the  samples'. 
+
+(ETD32)  
+
+Reprography  Unit,  BIS,  New  Delhi,  India 
+
+
+AMENDMENT  NO.  9     FEBRUARY  2006 
+TO 
+
+IS  4250  :  1980     SPECIFICATION  FOR 
+
+DOMESTIC  ELECTRIC  FOOD-MIXERS  (LIQUIDIZERS 
+
+AND  GRINDERS)  AND  CENTRIFUGAL  JUICERS 
+
+(  First  Revision  ) 
+
+( Page  5,  clause  5.2  )  —  Substitute  '750  watts' jfor  '600  watts'. 
+
+
+( ET  32  ) 
+
+
+Reprography  Unit,  BIS,  New  Delhi,  India 
+
+

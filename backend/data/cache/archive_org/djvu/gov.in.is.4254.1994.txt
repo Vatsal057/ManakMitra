@@ -1,0 +1,615 @@
+**************** 
+
+
+
+*■ fe^K 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 4254 (1994) : Jaw crushers - General requirements [MED 
+17: Chemical Engineering Plants and Related Equipment] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 4254 : 19M& 
+
+( q?cn q^ftsro ) 
+
+Indian Standard 
+
+JAW CRUSHERS — GENERAL REQUIREMENTS 
+
+( First Revision ) 
+
+
+
+UDC 621^2622 
+
+
+
+(Q BIS 1994 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARC. 
+NEW DFLHI 110002 
+
+November 1994 Price Group 2 
+
+
+
+Chemical Hngincering plants and Related Equipment Sectional Committee, HMD 17 
+
+
+
+FOREWORD 
+
+This Indian Standard ( First Revision ) was adopted by the Bureau of Indian Standards, after the 
+draft finali/.ed by the Chemical Engineering Plants and Related Equipment Sectional Committee 
+had been approved by the Heavy Mechanical Engineering Division Council. 
+
+This Indian Standard was first published in 1967. This revision has been brought out to bring it in 
+line with the latest industrial practice being followed in the country. In this revision following 
+changes have been incorporated: 
+
+a) Requirements for jaws added, and 
+
+b) The information to be supplied by the purchaser and the manufacturer updated. 
+
+Jaw crushers are generally used for crushing rock and similar hard material and contain two 
+rectangular surfaces of jaws, one of which alternately approaches and recedes from the other. The 
+jaws contain an angle and together with two side plates, enclose a wedge shaped cavity which is 
+wider at the upper or feed end. The material which is fed at the upper end gets crushed mainly by 
+compression between the two jaws and discharges through the outlet. 
+
+
+
+Particulars regarding information to be given to the manufacturer by the purchaser with enquiry 
+order and the information to be furnished by the manufacturer to the purchaser along with 
+quotation are given in Annex A and B respectively. 
+
+
+
+or 
+the 
+
+
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the 
+linal value, observed or calculated, expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS 2 : 1960 'Rules for rounding off numerical values ( revised )\ The number of 
+significant places retained in the rounded olf value should be the same as that to the specified value 
+in this standard 
+
+
+
+AMENDMENT NO. 1 DECEMBER 1999 
+
+TO 
+
+IS 4254 : 1994 JAW CRUSHERS — GENERAL 
+
+REQUIREMENTS 
+
+( First Revision ) 
+
+( P age 2, clause K.l ) — Delete K.l and renumber the subsequent clause. 
+
+( Page 3, Annex C ) — Substitute '7' for '7.1 \ 
+
+[ Page 3, clause C-2.1(b), first line ) — Delete the words 'after dismantling 
+the crustier'. 
+
+| Page 3, clause < '-2.1(b) J — Insert the following Nole at llie end of the 
+clause: 
+
+'NO' Hi — Only prototype crusher shall be dismantled to carry out inspection after the trial 
+run to ensurr items 1 to 4 above. All others shall be inspected without dismantling.' 
+
+
+
+(MED 17) 
+
+
+
+IS 4254 : 1994 
+
+
+
+Indian Standard 
+JAW CRUSHERS — GENERAL REQUIREMENTS 
+
+( First Revision ) 
+
+
+
+1 SCOPE 
+
+This Indian Standard covers the jaw crushers 
+which are commonly used for crushing rocks 
+
+2 NOMENCLATURE 
+
+2.1 For the purpose of this standard the various 
+components of the jaw crusher shall be designated 
+as in Fig. 1. 
+
+2.1.1 Jaw Crusher 
+
+A machine for crushing rock mainly by com- 
+pression between two rectangular surfaces or 
+jaws, one of which ( rarely both ) alternately 
+approaches and recedes from the other. 
+
+3 CLASSIFICATION 
+
+3.1 For the purpose of this standard jaw crushers 
+shall be classified as follows 
+
+
+
+3.1.1 Depending Upon the Operating Mechanism 
+
+a) Double-toggle jaw crusher — A crushing 
+machine operating on the kinematic scheme 
+as shown in Fig. '2 wherein the moving jaw 
+possesses a simple motion of approaching 
+to and receding from the fixed jaw into 
+linear path. 
+
+b) Single-toggle jaw crusher — A crushing 
+machine operating on the kinematic scheme 
+as shown in Fig. 3 wherein the moving jaw 
+possesses a compound motion. 
+
+3.1.2 Depending Upon the Size of the Jaws 
+
+a) Jaw crusher with normal width, where the 
+ratio l/b is between 1*4 and 16, where 
+1 and b denote respectively the width of 
+the jaw and minimum feed gap respectively. 
+
+b) Jaw crusher with extended width, where the 
+ratio l/b is between 2*2 and 5'7, where I 
+and b denote respectively the width of the 
+jaw and minimum feed gap respectively. 
+
+
+
+SWING JAW PLATE 
+CHEEK PLATE 
+
+
+
+FIXED JAW 
+PLATE 
+
+
+
+FLYWHEEL ECCENTRIC SHAFT 
+
+ECCENTRIC SHAFT 
+
+BEARING 
+
+
+
+
+/ TOGGLE SEAT \ \ TOGGLE 
+
+
+
+Fig. 1 Nomenclature for Jaw Crushers 
+
+I 
+
+
+
+IS 4254 : 1994 
+
+
+
+
+Fig. 2 Kinematic Scheme for Douhle- 
+Toggle Jaw Crusher 
+
+
+
+
+Fig. 3 Kinematic Schbmh ior Single- 
+Toggle Jaw Crushhr 
+
+4 SIZE 
+
+The size of the jaw crusher shall be designated 
+by the jaw width and the charging gap width in 
+millimetres. 
+
+
+
+5 DESIGNATION 
+
+The designation of a 
+include: 
+
+a) Commonly used name, 
+
+b) Jaw width in mm, 
+
+
+
+jaw crusher shall 
+
+
+
+c) Minimum feed gap in mm, 
+
+d) Minimum gap at the delivery end in mm, 
+
+e) Whether single-toggle or double-toggle, and 
+
+f) Number of this standard. 
+
+Example: 
+
+A jaw crusher with 400 mm jaw width, 
+250 mm minimum feed gap, 20 mm 
+minimum gap at the delivery end and of 
+single-toggle type shall be designated as: 
+
+Jaw Crusher 400 x 250/20 ST IS 4254 
+
+6 MARKING 
+
+Fach jaw crusher shall have suitable metal 
+plate on the body carrying following data in 
+legible form: 
+
+a) Indication of the source of manufacture, 
+
+b) Serial number/year of manufacture of the 
+machine, 
+
+c) Size, 
+
+d) Capacity, and 
+
+e) Power consumption. 
+
+7 SUPPLY 
+
+The manufacturer shall supply a certificate 
+to the purchaser along with each machine certify- 
+ing that the crusher has been inspected for 
+freedom from visible defect and the crusher has 
+satisfactorily withstood the trial run. Items to 
+be covered under this certificate are given in 
+Annex C. 
+
+8 GENERAL REQUIREMENTS 
+
+8.1 The immovable jaw shall be hinged so that 
+it could be removed in case of choking during 
+operation. This shall be done by hinges and 
+locking nut-bolt arrangement which shall be used 
+to open fixed jaw to release the choked material. 
+This shall be provided at least for small capacity 
+jaw crushers. 
+
+8.2 Both the jaw plates shall be provided with 
+rough surface to increase the grip on the crushing 
+material and to minimize the slipping of 
+material. 
+
+
+
+IS 4254 : 1994 
+
+
+
+ANNEX A 
+( Foreword ) 
+
+INFORMATION TO BE SUPPLIFD BY THE PURCHASER TO THE 
+MANUFACTURER WITH THE ENQUIRY AND ORDER 
+
+
+
+A-l The enquiry and order by the purchaser 
+should state: 
+
+a) Material; 
+
+b) Bulk density, tonnes/m s ; 
+
+c) 1) Type of material 
+
+(Hygroscopic, soft, brittle, etc ); 
+
+2) Moisture contents, percent; 
+
+d) Structure of material 
+
+( crystalline, granular, flaky ); 
+
+
+
+e) Crushing strength, if possible, N/m 2 ; 
+
+f) Feed size, mm; 
+
+g) Chemical property, corrosion with iron, etc; 
+h) Product si/c, mm; 
+
+j) Capacity of crusher required, tonnes/hour; 
+
+k) Ultimate use of material 
+
+(Permissibility of iron in product ); and 
+
+m) Any other remarks. 
+
+
+
+ANNEX B 
+( Foreword ) 
+
+INFORMATION TO BE FURNISHED BY THE MANUFACTURER TO THE PURCHASER 
+ALONG WITH THE QUOTATION AND SUPPLY 
+
+
+
+B-l The manufacturer shall give the following 
+information along with his quotation and supply: 
+
+a) Size and designation 
+
+( Single-toggle/double-toggle, hinged/fixed 
+jaw, type of grooves on plates); 
+
+b) Maximum feed opening, mm; 
+
+c) Minimum and maximum opening at the 
+bottom of jaw, mm; 
+
+d) Maximum recommended feed size, mm; 
+
+e) Capacity of crusher with respect to dis- 
+charge opening, tonnes/h; 
+
+f) Energy consumed to crush the material 
+kW/tonne; and 
+
+
+
+g) Material of construction with regard to the 
+following major components of the jaw 
+crusher; 
+
+1) Frame, 
+
+2) Swing jaw, 
+
+3) Swing jaw shaft, 
+
+4) Pitman, 
+
+5) Pitman shaft, 
+
+6) Pitman shaft bearing, 
+
+7) Jaw plates, 
+
+8) Cheek plates, 
+
+9) Toggle, and 
+10) Fly wheel. 
+
+
+
+ANNEX C 
+( Clause 7.1 ) 
+
+INFORMATION TO BE GIVEN IN THE CERTIFICATE BY THE MANUI AC 
+TO THE PURCHASER AT THE TIME OF SUPPLYING MACHINE 
+
+
+
+IURFR 
+
+
+
+C-l INSPECTION 
+
+C-l.l The inspection report shall state that each 
+part of the crusher has been inspected before 
+painting to ensure that it is free from any visible 
+defects in casting, machining, etc. 
+
+C-2 TEST-RUN 
+
+C-2.1 The test-run report shall state: 
+
+a) The number of hours the crusher has been 
+
+
+
+run continuously under no load after 
+completion of the assembly, and 
+b) That after dismantling the crusher after the 
+trial run inspection has been earned out to 
+ensure that: 
+
+1) The construction of the crusher is 
+satisfactory, 
+
+2) Lubricating condition is satisfactory, 
+
+3) There is no slackness or unusual wear 
+on any component, and 
+
+4) The bearings are evenly loaded. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Acr, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending t<> connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of" all its publications. No part of these publications may be reproduced in 
+any form without the prior permission in writing of BIS. This does not preclude the free use, in the 
+course of implementing the standard, of necessary details, such as symbols and sizes, type or grade 
+designations. Enquiries relating to copyright be addressed to the Director ( Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if any, are 
+issued from time to time. Users of Indian Standards should ascertain that they are in possession of 
+the latest amendments or edition. 
+
+This Indian Standard has been developed from Doc : No. HMD 17(0086) 
+
+Amendments Issued Since Publication 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan. 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+
+Telephones : 331 01 31, 331 13 75 Telegrams : Manaksanstha 
+
+( Common to all Offices ) 
+
+Regional Offices- 
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T. Scheme VII M. V. I. P. Road. Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 335-336, Sector 34-A. CHANDIGARH 160022 
+
+Southern : C. 1. T. Campus, IV Cross Road. MADRAS 600113 1235 02 16, 235 04 42 
+
+1235 13 19, 235 23 15 
+
+Western : Manakalaya, E9 M1DC. Marol, Andhen ( East ) 1632 92 95, 632 78 58 
+
+BOMBAY 400093 1632 78 91. 632 78 92 
+
+Branches : AHMADABAD. BANGALORE BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR 
+LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+
+
+Telephone 
+
+
+
+
+(331 01 31 
+[331 13 75 
+
+
+37 84 99, 
+37 86 26. 
+
+
+37 85 61 
+37 86 62 
+
+
+
+
+160 38 43 
+)60 20 25 
+
+
+
+Printed at Printrade. New Delhi. India 
+
+
+

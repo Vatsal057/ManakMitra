@@ -1,0 +1,779 @@
+**************** 
+
+
+
+* i&$z 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 4203 (1967) : Method for determination of sulphate 
+content in textile materials [TXD 5: Chemical Methods of 
+Test' 
+
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" 
+
+
+
+?&&IiII}g&*±2te 
+
+
+
+^\i»i>^/a^> 
+
+
+
+\\\«ktc 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+?TR V^ T^TT <sMHI | 3ft ^ft ^FT\ ^f W *T^?TT )f 
+Bhartrhari — Nitisatakam 
+Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+• 
+
+
+
+• 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+^ *g», 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS: 4203- 1967 
+
+(Reaffirmed 2004) 
+
+Indian Standard 
+
+METHOD FOR DETERMINATION OF 
+SULPHATE CONTENT IN TEXTILE MATERIALS 
+
+( Second Reprint NOVEMBER 1988 ) 
+
+
+
+UDC 677.0I:5**3:5**6.226 
+
+
+
+©Copyright 1967 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr 2 September 1967 
+
+
+
+18:4203-1967 
+
+
+
+Indian Standard 
+
+METHOD FOR DETERMINATION OF 
+SULPHATE CONTENT IN TEXTILE MATERIALS 
+
+
+
+Textile Chemistry Sectional Committee, TDC 5 
+
+
+
+Chairman 
+Dr P. C. Mehta 
+
+Members 
+Shri K. D. Bahadurji 
+
+Dr S. M. Betrabet 
+
+Shri K. S. Bhujang 
+Shri B. B. Chakraverti 
+
+Shr{ R. C. Baochi ( Alternate ) 
+Shri R. C. Dasgupta 
+Director of Handlooms 
+
+
+
+Representing 
+
+Ahmedabad Textile Industry's Research Association, 
+Ahmedabad 
+
+
+
+Manufacturers' Association, 
+Research Laboratory 
+
+
+
+Textile Auxiliaries 
+
+Bombay 
+The Cotton Technological 
+
+( ICAR ), Bombay 
+Office of the Textile^ Commissioner, Bombay 
+Superintendence. Company of India (Private 
+
+Limited, Calcutta 
+
+
+
+Shri K. Ramamurthy ( Alternate ) 
+
+
+
+National Test House, Calcutta 
+Government of Madras 
+
+
+
+Dr A. S. Dutt 
+
+Shri S. K. Dutta 
+
+Shri Gunvant Mangaldas 
+Dr V. P. Kulkarni 
+Shri L. G. Makhijani 
+
+Shri A. K. Ghose ( Alternate ) 
+Shri S. B. Mehta 
+Shri S. S. Mehta 
+
+Shri V. J. Vaishnav ( Alternate ) 
+Dr S. H. Mhatre 
+
+
+
+Shri S. M. Mistry 
+
+
+
+Dr C. N. K. Murthy 
+
+Shri C. L. Gupta ( Alternate ) 
+Shri P. S. Nadkarm 
+Dr V. N. Nigam 
+
+
+
+Indian Jute Industries' Research Association, 
+
+Calcutta 
+Ahmedabad Manufacturing & Calico Printing Co 
+
+Ltd, Ahmedabad 
+Ahmedabad Millowners' Association, Ahmedabad 
+All India Handloom Board,. Bombay 
+Indian Rope Manufacturers' Association, Calcutta 
+
+The Bombay Textile Research Association, Bombay 
+I CI ( India ) Private Ltd, Calcutta 
+
+The Bangalore Woollen, Cotton & Silk Mills Co 
+Ltd, Bangalore; and the Buckingham & Carnatic 
+Company Limited, Madras 
+
+Association of Merchants & Manufacturers of Textile 
+Stores & Machinery, India, Bombay 
+
+Ministry of Defence ( DGI ) 
+
+
+
+Ministry of Defence ( DGI ) 
+
+Ministry of Defence (R&D) 
+Shri N. D. Bhandari ( Alternate ) 
+Dr M. V. Nimkar The Millowners' Association, Bombay 
+
+Dr D-'V. Parikh The Bombay Textile Research Association, Bombay 
+
+Shri Gordhanbhai H. Patel Shri Dinesh Mills Ltd, Baroda 
+
+( Continued on page 2 ) 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN. BAHADUR SHAH ZAFAR MARQ 
+NEW DELHI 110002 
+
+
+
+18:4203-1967 
+
+( Continued from page 1 ) 
+
+Members 
+Shri I. L. Patel 
+
+
+
+Representing 
+
+Inspection Wing, Directorate General of Supplies & 
+Disposals ( Ministry of Works, Housing & 
+Supply ) 
+Shri A. K. Pramanigk ( Alternate ) 
+
+
+
+Shri Y. G. Pathak 
+Shri G. R. Podar 
+
+Shri J. G. Parikh ( Alternate ) 
+Representative 
+Represent ati ve 
+Shri Jamnadas K. Shah 
+Shri R. C. Shah 
+
+Shri S. J. Shah 
+
+Shri G. V. Shirolkar 
+Dr R. V. R. Subramanian 
+
+Shri S. M. Ghakr abort y, 
+Director ( Tex ) 
+
+
+
+The Textile Processors' Association ( India ), Bombay 
+Silk & Art Silk Mills' Association Ltd, Bombay 
+
+Directorate of Industries, Government of Punjab 
+Shri Ram Institute for Industrial Research, Delhi 
+The Raipur Manufacturing Co Ltd, Ahmedabad 
+The Ahmedabad Textile Industry's Research 
+
+Association, Ahmedabad 
+Association of Merchants & Manufacturers of Textile 
+
+Stores & Machinery, India, Bombay 
+The Delhi Cloth & General Mills Co Ltd, Delhi 
+The Silk & Art Silk Mills' Research Association, 
+
+Bombay 
+Director General, BIS ( Ex-officio Member ) 
+
+Secretary 
+
+Shri G. S. Abhyankar 
+
+Deputy Director ( Tex ), BIS^ 
+
+
+
+Undyed Textile Materials Subcommittee, TDC 5:2 
+
+
+
+Convener 
+Shri R. C.Shah 
+
+Members 
+
+Shri G. G. Kulkarni ( Alternate to 
+Shri R. C. Shah ) 
+Dr ( Kumari ) M. D. Bhavsar 
+
+
+
+Ahmedabad Textile Industry's Research Association, 
+Ahmedabad 
+
+
+
+Shri B. B. Chakraverti 
+
+Shri R. C. Bagchi ( Alternate) 
+Shri R. J. Chikte 
+
+Shri C. L. Gupta 
+Shri B. K. Kedia 
+Shri K. Manivannan 
+Dr V. N. Nigam 
+
+
+
+Shri N. D. Bhandari ( Alternate ) 
+
+
+
+The Silk & Art Silk Mills' Research Association, 
+
+Bombay 
+Superintendence Company of India ( Private ) Ltd, 
+
+Calcutta 
+
+The Khatau Makanji Spinning & Weaving Co Ltd, 
+
+Bombay 
+Ministry of Defence ( DGI ) 
+The Raymond Woollen Mills Limited, Bombay 
+Shri Ram Institute for Industrial Research, Delhi 
+Ministry of Defence (R&D) 
+
+
+
+Dr D. V. Parikh 
+
+Representative 
+
+Shri Jamnadas K. Shah 
+
+
+
+The Bombay Textile Research Association. Bombay 
+Directorate of Industries, Government of Punjab 
+Raipur Manufacturing Co Ltd, Ahmedabad 
+
+
+
+IS : 4203 - 1967 
+
+Indian Standard 
+
+METHOD FOR DETERMINATION OF 
+SULPHATE CONTENT IN TEXTILE MATERIALS 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 31 July 1967, after the draft finalized by the Textile Chemistry Sectional 
+Committee had been approved by the Textile Division Council. 
+0.2 In textile industry, textile materials undergo various treatments in 
+course of which extraneous matter of various types, such as, sizing or 
+finishing material, and water-soluble salts ( chlorides and sulphates ) is 
+gathered by or added to the textile materials. Such water-soluble subs- 
+tances, if present, i^i more than certain quantities may have deleterious 
+effect on the fibrous material or on other materials with which they are 
+associated in use and may, therefore, it affect their performance in service. 
+It is hoped that this standard will be useful for determining the sulphate 
+content in aqueous extract of textile materials. 
+
+0.3 The gravimetric and volumetric methods for estimating the sulphate 
+content in textile materials are prescribed in this standard. 
+0.4 In reporting the result of a test made in accordance with this standard, 
+if the final value, observed or calculated, is to be rounded off, it shall be 
+done in accordance with IS : 2-1960*. 
+
+
+
+1. SCOPE 
+
+1.1 This standard prescribes the methods for determination of water-soluble 
+sulphate present in textile materials, and the procedure for extracting the 
+textile materials with water. 
+
+2. PRINCIPLE 
+
+2.1 The aqueous extract of textile material is prepared, the sulphate 
+content is determined, either gravimetrically or volumetrically and expressed 
+as the percentage of the weight of the conditioned material. 
+
+3. SAMPLING 
+
+3.1 Sampling for Fibre and Yarn 
+
+3.1.1 Lot ( Fibre or Tarn ) — The quantity of fibre or yarn from the same 
+source shall constitute a lot. If the lot contains more than 200 kg. of fibre 
+or yarn, it shall be divided in sub-lots each weighing 200 kg or less. 
+
+*Rules for rounding off numerical values ( revised). 
+
+
+
+IS: 4203 -1967 
+
+3.1.2 From a sub-lot 15 increments each approximately weighing 10 g 
+shall be taken from different parts so that a representative sample is 
+obtained. All the increments thus collected shall be thoroughly mixed. 
+This shall constitute the test sample. 
+
+3.2 Sampling for Fabrics 
+
+3.2.1 Lot ( Fabric ) — The quantity of fabric manufactured under 
+relatively uniform conditions shall constitute a lot. 
+
+3.2.2 The number of pieces to be selected from a lot shall be as given 
+below. The pieces thus selected shall constitute the gross sample. 
+
+Lot Size Sample Size 
+
+Up to 100 3 
+
+101 „ 300 4 
+
+301 „ 500 5 
+
+501 and above 7 
+
+3.2.3 From each piece in the gross sample about 25 g of fabric shall be 
+taken out from at least two different parts. The parts shall then be cut 
+into further smaller pieces and thoroughly mixed. The pieces thus 
+collected shall constitute the test sample. 
+
+4. TEST SPECIMENS 
+
+4.1 From the test sample draw at least two test specimens each weighing 
+about 10 £. Cut the test specimens into small pieces. If the sample under 
+anafysis is foose ff6re, ta£e aoout S g oi"tne fesf specimen. 
+
+5. CONDITIONING OF TEST SPECIMENS 
+
+5.1 Prior to test, the test specimens shall be conditioned for 24 hours to 
+moisture equilibrium in a standard atmosphere at 65 ± 2 percent relative 
+humidity and 27° ± 2°C ( see also IS : 196-1966* ). 
+
+6. APPARATUS 
+
+6.1 Flat-Bottom Flask — of a suitable capacity with a glass stopper. 
+
+6.2 Water-Cooled Condensers 
+
+6.3 Gooch Crucible — with asbestos pad. 
+♦Atmospheric conditions for testing ( revised ). 
+
+4 
+
+
+
+IS: 4203 -1967 
+
+7. QUALITY OF REAGENTS 
+
+7.1 Unless specified otherwise pure chemicals shall be employed in tests 
+and distilled water (see IS : 1070-1960* ) shall be used where the use of 
+water as reagent is intended. 
+
+Note — ' Pure chemicals ' shall mean chemicals that do not contain impurities which 
+affect the test results. 
+
+8. PREPARATION OF AQUEOUS EXTRACT 
+
+8.1 Gondition the test specimens to moisture equilibrium in the standard 
+atmosphere and weigh accurately each test specimen. 
+
+8.2 Put a test specimen in the flask and add sufficient amount of water 
+into it to make liquor to material ratio of 20 : 1 ( see Note ). Connect the 
+flask to the condenser and bring rapidly to the boil and continue to boil 
+the liquor gently for 60 minutes. Disconnect and remove the flask while 
+the liquor is still boiling and close it immediately with the glass stopper 
+fitted with the stopcock. Rapidly cool the flask to room temperature 
+( 27°C ). Do not remove or open the tap until ready for filtration. 
+
+Note — If the test specimen is wool in any form, felt or loose fibre masses of any 
+composition, the liquor to material ratio should be 50 : 1. 
+
+8.3 Similarly prepare separate extracts for each of the remaining test 
+specimens. 
+
+9. GRAVIMETRIC METHOD 
+
+9.1 Reagents 
+
+9.1.1 Barium Chloride Solution — 2 percent •( wjv ). 
+
+9.1.2 Hydrochloric Acid — concentrated. 
+
+9.2 Procedure 
+
+9.2.1 Take a measured portion of extract. Filter through a suitable 
+filter paper ( see Note ) and wash the filter paper with distilled water. Add 
+concentrated hydrochloric acid drop by drop to the combined filtrate and 
+washings until the solution is just acidic to litmus, then add 1 ml of acid 
+per 100 ml of solution. Boil the solution for 5 minutes and leave it to cool 
+overnight. Filter off any precipitate on a filter paper-pulp pad. Wash 
+with water and heat the combined filtrate and washings to boiling. To 
+the boiling solution add drop by drop 10 ml of hot barium chloride solu- 
+tion. Boil for 30 minutes and leave to cool overnight. Transfer the 
+
+•Specification for water, distilled quality ( temtfl ) { Since revised ). 
+
+
+
+IS: 4203 -1967 
+
+precipitate quantitatively to an ignited tared Gooch crucible with asbestos 
+pad and wash with cold water until the washings are free from chloride. 
+Ignite the crucible and its contents gently at first and finally at 800° to 
+900°C to constant weight. 
+
+Note — Whatman No. 41 paper is suitable. 
+
+9.2.2 Carry out the blank determination. 
+
+9.2.3 Calculate the percentage of water-soluble sulphate by either of 
+the following formulae: 
+
+a) For all materials in yarn and fabric form other than wool ( see 
+Note 1 ): 
+
+v 
+
+b) For wool in any textile form and for felts and loose fibre masses 
+of anv composition ( see Note 2 ) : 
+
+P= 2 058 x ( a - * ) 
+
+v 
+where 
+
+P = percentage, by weight, of water-soluble sulphates as 
+
+sulphate ion; 
+a — weight, in g, of the precipitate obtained in the test ( see 
+
+9.2.1); 
+b = weight, in g, of the precipitate obtained as in blank 
+
+(see 9.2.2); and " 
+v = volume, in ml, of extract taken for the test. 
+
+Note 1 — 100 ml of extract are equivalent to 5*0 g of conditioned 
+test specimen. 
+
+Note 2 — 100 ml of extract are equivalent to 2*0 g of conditioned 
+test specimen. 
+
+9.2.4 Repeat the test with the extracts of the remaining test specimens 
+and calculate the percentage of water-soluble sulphate in each test 
+specimen. 
+
+9.2.5 Calculate the average of the values obtained as in 9.2.3 and 9.2.4. 
+10. VOLUMETRIC METHOD 
+
+10.1 Reagents 
+
+10.1.1 Benzidine Hydrochloride Solution — prepared as follows: 
+
+Dissolve 5 g of benzidine hydrochloride in 40 ml of 1 N hydro- 
+chloric acid and dilute the solution to 250 ml with 50 percent 
+aqueous ethanol * ( vjv ). Heat the solution to boil, cool, filter if 
+necessary, and store in a dark glass stoppered bottle. 
+
+
+
+IS : 4203 - 1967 
+
+10.1.2 Alcohol — 95 percent ( vjv ), 
+
+10.1.3 Standard Sodium Hydroxide Solution — 0"02 N. 
+
+10.1.4 Standard Sulphuric Acid — 0*02 N. 
+
+10.1.5 Phenol Red Indicator — 0'25 percent ( w jv ) prepared in 25 percent 
+ethanol (vjv). 
+
+10.2 Procedure 
+
+10.2.1 Take a measured portion of extract ( see 8.2 ) and concentrate it 
+to 20 ml. Add to this 20 ml of alcohol followed by 20 ml of benzidine 
+hydrochloride solution. Allow the solution to stand for 30 minutes. 
+Filter the solution under low suction through a. suitable filter paper 
+( see Note 1 ). Wash the precipitate with 5 ml of alcohol and repeat the 
+washing 4 times more. After the test washing transfer the precipitate and 
+filter paper to 250-ml conical flask and add 25 ml of distilled water. Add 
+few drops of phenol red indicator. Heat the solution to boiling and cool. 
+Add a known volume of standard sodium hydroxide solution to the con- 
+tents of the flask, shake thoroughly to dissolve all the precipitate, add more 
+phenol red indicator as required and back titrate the excess of sodium 
+hydroxide with standard sulphuric acid. 
+
+Note 1 — Whatman No. 42 paper is suitable. 
+
+Note 2 — The accuracy of the above method may be checked by determining the 
+sulphur content in 2 ml of sodium sulphate solution of known strength. 2 ml of sodium 
+sulphate solution is taken in a beaker and 8 ml of alcohol is added. To this 4 ml of 
+benzidine hydrochloride is added. The solution is allowed to stand for 30 minutes. 
+The precipitate is filtered and titrated against - 02 N sodium hydroxide as above. 
+
+10.2.2 Calculate the percentage of water-soluble sulphates by either of 
+the following formulae: 
+
+a) For all materials in yarn and fabric form, other than wool 
+( see Note 1 ): 
+
+b) For wool in any textile form, and for felts and loose fibre masses of 
+any composition (see Note 2 ): 
+
+
+
+p = AxB ?**xso 
+
+
+
+where 
+
+
+
+P = percentage, by weight, of water-soluble sulphate as 
+sulphate ion; 
+
+A = volume, in ml, of standard sodium hydroxide solution; 
+
+
+
+IS : 4203 - 1967 
+
+B — normality of sodium hydroxide solution; and 
+V — volume, in ml, of the extract. 
+
+Note 1 — 100 ml of extract are equivalent to 5'0 g of conditioned 
+test specimen. 
+
+Note 2 — 100 ml of the extract are equivalent to 2'0 g of condi- 
+tioned test specimen. 
+
+10.2.3 Repeat the test with the remaining test specimens and calculate 
+the percentage of water-soluble sulphate in each test specimen. 
+
+10.2.4 Calculate the average of the values obtained as in 10.2.2 
+and 10.2.3. 
+
+11. REPORT 
+
+11.1 Report the values obtained as in 9.2.5 or 10.2.4 as the percentage of 
+sulphate content as sulphate ions in textile materials. 
+
+Note — If the percentage of water-soluble sulphate is to be expressed as sodium 
+sulphate, multiply P by T48. 
+
+11.2 Report also the method used ( whether gravimetric or volumetric ). 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters : 
+
+Manak Bhavan. 9 Bahadur Shah Zafar Marg, NEW DELHI 110002 
+Telephones : 3 31 01 31, 3 31 13 75 Telegrams : Manaksanstha 
+
+( Common to ail Offices ) 
+Regional Offices : Telephone 
+
+♦Western ; Manakalaya, E9 MIDC, Marol, Andheri ( East ), 6 32 92 95 
+
+BOMBAY 400093 
+fEastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, 36 24 99 
+
+Maniktola, CALCUTTA 700054 
+
+Northern : SCO 445-446, Sector 35-C /2 18 43 
+
+CHANDIGARH 160036 \3 16 41 
+
+Southern : C. I. T. Campus, MADRAS 600113 f41 24 42 
+
+i 41 25 19 
+L41 2916 
+
+Branch Offices : 
+
+Pushpak,' Nurmohamed Shaikh Marg, Khanpur, (2 63 48 
+
+AHMADABAD 380001 \2 63 49 
+
+'F' Block, Unity Bldg, Naraslmharaja Sqyare, 22 48 05 
+
+BANGALORE 560002 
+Gangotri Complex, 5th Floor, Bhadbhada Road, T. T. Nagar, 6 27 16 
+
+BHOPAL 462003 
+Plot No. 82/83, Lewis Road, BHUBANESHWAR 751002 5 36 27 
+
+53/5 Ward No. 29, R. G. Barua Road, _ 
+
+5th Byelane, GUWAHATI 781003 
+5-8-56C L N. Gupta Marg, (Nampally Station Road), 22 10 83 
+
+HYDERABAD 500001 
+R14 Yudhister Marg, C Scheme, JAIPUR 302005 /6 34 71 
+
+\6 98 32 
+11 7/41 8B Sarvodaya Nagar, KANPUR 208005 /21 68 76 
+
+\21 82 92 
+Patliputra Industrial Estate, PATNA 800013 6 23 05 
+
+Hantex Bldg ( 2nd Floor ), R!y Station Road, 52 27 
+
+TRI VAN DRUM 695001 
+Inspection Office ( With Sale Point ): 
+
+Institution of Engineers ( India ) Building, 1332Shivaji Nagar, 5 24 35 
+PUNE 410005 
+
+
+
+♦Sales Office in Bombay is at Novelty Chambers, Grant Road. 89 65 28 
+
+Bombay 400007 
+
+fSales Office in Calcutta is at 5 Chownnghee Approach, P. O. Princap 27 68 00 
+Street, Calcutta 700072 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

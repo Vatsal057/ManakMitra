@@ -1,0 +1,1571 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 1489-2 (1991) : Specification for Portland-pozzolana 
+cement. Part 2: calcined clay based [CED 2: Cement and 
+Concrete] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 1489 (Part 2) : 1991 
+
+(Reaffirmed 2009) 
+
+Indian Standard 
+
+PORTLAND-POZZOLANA CEMENT — 
+SPECIFICATION 
+
+PART 2 CALCINED CLAY BASED 
+
+(Third Revision) 
+
+
+
+Second Reprint DECEMBER 2004 
+
+
+
+UDC 621.944.1.046 
+
+
+
+O BIS 1991 
+
+BUREAU OF I>srDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+May 1991 Price Group 4 
+
+
+
+AMENDMENT NO. 1 NOVEMBER 1991 
+
+TO 
+
+IS 1489 ( Part 2 ) : 1991 PORTLAND - POZZOLANA 
+
+CEMENT — SPECIFICATION 
+
+PART 2 CALCINED CLAY BASED 
+
+(Third Revision) 
+( Page 5, clause B-1.2 ) — Substitute *up to 25 tonnes' for 'of 20 to 25 
+
+
+
+tonnes*. 
+
+
+
+(CED2) _ _ 
+
+Printed at Slmco Printing Press Delhi, India 
+
+
+
+AMENDMENT N0.2 JUNE 1993 
+
+TO 
+
+IS 1489 ( Part 2 ) : 1991 PORTLANDPOZZOLANA 
+
+CEMENT — SPECIFICATION 
+
+PART 2 CALCINED CLAY BASED 
+
+( Third Revision ) 
+
+( Page 3, clauses 10.2.2 to 10.2.2.4 ) — Substitute the following for the 
+existing clauses: 
+
+"10.2.2 When cement is intended for export and if the purchaser so requires, 
+packing of cement may be done in bags or in drums with an average net mass of 
+cement per bag or drum as agreed to between the purchaser and the 
+manufacturer. 
+
+10.2.2.1 For this purpose the permission of the certifying authority shall be 
+obtained in advance for each export order. 
+
+10.2.2.2 The words 'FOR EXPORT* and the average net mass of cement per 
+bag/drum shall be clearly marked in indelible ink on each bag/drum. 
+
+10.2.2.3 The packing material shall be as agreed to between the manufacturer 
+and the purchaser. 
+
+10.2.2.4 The tolerance requirements for the mass of cement packed in bags/drum 
+shall be as given in 10.2.1.1 except the average net mass which shall be equal to 
+or more than the quantity in 10.2.2 " 
+
+
+
+(CED2) 
+
+Printed at Simco Printing Press. Delhi 
+
+
+
+AMENDMENT NO. 3 MAY 2000 
+
+TO 
+
+IS 1489 ( Part 2) : 1991 PORTLAND-POZZOLANA 
+
+CEMENT — SPECIFICATION 
+
+PART 2 CALCINED CLAY BASED 
+( Third Revision ) 
+
+Substitute 'net mass' for 'nominal average net mass' and 'average net mass' 
+wherever these appear in the standard. 
+
+(CED2) 
+
+
+
+Printed at Simco Printing Press, Delhi 
+
+
+
+AMENDMENT NO. 4 JUNE 2009 
+
+TO 
+
+IS 1489 (PART 2) : 1991 PORTLAND-POZZOLANA CEMENT — 
+
+SPECIFICATION 
+
+
+
+( Third Revision ) 
+
+{Page 3, clause 10.2.1) — Substitute the following for the existing: 
+
+'The net mass of cement per bag may also be 25 kg, 10 kg, 5 kg, 2 kg or 1 kg subject to tolerances as given 
+in 10.2.1.1 and packed in suitable bags as agreed to between the purchaser and the manufacturer.' 
+
+{Page 3, clause 10.2.1.1, last sentence) — Substitute the following for the existing: 
+
+'However, the average of net mass of cement in a sample shall be equal to or more than 25 kg, 10 kg, 5 kg, 
+2 kg or 1 kg, as the case may be.' 
+
+
+
+(CED 2) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+Ccmcnl and Concrete Sectional Committee, CED 2 
+
+
+
+FOREWORD 
+
+This Indian Standard ( Part 2 )( Third Revision ) was adopted by the Bureau of Indian Standards 
+after the draft finalized by the Cement and Concrete Sectional Committee had been approved by the 
+Civil Engineering Division Council. 
+
+Portland-pozzolana cement can be produced either by grinding together Portland cement clinker 
+and pozzolana with addition of gypsum or calcium sulphate, or by intimately and uniformly blending 
+Portland cement and fine pozzolana. While grinding of the two materials together presents no difficulty, 
+the mixing of dry powders uniformly is extremely difficult. The blending method should, therefore, be 
+resorted to only when the grinding method is impossible or proves uneconomical in a particular case. 
+Where blending method is adopted, every care should be taken to see that the blending is as intimate 
+as possible. Generally, if the blending is not uniform, it is reflected in the performance tests. The 
+Sectional Committee responsible for ihc preparation of this ^.pecification is of the opinion that the 
+blending method should be confined to factories and such other works tvhere intimate and uniform 
+blending is feasible with the employment of requisite machinery so as to ensure uniformity of produc- 
+tion and guaranteed performance. 
+
+Portland-pozzolana cement produces less heat of hydration and offers greater resistance to the 
+attack of aggressive waters than normal Portland cement. Moreover, it reduces the leaching of 
+calcium hydroxide liberated during the setting and hydration of cement. It is particularly useful in 
+marine and hydraulic construction and other mass concrete structures. Portland-pozzolana cement can 
+generally be used wherever 33 grade ordinary Portland cement is usable under normal conditions. 
+However, it should be appreciated that all poz/.olanas need not necessarily contribute to strength at 
+early ages. In view of this fact, this present specification has been prepared to enable manufacturers to 
+produce Portland-pozzolana cement equivalent to 33 grade ordinary Portland cement on the basis of 
+3, 7 and 28-days compressive strength 
+
+For construction of structures using rapid construction methods like slipForm construction, Portland- 
+pozzolana cement shall be used with caution since 4 to 6 h strength of concrete is significant in such 
+construction. 
+
+This standard was first published in 1962 and subsequently revised in 1967 and 1 976. In this revision 
+the standard has been split into two parts based on the pozzolana used in the manufacture of such 
+cements in view of the special needs of some hydraulic structures which require pozzolana cement 
+manufactured only with fly ash pozzolana and for easy identification of pozzolana used in the manu- 
+facture of Portland-pozzolana cement in the interest of consumers. Part I of this standard covers 
+pozzolana cement manufactured by using only fly ash pozzolana and Part 2 covers pozzolana cement 
+manufactured by using either calcined clay or a mixture of calcined clay and fly ash as pozzolana. In 
+this revision both chemical and physical requirements have been kept the same as was given in 1976 
+version of this standard as amended from time to time. Various requirements of Portland-pozzolana 
+cement given in 1976 version of this standard had been modified from time to time by issuing amend- 
+ments based on the experience gained with the use of the standard and the requirements of the users 
+and also keeping in view the raw materials and fuel available in the country for manufacture of cement 
+The important amendments include lowering the value of compressive strength in lime reactivity 
+test from 5 MPa to 4 MPa, incorporating a value of 3 day compressive strength as 16 MPa, modifying 
+the requirement of sulphuric anhydride ( SOs ) and insoluble residue, deleting the requirement of 
+pozzolanicity test, increasing the value of 28 days compressive strenth from 31 MPa to 33 MPa, making 
+autoclave soundness test compulsory irrespective of the magnesia content in cement, incorporating 
+a provision for retest in respect of autoclave soundness test after aeration of the cement, incorporting 
+a clause on false set of cement and permitting packaging of cement in 25 kg bags. Ail these amend- 
+ments have been taken care of in this revision. 
+
+Mass of cement packed in bags and the tolerance requirements for the mass of cement packed in bags 
+shall be in accordance with the relevant provisions of the Standard of Weights and Measures ( Packaged 
+Commodities) Rules, 1977 and B-1.2 {see Annex B ). Any modification in these rules in respect of 
+tolerance on mass of cement would apply automatically to this standard. 
+
+( Continued on third cover ) 
+
+
+
+IS 1489 ( Part 2 ) : 1991 
+
+
+
+Indian Standard 
+
+
+
+PORTLAND-POZZOLANA CEMENT 
+SPECIFICATION 
+
+
+
+PART 2 CALCINED CLAY BASED 
+
+
+
+( Third Revision ) 
+
+
+
+1 SCOPE 
+
+This standard ( Part 2 ) ( Third Revision) 
+covers the manufacture, physical and chemical 
+requirements of Portland-pozzolana cement 
+manufactured by using calcined clay pozzolana 
+or a mixture of calcined clay and fly ash 
+pozzolana. 
+
+2 REFERENCES 
+
+The Indian Standards listed in Annex A are 
+necessary adjuncts to this standard. 
+
+3 TERMINOLOGY 
+
+3.0 For the purpose of this standard, the defi- 
+nitions given in IS 4845 ; 1968 and the following 
+shall apply. 
+
+3.1 Pozzolana 
+
+An essentially silicious material which while in 
+itself possessing little or no cementitious pro- 
+perties will, in finely divided form and in the 
+presence of water, react with calcium hydroxide 
+at ambient temperature to form compounds 
+possessing cementitious properties. The term 
+includes natural volcanic material having pozzo- 
+lanic properties as also other natural and 
+artificial materials, such as diatomaceous earth, 
+calcined clay and fly ash. 
+
+3.2 Portland CUnker 
+
+Clinker, consisting mostly of calcium silicates, 
+obtained by heating to incipient fusion, a 
+predetermined and homogeneous mixture of 
+materials principally containing lime ( CaO ) 
+and silica ( SiO, ) with a smaller proportion of 
+alumina ( AljOj ) and iron oxide ( FejOa ). 
+
+3.3 Portland-Pozzolana Cement 
+
+An intimately interground mixture of Portland 
+clinker and pozzolana with the possible addi- 
+tion of gypsum ( natural or chemical ) or an 
+intimate and uniform blending of Portland 
+cement and fine pozzolana. 
+
+4 RAW MATERIAL 
+
+4.1 Pozzolana 
+
+4.1.1 Pozzolana used in the manufacture of 
+calcined clay based Portland-pozzolana cement 
+
+
+
+shall be either calcined clay pozzolana confor- 
+ming to IS 1344 : 1981 or a mixture of calcined 
+clay pozzolana conforming to IS 1344 :1981 and 
+fly ash conforming to IS 3812 : 1981 subject to 
+the requirements of 4.1.2 and 4.1.3. 
+
+4.1.2 Fineness and average compressive strength 
+in lime reactivity of pozzolana that is to be 
+blended with finished Portland cement to pro- 
+duce Portland-pozzolana cement, when tested 
+in accordance with the procedure specified in 
+IS 1727 : 1967, shall not be less than 320 m«/kg 
+and 4-0 MPa respectively. Average compressive 
+strength in lime reactivity test of such pozzo- 
+lana shall be carried out at the fineness at 
+which pozzolana has been ground for blending. 
+
+4.1.3 Average compressive strength in lime 
+reactivity of pozzolana that is to be interground 
+with Portland cement clinker for manufacture 
+of Portland-pozzolana cement shall not be less 
+than 40 MPa when tested at the fineness of 
+Poitland-pozzolana cement manufactured out 
+of it or at the fineness in *as received' condition, 
+whichever is greater, in accordance with proce- 
+dure specified in IS 1727 : 1967. 
+
+4.1.4 The purchaser shall have the right, if he 
+so desires to obtain samples of pozzolana used 
+in the manufacture of Portland-pozzolana 
+cement for purposes of checking its conformity 
+to the requirements specified in 4.1.1 to 4.1.3. 
+
+4.2 Portland Cement Clinker 
+
+The Portland cement clinker used in the manu- 
+facture of Portland-pozzolana cement shall 
+comply in all respects with the chemical 
+requirements of IS 269 : 1989 and the purchaser 
+shall have the right, if he so desires, to obtain 
+samples of the clinker used in the manufacture 
+for purposes of checking its conformity to 
+IS 269 : 1989. 
+
+4.3 Portland Cement 
+
+Portland cement for blending with pozzolana 
+shall conform to IS 269 : 1989. 
+
+4.4 Other Admixtures 
+
+When Portland-pozzolana cement is obtained 
+by grinding pozzolana with Portland cement 
+clinker, no material other than gypsum 
+
+
+
+1 
+
+
+
+IS 1489 ( Ptrt 2 ) : 1991 
+
+( natural or chemical ) or water or both, shall 
+be added. Such air-entraining agents or surfac- 
+tants which have been proved not harmful, may 
+be added in quantities not exceeding one 
+percent. 
+
+5 MANUFACTURE 
+
+Portland-pozzolana cement shall be manufac- 
+tured either by intimately intergrinding Port- 
+land cement clinker and pozzolana or by inti- 
+mately and uniformly blending Portland cement 
+and fine pozzolana. For blending of Portland 
+cement and pozzolana, the method and equip- 
+ment usd shall be the one well accepted for 
+achieving a complete uniform and intimate 
+blending. The blending operation shall be a pro- 
+perly designed and well defined unit operation in 
+approved blenders. Gypsum (natural or chemical) 
+may be added if the Portland-pozzolana cement 
+is made by intergrinding Portland cement clinker 
+with pozzolana. The pozzolana constituent shall 
+not be less than 10 percent and not more than 
+25 percent by mass of Portland-pozzolana 
+cement. The homogeneity of the mixture shall 
+be guaranteed within ±3 percent in the same 
+consignment. 
+
+6 CHEMICAL REQUIREMENTS 
+
+Portland-pozzolana cement shall comply with 
+the chemical requirements given in Table 1. 
+
+7 PHYSICAL REQUIREMENTS 
+7.1 Fineness 
+
+When tested by the air permeability method 
+described in IS 4031 ( Part 2 ) : 1988, the $eci- 
+fic surface of Portland-pozzolana cement shall 
+be not less than 300 m«/kg. 
+
+
+
+7.2 Soundness 
+
+7.2.1 When tested by *Lc Chatelicr* method 
+and autoclave test described in IS 4031 
+( Part 3 ) : 1988, unaerated Portland-pozzolana 
+cement shall not have an expansion of more 
+than 10 mm and 0-8 percent respectively. 
+
+7.2.1.1 In the event of cement falling to comply 
+with any or both the requirements specified in 
+7.2.1, further tests in respect of each failure 
+shall be made as described in IS 4031 ( Part 3 ): 
+1988 from another portion of the same sample 
+after aeration. The aeration shall be done by 
+spreading out the sample to a depth of 75 mm 
+at a relative humidity of 50 to 80 percent for a 
+total period of 7 days. The expansion of cement 
+so aerated shall be not more than 5 mm and 
+0-6 percent when tested by 'Le-Chatelier' 
+method and autoclave test repectively as 
+described in IS 4031 ( Part 3 ) : 1988. 
+
+7.3 Setting Time 
+
+The setting time of Portland-pozzolana cement 
+when tested by the Vicat apparatus method 
+described in IS 4031 ( Part 5 ) : 1988 shall be as 
+follows: 
+
+Initial setting time 30 min, Min 
+
+Final setting time 600 min, Max 
+
+7.3.1 If cement exhibits false set, the ratio of 
+final penetration measured after 5 min of 
+completion of mixing period to the initial penet- 
+ration measured exactly after 20 s of completion 
+of mixing period, expressed as percent, shall be 
+not less than 50 when tested by the method 
+described in IS 4031 ( Part 14 ) : 1989- In the 
+event of cement exhibiting false set, the initial 
+and final setting time of cement, when tested 
+by the method described in IS 4031 ( Part 5 ) : 
+1988 after breaking the false set, shall conform 
+to 7.3. 
+
+
+
+Table 1 Chemical Requirements of Portland-pozzolana Cement 
+
+( Clause 6 ) 
+
+
+
+SI No. Characteristic 
+
+(1) (2) 
+
+i) Lo8» on ignition, percent by mass. Max 
+
+ii) Magnesia ( MgO ), percent by mass, Max 
+
+iii) Sulphuric anhydride ( SO» ), percent by mass, 
+
+iv) Insoluble material, percent by mass. Max 
+
+
+
+Requirement 
+
+(3) 
+
+
+Method of Tes 
+Ref to IS 
+
+(4) 
+
+
+5 
+
+
+4032 : 1985 
+
+
+6 
+
+
+4032 : 1985 
+
+
+30 
+
+
+4032 : 1985 
+
+
+40( 100— x> 
+
+
+4032 : 1985 
+
+
+
+100 
+
+where x is the declared percen- 
+tage of pozzolana in the given 
+Portland-pozzolana cement 
+
+
+
+IS 1489 ( Part 2 ) : 1991 
+
+
+
+7.4 Compressive StreDgth 
+
+7.4.1 The average compressive strength of not 
+less than three mortar cubes ( area of face 
+50 cm* ) composed of one part of cement, three 
+parts of standard sand ( see Note 2 ) by mass, 
+and P/4 -k 3-0 percent ( of combined mass of 
+cement and sand ) water, and prepared, stored 
+and tested in the manner described in IS 4031 
+( Part 6 ) : 1988 shall be as follows: 
+
+a) At 72±1 h 16MPa, Min 
+
+b) At 168i:2h 22MPa, Min 
+
+c) At672±4h 33MPa, Min 
+
+NOTES 
+
+1 P is the percentage of water required to produce 
+a paste of standard consistency ( see 12.3 ). 
+
+2 Standard sand shaHl conform to IS 650 : 1991. 
+
+7.4.2 Notwithstanding the cubes satisfying the 
+strength requirements specified in 7.4.1, they 
+shall show a progressive increase in strength 
+from the strength at 72 h. 
+
+7.5 Drying Shrinkage 
+
+The average drying shrinkage of mortar bars 
+prepared and tested in accordance with IS 4031 
+( Part 10 ) : 1988 shall not be more than 
+015 percent. 
+
+8 STORAGE 
+
+The Portland-pozzolana cement shall be 
+stored in such a manner as to permit easy 
+access for proper inspection and identification, 
+and in a suitable waterproof building to protect 
+the cement from dampness and to minimize 
+warehouse deterioration. 
+
+9 MANUFACTURER'S CERTIFICATE 
+
+9.1 The manufacturer shall satisfy himself that 
+the cement conforms to the requirements of 
+this standard. The manufacturer shall also 
+fhrnish within ten days of despatch of cement, 
+a certificate indicating the percentage of 
+pozzolana. The manufacturer shall also state 
+in the certificate that the amount of pozzolana 
+in the finished cement will not vary more than 
+±3 percent from the declared value. 
+
+9.1.1 The certificate furnished shall also indi- 
+cate the total chloride content in percent by 
+mass of cement. 
+
+NOTES 
+
+1 Total chloride content in cement shall not exceed 
+05 percent by mass for cement used in long span 
+reinforce(|^ concrete structures. ( Method of test for 
+determination of chloride content in cement is given 
+in IS 12423 : 1988. ) 
+
+2 The limit of total chloride content in cement for 
+use in plain and other reinforced concrete structures 
+is being reviewed. Till that time, the limit may be 
+mutually agreed to between the purchaser and the 
+manufacturer. 
+
+
+
+10 DELIVERY 
+
+10.1 The cement shall be packed in bags [ jute 
+sacking bag conforming to IS 2580 : 1982, 
+double hessian bituminizcd ( CRI type), multi- 
+wall paper conforming to IS 11761 : 1986, 
+polyethylene lined ( CRI type ) jute, light- 
+weight jute conforming to IS 12154 : 1987, 
+woven HOPE conforming to IS 11652: 1986, 
+woven polypropylene conforming to IS 1 1653 : 
+1986, jute synthetic union conforming to 
+IS 12174 : 1987 or any other approved com- 
+posite bags ] bearing the manufactiu-er's name 
+or his registered trade-mark, if any. The words 
+'Portland-pozzolana cement — calcined clay 
+based' or a bright colour band to distinguish 
+Portland calcined clay based pozzolana 
+cements from other cements and the number 
+of bags ( net mass ) to the tonne or the nominal 
+average net mass ( see 10.2 ) of the cement shall 
+be legibly and indelibly marked on each bag. 
+Bags shall be in good condition at the time of 
+inspection. 
+
+10.1.1 Similar information shall be provided in 
+the delivery advices accompanying the ship- 
+ment of packed or bulk cement ( see 10.3 ). 
+
+10.2 The average net mass of cement per bag 
+shall be 50 kg ( see Annex B ). 
+
+10.2.1 The average net mass of cement per bag 
+may also be 25 kg subject to tolerances as given 
+in 10.2.1.1 and packed in suitable bags as agreed 
+to between the purchaser and the manufacturer. 
+
+10.2.1.1 The number of bags in a sample taken 
+for weighment showing a minus error greater 
+than 2 percent of the specified net mass shall 
+be not more than 5 percent of the bags in the 
+sample. Also the minus error in none of such 
+bags in the sample shall exceed 4 percent of the 
+specified net mass of cement in the bag. How- 
+ever, the average net mass of cement in a 
+sample shall be equal to or more than 25 kg. 
+
+10.2^ When cement is intended for export and 
+if the purchaser so requires, packing of cement 
+may be done in bags with an average net mass 
+per bag as agreed to between the purchaser 
+and the manufacturer. 
+
+10.2.2.1 For this purpose the permission of the 
+certifying authority shall be obtained in advance 
+for each export order. 
+
+10.2.2.2 The words *FOR EXPORT' and the 
+average net mass of cement per bag shall be 
+clearly marked in indelible ink on each bag. 
+
+10.2.2.3 The packing material shall be as agreed 
+to between the supplier and the purchaser. 
+
+10.2.2.4 The tolerance requirements for the 
+mass of cement packed in bags shall be as given 
+in 10.2.1.1 except the average net mass which 
+
+
+
+IS 1489 ( Part 2 ) : 1991 
+
+shall be equal to or more than the quantity 
+in 10.2.2. 
+
+10.3 Supplies of cement in bulk may be made 
+by arrangement between the purchaser and the 
+supplier ( manufacturer or stockist ). 
+
+Note — A single bag or container containing 
+1 000 kg or more net mass of cement shall be consi- 
+dered as bulk supply of cement. Supplies of cement 
+may also be made in intermediate contameis, for 
+cxanipJe, drums of 200 kg, by agreement bet\vcen the 
+purchaser and the manufacturer. 
+
+11 SAMPLING 
+
+11.1 Samples for Testing and by Whom to be 
+Taken 
+
+A sample or samples for testing may be taken 
+by the purchaser or his representative, or by 
+any person appointed to superintend the works 
+for the purpose of which the cement is required, 
+or by the latter's representative. 
+
+11.1.1 The samples shall be taken within three 
+weeks of the delivery and all the tests shall be 
+commenced within one week of sampling. 
+
+11.1.2 When it is not possible to test the 
+samples within one week, the samples shall be 
+packed and stored in air-tight containers till 
+such time they are tested. 
+
+11.2 In addition to the requirements of 11.1, 
+the methods and procedure of sampling shall 
+be in accordance with IS 3535 : 1986. 
+
+11.3 Facilities for Sampling and Identifying 
+
+The manufacturer or supplier shall afford every 
+facility, including labour and materials for 
+taking and packing the samples for testing the 
+cement and for subsequent identification of the 
+cement sampled. 
+
+12 TESTS 
+
+12.1 The sample or samples of pozzolana 
+cement drawn as described in 11 shall be tested 
+as per methods referred to in relevant clauses. 
+
+12.2 The temperature for carrying out physical 
+tests shall, as far as possible, be 27 ± 2X. 
+
+
+
+However, the actual temperature during the 
+testmg shall be recorded. 
+
+12.3 Consistency of Standard Cement Paste 
+
+The quantity of water required to produce a 
+paste of standard consistency to be used for 
+determination of the water content of mortar 
+for the compressive strength test and for the 
+determination of soundness and setting time, 
+shall be obtained by the method described in 
+JS4031 (Part 4) : 1988. 
+
+12.4 Independent Testing 
+
+12.4.1 If the purchaser or his representative 
+requires independent tests, the samples shall be 
+taken before or immediately after delivery at 
+the option of the purchaser or his representa- 
+tive, and the tests shall be carried out in accor- 
+dance with this standard on the written instruc- 
+tions of the purchaser or his representative. 
+
+12.4.2 Cost of Testing 
+
+The manufacturer shall supply, free of charge, 
+the cement required for testing. Unless other- 
+wise specified m the enquiry and order, the cost 
+of the tests shall be borne as follows: 
+
+a) By the manufacturer if the results show 
+that the cement does not comply with 
+this standard, and 
+
+b) By the purchaser if the results show that 
+the cement complies with this standard. 
+
+13 REJECTION 
+
+13.1 Cement may be rejected if it does not 
+comply with any of the requirements of this 
+specification. 
+
+13.2 Cement remaining in bulk storage at the 
+mill, prior to shipment, for more than six 
+months, or cement in bags in local storage in 
+the hands of a vendor for more than 3 months 
+after completion of tests, may be retested 
+before use and may be rejected if it fails to 
+conform to any of the requriements in this 
+specification. 
+
+
+
+IS 1489 ( Part 2 ) : 1991 
+
+
+
+IS No. 
+
+
+269 : 
+
+
+1989 
+
+
+650 : 
+
+
+1991 
+
+
+1344 
+
+
+: 1981 
+
+
+1727 
+
+
+: 1967 
+
+
+2580 
+
+
+: 1982 
+
+
+3535 
+
+
+: 1986 
+
+
+3812 
+
+
+: 1981 
+
+
+4031 
+( Parts 
+1 to 14) 
+
+
+
+ANNEX A 
+( Clause 2 ) 
+
+LIST OF REFERRED INDIAN STANDARDS 
+
+
+
+Title 
+
+Specification for 33 grade ordi- 
+nary Portland cement {fourth 
+revision ) 
+
+Specification for standard sand 
+for testing of cement ( second 
+revision ) 
+
+Specification for calcined clay 
+pozzolana ( second revision ) 
+
+Methods of test for pozzolanic 
+materials ( first revision ) 
+
+Specification for jute sacking bags 
+for packing cement ( second 
+revision ) 
+
+Methods of sampling hydraulic 
+cements {first revision ) 
+
+Specification for fly ash for use as 
+pozzolana and admixture {first 
+revision ) 
+
+Methods of physical tests for 
+hydraulic cement 
+
+
+
+IS No. 
+4032 : 1985 
+
+4845 : 1968 
+
+4905 : 1968 
+11652 : 1986 
+
+
+
+Title 
+
+
+
+Method of chemical analysis of 
+hydraulic cement {first revision ) 
+
+Definitions and terminology relat- 
+ing to hydraulic cement 
+
+Methods for random sampling 
+
+Specification for high density 
+polyethylene ( HDPE ) woven 
+sacks for packing cement 
+
+11653 : 1986 Specification for polypropylene 
+( PP ) woven sacks for packing 
+cement 
+
+11761 : 1986 Specification for multi-wall paper 
+sacks for cement valved-sewn 
+gussetted 
+
+12154 : 1987 Specification for light weight jute 
+bags for packing cement 
+
+12174 : 1987 Specification for jute synthetic 
+union bag for packing cement 
+
+12423:1988 Method for colorimetric analysis 
+of hydraulic cement 
+
+
+
+ANNEX B 
+( Clause 10.2 ) 
+
+TOLERANCE REQUIREMENTS FOR THE MASS OF CEMENT PACKED IN BAGS 
+
+
+
+B-1 The average net mass of cement packed in 
+hags at the plant in a sample shall be equal to 
+or more than 50 kg. The number of 
+a sample shall be as given below: 
+
+
+
+Batch Size 
+
+
+Sample ^ 
+
+
+100 to 150 
+
+
+20 
+
+
+151 „ 280 
+
+
+32 
+
+
+281 „ 500 
+
+
+50 
+
+
+501 „ I 200 
+
+
+80 
+
+
+1 201 „ 3 200 
+
+
+125 
+
+
+3 201 and above 
+
+
+200 
+
+
+
+The bags in a sample shall be selected at ran- 
+dom ( see IS 4905 : 1968 ). 
+
+B-1. 1 The number of bags in a sample showing 
+a minus error greater than 2 percent of the 
+specified net mass ( 50 kg) shall be notmoie 
+
+
+
+than 5 percent of the bags in the sample and 
+the minus error in none of such bags in the 
+sample shall exceed 4 percent of the specified 
+net mass of cement in the bag. 
+
+NOTE — The matter given in B-1 and B-1.1 is extra- 
+cts based on the Standards of Weights and Measures 
+(Packaged Commodities) Rules, 1977 to which 
+reference shall be made for full details. Any modi- 
+fication made in these Rules and other related Acts 
+and Rules would apply automatically. 
+
+B-1.2 In case of a wagon/truck load of 20 to 25 
+tonnes, the overall tolerance on net mass of 
+cement shall be to + 05 percent. 
+
+NOTE — The mass of jute sacking bag conforming to 
+IS 2580 : 1982 to hold 50 kg of cement is 531 g, the 
+mass of a double hessian bituminized ( CRI type ) 
+bag to hold 50 kg of cement is 630 g, the mass of a 
+6-ply paper bag to hold 50 kg of cement is approxi- 
+mately 400 g and the mass of a polyethylene lined 
+( CRI type ) jute bag to hold 50 kg of cement is 
+approximately 480 g. 
+
+
+
+IS 1489 ( Part 2 ) : 1991 
+
+ANNEX C 
+( Foreword ) 
+
+COMPOSITION OF THE TECHNICAL COMMITTEE 
+
+Cement and Concrete Sectional Committee, GED 2 
+
+
+
+Rsprestnting 
+In personal capacity ( University <(fRoork$t, Roorket 247 667 ) 
+
+
+
+Orjssa Cement Limited, New Delhi 
+
+The Associated Cement Companies Ltd, Bombay 
+
+Central Public Works Department, New Delhi 
+
+
+
+Chfoirmmn 
+
+Db H. G. ViBVXSVARATA 
+
+Shbi H. Bhattaoharya 
+Vik A. K. Cbattxbjxjb 
+
+Shbi S. H. Subbakanian ( Alternate ) 
+
+CbiKT ENOlNBBa ( DbSIOMS ) 
+
+ST7PXRIHTEM0INO EnOINBEB 
+
+( B&S ) ( AiUrnatt ) 
+Cbisv Enqimbbb, Navaoam Dax Sardar Sarovar Narmada Nigam Ltd, Gandhinagar 
+
+SoPBBiNTBNDiNO Enoinxbb, QJGC ( AlttrncU ) 
+Chibt Enoimbbb ( Rbsbabch-oum-Directob ) Irrigation and Power Research Institute, Amritsar 
+Rbsbabch OwriCKB. { Goncebte- 
+Tbohnolooy ) ( AUffnatt ) 
+DiBEGTOB A. p. Engineering Research Laboratories, Hyderabad 
+
+Joint Dzbbctob ( AlUrnat* ) 
+DiBBCTOB ( C & MOD ) ( N & W ) Central Water Commission, New Delhi 
+
+Deputy Dibectob ( C & MDD) ( N W & S ) 
+( AUtrnatt ) 
+
+" Hyderabad Industries Limited, Hyderabad 
+
+
+
+Structural Engineering Research Centre ( CSIR ), Ghaziabad 
+The India Cements Ltd, Madras 
+
+Gannon Dunkerley & Company Limited, Bombay 
+Central Building Research Institute ( CSIR ), Roorkee 
+
+
+
+Shbi K. H. Gamowal 
+
+Shbi V. Pattabhi ( AUtrnat* ) 
+Srbi V. K. Ghakkkab 
+Shbi S. Gopihath 
+
+Shbi R. Tamilakabast ( AlUmat* ) 
+Shbi S. K. Guha Thakitbta 
+
+Shbi S. P. Samxabanabatanan 
+( Alttrnett ) 
+Db Ibshad Masood 
+
+Dr Mo Kbalid ( Alttrnatt ) 
+
+Joint Dibectob, Standards ( B & S ) ( CB-I ) Research, Designs & Standards Organization ( Ministry of Railways j. 
+
+Lucknow 
+
+Joint Dibbctob Stand abds ( B & S ) 
+( CB-II ) ( Alttrnatt ) 
+ShbiN. G.Josbi 
+
+Shbi P. D. Kelk/ b { Alternate ) 
+Shbi D. K. Kanunoo 
+
+Shbi B. R. Mbrna ( Alternate ) 
+Shbi P. Krishwamitrthy 
+
+Shbi S. Chakbavabthy ( Alternate ) 
+Shbi G. K. Majumdab 
+
+Shbi S. O. Ranoabi ( Alternate ) 
+Shbi P. N. Mehta 
+
+Shbi J. S. Sanoamsbia ( Alternate } 
+Mkmbbb Sbcbxtaby 
+
+Dibectob Civii. ( Alternate ) 
+Shbi M. K. Muxhbbjbe 
+
+
+
+Shbi M. K. Ghosh ( Alternate ) 
+Db A. K. Mui-lick 
+
+Db S. C. Ahluwalia ( AltsrnaU ) 
+Shbi NibHal Sinoh 
+
+Shbi S. S. Miolani ( AUemaU ) 
+Shbi R. C. Pabath 
+
+Lt-Col R. K. Sinoh ( Alternate) 
+Shbi H. S. Pabbicha 
+Shbi Y. R. Phdll 
+
+Shbi S. S Sebhba ( Alternate ) 
+Shbi Y. R. Phtjll 
+
+Shbi K. B. Thandevaw ( Alternate ) 
+Db M. Rakaiah 
+
+Dr a. G. Madhava Rao ( Alternate ) 
+Shbi G. Ramdab 
+
+
+
+Indian Hume Pipes Co Ltd, Bombay 
+
+National Test House, Calcutta 
+
+Larsen and Toubro Limited, Bombay 
+
+Hospital Services Consultancy Corporation ( India ) Ltd, New 1. eihi 
+
+Geological Survey of India, Calcutta 
+
+Central Board of Irrigation and Power, New Delhi 
+
+Roads Wing, Department of Surface Transport ( Ministry of Trans- 
+port ), New Delhi 
+
+National Council for Cement and Building Materials, New Delhi 
+
+Development Commissioner for Cement Industry ( Ministry of 
+Industry ) 
+
+Engineer-in-Chief's Branch, Army Headquarters 
+
+Hindustan Prefab Ltd, New Delhi 
+
+Central Road Research Institute ( CSIR )« New Delhi 
+
+Indian Roads Congress, New Delhi 
+
+Structural Engineering Research Centre ( CSIR ), Madras 
+
+Directorate General of Supplies and Disposals, New Delhi 
+
+
+
+( Continued on page 7 > 
+
+
+
+IS 14S9 ( Part 2 ) : 1991 
+
+
+
+( C0ntintudffm pmgt 6 ) 
+
+Mtmbers 
+
+Rbpbbskntativb 
+
+Shbi a. U. Rijhbinohawi 
+
+Shri C. S. Shabxa ( Alttrnatt ) 
+Sbri J. Sen Gopta 
+
+Sbhi a. K. Lal ( Alttrnai* ) 
+Shri T. N. Subba Rao 
+
+Shri S. A. Rsddi ( AUtrnat* ) 
+
+SUPBRINTKNDKMT EnGIHSXR ( DbSIONB ) 
+
+ExBCTiTivB Ekoinbsb, S. M. R. Division 
+
+( AUernatt ) 
+Sbri S. B. Subi 
+
+Sbri N. Chanpbasbkaban ( Alttrnatt ) 
+Dr H. C. Visvbsvaraya 
+
+Shri D. C. Chatturvbdi ( AlttrnaU ) 
+Shbi G. Raman, 
+
+Director ( Civ Engg ) 
+
+
+
+Rtprtstnting 
+
+Builders Astociation of India, Bombay 
+
+Cement Corporation of India Limited, New Delhi 
+
+National Buildings Organization, New Delhi 
+
+Gammon India Limited, Bombay 
+
+Public Works Department, Government of Tamil Nadu 
+
+Central Soil and Materials Research Station, New Delhi 
+The Institution of Engineers ( India ), Calcutta 
+Director General, BIS ( Ex-officio Mtmb«r ) 
+
+
+
+S*erttary 
+
+Shbi N. G. Bandyopadhyay 
+
+Joint Director ( Civ Engg ), BIS 
+
+Cement, Pozzolana and Cement Additives Subcommittee, CED 2 : 1 
+
+
+
+Db H. C. ViaVBSVABAYA 
+
+Members 
+
+Shri S. K. Banbrjbb 
+Sbri doMNATB Banbbjbb 
+Shri N. G. Basak 
+
+Shri T. MadNkshwab ( Alternate ) 
+Chief Enoinbbr ( Resbabcb-cum Dibbctob ) 
+
+Rbskaroh Okficbb { CT ) ( Alternate ) 
+Shri N. B. Dbsai 
+
+Shri J. K, Patbl ( Alternate ) 
+Director 
+
+RiasBARCH Opfiobb ( Alternate ) 
+Director ( C & MDD II ) 
+
+Deputy Director ( C & MDD II ) 
+( Alternate ) 
+Shki R. K. Gattani 
+
+Shbi R. K. Vaishnavi ( Alternate ) 
+Shbi P.J.Jaous 
+
+Dr a. K. Chattbbjbb ( Alternate ) 
+Joint Director ( Matbbialb ) 
+
+As8TT Director ( Plastic ) ( Alternate ) 
+Joint Dibbctob, Standards B & S ( CB-I ) 
+
+Joint Director, Standards ( B & S ) 
+( CB'II ) ( AUernatt) 
+Sbri W. N. Kabodb 
+Shbi R, Kunjithapattam 
+Shbi G. K. Majumdab 
+Dr Irshad Masood 
+Shbi K, p. Mobidbbn 
+Sbri M. K. Mukhbrjeb 
+
+Shri M. K. Ghosh ( Alternate ) 
+Db A. K. Mullick 
+
+Dr ( Srimati ) S. Laxmi {Alternate) 
+Shbi K. Nabanapfa 
+
+Shri D. P. Kbwai.bamani ( Alternate ) 
+Sbri Nibmal Singh 
+
+Shri S. S. Miolani ( Alternate ) 
+Shri Y. R. Phcll 
+
+Sbri S. S. Sbehba ( Alternate ) 
+Sbbi a. V. Ramana 
+
+Dr K. C. Narano ( AlternaU ) 
+GoL V. K. Rao 
+
+
+
+In personal capacity ( Untversity of Roorkee, Roorkee 247 667) 
+
+National Test House, Calcutta 
+
+Cement Manufacturers Association. Bombay 
+
+Directorate General of Technical Development, New Delhi 
+
+Irrigation Department, Government of Punjab 
+
+Gujarat Engineering Research Institute, Vadodara 
+
+Maharashtra Engineering Research Institute, Nasik 
+
+Central Water Commission, New Delhi 
+
+Shree Digvijay Cement Co Ltd, Bombay 
+
+The Associated Cement Companies Ltd, Bombay 
+
+Naticnal Buildings Organization, New Delhi 
+
+Research, Designs and Standards Organization ( Ministry of 
+Railways ), Lucknow 
+
+The Hindustan Construction Co Ltd, Bombay 
+Chettinad Cement Corporation Ltd, Poliyur, Tamil Nadu 
+Hospital Services Consultancy Corporation ( India ) Ltd, New Delhi 
+Central Building Research Institute ( CSIR ), Roorkee 
+Central Warehousing Corporation, New Delhi 
+
+Roads Wing, Department of Surface Transport ( Ministry of 
+Transport ), New Delhi 
+
+National Council for Cement and Building Materials, New Delhi 
+
+Central Electricity Authority, New Delhi 
+
+Development Commissioner for Cement Industry ( Ministry of 
+Industry ) 
+
+Central Road Research Institute ( CSIR ), New Delhi 
+
+Dalmia Cement ( Bharat ) Ltd, New Delhi 
+
+Engineer-in-Chief*s Branch, Army Headquarters 
+
+
+
+( Continued on page 8 ) 
+
+
+
+IS l489(Part2)i 1991 
+
+
+
+( Conlintad from pagt 7 ) 
+Memb$rs 
+
+Shbi N. S. GALA.MDS ( Alternat$ ) 
+Shbi S. a. Rkddi 
+Sbki a. U. Rijhsimohahi 
+Shri M. p. Sinoh 
+Super iNTBifDi I70 Enoinbbb (D) 
+
+Senior Deputy Chief Enoinbbb 
+( Gbitbral ) ( Alternate ) 
+Shri S. B. Suri 
+
+Shbi N. Ghamdrabekabam ( Alternate ) 
+Shbi L. Swaboop 
+
+Shbi H. Bhattachabya ( Alternate ) 
+Shbi V. M. Ved 
+
+
+
+RiPresenting 
+
+Gammon India Limited, Bombay 
+
+Cement Corporation of India Limited, New Delhi 
+
+Federation of Mini Cement Plants, New Delhi 
+
+Public Works Department, Government of Tamil Nadu 
+
+
+
+Central Soil and Materials Research Station, New Delhi 
+Orissa Cement Limited, New Delhi 
+Bhilai Steel Plant, Bhilai 
+
+
+
+( Continued from second cover ) 
+
+This standard contains clauses 4.1.4, 4.2 and 12.4.1 which permit the purchaser to use his option 
+and clauses 10.2.1 and 10.3 call for agreement between the purchaser and the manufacturer. 
+
+The composition of the technical committee responsible for the formulation of this standard is given 
+in Annex C. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the 
+final value, observed or calculated, expressing the result of a test, shall be rounded off in accor- 
+dance with IS 2 : 1960 'Rules for rounding off numerical values ( revised )'. The number of significant 
+places retained in the rounded off value should be the same as that of the specified value in this 
+standard. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods and 
+attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing 
+the standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to 
+copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+'BIS Catalogue' and 'Standards: Monthly Additions'. 
+
+This Indian Standard has been developed from Doc: No. CED 02 (4676). 
+
+Amendments Issued Since Publication 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10002 
+
+Telephones: 2323 0131, 2323 3375, 2323 9402 website : www.bis.org.in 
+
+Regional Offices: Telephones 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg r 2323 7617 
+
+NEW DELHI 1 10002 12323 3841 
+
+Eastern : 1/14 C.I.T. Scheme VII M, V.I.P. Road, Kankurgachi r2337 8499, 2337 8561 
+
+KOLKATA 700054 12337 8626, 2337 9120 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 r 260 3843 
+
+1 260 9285 
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 6001 13 r2254 1216, 2254 1442 
+
+12254 2519,2254 2315 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) r2832 9295, 2832 7858 
+
+MUMBAI 400093 12832 7891, 2832 7892 
+
+Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. 
+GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM. 
+
+
+
+Printed at Simco Printing Press, Delhi 
+
+
+

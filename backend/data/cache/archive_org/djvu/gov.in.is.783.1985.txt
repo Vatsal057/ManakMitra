@@ -1,0 +1,5508 @@
+**************** 
+
+
+-k  t^^ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live'' 
+
+
+IS  783  (1985) :  Code  of  Practice  for  Laying  of  Concrete 
+Pipes  [CED  53:  Cement  Matrix  Products] 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New" 
+
+
+aj^&vi  iJii^s:y>K^  isb^^ni^seg 
+
+
+:<>5&i|  mT'5K^5?::5:^>^i»l 
+
+
+K^^^iXSVCd^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+^'^^^r 
+
+
+k 
+
+
+BLANK  PAGE 
+
+
+^*-^^^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  :  783  -  1985 
+
+(  Reaffirmed  201 0) 
+
+
+Indian  Standard 
+
+CODE  OF  PRACTICE  FOR 
+LAYING  OF  CONCRETE  PIPES 
+
+(First  Revision) 
+
+
+Second  Reprint  DECEMBER  2000 
+
+
+UDC  621.643.25:  628.247.13  :  006.76 
+
+
+©  Copyright  1986 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+MANAK  BHAVAN,  9  BAHADUR  SHAH  ZAFAR  MARG 
+NEW   DELHI    110002 
+
+Gr12  /Way  1986 
+
+
+IS  :  783  .  1985 
+
+Indian  Standard 
+
+CODE  OF  PRACTICE  FOR 
+LAYING  OF  CONCRETE  PIPES 
+
+
+(  First  Revision  ) 
+
+
+Cement  and  Concrete  Sectional  Committee,  BDC  2 
+
+Chairman  Representing 
+
+Dr  H  C.  Visvbsvaraya  National     Council     for     Cement     and   Building 
+
+Materials,  New  Delhi 
+
+Members 
+
+Additional  Director  Standards      Research,  Designs  and  Standards    Organization, 
+(  B  &  S  )  (  Ministry  of  Railways ),  Lucknow 
+
+DhPiiTY  Director  Standards  (  B  &  S  )  {Alternate  ) 
+Shri  K.  p.  Banerjeb  Larsen  and  Toubro  Limited,  Bombay 
+
+Shri  Harish  N.  Malani  (  Alternate  ) 
+Shri  S.  K.  Banerjee  National  Test  House,  Calcutta 
+
+Chiff  Engineer  ( BD )  Bhakra       Bcas       Management      Board,    Nangal 
+
+Township 
+Shri  J.  C.  Basur  (  Alternate  ) 
+Chief  Engineer  (  Designs  )  Central  Public  Works  Department,  New  Delhi 
+
+ExrcuTivE  Engineer  (D  )  III  (  Alternate  ) 
+Chief  Enoinffr  (  Research-Cum-      Irrigation  and  Power  Research  Instituic,  Amr   sar 
+Dirfctor  ) 
+RtSEARCH  Officer  (  Concreif  Tfchnology  )  (  Alternate  ) 
+Director  A.     P.       Engineering       Research      Laboratories, 
+
+Hyderabad 
+Joint  Director  (  Alternate  ) 
+Director  Central    Soil    and    Materials,  Research  Station, 
+
+New  Delhi 
+Chief  Research  Officfr  (  Alternate  ) 
+DiRECioR  (  C  &  MDD-I  )  Central  Water  Commission.  New  Delhi 
+
+Deputy  Director  (  C  &  MDD-I )  (  Alternate) 
+Shri  V.  K.  Ghanikar  Structural  Engineering  Research  Centre  (  CSIR  ), 
+
+Roorkce 
+
+(  Continued  on  page  2  ) 
+
+
+.c)  Copvrif,^ht  19R6 
+
+BUREAU   OF  INDIAN  S'lANDAROS 
+
+This  publication  is  protected  under  the  Indian  Copyrigfu  Act  (XIV  of  1957)  and 
+reproduction  in  whole  or  in  part  by  any  means  except  with  written  permission  of  the 
+publisher  shall  be  deemed  to  be  an  infringement  of  copyright  under  the  said  Act. 
+
+
+IS  :  783  -  1985 
+
+(  Continued  from  page  1  ) 
+
+Members  Representing 
+
+Shri  a.  V.  GoKAK  Cement    Controller    (  Ministry    of    Industry  ). 
+
+New  Delhi 
+Shri  S.  S.  Miolani  (  Alternate  ) 
+Shri  A.  K.  Gupta  Hyderabad  Asbestos  Cement  Products  Limited, 
+
+Ballabhgarh  ( Haryana  ) 
+Shri  P.  J.  Jaous  The  Associated  Cement  Companies  Ltd,  Bombay 
+
+Dr  a.  K.  Chatter jee  (  Alternate) 
+Shri  N.  G.  Joshi  Indian  Hume  Pipes  Co  Limited,  Bombay 
+
+Shri  R.  L.  Kapoor  Roads     Wing       ( Ministry     of     Shipping   and 
+
+Transport ) 
+Shri  N.  Sivaquru  (  Alternate  ) 
+Shri  S.  K.  Laha  The  Institution  of  Engineers  (  India  ),  Calcutta 
+
+Shri  B.  T.  Unwalla  (  Alternate  ) 
+Dr  a.  K.  Mullick  National     Council     for     Cement    and   Building 
+
+Materials,  New  Delhi 
+Shri  K.  K.  Nambiar  In    pc^^onal    capacity    (  'Ramanalaya\   1 1    First 
+
+Cresent    Park    Road,    Gandhinagar,    Adyar^ 
+Madras  ) 
+Shri  S.  N.  Pal  M.  N.  Dastur  and   Company    Private     Limited 
+
+Calcutta 
+Shri  Biman  Dasoupta  (  Alternate ) 
+Shri  H.  S.  Pas:ucha  Hindustan  Prefab  Limited,  New  Delhi 
+
+Shri  Y.  R.  Phlll  Indian  Roads  Congress,  New  Delhi;  and  Central 
+
+Road  Research  Institute  (  CSIR  ),  New  Delhi 
+Shri  M.  R.  CHATTERjiiE  Central  Road  Research  Institute  ( CSIR ),  New  Delhi 
+
+(  Alternate  ) 
+Dr  Mohan  Rai  Central    Building    Research  Institute    (  CSIR ), 
+
+Roorkec 
+Dr  S.  S.  REHsr  (  Alternate  ) 
+Shri  P.  S.  Ramachandran  The  India  Cements  Limited,  Madras 
+
+Shri  G.  Ramdas  Directorate  General    of  Supplies  and  Disposals, 
+
+New  Delhi 
+Dr  M.  Ramaiah  Structural  Engineering  Research  Centre  (  CSIR  ), 
+
+Madra*! 
+Dr  A.  G.  Madhava  Rao  (  Alternate) 
+Shrj  a.  V.  Ramana  Dalmia  Cement  (  Bharat )  Limited,  New  Delhi 
+
+Di<  K.  C.  Narang  (  Alternate  ) 
+Dr  a.  V.  R.  Rao  National  Buildings  Organization,  New  Delhi 
+
+Shri  J.  Sen  Gupta  (  Alternate ) 
+Shri  R.  V.  Chalapathi  Rao  Geological  Survey  of  India,  Calcutta 
+
+Shri  S.  Roy  (  Alternate ) 
+Shri  T.  N.  Subha  Rao  Gammon  India  Limited,  Bombay 
+
+Shri  S.  a.  Reddi  (  Alternate  ) 
+Shri  Arji  n  Ruhsinohani  Cement  Corporation  of  India,  New  Delhi 
+
+Smri  C  S.  Shaivma  (  Alternate ) 
+Shiri  H.  S.  Smvanarayava  Engineer-in-Chiefs  Branch,  Army  Headquarters 
+
+Shri  V.  R.  Koims  (  Alternate ) 
+Secri^tary  Central  Board  of  Irrigation  and  Power,  New  Delhi 
+
+Shim  K.  R.  Saxena  (  Alternate  ) 
+SuPFRiNibNoiNO  Enginefk  PubHc  Works  Department,  Government  of  Tamil 
+
+(  Designs)  Nadu,  Madras 
+
+Executive  Engineer  (  SMD  )  Division  (  Alternate  ) 
+
+(  Continued  on  page  76  ) 
+
+
+AMENDMENT  NO.  1    JANUARY  1989 
+
+TO 
+
+IS  :  783  - 1985  CODE  OF  PRACTICE  FOR  LAYING 
+
+OF  CONCRETE  PIPES 
+
+(  First  Revision  ) 
+
+(  Page  14,  Fig.  4  )  : 
+Substitute  'curve  A'  for  'curve  E' 
+Substitute  'curve  B*  for  'curve  D' 
+Substitute  'curve  D'  for  *curve  B' 
+Substitute  'curve  E'  for  'curve  A* 
+
+Note  1  —  *Curvc  C*  remains  as  *Curvc  C\ 
+
+Noir  2  —  1  he  changes  indicated  above  are  applicable  lo  both  sets  of  curves. 
+
+NoTF  3  —  There  are  no  changes  in  the  legends. 
+
+
+( BDC  2  ) 
+
+
+Pnnted  at  Simco  Printing  Press,  Delhi 
+
+
+Amend  No.  2  to  IS  783  :  1985 
+
+{  Page  26,  clause  IS.4.3  )  —  Add  the  following  new  clause  after  the  clause: 
+
+'15.4.4  Specials  —  For  water  mains,  sewer  lines  and  irrigation  works,  certain 
+fittings  and  specials  are  required  for  curves,  bends,  branches,  manholes,  air 
+valves  blow-offs  and  connection  to  main  line  valves  and  other  pipes.  The 
+specials  shall  be  in  accordance  to  IS  784  :  2001*  and  IS  7322  :  1985t.  Concrete 
+pipes  are  manufactured  as  per  standard  length,  the  length  of  specials  may  vary 
+as  per  site  conditions.  * 
+
+( Page  ITy  footnote )  —  Insert  the  following  new  footnotes: 
+
+*  *Prcstrc$$ed  concrete  pipes  (including  specials)  -  Specirication  {second  revision). 
+^Specification  for  specials  for  steel  cylinder  reinforced  concrete  pipes  {first  revision)  "* 
+
+(  Page  65,  last  sentence  of  Example  1  )  —  Substitute  the  following  for  llie 
+existing  sentence: 
+
+'ll  follows  from  Tabic  2  of  IS  458  :  2003*  that  900  mm  NP2  class  pipe  uhich 
+lias  a  0.25  mm  crack  test  load  of  22.80  kN/m  is  suitable  ' 
+
+( Page  65,  footnote )  —  Substitute  tlic  following  for  Uie  existing  fooinoic: 
+
+^* Specification  for  precast  concrete  pipes  (with  and  without  leinforcements)  {fourth  revision)  ^ 
+
+I  Page  66,  last  sentence  of  Example  2(a)  ]  —  Substitute  the  following  for 
+tlie  existing  sentence: 
+
+*It  follows  from  Table  2  of  IS  458  :  2003*  tliat  a  450  mm  NP2  class  pipe  which 
+has  a  0.25  nun  crack  load  of  16. 18  kN/m  is  suitable. ' 
+
+I  Page  66,  Example  2,  sub-para  (b)  ]  —  Substitute  'IS  458  :  2003*' for 
+*IS:  458 -1971*'. 
+
+( Page  66,  footnote  )  —  Substitute  the  following  for  the  existing  footnote: 
+
+'*  Specification  for  precast  concrete  pipes  (with  and  without  reinforcements)  {fourth  revision).' 
+
+(  Page  67,  Example  3,  penultimate  sentence  )  —  Substitute  the  follo\ving 
+for  the  existing  sentence: 
+
+*It  follows  from  tlie  above  that  450  mm  NP2  class  pipe  will  be  obviously 
+inadequate  and  450  nun  NP3  class  reinforced  pipe  (Table  3  and  5  of 
+IS  458  :  2003*)  with  0.25  nun  cracking  load  of  21.56  kN/m  or  450  mm  NP3 
+class  unreinforccd  pipe  (Table  4  of  IS  458  :  2003*)  with  ultimate  load  of  21.56 
+kN/m  will  have  to  be  used.' 
+
+
+Amend  No.  2  to  IS  783  :  198S 
+
+(  Page  67,  footnotes  )  —  Insert  the  following  footnote: 
+**Precast  concrete  pipes  (with  and  without  reinforcements)  {fourth  revision).* 
+
+I  Page  68,  Example  4,  sub-para  (b).  last  sentence  ]  —  Substitute  the 
+following  for  the  existing  sentence: 
+
+'It  follows  from  Tabic  2  of  IS  458  :  2003*  that  a  600  mm  diameter  NP2  class 
+pipe  which  has  a  0.25  mm  crack  load  of  18.88  kN/m  will  be  suitable'. 
+
+( Page  6%,  footnote  )  —  Substitute  tlie  following  for  the  existing  footnote 
+
+'^specification  for  precast  concrete  pipes  (with  and  without  reinforcements)  (/burf/i  revision) ' 
+
+(  Page  70,  Example  6,  last  sentence  )  —  Substitute  the  following  for  the 
+existing : 
+
+'It  follows  from  Tables  6  and  8  of  IS  458  :  2003*  tliat  a  800  mm  diameter  NP4 
+class  pipe  which  has  a  0.25  nun  crack  load  of  59.3  kN/m  will  be  suitable: 
+alternatively  it  follows  from  Table  7  of  IS  458  :  2003*  tliat  800  mm  diameter 
+NP4  class  unreinforced  pipe  which  has  uhimate  load  of  59.3  kN/m  will  also  be 
+suitable. 
+
+( Page  70.  footnote  )  —  Substitute  tlie  following  for  the  existing  footnote: 
+
+'*  Specification  for  precast  concrete  pipes  (with  and  without  reinforcements)  (/bwrf/i  revision)  * 
+
+(  Page  7 1 ,  Example  7  )  —  Substitute  'From  Tables  6,  7  and  8  of  IS  458  : 
+2003*  Uie  0.25  mm  crack  load  /  ultimate  load  respectively  for  I  600  mm 
+diameter  reinforced  /  unreinforced  pipe  as  applicable  is  1 19.6  kN/m'yor  'From 
+Table  4  of  IS  :  458  -  1971*  the  0.25  mm  cracking  load  for  1  600  mm  dia  pipe 
+is  119.6  kN/m\ 
+
+( Page  1\,  footnote  )  —  Substitute  tlie  following  for  the  existing  footnote: 
+
+'  *  Specification  for  precast  concrete  pipes  (with  and  without  reinforcements)  {fourth  revision) " 
+
+[  Page  73,  Example  8(b),  last  para  ]  —  Substitute  tlie  following  for  the 
+existing  para: 
+
+'It  follows  from  Table  2  of  IS  458  :  2003*  that  a  300  mm  NP2  class  pipe  which 
+has  a  0.25  mm  crack  load  of  13.48  kN/m  will  not  be  suitable.  However,  300  mm 
+diameter  NP3  class  pipe  (fables  3  and  5  of  IS  458  :  2003*)  with  a  0.25  mm 
+crack  load  of  15.50  kN/m  will  be  suitable;  alternatively  300  mm  diameter  NP3 
+class  unreinforced  pipe  (Table  4  of  IS  458  :  2003*)  witli  ultimate  load  of  kN/m 
+will  also  be  suitable.* 
+
+
+Amend  No.  2  to  IS  783 :  1985 
+
+( Page  1"^,  footnote  )  —  Substitute  the  following  for  the  existing  footnote: 
+
+^^specification  Tor  precast  concrete  pipes  (with  and  without  reinforcemenla)  (fourth  revision).^ 
+
+(Page lA\Exampk%last sentence)—  Substitute  Tables 6, 7 and 8 of  IS458 
+:  2003*Vor  Table  4  of  IS  :  458  -  1971^'. 
+
+( Page  74.  footnote )  —  Substitute  the  following  for  the  existing  footnote: 
+
+*  ^specification  for  precast  concrete  pipcK  (with  and  without  reinforcements)  {fourth  reviiion).^ 
+
+(  Page  75,  Example  10.  last  para  )  —  Substitute  the  following  for  tlie 
+existing  paia: 
+
+'It  follows  from  Tables  6  and  8  of  IS  458  :  2003*^  that  a  800  nun  diameter  NP4 
+class  reinforced  pipe  which  has  a  0.25  mm  crack  load  of  59.3  kN/m  will  be 
+suitable:  alternatively  it  follows  from  Table  7  of  IS  458  :  2003*  that  800  nun 
+diameter  V^A  class  unreinforced  pipe  which  has  uhimate  load  of  59.3  kN/m  will 
+also  be  suitable.' 
+
+( Page  75.  footnote )  —  Substitute  tlie  following  for  the  existing  footnote: 
+
+'^Specification  for  precast  concrete  pipes  (with  and  without  reinforcements)  {fourth  revision).^ 
+
+
+( CED  53 ) 
+
+
+Rcprogrephy  Unit,  BIS.  New  Delhi,  India 
+
+
+IS  :  783  .  1985 
+
+Indian  Standard 
+
+CODE  OF  PRACTICE  FOR 
+LAYING  OF  CONCRETE  PIPES 
+
+(First  Revision) 
+
+0.    FOREWORD 
+
+0.1  This  Indian  Standard  (  First  Revision  )  was  adopted  by  the  Indian 
+Standards  Institution  on  31  July  1985,  after  the  draft  finalized  by  the 
+Cement  and  Concrete  Sectional  Committee  and  been  approved  by  the 
+Civil  Engineering  Division  Council. 
+
+0.2  Concrete  pipes  are  largely  used  for  sewers,  water  mains,  culverts  and 
+irrigation  purposes.  To  ensure  that  pipes  manufactured  in  accordance 
+with  IS  :  458-1971*  and  IS  :  784-1978t  are  not  subjected  to  loads  in 
+excess  of  those  for  which  they  have  been  designed,  this  standard  lays  down 
+the  methods  for  finding  the  loads  on  pipes  and  their  supporting  strength 
+and  the  methods  for  handling,  laying  and  jointing  of  pipes. 
+
+0.3  Concrete  pipes  have  to  be  properly  handled,  bedded  and  back-filled, 
+if  they  have  to  carry  safely  the  full  design  loads.  Even  the  highest 
+quality  of  concrete  pipes  manufactured  in  accordance  with  the  specifica- 
+tions may  be  destroyed  by  improper  handling,  bedding  and  back  fiUing. 
+As  various  factors,  such  as  the  size  of  the  pipe  and  the  nature  of  the  soil 
+infiucncc  pipe  laying  practice,  it  is  not  possible  to  lay  down  any  rigid 
+rules.  Each  case  will  have  to  be  dealt  with  on  its  own  merits,  and  this 
+standard  is  intended  to  provide   a  general  guidance  in  such  work. 
+
+0.4  This  standard  was  first  published  in  1959.  The  first  revision  incorpora- 
+tes the  modifications  required  as  a  result  of  experience  gained  with  the  use 
+of  this  standard  and  brings  the  standard  in  line  with  the  present  practice 
+followed  in  the  country. 
+
+0.4.1  In  the  present  revision  a  number  of  important  basic  modifications 
+with  respect  to  symbols,  illustrative  figures,  graphs,  impact  factors,  testing, 
+etc,  have  been  introduced.    Examples  of  calculations  of  loads  on  pipes 
+
+♦Specification  for  concrete  pipes  ( with  and  without  reinforcement )  ( second 
+revision  ). 
+
+tSpecification  for  prcstresscd  concrete  pipes  (  including  fittings  )  (first  revision  ). 
+
+
+IS  :  783  .  1985 
+
+under  different  installations  conditions  have  also  beed  incorporated  in  this 
+revision. 
+
+0.5  In  the  preparation  of  this  standard  assistance  has  been  derived  from 
+AS  CA33-1962  'Concrete  pipe  laying  design'  issued  by  the  Standards 
+Association  of  Australia. 
+
+0.6  For  the  purpose  of  deciding  whether  a  particular  requirement  of  this 
+standard  is  complied  with,  the  final  value,  observed  or  calculated,  expressing 
+the  result  of  a  test  or  analysis,  shall  be  rounded  off  irt  accordance  with 
+13:2-1960.*  The  number  of  significant  places  retained  in  the  rounded 
+off  value  should  be  the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+1.  SCOPE 
+
+l.J  This  standard  covers  recommended  design  practice  for  the  laying  of 
+precast  concrete  pipes.  It  includes  methods  for  calculating  loads  on  pipes 
+according  to  installation  conditions,  and  gives  the  corresponding  load 
+factors. 
+
+1.1.1  This  standard  is  intended  primarily  for  use  in  association  with 
+IS  :  458-1 971 1  and  IS  :  784- 1978 J  for  pipes,  but  may  also  be  used  for  the 
+calculation  of  loads  on  other  rigid  pipes. 
+
+2.  APPLICATION 
+
+2.1  The  purpose  of  this  standaid  is  to  provide  a  basis  for  relating  the 
+loads  on  precast  concrete  pipes  laid  under  various  installation  conditions 
+to  the  test  strength  of  pipe  in  accordance  with  IS  :  458-1 971t  through  load 
+factors  appropriate  to  the  installation  conditions. 
+
+The  provisions  of  this  standard  may  be  used: 
+
+a)  to  calculate  external  loads  which,  when  divided  by  the  appropriate 
+load  factor,  will  indicate  the  strength  of  pipe  required  in  terms 
+of  the  test  loads  given  in  IS  :  458-19711;  and 
+
+b)  to  assess  the  supporting  strength  of  a  pipe  under  specified  instal- 
+lation conditions  by  multiplying  the  test  load  given  in  IS  :  458- 
+J971t  for  the  class  of  pipe  by  the  load  factor  specified  herein,  and 
+hence  to  determine  the  permissible  loading  conditions. 
+
+
+^Rules  for  rounding  off  numerical  values  (  revised ), 
+
+tSpecificatioa  for  concrete  pipes  (  with  and  without  reinforcement)  {second revision  ). 
+
+{Specification  for  prcstrcsscd  concrete  pipes  ( including  fittings  )  (first  revision  ). 
+
+
+IS  :  783  -  1985 
+
+3.  TERMINOLOGY 
+
+3.0  For  the  purpose  of  this  standard,  the  following  definitions  shall  apply. 
+
+3.1  Pipe  —  A  single  length  of  pipe. 
+
+3.2  Superimposed  Load  —  A  load,  concentrated  or  distributed,  static  or 
+dynamic,  applied  at  the  surface  of  the  fill  material. 
+
+3.3  Test  Load  —  The  load  which  a  precast  coixretc  pipe  is  required  to 
+sustain  when  tested  by  the  method  given  in  IS  :  458-1971* 
+
+NoTt  —  For  an  unreinforccd  pipe  the  test  load  is  sustained  without  cracking.  For 
+a  reinforced  pipe  the  test  load  is  sustained  without  developing  a  clearly  visible  crack 
+as  defined  in  IS  :  35^7.1985t. 
+
+3.4  Load  Factor  —  A  factor  used  in  the  calculation  of  the  required  test 
+load  for  a  pipe.  The  factor  varies  with  the  type  of  load  and  wi  th  the 
+installation  conditions  (  sec  10  )  . 
+
+3.5  Earth  —  All  material  other  than  rock. 
+
+3.6  Rock  —  An  unyielding  natural  foundation  material;  includes,  gneous 
+material  and  consolidated  or  cemented  sedimentary  mineral  matter  in 
+extensive  undisturbed  beds  or  strata. 
+
+4.  SYMBOLS 
+
+4.1  For  the  purpose  of  this  standard,  the  following  letter  symbols  shall 
+have  the  meaning  indicated  against  each: 
+
+B  -^  width  of  trench  in  metres  measured  at  the  level  of  top  of  the  pipe. 
+
+Ce  ^^  a  coefficient  used  in  the  calculation  of  the  vertical  load  on  a 
+pipe  due  to  the  weight  of  fill  material  when  the  pipe  is  installed 
+under  positive  projection  embankment  conditions  (  see  Fig.  1). 
+
+Cn  =  a  coefficient  used  in  the  calculation  of  the  vertical  load  on  a 
+pipe  due  to  the  weight  of  fill  material  (  see  Fig.  2  )  when  the 
+pipe  is  installed  under: 
+
+a>  negative  projection  conditions,  and 
+
+b)  impenect  trench  condition. 
+
+Cp  =  a  coefficient  used  in  the  calculation  of  the  vertical  load  on  a 
+pipe  due  to  concentrated  superimposed  loads  ( see  Fig.  3  ) 
+when  the  pipe  is  installed  under  : 
+
+•Specification    for    concrete  pipes  ( with    and    without    reinforcement )    ( second 
+revision ). 
+
+•M^'thods  of  test  for  concrete  pipes  (first  revision  ). 
+
+
+IS  :  783  -  1985 
+
+a)  trench  conditions,  and 
+
+b)  embankment  conditions. 
+
+Ct  :=  a  coefficient  used  in  the  calculation  of  the  vertical  load  on  a 
+pipe  due  to  the  weight  of  fill  material  when  the  pipe  is  installed 
+under  trench  conditions  (  see  Fig.  4  ). 
+
+Ctt  =  a  coefficient  used  in  the  calculation  of  the  load  on  a  pipe  due 
+to  a  uniformly  distributed  superimposed  load  of  U  kN/m* 
+(  see  Fig.  5  ). 
+
+d    ^  internal  diameter  of  a  pipe  in  m. 
+
+D  =   external  diameter  of  a  pipe  in  m. 
+
+Fe  =«  load  factor  for  a  pipe  installed  under  positive  projection 
+embankment  conditions  and  subjected  to  load  from  earth  fill 
+material  only. 
+
+Fp  ==  load  factor  for  a  pipe  subjected  to  a  concentrated  load. 
+
+Ft  =  load  factor  for  a  pipe  installed  under  trench  conditions  or 
+negative  projection  embankment  conditions  and  subjected  to 
+load  from  earth  fill  material  only 
+
+h  =  vertical  distance,  in  metre,  from  the  level  of  the  top  of  a  pipe 
+down  to  the  undisturbed  foundation  level,  or  trench  bottom, 
+adjacent  to  the  pipe  (  see  Appendix  A  ). 
+
+A'  =  vertical  distance,  in  metre,  from  the  level  of  the  top  of  a  pipe 
+up  to  the  natural  ground  level,  where  the  pipe  is  installed  under 
+negative  projection  conditions  (  see  Appendix  A  )  or  depth  of 
+trench  in  metre  excavated  in  consolidated  fill  material  and 
+refilled  with  loose  fill  material,  where  a  pipe  is  installed  under 
+imperfect  trench  conditioiiS  (  see  Appendix  A ). 
+
+H  =  vertical  distance  in  metres  measured  from  the  level  of  the  top 
+of  a  pipe  to  the  surface  of  the  fill  material  over  ^he  pipe  (  see 
+Appendix  A ). 
+
+K  ==  ratio  of  the  active  horizontal  pressure  at  a  point  in  fill  material 
+to  the  vertical  pressure  which  causes  this  horizontal  pressure, 
+given  by: 
+
+I  +  sm  (^  V   4         2    /     V^^«  +  1  +  ft 
+
+(  Rankinc's  formula ) 
+
+/  -  length  of  a  pipe  in  metre  over  which  a  vertical  concentrated 
+load  is  assumed  to  be  distributed  (see  9). 
+
+
+IS  :  783  - 1985 
+
+P    =  concentrated  load  in  kN. 
+
+p  =  projection  ratio  of  a  pipe  installed  under  embankment  condi- 
+tions. It  is  calculated  by  dividing  the  vertical  distance*  from 
+the  top  of  the  pipe  down  to  the  level  of  the  undisturbed  ground 
+surface  at  the  sides  of  the  pipes,  by  the  external  diameter />  of 
+
+the  pipe,  that  is  -^-.  (  see  A-2  -  nd  A-3  ), 
+
+Note  1  —  Where  a  pipe  is  laid  on  a  continuous  concrete  cradle  the  top  horizontal 
+surface  of  the  cradle  ( see  B-9  and  B-10 )  may  be  taken  as  the  level  of  the  undistur- 
+bed ground  surface. 
+
+Note  2  —  Where  a  pipe  is  laid  in  a  wide  trench  with  no  bench  of  undisturbed 
+ground  at  the  sides  of  the  pipe,  the  top  horizontal  surface  of  compacted  sand  or 
+other  granular  foundation  material  at  the  sides  of  the  pipe  may  be  t^en  as  the  level 
+of  the  undisturbed  ground  surface  provided  the  foundation  materia]  at  the  sides  of 
+the  pipe  is  compacted  to  the  same  density  as  the  undisturbed  ground  or  to  90 
+percent  of  the  maximum  density  at  optimum  moisture  content  as  determined  by  a 
+suitai  le  method. 
+
+Note  3  —  Where  the  site  is  irregular  it  is  usual  to  average  the  levels  at  distance 
+D  on  each  side  of  the  centre  line  of  the  pipe,  but  the  level  from  which  the  average  is 
+calculated  should  never  be^  taken  more  than  1  *5  D  from  the  centre  line. 
+
+p' =  negative  projection  ratio  of  a  pipe,  defined  as  the  ratio  of  the 
+depth  of  the  fill  material  measured  from  the  top  of  the  pipe  to 
+the  natural  ground  surface  to  the  width  of  the  trench,  that  is: 
+
+A' 
+-—  (  see  A-4  and  A-5  ) 
+
+a 
+
+Note  1  —  For  imperfect  trench  conditions,  p'  is  defined  as  the  ratio  of  the  depth 
+of  the  trench  excavated  in  the  compacted  fill  material  to  the  width  of  the  trench 
+which  preferably  should  be  equal  to  the  external  diameter  of  the  pipe  (  see  A-4  ). 
+
+Note  2  —  Where  the  site  is  uregular  it  is  usual  to  average  the  levels  at  distance  D 
+on  each  side  of  the  centre  line  of  the  pipe,  but  the  level  from  which  die  average  is 
+calculated  should  never  be  taken  more  than  IS  Z>  from  the  centre  line. 
+
+Fa  =  settlement  ratio  of  a  pipe  (  see  Appendix  B  ). 
+
+For  negative  projection  conditions  the  definition  differs  from 
+that  for  positive  projection  conditions. 
+
+.S  s=   length  of  a  concentrated  load  along  a  pipe  in  metre. 
+
+t    =   wall  thickness  of  a  pipe  in  mm. 
+
+U  «  uniformly  distributed  static  load  superimposed  on  the  fill 
+material  over  a  pipe  in  kN/m^ 
+
+
+IS  :  783  -  1985 
+
+w   =  unit  weight  of  fill  material  in  kN/m®. 
+
+Note  —  Unit  weights  of  materials  vary  between  14*4  kN/m"  for  loose  granular 
+material,  and  20  kN/m*  for  densely  compacted  clay  and  gravel.  Where  the  actual 
+unit  weight  is  not  known,  a  value  of  18  kN/m'  be  assumed  for  most  soils  not 
+specially  compacted. 
+
+Wc  =  calculated  vertical  external  load  on  a  pipe  due  to  superimposed 
+concentrated  load,  including  any  allowance  for  impact  in  kN/m. 
+
+W9  =  calculated  vertical  external  load  on  a  pipe  due  to  fill  material, 
+including  superimposed  distributed  load  treated  as  fill  material 
+in  kN/m. 
+
+Wx  =  required  test  load  for  a  concrete  pipe,  in  kN/m. 
+
+IV^  =x  calculated  vertical  external  load  on  a  pipe  due  to  superimposed 
+uniformly  distributed  load  in  kN/m. 
+
+X  =  proportion  of  the  vertical  height  of  a  pipe  embraced  by  the 
+bedding  material. 
+
+a  =  Impact  Factor  —  a  factor  by  which  a  live  load  is  multiplied  in 
+order  to  make  allowance  for  the  dynamic  effect  of  impact. 
+
+/4  =  coefficient  of  internal  friction  of  the  fill  material  equal  10 
+tan  0. 
+
+^'  =r  coefficient  of  friction  between  the  fill  material  and  the  sides  of 
+a  trench  in  undisturbed  material. 
+
+0  =  angle  of  internal  friction  for  earth. 
+
+5.  TEST  LOAD 
+
+5,1  The  required  minimum  test  load  for  a  pipe  is  calculated  as  follows: 
+
+a)  Reinforced  Pipe  —  Divide  each  is  of  the  calculated  vertical  loads 
+(  see  7,  8  and  9  )  by  the  load  factor  appropriate  to  the  type  of 
+loading  and  installation  conditions  (  see  10  )  and  add  the  quotients. 
+
+b)  Unreinforced  Pipe  —  Multiply  the  sum  of  the  quotients  determined 
+in  accordance  with  (a)  by  1*5. 
+
+The  class  of  pipe  required  is  then  chosen  from   IS  *  458-1971*,  unless 
+a  specially  designed  pipe  is  required. 
+
+
+^Specification  for  concrete  pipes  (  with  and  without  reinforcement  )  (  second  revision  ). 
+
+8 
+
+
+IS  :  783  -  1985 
+
+
+V 
+
+\ 
+
+\ 
+
+\^ 
+
+\\ 
+
+\ 
+
+c 
+
+o 
+
+V 
+
+\\ 
+
+A 
+
+\ 
+
+^\ 
+
+<    ^ 
+
+5° 
+
+\< 
+
+k 
+
+\ 
+
+\ 
+
+OJ 
+
+^^ 
+
+V 
+
+\\ 
+
+\ 
+
+\ 
+
+tn  Q. 
+II    II 
+
+
+
+\ 
+
+^^ 
+
+A 
+
+\ 
+
+\ 
+
+o 
+
+\ 
+
+^^ 
+
+^ 
+
+\ 
+
+1 
+
+^ 
+
+\  \ 
+
+k\ 
+
+\ 
+
+1 
+
+^\\\ 
+
+^ 
+
+1 
+
+1 
+
+c 
+
+.  1 
+
+"^\\\ 
+
+1 
+
+^ism 
+
+^^So^^d 
+
+'^ 
+
+'53-^ 
+
+' 
+
+\\  \  \    \      \       1 
+
+*     1 
+
+1 
+
+1    '^'vo 
+
+5^- 
+
+1 rm\\ 
+
+— 
+
+"~^"^^ 
+
+%\- 
+
+>l 
+
+L            i - 
+
+^ 
+
+\ 
+
+R       S 
+
+
+•3  JO  samvA 
+
+
+c 
+
+o 
+
+^ 
+
+jg 
+
+8 
+
+2 
+
+J3 
+
+u 
+
+^ 
+
+c^ 
+
+v> 
+
+< 
+
+O 
+
+U 
+
+M 
+
+u 
+
+3 
+
+<^ 
+
+2 
+
+^;z: 
+
+00 
+
+..  o 
+
+o 
+
+^P 
+
+•a 
+
+03 
+
+u 
+
+11  £ 
+
+a 
+
+u 
+
+CO 
+CO 
+
+^"^ 
+
+H 
+
+o 
+
+43 
+
+<  55 
+
+X 
+
+t> 
+
+J  o 
+
+jc 
+
+^O, 
+
+u. 
+
+:*- 
+
+s7^ 
+
+o 
+
+rf 
+
+a:  X' 
+
+ON 
+
+3 
+
+o 
+
+?;  55 
+
+< 
+
+C^   A 
+
+> 
+
+11 
+
+o 
+
+^ 
+
+C5 
+
+(*« 
+
+!f> 
+
+Q 
+
+c 
+
+(-  ^ 
+
+o 
+
+^ 
+
+/  o 
+
+3 
+
+c 
+
+UJ  (J 
+
+ea 
+
+C 
+
+1> 
+
+5i 
+
+^ 
+
+> 
+
+r.,  < 
+
+P3 
+
+2r  QQ 
+
+'^ 
+
+»«*/  ^ 
+
+•o 
+
+> 
+
+e 
+
+C/^U4 
+
+rj 
+
+c 
+
+;j 
+
+bO 
+
+o 
+
+u 
+
+o 
+
+o 
+
+< 
+
+c: 
+
+>* 
+
+> 
+
+3 
+
+o 
+
+SI 
+
+O 
+
+00 
+
+J= 
+
+'—' 
+
+H 
+
+(^ 
+
+1 
+
+d 
+
+1 
+
+3 
+
+uu 
+
+H 
+
+c« 
+
+>• 
+
+;z; 
+
+a 
+
+IS:7g3-19g5 
+
+
+MMhM 
+
+r       J 
+
+^ 
+
+0 
+
+0 
+
+^ 
+
+"■^INCOt»LEIE|   ,\y\/ 
+TR£N«.C««T,Oyy^ 
+
+^ 
+
+^ 
+
+-  1 
+
+>^;^^ 
+
+f 
+
+y 
+
+m 
+
+1 
+
+^'7T 
+
+^ 
+
+L^rtl^ig^WOlTlON 
+
+— 
+
+7 
+
+^ 
+
+^« 
+
+ill" 
+
+P'= 
+
+0'5 
+
+z 
+
+)     t     2     )     4     S     6     ?     I 
+
+1    S    10   11   \x 
+
+VALUES  OF  H/B 
+
+/ 
+
+r- 
+
+'4 
+
+/ 
+
+TH 
+
+ItcbM^ietE 
+
+EN04  CONDITION 
+
+1/ 
+
+i 
+
+/ 
+
+<\ 
+
+-tU 
+
+lit— 
+
+/ 
+
+2 
+
+^ 
+
+/ 
+
+k  -T 
+
+/ 
+/ 
+/ 
+
+/ 
+
+^ 
+
+\ 
+
+J 
+
+y 
+
+/ 
+/ 
+
+'4 
+
+i 
+
+i 
+
+0C 
+
+Hon 
+
+oT 
+
+— 
+
+/ 
+
+^ 
+
+**§ 
+
+^ 
+
+Hi 
+
+"■ 
+
+r 
+
+1 
+
+p':1-0 
+
+L 
+
+r 
+
+1     2     3     4     5     6     7     8     9     to    11    12 
+VALUES  or  H/B 
+
+
+8 
+
+7 
+
+->lk 
+
+rAki 
+
+Bl  CT 
+
+c  . 
+
+■■^M 
+
+/ 
+
+— . 
+
+z 
+
+7" 
+
+.  6 
+
+TRENCH  COtffllTION/ 
+
+■■■■■  1.1. 
+
+c  ^ 
+u 
+
+in 
+
+UJ   L 
+
+V 
+
+^ 
+
+r 
+V 
+
+/ 
+
+/ 
+( 
+
+V 
+
+/ 
+
+g 
+
+3   * 
+
+.1 
+
+4 
+
+/ 
+/ 
+/ 
+
+/a 
+
+1 
+
+?^ 
+
+< 
+
+>  3 
+
+pSi 
+
+TIOH 
+
+3 
+
+/ 
+
+4^ 
+
+^ 
+
+^ 
+
+'"-" 
+
+1 — 
+
+1 
+
+"/ 
+
+^ 
+
+y 
+
+p;i.5 
+
+z 
+
+0 
+
+1   i 
+
+3    4     S     t     7     8    }    Id    11    1? 
+
+A 
+
+VALUES  OF  H/B 
+
+0 
+
+. 
+
+/ 
+
+/ 
+
+7 
+
+1^ 
+
+T 
+
+COMPLET 
+
+RENCH 
+
+nuniTiA^i 
+
+• 
+
+-  M 
+
+/ 
+
+tV 
+
+/ 
+
+-/ 
+
+c« 
+
+7 
+
+ONUlf 
+ONE- 
+
+lUM 
+
+"'/ 
+
+\ 
+
+/ 
+
+,/ 
+
+'k 
+
+u 
+
+1,      £ 
+
+/ 
+
+\ 
+
+u.  5 
+
+0 
+
+/ 
+
+/ 
+
+/ 
+
+^ 
+
+H 
+
+J 
+
+f 
+( 
+
+/ 
+
+^ 
+
+^ 
+
+i 
+
+ice 
+
+oT 
+
+-^ 
+
+/ 
+
+/ 
+
+/■ 
+
+^ 
+
+it^ 
+
+fiht- 
+
+2 
+
+4 
+
+■/ 
+
+p'r2-0. 
+
+1 
+
+/ 
+
+)     2     3     ^     S     6     7     8     9     10    t1    12 
+VALUES  OF  H/6 
+
+
+Note  -  The  curves  are  drawn  for  K^  -  Oi3,  that  is  normal  wet  clay. 
+
+Fig.  2  Values  of  Coefficient  Cn  in  Formula  Wt  =  CowJ"  (Applicable  to  Embankment 
+Conditions  with  Negative  Projection) 
+
+
+11 
+
+
+IS  :  783  -  1985 
+
+
+0-5 
+
+
+1-0  V5  2-0 
+
+VALUES    OF  0/^^ 
+
+
+Fig.  3    Values  of  Coefficient  Cp  in  Formula  W'c  ^Cp 
+
+
+2S  30 
+
+Pa 
+
+
+7 
+
+
+13 
+
+
+IS  :  783  •  1985 
+
+
+>3  dO  samw 
+
+
+a, 
+
+
+< 
+
+
+£ 
+
+
+a 
+
+s 
+
+
+6 
+
+
+o  JO  saniiN^ 
+
+
+14 
+
+
+IS :  783  •  1985 
+
+
+"1 
+
+1 
+
+Jf 
+
+1/ 
+
+1/ 
+
+A/ 
+
+/ 
+
+5- 
+
+-J 
+•- 
+
+< 
+
+u 
+
+z 
+
+u 
+
+1 
+
+X- 
+
+'  -J 
+u 
+
+Ui 
+
+/ 
+
+< 
+—  3- 
+
+'k 
+
+i 
+
+*2 
+
+g 
+
+2  - 
+
+CD 
+
+i 
+
+k 
+
+L 
+
+' 
+
+^1 
+
+/ 
+
+'h 
+
+( 
+
+its 
+-<  - 
+
+^ 
+
+/a 
+
+/  y 
+
+' 
+
+0 
+
+0 
+0 
+
+ui 
+
+^ 
+
+/ 
+
+\a 
+
+z 
+
+/ 
+
+<• 
+UJ 
+
+/ 
+
+4 
+
+'/ 
+
+/ 
+
+^ 
+
+-y. 
+
+Z 
+
+/ 
+
+< 
+0 
+
+^ 
+
+;:< 
+
+:x 
+
+y 
+
+d 
+
+^^ 
+
+.^ 
+
+L_ 
+
+^ 
+
+
+«o  o 
+
+-»    W     *-> 
+o   u»     H 
+
+
+a 
+
+
+> 
+
+
+r%       ID     u>      >t       fo      4 
+
+%  JO  samvA 
+
+
+15 
+
+
+IS  :  783  -  1985 
+
+6.  VERTICAL  LOADS  ON  PIPES— GENERAL 
+
+6.1  Types  of  Loading  —  In  the  design  of  a  concrete  pipe  an  assessment 
+shall  be  made  of  the  following  vertical  loads: 
+
+a)  The  static  load  at  the  level  of  the  top  of  the  pipe  due  to  the  fill 
+material, 
+
+b)  The  static  load  at  the  level  of  the  top  of  the  pipe  due  to  loads 
+superimposed  on  the  fill  material,  and 
+
+c)  The  internal  static  load  due  to  the  weight  of  water  contained  in  the 
+pipe. 
+
+6.2  Data  Required  —  In  order  to  make  an  assessment  of  the  vertical  loads 
+the  following  data  shall  be  available  or  assumed: 
+
+a)  The  height  Hoi  the  fill  material  above  the  top  of  the  pipe; 
+
+b)  The  maximum  unit  weight  w  of  the  fill  material; 
+
+c)  The  magnitude  of  any  loads  superimposed  on  the  fill  material  and 
+the  nature  of  the  loads,  that  is  whether  the  loads  are  distributed  or 
+concentrated,  static  or  dynamic; 
+
+d)  The  pipe  installation  conditions  (  see  Appendix  B  ); 
+
+e)  The  projection  ratio,  if  the  pipe  is  installed  under  embankment 
+conditions  or  negative  projection  conditions; 
+
+0  The  width  of  trench,  if  the  pipe  is  installed  under  trench  conditions; 
+
+g)  The  external  diameter  D  of  the  pipe; 
+
+h)  The  internal  diameter  d  of  the  pipe; 
+
+j)   The  coefiScient  of  internal  friction  /li  of  the  fill  material; 
+
+k)  The  coefficient  of  friction  yJ  between  the  fill  material  and  the  sides 
+of  the  trench  (  usually  assumed  to  be  equal  to  tan  ^  );  and 
+
+m)  The  settlement  ratio  r,. 
+
+7.  VERTICAL  LOAD  ON  A  PIPE  DUE  TO  FILL  MATERUL 
+
+7.1  The  vertical  load  on  a  pipe  due  to  fill  material  shall  be  calculated 
+from  the  formula  given  in  A-l  to  A-5  appropriate  to  the  pipe  installation 
+conditions. 
+
+
+16 
+
+
+IS  :  783  -  1985 
+
+8.  VERTICAL  LOAD  ON  A  PIPE  DUE  TO  SUPERIMPOSED  STATIC 
+UNIFORMLY  DISTRIBUfED  LOAD 
+
+8.1  Trench  Conditions  —  For  a  pipe  installed  under  trench  conditions  the 
+vertical  load  due  to  a  uniformly  distributed  superimposed  static  load  shall 
+be  calculated  from  the  following  formula: 
+
+Wu  =-  Cu  BU 
+
+where  Cu  has  the  values  given  is  Fig.  5. 
+
+8.2  Embankment  Conditions  —  For  a  pipe  installed  under  embankment 
+conditions  the  vertical  load  due  to  a  uniformly  distributed  static  superim- 
+posed load  shall  be  calculated  as  follows: 
+
+a)  Calculate  the  height  of  fill  material  equivalent  to  the  load  per  unit 
+
+area  of  the  superimposed  distributed   load,  that  is,  equivalent 
+height  of  fill  material 
+
+Superimposed  load  (kN/m^) 
+
+""   Unit  weight  of  fill  material  (kN/m») 
+
+b)  Add  the  height  so  calculated  to  the  actual  height  of  the  embank- 
+ment above  the  top  of  the  pipe  to  obtain  the  height  H; 
+
+c)  Determine  the  coefficient  C©  or  Cn,  as  appropriate,  from  Fig.  1  and  2; 
+and 
+
+d)  Calculate  the  load  on  the  pipe  using  the  appropriate  formula 
+given  in  Appendix  A. 
+
+9.  VERTICAL   LOAD    ON    A   PIPE    DUE     TO     SUPERIMPOSED 
+CONCENTRATED  LOAD 
+
+9.1  The  vertical  load  on  a  pipe  due  to  a  superimposed  concentrated  load 
+P  shall  be  calculated  from  ihc  following  formula: 
+
+Pa 
+Wc  —  Cp    —y- 
+
+where 
+
+Cp  has  the  value  given  in  Fig.  3  appropriate  to  the    ratios 
+
+IH  ^^"^   2H 
+
+a  =  has  the  value  given  in  11  if  the  load  is  dynamic,  and  a  value  of 
+unity  if  the  load  is  static;  and 
+
+17 
+
+
+18:783-1985 
+
+/  =s  is  the  length  of  the  pipe  assumed  to  be  carrying  the  concentrated 
+load.  It  may  be  calculated  from  the  following  formula  but 
+should  not  exceed  the  length  of  the  pipe: 
+
+/=  115H+2D  +S 
+
+Where  at  least  300  mm  of  consoh'dated  earth  or  equivalent  cover 
+cannot  be  provided,  the  wheel  loads  shall  be  assumed  to  be  applied  directly 
+to  the  pipe. 
+
+10.  LOAD  FACTORS 
+
+10.1  Load  Due  to  Fill  Material  or  Uniformly  Distributed  Load  —  The  load 
+factors  applicable  when  pipes  are  loaded  with  fill  material  and/or  a 
+uniformly  distributed  static  superimposed  load,  and  are  installed  under 
+various  conditions  are  given  in  Appendix  B. 
+
+10.2  Concentrated  Loads  —  The  load  factor  applicable  when  pipes  are 
+loaded  with  concentrated  superimposed  static  or  live  loads  shall  be  1-5 
+irrespective  of  the  pipe  installation  conditions,  except  that  for  Class  D 
+bedding,  the  factor  shall  be  M. 
+
+Note  •>-  The  load  factors  given  in  B-9  to  B-16  are  applicable  for  loose  granular 
+fill  material.    For  other  fill  material,  the  load  factors  given  will  be  conservative. 
+
+11.  IMPACT  FACTORS 
+
+11.1  Effect  of  Impact  —  Where  superimposed  loads  are  dynamic,  allowance 
+shall  be  made  for  the  effect  of  impact  by  multiplying  the  superimposed 
+load  by  an  impact  factor  a  appropriate  to  the  type  of  loading,  the  depth  of 
+cover  over  the  pipe,  and  the  smoothness  of  any  load  bearing  surface  over 
+the  pipe,  as  indicated  in  11.2, 11.3  and  11.4.  When  considering  the  effect 
+of  impact,  the  depth  of  cover  over  the  top  of  the  pipe  is  critical. 
+
+11.2  Road  Vehicle  Loading  —  The  impact  factor  a  depends  on  the  depth 
+of  cover  measured  from  the  top  of  the  pipe  to  the  top  of  the  pavement 
+above  the  pipe,  and  on  the  smoothness  of  the  pavement  surface. 
+
+The  impact  factors  given  in  Table  1  shall  be  used  where  a  smooth 
+pavement  surface  is  anticipated.  Where  a  rough  pavement  surface  is  anti- 
+cipated ( that  is,  due  to  settlement  of  the  fill  material ),  and  the  depth  of 
+cover  is  900  mm  or  less,  the  impact  factors  shall  be  increased  by  at  least 
+20  percent. 
+
+11.3  Aircraft  Loading  —  An  impact  factor  a  of  unity  shall  be  used  for  all 
+depths  of  cover  and  all  pavement  surface  conditions^ 
+
+11.4  Railway  Loading  —  The  impact  factor  a  depends  on  the  depth  of 
+cover  over  the  pipe,  measured  from  the  top  of  the  pipe  to  the  underside 
+of  the  rails.    The  impact  factors  given  in  Table  2  shall  be  used. 
+
+18 
+
+
+IS  :  783  -  1985 
+
+
+TABLE  1    IMPACT  FACTORS  FOR  ROAD  VEHICLE  LOADING 
+
+( Ciause  11.2 ) 
+
+Depth  op  Cover  Impact  Factor  a  por  Smooth 
+
+Pavement  Surpace 
+
+0  1-3 
+
+300  mm  12 
+
+600mm  tl 
+
+900  mm  10 
+
+Note  —  For  intermediate  depth  of  cover,  linear  interpolation  shall  be  made. 
+
+TABLE  2    IMPACT  FACTORS  FOR  RAILWAY    LOADING 
+
+i  Clause  U4) 
+
+Depth  op  Cover  Impact  Factor  a 
+
+600  mm  J'^ 
+
+900  mm  1'5 
+
+3*0  m  and  above  1*0 
+
+NoTis  —  For  intermediate  depth  of  cover,  linear  interpolation  shall  be  made. 
+
+ir  INTERNAL  WATER  LOAD 
+
+12.1  The  vertical  load  due  to  water  carried  in  a  pipe  need  only  be  taken 
+into  account  where  the  pipe  is  laid  on  Type  D  bedding  ( see  B-7,  B-8, 
+B-15  and  B-16 ). 
+
+Where  it  is  necessary  to  take  the  water  load  into  account  the  pipe 
+should  be  assumed  full,  and  three-quarters  of  the  weight  of  the  water  per 
+linear  metre  of  the  pipe  should  then  be  added  to  the  vertical  loads  calcula- 
+ted in  accordance  with  7,  8  and  9. 
+
+13.  SUPPORTING  STRENGTH  OF  A  PIPE  SUBJECTED  SIMULTA- 
+NEOUSLY TO  INTERNAL  PRESSURE  AND  EXTERNAL  LOAD 
+
+13.1  Simultaneous  action  of  internal  and  external  load  gives  a  lower 
+supporting  strength  of  a  pipe  than  what  it  would  be  if  the  external  load 
+acted  alone. 
+
+19 
+
+
+18:783-1985 
+
+If  the  maximum  internal  pressure  and  three  edge  bearing  strength  for 
+a  pipe  are  known,  the  relation  (  see  Fig.  6  )  between  the  internal  pressure 
+and  external  load  is  given  by: 
+
+
+1/3 
+
+
+where 
+
+W  =  site  external  working  load  in  kN/m  of  pipe, 
+
+F  =  load  factor, 
+
+T  =  external  three  edge  bearing  load  per  metre  pipe, 
+
+P^  =r  hydrostatic  test  pressure  at  factory  in  MPa, 
+
+JPw  =  working  pressure  on  the  line  in  MPa,  and 
+
+W 
+
+pr  =  test  load   equivalent    to  the    site   external    working 
+
+load  W. 
+
+It  shall  be  noted  from  Fig.  6  that: 
+
+a)  for  any  working  pressure  Pw  the  ordinate  PwAT  equals  the 
+maximum  simultaneous  three  edge  bearing  test  load  JF/F  which 
+can  safely  be  applied  to  the  pipe.  By  multiplying  W/F  by  the 
+appropriate  load  factor  /%  the  value  ff^  of  external  vertical  load 
+from  earth  fill,  etc,  which  the  pipe  can  safely  support  is  obtained; 
+
+b)  alternatively,  if  the  value  W/F  is  predetermined  by  the  installa- 
+tion conditions,  the  intersection  A'  of  a  horizontal  lin,e  drawn 
+through  fV/F  with  a  vertical  line  through  Pw  should  then  lie  below 
+the  curve;  and 
+
+c)  if,  for  a  predetermined  value  of  W/F  the  intersection  of  X  is  above 
+the  curve  constructed  for  test  values  proposed,  a  higher  test  load 
+T  or  test  pressure  Pt  should  be  chosen. 
+
+14.  JOINTS  FOR  PIPES 
+
+14.1  Types  —  ITie  jomts  may  be  mainly  of  two  types: 
+
+a)  Rigid  joints,  and 
+
+b)  Flexible  joints. 
+
+14.2  Rigid  Joints  —  In  this  the  water  seal  is  effected  by  cement  mortar  or 
+simiJar  material  which  will  not  allow  any  movement  between  the  two  pipes. 
+
+20 
+
+
+IS  :  783  -  1985 
+
+
+intcrnal  pressure 
+Fig.  6    Combination  of  Internal  Pressuke  and  External  Load 
+
+14.2.1  Socket  and  Spigot  Joint  —  The  annular  space  between  socket  and 
+spigot  is  filled  with  cement  mortar  (1:2).  This  joint  is  used  for  low 
+pressure  pipe  line.    The  details  of  joint  are  shown  in  Fig.  7. 
+
+OPENING  AT   JOINT  CAULKED 
+vWITH    CEMENT  MORTAR  (1  2) 
+
+
+SPIGOT 
+
+
+BARREL 
+THICKNESS 
+
+
+INTERNAL 
+DIA 
+
+
+Fio.  7    Spigot  and  Socket  Joint  (  Rigid  ) 
+
+
+14.2.2  Collar  Joint  —  Collars  of  15  to  20  cm  wide  cover  the  joint 
+between  two  pipes.  A  slightly  damp  mixtures  of  cement  and  sand  is 
+rammed  with  caulking  tool.    The  details  are  shown  in  Fig.  8. 
+
+14.2.3  Flush  Joint 
+
+14.2.3.1  Internal  flush  joint  —  This  joint  is  generally  used  for  culvert 
+pipes  of  900  mm  diameter  and  over.  The  ends  of  the  pipes  are  specially 
+shaped  to  form  a  self  centering  joint  with  an  internal  jomtiog  space  1-3  cm 
+wide.    The  finished  joint  is  flush  with  both  inside  and  outside  with  the 
+
+21 
+
+
+IS  :  783  -  1985 
+
+
+COLLAR 
+
+CEMENT  MORTAR 
+CAULKING 
+
+
+•PIPE 
+
+
+Fig.  8    Collar  Joint  (  Rigid  ) 
+
+pipe  wall  (see  Fig.  9  ).  The  jointing  space  is  filled  with  cement  mortar 
+mixed  sufficiently  dry  to  remain  in  position  when  forced  with  a  trowel  or 
+rammer. 
+
+
+CEMENT 
+MORTAR 
+
+
+PIPE 
+
+
+Fig.  9    Internal  Flush  Joint  (  Rigid  ) 
+
+14.2.3.2  jEx/er/ifl/^wsAyoinr  — This  joint  is  suitable  for  pipes  which 
+are  too  small  for  jointing  from  inside.  Great  care  shall  be  taken  in 
+handling  to  ensure  that  the  projecting  ends  are  not  damaged  as  no  repairs 
+can  be  readily  effected  from  inside  ^the  pipe.  Details  of  the  joint  are 
+shown  in  Fig.  10. 
+
+
+MORTAR 
+
+
+7  PIPE7 
+
+
+Fio.  10    External  Flush  Joint  (  Rigid  ) 
+22 
+
+
+IS  :  783  -  1985 
+
+14.3  Flexible  Joints  —  The  water  seal  is  effected  because  of  comact  pressure 
+between  the  sealing  rubber  ring^(  or  similar  material  )  and  the  pipe  surface. 
+These  are  mainly  two  types. 
+
+14.3.1  Roll  on  Joint  —  A  rubber  ring  ( circular  in  cross-section  )  is  placed 
+at  or  near  the  end  of  the  spigot  and  rolls  along  it  as  the  spigot  enters  the 
+sockei.     The  details  of  the  joint  are  shown  in  Fig   11. 
+
+
+O-RING^ 
+
+Fig.  1 1     Roll  on  Joint  (  Flexible  ) 
+
+14.3.2  Confined  Gasket--  Rubber  ring  of  circular  cross -section  is  held  in 
+the  groove  formed  on  the  spigot.  Some  times,  the  cross-section  is  in  the 
+shape  of  lip.  The  lips  are  opened  due  to  water  pressure  which  ensure  water 
+seal.  For  assembly  of  this  joint  a  lubricant  has  to  be  applied  to  the  sliding 
+surfaces.  The  lubricant  washes  off  when  the  pipe  is  in  service.  The 
+details  of  the  joint  are  shown  in  Fig.  12. 
+
+
+0-RING 
+
+
+Fig.  1/    Confined  0-Ring  Joint  (  Flexible  ) 
+
+
+15.  CONSTRUCTION 
+
+15.1  Transport,  Handling  and  Stringing 
+
+15.1.1  Transport  —  Pipes  should  be  loaded  at  the  works  for  transport- 
+ation, cither  by  rail  or  by  road,  in  such  a  way  that  they  are  secure  and 
+that  no  movement  can  take  place  on  the  vehicle  during  transit.  The  same 
+care  is  needed  if  pipes  are  to  be  transferred  from  one  vehicle  to  another, 
+however,  short  the  journey  may  be. 
+
+23 
+
+
+IS  :  78.^  -  1985 
+
+15J.2  Off  Loading  —  Off  loading  should  be  carried  out  by  means  of 
+chainblock  with  shear  Jcgs  or  crane  of  adequate  capacity,  using  properly 
+designed  slings  and  spreader  beams  or  specially  designed  lifting  beams  (  see 
+Fig.  13  ).  Slings  should  be  placed  around  the  circumference  of  the  pipe 
+and  should  not  be  threaded  through  the  pipe  bore'  as  the  latter  method 
+may  damage  the  jointing  surfaces.  For  the  same  reasons,  hooks  located 
+in  the  ends  of  the  pipes  should  not  be  used. 
+
+
+Fig.  1 3    A  Typical  Lifting  Beam 
+
+15.1.3  Stacking  —  Pipes  may  be  placed  directly  on  the  ground  provided 
+it  is  reasonably  level  and  free  from  rocks  and  other  projections.  Stacking 
+in  tiers  is  permissible  provided  timber  bearer  are  placed  between  succeed- 
+ing tiers.  If  pipes  arc  to  be  stacked  more  than  two  tiers  high,  reference 
+should  be  made  to  manufacture  for  advice  before  exceeding  the  two  tiers 
+specified. 
+
+15.1.4  Stringing  —  Stringing  consists  of  placing  pipes  on  the  ground 
+in  Ime  ready  for  laying.  Care  is  again  needed  to  prevent  damage  during 
+this  operation. 
+
+15.2  Trench  Excavation  —  Trench  shall  be  of  sufficient  width  to  provide  a 
+free  working  space  on  each  side  of  the  pipe.  The  free  working  space  shall 
+be  preferably  not  less  than  1 50  mm  on  either  side.  For  deeper  excavations 
+wider  trench  may  be  required.  The  trench  width  should  be  kept  minimum, 
+sufficient  to  allow  proper  tamping  of  the  backfill.  Any  inadvertant  increase 
+in  the  actual  width  should  be  referred  to  the  designer.  If  the  sides  of  the 
+trench  are  not  vertical,  the  toes  of  the  side  slopes  shall  end  at  the  top  of 
+pipe,  and  practically  vertically  sided  trench  shall  be  dug  from  these  down 
+to  the  subgrade. 
+
+15.3  Pipe  Inspection  and  Repairs 
+
+15.3.1  Inspection  of  Pipe  Before  Laying  —  Prior  to  being  placed  in  the 
+trench,  pipes  should  be  visually  inspected  for  evidence  of  damage  with 
+
+24 
+
+
+IS  :  783  - 1985 
+
+particular  emphasis  laid  on  examination  of  the  joint  surfaces  which  may 
+have  been  damaged  by  impact  during  transit  or  during  off  loading  and 
+handling  at  site. 
+
+15.3.2  Repairing  Damaged  Pipes  -  -  Any  damage  to  the  pipe  may  impair 
+its  strength  or  integrity  consequently  although  some  minor  damage  may  be 
+repairable  at  site,  such  repairs  should  be  undertaken  only  by  pipe  manu- 
+facturer  or  under  his  supervision. 
+
+15.4  Laying,  Jointing  and  Anchoring 
+
+15.4.1  Laying  —  Pipes  should  be  lowered  into  the  trench  with  tackle 
+suitable  for  the  weight  of  pipes,  such  as  well  designed  shear  slings  with 
+chain  block  or  mobile  crane.  While  lifting,  the  position  of  the  sling  should 
+be  checked  when  the  pipe  is  just  clear  off  the  ground  to  ensure  proper 
+balance.  Laying  of  pipes  shall  preferably  proceed  upgrade  of  a  slope.  If 
+the  pipes  have  rubber  ring  joint  it  is  easier  to  force  spigot  into  socket.  In 
+case  of  collar  joint,  the  collars  shall  be  slipped  on  before  the  next  pipe  is 
+laid.  Expansion  joint  shall  be  provided  for  buried  line  at  maximum 
+intervals  of  100  m,  but  for  exposed  pipes,  the  joint  intervals  shall  not 
+exceed  45  m.  Cast  iron  or  steel  collars  and  lead  caulking  conforming  to 
+IS  :  782-1978*  shall  be  used  for  expansion  joint.  Where  flexible  rubber 
+ring  joints  are  used,  expansion  joints  need  not  be  provided.  When  laying 
+is  not  in  progress,  the  open  end  of  the  pipe  line  should  be  fitted  with 
+temporary  end-closure.  This  may  make  the  pipe  buoyant  in  the  event  of 
+the  trench  becoming  flooded  and  any  movement  of  the  pipes  should  be 
+prevented  either  by  partial  refilling  of  the  trench  or  by  temporary 
+strutting. 
+
+15.4.2  Jointing— Ih^  sections  of  the  pipe  should  be  jointed  together  in 
+such  a  manner  that  there  shall  be  as  little  unevenness  as  possible  along  the 
+inside  of  the  pipe.  The  procedure  will  vary  according  to  the  type  of  joint 
+being  used.     Basic  requirements  for  all  types  are: 
+
+a)  cleanliness  of  all  parts,  particularly  joint  surface; 
+
+b)  correct  location  of  components; 
+
+c)  centralization  of  spigot  within  socket; 
+
+d)  provision  of  the  correct  gap  between  the  end  of  the  spigot  and  the 
+back  of  the  socket  (  for  rubber  ring  joint )  to  ensure  flexibility  at 
+each  joint;  and 
+
+e)  any  lubricant  used  shall  be  approved  as  to  composition  and  method 
+of  application. 
+
+
+^Specification  for  caulking  lead  ( third  revision  ). 
+
+25 
+
+
+IS  :  783  -  1985 
+
+Details  of  jointing  shall  be  as  recommended  by  the  manufacturer. 
+
+For  collar  joint  the  loose  collar  shall  be  set  up  over  the  joint  so  as  to 
+have  an  even  caulking  space  all  round.  Into  this  caulking  space  shall  be 
+rammed  1:1-5  mixture  of  cement  and  sand  for  pressure  pipes  and  1  :  2  for 
+non-pressure  pipes  just  sufficiently  moistened  to  hold  together  in  the  hand. 
+The  caulking  shall  be  so  firm  that  it  shall  be  difficult  to  drive  the  point  of  a 
+pen  into  it.  The  caulking  shall  be  employed  at  both  ends  in  a  slope  of 
+1:1.  In  place  of  cement  mortar,  any  other  suitable  approved  compound 
+may  be  used.  Every  caulked  joint  shall  be  kept  wet  for  about  ten  days  for 
+maturing.  The  section  of  the  pipe  line  laid  and  jointed  shall  be  covered 
+immediately  to  protect  it  from  weather  effects.  A  minimum  cover  of 
+100  mm  is  considered  adequate.  A  polythene  sheet  also  be  used  to  cover 
+the  joints  to  prevent  evaporation  of  water. 
+
+15.4.2.1  Chanf^e  of  direction  —  Small  changes  in  direction  may  be 
+made  by  setting  adjacent  pipes  at  a  slight  angle  to  one  another.  The 
+maximum  angle  will  very  with  the  type  of  joint  used  and  the  diameter  of 
+pipe.  Maximum  permissible  angle  shall  be  as  recommended  by  the 
+manufacturer. 
+
+15.4.3  Laying  and  Anchoring  of  Pipes  on  Gradients  —  Where  gradient 
+steeper  than  1  m  6  is  contemplated  consideration  should  be  given  to  the 
+construction  of  suitable  transverse  anchor  blocks  spaced  as  shown  in 
+Table  3. 
+
+
+TABLE  3  SPACING  OF  TRANSVERSE  ANCHORS  FOR  STEEPLY 
+INCLINED  PIPELINES 
+
+Oradient  Spacing 
+
+m 
+
+1  :  2  or  steeper  5 
+
+1  :  3  or  1  :  4  10 
+
+1  :  5  or  1  :  6  15 
+
+1  :  7  or  1  :  12  Depends  on  ground  conditions 
+
+Flatter  than  1:12  Not  usually  required 
+
+
+For  gradients  between  I  in  7  and  1  in  12,  the  need  for  transverse 
+anchor  blocks  will  depend  on  ground  conditions.  For  slopes  flatter  than 
+1  in  12,  there  is  seldom  need  to  provide  anchor  blocks. 
+
+It  should  be  noted  that  where  very  steep  gradients  occur  the  trench 
+may  act  as  a  drain  after  back  filling  has  been  completed,  the  flow  of  water 
+
+26 
+
+
+IS  :  783  -  1985 
+
+could  disturb  granular  bedding  material,  hence,  reducing  the  effective 
+support  for  the  pipes.  In  these  circumstances  alternative  bedding  material 
+should  be  considered.  If  the  flow  of  water  through  the  bedding  material 
+is  potentially  substantial,  clay  water  stops  should  be  introduced. 
+
+In  the  case  of  gradients  steeper  than  1  in  15,  consideration  should  be 
+given  to  the  use  of  suitable  spacers  to  achieve  the  correct  gap  between  the 
+end  of  the  spigot  and  the  back  of  the  socket.  Precautions  should  be  taken 
+to  ensure  that  there  is  no  movement  of  adjacent  pipes  relative  to  each 
+other,  immediately  after  the  jointing  operation  is  complete.  As  soon  as 
+joint  assembly  is  complete,  the  last  pipe  laid  should  be  firmly  restrained  in 
+position  until  back  filling  over  it  is  complete  and  well  compacted. 
+
+15.5  Testing 
+
+1S.SA  General — All  pipelines  should  be  tested  before  being  brought 
+into  service.  The  test  should  be  a  hydrostatic  test  performed  by  filling  the 
+pipeline  with  water  and  raising  the  pressure  to  the  selected  test  pressure 
+and  maintaining  this  for  a  sufiicient  period  to  allow  for  absorption  of 
+water  by  the  pipe  material.  A  graph  of  quantity  of  water  added  to  main- 
+tain the  test  pressure  against  time  will  show  when  absorption  of  water  is 
+substantially  completed.  In  the  case  of  large  diameter  low  pressure  pipes 
+consideration  may  be  given  to  internal  testing  of  joints  only. 
+
+15.5.2  Site  Test  Pressure  —  The  site  test  pressure  to  be  imposed  should 
+have  already  been  determined  when  placing  orders  for  pipes  and  fittings. 
+In  general,  this  pressure  should  not  be  less  than  the  maximum  pipeline 
+operating  pressure  plus  the  calculated  surge  pressure  allowance,  but  in  no 
+case,  should  it  exceed  the  works  hydrostatic  proof  test  pressure.  If  pressure 
+measurements  are  not  made  at  the  lowest  point  of  the  section  under  test, 
+an  allowance  should  be  made  for  the  static  head  between  the  lowest  point 
+and  the  point  of  measurement  to  ensure  that  the  maximum  pressure  is  not 
+exceeded  at  the  lowest  point. 
+
+15.5.3  Test  Procedure  —  At  the  commencement  of  a  pipe  laying  project, 
+it  is  prudent  to  test  comparatively  short  section  in  order  to  establish  the 
+test  procedure  and  gain  experience;  thereafter,  the  test  may  be  applied  to 
+longer  lengths. 
+
+Each  section  should  be  properly  sealed  ofiT,  preferably  with  special  stop 
+ends  secured  by  adequate  anchors.  The  thrust  on  the  stop  ends  should  be 
+calculated  on  the  full  socket  internal  diameter  and  the  anchors  designed  to 
+resist  it.  It  may  often  be  economical  to  provide  a  concrete  anchor  block 
+of  couple  of  pipes  laid  and  earth  tamped  around  which  has  subsequently 
+to  be  demolished  rather  than  risk  movement  of  the  stop  ends  during  testing. 
+Hydraulic  jacks  may  be  inserted  between  the  temporary  anchors  and  stop 
+
+27 
+
+
+IS  :  783  -  1985 
+
+ends  in  order  to  take  up  any  horizontal  movement  of  the  temporary  anchor. 
+All  permanent  anchors  should  be  in  position  and,  if  of  concrete,  should 
+have  developed  adequate  strength  before  testing  begins.  The  section  under 
+test  should  be  filled  with  v/ater,  taking  care  that  all  air  is  displaced  either 
+through  vents  at  the  high  points,  or  by  using  a  swab. 
+
+After  filling,  the  pipeline  should  be  left  under  operating  pressure  for 
+a  period  in  order  to  achieve  conditions  as  stable  as  possible  for  testing. 
+The  length  of  this  period  will  depend  upon  many  factors  such  as  initial 
+permeability,  absorption,  movement  of  the  pipeline  under  pressure  and  the 
+quantity  of  air  trapped.  More  water  should  be  pumped  in  from  a  calibrat- 
+ed container  until  the  required  test  pressure  is  reached.  The  test  pressure 
+should  be  maintained  throughout  the  test  by  means  of  continuous  pumping, 
+using  a  pres^re  relief  valve.  The  excess  water  coming  from  the  relief 
+valve  shoula  be  returned  to  the  calibrated  container.  The  rate  of  loss  of 
+water  from  the  container  should  be  determined  at  regular  intervals;  the 
+standard  of  acceptance  should  be  clearly  specified  and  the  test  should  be 
+continued  until  this  is  achieved.  The  generally  accepted  standard  for  non- 
+absorbent  pipelines  such  as  steel  and  iron  is  0*1  litre  per  millimetre  of  pipe 
+diameter  per  kilometre  of  pipeline  per  day  for  each  30  metre  head  cf 
+pressure  applied.  Concrete  is  an  absorbent  and  permeable  material,  the 
+factors  which  govern  the  absorption  and  permeability  are  vary  complex  and 
+they  cannot  at  the  present  time  be  subject  to  accurate  analysis.  It  is  known, 
+however,  the  following  factors  play  an  important  part: 
+
+a)  The  density  of  the  concrete, 
+
+b)  The  amount  of  surplus  ( non-combined )  water  present  in  the 
+concrete  at  the  conunencement  of  the  test, 
+
+c)  The  amount  and  quality  of  the  cement  metrix  (  water-cement  ratio 
+and  cement  content  of  mix  ), 
+
+d)  The  thickness  of  the  concrete  unit  under  test, 
+
+e)  The  pressure  applied,  and 
+
+f)  The  duration  of  the  test. 
+
+Laboratory  permeability  tests  are  usually  conducted  under  very  low 
+heads,  (  about  01  atmosphere  )  which  is  in  the  order  of  1  percent  of  the 
+operating  pressure  of  many  trunk  water  mains.  For  low  head  la1)oratory 
+permeability  tests,  the  permeability  coeflGicient  may  be  in  the  range  of 
+1  X  10-«  to  1  X  10-*®  cmVs  per  cm*  (  area  of  concrete  under  test )  per  cm 
+( thickness  of  concrete  section  under  test ).  Air  vojds  in  well  compacted 
+mature  concrete  may  occupy  1  percent  of  the  volume  of  the  concrete.  As 
+an  example  of  the  eflTect  of  items  (  a  )  and  (  b  )  only,  when  concrete  has 
+been  artificially  dried  and  then  placed  in  water  without  any  applied  pressure, 
+
+28 
+
+
+IS  :  783  -  1985 
+
+the  accepted  absorption  of  good  quality  concrete  should  not  exceed  6-5 
+per  cent  by  mass  of  the  concrete  in  24  hours.  For  concrete  pressure  pipe, 
+900  mm  diameter,  under  a  test  pressure  of  100  m  head,  a  figure  of  6  percent 
+for  artificially  dried  concrete  may  amount  to  about  48  000  1/km  in  24  hours. 
+For  concrete  pipelines,  the  standard  of  acceptability  for  non-absorbent 
+pipelines  quoted  above  can  be  achieved  only  when  absorption  is  complete. 
+In  the  case  of  concrete  pipes,  the  attainment  of  this  standard  may  be  costly 
+and  time  consuming  process  with  no  equivalent  advantage  obtained  in  the 
+form  of  a  higher  standard  of  completed  pipeline  and  it  may  be  preferable 
+to  specify  for  the  rate  of  loss  of  water  from  the  container  a  figure  more 
+appropriate  to  the  absorption  characteristics  of  concrete  and  thus  larger 
+than  the  figure  quoted  for  non-absorbent  pipelines.  A  figure  of  3  litres 
+per  mm  diameter  per  km  per  24  hours  per  30  m  head  is  recommended. 
+
+15.5.4  Leak  Detection  —  If  the  test  is  not  satisfactory,  the  fault  should 
+be  found  and  rectified.  Where  there  is  difficulty  in  locating  a  fault,  the 
+section  under  test  should  be  subdivided  and  each  part  tested  separately. 
+
+Method  employed  for  finding  leakage  include: 
+
+a)  visual  inspection  of  each  joint  if  not  covered  by  the  backfill; 
+
+b)  use  of  a  bar  probe  to  detect  signs  of  water  in  the  vicinity  of  joints 
+if  backfilled; 
+
+c)  aural  inspection  using  a  stethoscope  or  listening  stick  in  contact 
+with  the  pipeline; 
+
+d)  use  of  an  electronic  listening  device  wliich  detects  and  amplifies  the 
+sound  of  escaping  fluide  (  actual  contact  between  the  probe  and 
+the  pipe  is  not  essential ); 
+
+e)  injection  of  a  dye  into  test  water  ( particularly  suitable  in  waterlogg- 
+ed ground  but  subject  to  approval  by  the  appropriate  authority); 
+and 
+
+f)  introduction  of  nitrous  oxide  in  solution  into  the  test  water,  using 
+an  infra-red  gas  concentration  indicator  to  detect  the  presence  of 
+any  nitrous  oxide  that  has  escaped  through  the  leakage. 
+
+15.5.5  Final  Testing  —  After  all  sections  have  been  jointed  together  on 
+completion  of  section  testing,  a  test  on  the  complete  pipeline  should  be 
+carried  out.  This  test  should  be  carried  out  at  a  pressure  not  less  than  the 
+working  pressure  of  the  pipeline,  care  bemg  taken  to  ensure  that  the 
+pressure  at  the  lowest  point  in  the  pipeline  does  not  exceed  the  maximum. 
+During  the  test,  an  inspection  should  be  made  of  all  work  which  has  not 
+been  subjected  to  sectional  tests. 
+
+29 
+
+
+IS  :  783  <  1985 
+
+APPENDIX    A 
+(  Clauses  4.1,  7.1,  8.2,  B-l.l  ondB-lA  ) 
+
+FORMULAE  FOR  CALCULATION  OF  VERTICAL  LOADS  ON 
+PIPES  DUE  TO  FILL  MATERIAL 
+
+A-1.  TRENCH  CONDITION 
+
+A*  1.1  The  pipe  is  laid  in  a  narrow  trench  excavated  in  earth  or  rock  (  see 
+Appendix  B  ).  The  load  which  reaches  the  pipe  is  less  than  the  weight  of 
+the  fill  material  above  the  pipe  because  of  the  friction  between  the  fill 
+material  and  the  sides  of  the  trench«  The  frictional  resistance  diminishes 
+with  increase  in  trench  width  at  the  level  of  the  top  of  the  pipe  ( see 
+Fig.  14). 
+
+A-L2  JVt  is  calculated  as  follows: 
+
+where  C\  has  the  values  given  in  Fig.  4. 
+
+-ORDINARY   FILL 
+—  B 
+
+
+UNDISTURBED 
+MATERIAL 
+
+
+Fig.  14    Pipe  Laid  Under  Trench  Condition 
+
+A-2.  POSITIVE  PROJECTION  EMBANKMENT  CONDITION 
+
+A'l.t  The  pipe  is  laid  in  a  shallow  excavation  with  its  top  projecting  above 
+the  adjacent  undisturbed  foundation  material.  The  vertical  load  trans- 
+mitted to  the  pipe  is  usually  greater  than  the  load  due  to  the  weight  of  the 
+fill  material  above  the  top  of  the  pipe  because  settlement  of  tiie  fill  material 
+adjacent  to  the  pipe  transfers  additional  load  to  the  pipe  by  friction.  It  is 
+an  advantage  therefore,  to  compact  the  fill  material  adjacent  to  the  pipe  to 
+maximum  density  (  see  Fig.  IS  ). 
+
+30 
+
+
+15:783-1985 
+
+
+A-2.2  ^e  is  calculated  as  follows: 
+
+where  Ca  has  the  values  given  in  Fig.  1. 
+
+
+UNDISTURBED  MATERIAL 
+
+Fig.  15    Pipe  Laid  Under  Positivb  Projection 
+Embankment  Condition 
+
+
+A-3-  WIDE  TRENCH  CONDITION 
+
+A-3.1  The  pipe  is  laid  in  a  wide  trench  (  see  Appendix  B  ).  The  frictional 
+resistance  between  the  fill  material  and  the  walls  of  the  trench  has  less  effect 
+than  in  the  case  of  an  ordinary  trench,  and  the  installation  conditions  may 
+vary  between  trench  conditions  and  positive  projection  conditions.  The 
+lesser  of  the  loads  calculated  assuming  trench  conditions  and  positive 
+projection  conditions  fshall  be  adopted  when  calculating  the  required 
+minimum  test  load  (  see  Fig.  16  ). 
+
+
+ORDINARY 
+FILL 
+
+
+UNDISTURBED 
+MATERIAL 
+
+
+Fio.  16    Pipe  Laid  Under  Wide  Trench  Condition 
+
+31 
+
+
+18:783-1985 
+
+A-3.2  FFe  is  calculated  as  follows: 
+
+Wt  =  CiwB^  for  trench  conditions,  and 
+
+W9  =  Ct^D^  for  positive  projection  conditions. 
+
+where  Cx  has  the  values  given  in  Fig.  4,  and  Ce  has  the  values  given  in 
+Fig.  1. 
+
+A-4.  IMPERFECT  TRENCH  CONDITION 
+
+A-4.I  The  pipe  is  first  laid  under  positive  projection  conditions  ( see 
+Appendix  B  )  and  the  fill  material  is  placed  and  compacted  to  the  designed 
+height  (  see  Appendix  C,  Example  7  ).  A  trench  of  width  equal  to  the 
+outside  diameter  of  the  pipe  is  then  excavated  in  the  compacted  fill  material 
+directly  over  the  pipe  and  to  within  300  mm  of  the  top  of  the  pipe.  This 
+trench  is  then  refilled  with  loose  material  such  as  straw,  hay,  leaves  or 
+brush,  and  left  unconsolidated.  The  embankment  is  then  completed  and 
+consolidated  (  see  Fig.  17). 
+
+The  load  transmitted  to  the  pipe  under  these  conditions  is  less  than  the 
+load  transmitted  under  positive  projection  conditions. 
+
+A-4.2  W9  is  calculated  as  follows: 
+Wc  -  CnWB« 
+where  Cn  has  the  values  given  in  Fig.  2. 
+
+
+TRENCH  EXCAVATED 
+IN  CONSOLIOATCO 
+FILL  MATERIAL 
+
+LOOSE  FILL 
+
+C0NS0LI0A7E0 
+FILL 
+
+
+UNDISTURBED  MATERIAL 
+Fig.  17    Pipe  Laid  Under  Imperfect  Trench  Condition 
+
+
+32 
+
+
+18:783-1985 
+
+A-5  NEGATIVE  PROJECTION  EMBANKMENT  CONDITION 
+
+A-5.1  The  pipe  is  laid  in  a  narrow  trench  excavated  in  undisturbed  earth 
+or  rock  ( see  B-1  and  B-8).  The  trench  is  loosely  filled  up  to  natural 
+surface  with  fill  material  and  the  fill  material  is  then  built  up  to  the  designed 
+height  as  shown  in  Fig.  18.  The  load  transmitted  to  the  pipe  under  these 
+conditions  tend$  to  be  intermediate  between  the  load  transmitted  under 
+trendi  conditions  and  the  load  transmitted  under  positive  projection 
+conditions. 
+
+A-5.2  W^  is  calculated  as  follows: 
+
+where  Cn  has  the  values  given  in  Fig.  2. 
+
+
+ORDINARY  FILL 
+
+
+UNDISTURBED 
+MATERIAL 
+
+
+Fig.  18    Pipe  Laid  Under  Negative  Projection 
+Embankment  Conidtion 
+
+
+33 
+
+
+IS  :  783  -  1985 
+
+APPENDIX   B 
+
+(  Clauses  4.1,  6.2,  10.1,  10.2,  12.1,  A-1.1,  AO.l, 
+A.4.1  andA-SA) 
+
+TRENCH  CONDITION  AND  NEGATIVE  AND  POSITIVE 
+
+PROJECTION  CONDITIONS  UNDER  DIFFERENT 
+
+BEDDING  AND  FOUNDATION  CONDITIONS 
+
+B-1.  TRENCH  CONDITION  AND  NEGATIVE  PROJECnON 
+CONDITION:  TYPE  A  BEDDING  —  ROCK  FOUNDATION 
+
+B-1.1  Description  —  The  pipe  is  evenly  supported  on  a  continuous  concrete 
+cradle»  of  monolithic  cross  section  if  unreinforced. 
+
+The  thickness  of  the  cradle  under  the  pipe  is  sufficient  to  allow 
+adequate  compaction  of  the  concrete,  but  in  no  case  it  shall  be  less  than 
+twice  the  nominal  size  of  the  coarse  aggregate  or  SO  mm  whichever  is  the 
+greater. 
+
+The  cradle  extends  up  the  barrel  of  the  pipe  for  the  vertical  height 
+XD  assumed  in  the  design. 
+
+The  compressive  strength  of  the  concrete  in  the  cradle  shall  be  not 
+less  than  IS  N/mm^  at  28  days. 
+
+Selected  fill  material,  free  from  clay  lumps  letained  on  a  7S-mm  sieve 
+and  from  stones  retained  on  a  26*S-mm  sieve,  is  placed  around  and  over 
+the  pipe  and  compacted  in  layers  not  exceeding  ISO  mm  thick  to  a  consoli- 
+dated height  of  300  mm  above  the  top  of  the  pipe. 
+
+For  normal  trench  conditions  the  remainder  of  the  trench  is  refilled  to 
+natural  surface  with  ordinary  fill  material  (  see  Fig.  19  ). 
+
+For  negative  projection  conditions  ( see  Appendix  A ),  the  remainder 
+of  the  trench  to  natural  surface  level  is  refilled  without  compaction.  The 
+embankment  is  than  built  up.  Ordinary  fill  material  may  be  used  above 
+300  mm  from  the  top  of  the  pipe  (  see  Fig.  20  ). 
+
+Note  —  If  elliptlcally  reinforced  pipes  are  to  be  laid  on  Type  A  bedding  the  pipes 
+may  have  to  be  specially  designed  for  the  purpose. 
+
+B-1.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  negative  projection  condition  rg  =  —  I-O,  and 
+
+b)  For  trench  conditon  —  not  applicable. 
+
+34 
+
+
+IS  :  783  -  1985 
+
+
+35 
+
+
+IS  :  783  -  1985 
+
+B-1.3  Load  factor  Ft  shall  be  as  follows: 
+
+Ratio  X  1/10  2/10  3/10  4/10 
+
+Load  factor.  Ft  1-7  2*6  3*6  4-7 
+
+Note  — « Provided  the  pipe  is  unreinforoed  or  suitably  reinforced,  a  particular 
+of  cradle  will  increase  the  load  factor  for  every  class  of  pipe  by  approximately 
+same  amount,  not  the  same  percentage. 
+
+B-2.  TRENCH  CONDITION  AND  NEGATIVE  PROJECTION 
+
+CONDITION:  TYPE  A  BEDDING  —  EARTH  FOUNDATION 
+
+B-2.1  DescriptioD  —  The  pipe  is  evenly  supported  on  a  continuous  concrete 
+cradle,  of  monolithic  cross-section  if  unreinforoed. 
+
+The  width  of  the  cradle  is  not  less  than  the  external  diameter  of  the 
+pipe  plus  200  mm. 
+
+The  thickness  of  the  cradle  under  the  pipe  is  not  less  than  one-quarter 
+of  the  internal  diameter  of  the  pipe  and  the  cradle  extends  up  the  barrel  of 
+the  pipe  for  a  vertical  distance  equal  to  X  times  the  external  diameter  of 
+the  pipe,  where  X  --  1/4  to  1/6. 
+
+The  compressive  strength  of  the  concrete  in  the  cradle  shall  be  not 
+less  than  IS  N/mm^  at  28  days. 
+
+Selected  fill  material,  free  from  clay  lumps  retained  on  a  7S-mm  sieve 
+and  from  stones  retained  on  a  26*5-mm  sieve,  is  placed  around  and  over 
+the  pipe  and  compacted  in  layers  not  exceeding  ISO  mm  thick  to  a  consoli- 
+dated height  of  300  nun  above  the  top  of  the  pipe. 
+
+For  normal  trench  conditions  the  remainder  of  the  trench  is  refilled  to 
+natural  surface  with  ordinary  fill  material  ( see  Fig.  21  ). 
+
+For  negative  projection  conditions  (  see  Appendix  A )  the  remainder 
+of  the  trench  to  natural  surface  is  refilled  without  compaction.  The 
+embankment  is  then  built  up.  Ordinary  fill  material  may  be  used  above 
+300  mm  from  the  top  of  the  pipe  (  see  Fig.  22  ). 
+
+Note  —  If  clliptically  reinforced  pipes  arc  to  be  laid  on  Type  A  bedding  the  pipes 
+may  have  to  be  specially  designed  for  the  purpose. 
+
+B-2.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  negative  projection  condition,  r^  =-•  —OS 
+
+b)  For  trench  condition  —  not  applicable. 
+
+36 
+
+
+IS  :  783  ■  1985 
+
+
+37 
+
+
+Ratio  X 
+
+-     ■  A 
+
+1/4 
+
+1/6 
+
+3 
+
+2-6 
+
+2-2 
+
+1-9 
+
+IS  :  783  -  1985 
+
+B-2.3  Load  factor.  Ft  depending  on  ratio  X  shall  be  as  follows: 
+
+Classof  Pipe 
+
+NP2 
+
+NP3,  NP4  and  stronger 
+
+Note  —  Provided  the  pipe  is  unreinforced  or  suitably  reinforced,  a  particular  type 
+of  cradle  will  increase  the  load  factor  for  every  class  of  pipe  by  approximately  the 
+same  amount,  not  the  same  percentage. 
+
+8-3.  TRENCH  CONDITION  AND  NEGATIVE  PROJECTION 
+CONDITION:  TYPE  B  BEDDING  —  ROCK  FOUNDATION 
+
+B-3.1  Description  —  The  pipe  is  evenly  bedded  on  a  continuous  cushion  of 
+compacted  sand  or  earth.  The  thickness  of  the  cushion  under  the  pipe  is 
+not  less  than  40  mm  for  each  meter  height  of  the  fill  material  over  the  top 
+of  the  pipe  or  200  mm  whichever  is  the  greater.  Care  is  taken  to  ensure 
+that  the  pipe  is  not  supported  solely  on  the  socket,  if  any,  for  example,  a 
+chase  is  excavated  in  the  foundation  material  to  prevent  the  socket  from 
+bearing  on  the  foundation. 
+
+The  cushion  extends  up  the  barrel  of  the  pipe  for  a  vertical  height  of 
+not  less  than  one-quarter  of  the  external  diameter  of  the  pipe. 
+
+The  width  of  the  cushion  is  not  less  than  the  external  diameter  of  the 
+pipe  plus  200  mm. 
+
+Selected  fill  material,  free  from  clay  lumps  retained  on  a  7S-mm  sieve 
+and  from  stones  retained  on  a  26*S-mm  sieve,  is  placed  around  and  over 
+the  pipe  and  compacted  in  layers  not  exceeding  ISO  mm  thick  to  a  consoli- 
+dated height  of  300  mm  above  the  tpp  of  the  pipe. 
+
+For  normal  trench  conditions,  the  remainder  of  the  trench  is  refilled 
+to  natural  surface  level  with  ordinary  fill  material  ( see  Fig.  23  ). 
+
+For  negative  projection  conditions,  the  remainder  of  the  trench  to 
+natural  surface  level  is  refilled  without  compaction.  The  embankment  is 
+then  built  up  (  see  Fig.  24  ).  Ordinary  fill  material  may  be  used  above 
+300  mm  from  the  top  of  the  pipe. 
+
+B-3.2  Settlement  ratio  r,  shall  be  as  follows: 
+
+a)  For  negative  projection  condition,  rg  =  —1*0,  and 
+
+b)  For  trench  condition  —  not  applicable. 
+
+38 
+
+
+IS  :  783  - 1985 
+
+
+— ^o^\ 
+
+
+39 
+
+
+IS  :  783  -  1985 
+
+B-3.3  Load  factor  Ft  shall  be  as  follows: 
+
+a)  If  the  fill  material  at  the  sides  of  the  pipe  and  to  a  height  of 
+300  mm  above  the  top  of  the  pipe  is  compacted  to  the  same  density 
+as  that  of  the  foundation  material  or  to  90  percent  of  the  maximum 
+density  at  optimum  moisture  content  as  determined  by  a  suitable 
+method  o^  test,  a  load  factor  of  2*5  shall  be  used. 
+
+b)  If  the  fill  material  at  the  sides  of  the  pipe  is  compacted  to  a  lesser 
+density  than  specified  in  (  a  )  above,  a  load  factor  less  than  25, 
+depending  on  the  density  achieved,  should  be  used.  The  minimum 
+load  factor  that  shall  be  used  is  1-9. 
+
+B-4.  TRENCH  CONDITION  AND  NEGATIVE  PROJECTION  CONDI- 
+TION: TYPE  B  BEDDING  ~  EARTH  FOUNDATION 
+
+B-4.1  Description  —  The  pipe  is  evenly  bedded  on  a  continuous  cushion 
+of  compacted  sand  or  earth.  The  thickness  of  the  cushion  under  the  pipe 
+is  not  less  than  75  mm.  The  foundation  is  shaped  concentrically  with  the 
+pipe  for  a  width  not  less  than  0-6  times  the  external  diameter  of  the  pipe, 
+as  shown  in  Fig.  25  and  26. 
+
+Fill  material,  free  from  clay  lumps  retained  on  a  75-mm  sieve  and 
+from  stone  retained  on  a  26-5-mm  sieve,  is  placed  around  and  over  the 
+pipe  and  compacted  in  layers  not  exceeding  150  mm  thick  to  a  consolidated 
+height  of  300  mm  above  the  top  of  the  pipe. 
+
+For  normal  trench  conditions  the  remainder  of  the  trench  is  refilled  to 
+natural  surface  level  with  ordinary  fill  material. 
+
+For  negative  project  conditions  the  remainder  of  the  trench  to  natural 
+surface  level  is  refilled  without  compaction,  and  the  embankment  is  then 
+built  up  Ordinary  fill  material  may  be  used  above  300  ram  from  the  top 
+of  the  pipe. 
+
+B-4.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  negative  projection  condition  r,  =  — •  0*5,  and 
+
+b)  For  trench  condition  —  not  applicable. 
+
+B-4  3  Load  factor,  Ft  shall  be  as  follows: 
+
+a)  If  the  fill  material  at  the  sides  of  the  pipe  and  to  a  height  of  300  mm 
+above  the  top  of  the  pipe  is  compacted  to  the  same  density  as  that 
+of  the  foundation  material,  or  to  90  percent  of  the  maximum 
+density  at  optimum  moisture  content  as  determined  by  a  suitable 
+method  of  test,  a  load  factor  of  2*5  shall  be  used;  and 
+
+
+40 
+
+
+IS  :  783  -  1985 
+
+b)  If  the  fill  material  at  the  sides  of  the  pipe  is  compacted  to  a  lesser 
+density  than  specified  in  (a)  above,  a  load  factor  less  than  2-5, 
+depending  on  the  density  achieved,  should  be  used.  The  minimum 
+load  factor  that  shall  be  used  is  1.9. 
+
+
+ORDINARY  FILL^"^ 
+LOOSE  FILL 
+
+
+SELECTED 
+COMPACTED  FILL 
+
+
+COMPACTED   SAND 
+OR  GRANULAR 
+MATERIAL   75mm 
+mm.  THICK 
+
+
+Fig.  25    Pipe  Under  Trench    Fig.  26 
+Condition:  Type  B 
+Bedding:        Earth 
+Foundation 
+
+
+Pipe  Under  Negative 
+Projection  Condition: 
+Type  B  Bedding:  Earth 
+Foundation 
+
+
+B-5.  TRENCH  CONDITION  AND  NEGATIVE  PROJECTION 
+
+CONDITION:  TYPE  C  BEDDING  —  ROCK  FOUNDATION 
+
+B-5.1  Description  —  The  pipe  is  evenly  bedded  on  a  continuous  cushion  of 
+compact  sand  or  earth  The  thickness  of  the  cushion  under  the  pipe  is  not 
+less  than  20  mm  for  each  meter  height  of  fill  material  above  the  top  of  the 
+pipe  or  150  mm,  whichever  is  the  greater.  The  cushion  extends  up  the 
+barrel  of  the  pipe  for  a  vertical  height  for  not  less  than  one-lifth  of  the 
+external  diameter  of  the  pipe. 
+
+The  width  of  the  cushion  is  not  less  than  the  external  diameter  of  the 
+pipe  plus  200  mm. 
+
+Fill  material,  free  from  clay  lumps  retained  on  a  75-mm  sieve  and  from 
+stones  retained  on  a  26-5-mm  sieve,  is  placed  around  and  over  the  pipe  and 
+compacted  in  layers  not  exceeding  150  mm  thick  to  a  consolidated  height 
+of  150  mm  above  the  top  of  the  pipe. 
+
+For  normal  trench  conditions,  the  remainder  of  the  trench  is  refilled  to 
+natural  surface  level  with  ordinary  fill  material. 
+
+
+41 
+
+
+IS:783-1985 
+
+For  negative  projection  conditions  the  remainder  of  the  trench  to 
+natural  surface  level  is  refilled  without  compaction.  The  embankment  is 
+then  built  up.  Ordinary  fill  material  may  be  used  above  300  mm  from  the 
+top  of  the  pipe  (  see  Fig.  27  and  28  ). 
+
+B-5.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  negative  projection  condition,  r^  =  —10,  and 
+
+b)  For  trench  condition  —  not  applicable. 
+B-53  Load  factor  Ft  shall  be  as  follows: 
+
+a)  If  the  fill  material  at  the  sides  of  the  pipe  and  to  a  height  of 
+150  mm  above  the  top  of  the  pipe  is  compacted  to  the  same  density 
+as  that  of  the  foundation  material  or  to  90  percent  of  the  maximum 
+density  at  optimum  moisture  content  as  determined  by  a  suitable 
+method  of  test,  a  load  factor  of  1*9  shall  be  used. 
+
+b)  If  the  ffll  material  at  the  sides  of  the  pipe  is  compacted  to  a  lesser 
+density  than  specified  in  (  a  )  above,  a  load  factor  less  than  l-9» 
+depending,  on  the  density  achieved,  should  be  used.  The  minimum 
+load  factor  that  shall  be  used  is  1*5. 
+
+
+Ordinary  \^ 
+
+FILL — ^ 
+
+
+^^^^ 
+
+
+Dt200m 
+min. 
+
+
+SELECTED 
+COMPACTED  FILL 
+
+
+COMPACTED  SAND 
+OR  GRANULAR 
+MATERIAL 
+
+
+0^200 mm  min 
+
+
+*20  mm  per  metre  of  H  or  ISO  mm  whichever  is  greater. 
+
+
+Fio.  27     PiPB  Under  Trench 
+Condition:  Type  C 
+Bedding:  Rock 
+Foundation 
+
+
+Fio.  28    Pip*  Under  Negative 
+Projection  Ck>NDiTioN: 
+Type  C  Bedding: 
+Rock  Foundation 
+
+
+42 
+
+
+18:783-1985 
+
+B-6.  TRENCH  CONDITION  AND  NECiATIVE  PROJECTION 
+
+CONDITION:  TYPE  C  BEDDING  —  EARTH  FOUNDATION 
+
+B-6.1  Description  —  The  pipe  is  evenly  supported  on  an  earth  foundation 
+shaped  to  fit  the  barrel  of  the  pipe  for  a  width  not  less  than  one*half  of  the 
+external  diameter  of  the  pipe. 
+
+Fill  material,  free  from  clay  lumps  retained  on  a  7S-mm  sieve  and  from 
+stones  retained  on  a  26*5-mm  sieve,  is  placed  around  and  over  the  pipe  and 
+compacted  in  layers  not  exceeding  ISO  mm  thick,  to  a  consolidated  height 
+of  150  mm  above  the  top  of  the  pipe. 
+
+For  normal  trench  conditions  the  remainder  of  the  trench  is  refilled  to 
+natural  surface  level  with  ordinary  fill  material. 
+
+For  negative  projection  conditions,  the  remainder  of  the  trench  to 
+natural  surface  level  is  refilled  without  compaction.  Ordinary  fill  material 
+may  be  used  above  300  mm  from  the  top  of  the  pipe.  The  embankment  is 
+then  built  up  (  see  Fig.  29  and  30  ). 
+
+B-6.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  negative  projection  condition,  r^  =  —0-5,  and 
+
+b)  For  trench  condition  —  not  applicable. 
+
+
+— 4)'50r— 
+
+
+ORDINARY 
+FILL 
+
+
+SELECTED 
+COMPACTED  FILL 
+
+
+— Jo*5d[— 
+
+
+Fio.  29    Pipe  Under  Trench 
+Condition:  Type  C 
+Bedding:  Earth 
+Foundation 
+
+
+Fig.  30     Pipe  Under 
+
+Negative  Projecion 
+Condition:  Type  C 
+Bedding:  Earth 
+Foundation 
+
+
+43 
+
+
+18:783-1985 
+
+B-6.3  Load  factor  Ft  shall  be  as  follows: 
+
+a)  If  the  fill  material  at  the  sides  of  the  pipe  and  to  a  height  of  150  mm 
+above  the  top  of  the  pipe  is  compacted  to  the  same  density  as  that 
+of  the  foundation  material,  or  to  90  percent  of  the  maximum 
+density  at  optimum  moisture  content  as  determined  by  a  suitable 
+method  of  test,  a  load  factor  of  1*9  shall  be  used. 
+
+b)  If  the  fill  material  at  the  sides  of  the  pipe  is  compacted  to  a  lesser 
+density  than  specified  in  r  a )  above,  a  load  factor  less  than  1*9 
+depending  on  the  density  acnieved  should  be  used.  The  minimum 
+load  factor  that  shall  be  used  is  1*5. 
+
+
+B-7.  TRENCH  CONDITION  AND  NEGATIVE  PROJECTION 
+CONDITION:  TYPE  D  BEDDING  —  ROCK  FOUNDATION 
+
+B-7.1  Description  —  The  pipe  is  bedded  on  a  continuous  cushion  of  earth 
+not  less  than  100  mm  thick,  on  a  foundation  shaped  approximately  concen- 
+tric with  the  barrel  of  the  pipe,  as  shown  in  Fig.  31  and  32. 
+
+The  cushion  extends  up  the  barrel  of  the  pipe  for  a  vertical  height  not 
+less  than  one-tenth  of  the  external  diameter  of  the  pipe. 
+
+*  No  special  attempt  is  made  to  select  and  compact  the  fill  material. 
+
+The  use  of  this  method  is  not  recommended. 
+
+
+ORDINARY 
+
+
+LOOSE  FILL- 
+
+
+mm 
+
+
+COMPACTED  SAND 
+OR  GRANULAR 
+MATERIAL 
+
+
+100mm 
+
+
+Fio.  31    Pipe  Under  Trench 
+Condition  Type  D 
+Bbddino:  Rock 
+Foundation 
+
+
+Fig.  32    Pipe  Under  Negative 
+Projection  Condition: 
+Type  D  Bedding:  Rock 
+Foundation 
+
+
+44 
+
+
+IS  :  783  -  1985 
+
+B-7.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  negative  projection  condition,  rg  =  —  10,  and 
+
+b)  For  trench  condition  —  not  applicable. 
+B-7.3  Load  factor  Ft  shall  be  as  follows: 
+
+A  load  factor  of  M  shall  be  used. 
+
+Note  —  A  load  equal  to  three  quarters  of  the  weight  of  water  required  to  fill  the 
+pipe  should  be  added  to  the  calculated  external  load  on  the  pipe  (  see  12 ). 
+
+B-8.  TRENCH  CONDITION  AND  NEGATIVE  PROJECTION 
+
+CONDITION:  TYPE  D  BEDDING  —  EARTH  FOUNDATION 
+
+B-8.1  Description  —  The  pipe  is  laid  on  a  foundation  which  does  not  fit 
+the  barrel  of  the  pipe,  but  if  the  pipe  is  socketed  a  chase  is  made  in  the 
+foundation  to  prevent  the  socket  fiom  bearing  on  the  foundation.  No 
+special  attempt  is  made  to  select  and  compact  the  fill  material  (  see  Fig.  33 
+and  34  ). 
+
+The  use  of  this  method  is  not  recommended. 
+B-8.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  negative  projection  condition,  r»  ^  —O'S,  and 
+
+b)  For  trench  condition  —  not  applicable. 
+B-8.3  Load  factor  Ft  shall  be  M. 
+
+Note  —  A  load  equal  to  three-quarters  of  the  weight  of  water  required  to  fill  the 
+pipe>hali  be  added  to  the  calculated  external  load  on  the  pipe  ( see  12  ). 
+
+
+Fig.  33    Pipe  Under  Trench 
+Condition:  Type  D 
+Bedding:  Earth 
+Foundation 
+
+
+Fig.  34    Pipe  Under  Negative 
+Projection  Condition: 
+Type  D  Bedding: 
+Earth  Foundation 
+
+
+45 
+
+
+18:783-1985 
+
+B-9.  POSITIVE  PROJECTION  CONDITION  INCLUDING  WIDE 
+TRENCH  CONDITION,  AND  IMPERFECT  TRENCH 
+CONDITION:  TYPE  A  BEDDING  —  ROCK  FOUNDATION 
+
+B-94  Description  —  The  pipe  is  evenly  supported  on  a  continuous  concrete 
+cradle;  of  monolithic  cross  section  if  unreinforced. 
+
+The  width  of  the  cradle  is  not  less  than  the  external  diameter  of  the 
+pipe  plus  200  nmi. 
+
+The  thickness  of  the  cradle  under  the  pipe  is  not  less  than  twice  the 
+nominal  size  of  the  cofirse  aggregate  in  the  concrete  or  SO  mm,  whichever  is 
+the  greater. 
+
+The  cradle  extends  up  the  barrel  of  the  pipe  for  a  vertical  distance 
+equal  to  one-quarter  of  the  external  diameter  of  the  pipe. 
+
+The  compressive  strength  of  the  concrete  in  the  cradle  is  not  less  than 
+15  N/nmi*  at  28  days. 
+
+Selected  fill  material,  free  from  clay  lumps  retained  on  a  7S-mm  sieve 
+and  from  stones  retained  on  a  26'S-mm  sieve,  is  placed  around  and  over 
+the  pipe  and  compacted  in  layers  not  exceeding  150  mm  above  the  top  of 
+the  pipe.  Tlie  compacted  selected  fill  material  extends  at  least  300  mm 
+from  each  side  of  the  pipe  ( see  Fig.  35  ). 
+
+Note  —  If  elliptically  reinforced  pipes  are  installed  on  Type  A  bedding,  the  pipes 
+may  have  to  be  specially  designed  for  the  purpose. 
+
+
+NARYvFILL  /\> 
+
+
+so  mm 
+min. 
+
+
+I      D-»200mm]^ 
+^     min,  ""^ 
+
+
+COMPACTED   SELECTED  FILL 
+MATERIAL  FOR    300mm 
+AROUND^PIPE 
+
+
+CONTINUOUS 
+CONCRETE  CRADLE 
+
+
+Fig.  35    Pipe  Under  Positive  Projection  CoNDmoN: 
+Type  A  Bedding:  Rock  Foundation 
+
+
+46 
+
+
+IS  :  783  .  1985 
+
+
+B-9.2  Projcctioa  ratio p  shall  be  075. 
+B-9.3  Settlement  ratio  r,  shall  be  as  follows: 
+
+a)  For  positive    projection   condition    and   wide  trench  condition, 
+fg  =  I'O  :  and 
+
+b)  For  imperfect  trench  condition,  Tg  ^--  —  I'O. 
+B-9.4  Load  factor  Fe  shall  be  as  follows: 
+
+
+p  =  0-75 
+
+r^ 
+
+H 
+
+D 
+
++  10 
+
+—  10 
+
+F^ 
+
+0-5 
+
+65 
+
+5 
+
+10 
+
+4-8 
+
+5 
+
+1-5 
+
+4-3 
+
+5 
+
+20 
+
+40 
+
+5 
+
+30 
+
+3-8 
+
+5 
+
+50 
+
+3-8 
+
+5 
+
+100 
+
+37 
+
+5 
+
+Note  —  Provided  the  pipe  is  unreinforced  or  suitably  reinforced*  a  particular  type 
+of  cradle  will  increase  the  load  factor  for  every  class  of  pipe  by  approximately  the 
+same  amount,  not  the  same  percentage. 
+
+B-IO  POSITIVE  PROJECTION  CONDITION  INCLUDING  WIDE 
+'  TRENCH  CONDITION,  AND  IMPERFECT  TRENCH 
+CONDITION:  TYPE  A  BEDDING  ~  EARTH  FOUNDATION 
+
+B-IO.I  Description  —  The  pipe  is  evenly  supported  on  a  continuous  con- 
+crete cradle,  of  monolithic  cross-section  if  unreinforced. 
+
+The  thickness  of  the  cradle  under  the  pipe  is  not  less  than  one-quarter 
+of  the  internal  diameter  of  the  pipe.    The  cradle  extends  up  the  barrel  of 
+
+47 
+
+
+18:783-1985 
+
+the  pipe  for  a  vertical  height  equal  to  one-quarter  of  the  external  diameter 
+of  the  pipe. 
+
+The  compressive  strength  of  the  concrete  in  the  cradle  is  not  less  thaa 
+IS  N/mm*  at  28  days. 
+
+Selected  fill  material,  free  from  clay  lumps  retained  on  75-mm  sieve 
+and  from  stones  retained  on  a  26*S-mm  sieve,  is  placed  around  and  over  the 
+
+Eipe  and  compacted  in  layers  not  exceeding  ISO  mm  thick  to  a  consolidated 
+eight  of  300  mm  above  the  top  of  the  pipe.    The  compacted  selected  fill 
+material  extends  at  least  300  mm  from  each  side  of  the  pipe  ( see  Fig.  36  ). 
+
+Note  —  If  elliptically  reinforced  pipes  are  to  be  installed  on  Type  A  bedding  the 
+pipes  may  have  to  be  specially  designed  for  the  purpose. 
+
+B-10.2  Projection  ratio  p  shall  be  0*75. 
+
+B-10.3  Settlement  ratio  i-g  shall  be  as  follows: 
+
+a)  For  positive  projection  condition  and  wide  trench  condition,  rg  « 
+0-7  to  10;  and 
+
+b)  For  imperfect  trench  condition  Tb  =  —OS. 
+B-10.4  Load  factor  Fe  shall  be  as  follows: 
+
+
+p  =  0-75 
+
+ri 
+
+\ 
+
+H 
+D 
+
+0-7  to  10 
+
+—  0-5 
+
+0-5 
+
+f 
+
+e 
+
+6-5 
+
+5 
+
+10 
+
+4-8 
+
+5 
+
+1-5 
+
+4-3 
+
+5 
+
+20 
+
+40 
+
+5 
+
+30 
+
+3-8 
+
+5 
+
+50 
+
+3-8 
+
+5 
+
+100 
+
+3-7 
+
+5 
+
+48 
+
+
+18:783-1985 
+
+Note  —  Provided  the  pipe  is  unreinforoed  or  suitably  reinforced*  a  particular  type 
+ofcradle  will  increase  the  load  factor  for  every  class  of  pipe  by  approximately  the 
+same  amount,  not  the  same  percentage. 
+
+
+COMPACTED    SELECTED 
+ILL   MATERIAL  FOR 
+mm  AROUND    PIPE 
+
+
+CONTINUOUS 
+CONCRETE  CRADLE 
+
+
+.0-1-200 
+min. 
+
+
+Fig.  36    Pipe  Under  Positive  Projection  Condition: 
+Type  A  Bedding:  Earth  Foundation 
+
+B-11.  POSITIVE  PROJECTION  CONDITION  INCLUDING  WIDE 
+TRENCH  CONDITION,  AND  IMPERFECT  TRENCH 
+CONDITION:  TYPE  B  BEDDING  ~  ROCK  FOUNDATION 
+
+B-11.1  Description  —  The  pipe  is  evenly  bedded  on  a  continuous  cushion 
+of  sand  or  earth  and  is  laid  so  that  the  projection  ratio  does  not  exceed 
+0-7.  The  thickness  of  the  cushion  under  the  pipe  is  not  less  than  40  mm 
+for  each  metre  of  fill  material  over  the  top  of  the  pipe  or  200  mm,  which- 
+ever is  the  greater  (  see  Fig.  37 ). 
+
+The  cushion  extends  up  the  barrel  of  the  pipe  for  a  vertical  height  of 
+not  less  than  one-tenth  of  the  external  diameter  of  the  pipe. 
+
+The  width  of  the  cushion  is  not  less  than  the  external  diameter  of  the 
+pipe  plus  100  mm. 
+
+Fill  material,  free  from  clay  lumps  retained  on  a  7 5- mm  sieve  and 
+from  stones  retained  on  26-5-mm  sieve,  is  compacted  around  the  pipe  in 
+layers  not  exceeding  150  mm  thick  to  a  consolidated  height  of  300  mm 
+above  the  top  of  the  pipe. 
+
+Up  to  the  level  of  the  undisturbed  rock,  the  fill  material  should  be  free 
+from  clay  and  stones  and  should  be  carefully  tamped  around  the  pipe  to 
+ensure  thorough  compaction. 
+
+
+49 
+
+
+IS  :  783  -  1985 
+
+
+PO 
+
+
+j^J^^^\w4\rK\ 
+
+
+SAND  OR  GRANULAR 
+
+
+0*  lOOwnv-^ 
+mm. 
+
+
+AOmm  PER   METRE; 
+OF  H   OR    200  rrrm: 
+WHICHEVER  IS 
+GREATER 
+
+
+Fig.  37    Pipe  Under  Positive  Projection  Condition: 
+Type  B  Bedding:  Rock  Foundation 
+
+The  compacted  fill  material  extends  at  least  300  mm  from  each  side  of 
+the  pipe. 
+
+B-11.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  positive    projection  condition    and  wide  trench  condition^ 
+fg  =  +  10  ;and 
+
+b)  For  imperfect  trench  condition,  r^  =  — 1*0. 
+
+
+50 
+
+
+IS  :  783  -  1985 
+
+
+B-11^  Load  factor  Ft  shall  be  as  follows: 
+
+
+/>  =  0-7 
+
+r. 
+
+H 
+D 
+
++  10 
+
+—  10 
+
+0-5 
+
+F 
+
+e 
+
+2-8 
+
+2-9 
+
+10 
+
+25 
+
+2-9 
+
+1-5 
+
+2-4 
+
+2-9 
+
+20 
+
+2-4 
+
+2-9 
+
+30 
+
+2-3 
+
+2-9 
+
+50 
+
+2'3 
+
+2-9 
+
+100 
+
+2-3 
+
+2-9 
+
+p  =  0-5 
+
+r. 
+
+i 
+
+If 
+D 
+
++  10 
+
+—  10 
+
+0-5 
+
+F. 
+
+2-3 
+
+2-7 
+
+10 
+
+2-3 
+
+2-7 
+
+1-5 
+
+2-2 
+
+27 
+
+20 
+
+2-2 
+
+2-7 
+
+30 
+
+2-2 
+
+2-7 
+
+50 
+
+2-2 
+
+2-7 
+
+100 
+
+2-2 
+
+2-7 
+
+51 
+
+
+IS:  783 -1985 
+
+B-12.  POSmVE  PROJECTION  CONDITION  INCXUDING  WIDE 
+TRENCH  CONDITION,  AND  IMPERFECT  TRENCH 
+CONDITION:  TYPE  B  BEDDING  -  EARTH  FOUNDATION 
+
+B-12.1  Description— The  pipe  is  evenly  bedded  on  a  continuous  cushion  of 
+sand  or  earth  and  is  installed  so  that  the  projection  ratio  does  not  exceed 
+0-7  (  see  Fig.  38  ). 
+
+The  thickness  of  the  cushion  under  the  pipe  is  not  less  than  IS  mm. 
+
+The  foundation  is  shaped  concentrically  with  the  barrel  of  the  pipe  so 
+that  the  cushion  extends  up  the  barrel  for  a  vertical  height  of  not  less  than 
+one-tenth  of  the  external  diameter  of  the  pipe. 
+
+Fill  material,  free  from  clay  lumps  retained  on  a  75-mm  sieve  and 
+from  stones  retained  on  a  26  5-mm  sieve,  is  compacted  around  the  pipe  in 
+layers  not  exceeding  150  mm  thick  to  a  consolidated  height  of  300  nun 
+above  the  top  of  the  pipe. 
+
+Up  to  the  level  of  the  natural  surface,  the  fill  material  should  be  free 
+from  clay  and  stones  and  should  be  carefully  tamped  around  the  pipe  to 
+ensure  thorough  compaction. 
+
+The  compacted  fill  material  extends  at  least  300  mm  on  each  side  of 
+the  pipe. 
+
+B*12.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  positive   projection  condition    and  wide    trench  condition, 
+fg  =  +0-5  to  +0-8;  and 
+
+b)  For  imperfect  trench  condition,  r^  =  —O-S. 
+
+
+"^^OROINARY  FILL 
+
+
+s/y^\i/^\  K/;^^  SELECTED 
+
+\>^\>/y^''S'S^^^'^'=zy^^^^^  MATERIAL   FOR 
+r<\ /^ y"^^ ^-^^  APnuMn   PIPE 
+
+
+->r3 
+
+
+SAND  OR  GRANULAR 
+MATERIAL - 
+
+
+^75  mm  min. 
+THICKNESS 
+
+
+Fig.  38    Pipe  Under  Positive  Projection  Condition: 
+Type  B  Bedding:  Earth  Foundation 
+
+
+52 
+
+
+IS  :  783  - 1985 
+
+
+B-12.3  Load  factor  f,  shall  be  as  follows: 
+
+
+p=  0-7 
+
+r» 
+
+H 
+D 
+
++  05  to  +0-8 
+
+—  0-5 
+
+0-5 
+
+F 
+
+B 
+
+2-8 
+
+2-9 
+
+10 
+
+2-5 
+
+2-9 
+
+1-5 
+
+2-4 
+
+2-9 
+
+20 
+
+2-4 
+
+2-9 
+
+30 
+
+2-3 
+
+2-9 
+
+50 
+
+2-3 
+
+2-9 
+
+100 
+
+2-3 
+
+2-9 
+
+p-  0-5 
+
+r» 
+
+H 
+D 
+
+-\-  0  5  to  +  0-8 
+
+—  0-5 
+
+05 
+
+F. 
+
+2-3 
+
+2-7 
+
+10 
+
+2-3 
+
+2-7 
+
+1-5 
+
+2-3 
+
+2-7 
+
+2a 
+
+2-3 
+
+2-7 
+
+30 
+
+2-3 
+
+2-7 
+
+50 
+
+2-3 
+
+2-7 
+
+100 
+
+2-3 
+
+2-7 
+
+53 
+
+
+IS :  783  .  1985 
+
+»-13.  POSITIVE  PROJECTION  CONDITION  INCLUDING  WIDE 
+TRENCH  CONDITION,  AND  IMPERFECT  TRENCH 
+CONDITION:  TYPE  C  BEDDING  —  ROCK  FOUNDATION 
+
+B-13.1  Description  —  The  pipe  is  evenly  bedded  on  a  continuous  cushion 
+of  sand  or  earth.  The  thickness  of  the  cushion  under  the  pipe  is  not  less 
+than  40  mm  for  each  metre  height  of  fill  material  over  the  top  of  the  pipe 
+or  150  nmi,  whichever  is  the  greater  (  see  Fig.  39  ). 
+
+The  cushion  extends  up  the  barrel  of  the  pipe  for  a  vertical  height  of 
+not  less  than  one-tenth  of  the  external  diameter  of  the  pipe. 
+
+The  width  of  the  cushion  is  not  less  than  the  external  diameter  of  the 
+pipe  plus  100  mm. 
+
+Fill  material,  free  from  clay  lumps  retained  on  a  75-mm  sieve  and 
+from  stones  retained  on  a  26*S-mm  sieve,  is  compacted  around  the  pipe  in 
+layers  not  exceeding  ISO  mm  thick  to  a  consolidated  height  of  300  nun 
+above  the  top  of  the  pipe.  The  compacted  fill  material  extends  at  least 
+300  mm  from  each  side  of  the  pipe. 
+
+B-13.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  positive  projection  condition  and  wide  trench  condition,  r%  ^ 
++  10;  and 
+
+b)  For  imperfect  trench  condition,  r^  =  —  I'O. 
+
+
+AcfED  SELECTED 
+MATERIAL   FOR 
+mm  AROUND  PllfE 
+
+
+SANO  OR  QRANULAR 
+MATERIAL 
+
+
+0/io>in.N\ 
+
+
+D'*'100mm*# 
+min. 
+
+
+L.  40  mm  PER  METRE  OF 
+H  OR  ISO  mm 
+WHICHEVER   IS 
+GREATER 
+
+
+Fio.  39    Pipe  Under  Positivb  Projection  Condition: 
+Type  C  Bedding:  Rock  Foundation 
+
+
+54 
+
+
+IS :  783^1985 
+
+
+B-13.3  Load  factor  F«  shall  be  as  follows: 
+
+
+H 
+D 
+
+
+0-5 
+10 
+1-5 
+20 
+30 
+50 
+100 
+
+
+/>  =  0-9 
+
+
+4-10 
+
+
+2-8 
+23 
+2-3 
+21 
+20 
+20 
+20 
+
+
+F, 
+
+
+-10 
+
+
+2-5 
+2-5 
+2-5 
+2-5 
+2-5 
+2-5 
+2-5 
+
+
+0-7 
+
+
+D 
+
+
++  1-0 
+
+
+—10 
+
+
+F. 
+
+
+0-5 
+10 
+1-5 
+20 
+30 
+50 
+100 
+
+
+2-2 
+20 
+20 
+1-9 
+1-9 
+1-9 
+19 
+
+
+2-3 
+2-3 
+2-3 
+2-3 
+23 
+2-3 
+2-3 
+
+
+55 
+
+
+18:783-1985 
+
+
+/>  =  0-5 
+
+r. 
+
+H 
+
+5" 
+
++  10 
+
+-10 
+
+F, 
+
+> 
+
+0-5 
+
+1-9 
+
+21 
+
+10 
+
+1-9 
+
+21 
+
+1-5 
+
+1-8 
+
+21 
+
+20 
+
+1-8 
+
+21 
+
+30 
+
+1-8 
+
+21 
+
+50 
+
+1-8 
+
+21 
+
+100 
+
+1-8 
+
+21 
+
+8-14.  POSITIVE  PROJECTION  CONDITION  INCLUDING  WIDE 
+TRENCH  CONDITION,  AND  IMPERFECT  TRENCH 
+CONDITION:  TYPE  C  BEDDING  —  EARTH  FOUNDATION 
+
+B-14.1  Description  —  The  pipe  is  evenly  supported  on  a  foundation  shaped 
+to  fit  the  barrel  of  the  pipe  for  a  vertical  height  of  not  less  than  one-tenth 
+of  the  external  diameter  of  the  pipe  (  see  Fig.  40  ), 
+
+Fill  material,  free  from  clay  lumps  retained  on  a  75-mm  sieve  and 
+from  stones  retained  on  a  26-5-mm  sieve,  is  compacted  around  the  pipe  in 
+layers  not  exceeding  150  mm  thick  to  a  consolidated  height  of  not  less  than 
+300  mm  over  the  top  of  the  pipe.  The  compacted  fill  material  extends 
+at  least  300  mm  from  each  side  of  the  pipe. 
+
+B-14.2  Settlement  ratio  r.  shall  be  as  follows: 
+
+a)  For  positive  projection  condition    and  wide    trench  condition, 
+rg  «  -I-0-5  to  +0-8;  and 
+
+b)  For  imperfect  trench  condition,  r,  =  ^05. 
+
+
+56 
+
+
+IS  :  783  -  1965 
+
+
+^^^/*^^^^^^^i2^^:^^^^  SELECT  EO 
+
+>N><//yS>V^-^-"?'^/X^'''L  MATERIAt  FOR 
+^N^V'^S^^>--V- >vV300mm  AROUND  PIPE 
+
+
+0/10  mm. 
+
+
+Fio.  40    Pipe  Under  Positive  Projection  Condition: 
+Type  C  Bedding:  Earth  Foundation 
+
+
+B-14  J  Load  factor  F^  shall  be  as  follows: 
+
+
+P^Q9 
+
+r» 
+
+H 
+
+D 
+
++  0-5  to  +0-8 
+
+—  0-5 
+
+0-5 
+
+F, 
+
+2-8 
+
+2-5 
+
+10 
+
+2-3 
+
+2-5 
+
+1-5 
+
+2-3 
+
+2-5 
+
+20 
+
+21 
+
+2-5 
+
+30 
+
+20 
+
+2-5 
+
+5  0 
+
+20 
+
+2-5 
+
+100 
+
+20 
+
+2-5 
+
+57 
+
+
+IS  :  783  - 1985 
+
+
+H 
+
+
+05 
+10 
+1-5 
+20 
+30 
+50 
+100 
+
+
+;»=0-7 
+
+
+Ts 
+
+
++0-5  to  +0-8 
+
+
+F. 
+
+
+2-2 
+20 
+20 
+1-9 
+1-9 
+1-9 
+1-9 
+
+
+—  0-5 
+
+
+2-3 
+2-3 
+2-3 
+2-3 
+2-3 
+2-3 
+2-3 
+
+
+i»-0  5 
+
+r, 
+
+\ 
+
+H 
+
+D 
+
++0-5  to  +0-8 
+
+—  0-5 
+
+0-5 
+
+/=: 
+
+» 
+
+1-9 
+
+21 
+
+10 
+
+1-9 
+
+21 
+
+1-5 
+
+1-8 
+
+21 
+
+20 
+
+1-8 
+
+2-1 
+
+30 
+
+1-8 
+
+21 
+
+50 
+
+1-8 
+
+21 
+
+100 
+
+1-8 
+
+21 
+
+58 
+
+
+IS  :  783  -  1985 
+
+B-15.  POSITIVE  PROJECTION  CONDITION  INCLUDING  WIDE 
+TRENCH  CONDITION,  AND  IMPERFECT  TRENCH 
+CONDITION:  TYPE  D  BEDDING  —  ROCK  FOUNDATION 
+
+B-15.1  Description  —  The  pipe  is  bedded  on  a  continuous  cushion  of 
+earth.  The  thickness  of  the  cushion  under  the  pipe  is  not  less  than 
+100  mm.  No  special  attempt  is  made  to  select  and  compact  the  fill 
+material  (  see  Fig.  41 ). 
+
+The  use  of  this  method  is  not  recommended. 
+
+B-15.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  positive  projection  condition    and  wide    trench  condition, 
+fg  =  -hlO  ;  and 
+
+b)  For  imperfect  trench  condition,  fg  =  —  1  0. 
+B-15.3  Load  factor.  Ft  shall  be  as  follows: 
+
+
+p-  09 
+
+rg 
+
+H 
+
+D 
+
++  10 
+
+-10 
+
+0-5 
+
+F, 
+
+B 
+
+1-4 
+
+10 
+
+J-3 
+
+1-5 
+
+13 
+
+2-0 
+
+1-2 
+
+30 
+
+1-2 
+
+50 
+
+1-2 
+
+100 
+
+1-2 
+
+59 
+
+
+IS:  783- 1985 
+
+
+/»-0-7 
+
+H 
+D 
+
+r» 
+
++  10 
+
+—  10 
+
+0-5 
+10 
+1-5 
+20 
+30 
+50 
+100 
+
+F. 
+
+1-3 
+1-2 
+1-2 
+1-2 
+1-2 
+1-2 
+1-2 
+
+1-3 
+1-3 
+1-3 
+1-3 
+1-3 
+1-3 
+1-3 
+
+/>=0-5 
+
+/■s 
+
+H 
+D 
+
++  10 
+
+—  10 
+
+F, 
+
+12 
+
+0-5 
+
+1-2 
+
+1-2 
+
+10 
+
+1-2 
+
+1-5 
+
+1-2 
+
+20 
+
+1-2 
+
+30 
+
+1-2 
+
+50 
+
+1-2 
+
+100 
+
+1-2 
+
+60 
+
+
+IS  :  783  -  1985 
+
+
+SAND  OR  GRANULAR^ 
+
+MATERIAL-^  ^lOOmm  min. 
+
+Fig.  41    Pipe  Under  Positive  Projection  Condition: 
+Type  D  Bedding:  Rock  Foundation 
+
+
+B-16.  POSITIVE  PROJECTION  CONDITION  INCLUDING  WIDE 
+TRENCH  CONDITION,  AND  IMPERFECT  TRENCH 
+CONDITION:  TYPE  D  BEDDING  —  EARTH  FOUNDATION 
+
+B-16.1  Description  —  The  pipe  is  laid  directly  on  a  foundation  which 
+provides  a  continuous  support  for  the  pipe  but  which  is  not  shaped 
+concentrically  with  the  barrel  of  the  pipe.  No  special  attempt  is  made  to 
+select  the  fill  material  or  to  compact  the  fill  material  around  and  over  the 
+pipe  (  see  Fig.  42  ). 
+
+The  use  of  this  method  is  not  recommended. 
+
+B-16.2  Settlement  ratio  r^  shall  be  as  follows: 
+
+a)  For  positive  projection   condition  and    wide  trench    condition, 
+r,  =  +0-5  to   1-0-8  ;  and 
+
+
+b)  For  wide  trench  condition,  r,  ^  — 0*5. 
+
+
+61 
+
+
+IS :  783  -  1985 
+
+B-163  Load  factor  Ft  shall  be  as  follows: 
+
+
+;»  =  0-9 
+
+r» 
+
+H 
+
+D 
+
++0-5  to  +0-8 
+
+-0-5 
+
+Ft 
+
+0-5 
+
+1-4 
+
+1-4 
+
+10 
+
+1-3 
+
+1-4 
+
+1-5 
+
+1-3 
+
+1-4 
+
+20 
+
+1-2 
+
+1-4 
+
+30 
+
+1-2 
+
+1-4 
+
+50 
+
+1-2 
+
+1-4 
+
+100 
+
+ir 
+
+1-4 
+
+/»  =  0-7 
+
+r 
+
+S 
+
+H 
+
+D 
+
++  0  5to  +  0-8 
+
+—  0-5 
+
+05 
+
+F 
+
+e 
+
+1-3 
+
+1-3 
+
+10 
+
+1-2 
+
+1-3 
+
+1-5 
+
+1-2 
+
+1-3 
+
+20 
+
+1-2 
+
+1-3 
+
+30 
+
+12 
+
+•      1-3 
+
+50 
+
+1-2 
+
+1-3 
+
+100 
+
+1-2 
+
+1-3 
+
+62 
+
+
+IS:  783 -1985 
+
+
+p  ■-=-.  0-5 
+
+fi 
+
+1 
+
+H 
+
+D 
+
+■fO-Sto  4 0-8 
+
+-0-5 
+
+05 
+
+/=•« 
+
+1-2 
+
+1-2 
+
+10 
+
+12 
+
+1-2 
+
+1-5 
+
+1-2 
+
+20 
+
+M 
+
+30 
+
+1-2 
+
+50 
+
+1-2 
+
+100 
+
+12 
+
+ORQINADY 
+FILL 
+
+
+Fig.  42    Pipb  Under  Positive  Projection  Condition 
+Type  D  Bedding:  Earth  Foundation 
+
+
+63 
+
+
+IS  :  783  -  1985 
+
+APPENDIX    C 
+
+(  Clause  A-4.1  ) 
+
+EXAMPLES  OF  CALCULATIONS  OF  LOADS  ON  PIPES 
+
+Example  1: 
+
+Calculation  of  the  required  class  of  reinforced  concrete  pipe  laid  under 
+trench  conditions,  given  the  following  data: 
+
+Internal  diameter  of  pipe,  d  «=  900  mm 
+
+Wall  thickness,  /  =  SO  mm 
+
+External  diameter,  Z)  =  900  +  2x  50==1000mm 
+
+Width  of  trench  (  assumed  ),  B 
+
+
+=  Z)  +  300 
+
+=  1  300  mm 
+
+Depth  of  trench  to  pipe  invert 
+
+=  3m 
+
+Unit  weight  of  fill  material 
+(  wet  clay  ),  w 
+
+^  18  kN/m» 
+
+Bedding  and  foundation  material 
+(  jee  B-4 )  =  Type  B,  earth 
+
+Depth  of  fill  material  over  top 
+of  pipe,  H=  30—10 
+
+=  2m 
+
+Calculation 
+
+The  vertical  load  Wt  on  the  pipe  due  to  the  fill  material  is  calculated 
+from  the  formula: 
+
+lVc-=  CiwB^  (seeA'l) 
+
+The  value  of  €%  »  1*29  is  obtained  from  Fig.  4  using  curve  and  ratio 
+
+Hence  the  calculated  load  on  the  pipe,  W, 
+
+=  1-29  X  18  X  1-3*    ' 
+
+=  39-24  kN/m 
+The  load  factor.  Ft  ==  1-9  (  from  B-4  ) 
+
+64 
+
+
+IS  :  783  -  1985 
+
+
+The  required  minimum  cracking  load  is 
+
+Wc  _  39-24 
+Ft  ^     1-9 
+
+
+=  20-65  kN/m 
+
+It  follows  from  Table  2  of  IS  :  458-1971*  that  900  mm  NP2  class  pipe 
+which  has  a  025  mm  crack  test  load  of  245  kN/m  is  suitable. 
+
+Example  2: 
+
+Calculation  of  the  required  class  of  450  mm  diameter  concrete  pipe 
+installed  under  trench  conditions,  given  the  following  data: 
+
+Internal  diameter  of  pipe,  d  =  450  mm 
+
+Wall  thickness,  t  =  35  mm 
+
+External  diameter  of  pipe,  D 
+
+=  450  +  70  =  520  mm 
+
+Width  of  trench  (  assumed )» B 
+
+=  520  4r  300  =  820  mm 
+
+Depth  of  trench  to  pipe  invert  =  3  m 
+
+Unit  weight  of  fill  material  ( wet  clay  )  =  18  kN/m» 
+
+Bedding  and  foundation  material 
+
+-=  Type  B,  earth 
+
+Depth  of  fill  material  above  top  of 
+pipe,  H  =  3  ~  0-820  =  2180  m 
+
+Calculation 
+
+As  in  Example  1,  >Ko  —  Ct  wB*,  and  the  value  of  Ct  =  1'9  is  obtained 
+from  Fig.  4  using  curve  B  and  ratio 
+
+^        2M8         ^.. 
+:B=^-a820-==^^^ 
+
+Hence  W.  -  1-9  x  18  x  0-82» 
+=  22-99  kN/m 
+
+The  load  factor  f  t  =  1-9  (  from  B-4 ) 
+
+a)  For  a  reinforced  concrete  pipe,  the  required  minimum  test  load  is 
+
+JjL«=J?:^«  12-1  kN/m 
+Ft  1-9 
+
+
+•Specification  for  concrete  pipes  (  with  and  without  reinforcements  )(  second  revision  ). 
+
+65 
+
+
+15:783-1985 
+
+It  follows  from  table  2  of  IS  :  458-1971'!'  that  a  450  mm  NP2  class 
+pipe  which  has  a  0*25  mm  crack  load  of  14*5  kN/m  is  suitable. 
+
+b)  For  an  unreinforced  concrete  pipe  the  test  load  required  should  be 
+at  least  1*5  ( see  Note )  times  the  calculated  vertical  load  on  the 
+pipe  divided  by  the  load  factor. 
+
+Hence  the  required  minimum  test  load  is 
+
+P9 =  f^ =  18-15  kN/m 
+
+It  follows  from  Table  1  of  IS  :  458-1971*  that  450  mm  dia  NPl  class 
+pipe  which  has  a  test  load  of  21-9  kN/m  is  suitable. 
+
+Hence,  a  choice  between  an  unreinforced  and  a  reinforced  pipe  is 
+available. 
+
+Note  —  It  is  usual  to  apply  a  factor  of  safety  of  1  -5  to  all  unreinforced  pipes  for 
+all  installation  conditions. 
+
+Example  3: 
+
+Calculation  of  the  required  class  of  450  him  diameter  pipe  given  the 
+same  conditions  and  data  as  in  Example  2,  with  the  addition  of  a  uniformly 
+distributed  superimposed  load  U  of  32  kN/m^. 
+
+Calculation 
+
+The  vertical  load,  Wu  on  on  the  pipe  due  to  the  superimposed  load  is 
+calculated  from  the  formula: 
+
+Wu  =  CuBU 
+
+The  value  of  Cu  =  0*49  is  obtained  from  Fig.  5  using  curve  B  and  the 
+ratio 
+
+i  -  2« 
+
+Hence  Jf  „  =  0-49  x  0-82  x  32  =  12-85  kN/m  and  the  total  calculated 
+load  on  the  pipe 
+
+=  »fe  +  Wy,  =  22-99  +  12-85 
+
+=  35-84  kN/m 
+
+As  before,  F,  =  1-9 
+
+
+'Specification  for  concrete  pipes  ( with  and  without  reinforcements )  (  second 
+revision). 
+
+66 
+
+
+18:783-1985 
+
+For  a  reinforced  concrete  pipe  the  required  minimum  test  load 
+
+Ft 
+
+35-84 
+
+
+1-9 
+
+-  1886  kN/m 
+
+It  follows  from  the  above  that  450  mm  NP2  class  pipe  will  be  obviously 
+inadequate  and  450  mm  NP3  class  pipe  with  025  mm  cracking  load  of 
+36-9  kN/m  will  have  to  be  used.  Alternatively,  450  mm  NP2  class  pipe 
+with  Type  A  bedding  may  be  used. 
+
+Example  4: 
+
+Calculation  of  the  required  class  of  a  600  mm  diameter  concrete  pipe, 
+laid  under  trench  conditions  with  the  addition  of  a  concentrated  superim- 
+posed live  load,  given  the  following  data: 
+
+External  diameter  of  pipe,  D  =  680  mm 
+
+Wall  thickness  (  assumed  ),  /  =40  mm 
+
+Width  of  trench  (  assumed  ),  B 
+
+680  f-  300  -  980  mm 
+
+Unit  weight  of  fill  material  (  wet  clay  ),  w  =18  kN/m^ 
+
+Bedding  and  foundation  material  --=  Type  B,  earth 
+
+Depth  of  fill  material  above  top  of  pipe,  H  ■==  600  mm 
+
+Concentrated  load  on  surface  of  fill  material,  P  =  45  kN 
+
+Impact  factor,  a  =  M 
+
+Length  of  a  single  pipe  =  2-5  m 
+
+Width  of  concentrated  load  in  direction  of  the  pipe,  S  ==  300  mm 
+
+Calculation 
+
+a)  Load  due  to  fill  material,  We,  is  calculated  from  the  formula 
+Wt  =  CxViB\  The  value  of  G  =  0.57  is  obtained  frop>  Fig.  4 
+using  curve  B  and  the  ratio 
+
+B         098 
+67 
+
+
+IS  :  783  -  1985 
+
+Hence  W»  =  0-57  x  18  x  0-982  =  985  kN/m 
+The  load  factor,  Ft  =  1-9 
+
+Hence  the  required  minimum  test  load  for  the  pipe  to  provide  for 
+the  earth  load 
+
+=  ~'^^=f;|-  =  518  kN/m 
+
+b)  The  length  of  pipe.  /,  asumed  to  be  supporting  the  concentrated 
+load  is  calculated  from  the  formula: 
+
+/  =  115H  +  2D  +  S 
+=  1-15  X  0-6  +  2  X  0-68  +  0-3 
+=  2-35  m 
+
+.  D  0-68  .,,, 
+
+»"**  2F=T3roT=°"5^^ 
+
+The  value  Cp  =  0*58  is  obtained  from  Fig.  3.    Therefore,  the  vertical 
+load,  Wct  on  the  pipe  due  to  the  superimposed  load 
+
+-  J0:58  X  45  X  M 
+■"  2-35 
+
+-  12-22  kN/m 
+
+The  load  factor,  Fp  =  1'5 
+
+Hence,  the  required  minimum  test  load  for  the  pipe  to  provide  for  the 
+live  load 
+
+=  .i±±i==  8146  kN/m 
+
+The  total  required  minimum  test  load 
+
+-  518  +  8  146=  13-326  kN/m 
+
+It  follows  from  table  2  of  IS  :  458-1971*  that  600  mm  diameter  NP2 
+class  pipe  with  a  0*25  mm  cracking  load  of  18  6  kN/m  will  be  suitable. 
+
+Example  5: 
+
+Calculation  of  ^he  permissible  height  of  embankment  over  the  top  of 
+a  reinforced  concrete  pipe,  given  the  following  data: 
+
+
+^Specification  for  concrete  pipes  ( with  and  without  reinforcements )  (second 
+revision  ). 
+
+68 
+
+
+IS  :  783  -  1985 
+
+Internal  diameter  of  pipe,  d  ^  600  mm 
+
+Wall  thickness,  t  =  40  mm 
+
+External  diameter  of  pipe,  D  =  680  mm 
+
+Unit  weight  of  fill  material  (  wet  clay  ),  w  =  18  kN/m» 
+
+Bedding  and  foundation  material 
+(  see  B-12  )  -=  Type  B,  earth 
+
+Class  of  pipe  -  NP2 
+
+Settlement  ratio  (  assumed  ),  r,  =  0*7 
+
+Distance  from  top  of  pipe  down  to 
+
+undisturbed  foundation  level,  h  =  300  mm 
+
+Projection  ratio. 
+
+Calculation 
+
+Use  a  trial  procedure.    Assume  the  height  of  embankment  over  ihe 
+top  of  the  pipe  H  to  be  3  m,  then 
+
+^^  -ttIo-  ^  4-41  and  from  B-ll.  Fe  =  23 
+
+The  test  load,  Wu  for  a  600  class  NP2  pipe  =  186  kN/m 
+The  permissible  vertical  load, 
+
+Jf^e  =  W^t  X  Fe  "-  18-6  X  2-3  =  42-78  kN/m 
+Also  as  We  =  CewZ)^  then 
+
+^•"~  wZ)2  "   18x0-682     '  ^'^ 
+
+The  value  of   -w-  =  3*6  is  obtained  from  Fig.  1  using  Ce  -=»  5.14  and 
+
+r.p  =  0-7  X  0-44  =  0308 
+
+Hence  the  calculated  permissible  H 
+
+=  3-6  X  0-68  -  2-45  m 
+
+Check  from  B-12  that  the  diflFcrence  between  36,  the  calculated  value 
+
+WW  ff 
+
+of  _  and  4.41,  assumed  value  of  — ,  makes  no  difference  to  the  value  of 
+the  load  factor. 
+
+69 
+
+
+IS  :  783  -  1985 
+
+Example  6: 
+
+Calculation  of  the  required  class  of  a  reinforced  concrete  pipe  laid 
+under  embankment  conditions,  given  the  following  data: 
+
+Internal  diameter  of  pipe,  d  -  800  mm 
+
+Wall  thickness  (  assumed  ),  /  =45  mm 
+
+External  diameter  of  pipe,  D  =  890  mm 
+
+Unit  weight  of  fill  material,  >v  -  18  kN/m^ 
+
+Bedding  and  foundation  material 
+(  see  B-13  )  -  Type  C,  Rock 
+
+Settlement  ratio  (  assumed  ),  r^  -f  10 
+
+Distance  from  top  of  the  pipe  down  to      ^  450  mm 
+undisturbed  foundation  level,  h 
+
+Projection  ratio,  p  =  —  =  ^  0505 
+
+Height  of  embankment  over  top  of  pipe,  //^  =-  4  m 
+
+Calculation 
+
+The  vertical  load,  Wt.  on  the  pipe  due  to  the  fill  material  is  calculated 
+from  the  formula,  Wt^  =■--  Ce^D^ 
+
+The  value  Ce  =  6*8  is  obtained  from  Fig.  1  using  the  ratio, 
+~  =  -Q-gg       4-5  and  r^/?  =  1  x  0*505  -  0505 
+Hence  »^e  =  68  x  18  x  0892  _  95.953  i^n/^i 
+
+Lf 
+
+From  B-13,  using/;  =--  05,  n  ==  +  10  and        ^  4-5,  the  load 
+
+factor,  Ft  is  obtained  as  1-8. 
+
+Therefore  the  required  minimum  test  load 
+
+Wt       96-953       CO  o^  ,  vT/ 
+">    =  ^~  l-8~  ^  ^^ 
+
+It  follows  from  Table  3  of  IS  :  458-1971*  that  800  NP3  class  pipe  with 
+0-25  mm  cracking  load  of  59*3  kN/m  will  be  stUtable. 
+
+
+*  Specification    for  concrete  pipes  (  with   and   without  reiniorcements  )  (  second 
+revision  ). 
+
+70 
+
+
+IS  :  783  .  1985 
+
+Example  7: 
+
+Calculation  of  the  depth  h'  of  imperfect  trench  ( see  A-4 )  required  over 
+a  1  600  mm  diameter  reinforced  concrete  pipe  laid  under  imperfect  trench 
+conditions,  given  the  following  data: 
+
+External  diameter  of  pipe,  D 
+
+=  1  600  +  2  X  140  ---  1  880  mm 
+
+Height  of  finished  embankment  above 
+the  top  of  the  pipe,  H  ::    16  m 
+
+Class  of  pipe  =  NP4 
+
+Bedding  and  foundation  material 
+(  see  B-12  )  --  Type  B,  earth 
+
+Unit  weight  of  fill  material  (  wet  clay  ),  w  =  18  kN/m» 
+
+Settlement  ratio  (  assumed  ),  r^  ^  —O-S 
+
+Calculation 
+
+Assume  that  the  trench  excavated  over  the  pipe  in  the  compacted  fill 
+material  is  of  the  same  width  as  the  outside  diameter  of  the  pipe,  then  the 
+width  of  the  trench, 
+
+S  =  l-88mandA__..^._-.    ^'^^    =.  g-s, 
+
+From  Table  4  of  IS  :  458-1971  *  the  0-25  mm  cracking  load  for  1  600  mm 
+dia  pipe  is  119-6  kN/m. 
+
+IT 
+
+From  B-12  using/*      07,  r.  --=  -05  and  —  =  8-51,  F,  is  obtained 
+
+as  2-9. 
+
+Hence  the  maximum  allowable  vertical  load  on  the  pipe 
+
+Wc  ^  119-6  X  2-9  =  346-84  kN/m 
+Also  W,  -  CnwB"  (  see  A-4  ) 
+
+346-84  346-84       _ 
+
+C„  (  Max  )  -     ^^^      =    18  ^TTW"'    '^^^ 
+
+From  Fig.  2  using  ~  -  8-51  and  r,  -  -0-5,  the  value  of 
+
+
+•Specification  for  concrete  pipes  (with  and  without    reinforcements)  (second 
+revision ). 
+
+71 
+
+
+IS :  783  •  1985 
+
+Cn  =  5-8  forp'  =  0-5  and  Cn  =  4.9  for  /?'  =  10  respectively  arc 
+obtained. 
+
+Hence  by  linear  interpolation  for  Cn  =  545,  obtain  p'  =  0*694. 
+Therefore  the  required  depth  of  the  imperfect  trench  h'  =  p'  x  5  = 
+0-694  X  1-88  =  1-30  m. 
+
+To  provide  300  mm  fill  material  between  the  bottom  of  the  imperfect 
+trench  and  the  top  of  the  pipe,  in  order  to  protect  the  pipe  against  damage 
+by  excavating  plant,  the  embankment  should  be  consolidated  to  a  height 
+of  1-6  m  above  the  top  of  the  pipe  before  the  imperfect  trench  is  excavated 
+approximately  1*30  m  deep  and  1-88  m  wide  (  see  A-4  ). 
+
+Example  8: 
+
+Calculation  of  the  required  class  of  a  300  mm  diameter  concrete  pipe 
+laid  under  trench  conditions  and  supporting  concentrated  wheel  loading 
+from  a  DC3  aircraft,  given  the  following  data: 
+
+External  diameter  of  pipe,  D    =-  300  -f  2  x  30  -^  360  mm 
+
+Width  of  trench,  jB  =  360  +  300  =  660  mm 
+
+Single  wheel  load,  P  -  70  kN 
+
+Height  of  cover  to  surface  of  pavement,  H  =  450  mm 
+
+Impact  factor,  a  =1 
+Unit  weight  of  fill  material  (  compacted  to  unit 
+
+weight  of  undisturbed  natural  soil  ),  w  =18  kN/m' 
+
+Bedding  and  foundation  material  (  normal  for 
+
+air-field  conditions  )  (  see  B-4  )  -=  Type  B,  earth 
+
+Width  of  load  in  direction  of  length  of  conduit     =  Disregarded 
+Depth  to  top  of  pipe  from  natural  ground  level.  A'  =  300  mm 
+
+Thickness  of  pavement  above  natural  ground 
+level  (  negative  trench  condition  )  ^^^  150  mm 
+
+Calculation 
+
+a)  Load  due  to  fill  material,  Wc  is  calculated  from  the  formula 
+
+Wt  =-  Cn^vB*  (  see  A-4  ) 
+The  value  Cn  =  06  is  obtoined  from  Fig.  2  using  the  ratio 
+
+p'  =  - 1   =  -gi|g  =-  0  45  say  =-  05  and  the  ratio 
+
+B        0*66 
+
+72 
+
+
+IS  :  783  -  1985 
+
+Hence,  W,^06  X  li  X  066»  =  470  kN/m 
+
+The  load  factor  /\  =  2.5  (  see  B-4  ) 
+
+Therefore,  the  required  minimum  test  load  to  provide  for  the  earth  load 
+
+^»         4-70        .„„.,.„ 
+=  -J-  =    27^-  =  1-88  IcN/m 
+
+b)  Load  due  to  the  wheel  load,  fV^,  is  calculated  from  the  formula 
+lVc^C^~isee9) 
+
+The  length  of  pipe,  /,  assumed  to  be  supporting  the  concentrated  load 
+is  calculated  from  the  formula 
+
+/  =  115^+  2Z)  -h  S 
+=  115  X  0-45  +  2  X  0-36  +  0 
+=  1-24  m 
+
+The  value  Cp  =  042  is  obtained  from  Fig.  3,  using  the  values  for 
+-"o  -  TH   =    2W4r  -  ^-38,  and  -^  =  ^^^l\^  =  040 
+Hence  Wc  -    Q'-*2x^70xl     _  ^3.^^  ^^^^ 
+
+The  load  factor  Fp  for  a  concentrated  load  is  1*5.    Then  the  required 
+
+23*71 
+niinimum  test  load  to  provide  for  the  wheel  load  =  — ^^ —  =^-=  15-81  kN/m 
+
+So  the  total  required  niinimum  test  load  ^  1*88  -f  15*81  =  1769 
+kN/m.  It  follows  from  Table  2  of  IS  :  458-1971*  that  300  mm  NP2  class 
+pipe  with  a  025  mm  crack  load  of  11*8  kN/m  will  not  be  suitable  and  a 
+special  design  would  be  necessary. 
+
+Example  9: 
+
+Calculation  of  the  required  class  of  a  1  100  mm  diameter  reinforced 
+concrete  pipe  for  a  twin  conduit  in  trench,  given  the  following  data: 
+
+External  diameter  of  pipe,  Z>  =  1  100  +  2  x  115  ==  1  330  mm 
+
+Width  of  trench,  B  =  3  560  mm 
+
+Depth  of  fill  material  over  top  of  pipe,  H  =  7  m 
+
+
+^Specification  for  concrete  pipes  (with  and  without    reinforcements)  (second 
+revision ). 
+
+73 
+
+
+IS  :  783  -  1985 
+
+Unit  weight  of  fill  material  (  sandy  clay  ),  w  =17  kN/m' 
+
+Bedding  and  foundation  material  (  see  B-6 )  =  Type  C,  earth 
+
+The  compaction  of  the  fill  material  each  side  of  each  pipe  is  to  comply 
+with  the  minimum  requirements  of  B-6  only,  that  is  the  attainment  of 
+maximum  density  at  optimum  moisture  content  will  not  be  attempted. 
+
+Calculation 
+
+The  vertical  load,  We  on  the  plane  through  the  top  of  the  pipe  is 
+calculated  from  the  formula 
+
+fVe  -  CtwB^  (  see  A-1  ) 
+
+The  value  of  Ct  --^  1'48  is  obtained  from  Fig.  4  using  curve  C  and 
+
+—  =       ^     =  1-97 
+B  3-56        ^^^ 
+
+Hence  Wt  =  1*48  x  17  x  3-56«  =  318*87  kN/m 
+
+Because  of  the  limited  degree  of  compaction  of  the  fill  material  on 
+each  side  of  the  pipes,  the  fill  material  is  assumed  incapable  of  sharing  the 
+vertical  load  We  with  the  pipes. 
+
+318*87 
+Each  pipe  therefore  is  assumed  to  support  —  ^  —  ^  159-44  kN/m 
+
+The  load  factor  Ft  =-15  {see  B-6  ) 
+
+159*44 
+So,  the  required  minimum  test  load  =  — p^  =^  106*29  kN/m 
+
+It  follows  from  Table  4  of  IS  :  458-1971*  that  1  100  mm  dia  NP4 
+class  pipe  will  not  be  suitable  for  this  loading  and  a  specially  designed 
+pipe  is  necessary. 
+
+Example  10: 
+
+Calculate  the  required  class  of  a  800  mm  diameter  reinforced  concrete 
+pipe  laid  under  negative  projection  conditions  (  see  B-4  )  given  the  follow- 
+ing data: 
+
+Internal  diameter  of  pipe,  d  =  800  mm 
+
+Wall  thickness  (  assumed ),  /  —    90  mm 
+
+External  diameter  of  pipe,  D  =  980  mm 
+
+=  800  +  2  X  90 
+
+
+*Speci(icatioa  for  concrete  pipes  ( with  and   without    reinforcements )  ( second 
+revision ). 
+
+74 
+
+
+18:783-1985 
+
+Width  of  the  trench,  B  -  D  +  300         =1  280  mm 
+
+Unit  weight  of  fill  material  (  wet 
+
+clayXw  ■=    18kN/m» 
+
+Bedding  and  foundation  material 
+
+(  ^ee  B-4  )  --  Type  B,  earth 
+
+Settlement  ratio,  r.  =  0*5 
+
+Positive  projection  ratio,  p  —  O'l 
+
+Negative  projection  ratio,  p'  1-0 
+
+Height  of  embankment  above  natural 
+
+surface  —  ICw) 
+
+Compaction  of  fill  material  each  side  of  pipe  [  see  B-4'3  (a)  ] 
+
+Calculation 
+
+A$p'  ^  1,  then  h'  ^  B  x  p'   -  1'28  x  1  -  128  m 
+
+So  height  of  embankment  H  above  top  of  pipe    =    10  +  128 
+11-28  m. 
+
+The  vertical  load  on  the  pipe,  We  due  to  the  fill  material  is  calculated 
+from  the  formula: 
+
+We  -  C„  wB^ 
+The  value  of  Cn  =  51   is   obtained  from  Fig.   2  using  the  values 
+p'  -  10,  r.  -  ^-5,  and    ^  -  TST ^'  ^-^l 
+
+So,  Wc  -  5-1  X  18  X  1'28»  -  150-40  kN/m 
+The  load  factor,  Ft  =-  2*5 
+
+We      150-40 
+
+
+Therefore,  the  required  minimum  test  load 
+
+
+ft  2-5 
+
+60- 16  kN/m 
+
+
+From  Table  3  of  IS  :  458-1971*  it  follows  that  800  mm  diameter  NP3 
+Class  pipe  with  a  0*25  mm  cracking  load  of  59*  3  kN/m  will  be  just 
+suitable. 
+
+
+^Specification  for  concrete  pipes  (  with  and  without    reinforcements  )  ( second 
+revision ). 
+
+75 
+
+
+IS  :  783  -  1985 
+
+(  Continued  from  page  2  ) 
+
+Members  Representing 
+
+SUKI L.  SwAROOP  Orissa  Cement  Limited,  New  Delhi 
+
+Shri  H.  Bhattacharyya  (  Alternate  ) 
+Shri  G.  Raman,  Director  General,  ISI  (  Ex-officio  Member  ) 
+
+Director  (  Civ  Eogg ) 
+
+Secretary 
+
+Shri  N.  C.  Banoyopadhyav 
+Deputy  Director  ( Civil  Engg ),  ISI 
+
+Concrete  Pipes  Subcommittee,  BDC  2  :  6 
+
+Convener 
+
+Shri  N.  G.  Joshi  Indian  Hume  Pipe  Co  Ltd,  Bombay 
+
+Members 
+
+Shri  B.  Sankarasubramonia  Ayyaf  The  Kerala  Premo  Pipe  Factory  Ltd,  Quilon 
+Shki  S.  N.  Basu  Directorate  General  of  Supplies  and  Disposals, 
+
+New  Delhi 
+Shri  T.  N.  Uboveja  (  Alternate  ) 
+Shri  Bhaowant  Sinoh  Concrete     Pipe    Manufacturers    Association    of 
+
+India,  New  Delhi 
+Shri  H.  S.  Manik  (  Alternate  ) 
+Chief  Engineer  (  Sewerage  Municipal     Corporation     of    Greater     Bombay, 
+
+Project  )  Bombay 
+
+Deputy  Chief  Engineer  (  Sewerage  Projlct  ) 
+P  &  D  (  Alternate  ) 
+Shri  A.  W.  Deshpande  National   Environmental    EngiiMtfing     P.csearch 
+
+Institute  (  CSIR  ),  Nagpur 
+Shri  V.  A.  Mhaisalkar  (  Alternate  ) 
+Shri  G.  R.  Haridas  Gammon  India  Ltd,  Bombay 
+
+Shri  P.  C.  Jain  Enginecr-in-Chicfs  Branch,  Army  Headquarters, 
+
+New  Delhi 
+Shri  Sucha  Singh  (  Alternate ) 
+Joint  Director  (  Standards  )  Research,  Designs  and   Standards  Organization, 
+
+B  &  S/CB  (  Ministry  of  Railways  ),  Lucknow 
+
+Deputy  Direc  tor  (  Standards  )  B  &  S/CB  (  Alternate  ) 
+Shri  P.  D.  Kelkar  The  Indian  Hume  Pipe  Co  Ltd.  Bombay 
+
+Shri  H.  S.  Pasrjcha  Hindustan  Prefab  Ltd,  New  Delhi 
+
+Dr  N.  Raohavendra  National     Council    for    Cement    and    Building 
+
+Materials,  New  Delhi 
+Shri  S.  S.  Ramrakhyani  Municipal  Corporation  of  Delhi,  Delhi 
+
+Shri  S.  Prakash  (  Alternate  ) 
+Representative  Tamil  Nadu  Water  Supply  and  Drainage  Board, 
+
+Madras 
+SuPERiNTLNpiNO  SURVEYOR  op  Central  Public  Works  Department,  New  Delhi 
+
+Works  (NZ) 
+SuRVF YOR  OF  Works  (  NZ )  (  Alternate  ) 
+Shri  V.  M.  Talati  Spunpipc    and  Construction  Co  (  Baroda  )  Pvt 
+
+Ltd,  Vadodara 
+Shri  A.  V.  Talati  (  Alternate  ) 
+Dr  B.  Venkateswarlu  Structural  Engineering  Research  Centre  (  CSIR  ). 
+
+Madras 
+Shri  Z.  George  ( Alternate ) 
+
+76 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+Headquarters: 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg.  NEW  DELHI  1 10002 
+
+Telephones  323  0131.  323  3375,  323  9402 
+
+Fax   91  11  3234062.  91  11  3239399.  91  11  3239382 
+
+
+Central  Laboratory: 
+
+Plot  No  20/9,  Site  IV,  Sahibabad  Industrial  Area,  Sahibabad  201010 
+
+Regional  Offices. 
+
+Central   Manak  Bhavan.  9  Bahadur  Shah  Zafar  Marg.  NEW  DELH1 1 10002 
+
+^Eastern   1/14  CIT  Scheme  VII  M,  VI  P  Road,  Maniktola.  CALCUTTA  700054 
+
+Northern    SCO  335-336.  Sector  34-A.  CHANDIGARH  160022 
+
+Southern    C I T  Campus  IV  Cross  Road.  CHENNAI  6001 13 
+
+t Western   Manakalaya.  E9,  Behind  Marol  Telephone  Exchange.  Andhen  (East). 
+MUMBAi  400093 
+
+Branch  Offices: 
+
+'Pushpak'.  Nurmohamed  Shaikh  Marg,  Khanpur,  AHMEDABAD  380001 
+
+tPeenya  Industnal  Area,  1st  Stage.  Bangalore-Tumkur  Road 
+BANGALORE  560058 
+
+Gangotn  Complex,  5th  Floor  Bhadbhada  Road.  TT  Nagar.  BHOPAL  462003 
+
+Plot  No.  62-63.  Unit  VI.  Ganga  Nagar,  BHUBANESHWAR  751001 
+
+Kalaikathir  Buildings.  670  Avinashi  Road,  COIMBATORE  641037 
+
+Plot  No  43,  Sector  16  A,  Mathura  Road.  FARIDABAD  121001 
+
+Sdvitn  Complex.  116  G  T  Road,  GHAZIABAD  201001 
+
+53/5  Ward  No  29.  R  G  Barua  Road.  5th  By-lane,  GUWAHATI  781003 
+
+5-8-56C,  L  N  Gupta  Marg.  Nampally  Station  Road,  HYDERABAD  500001 
+
+E-52,  Chitaranjan  Marg,  C-Scheme,  JAIPUR  302001 
+
+117/418  B,  Sarvodaya  Nagar,  KANPUR  208005 
+
+Seth  Bhawan,  2nd  Floor,  Behind  Leela  Cinema,  Naval  Kishore  Road, 
+LUCKNOW  226001 
+
+NIT  Building,  Second  Floor.  Gokulpat  Market,  NAGPUR  440010 
+
+Patliputra  Industnal  Estate.  PATNA  800013 
+
+Institution  of  Engineers  (India)  Building  1332  Shivaji  Nagar.  PUNE  411005 
+
+TC.  No  14/1421,  University  PO  Palayam,  THIRUVANANTHAPURAM  695034 
+
+
+Telegrams    Manaksanstha 
+(Common  to  all  Offices) 
+Telephone 
+
+
+*Saies  Office  is  at  5  Chowringhee  Approach,  PO  Pnncep  Street, 
+CALCUTTA  700072 
+
+tSales  Office  is  at  Novelty  Chambers,  Grant  Road.  MUMBAI  400007 
+
+t  Sales  Office  is  at  T  Block.  Unity  Building,  Narashimaraja  Square, 
+BANGALORE  560002 
+
+
+8-77  0032 
+
+323  7617 
+337  86  62 
+60  38  43 
+235  23  15 
+832  92  95 
+
+
+550  13  48 
+839  49  55 
+
+55  40  21 
+40  36  27 
+21  01  41 
+8-288801 
+8-711996 
+54  1 1  37 
+
+20  10  83 
+37  29  25 
+
+21  68  76 
+23  89  23 
+
+52  51  71 
+
+26  23  05 
+32  36  35 
+621  17 
+
+27  10  85 
+
+309  65  28 
+222  39  71 
+
+
+Printed  at  Simco  Printing  Press  Delhi 
+
+

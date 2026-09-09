@@ -1,0 +1,1026 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 13891 (1994) : Quality tolerances for fresh water for 
+fish culture [CHD 13: Water Quality for Industrial 
+Purposes] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 13891 : 1994 
+( Reaffirmed 2003 ) 
+
+TO^fr tt^r £ f*& rrr^rr mJ\ # twt ^t 
+
+Indian Standard 
+
+QUALITY TOLERANCES FOR FRESH WATER 
+
+FOR FISH CULTURE 
+
+
+
+UDC 628-1 : 639-31 : 543-3 : 620-16 
+
+
+
+© BTS 1994 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SIT AH ZAFAR MARG 
+NEW DELHI 110002 
+
+January 1994 Price Group 2 
+
+
+
+Water Sectional Committee, CHD 013 
+
+
+
+FOREWORD 
+
+This Indian Standard was adopted by the Bureau of Indian Standards after the draft finalized 
+by the Water Sectional Committee had been approved by the Chemical Division Council. 
+
+Inland surface waters are rivers ( including rivers liable to seasonal drying ), estuaries, streams, 
+lakes, impounded reservoirs, canals and man-made or natural drains leading to the above water 
+bodies. These are generally used for fish culture. Certain compounds are toxic and it may 
+have some adverse effects in fish culture. Proper quality of water, therefore, is necessary to 
+provide protection and propagation to fish and other aquatic life. 
+
+The technical committee responsible for the formulation of this standard is working on the 
+suitable limit together with method of test for faecal coliform to be specified in the standard. 
+
+The composition of the technical committee responsible for the formulation of this standard is 
+given in Annex B. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, 
+the final value, observed or calculated, expressing the result of a test or analysis, shall be rounded 
+off in accordance with IS 2 : 1960 'Rules for rounding off numerical values ( revised)'. The 
+number of significant places retained in the rounded off value should.be the same as that of the 
+specified value in this standard. 
+
+
+
+IS 13891:1*94 
+
+
+
+Indian Standard 
+
+QUALITY TOLERANCES FOR FRESH WATER 
+
+FOR FISH CULTURE 
+
+
+
+1 SCOPE 
+
+This standard prescribes the tolerance limits 
+for fresh water for fish culture. 
+
+2 REFERENCES 
+
+The Indian Standards listed in Annex A are 
+necessary adjuncts to this standard. 
+
+3 TOLERANCE LIMITS 
+
+Water used for fish culture shall comply with 
+
+
+
+the tolerance limits prescribed in Table 1. Tests 
+shall be carried out as prescribed in the relevant 
+Indian Standard given in col 4 of Table 1. 
+
+NOTE — The water quality prescribed in Table 1 
+is not merely sub-lethal but also favourable for a 
+mixed warm-water fish population and its food 
+organism. It shall not, however, be assumed, that 
+fish are not found or cannot survive in water with 
+concentrations beyond these limits. 
+
+
+
+Table 1 Tolerance Limits for Fresh Water for Fish Culture 
+
+
+
+SI No. 
+
+(1) 
+
+
+
+Characteristic 
+
+(2) 
+
+
+
+Tolerance Limit 
+
+
+Method of Test, CI Ref 
+
+
+(3) 
+
+
+(4) 
+
+
+6-5 to 85 
+
+
+IS 3025 (Part 11 ) : 1983 
+
+
+4 ( see Note 1 ) 
+
+
+IS 3025 ( Part 38 ) : 1989 
+
+
+1-5 f see Note 2) 
+
+
+IS 3025 ( Part 34 ) : 1988 
+
+
+1 500 x 10-s 
+
+
+IS 3025 ( Part 14 ) : 1984 
+
+
+12 ( at sunrise ) 
+
+
+43 of IS 3025 : 1964 
+
+
+No visible colour film on 
+
+
+IS 3025 ( Part 39 ) : 1989 
+
+
+the surface and no oily 
+
+
+
+
+odour 
+
+
+
+
+10-9 
+
+
+.58 of IS 3025 : 1964 
+
+
+10-s 
+
+
+58 of IS 3025 : 1964 
+
+
+10 
+
+
+IS 3025 (Part 10) : 1984 
+
+
+2-0 
+
+
+32 of IS 3025 : 1964 
+
+
+2 to 35 
+
+
+IS 3025 ( Part 9 ) : 1984 
+
+
+1000 
+
+
+5 of IS 2488 (Part 3) : 1968 
+
+
+100 to 300 
+
+
+IS 3025 ( Part 23 ) : 1986 
+
+
+2-0 
+
+
+IS 3025 ( Part 34 ) : 1988 
+
+
+002 
+
+
+IS 3025 (Part 26) : 1986 
+
+
+absent ( see Note 3 ) 
+
+
+16 of IS 2488 ( Part 1 ) : 1^66 
+
+
+0001 
+
+
+14 of IS 2488 (Parti ) : 
+
+
+
+
+1966 
+
+
+absent ( see Note 4 ) 
+
+
+8 of IS 2488 ( Part 3 ) : 1968 
+
+
+0*5 ( see Note 5 ) 
+
+
+Annex B of IS 4955 : 1993 
+
+
+0-025 
+
+
+IS 3025 (Part 27) : 1986 
+
+
+0-05 
+
+
+IS 3025 (Part 37) : 1988 
+
+
+005 
+
+
+IS 3025 (Part 42;: 1992 
+
+
+0*5 
+
+
+39 of IS 3025 : 1964 
+
+
+0-05 
+
+
+17 of IS 2488 ( Part 2 ) : 
+
+
+
+
+1968 
+
+
+005 
+
+
+37 of IS 3025 : 1964 
+
+
+0-01 
+
+
+IS 3025 ( Part 41 ) : 1992 
+
+
+0-001 
+
+
+IS 3025 ( Part 48 ) : 1993 
+
+
+
+i) /?H value 
+
+ii) Dissolved oxygen, mg/1, Min 
+iii) Free ammonia ( as N ), mg/1, Max 
+iv) Specific conductivity at 25°C, 
+
+^mhos, Max 
+v) Free carbon dioxide ( as CO a ), 
+
+mg/1, Max 
+vi) Oils and grease 
+
+vii) Alpha emitters, ^c/1, Max 
+
+viii) Beta emitters, ^c/1, 
+
+ix) Turbidity, NTU, Max 
+
+x) Total iron ( a* Fe ), mg/1, Max 
+
+xi) Temperature, e C, range 
+
+xii) Salinity mg/1, Max 
+
+xiii) Alkalinity ( as CaCO s ) , n*g/l 
+
+xiv) Nitrate nitrogen (asN), mg/1. Max 
+
+xv) Residual free chlorine, mg/1, max 
+
+xvi) Sulphurated hydrogen ( as jH 2 S ) 
+
+xvii) Phenolic compounds ( as C 6 H 5 OH ), 
+
+mg/1, Max 
+
+xviii) Pesticides 
+
+xix) Syndets ( as ABS ), mg/1, Max 
+
+xx) Cyanide ( as CN ), mg/1, Max 
+
+xxi) Arsenic ( as As ), mg/1 Max 
+
+xxii) Copper ( as Cu ), mg/1, Max 
+
+xxiii) Zinc ( as Zn ), mg/1, Max 
+
+xxiv) Chromium, ( as Cr+ 6 ), mg/1, Max 
+
+xxv) Lead ( as Pb ), mg/1, Max 
+xxvi) Cadmium ( as Cd ), mg/1, Max 
+xxvii) Mercury ( as Hg ), mg/1 , Max 
+
+NOTES 
+
+1 It shall be borne in mind that coarse fish growth decreases when dissolved oxygen (DO) concentration drops 
+below 25 percent of saturation level. 
+
+2 Growth retardation of some species of fish has been reported even at 0-5 mg/1 level of ammonia. 
+
+3 Dissolved oxgyen and sulphurated hydrogen are incompatible. 
+
+4 The limits for individual pesticides for different species can, however, be determined by bio-assay 
+techniques. 
+
+5 One milligram per litre can be tolerated infrequently for a period not exceeding 24 h. It shall be borne in 
+mind that the ABS would increase toxicity of other materials. 
+
+6 Metals, namely, copper, chromium, lead and mercury shall not be more than the stipulated limits and if 
+more than one metal is present, the total shall not exceed 0*5 mg/1. 
+
+
+
+IS 13891 11994 
+
+
+
+ANNEX A 
+
+( Clause 2 ) 
+LIST OF REFERRED STANDARDS 
+
+
+
+IS No. 
+
+2488 ( Part 1 ) : 
+1966 
+
+2488 ( Part 2 ) : 
+1968 
+
+2488 ( Part 3 ) : 
+1968 
+
+3025 : 1964 
+
+
+
+3025 ( Part 9 ) 
+1984 
+
+
+
+3025 ( Part 10 ) 
+1984 
+
+
+
+3025 (Part 11 ) 
+1983 
+
+
+
+3025 ( Part 14 ) 
+1984 
+
+
+
+3025 ( Part 23 ) 
+1986 
+
+
+
+3025 ( Part 26 ) 
+1986 
+
+
+
+Title 
+
+Methods of sampling and test 
+for industrial effluents, Part 1 
+
+Methods of sampling and test 
+for industrial effluents, Part 2 
+
+Methods of sampling and test 
+for industrial effluents, Part 3 
+
+Methods of sampling and test 
+( physical and chemical ) for 
+water used in industry 
+
+Methods of sampling and test 
+( physical and chemical ) for 
+water and wastewater : Part 9 
+Temperature ( first revision ) 
+
+: Methods of sampling and test 
+( physical and chemical ) for 
+water and wastewater : Part 10 
+Turbidity ( first revision ) 
+
+: Methods of sampling and test 
+( physical and chemical ) for 
+water and wastewater : Part 11 
+pH value (first revision ) 
+
+: Methods of sampling and test 
+( physical and chemical ) for 
+water and wastewater : Part 14 
+specific conductance ( wheat- 
+stone bridge, conductance 
+cell ) (first revision ) 
+
+: Methods of sampling and test 
+( physical and chemical ) for 
+water and wastewater : Part 23 
+Alkalinity (first revision ) 
+
+: Methods of sampling and test 
+( physical and chemical ) for 
+water and wastewater : Part 26 
+Chlorine, residual ( first 
+revision ) 
+
+
+
+IS No. 
+
+
+
+Title 
+
+
+
+3025 ( Part 27 ) : Methods of sampling and test 
+1986 ( physical and chemical ) for 
+
+water and wastewater : Part 27 
+Cyanide (first revision ) 
+
+3025 ( Part 34 ) : Methods of sampling and test 
+1988 ( physical and chemical ) for 
+
+water and wastewater : Part 34 
+Nitrogen ( first revision ) 
+
+
+
+3025 ( Part 37 ) 
+1988 
+
+
+
+3025 ( Part 38 ) 
+1989 
+
+
+
+3025 ( Part 39 ) 
+1989 
+
+
+
+Methods of sampling and test 
+( physical and chemical ) for 
+water and wastewater : Part 37 
+Arsenic (first revision ) 
+
+: Methods of sampling and test 
+(physical and chemical) for 
+water and wastewater : Part 38 
+Dissolved oxygen ( first 
+revision ) 
+
+Methods of sampling and test 
+( physical and chemical ) for 
+water and wastewater : Part 39 
+Oil and grease (first revision ) 
+
+
+
+3025 ( Part 41 ) : Methods of sampling and test 
+1992 ( physical and chemical ) for 
+
+water and wastewater : Part 41 
+Cadmium (first revision ) 
+
+
+
+3025 ( Part 42 ) 
+1992 
+
+
+
+3025 ( Part 48 ) 
+1993 
+
+
+
+4955 : 1993 
+
+
+
+: Methods of sampling and test 
+( physical and chemical ) for 
+water and wastewater : Part 42 
+Copper (first revision ) 
+
+Methods of sampling and test 
+( physical and chemical ) for 
+water and wastewater : Part 48 
+Mercury ( first revision ) 
+
+Household laundry detergent 
+powders ( third revision ) 
+
+
+
+IS 13891 : 1994 
+
+
+
+Members 
+Additional Adviser ( PHE ) 
+
+Deputy Adviser ( PHE ) ( Alternate ) 
+Shri G. Ananthakrishnan 
+
+Shri V. Karthikesan ( Alternate ) 
+Shri T. M. Balasubramanian 
+
+Dr G. Venkatachari ( Alternate ) 
+Shri R- N- Banerjee 
+
+Shri S. K. ChatTerjee ( Alternate ) 
+Shri A- K- Bhargava 
+
+Shri S. K. Sharma ( Alternate ) 
+Chemist & Metallurgist-H 
+
+Officer on Special Duty ( Alternate ) 
+Shri S- K. Choudhury 
+
+Shri K. Das ( Alternate ) 
+Shri V. K. Goel 
+
+Shri S. Gourishankar 
+
+Shri S. Bhaskaran ( Alternate I ) 
+
+Shri L. Shandilya ( Alternate II ) 
+Shri G. T. Jadeja 
+
+Shri B. K. Gandhi {Alternate ) 
+Shri J. Jha 
+Shri V. S Kshirsagar 
+
+Shri R. B. Panse ( Alternate ) 
+Shri V. N- Kumanan 
+Shri S. Mahadevan 
+Dr V. C. Malashe 
+
+Shri S. N. Chilekar ( Alternate ) 
+Shri B- H- Narayana 
+
+Shri V. N- Nagaraja Rao {Alternate ) 
+Shri R. Natarajan 
+
+Shri B. P. Misra ( Alternate ) 
+Shri S. M. Pathak 
+Shri G. N. Patel 
+
+Shri J- A. Parmar ( Alternate ) 
+
+Shri C. S. Raghavan 
+Shri K. Rajagopalan 
+Shri C Ramalingam 
+
+Shri A. P. Sinha ( Alternate ) 
+Dr A. V. Rao 
+
+Dr S. K. Roy 
+
+Shri R. S. Chakravarti ( Alternate ) 
+Dr P. Sanyal 
+
+Shri A. Ghosh ( Alternate ) 
+Shri R. K. Sanyal 
+
+Shri S. Kumar ( Alternate ) 
+Dr K. L- Saxena 
+
+Dr S. P. Pande ( Alternate ) 
+Dr B. Sengupta 
+Dr V. K. Seth 
+
+Shri V. P. Choudhury ( Alternate ) 
+Shri S. P. Singh 
+
+Shri -D- K. Dave ( Alternate ) 
+Shri S. K. Tewari 
+
+Shri S. B. Sahay ( Alternate ) 
+DrR. K. Singh, 
+Director ( Chem ) 
+
+
+
+ANNEX B 
+
+{Foreword) 
+
+COMMITTEE COMPOSITION 
+
+Water Sectional Committee, CHD 013 
+
+Chairman 
+
+Shri P. O D. G. Samuel 
+
+51, Aspiran Garden, Kilpauk, Madras 
+
+Representing 
+
+
+
+Department of Rural Development ( Ministry of Agriculture ), 
+New Delhi 
+
+Tamil Nadu Electricity Board, Madras 
+
+Central Electrochemical Research Institute ( CSIR ), Karaikudi 
+
+Development Consultants Ltd, Calcutta 
+
+Delhi Electric Supply Undertaking, New Delhi 
+
+Railway Board ( Ministry of Railways ) 
+
+Hindustan Fertilizer Corporation Ltd, Durgapur Unit, Durgapur 
+
+Department of Industrial Development ( Ministry of Industry ), 
+
+New Delhi 
+Bharat Heavy Electricals Ltd, Hyderabad 
+
+The Tata Hydro-Electric Power Supply Co Ltd, Bombay 
+
+Central Electricity Authority, New Delhi 
+Maharashtra State Electricity Board, Bombay 
+
+Madras Refineries Ltd, Madras 
+Chemical Consultants, Madras 
+Ion Exchange ( India ) Ltd, Bombay 
+
+Central Power Research Institute, Bangalore 
+
+Hindustan Dorr-Oliver Ltd, Bombay 
+
+National Organic-Chemical Industries Ltd, Bombay 
+The Gujarat Electricity Board, Ukai 
+
+Chemicals & Plastics India Ltd, Madras 
+Central Ground Water Board, New Delhi 
+Steel Authority of India Ltd, New Delhi 
+
+Central Salt & Marine Chemicals Research Institute (CSIR), 
+
+Bhavnagar 
+Nalco Chemicals India Ltd, Calcutta 
+
+Indian Farmers Fertilizer Cooperative Ltd, New Delhi 
+
+West Bengal State Electricity Board, Calcutta 
+
+National Environmental Engineering Research Institute ( CSIR ), 
+Nagpur 
+
+Central Pollution Control Board, New Delhi 
+Projects & Development India Ltd, Sindri 
+
+Atomic Energy Regulatory Board, Bombay 
+
+National Thermal Power Corporation Ltd, New Delhi 
+
+Director General, BIS ( Ex-officio Member ) 
+
+
+
+Member Secretary 
+Shri T. Rangasamy 
+Joint Director ( Chem. ), BIS 
+
+
+
+( Continued on page 4 ) 
+
+
+
+IS 13891 : 1994 
+
+
+
+( Continued from page 3 ) 
+
+Water for Industrial and General Use Subcommittee, CHD 013 : 02 
+
+
+
+Convener 
+
+Dr P. K. Mathur 
+
+Members 
+
+Shri S. R- Bhatt 
+
+Shri M. M. Vyas ( Alternate ) 
+
+Shri R- S. Chakravarti 
+
+Shri P. K. Dutta ( Alternate ) 
+
+Shri S. N. Chilekar 
+
+Shri N. Ramachandran ( Alternate ) 
+
+Shri V. K. Goel 
+
+Chief Inspector of Boilers ( Alternate ) 
+
+Dr E. K- Jayanarayanan 
+
+Shri Jitender Mohan ( Alternate ) 
+
+Shri V. Kanniappan 
+
+Shri R- Nagarajan ( Alternate ) 
+
+Shri S. Mahadevan 
+
+Dr Mariappan 
+
+Dr S. Rajamani ( Alternate ) 
+
+Dr Rajesh Pant 
+
+Shri Shahidul Islam ( Alternate ) 
+
+Shri N. Prabhu Prasad 
+
+Dr V. K. Seth 
+
+Shri H- K. Mittal ( Alternate ) 
+
+Shri S. K. Tewari 
+
+Shri R. Sunderajan ( Alternate ) 
+
+Shri S- Seth Vedantham 
+Shri J. Jha ( Alternate ) 
+
+Dr B. R. Yadav 
+
+
+
+Representing 
+Bhabha Atomic Research Centre ( IGCAR ), Kalpakkam 
+
+Ahmedabad Textile Industry's Research Association, Ahmadabad 
+
+Nalco Chemicals India Ltd, Calcutta 
+
+Ion Exchange ( India ) Ltd, Bombay 
+
+Department of Industrial Development ( Ministry of Industry )» 
+New Delhi 
+
+Mohan Meakin Ltd, Mohan Nagar 
+
+Madras Refineries Ltd, Madras 
+
+Chemical Consultants, Madras 
+
+Central Leather Research Institute ( CSIR ), Madras 
+
+Central Pulp & Paper Research Institute, Saharanpur 
+
+Bharat Electronics Ltd, Bangalore 
+Projects & Development India Ltd, Sindri 
+
+National Thermal Power Corporation Ltd, New Delhi 
+
+Central Electricity Authority, New Delhi 
+
+Indian Agricultural Research Institute, New Delhi 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to 
+promote harmonious development of the activities of stadardization, marking and quality 
+certification of goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced 
+in any form without the prior permission in writing of BIS. This does not preclude the free use, 
+in the course of implementing the standard, of necessary details, such as symbols and sizes, type 
+or grade designations. Enquiries relating to copyright be addressed to the Director 
+( Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards 
+are also reviewed periodically; a standard along with amendments is reaffirmed when such review 
+indicates that no changes are needed; if the review indicates that changes are needed, it is taken 
+up for revision. Users of Indian Standards should ascertain that they are in possession of the 
+latest amendments or edition by referring to the latest issue of 'BIS Handbook* and 'Standards 
+Monthly Additions'. 
+
+This Indian Standard has been developed from Doc : No. CHD 013 ( 0255 ). 
+
+Amendments Issued Since Publication 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10002 
+
+Telephones : 331 01 31, 331 13 75 Telegrams : Manaksanstha 
+
+( Common to all Offices ) 
+
+
+
+J33101 31 
+[331 13 75 
+
+T37 
+
+\37 
+
+
+
+Regional Offices : Telephone 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+
+NEW DELHI 110002 
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola |37 84 99, 37 85 61 
+
+CALCUTTA 700054 \37 86 26, 37 86 62 
+
+T53 38 43, 53 16 40 
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 < 53 23 g4 
+
+T235 02 16, 235 04 42 
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 600113 < 235 15 J9 235 23 15 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) f 632 92 95, 632 78 58 
+
+BOMBAY 400093 1 632 78 91, 632 78 92 
+
+
+
+Branch : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATL HYDERABAD. JAIPUR. KANPUR 
+LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+Printed at Printwell Printers, Aligarh, India 
+
+
+

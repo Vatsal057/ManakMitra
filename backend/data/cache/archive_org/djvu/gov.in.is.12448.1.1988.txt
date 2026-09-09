@@ -1,0 +1,1073 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+IS 12448-1 (1988) : Basic testing procedures and measuring 
+methods for electromechanical components for electronic 
+equipment. Part 1: General [LITD 3: Electromechanical 
+components and Mechnical Structures for Electronic 
+Equipment] 
+
+
+
+aj^&vf ijii^s^yiis^ i s:>&^ nT¥seg 
+
+
+
+:<>5&i| \ I iT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangarara Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS:'l2448(Part1 ) -1988 
+
+( Reaffirmed 2002 ) 
+
+Indian Standard 
+
+BASIC TESTING PROCEDURES 
+
+AND MEASURING METHODS FOR 
+
+ELECTROMECHANICAL COMPONENTS 
+
+FOR ELECTRONIC EQUIPMENT 
+
+PART 1 GENERAL 
+
+
+
+UDC 621-38-038-871 : 621-317 3 
+
+
+
+Standards /„foZ '''^^- ^^SP 
+
+
+
+® Copyri^ 1989 
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Q^ 3 February 1989 
+
+
+
+IS i 12448 ( Part 1 ) - 1968 
+
+
+
+Indian Standard 
+
+
+
+BASIC TESTING PROCEDURES 
+
+AND MEASURING METHODS FOR 
+
+ELECTROMECHANICAL COMPONENTS 
+
+FOR ELECTRONIC EQUIPMENT 
+
+
+
+PART 1 GENERAL 
+
+
+
+0. FOREWORD 
+
+
+
+0.1 This Indian Standard ( Part 1 ) was adopted 
+by the Bureau of Indian Standards on 22 July 1988, 
+after the draft finalized by the Electromechanical 
+Components for Electronic Equipment Sectional 
+Committee had been approved by the Electronics 
+and Telecommunication Division Council, 
+
+0.2 This standard contains fundamental informa- 
+tion on test methods and procedures for electro- 
+mechanical components for electronic equipment. 
+It is intended to be used in those cases where a 
+generic or detail specification for a certain com- 
+ponent has been prepared so as to achieve 
+uniformity and reproducibihty in the testing 
+procedures. 
+
+0.3 The term 'environmental conditioning' or 
+'environmental testing' covers the natural and 
+artificial environmental ( including electrical 
+stress ) to which components may be exposed so 
+that an assessment of their performance can be 
+made under conditions of use, transport and 
+storage to which they may be exposed in practice. 
+
+0.4 The requirements for the performance of the 
+components are not covered by this standard. 
+
+
+
+The relevant specification for the item under test 
+defines the permissible performance limits. 
+
+0.5 It is proposed to cover various tests for 
+electromechanical components for electronic 
+equipment in this series of standards. A list of 
+the tests currently envisaged in this series and 
+their arrangement is given in Appendix A. 
+Appendix A will be updated whenever needed. 
+
+0.6 This standard is based, without any technical 
+change, on lEG Pub 512-1 (1984) 'Electro- 
+mechanical components for electronic equipment: 
+Basic testing procedures and measuring methods 
+— Part I: General', issued by the International 
+Electrotechnical Commission ( lEC ). 
+
+0.7 In reporting the result of a test or analysis 
+made in accordance with this standard, if the 
+final value, observed or calculated, is to be 
+rounded off, it shall be done in accordance with 
+IS : 2-1960*, 
+
+
+
+♦Rules for rounding off numerical values ( revised ). 
+
+
+
+1. SCOPE 
+
+1.1 This standard ( Part 1 ) is intended to be used 
+as a basic specification. It contains basic test 
+methods and procedures applicable to electrome- 
+chanical components, with the following families 
+or sub-families: 
+
+a) Connections, solderless; 
+
+b) Connectors for frequencies below 3 MHz; 
+
+c) Sockets for electronic tubes; 
+
+d) Sockets for other plug-in-devices; 
+
+e) Switches, lever; 
+
+f) Switches, push-button; 
+
+g) Switches, rotary; 
+h) Switches, sensitive; 
+
+j) Switches, thermal time-delay; and 
+k) Switches, thermostatic. 
+
+
+
+1.2 Other electromechanical devices that are not 
+specifically covered by this standard include: 
+
+a) capacitors, variable; 
+
+b) connectors for frequencies above 3 MHz; 
+
+c) inductors, variable; 
+
+d) resistors, variable; 
+
+e) solenoids; 
+
+f) switches, magnetically operated; and 
+
+g) switches, proximity. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the follow- 
+ing definitions shall apply, 
+
+2.1 Family — A group of electromechanical 
+components which predominantly display a 
+particular physical characteristic and/or fulfil a 
+specific function. 
+
+
+
+IS : 12448 ( Part 1 )- 1988 
+
+
+
+2.2 Sub-Faxnily — A group of electromechani- 
+cal components derived by further sub-division 
+of a family and having similar application 
+features. 
+
+2.3 Type and Style — For the definitions of 
+'type' and *style', referring to a particular com- 
+ponent, see relevant specification. 
+
+2.4 Examples 
+
+Family : Connector 
+
+Sub-family : Rack and panel connectors 
+
+Type : Rectangular multiple connec- 
+
+tors with blade contacts 
+
+Style : Rectangular multipole connec- 
+
+tors with blade contacts, hous- 
+ing and contact configuration. 
+
+2«5 Basic Specification — A specification 
+which is applicable to all electromechanical 
+components or a large group thereof. 
+
+2.6 Generic Specification — A specification 
+which is applicable to a sub-family and which 
+may contain rules for the preparation of detail 
+specifications. 
+
+2.7 Detail Specification — A specification 
+which is derived from a generic specification. It 
+covers a particular component or a group of 
+related components. It describes that component 
+or group of components, including all necessary 
+values and characteristics, and gives the inspec- 
+tion requirements and appropriate references to 
+the generic specification. 
+
+2.8 Inspection ( Test ) Lot — A specified 
+quantity of identical electromechanical compo- 
+nents presented together for testing in accordance 
+with the relevant test schedule. 
+
+2.9 Test Specimen — A single electromechani- 
+cal component to be tested in accordance with 
+the procedure laid down in this standard. 
+
+2.10 Test — The complete series of operations 
+covered by any one heading and normally consis- 
+ting of the following; 
+
+a) preconditioning ( where required ); 
+
+b) initial measurement ( where required ); 
+
+c) conditioning; 
+
+d) recovery ( where required ); and 
+
+e) final examination and measurements. 
+
+2.11 Preconditioning — Treatment of a speci- 
+men for the purpose of removing or partly 
+counteracting the effects of its previous history. 
+
+2*12 Conditioning — The exposure of a speci- 
+men to environmental conditions including elec- 
+rical load in order to determine the effect of 
+such conditions on it. 
+
+2.13 Recovery -- Treatment of a specimen after 
+conditioning in order to stabilize its properties 
+before measurement. 
+
+
+
+3. GENERAL 
+
+3.1 The object of this standard is to establish 
+test methods and measurement procedures for use 
+in specifications for the components listed. 
+
+This standard shall be used in conjunction 
+with IS: 9000 (Part 1 )-1988*. 
+
+This standard shall be used in conjunction 
+with the generic and/or detail specification which 
+will select and prescribe the tests to be used, the 
+required degrees of severity for each of them and 
+the permissible performance limits. The detail 
+specification will also specify the deviations in 
+procedure, which may be inevitable when apply- 
+ing a test to the type of component under consi- 
+deration, and it will further specify the special 
+procedures which may be required. 
+
+In the event of conflict between this basic 
+specification and any individual component 
+specification, the requirements of the component 
+specification shall apply. 
+
+4. STANDARD CONDITIONS FOR 
+TESTING 
+
+4.1 Unless otherwise specified, all tests shall be 
+carried out under standard atmospheric condi. 
+tions for testing as specified in IS : 9000 ( Part 1 )- 
+1988*. 
+
+Before measurements are made, the test speci- 
+mens shall be preconditioned under standard 
+atmospheric conditions for testing for a time as 
+specified in the detail specification. 
+
+The ambient temperature and relative 
+humidity at which the measurements are made 
+shall be stated in the test report. 
+
+The test shall be carried out with specimens 
+as received from the supplier. In no case shall 
+the contact parts be cleaned or otherwise pre- 
+pared prior to test, unless explicitly required. 
+
+In cases of dispute about the test results, the 
+test shall be carried out at one of the referee 
+conditions of IS : 9000 ( Part 1 )-1988*. 
+
+5. TESTING 
+
+5.1 Test Sequences — The test sequences are as 
+described in the generic or detail specifications. 
+The test numbers used in this standard have no 
+significance with respect to test sequence; they 
+are given to identify a test for reference purposes. 
+In order to avoid duplication and cosily measure- 
+ments, the generic or detail specification will also 
+select and prescribed those measurements to be 
+performed out of a list of measurements contained 
+in the various test method documents. 
+
+
+
+♦Basic environmental testing procedures for electronic 
+and electrical items: Part 1 General ( first revision ). 
+
+
+
+IS $ 12448 ( Part 1 )- 1988 
+
+
+
+5.2 Combined Tests — Combined tests are 
+specified. Additional combination of tests shall 
+be avoided unless essential to a specific appli- 
+cation. 
+
+5.3 Repetition of Measurements — Repeti- 
+tion of identical dimensional measurements is to 
+be avoided unless required to prove that all 
+aspects of manufacturing, tooling or processes 
+are satisfactory, for example, parts produced 
+from multi- cavity tooling. 
+
+6. CLASSIFICATION OF DEFECTS 
+
+6.0 A defect is any non-conformance of a com- 
+ponent with specified requirements. For the 
+purposes of this standard, the defects of any 
+electromechanical component shall be grouped 
+into the following clauses. 
+
+
+
+A major defect is a 
+
+
+
+6.1 Major Defects 
+
+defect that: 
+
+a) is likely to result in premature failure of 
+the component; and/or 
+
+b) reduces materially its ability to perform 
+its intended function. 
+
+6.2 Minor Defects — A minor defect is a defect 
+that does not reduce materially the ability, 
+of a component to perform its intended function, 
+or is a minor departure from specifications hav- 
+ing little or no effect on the ability of a compo- 
+nent to perform its intended function, for 
+example, scratches, surface finish, minor corrosion 
+discolouration, etc. 
+
+NoTB — A minor defect normally is not a cause for 
+rejection, but shall be recorded in the test report. 
+
+
+
+Test 
+
+No. 
+
+
+
+la 
+lb 
+
+
+
+2a 
+2b 
+2c 
+2e 
+2f 
+2h 
+
+
+
+3a 
+
+4a 
+4b 
+4c 
+
+5a 
+5b 
+
+6a 
+
+
+
+IS: 12448 (Part 1 )-19. 
+IS : 12448 ( Part 2 )-19 
+
+
+
+APPENDIX A 
+
+( Clause 0.5 ) 
+LIST OF TESTS CURRENTLY ENVISAGED AND THEIR ARRANGEMENT 
+
+IS No. Title 
+
+
+
+Basic testing procedures and measuring methods for 
+
+electromechanical components for electronic com* 
+
+ponent: 
+Part 1 General 
+Part 2 General examination, electrical continuity 
+
+and contact resistance tests, insulation tests and 
+
+voltage stress tests 
+
+Section 1 General examination Visual examination 
+Examination of dimensions and mass 
+
+Section 2 Electrical continuity and contact 
+resistance tests 
+
+Contact resistance — Millivolt level method 
+
+Contact resistance — Specified test current method 
+
+Contact resistance variation 
+
+Contact disturbance 
+
+Housing ( shell ) electrical continuity 
+
+Resistance ( earthing ) from actuator to mounting 
+bushing ( surface ) 
+
+Section 3 Insulation tests 
+Insulation resistance 
+
+Section 4 Voltage stress tests 
+Voltage proof 
+Partial discharge 
+
+Voltage proof of pre-insulated crimp barrel 
+Part 3 Current carrying capacity tests 
+Temperature rise 
+Current/temperature derating 
+Part 4 Dynamic stress tests 
+Acceleration, steady state 
+
+
+
+IS : 12448 ( Part 3 )-19. 
+
+
+
+IS: 12448 (Part 4 )-l9. 
+
+
+
+3 
+
+
+
+IS : 12448 ( Part 1 ) 
+
+TiSt 
+
+6b 
+6c 
+6d 
+
+
+
+1988 
+
+ISM. 
+
+
+
+7a 
+7b 
+
+8a 
+8b 
+8c 
+
+9a 
+
+9b 
+9c 
+9d 
+
+
+
+10a 
+10c 
+
+
+
+11a 
+lib 
+
+lie 
+
+lid 
+
+lie 
+
+Uf 
+
+Hi 
+
+llj 
+Uk 
+11m 
+lln 
+
+12a 
+12b 
+12c 
+12d 
+I2e 
+
+
+
+13a 
+13b 
+13c 
+I3d 
+13e 
+
+
+
+IS: 12448 (Part 5 )-19.. 
+
+
+
+IS: 12448 (Part 6 )-19. 
+
+
+
+IS : 12448 (Part 7 )-19. 
+
+
+
+Title 
+
+Bump 
+
+Shock 
+
+Vibration 
+
+Part 5 Impact tests ( free components ), static load 
+tests ( fixed components ), endurance tests and 
+overload tests, Section 1 Impact tests ( free com- 
+ponents ) 
+
+Free fall ( repeated ) 
+
+Mechanical strength impact 
+Section 2 Load tests ( fixed components ) 
+
+Static load, transverse 
+
+Static load, axial 
+
+Robustness of actuating lever 
+Section 3 Endurance tests 
+
+Mechanical operation 
+
+Electrical load and temperature 
+
+Mechanical operation with electrical load 
+
+Durability of contact retention system and seals 
+( maintenance, ageing ) 
+
+Section 4 Overload tests 
+Electrical overload ( switches ) 
+Switching capacitive loads 
+Part 6 Climatic tests and soldering tests, Section 1 
+
+Climatic tests 
+
+Climatic sequence 
+
+Combined/sequential cold, low air pressure and 
+damp heat 
+
+Damp heat, steady state 
+
+Rapid change of temperature 
+
+Mould growth 
+
+Corrosion, salt mist 
+
+Dry heat 
+
+Gold 
+
+Low air pressure 
+
+Damp heat, cyclic 
+
+Gas tightness, solderless wrapped connections 
+
+Section 2 Soldering tests 
+Solderability, wetting, solder bath methods 
+Solderability, wetting, soldering iron method 
+Solderability, dewetting 
+
+Resistance to soldering heat, solder bath method 
+Resistance to soldering heat, iron method 
+Part 7 Mechanical operating tests and sealing tests 
+
+Section 1 Mechanical operating tests 
+Engaging and separating forces 
+Insertion and withdrawal forces 
+Operating force ( switches ) 
+Operating torque ( switches ) 
+Polarizing method 
+
+Section 2 Sealing tests 
+4 
+
+
+
+IS t 12448 ( Part 1 ) - ld88 
+
+
+
+Test 
+
+No. 
+
+14b 
+14d 
+14e 
+
+
+
+15a 
+15b 
+15c 
+
+15d 
+15e 
+15f 
+
+
+
+16a 
+
+16b 
+
+16c 
+
+16d 
+
+16e 
+
+I6f 
+
+16g 
+
+16h 
+
+16i 
+
+16k 
+
+16m 
+
+16n 
+
+16p 
+
+16q 
+
+
+
+IS No. 
+
+
+
+17a 
+17b 
+17c 
+
+17d 
+
+19a 
+20a 
+21a 
+22a 
+23b 
+24a 
+
+
+
+IS: 12448 (Part 8 )-19. 
+
+
+
+IS: 12448 (Part 9 )-19. 
+
+
+
+Title 
+
+Sealing ( fine air leakage ) 
+
+Immersion, water proof 
+
+Immersion at low air pressure 
+
+Part 8 Connector test ( mechanical ) and mechani- 
+cal tests on contacts and terminations 
+Section 1 Connector tests ( mechanical ) 
+
+Contact retention in insert 
+
+Insert retention in housing ( axial ) 
+
+Insert retention in housing ( torsional ) 
+
+Contact insertion, release and extraction force 
+
+Contact retention in insert^ cable nutation 
+
+Effectiveness of connector coupling devices 
+
+Section 2 Mechanical tests on contacts and termina- 
+tions 
+
+Probe damage 
+
+Restricted entry 
+
+Contact bending strength 
+
+Tensile strength ( crimped connection ) 
+
+Gauge retention force ( resilient contacts ) 
+
+Robustness of terminations 
+
+Measurement of contact deformation after crimping 
+
+Insulation grip effectiveness ( crimped connections ) 
+
+Grounding contact spring holding force 
+
+Stripping force, solderless wrapped connections 
+
+Unwrapping, solderless wrapped connections 
+
+Binding strength, fixed male tabs 
+
+Torsional strength, fixed male tabs 
+
+Tensile and compressive strength, fixed male tabs 
+
+Part 9 Cable clamping tests, explosion hazard tests, 
+chemical tests, fire hazard tests, rf resistance tests, 
+capacitance tests, shielding and filtering tests and 
+magnetic interference tests 
+
+Section 1 Cable clamping tests 
+Cable-clamp robustness 
+Cable-clamp resistance to cable rotation 
+Cable-clamp resistance to cable pull ( tensile ) 
+Cable-clamp resistance to cable torsion 
+
+Section 3 Chemical resistance test 
+Fluid resistance of pre-insulated crimp barrels 
+
+Section 4 Fire hazard tests 
+Flammability needle flame 
+
+Section 5 R F resistance tests 
+RF shunt resistance 
+
+Section 6 Capacitance tests 
+Capacitance 
+
+Section 7 Shielding and filtering tests 
+Insertion loss of integral filters 
+
+Section 8 Magnetic interference tests 
+Residual magnetism 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquartsrs: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 110002 
+Telephones : 3 31 01 31 3 31 13 76 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, 
+NEW DELHI 110002 
+
+
+
+•Eastern : 1/1 4 C. 1. T. Scheme VII M, V. I. P. Road. 
+Maniktola, CALCUTTA 700064 
+
+Northern : SCO 445-446, Sector 36-C, 
+CHANDIGARH 160036 
+
+Southern : C. I. T. Campus, IV Cross Road, 
+MADRAS 6001 13 
+
+tWestern : Manakalaya. E9 Ml DC, Marol, Andheri ( East ), 
+BOMBAY 400093 
+
+
+
+Telegrams : Manaksanstha 
+( Common to all Offices ) 
+
+Telephone 
+3 31 01 31, 3 31 13 75 
+
+
+
+36 24 99 
+
+2 18 43, 3 16 41 
+
+41 24 42, 41 2619, 4129 16 
+
+6 32 92 96 
+
+
+
+Branch Offices: 
+
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur, 
+AHMADABAD 380001 
+
+tPeenya Industrial Area, tst Stage, Bangalore-Tumkur Road, 
+BANGALORE 560068 
+
+Gangotri Complex, 6th Floor, Bhadbhada Road, 
+T. T. Nagar, BHOPAL 462003 
+
+Plot No. 82/83, Lewis Road, BHUBANESHWAR 761002 
+
+63/5 Ward No. 29, R. G. Barua Road, 5th By-lane, 
+GUWAHATI 78t003 
+
+6-8-56C L. N. Gupta Marg ( Nampally Station Road ), 
+HYDERABAD 60000T 
+
+Rt4 Yudhistsr Marg, C Scheme, JAIPUR 302006 
+
+117/418 B Sarvodaya Nagar, KANPUR 208005 
+
+Patiiputra industrial Estate, PATNA 800013 
+
+T.C. No. 14/1421, University P.O., Palayam, TRIVANDRUM 695034 
+
+Inspection Offices ( With Sale Point ): 
+
+Pushpanjali, First Floor, 205-A West High Court Road, Shankar Nagar Square, 
+NAGPUR 440010 
+
+Institution of Engineers ( India ) Building, 1332 Shivaji Nagar, 
+PUNE 411005 
+
+
+
+2 63 48, 
+
+
+2 63 49 
+
+
+38 49 55, 
+
+
+38 49 56 
+
+
+
+
+6 67 16 
+
+
+
+
+6 36 27 
+
+
+
+
+3 31 77 
+
+
+
+
+23 10 83 
+
+
+6 34 71, 
+
+
+6 98 32 
+
+
+21 68 76, 
+
+
+21 82 92 
+
+
+
+
+6 23 06 
+
+
+6 21 04. 
+
+
+6 21 17 
+
+
+lare, 
+
+
+2 5171 
+
+
+
+
+6 24 35 
+
+
+
+♦Sales Office in Calcutta is at 5 Chowringhee Approach^ P.O. Princep Street, Calcutta 700072 27 68 00 
+
+fSales Office in Bombay is at Novelty Chambers, Grant Road, Bombay 400007 89 65 28 
+
+|Sales Office in Bangalore is at Unity Building, Narasimharaja Square, Bangalore 560002 22 39 71 
+
+
+
+Printed at Printograpfi, New Delhi, India 
+
+
+

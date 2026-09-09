@@ -1,0 +1,635 @@
+**************** 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 3318 (1965) : General requirements for surgical scalpels 
+and knives [MHD 1: Surgical Instruments] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+15:3318-1965 
+
+(Reaffirmed 2001) 
+
+Edition 1.1 
+(1969-04) 
+
+Indian Standard 
+
+GENERAL REQUIREMENTS FOR 
+SURGICAL SCALPELS AND KNIVES 
+
+(Incorporating Amendment No. 1) 
+
+
+
+U DC 615.472 
+
+
+
+©BIS 2004 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+Price Group 2 
+
+
+
+15:3318-1965 
+
+
+
+Indian Standard 
+
+
+
+GENERAL REQUIREMENTS FOR 
+SURGICAL SCALPELS AND KNIVES 
+
+
+
+Surgical Instruments Sectional Committee, CPDC 11 
+
+Chairman Representing 
+
+ColR. D.Ayyar Safdarjung Hospital, Central Government Health Scheme 
+
+(Ministry of Health), New Delhi 
+Members 
+
+
+
+Shri Bhupindar Singh 
+
+Shri R. D. Gupta 
+Shri G. B.J akhetia 
+
+Maj K. D. Kapur 
+Shri Mangal Sain 
+Dr S. Mukherjee 
+
+
+
+Dr p. Mukherj ee (Alternate) 
+
+
+
+The Punjab Surgical Instruments Manufacturers and 
+Suppliers Association (Regd),J ullundur City 
+
+National Metallurgical Laboratory (C SIR), J amshedpur 
+
+Development Commissioner, Small Scale Industries 
+(Ministry of Industry & Supply), New Delhi 
+
+M i nistry of Defence (DGAF M S) 
+
+M i nistry of Defence (DGAF M S) 
+
+Lady Hardinge Medical Col lege & Hospital, New Delhi 
+
+
+
+Lt-Col N. Narasimhan 
+Shri M. G. Pandit 
+Dr A. Ram DAS 
+Dr B. N. B. Rao 
+Representative 
+Shri S. Sen Gupta 
+
+Shri Mahesh M. Shah 
+Col M. Shankhla 
+
+Maj Sohan Singh 
+Shri K. L.Talwar 
+
+
+
+of 
+
+
+
+M i nistry of Defence (DGAF M S) 
+
+Ministry of Health 
+
+Ministry of Railways 
+
+All India Institute of Medical Sciences, New Delhi 
+
+Indian Drugs & Pharmaceuticals Ltd, New Delhi 
+
+Baruipur Surgical Instrument Centre (Directorate 
+
+I ndustries. Government of West Bengal) 
+Shah Medical & Surgical Co Ltd, Baroda 
+Directorate General of Technical Development (Ministry of 
+
+Industry & Supply) 
+M i nistry of Defence (DGI ) 
+Chief Inspectorate of General Stores [Ministry of Defence 
+
+(DGI)], Kanpur 
+ISCOMED I ndustries Private Ltd, Bombay 
+
+
+
+Director, I SI ( Ex-offi do Member ] 
+
+
+
+Shri A. N. Vig 
+
+Shri R. N. Vig (Alternate 
+Shri A. B. Rao, 
+
+Deputy Director (Consumer Products) 
+
+( Secretary ) 
+
+Cutting and Holding Instruments Subcommittee, CPDC 11 : 1 
+Convener Representing 
+
+Shri R. Sundaracharlu Indian Drugs & Pharmaceuticals Ltd, New Delhi 
+
+Members 
+Shri M. G. Pandit Ministry of Health 
+
+Shri K. L.Talwar Chief Inspectorate of General Stores [Ministry of Defence 
+
+(DGI)], Kanpur 
+Maj Sohan Singh (Alternate) 
+Shri A. N. Vig ISCOMED Industries Private Ltd, Bombay 
+
+Shri R. N. Vig (Alternate) 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+15:3318-1965 
+
+Indian Standard 
+
+GENERAL REQUIREMENTS FOR 
+SURGICAL SCALPELS AND KNIVES 
+
+0. FOREWORD 
+
+O-lThis Indian Standard was adopted by the Indian Standards Insti- 
+tution on 27 October 1965, after the draft finalized by the Surgical 
+Instruments Sectional Committee had been approved by the 
+Consumer Products Division Council. 
+
+0.2This Indian Standard is one of a series on Surgical Scalpels formu- 
+lated at the instance of the Advisory Committee for Surgical 
+Instruments, Medical Equipment and Hospital Appliances of the 
+Ministry of Industry and Supply, Government of India. Other 
+specifications published so far in the series are: 
+
+IS : 3319-1965 Surgical scalpels with detachable blades 
+
+IS : 3320-1965 Surgical scalpels 
+
+0.3This standard covers the requirements for scalpels and knives 
+which are general and common between the various types coming 
+under these categories. Individual specifications which include specific 
+requirements for different scalpels and knives are covered in separate 
+standards. The provisions of this standard are such as to help provid- 
+ing a correct balance of the instrument when the surgeon handles it. 
+
+0.4The recent trend in the manufacture of scalpels and knives is to 
+eliminate the plating of handles. However, due to difficulty of procur- 
+ing raw materials, that is stainless steel; brass, nickel silver, etc, has 
+also been specified with the provision of plating. For the choice of 
+materials for handles of such scalpels, therefore, reference is made 
+to 2.5 of this standard. 
+
+0.5 In preparing this standard, considerable assistance has been deriv- 
+ed from the fol I owi ng: 
+
+57-GP-l Specification for knives, surgical, handles and detachable 
+blades. Canadian Government Specifications Board. 
+
+DIN 58250 Operations skal pel I e. Deutscher Normenausschuss. 
+
+IND/GS/MED/664(a) Knife bard parker bladeNo. 10, 11, 12, 15, 20, 
+22 and 23. Chief Inspectorate of General Stores, Ministry of 
+Defence, Government of I ndia. 
+
+IND/GS/MED/725(a) Knife bard parker handle No. 3, 4 and 7. Chief 
+Inspectorate of General Stores, Ministry of Defence, Govern- 
+ment of India. 
+
+
+
+15:3318-1965 
+
+I ND/GS/M ED/1022 Specification for scalpel 5 cm. Chief Inspec- 
+torate of General Stores, Ministry of Defence, Government of 
+India. 
+
+I ND/GS/M ED/1023 Specification for scalpels sizes 3 and 6. Chief 
+Inspectorate of General Stores, Ministry of Defence, 
+Government of I ndia. 
+
+B.S. 2820 : 1957 Surgical scalpels. British Standards Institution. 
+
+B.S. 2982 : 1958 Scalpel with detachable blades. British Standards 
+Institution. 
+
+0.6This edition 1.1 incorporates Amendment No. 1 (April 1969). Side 
+bar indicates modification of the text as the result of incorporation of 
+the amendment. 
+
+0.7 For the purpose of deciding whether a particular requirement of 
+this standard is complied with, the final value, observed or calculated, 
+expressing the result of a test, shall be rounded off in accordance with 
+IS : 2-1960*. The number of significant places retained in the rounded 
+off value should be the same as that of the specified value in this 
+standard. 
+
+1. SCOPE 
+
+l-lThis standard covers the general requirements for different kinds 
+of scalpels and knives used in surgical work. 
+
+2. MATERIALS 
+
+2,0 The materials used in the manufacture of scalpels and knives shall 
+be as follows. 
+
+2.1 Blades Detachable — The composition of steel for detachable 
+blades shall conform to Designation T118Cr45 of IS: 1570-1961 
+Schedules for Wrought Steels for General Engineering Purposes. 
+
+2.2 Blades and Handles, Hand Forged Together — The composi- 
+tion of steel for scalpels and knives when hand forged shall be as 
+follows: 
+
+Carbon 1.0-1.5 percent 
+
+Silicon 0.25 percent. Max 
+
+M anganese 0.30 percent, M ax 
+
+Sulphur 0.030 percent. Max 
+
+Phosphorus 0.030 percent. Max 
+
+
+
+*Rulesfor rounding off numerical values ( re/ised ). 
+
+3 
+
+
+
+15:3318-1965 
+
+2.3 Handles, Drop Forged — The composition of steel for scalpels 
+and knives when drop forged, but leaving a block end for further 
+processing by hand, shall be as follows: 
+
+Carbon 0.80-0.85 percent 
+
+Silicon 0.10-0.35 percent 
+
+M anganese 0.20-0.40 percent 
+
+Sulphur 0.025 percent. Max 
+
+Phosphorus 0.035 percent. Max 
+
+Chromium 0.10-0.40 percent 
+
+2.4 Stainless Steel for Blades and Handles — The composition of 
+stainless steels for scalpels and knives shall be as follows: 
+
+1) Carbon 0.95-1.20 percent 
+Silicon 1.00 percent. Max 
+M anganese 1.00 percent, M ax 
+Sulphur 0.045 percent. Max 
+Phosphorus 0.045 percent. Max 
+Chromium 16.00-18.00 percent 
+
+2) Carbon 0.9 to 1.10 percent 
+Silicon 0.35 percent. Max 
+M anganese 0.6 to 0.8 percent 
+Chromium 12.0 to 14.5 percent 
+N i ckel 0. 5 percent, M ax 
+Sulphur 0.03 percent. Max 
+Phosphorus 0.03 percent. Max 
+Molybdenum 1.5 to 1.8 percent 
+
+2.5 Handles— Handles when separately fabricated shall be made 
+from the foil owing materials: 
+
+1. Stainless steel Designation 07Crl9Ni9 of Schedule V of 
+
+IS : 1570-1961* 
+
+2. B rass G rade 1 conformi ng to I S : 291-1961t 
+
+3. Nickel silver CuNi20Zn22 conforming to IS : 2451-1963^ 
+
+2.5.1The brass and nickel silver handles shall be plated chromium 
+over nickel. 
+
+2.5.2The plating shall conform to Grade B of IS : 1068-1958§. 
+
+
+
+*Schedules for wrought steels for general engineering Purposes. 
+tSpecification for naval brass rods and sections (suitable for machining and forging) 
+( revised ). 
+
+tSpecification for nickel silver ingots and castings for cutlery and hollow-ware. 
+§Specification for copper nickel and chromium electroplated coatings. 
+
+
+
+15:3318-1965 
+
+3. DIMEN5ION5 
+
+3.1 The dimensions of scalpels and knives shall be in accordance with 
+the requirements of individual specifications, unless otherwise 
+specified by the purchaser. 
+
+4. MANUFACTURE 
+
+4.1 Scalpels and knives shall be made by the foil owing methods: 
+
+a) Detachable blades, hand forged or stamped from plate or strip; 
+
+b) Hand forged completely from one piece of steel; 
+
+c) Drop forged, leaving block ends, the block ends being hand forged 
+i nto the shape of the bl ades; and 
+
+d) Cold pressed after copy turning. 
+
+4.2 The seal pels and knives shall be so forged as to be uniform on their 
+central planes with the cutting edge on the central plane itself. The 
+blade portion except in the case of detachable blades, shall be 
+hollow-ground to the curvature specified in individual standards 
+unless otherwise required by the purchaser. The detachable blades of 
+scalpels shall have the cutting edge central in respect of its thickness 
+and be in one plane. 
+
+5. HARDENING 
+
+5.1 The blades of surgical scalpels and knives shall be hardened and 
+tempered to 700 to 800 H V and the detachabi e bl ades to 800 to 850 H V. 
+
+6. FINISH 
+
+6.1 The blade shall be highly polished and free from any blemishes. All 
+edges except the cutti ng edge shal I be rounded. The cutti ng edge shal I 
+besurgically sharp and free from feathers, nicks, high spots, waviness 
+or undulation. The handle shall be finished smooth with a matt 
+surface. It shall be free from burrs, sharp or rough edges, pits and 
+other surface defects. The edge shall be chamferred. 
+
+7. MARKING 
+
+7.1 The scalpels and knives shall be clearly and indelibly marked with 
+the manufacturer's name, trade-mark or identification mark. When 
+the marking is done on the blade portion, it shall be done by electro- 
+etching. 
+
+
+
+15:3318-1965 
+
+7,1,1 The scalpels and knives may also be marked with the IS! Certi- 
+fication Mark. 
+
+Note — The use of the I SI Certification Marl< is governed by the provisions of the 
+Indian Standards Institution (Certification Marl<s) Act, and the Rules and 
+Regulations made thereunder. Presence of this mark on products covered by an 
+Indian Standard conveys the assurance that they have been produced to comply with 
+the requirements of that standard, under a well-defined system of inspection, testing 
+and quality control during production. This system, which is devised and supervised 
+by I SI and operated by the producer, has the further safeguard that the products as 
+actually marketed are continuously checked by I SI for conformity to the standard. 
+Details of conditions, under which a licence for the use of the I SI Certification Mark 
+may be granted to manufacturers or processors, may be obtained from the Indian 
+Standards I nstitution. 
+
+8, TEST 
+
+8,lThe cutting edge shall be examined under a magnification of at 
+least 60 X in two directions along and perpendicular to the plane of the 
+cutting edge, and it shall not reveal any feather edge, nick, high spot, 
+waviness or undulation. 
+
+8,2The scalpels and knives shall be tested by cutting a piece of 
+Chamois leather with moderate pressure at leastfivetimes. They shall 
+cut easily and clearly along the entire length of the cutting edge. On 
+completion of the test, the scalpel or knife shall show no sign of 
+damage, when examined in accordance with 8,1. 
+
+9, PACKING 
+
+9,1 Scalpels and knives shall be packed in accordancewith the require- 
+ments of individual specifications. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of 
+goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any 
+form without the prior permission in writing of BIS. This does not preclude the free use, in the course 
+of implementing the standard, of necessary details, such as symbols and sizes, type or grade 
+designations. Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also 
+
+reviewed periodically; a standard along with amendments is reaffirmed when such review indicates 
+
+that no changes are needed; if the review indicates that changes are needed, it is taken up for 
+
+revision. Users of Indian Standards should ascertain that they are in possession of the latest 
+
+amendments or edition by referring to the latest issue of 'BIS Catalogue' and 'Standards : Monthly 
+
+Additions'. 
+
+This I ndian Standard has been developed by Technical Committee : CPDC 11 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Amd. No. 1 
+
+
+
+April 1969 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002. 
+Telephones: 323 01 31, 323 33 75, 323 94 02 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T. Scheme VI I M,V. I. P. Road, Kankurgachi 
+KOLK ATA 700054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 
+
+
+
+Southern : C. I. T. Campus, IV Cross Road, CHEN NAI 600113 
+
+
+
+Western 
+
+
+
+: Manakalaya, E9MIDC, Marol, Andheri (East) 
+MUMBAI 400093 
+
+
+
+Telegrams: Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+I 323 76 17 
+1 323 38 41 
+
+J 337 84 99, 337 85 61 
+I 337 86 26, 337 91 20 
+
+60 38 43 
+60 20 25 
+
+J 235 02 16, 235 04 42 
+I 235 15 19, 235 23 15 
+
+J 832 92 95, 832 78 58 
+832 78 91, 832 78 92 
+
+
+
+Branches :AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. J AIPUR. KANPUR. LUCKNOW. 
+NAGPUR. NALAGARH. PATNA. PUNE. RAJ KOT. THIRUVANANTHAPURAM. 
+VISHAKHAPATNAM 
+
+
+

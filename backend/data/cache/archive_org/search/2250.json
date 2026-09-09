@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":20,"params":{"query":"identifier:gov.in.is.2250.*","qin":"identifier:(gov.in.is.2250.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.2250.1981","title":"IS 2250: Code of Practice for Preparation and Use of Masonry Mortars"}]}}

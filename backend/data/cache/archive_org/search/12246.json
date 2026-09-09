@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":23,"params":{"query":"identifier:gov.in.is.12246.*","qin":"identifier:(gov.in.is.12246.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.12246.1988","title":"IS 12246: Irons, Pyro-puncture with Copper Needles"}]}}

@@ -1,0 +1,1699 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 13505 (1992) : Centrif ugally cast high alloy steel and 
+nickel base tubing for pressure application at high 
+temperature [MTD 14: Foundry] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+?TR TJ^ ^TT teMHI | ^t ^Wt ^m\ ^f ^TT ^T^?TT \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+1813505:1992 
+
+(Reaffirmed 2002) 
+
+Indian Standard 
+
+CENTRIFUGALLY CAST HIGH ALLOY STEEL 
+
+AND NICKEL BASE TUBING FOR PRESSURE 
+
+APPLICATION AT HIGH TEMPERATURE — 
+
+SPECIFICATION 
+
+
+
+UDC 6216432 [ 66915 - 19456 - 142 ] 
+
+
+
+© BIS 1992 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+August 1992 Price Groap3 
+
+
+
+Steel Castings Sectional Committee, MTD 17 
+
+
+
+FOREWORD 
+
+This Irdirn Stardard was rdepted b> the Bureau of Indian Stardards, after the draft finalized by 
+the Steel Castirgs Sectional Committee had been approved by the Metallurgical Engineering 
+Division Council. 
+
+Austenitic steel centrifugally cast tubes are used in various industries, such as Chemicals, 
+Petrokum Refinirg, Phaimaceuticals, Focd Processing, Paper, Sugar, etc, for service under 
+pressure at normal or elevated temperatures. Austenitic steels are also resistant to corrosion at 
+normal or elevated temperatures. 
+
+Heat resistant alloy and nickel base steel centrifugally cast tubes are used for service at elevated 
+temperatures with or without internal pressure in various industries such as Fertilizers, Chemicals, 
+Petroleum Refining, Furnace and Power Plants, etc. The Heat resistant alloys are resistant to 
+oxidation and corrosion at elevated temperatures. 
+
+In the preparation of this standard, assistance has been derived from the following publications: 
+
+BS 4534 : 1969 Weldable chromium nickel centrifugally cast steel tubes. British Standards 
+Institution. 
+
+ASTM A-608-88 Specification centrifugally cast iron-chromium-nickel high alloy tubing for 
+pressure application at high temperatures. American Society for Testing and Materials. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with,, 
+the final value, observed or calculated, expressing the result of a test or analysis, shall be rounded 
+off in accordance with IS 2 : 1960 'Rules for roundirg off numerical values (revised)'. The 
+number of significant places retained in the rounded off value should be the same as that of the 
+specified value in this standard. 
+
+
+
+IS 13505: 1992 
+
+
+
+Indian Standard 
+
+
+
+CENTRIFUGALLY CAST HIGH ALLOY STEEL 
+
+AND NICKEL BASE TUBING FOR PRESSURE 
+
+APPLICATION AT HIGH TEMPERATURE - 
+
+SPECIFICATION 
+
+
+
+1 SCOPE 
+
+This standard covers the requirements for iron- 
+chromium-nickel alloy tubes made by the 
+centrifugal casting process intended for pressure 
+applications at high temperature. 
+
+2 REFERENCES 
+
+The Indian Standards listed in Annex A are 
+necessary adjuncts to this standard. 
+
+
+
+3 TERMINOLOGY 
+
+3.1 For the purpose of this standard, 
+following definitions shall apply. 
+
+
+
+the 
+
+
+
+3.1.1 Cast ( Melt ) 
+
+The product of any of the following: 
+
+a) One furnace heat, 
+
+b) One crucible heat, or 
+
+c) A number of furnace or crucible heats 
+of similar composition mixed in a ladle 
+or tapped in separate ladles and poured 
+simultaneously for making a casting. 
+
+3.1.2 Batch 
+
+A group of castings of one grade of material, 
+cast from the same melt and heat-treated to- 
+gether under identical conditions. 
+
+4 GRADES 
+
+This standard covers a total of fifteen grades of 
+centrifugaiiy cast steel tubes for pressure appli- 
+cation at high temperature to the extent 
+relevant. 
+
+5 SUPPLY OF MATERIAL 
+
+General requirements relating to supply of steel 
+castings shall be as laid downin IS 8800 : 1986. 
+
+6 M4NUFACTURE 
+
+The steel for the tube shall be made by electric 
+arc or electric induction or such other processes 
+as may be agreed to between the purchaser and 
+the manufacturer. 
+
+7 PARTICULARS TO BE SPECIFIED WHILE 
+ORDERING 
+
+For the benefit of the purchaser, particulars to 
+be specified while ordering for steel castings to 
+this specification are given in Annex B. 
+
+
+
+8 CHEMICAL COMPOSITION 
+
+8.1 The ladle analysis of steel when carried out 
+either by the method specified in IS 228 and its 
+relevant parts or any other established instru- 
+mental/chemical methods shall be as given in 
+Table 1. In case of dispute the procedure given 
+in IS 228 shaii be the referee method. However, 
+where the method is not given in IS 228, the 
+referee method shall be agreed to between the 
+purchaser and the manufacturer. 
+
+8.2 The manufacturer shall carry out analysis 
+from a sample of each melt of steel and, if so 
+specified by the purchaser at the time of enquiry 
+and order, shall supply a test certificate of 
+chemical analysis of the sample of steel for 
+each melt. 
+
+8.3 Product Analysis 
+
+If specified at the time of enquiry and order, 
+the product analysis may be carried out from a 
+test piece or from a casting representing each 
+melt. Drillings for analysis shall be taken from 
+not less than 6 mm beneath the cast surface, and 
+in such a manner as not to impair the usefulness 
+of the casting selected. The permissible variation 
+in product analysis from the limits specified in 
+Table 1 shall be as given in IS 6601 : 1987. 
+
+8.4 Residual Elements 
+
+8.4.1 Elements not specified in Table 1 shall 
+not ordinarily be added to the steel and all 
+reasonable precautions shall be taken to prevent 
+contamination from the scrap, etc, to keep 
+them as low as practicable. 
+
+8.4.2 Analysis and reporting of the analysis in 
+the test certificate for the residual elements shall 
+be dons only when so specified by the pur- 
+chaser in the enquiry and order. However, the 
+manufacturer shall ensure that the residual 
+elements are within the limits specified. 
+
+8.4.3 In the interest of uniform welding the 
+limit for copper as 0*30 percent, Max may be 
+specified by the purchaser. 
+
+9 WORKMANSHIP AND FINISH 
+
+9.1 The tubes shall be in accordance with the 
+drawings and specific requirements stipulated at 
+the time of enquiry and order. 
+
+
+
+IS 13505 : 1992 
+
+
+
+Table 1 Chemical Composition 
+
+( Clause 8.1 ) 
+
+
+
+Constituent 
+
+
+
+
+
+
+
+
+
+
+
+
+Grade, Requirements, Percent* 
+
+
+
+
+
+
+
+
+
+
+
+
+Carbon 
+
+
+(1) 
+
+0-08 
+
+
+(2) 
+0*08 
+
+
+(3) 
+0*08 
+
+
+(4) 
+0-20 
+
+
+<5> 
+0*20 
+
+
+(6) 
+020- 
+050 
+
+
+(7) 
+0*20- 
+0*50 
+
+
+(8) 
+020- 
+0-50 
+
+
+(9) 
+020- 
+0-50 
+
+
+(10) 
+0-20- 
+050 
+
+
+OO 
+0*20- 
+0*60 
+
+
+(12) 
+020- 
+0*50 
+
+
+(13) 
+035- 
+0*75 
+
+
+(14) 
+0*35- 
+0*75 
+
+
+(15) 
+0-35- 
+0*75 
+
+
+Si! icon 
+
+
+2*00 
+
+
+2*00 
+
+
+200 
+
+
+200 
+
+
+2*00 
+
+
+200 
+
+
+2*00 
+
+
+200 
+
+
+2-00 
+
+
+2-00 
+
+
+250 
+
+
+2 00 
+
+
+2*50 
+
+
+2-50 
+
+
+2*50 
+
+
+Manganese 
+
+
+150 
+
+
+1-50 
+
+
+1*50 
+
+
+1*50 
+
+
+2*00 
+
+
+1-00 
+
+
+200 
+
+
+2-00 
+
+
+200 
+
+
+2-00 
+
+
+200 
+
+
+200 
+
+
+200 
+
+
+2-00 
+
+
+2*00 
+
+
+Sulphur 
+
+
+0*04 
+
+
+004 
+
+
+004 
+
+
+004 
+
+
+0*04 
+
+
+0-05 
+
+
+005 
+
+
+005 
+
+
+0*05 
+
+
+005 
+
+
+005 
+
+
+0*05 
+
+
+0*05 
+
+
+0*05 
+
+
+005 
+
+
+Phosphorus 
+
+
+004 
+
+
+0*04 
+
+
+004 
+
+
+004 
+
+
+004 
+
+
+0*05 
+
+
+0-05 
+
+
+005 
+
+
+05 
+
+
+005 
+
+
+0-05 
+
+
+0*05 
+
+
+005 
+
+
+005 
+
+
+0*05 
+
+
+Chromium 
+
+
+18-00- 
+21-00 
+
+
+1800- 
+21 00 
+
+
+18-00- 
+21 00 
+
+
+22-00- 
+26*00 
+
+
+23 0- 
+27*0 
+
+
+26 0- 
+300 
+
+
+180- 
+20*0 
+
+
+26-0- 
+30*0 
+
+
+230- 
+27*0 
+
+
+23 0- 
+270 
+
+
+280- 
+320 
+
+
+19-0- 
+230 
+
+
+130- 
+170 
+
+
+17-0- 
+
+210 
+
+
+150- 
+1**0 
+
+
+Nickel 
+
+
+8*00- 
+110 
+
+
+9*00- 
+12*00 
+
+
+9*00- 
+1200 
+
+
+1200- 
+1500 
+
+
+19 0- 
+
+22'0 
+
+
+40- 
+7*0 
+
+
+8*0- 
+100 
+
+
+80- 
+100 
+
+
+110- 
+140 
+
+
+18*0- 
+22-0 
+
+
+18*0- 
+22*0 
+
+
+23 0- 
+270 
+
+
+330- 
+370 
+
+
+370- 
+41 
+
+
+64-0- 
+680 
+
+
+Molybdenum 
+
+
+— 
+
+
+2*00- 
+3 00 
+
+
+_ 
+
+
+_ 
+
+
+— 
+
+
+0*5 
+
+
+0*5 
+
+
+0-5 
+
+
+0-5 
+
+
+0*5 
+
+
+05 
+
+
+0-5 
+
+
+0*5 
+
+
+05 
+
+
+0*5 
+
+
+Columbium 
+
+
+
+
+
+
+t 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE — Restricted ranges for various elements within the limits stipulated above may be ordered if agreed to 
+at the time of enquiry and order. 
+
+*Max, unless a range is specified. 
+
+fGrade 3 shall have a columbium content of not less than 8 times the carbon content and not more than 
+10 percent. 
+
+
+
+9.2 The purchaser shall specify the tolerances, 
+if any, requhed by him. Otherwise the general 
+tolerance specified in 13 shall apply. 
+
+9.3 The tubes shall be free from defects that 
+will adversely affect their application or utility 
+of the tubes. 
+
+10 HEAT TREATMENT 
+
+10.1 The castings shall be heat treated in a 
+properly constructed furnace, having adequate 
+means of temperature control which shall permit 
+the whole of the casting being uniformly heated 
+to the necessary temperature. All castings shall 
+be suitably heat treated so as to attain the 
+specified mechanical properties. 
+
+10.2 Grades 1, 2, 3, 4 and 5 shall be heat treated 
+according to the requirements specified in 
+Table 2 unless otherwise agreed between the 
+purchaser and the manufacturer. All other 
+grades shall be supplied in either as castor 
+annealed condition unless otherwise agreed 
+between the purchaser and the manufacturer. 
+
+10.3 Test samples shall be drawn from the end 
+portion of the tube itself and shall not be cut 
+before heat-treatment, if any. However if 
+separated from the tube the test pieces shall be 
+heat treated along with the tubes they represent. 
+
+Table 2 Heat Treatment Requirements 
+
+( Clause 10 2 ) 
+
+Grade Heat Treatment 
+
+1, 2, 3 Heat to 1 050°C, Min, hold for sufficient time 
+
+quench in water or rapid cool by other 
+means so as to develop acceptable corrosion 
+resistance. 
+
+4, 5 Heat to 1 080°C, Min, hold for sufficient time, 
+
+quench in water or rapid cool by other 
+means so as to develop acceptable corrosion 
+resistance. 
+
+
+
+11 MECHANICAL TEST 
+
+11. 1 The tensile test shall be carried out in 
+accordance with IS 1608 : 1972. The relevant 
+mechanical properties shall be as given in 
+Table 3. 
+
+11.2 Unless otherwise specified, one tensile test 
+specimen shall be taken longitudinally from one 
+tube out of a lot of every ten tubes cast. 
+
+11.3 Care shall be taken to ensure that the 
+machined specimens are so located as to avoid 
+any unsoundness associated with the external 
+surface or the bore. 
+
+Table 3 Mechanical Properties of Cast 
+
+Steel Tubing for Pressure Application 
+
+at High Temperature 
+
+(Clause 11.1 ) 
+
+
+
+Grade 
+
+
+Tensile Streogth 
+
+
+Yield Stress 
+
+
+Elongation 
+
+
+
+
+( MPa ), Mm 
+
+
+( MPa ), Min 
+
+
+( Percent ), Min 
+
+
+1 
+
+
+480 
+
+
+205 
+
+
+350 
+
+
+2 
+
+
+480 
+
+
+205 
+
+
+30*0 
+
+
+3 
+
+
+480 
+
+
+205 
+
+
+30-0 
+
+
+4 
+
+
+480 
+
+
+205 
+
+
+300 
+
+
+5 
+
+
+450 
+
+
+190 
+
+
+30*0 
+
+
+6 
+
+
+515 
+
+
+240 
+
+
+80 
+
+
+7 
+
+
+485 
+
+
+240 
+
+
+250 
+
+
+8 
+
+
+585 
+
+
+275 
+
+
+9*0 
+
+
+9 
+
+
+515 
+
+
+240 
+
+
+100 
+
+
+10 
+
+
+450 
+
+
+240 
+
+
+100 
+
+
+11 
+
+
+450 
+
+
+240 
+
+
+100 
+
+
+12 
+
+
+435 
+
+
+„ 
+
+
+80 
+
+
+13 
+
+
+450 
+
+
+— 
+
+
+40 
+
+
+14 
+
+
+450 
+
+
+— 
+
+
+40 
+
+
+15 
+
+
+415 
+
+
+— 
+
+
+— 
+
+
+
+12 PRESSURE TESTING 
+
+12.1 All tubes shall be subjected to an internal 
+air pressure of at least 5 kgf/cm* for a minimum 
+
+
+
+duration of 1 min, while immersed in clear 
+water. Alternatively, the entire outer surface 
+of the tube may be made wet with sulphur free 
+soap solution. No leaks shall be permitted in 
+the usable portion of the tube. 
+
+12.2 When so specified by the purchaser in the 
+enquiry and the order, a hydraulic test shall be 
+carried out; the details of the test shall be as 
+agreed to between the purchaser and the 
+manufacturer. 
+
+12.3 The cast tubes shall not bepeened, plugged 
+or impregnated, to stop leakages. However 
+unless otherwise specified at the time of enquiry 
+and order, rectification and upgradation of the 
+cast tubes by welding may be carried out in 
+accordance with the approved procedures as 
+laid down in the relevant clause of the standard. 
+
+12.4 The water used for pressure testing shall 
+be clean, potable and shall not contain more 
+than 20 ppm chloride ions. 
+
+13 DIMENSIONAL TOLERANCES 
+
+13.1 Each tube length in the condition as 
+specified in the enquiry and order shall be 
+dimensionally checked and, unless otherwise 
+specified at the time of enquiry and order shall 
+comply with the following requirements. 
+
+13.2 Unless otherwise specified, the tolerance on 
+length shall be as follows: 
+
+
+
+Outside Dia of 
+Tube, mm 
+
+Up to 300 
+Above 300 and 
+up to 600 
+
+
+
+PermissibleExcess 
+Length, mm 
+
+6 
+13 
+
+
+
+NOTE — No short length shall be acceptable. 
+
+13.3 The tubes shall not deviate from the true 
+axis by more than 2*0 mm in 2 500 mm. If 
+necessary the tubes may be straightened 
+mechanically. 
+
+13.4 Tolerances on the outside and inside dia- 
+meters shall comply with the following require- 
+ments unless otherwise agreed between the 
+purchaser and the manufacturer. 
+
+13*4.1 As Cast Tubes 
+
+The tolerances on outside diameter shall not 
+exceed the limits given in Table 4. 
+
+13.4.2 Machined Tubes 
+
+The tolerances on machined outside and inside 
+diameters shall be; 
+
+Tolerance on outside diameter + 1*5 mm 
+
+— mm 
+Tolerance on inside diameter + mm 
+
+— 1 *5 mm 
+
+
+
+IS 13505:1992 
+
+Table 4 Tolerances on Outside Diameters 
+of as Cast Tubes 
+
+( Clause 13.4.1 ) 
+
+
+
+Specified Outside 
+
+Diameter of Tube, 
+
+mm 
+
+Up to 100 
+Over 100 to 300 
+Over 300 to 600 
+
+
+
+Permissible Deviations 
+from Specified Outside Dia, 
+
+mm 
+
+± 2-0 
+±2*5 
+± 30 
+
+
+
+13.5 Concentricity 
+
+The machined tubes shall not be eccentric by 
+more than 1*5 mm. Eccentricity shall be 
+measured by measuring the th ckness at four 
+different orientations, 90° apart from each other 
+at both the ends of the tubes. 
+
+13.6 End Preparation Profile 
+
+The end preparation profile shall be checked to 
+ensure conformity with the requirements of the 
+enquiry and the order. 
+
+13.7 Wall Thickness 
+
+The wall thickness shall not exceed the specified 
+minimum wall thickness by more than the limits 
+shown in Table 5. 
+
+Table 5 Permissible Variation in Wall 
+Thickness 
+
+
+
+Specified Outside Diameter 
+of Tube ( mm ) 
+
+Up to and including 300 
+Over 300 
+
+
+
+Permissible Increase Over 
+the specified Minimum 
+Wall Thickness ( mm ) 
+
+2-5 
+
+3-5 
+
+
+
+14 SURFACE TEXTURE 
+
+14.1 As Cast Surface 
+
+These cast external and internal surfaces of 
+each tube when not required to be machined 
+shall be visually examined after being thoroughly 
+cleaned by either sand blasting or by any other 
+means. The surfaces so examined shall be free 
+of injurious defects like cracks, lamination, or 
+any other imperfections that encroach upon the 
+minimum wall thickness of the tube. Visual 
+surface defects that have been found to be not 
+encroaching upon the minimum wall thickness 
+shall be blended either by machining or grinding 
+the surface into the surrounding unaffected 
+surface area of the tube. 
+
+14.2 Minimum Sound Wall Thickness 
+
+14.2.1 The minimum sound wall thickness is the 
+thickness which would remain, should all the 
+porosity and roughness associated with the 
+internal and external cast surfaces, exceeding a 
+specified level, be removed by conce-ntric 
+machining. 
+
+
+
+IS 13505: 1992 
+
+
+
+14.2.2 In the case of tubes supplied with as cast 
+internal surface, and having a specified minimum 
+sound wall thickness in order to compensate for 
+unsoundness which may be associated with the 
+cast internal surface, it is necessary to add an 
+internal unsoundness allowance. The actual 
+allowance that will be necessary in any specific 
+cast will vary according to the total as cast 
+thickness of the tube, and also the standard of 
+soundness requirements specified, etc. In addi- 
+tion, an allowance may be required to accommo- 
+date any minor imperfection and roughness 
+associated with the as cast external surface. 
+
+14.3 In case of as cast tube with minimum 
+sound wall requirement, the allowance for 
+internal unsoundness and, if required, external 
+roughness shall be as specified in the enquiry 
+and order or as may be agreed between the 
+manufacturer and the purchaser at the enquiry 
+stage. 
+
+14.4 The nominal dimensions of the tube shall 
+be derived from the required bore diameter, the 
+internal unsoundness allowance, the minimum 
+sound wall thickness and the external roughness 
+allowance. 
+
+14.5 Machined Surface 
+
+The machined surface shall be free of any tool 
+marks or burr, etc, and the surface roughness if 
+specified shall conform to the requirements of 
+the enquiry and order. 
+
+15 REPAIR BY WELDING 
+
+Subject to prior approval from purchaser, repair 
+by welding may be carried out. 
+
+16 OPTIONAL TESTS 
+
+16.1 Metal Structure and Etching Tests 
+
+16.1.1 Etching tests shall be made on transverse 
+or longitudinal sections from any tube, and shall 
+show sound and reasonably uniform material 
+within the specified sound wall area, free from 
+injurious laminations and similar objectionable 
+defects. 
+
+
+
+The macroetch test may be carried out in 
+accordance with IS 12037 : 1987. If the speci- 
+men from either end of any length shows 
+objectionable defects, one re-test shall be per- 
+mitted from that end. If this fails, the length 
+shall be cut back until sound metal is obtained. 
+
+16,2 The nature of the heat-resistant alloys 
+produced by the centrifugal process may cause 
+them to exhibit a difference in grain size from 
+length to length and within an individual length. 
+This difference in grain size shall not be cause 
+for rejection. 
+
+
+
+16.3 Radiographic Inspection 
+
+The turned and bored tubing miy be examined 
+for internal defects by means of X-rays of 
+gamma rays. 
+
+16.4 Liquid Penetrant Inspection 
+
+Liquid penetrant inspection may be performed 
+only on those areas of the tubing which have 
+been suitably prepared for this type of inspec- 
+tion by grinding, machining, polishing, or other 
+processing. 
+
+16.5 Unless otherwise agreed upon, when non- 
+destructive testing is to be done, the cast tubes 
+shall be examined as follows: 
+
+a) Liquid penetrant examination as per 
+IS 3658 : 1988, and 
+
+b) Radiographic examination as per IS 2595 : 
+1978. 
+
+16.5.1 Unless otherwise agreed upon, the follow- 
+ing shall be the acceptance standards: 
+
+a) IS 11732:1986 for liquid penetrant 
+inspection, and 
+
+b) IS 12938 : 1990 for radiographic ins- 
+pection. 
+
+17 METHOD OF SAMPLING 
+
+The method of sampling the steel castings for 
+the purpose of chemical analysis and mechanical 
+tests including re-test shall be in accordance 
+with IS 6907 : 1992. 
+
+18 METHOD OF MARKING 
+
+18.1 Each cast tube shall be legibly marked with 
+the following: 
+
+a) The number or identification mark by 
+which it is possible to trace the melt and 
+the heat-treatment batch from which it 
+was made; 
+
+b) The manufacturer's initials or trade- 
+mark; and 
+
+c) Other identification marks in accordance 
+with any agreement between the purchaser 
+and the manufacturer. 
+
+NOTE — It is recommended that a minimum of 
+markings be used. 
+
+18.2 By agreement between the purchaser and 
+the manufacturer, castings complying with the 
+requirements of this standard may, after 
+inspection, be legibly marked with an acceptance 
+mark. 
+
+18.2.1 The castings may also be marked with 
+the Standard Mark. ( Details are available with 
+the Bureau of Indian Standards ). 
+
+
+
+IS 13505 : 1992 
+
+
+
+IS No. 
+228 
+
+
+1608: 
+
+
+1972 
+
+
+2595: 
+
+
+: 1978 
+
+
+3658: 
+
+
+: 1981 
+
+
+6601 : 
+
+
+: 1978 
+
+
+
+ANNEX A 
+( Clause 2 ) 
+
+LIST OF REFERRED INDIAN STANDARDS 
+
+
+
+Title IS No. 
+
+Methods for chemical analysis of 6907 : 1992 
+steel ( second revision ) 
+
+Methods for tensile testing of 8800:1986 
+steel products ( first revision ) 
+
+Code of practice for radiographic 11732 : 1986 
+testing ( first revision ) 
+
+Code of practice for liquid 
+
+penetrant flaw detection ( first 12938:1990 
+
+revision ) 
+
+Permissible deviations in chemi- 
+cal composition for products 12037 : 1987 
+analysis of steel castings ( first 
+revision ) 
+
+
+
+Title 
+
+
+
+Methods of sampling of steel 
+castings ( second revision ) 
+
+Technical delivery conditions for 
+steel castings ( second revision ) 
+
+Acceptance standards for dye 
+penetrant inspection of steel 
+
+castings 
+
+Acceptance standards for radio- 
+graphic inspection of steel 
+castings 
+
+Macrographic examination by 
+sulphur print ( Baumann 
+method ) 
+
+
+
+ANNEX B 
+( Clause 7 ) 
+
+INFORMATION TO BE SUPPLIED BY THE PURCHASER 
+
+
+
+B-l BASIS FOR ORDER 
+
+While placing an order for the purchase of steel 
+castings covered by this standard, the purchaser 
+should specify the following: 
+
+a) Material specification; 
+
+b) Drawing or reference number of the 
+pattern (if supplied by the purchaser), 
+along with a copy of the drawing; 
+
+
+
+c) Optional/Additional tests required, if 
+
+any; 
+
+d) Whether the castings are to be inspected 
+and tested in the presence of the pur- 
+chaser's representative; 
+
+e) Condition of delivery; 
+
+f ) Any special requirement; and 
+
+g) Test report, if required. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian Standard conveys the assurance that they have been produced 
+to comply with the requirements of that standard under a well defined system of inspection, 
+testing and quality control which is devised and supervised by BIS and operated by the pro- 
+ducer. Standard marked products are also continuously checked by BIS for conformity to 
+that standard as a further safeguard. Details of conditions under which a licence for the use 
+of the Standard Mark may be granted to manufacturers or producers may be obtained from 
+the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Siandards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of 
+goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in 
+any form without the prior permission in writing of BIS. This does not preclude the free use, in 
+the course of implementing the standard, of necessary details, such as symbols and sizes, types or 
+grade designations. Enquiries relating to copyright be addressed to the Director ( Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if any, 
+are issued from time to time. Users of Indian Standards should ascertain that they are in possession 
+of the latest amendments or edition. Comments on this Indian Standard may be sent to BIS giving 
+the following reference : 
+
+Doc : No. MTD 17 ( 3605) 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+lext Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+
+Telephones : 331 01 31, 331 13 75 
+
+
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 
+
+
+
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 600113 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) 
+BOMBAY 400093 
+
+
+
+Telegrams : Manaksanstha 
+( Common to all Offices ) 
+
+Telephone 
+
+f331 01 31 
+1331 13 75 
+
+{37 84 99, 37 85 61, 
+137 86 26, 37 86 62 
+
+
+
+38 43, 53 16 40, 
+23 84 
+
+
+
+(53 
+153 
+
+
+
+1235 02 16, 235 04 42, 
+1235 15 19, 235 23 15 
+
+
+
+{ 
+
+
+
+632 92 95, 632 78 58, 
+.632 78 91, 632 78 92 
+
+
+
+Branches : AHMADABAD, BANGALORE, BHOPAL, BHUBANESHWAR, COIMBATORE, 
+FARIDABAD, GHAZIABAD, GUWAHATI, HYDERABAD, JAIPUR, KANPUR, 
+LUCKNOW. PATNA, THIRUVANANTHAPURM. 
+
+
+
+Printed at Swatantra Bharat Press, Delhi, India 
+
+
+

@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":14,"params":{"query":"identifier:gov.in.is.1964.*","qin":"identifier:(gov.in.is.1964.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.1964.2001","title":"IS 1964: Methods for Determination of Mass per Unit Lenght and Mass per Unit Area of Fabrics"}]}}

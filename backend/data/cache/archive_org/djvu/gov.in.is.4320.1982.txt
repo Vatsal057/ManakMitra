@@ -1,0 +1,977 @@
+**************** 
+
+
+*■  fe^K 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live" 
+
+
+IS  4320  (1982):  Thiram,  Technical  [FAD  1:  Pesticides  and 
+Pesticides  Residue  Analysis] 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New' 
+
+
+■K^y  / 1  juaaaws^fea  rs^^TTF^ 
+
+
+2*S<  W I  *>S*V2^NK^ 
+
+
+^frcvvv^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+?TR  TJ^  ^TT  teMHI  |  ^t  ^Wt  ^^PTT  ^f  ^TT  ^T^?TT  \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+.^^_ 
+
+
+• 
+
+
+BLANK  PAGE 
+
+
+*rt*2V^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+is -.mo -mi 
+
+(  Reaffirmed  2002 ) 
+
+Indian  Standard 
+
+
+SPECIFICATION  FOR  THIRAM,  TECHNICAL 
+
+(  First  Revision  J 
+
+
+VDC    632-951  TH1RAM 
+
+
+©  Copyright  1983 
+
+INDIAN    STANDARDS   INSTITUTION 
+
+MANA*t   Bit  A  VAN.   9   BAHADUR   SHAH   ZAFAR   MARG 
+
+NEW  DELHI   UO0C2 
+
+t;r  3  A  fay  1983 
+
+
+IS  :  4320  -  1982 
+
+Indian  Standard 
+SPECIFICATION  FOR  THIRAM,  TECHNICAL 
+
+(  First  Revision  J 
+
+Pest  Control  Sectional  Committee,  AFCDC  6 
+
+Chairman  Representing 
+
+Dr  K.  D.  Paharia  Directorate    of    Plant    Protection,    Quarantine    & 
+
+Storage  (  Ministry  of  Agriculture ),  Faridabad 
+
+Members 
+
+Dr  H.  L.  Bami  Central    Forensic    Science    Laboratory    ( Central 
+
+Bureau  of  Investigation  ),  New  Delhi 
+Dr  B.  Banerjee  Tea  Research  Association,  Calcutta 
+
+Dr  G.  Satyanarayana  (  Alternate  ) 
+Dr  N.  K.  Basu  The    Alkali    &    Chemical    Corporation    of    India 
+
+Limited,  Calcutta 
+Shri  S.  R.  Nene  (  Alternate  ) 
+Dr  A.  K.  Bhatnagar  Hindustan  Insecticides  Limited,  New  Delhi 
+
+Shri  C.  C.  Abraham  (  Alternate  ) 
+Chief  Chemist  Central  Revenues  Control    Laboratory  (  Ministry 
+
+of  Finance  ),  New  Delhi 
+Shri  S.  Krishnamurthy  (  Alternate  ) 
+Chief  Plant  Protection  Officer    Department     of     Agriculture,     Government     of 
+
+Maharashtra,  Bombay 
+Chemist  Incharge,  Insecticides 
+Testing  Laboratory  (  Alternate  ) 
+Shri  V.  G.  Deshpande  Ciba-Geigy  of  India  Limited,  Bombay 
+
+Shri  E.  A.  Almeida  (  Alternate  ) 
+Shri  Om  P.  Dhamija  Export  Inspection  Council  of  India,  New  Delhi 
+
+Shri  P.  P.  Ranga  Rao  (  Alternate  ) 
+Dr  M.  S.  Dhatt  National  Malaria  Eradication  Programme,  Delhi 
+
+Director    General,     Armed    Directorate  General  Armed  Forces  Medical  Services 
+
+Forces  Medical  Services  (  Ministry  of  Defence  ),  New  Delhi 
+
+Director  of  Agriculture  Department  of  Agriculture,  Government  of  Uttar 
+
+Pradesh,  Lucknow 
+Deputy    Director    (  Plant 
+Protection  )  (  Alternate  ) 
+Shri  V.  Dorairaj  Plastic  Containers  Sectional  Committee,  MCPD  11, 
+
+ISI 
+
+(  Continued  on  page  2  ) 
+
+
+©     Copyright  1983 
+
+INDIAN  STANDARDS  INSTITUTION 
+
+This  publication  is  protected  under  the  Indian  Copyright  Act  (  XIV  of  1957  )  and 
+
+reproduction  in  whole  or  in  part  by  any  means  except  with  written  permission  of 
+
+the  publisher  shall  be  deemed  to  be  an  infringement  of  copyright  under  the  said  Act. 
+
+
+IS  :  4320  - 1982 
+
+(  Continued  from  page  1  ) 
+
+Members  Representing 
+
+Drugs  Controller  (  India  )  Indian    Pharmacopoeia    Committee    (  Ministry    of 
+
+Health  and  Family  Welfare  ),  New  Delhi 
+Shri  M.  Ravikant  (  Alternate  ) 
+Shri  G.  D.  Gokhale  Bombay  Chemicals  Private  Limited,  Bombay 
+
+Shri  V.  V.  Ketkar  (  Alternate  ) 
+Shri  D.  K.  Jain  Punjab    United    Pesticides    and    Chemicals    Ltd, 
+
+Chandigarh 
+Joint  Director  of  Agriculture    Department     of     Agriculture,     Government     of 
+(  Development  &  ICP  )  Karnataka,  Mysore 
+
+Deputy  Director  of  Agri- 
+culture Plant  Protection 
+(  Alternate  ) 
+Dr  M.  G.  Jotwani  Entomology  Division,  Indian  Agricultural  Research 
+
+Institute  ( ICAR  ),  New  Delhi 
+Dr  R.  L.  Kalra  Punjab  Agricultural  University,  Ludhiana 
+
+Dr  R.  P.  Chawla  (  Alternate  ) 
+Dr  Kalvan  Singh  Chander  Sekhar  Azad  University  of  Agriculture  & 
+
+Technology,  Kanpur 
+Dr  Krishan  Singh  Indian  Institute  of  Sugarcane  Research  ( ICAR  ), 
+
+Lucknow 
+Dr  S.  C.  Srivastava  (  Alternate  ) 
+Dr  K.  Krishnamurthy  Ministry  of  Agriculture  (  Department  of  Food  ), 
+
+New  Delhi 
+Shri  G.  N.  Bhardwaj  (  Alternate  ) 
+Shri  S.  G.  Krishnan  National    Organic    Chemical    Industries    Limited, 
+
+Bombay 
+Dr  J.  S.  Verma  (  Alternate  ) 
+Dr  V.  Lakshminarayana  Directorate    of   Plant    Protection,    Quarantine    & 
+
+Storage  (Ministry  of  Agriculture),  Faridabad 
+Shri  V.  C.  Bhargava  (  Alternate  ) 
+Shri  S.  K.  Luthra  Directorate    General    of  Technical    Development, 
+
+New  Delhi 
+Shri  S.  C,  Bajaj  (  Alternate  ) 
+Dr  J.  C.  Majumdar  BASF  India  Limited,  New  Delhi 
+
+Dr  B.  P.  Chandrasekhar  (  Alternate  ) 
+Shri  S.  K.  Majumdar  Central    Food    Technological    Research    Institute 
+
+(  CSIR  ),  Mysore 
+Shri  M.  Muthu  (  Alternate  ) 
+Shri  O.  N.  Mehrotra  Ministry  of  Defence  (R&D) 
+
+Shri  M.  G.  Chatterjee  (  Alternate  ) 
+Shri  K.  S.  Mehta  Bharat  Pulverising  Mills  Private  Ltd,  Bombay 
+
+Shri  S.  Chatterji  (  Alternate  ) 
+Shri  L.  S.  Mirle  Agromore  Limited,  Bangalore 
+
+Shri  S.  K.  Raman  (  Alternate  ) 
+Shri  J.  M.  Modi  Pesticides     Formulators     Association     of     India 
+
+(  S.S.L  ),  Bombay 
+Dr  S.  R.  Barooah  (  Alternate  ) 
+Dr  A.  L.  Mookerjee  Cyanamid  India  Limited,  Bombay 
+
+Shri  J.  P.  Parikh  (  Alternate  ) 
+Dr  S.  K.  Mukerjee  Agricultural  Chemicals  Division,  Indian  Agricultural 
+
+Research  Institute  ( ICAR  ),  New  Delhi 
+Dr  N.  K.  Roy  (  Alternate  ) 
+
+(  Continued  on  page  12  ) 
+
+
+IS  :  4320  - 1982 
+
+Indian  Standard 
+SPECIFICATION  FOR  THIRAM,  TECHNICAL 
+
+(  First  Revision  J 
+
+0.    FOREWORD 
+
+0.1  This  Indian  Standard  (  First  Revision )  was  adopted  by  the  Indian 
+Standards  Institution  on  10  November  1982,  after  the  draft  finalized  by  the 
+Pest  Control  Sectional  Committee  had  been  approved  by  the  Agricultural 
+and  Food  Products  Division  Council  and  the  Chemical  Division  Council. 
+
+0.2  Thiram,  technical  is  used  in  the  preparation  of  various  formulations 
+for  the  control  of  diseases  of  agricultural  crops. 
+
+0.3  Thiram,  is  the  accepted  common  name  by  the  International  Organiza- 
+tion for  Standardization  ( ISO )  for  the  pesticide  chemical  containing  bis 
+( dimethylthiocarbamoyl )  disulphide  as  its  active  ingredient.  The  struc- 
+tural and  empirical  formulae  and  the  molecular  mass  of  this  compound  are 
+as  indicated  below: 
+
+Empirical  Formula  Structural  Formula  Molecular  Mass 
+
+C6H12N2S4  (CH3)2N-!U  240'4 
+
+II 
+(C  H3)2   N— C— S 
+
+
+0.4  This  standard  was  first  published  in  1967  and  subsequently  one 
+amendment  was  issued.  As  this  standard  was  prepared  more  than  a 
+decade  ago,  it  was  considered  desirable  to  issue  a  revised  version  of  the 
+standard  in  order  to  make  it  up  to  date.  The  present  revision  incorporates 
+latest  packing  and  marking  requirements  along  with  the  modified  carbon 
+disulphide  evolution  method  and  the  amine  method  which  have  been  found 
+to  give  comparable  results. 
+
+0.5  In  the  preparation  of  this  standard,  due  consideration  has  been  given 
+to  the  provisions  of  the  Insecticides  Act,  1968  and  the  Rules  framed  there- 
+under. However,  this  standard  is  subject  to  the  restrictions  imposed 
+under  these,  wherever  applicable. 
+
+
+IS  :  4320  -  1982 
+
+0.6  For  the  purpose  of  deciding  whether  a  particular  requirement  of  this 
+standard  is  complied  with,  the  final  value,  observed  or  calculated,  express- 
+ing the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accordance  with 
+IS: 2-1060*.  The  number  of  significant  places  retained  in  the  rounded  off 
+value  should  be  the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+1.  SCOPE 
+
+1.1  This  standard  prescribes  the  requirements  and  methods  of  sampling 
+and  test  for  thiram,  technical. 
+
+2.  REQUIREMENTS 
+
+2.1  Description  —  The  material  shall  be  white  to  off  white  powder.  It 
+shall  comprise  essentially  tetramethyl  thiuram  disulphide  ( TMTD )  and 
+shall  be  free  from  extraneous  matter. 
+
+2.2  The  material  shall  also  comply  with  the  requirements  specified  in 
+Table  1. 
+
+
+TABLE  1     REQUIREMENTS  FOR  THIRAM,  TECHNICAL 
+
+(  Clause  2.2  ) 
+
+
+Sl 
+No. 
+
+Characteristic 
+
+Requirements 
+
+Method  of  Test 
+(  Ref  to  Appendix  ) 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+i) 
+
+Bis  (dimethylthiocarbamoyl )  disulphide, 
+percent  by  mass,  Min 
+
+950 
+
+A 
+
+ii) 
+
+Loss  on  drying  at  60°C,  percent  by  mass, 
+Max 
+
+05 
+
+B 
+
+ni) 
+
+Ash  content,  percent  by  mass,  Max 
+
+0*5 
+
+C 
+
+3.  PACKING  AND  MARKING 
+
+3.1  Packing  —  The  material  shall  be  packed  as  per  requirements  given  in 
+IS:  8190  (Partl)-1980t. 
+
+
+♦Rules  for  rounding  off  numerical  values  (  revised). 
+
+tRequirements  for  packing  of  pesticides:  Part  I  Solid  pesitcides  (  first  revision  ). 
+
+
+IS  :  4320  - 1982 
+
+3.2  Marking  —  The  containers  shall  bear  legibly  and  indelibly  the  following 
+information  and  any  other  information  as  is  necessary  under  the 
+Insecticides  Act  and  Rules: 
+
+a)  Name  of  the  material; 
+
+b)  Name  of  the  manufacturer; 
+
+c)  Date  of  manufacture; 
+
+d)  Batch  number; 
+
+e)  Net  mass  of  the  contents; 
+
+f)  Thiram  content,  percent  (  m\m  );  and 
+
+g)  A  cautionary  notice  as  worded  in  Insecticides  Act  and  Rules. 
+
+3.2.1  Each  container  may  also  be  marked  with  the  ISI  Certification 
+Mark. 
+
+Note  —  The  use  of  the  ISI  Certification  Mark  is  governed  by  the  provisions 
+of  the  Indian  Standards  Institution  (  Certification  Marks  )  Act  and  the  Rules 
+and  Regulations  made  thereunder.  The  ISI  Mark  on  products  covered  by  an 
+Indian  Standard  conveys  the  assurance  that  they  have  been  produced  to  comply 
+with  the  requirements  of  that  standard  under  a  well-defined  system  of  inspection, 
+testing  and  quality  control  which  is  devised  and  supervised  by  ISI  and  operated 
+by  the  producer.  ISI  marked  products  are  also  continuously  checked  by  ISI  for 
+conformity  to  that  standard  as  a  further  safeguard.  Details  of  conditions  under 
+which  a  licence  for  the  use  of  the  ISI  Certification  Mark  may  be  granted  to 
+manufacturers  or  processors,  may  be  obtained  from  the  Indian  Standards  Institution. 
+
+4.  SAMPLING 
+
+4.1  The  representative  samples  of  the  material  shall  be  drawn  as  prescribed 
+in  the  'Indian  Standard  Methods  for  sampling  of  pesticides  and  their 
+formulations'  (  under  prepration  ). 
+
+Note  —  Till  such  time  the  standard  under  preparation  is  published,  the  samples 
+shall  be  drawn  as  agreed  to  between  the  parties  concerned. 
+
+5.  TESTS 
+
+5.1  Tests  shall  be  carried  out  as  prescribed  in  the  appropriate  appendices 
+referred  to  in  col  4  of  Table  1. 
+
+5.2  Quality  of  Reagents  —  Unless  specified  otherwise,  pure  chemicals  and 
+distilled  water  ( see  IS :  1070-1977*  )  shall  be  employed  in  the  tests. 
+
+Note  —  'Pure  chemicals'  shall  mean  chemicals  that  do  not  contain  impurities 
+which  affect  the  results  of  analysis. 
+
+
+♦Specification  for  water  for  general  laboratory  use  (  second  revision  ). 
+
+5 
+
+
+IS:  4320 -1982 
+
+APPENDIX    A 
+
+[Table  I,  Item  (i)] 
+DETERMINATION  OF  THIRAM  CONTENT 
+
+A-0.  GENERAL 
+
+A-0.1  For  the  determination  of  thiram  content,  two  methods,  namely,  the 
+carbon  disulphide  evolution  method  ( see  A-l )  and  the  amine  method 
+( see  A-2 )  have  been  specified.  Any  one  of  these  methods  may  be 
+employed  in  determining  thiram  content  but  carbon  disulphide  evolution 
+method  shall  be  the  referee  method  in  case  of  dispute. 
+
+A-l.  CARBON  DISULPHIDE  EVOLUTION  METHOD 
+
+A-l.l  Principle  —  Thiram  on  digestion  with  boiling  acetic  acid/zinc  oxide 
+solution,  yields  dimethyl  amine,  carbon-disulphide,  and  a  small  amount  of 
+carbonyl  sulphide.  The  gaseous  mixture  is  carried  by  a  stream  of  air 
+through  two  absorbers,  the  first  containing  cadmium  sulphate,  to  remove 
+hydrogen  sulphide,  and  the  second  absorber  containing  methanolic 
+potassium  hydroxide  to  afford  potassium  methyl  xanthate  and  potassium 
+methyl  monothiocarbamate  which  are  neutralized  with  dilute  acetic  acid 
+and  titrated  with  standard  iodine. 
+
+A-1.2  Reagents 
+
+A-l.2.1  Acetic  Acid/Zinc  Oxide  Solution — Dissolve  2-5  g  of  zinc  oxide 
+in  100  ml  of  aqueous  acetic  acid  (1:1). 
+
+A-l.2.2  Cadmium  Sulphate  Solution  —  18*5  percent  (  m/v  ). 
+
+A-l.2.3  Potassium  Hydroxide  —  2  N  in  methanol. 
+
+A-l.2.4  Dilute  Acetic  Acid—  8  percent  solution. 
+
+A-l.2.5  Standard  Iodine  Solution  —  0*1  N. 
+
+A-l.2.6  Starch  Indicator  Solution  —  freshly  prepared. 
+
+A-l.2.7  Phenolphthalein  Indicator  Solution  —  1    percent    mjv    in    ethyl 
+alcohol. 
+
+A-1.3  Apparatus  —  The  apparatus  shall  be  as  shown  in  Fig.  1. 
+
+A-1.4  Procedure  —  Assemble  the  apparatus  as  shown  in  Fig.  1  with  30  ml 
+cadmium  sulphate  in  the  first  absorber,  and  25  ml  methanolic  potassium 
+hydroxide  in  the  second  absorber  and  5  ml  in  each  bubblers.  Maintain  the 
+water  bath  surrounding  the  first  absorber  at  70-80°C  throughout  the 
+determination.  Keep  cool  the  second  absorber  containing  methanolic 
+potassium  hydroxide  by  immersing  it  in  a  beaker  of  melting  ice. 
+
+
+IS  :  4320  - 1982 
+
+
+20  ml 
+
+
+Fig.  1    Apparatus  for  Determination  of  Thiram  by 
+Carbon  Disulphide  Evolution  Method 
+
+
+A-l.4.1  Weigh  accurately  a  quantity  of  the  sample  containing  about 
+0*3  g  of  thiram  and  transfer  to  the  digestion  flask.  Add  20  ml  of  the  acid 
+mixture  to  the  digestion  flask  containing  thiram  through  the  dropping 
+funnel.  Apply  suction  at  a  rate  that  approximately  three  bubbles  of  air  per 
+second  pass  through  the  absorbers. 
+
+A-l.4.2  Boil  the  contents  of  the  flask  and  maintain  a  moderate  rate  of 
+refluxing  for  60  minutes.  Turn  off  the  condenser  cooling  water,  for  about 
+2-3  minutes,  to  flush  the  condenser  and  cadmium  sulphate  absorber  with 
+steam,  to  ensure  complete  removal  of  carbon  disulphide  (  see  Note  1 
+under  A-1.5  ).     Stop  heating  and  immediately  disconnect  the  absorbers. 
+
+A-l.4.3  Carefully  wash  the  contents  of  the  methanolic  potassium 
+hydroxide  absorber  and  bubblers  into  the  beaker  using  300  to  400  ml 
+distilled  water.  Add  2  drops  of  phenolphthalein,  neutralize  with  acetic 
+acid  from  a  burette  until  the  phenolphthalein,  is  just  decolorized  and  add 
+about  0*1  ml  in  excess.  Titrate  the  solution  immediately  ( see  Note  2 
+under  A-1.5),  while  stirring,  with  iodine  solution  nearly  to  the  end  point, 
+add  starch  indicator  solution  and  complete  titration  till  the  colour  changes. 
+
+
+IS  :  4320  - 1982 
+
+A-1.5  Calculation 
+
+l/vA^y12'02 
+Thiram  content,  percent  by  mass  =  m 
+
+where 
+
+V  =  volume,  in  ml,  of  standard  iodine  solution  used  for  sample; 
+AT  =  normality  of  iodine  solution;  and 
+M—  mass,  in  g,  of  the  sample  taken  for  test. 
+
+Note  1  —  The  residue  in  the  digestion  flask  is  used  for  the  determination  of  the 
+thiram  content  by  the  amine  method  (  see  A-2  ). 
+
+Note  2  —  The  iodine  titration  must  be  done,  immediately  and  rapidly,  after 
+neutralization,  as  decomposition  of  the  mixed  xanthate/monothiocarbamate  solution 
+is  extremely  rapid  under  acidic  conditions,  hence  this  exercise  should  be  completed 
+within  2  minutes. 
+
+A-2,  AMINE  METHOD 
+
+A-2.1  Principle  —  The  residue  obtained  after  digestion  with  acetic  acid/zinc 
+oxide  solution  ( see  A-l.l )  is  treated  with  sodium  hydroxide  solution,  the 
+liberated  dimethyl  amine  is  distilled  off,  absorbed  in  saturated  solution  of 
+boric  acid,  and  titrated  with  standard  sulphuric  acid  solution,  using  a  mixed 
+bromocresol  green-methyl  red  indicator. 
+
+A-2.2  Reagents 
+
+A-2.2,1  Standard  Sulphuric  Acid  Solution  —  0*1  N. 
+
+A-2.2.2  Boric  Acid—  Saturated  solution. 
+
+A-2.2.3  Sodium  Hydroxide  Solution  —  40  percent  (iw/v). 
+
+A-2.2.4  Bromocresol  Green—  Methyl  Red  Mixed  Indicator  Solution  — 
+Dissolve  0*2  g  of  bromocresol  green  and  0*05  g  of  methyl  red  in  about 
+250  ml  ethanol. 
+
+A-2.3  Apparatus  —  The  apparatus  shall  be  as  shown  in  Fig.  2. 
+
+A-2.4  Procedure  —  Wash  the  residue  {see  A-l.4.2  and  Note  1  under  A-1.5) 
+from  the  digestion  flask  into  a  500  ml  distillation  flask  using  about  250  ml 
+distilled  water.  Add  a  little  pumice  powder  and  assemble  the  apparatus 
+as  shown  in  Fig,  2  making  sure  that  the  lip  of  the  condenser  adopter  is 
+under  the  surface  of  the  saturated  boric  acid  solution. 
+
+A-2.4.1  Add  50  ml  sodium  hydroxide  solution  slowly  from  the  dropping 
+funnel  and  boil  the  contents  of  the  flask  and  collect  the  distillate  in  50  ml 
+boric  acid  solution.  Continue  distillation  until  the  distillate  is  neutral  to 
+red  litmus  (  about  20  minutes  ). 
+
+8 
+
+
+IS  :  4320  -  1982 
+
+
+Fig.  2    Apparatus  for  Determination  of 
+Thiram  by  Amine  Method 
+
+A-2.4.2  When  distillation  is  complete,  remove  the  heating  source,  wash 
+down  the  condenser  walls  and  the  adopter  with  small  quantity  of  distilled 
+water  into  the  boric  acid  solution. 
+
+A-2.4.3  Titrate  the  solution  with  sulphuric  acid  solution  using  bromo- 
+cresol  green-methyl  red  mixed  indicator  solution  to  the  first  appearance  of 
+pink  colour. 
+
+
+A-2.5  Calculation 
+
+
+Thiram  content,  percent  by  mass  = 
+
+
+VxNx  12-02 
+M 
+
+
+where 
+
+
+V  =  volume,  in  ml,  of  standard  sulphuric  acid  solution  used; 
+
+N  =  normality  of  sulphuric  acid  solution;  and 
+
+M  =  mass,  in  g,  of  the  sample  taken  for  test  ( see  A-J.4.1 ). 
+
+
+IS  :  4320  -  1982 
+
+APPENDIX    B 
+
+{Table  1,  Item  (ii)] 
+DETERMINATION  OF  LOSS  ON  DRYING 
+
+B-l.  PROCEDURE 
+
+B-l.l  Take  about  5  g  sample  on  a  tared  petri  dish  (5  to  6  cm  diameter). 
+Spread  it  over  uniformly  and  weigh.  Put  the  petri  dish  with  the  material  in 
+a  thermostatic  air-oven  at  60°C  for  4  hours.  Cool  the  petri  dish  and  the 
+material  in  a  desiccator  and  weigh.  Repeat  this  operation  till  a  constant 
+weight  is  obtained. 
+
+B-2.  CALCULATION 
+
+B-2.1  Loss  on  drying,  percent  by  mass  =  ^m2"W3)  100 
+
+
+where 
+
+
+m2  =  mass,  in  g,  of  the  petri  dish  and  sample  before  drying; 
+m3  =  mass,  in  g,  of  the  petri  dish  and  sample  after  drying;  and 
+mt  =  mass  in  g  of  the  petri  dish. 
+
+
+APPENDIX    C 
+
+[Table  h  Item  (iii)] 
+DETERMINATION  OF  ASH  CONTENT 
+
+C-l.  PROCEDURE 
+
+C-l.l  Weigh  accurately  2  to  3  g  sample  on  a  dry  tared  10-ml  silica  basin, 
+burn  it  slowly  and  carefully  in  a  fume  cupboard  with  good  exhaust 
+arrangement.  The  temperature  should  not  exceed  555°C.  Cool  the  basin 
+and  add  a  drop  or  two  of  concentrated  sulphuric  acid,  heat  the  basin  slowly 
+to  remove  sulphur  trioxide  fumes  and  finally  to  800°C  to  900°C  for  about 
+an  hour.    Cool  the  basin  in  a  desiccator  and  weigh. 
+
+10 
+
+
+IS:  4320 -1982 
+
+C-2.  CALCULATION 
+
+C-2.1  Ash*  content,  percent  by  mass  =  ~2~m*xl00 
+
+m 
+
+where 
+
+ms  =  mass,  in  g,  of  the  basin  and  sulphated  ash; 
+mx  —  mass,  in  g,  of  the  basin;  and 
+m    =  mass,  in  g,  of  the  sample. 
+
+
+11 
+
+
+IS  :  4320  - 1982 
+
+(  Continued  from  page  2  ) 
+
+Members  Representing 
+
+Shri  K.  R.  Narayana  Rao  Food  Corporation  of  India,  New  Delhi 
+
+Shrimati  K.  K.  M.  Bhavnani  (  Alternate  ) 
+Shri  I.  Narsareddy  Department  of  Agriculture,  Government  of  Andhra 
+
+Pradesh,  Hyderabad 
+
+Shri  C.  Dharma  Rao  (  Alternate  ) 
+Shri  G.  Natarajan  Indofil  Chemicals  Limited,  Bombay 
+
+Dr  V.  N.  Nigam  Ministry  of  Defence  (  DGI  ) 
+
+Shri  P.  N.  Agarwal  (  Alternate  ) 
+Shri  M.  M.  Padalia  Department     of     Agriculture,     Government      of 
+
+Gujarat,  Ahmadabad 
+
+Shri  R.  G.  Jadeja  (  Alternate  ) 
+Dr  S.  Y.  Pandit  Bayer  ( India  )  Limited,  Bombay 
+
+Shri  C.  G.  Dharne  (  Alternate  ) 
+Dr  P.  S.  Phadke  Sandoz  ( India  )  Limited,  Thane 
+
+Shri  A.  V.  Natu  (  Alternate  ) 
+Shri  S.  M.  Pradhan  Metal  Containers  Sectional  Committee,  MCPD  12, 
+
+ISI 
+Shri  Y.  A.  Pradhan  Rallis  India  Limited,  Bombay 
+
+Dr  Z.  J.  Kapadia  (  Alternate  ) 
+Shri  D.  N.  V.  Rao  Tata  Chemicals  Limited,  Mithapur 
+
+Shri  C.  Neelkantan  (  Alternate  ) 
+Representative  Pesticides  Association  of  India,  New  Delhi 
+
+Secretary  Central   Insecticides    Board,   Directorate   of  Plant 
+
+Protection,  Quarantine  &   Storage    (  Ministry 
+of  Agriculture  ),  Faridabad 
+
+Dr  R.  C.  Gupta  (  Alternate  ) 
+Shri  A.  C.  Shroff  Excel  Industries  Limited,  Bombay 
+
+Shri  P.  V.  Kango  (  Alternate  ) 
+Dr  K.  S.  Singh  Indian    Veterinary    Research    Institute    ( ICAR  ), 
+
+Izatnagar 
+
+Shri  S.  C.  Srivastava  (  Alternate  ) 
+Shri  N.  S.  Venkataraman  Department  of  Agriculture,  Government  of  Tamil 
+
+Nadu,  Madras 
+Dr  R.  V.  Venkataratnam  Regional  Research  Laboratory  (  CSIR  ),  Hyderabad 
+
+Dr  Nagabushan  Rao  (  Alternate  ) 
+Dr  P.  R.  Venkateswaran  Union  Carbide  ( India  )  Limited,  New  Delhi 
+
+Dr  K.  N.  Shrivastava  (  Alternate  ) 
+Shri  E.  R.  Viccajee  Paper  and  Flexible  Packaging  Sectional  Committee, 
+
+MCPD  14,  ISI 
+Shri  N.  G.  Wagle  Pest  Control  ( India  )  Private  Limited,  Bombay 
+
+Shri  M.  R.  Bajikar  (  Alternate  ) 
+Dr  B.  L.  Wattal  National  Institute  of  Communicable  Diseases,  Delhi 
+
+Shri  G.  C.  Joshi  (  Alternate  ) 
+Shri  T.  Purnanandam,  Director  General,  ISI  ( Ex-officio  Member ) 
+
+Director  (  Agri  &  Food  ) 
+
+Secretary 
+
+Shri  M.  L.  Kumar 
+Deputy  Director  ( Agri  &  Food  ),  ISI 
+
+
+12 
+
+
+PUBLICATIONS    OF   INDIAN   STANDARDS  INSTITUTION 
+
+
+INDIAN   STANDARDS 
+
+Ovir  10  000  Indian  Standards  covering  v^rtoui  sjjbj«GU  httf*  b«n  fcisoed 
+so  far.  Of  th*sep  th*  standard?  belonging  to  the  Agricultural  add  Food 
+Products  Group  Fail  under  the  following  categories; 
+
+
+Abattoir 
+
+A^nc-.JLLi!  ,ii  nimtlilnisrjf  and  tficfOTI 
+
+Alcc^liollc  drinks. 
+
+Animal  feeds 
+
+Animal  Kami  fig  and  equipment 
+
+Bakery  and  conitctFanerj1 
+
+Bee -keeping  equip  mene 
+
+B*v#rifH 
+
+CEr^als.  pulirt  and  their  product; 
+
+Coca*  product* 
+
+Coffee  and  lis  products. 
+
+Dairy  equipment 
+
+Dairy  industry,  layout  plans 
+
+Dairy  industry,  methods  of  test 
+
+Dair  y  laboratory  appjntui 
+
+Dairy  proctitis 
+
+E  dibit  starch  and  vtarnhy  pioducts 
+
+Flih  and  fish  er?  product! 
+
+Fiifi  Industry,  mnitiry  conditions 
+
+
+food  additJvG5 
+
+Food  f  rain  handling  and  storage 
+
+Fruits  and  vegetable* 
+
+Honey  and  by-products 
+
+Infant  food* 
+
+Laboratory  an  tin  ah 
+
+Meat  2nd  tii eat  produce* 
+
+Pest  EGn-troJ  equipmEFit 
+
+Pclticldal  formuiiacions 
+
+Peitieldti,  EfChttlciJ  jride  and  panaral 
+
+Propagation  materials 
+
+Regulated  market  yards 
+
+iensorjr  Evaluation 
+
+Spiffs  and  condlmtmu 
+
+Starch  derived  products. 
+
+Sugars  and  by- products 
+
+Trs 
+
+Tobacco  products 
+
+Transport  of  livt  animals 
+
+
+OTHER  PUBLICATIONS 
+
+
+\CA   Bulletin  (  Publishtd  Evary  Monsh) 
+
+Single  Copy 
+
+Annual    Subscription 
+Scandardf  :  Ftonfhty  Additions 
+
+5lng!«  Copy 
+
+Annual  Subierlptlon 
+Annual  Reports  [from    1948-49  Onwirdi] 
+I  SI  Hanrfboak,   1 910 
+
+
+fti 
+Ri 
+
+
+Ri 
+
+
+R*        O-J* 
+Ra        3* 
+
+1-M  to7JOo 
+
+Rs     lOQ-w 
+
+
+INDIAN  STANDARDS  INSTITUTION 
+
+M,:,nk   Bharm,  9  Bjhadur  Shah  Zafir  Maf£p  NEW  DELHI  IIQU02 
+
+
+T«l«ption«:  26  MIL  2?  PI  31 
+
+Regional  QffittWl 
+
+WcsTtrn      p     N-m^lty  Charniflri,  Grant  Road 
+
+E  as  le  r n       :    5  Chow  rl  n  g  h  e  e  A  pp  roa-c  h 
+South*™     c     C-  I-  T.  Cantpui 
+Northern,    ;     B6f<  MiiM  VII 
+
+Branch  Ojjficesi 
+
+pPushp*k\  Nurmyhamid  Shaikh  Mir|t  Khanpur 
+
+■FF  Blodk,  Unity  BUIj.  Narasimharaia  Square 
+
+Ganjotrl  Complex.  BiiaikhadJ  Road,  T.T.Nagar 
+
+JIE  KalpUH  Area 
+
+S-B-S6C  L.  N.  Guptl  Mar* 
+
+RM  Yudhisccr  Mnrg,  C  Scheme 
+
+I  IT '416  B  Sarvodaya  Nagar 
+
+Paillputra  induitrint  L*Ut* 
+
+HanxtK  flldf  (  Ind  Floor  J.  Rly  Station  Road 
+
+
+T  cleg  rami:  Maiimkumth* 
+
+Telephone 
+
+BOMBAY  4(30007 
+
+CALCUTTA  700071 
+
+MADRAS  *Q0|  13 
+
+S.A.S.  NAGAR. 
+(MOHAL1)  I600SI 
+
+
+AHMAD  A  BAD JWOGl 
+BANGALORE   hhQUU'l 
+BHOPAL  4«Q03 
+BHUBAMESHWAR  75I0M 
+
+HYDERABAD  50000-1, 
+JAIPUR  301MS 
+KAN  PUR  2O&0Q5 
+PATNAB0OOI1 
+TRIVANDKUM  4MU0I 
+
+
+8V  65  28 
+
+27  50  90 
+
+41  144 
+
+3 
+
+6  70  26 
+
+2  03  9 
+
+I 
+
+22  46  05 
+
+4  17  16 
+
+£36  27 
+
+22  10  83 
+
+4  9B33 
+
+4  72W 
+
+6  23  0B 
+
+32  2 
+
+; 
+
+printed  it  Briimn.i  Cll  til  till  f  Mlj  Co.OkuLLi,  Indu 
+
+

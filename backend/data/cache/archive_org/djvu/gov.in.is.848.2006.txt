@@ -1,0 +1,955 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 848 (2006) : Specification for Synthetic Resin Adhesives 
+for Plywood (Phenolic And Aminoplastic) - [CED 20: Wood and 
+other Lignocellulosic products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 848 : 2006 
+
+Indian Standard 
+
+SYNTHETIC RESIN ADHESIVES FOR PLYWOOD 
+(PHENOLIC AND AMINOPLASTIC) — SPECIFICATION 
+
+( Second Revision ) 
+
+
+
+ICS 790,060.10; 83.180 
+
+
+
+O BIS 2006 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN. 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+yif^^r 2006 Price Group 3 
+
+
+
+wc< OAO . tnniC 
+
+
+
+AMKNDMENTNO. 1 AUGUST 2007 
+
+TO 
+
+IS 848 : 2006 SYNTHETIC RESIN ADHESIVES 
+
+FOR PLYWOOD (PHENOLIC AND 
+
+AMINOPLASTIC) — SPECIFICATION 
+
+( Second Revision ) 
+
+(Page 2, Tah/e I ) — Insert the following Note at the end ot the table 
+
+NOI [ - Ihe cytici of drying or soaking can be made up of a number of shorter periods of drying or 
+so.tknig In such instances the specimen shall be kept in atr at 27 ± 2X in between the shorter periods 
+constituting ihc drying cycle and be kepi submerged in water at 27 ± 2*'C m between the shorter 
+periods constituting the soaking cycle 
+
+(CFD20) 
+
+
+
+Reprography Unit BIS New Delhi India 
+
+
+
+AMENDMENT NO. 2 NOVEMBER 2011 
+
+TO 
+
+IS 848 : 2006 SYNTHETIC RESIN ADHESIVES FOR PLYWOOD (PHENOLIC 
+
+AND AMINOPLASTIC) - SPECIFICATION 
+
+(Second Revision ) 
+
+{Page 2, clause 5) — Substitute the following for the existing: 
+'5 QUALITY OF RESIN ADHESIVES 
+
+The resin adhesives shall conform to the following, as applicable: 
+
+a) Liquid Resin Adhesives — The adhesives shall comply with the requirements specified in 7, 
+when the resin and hardener have been stored in closed containers under conditions as 
+specified by the resin/adhesive manufacturer and the adhesive is tested within the shelf life. 
+
+b) Film/Powder Resin Adhesives — The adhesives shall comply with the requirements 
+specified in 7, when these have been stored in closed packaging/containers under conditions 
+as specified by the adhesive manufacturer and the adhesive is tested within the shelf life. ' 
+
+
+
+(CED 20) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+Wood and Other Lignocellulosic Products Sectional Committee* CED 20 
+
+
+
+FOREWORD 
+
+This Indian Standard (Second Revision) was adopted by the Bureau of Indian Standards, after the draft finalized by the 
+Wood and Other Lignocellulosic Products Sectional Committee had been approved by the Civil Engineering Division 
+Council. 
+
+Adhesives form one of the most important raw materials used in the plywood industry and woodworking and joitiery 
+industry. The selection of the adhesives and their proper uses are important factors controlling the quality of the plywood 
+or the joinery work produced. There has been enormous improvement in the quality of indigenous raw materials for 
+adhesives. 
+
+Tlijs standard was first published in 1957. The first revision was issued in 1974 based on experience gained in the 
+manufacture and use of synthetic resin adhesives. In the present revision, the lest methods have been modified to assess 
+the performance of the adhesive for manufacture of various grades of plywood. The test methods are based on the 
+studies carried out at Indian Plywood Industries Research and Training Institute and found to be suitable for plywood 
+made with forest grown as well as plantation timber, while meeting the end use requirements. 
+
+In the formulation of this standard, due weightage has been given to international co-ordjnation among the standards 
+and practices prevailing in different countries in addition to relating it to the practices in the field in this country. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, observed 
+orcalculated, expressing the result ofa test or analysis, shall be rounded off in accordance with IS 2 : 1960 'Rules for 
+rounding off numerical values {revised)'. The number of significant places retained in the rounded off value should be 
+the same as that of the specified value in this standard. 
+
+
+
+IS 848 : 2006 
+
+
+
+Indian Standard 
+
+SYNTHETIC RESIN ADHESIVES FOR PLYWOOD 
+(PHENOLIC AND AMINOPLASTIC) — SPECIFICATION 
+
+( Second Revision ) 
+
+
+
+1 SCOPE 
+
+This standard prescribes the requirements for phenolic 
+and aminoplastic synthetic resin adhesives used in the 
+plywood industry, covering liquid, powder and film 
+adhesives 
+
+2 REFERENCES 
+
+The standards hsted below coi .i provisions which 
+through reference in this text, constitute provisions of this 
+standard At the time of publication, the editions indicated 
+were valid All standards are subject to revision and parties 
+to agreements based on this standard are encouraged to 
+investigate the possibility of applying the most recent 
+editions of the standards indicated below 
+
+
+
+IS No 
+707 1976 
+
+
+
+Tiiie 
+
+
+
+Glossary of terms applicable to timber 
+technology and utilization (second 
+revision) 
+
+1734 Methods of test for plywood 
+
+(Part I) 1983 Determination of density and moisture 
+content {second revision) 
+
+(Part 5) 1983 Test for adhesion of plies {second 
+revision) 
+
+3 TERMINOLOGY 
+
+3.1 For the purpose of this standard, the definitions given 
+in IS 707 and the following shall apply 
+
+3.1.1 Assembly Time 
+
+3.1.1.1 Open assembly time —The time elapsing between 
+the application of the adhesive and assembly of joint 
+components 
+
+3.1.!. 2 Closed assembly time — The time elapsing 
+between assembly of the joint components and the 
+application of pressure and temperature 
+
+3.1.2 Adhesive 
+
+3.1.2.1 Closed contact adhesive — A non-gap-filling 
+
+
+
+adhesive suitable for use only in those joints where the 
+surfaces to be joined may be brought into close contact by 
+means of adequate pressure and where glue line exceeding 
+12 mm may be avoided with certainity 
+
+3.1.2.2 Gap filling adhesive ~ An adhesive suitable for 
+use in those joints where the surfaces to be joined may or 
+may not be in close or continuous contact owing either to 
+impossibility of applying adequate pressure or to slight 
+inaccuracies m machining 
+
+3.1.3 Extender — A substance added to the adhesive 
+either to reduce the cost of gluing or to reduce penetration 
+through the veneers or both 
+
+3.1.4 Filler — An inert substance, such as wood flour or 
+metal oxide added to alter the characteristics of the resin, 
+for example to reduce brittleness of the synthetic resin or 
+to inhibit excess penetration of the resin into veneer or 
+wood The term ^filler' is sometimes synonymously used 
+with 'extender' 
+
+3.1.5 Fortifier — A substance used primarily to improve 
+the water resistance and durability of hot setting resins 
+
+3. 1 .6 Hardener (Catalyst) — A material added to resin to 
+bring about or promote the curing of resin 
+
+3.1.7 Pot life — The time between the mixing of the 
+constituent parts of an adhesive and its reaching the age 
+when It IS no longer usable 
+
+3.1.8 Shelf Life — The period up to which adhesive or 
+adhesive components may be stored without affecting their 
+suitability for use in accordance with the standard 
+
+3.1.9 Spread of Adhesive — The area in m^ of the surface 
+of substrate covered by 1 kg of solid/liquid resin 
+
+3.1.10 Synthetic Resm — Amorphous organic materials 
+produced by the polymerization or condensation of one, 
+two or less frequently three relatively simple compounds 
+The term is also applied now-a-days to chemically 
+modified natural resins The properties of synthetic resins 
+can vary widely depending upon their basic raw materials, 
+
+
+
+IS 848 : 2006 
+
+
+
+proportions and conditions of manufacture. Alt synthetic 
+resins are classified broadly as thermosetting or 
+thermoplastic. 
+
+3.1.11 Phenolic Synthetic Resm — A phenolic synthetic 
+resin is derived from the reaction of phenol with an 
+aldehyde. 
+
+3.1.12 Aminoplastic Synthetic Resin — An aminoplastic 
+synthetic resin is derived from the reaction of urea, thio- 
+urea, melamine or allied compounds or mixtures of these 
+compounds with formaldehyde. 
+
+3.1.13 Synthetic Resin Adhesive — A composition, 
+substantially consisting of a synthetic resin of either the 
+phenolic or aminoplastic type including any hardening 
+agent, fortifier, filler or extender, which may be required 
+to be added before use according to the manufacturer's 
+instructions. 
+
+
+
+4 TYPES 
+
+Depending upon their degree of resistance, synthetic resin 
+adhesives for plywood shall be of the three types as 
+specified in Table I . The characteristics of each type shall 
+be as given in Table I . For the guidance of users in selecting 
+the grade of resin adhesive satisfying the requirements for 
+practical work, recommended use of each type is also 
+indicated in Table 1 . 
+
+5 KEEPING QUALITIES 
+
+The keeping qualities of resin adhesives shall be as follows: 
+
+a) Liquid Resin Adhesives — The adhesives shall 
+comply with the requirements specified in 7, after 
+the resin and hardener have been stored in the 
+original closed containers according to the 
+manufacturer's instructions up to the date 
+recommended by the manufacturer. 
+
+
+
+Table 1 Characteristics of Different lypes of Synthetic Resin Adhesives 
+
+{Clauses 4 and 7.3.2) 
+
+
+
+SI 
+No. 
+
+(I) 
+
+
+Typt 
+
+
+Cyclic Test 
+
+
+Criteria of Conformity 
+
+
+Recommended Use 
+
+
+(2) 
+
+
+0) 
+
+
+(4) 
+
+
+(5) 
+
+
+
+
+
+BWP 
+
+
+Six cycles, each cycle consisting 
+
+
+No separation of plies at the edges 
+
+
+Adhesives of the type have been 
+
+
+
+
+(Boiling Walcr Proof) 
+
+
+of 8 h boiling in water and 
+
+
+and/or surface at the end of six 
+
+
+proved to make joints highly 
+
+
+
+
+
+
+thereafter drying at 65 ± 2*'C for 
+
+
+cycles 
+
+
+resistant to weather, cold and 
+
+
+
+
+
+
+t6h 
+
+
+On forcible separation of plies 
+with knife, wood failure shall be 
+predominant and shall be more 
+than 75% for excellent bond and 
+not less than 50% for pass 
+standard For less than 50% wood 
+failure, the specimen shall be 
+considered as failed 
+
+
+boiling water, steam and dry heat 
+
+
+
+ii) BWR 
+
+(Boiling Water Resistant) 
+
+
+
+III) MR 
+
+(Moisture Resistant) 
+
+
+
+Three cycles, each cycle 
+consisting ofSh boiling in water 
+and thereafter drying at 65 ± 2°C 
+for 16 h 
+
+
+
+Three cycles, each cycle 
+consisting of 3 h at 60 ± 2X in 
+water and thereaner drying at 
+65 ± 2^ for 8 h 
+
+
+
+No separation of plies at the edges 
+and/or surface ai the end of three 
+cycles 
+
+On forcible separation of plies 
+with knife, v/ood failure shall be 
+predominant and shall be more 
+than 75% for excellent bond and 
+not less than 50% for pass 
+standard For less than 50% wood 
+failure, the specimen shall be 
+considered as failed 
+
+No separation of plies at the edges 
+and/or surface at the end of three 
+cycles 
+
+On forcfible separation of pties 
+with knife, wood failure shall be 
+predominant and shall be more 
+than 75% for excellent bond and 
+not less than 50% for pass 
+standard For less than 50% wood 
+failure, the specimen shall be 
+considered as failed 
+
+
+
+Joints made of this type of 
+adhesives will survive exposure to 
+weatherforonlyafcwyears They 
+will withstand cold water 
+indefinitely and boiling water for 
+a limited period 
+
+
+
+Joints made with these adhesives 
+withstatKi cold water for a long 
+period and hot water for a limited 
+time, but fail in boiling water 
+
+
+
+IS 848 : 2006 
+
+
+
+b) Film/Powder R^sin Adhesives — The adhesives 
+shall comply with the requirements specified in 7, 
+after these have been stored in accordance with the 
+manufacturer's written instructions up to the date 
+recommended by the manufacturer. 
+
+6 INSTRUCTIONS FOR USE 
+
+6.1 The manufacturer shall furnish written instructions 
+detailing the manner in which each resin or recommended 
+combination of resin(s), hardener(sX filler, fortifier and 
+extender shall be used. The instructions shall give 
+information in the manner indicated under 6.2 and 6.3, as 
+applicable. 
+
+6.2 Shelf-Life of Adhesive or Adhesive Components 
+
+The manufacturer shall specify the shelf-life of the 
+adhesive or adhesive components. 
+
+6.3 Preparation for Use 
+
+The preparation of resin, hardener, fortifier, filler and 
+extender, methods of mixing, recommended types of 
+mixing, apparatus and necessary precautions of any kind 
+shall be stated. 
+
+6.4 Usable Life of Mixed Adhesive or Pot Life 
+
+The maximum time shall be stated during which the 
+adhesive maintained at temperatures of 1 5"C, 20°C, 25°C, 
+30°C, 40'*C and 45°C would remain fit for use so as to 
+comply with the requirements of this standard. 
+
+6.5 Applications 
+
+Guidance on the following points shall be given: 
+
+a) Range of moisture content of wood, at the time of 
+gluing; 
+
+b) Preparation of wood surfaces; 
+
+c) Method(s) of application, such as single or double 
+spread; 
+
+d) Normal amounts of spread for single glue line; 
+
+e) Maximum and minimum open and closed assembly 
+times; 
+
+f) Recommended range of temperature in °C and 
+specific pressure in kg/cm^; 
+
+g) Recommended pressing time for given thickness 
+in minutes; 
+
+h) Post treatment of finished products; 
+
+j) Cleaning of containers; and 
+
+k) Tests. 
+
+6.6 Setting Times and Conditions 
+
+The recommended range of temperature to which the 
+
+
+
+adhesives in any glue line may be subjected and also the 
+minimum and maximum time for which pressure shall be 
+maintained on fiat panels at temperatures within the range 
+shall be stated. 
+
+7 TESTS 
+
+7.1 Sampling 
+
+A representative sample shall be drawn from each batch 
+of adhesive. Such sample shall in each case be tested 
+separately and not be bulked with other samples or 
+otherwise averaged. 
+
+7.2 Preparation of Test Pieces 
+
+The test pieces shall be prepared according to the 
+instructions given in Annex A. Veneers used for the 
+preparation of test pieces shall comply with the 
+requirements specified in A-1. 
+
+7.3 Cyclic Test 
+
+7.3.1 Test specimens shall be prepared in accordance 
+with 7.2. 
+
+7.3.2 Test specimens have to be tested as per the 
+schedule given in Table 1, under cyclic test for BWP, 
+BWR or MR types. 
+
+7.3.3 Af^er cyclic test in accordance with 7.3,2. each 
+specimen shall be further examined/tested In manner 
+specified in 7.3.3.1 and 7.3.3.2. 
+
+7.3.3. 1 Visual examination shall be carried out at the edge/ 
+surface of the specimen to find out whether any 
+de lamination/separation of plies have taken place. 
+
+7.3.3.2 Forcible separation of plies shall be carried out 
+by the knife test method described in IS 1 734 (Part 5). 
+
+7.3.4 Criteria of Conformity 
+
+The specimens, when tested in the manner specified 
+in 7.3.2 and 7.3.3 shall conform to the criteria of 
+conformity given in Table 1 . 
+
+7.4 Acidity and Alkalinity (/iH) 
+
+ThepH of the adhesive, when set, shall be not less than 
+2.0. The /jH shall be determined by the method described 
+in Annex B. 
+
+8 RETEST 
+
+In the event of failure to comply with any of the 
+requirements specified under 7.3 to 7.4, the batch of 
+material concerned shall be retested in respect of such 
+requirement(s). In the event of failure of retest, the batch 
+shall be rejected. 
+
+
+
+IS 848 : 2006 
+
+
+
+9 MARKING 
+
+9.1 Each container shall be legibly and indelibly marked 
+with the following; 
+
+a) Manufacturer's name or distinguishing mark, 
+
+b) Description of material, 
+
+c) Batch number, 
+
+d) Date of manufacture, 
+
+e) The date beyond which the adhesive components 
+shall not be used when stored under conditions 
+recommended by the manufacturer, 
+
+Reference to the manufacturer's instructions for 
+
+
+
+use, and 
+g) The words 'To be stored in a cool dry place'. 
+
+9. 1 . 1 BIS Certification Marking 
+
+Each container may also be marked with the Standard 
+Mark. 
+
+9.1.1.1 The use of the Standard Mark is governed by the 
+provisions of the Bureau of Indian Standards Act, 1986 
+and the Rules and Regulations made thereunder. The details 
+of the conditions under which the licence for the use of 
+the Standard Mark may be granted to the manufacturers 
+or producers may be obtained fi-om the Bureau of Indian 
+Standards. 
+
+
+
+ANNEX A 
+(Clause 7.2) 
+
+METHOD OF PREPARATION OF TEST PIECES 
+
+
+
+A-1 VENEERS FOR TEST PIECES 
+
+A-I.I Veneers shall be rotary cut from species actually 
+used by the manufacturer or be supplied by the resin 
+manufacturer alongwith the resin sample. 1.6 mm thick 
+veneer with the growth rings approximately parallel to the 
+face shall be used. 
+
+A-1.2 The veneers shall be smooth cut on both faces, 
+straight grained and free from all defects, at least over the 
+area that will form the middle common length of the test 
+pieces and may be lightly sanded. Elsewhere the 
+occurrence of slight defects, such as small uplifts, smalt 
+live knots and distorted grain may be disregarded. The 
+moisture content of the veneers when determined by the 
+method described in IS 1734 (Part 1) shall be 6.0 ± 2.0 
+percent for aminoplastic resin when used in liquid adhesive 
+form and 12.0 ± 2.0 percent for powder/film adhesive, as 
+may be recommended by the manufacturer. 
+
+A-2 PREPARATION OF ADHESIVE 
+
+The adhesive shall be prepared and used according to the 
+instructions supplied by the manufacturer. 
+
+A-3 CONSTRUCTION OF TEST BOARDS 
+
+The test boards shall be constructed by bonding together 
+three veneers of 1 .6 mm thick as supplied or recommended 
+by the resin manufacturer. The size of the board shall be 
+
+
+
+such that all the test pieces required for testing can be 
+taken out of the same board leaving a margin of 25 mm on 
+the four edges. The grain of the core veneer shall be at 
+right angle to that of the two face veneers. The prepared 
+adhesive may be applied to both sides of the core or to the 
+inner surface of each face veneer or as directed by the 
+manufacturer of the resin, but care shall be taken in alt 
+cases to ensure that the adhesive is uniformly spread and 
+the surfaces completely coated. The veneers shall then be 
+assembled and loaded onto a flat platen press within the 
+time specified in the manufacturer's instructions. The 
+pressing conditions shall be as recommended by the resin 
+manufacturer. Film glues shall be emplpyed by simple 
+inter-leaving and in accordance with the manufacturer's 
+instructions. 
+
+A-4 CONDITIONING OF TEST BOARDS 
+
+Immediately after removal from the press, the boards shall 
+be given a special treatment if stipulated by the 
+manufacturer. The boards shall then be exposed at 
+prevailing laboratory atmospheric conditions in a manner 
+to ensure a free circulation of air around them for six to 
+nine days, or for such time as the manufacturer may direct. 
+
+A-5 PREPARATION OF TEST PIECES 
+
+After conditioning of the test bgards, six test specimens 
+of size 125 mm ^ 125 mm having full thickness of the 
+board shall be prepared from two boards made as above 
+taking three test specimens from each board. 
+
+
+
+IS 848 : 2006 
+
+
+
+ANNEX B 
+{Clause 7.4) 
+
+DETERMINATION OFpH (HYDROGEN ION CONCENTRATION) VALUE OF LIQUID OR 
+POWDERED RESIN ADHESIVES 
+
+
+
+B-1 DETAILS 
+
+At least 1 00 g of the adhesive shall be prepared according 
+to the resin manufacturer's instructions. If water is to be 
+used in the mixing, only distilled water shall be used. The 
+adhesive shall be stirred thoroughly. After stirring, about 
+20 ml of the mixed adhesive shall be spread in a thin, even 
+coat of 0.5 mm on a sheet of clean glass to cover an area 
+approximately 1 50 mm x 250 mm. The adhesive shall be 
+cured at the temperature and the length of time 
+recommended for gluing by the manufacturer, after which 
+the cured film shall be peeled from the glass and ground 
+in a clean mill or mortar to a fineness so as to pass 
+450 micron IS sieve. Immediately, after grinding, 2.0 g of 
+
+
+
+the ground particles, accurately weighed, shall be placed 
+in a clean vial or small heat-resisting glass flask and 1 ml 
+of freshly boiled, cooled distilled water shall be added 
+and thoroughly stirred. The glass container shall be kept 
+stoppered at all the times except when pH determinations 
+are being made. The mixture shall be allowed to stand for 
+72 h at room temperature after which time the mixture 
+shall be stirred and the pH value determined by means of 
+a suitable pH meter. The determination ofpH value shall 
+be repeated at intervals of 24 h until the difference between 
+the consecutive readings is not more than 0.05 pU units. 
+The last reading taken shall be regarded as the equilibrium 
+film pH value for the adhesive. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+'BIS Catalogue* and 'Standards : Monthly Additions*. 
+
+This Indian Standard has been developed from Doc : No. CED 20 (7335). 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters : 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110 002 
+Telephones : 2323 0131, 2323 33 75, 2323 94 02 
+
+
+
+Telegrams : Manaksanstha 
+(Common to all offices) 
+
+
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEWDELHni0 002 
+
+Eastern : 1/14 C.I.T. Scheme VII M. V. I. P. Road, Kankurgachi 
+KOLKATA 700 054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160 022 
+
+
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 600 113 
+
+
+
+Western 
+
+
+
+Branches 
+
+
+
+Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI400 093 
+
+
+
+Telephone 
+
+{2323 76 17 
+2323 38 41 
+
+{2337 84 99,2337 85 61 
+2337 86 26,2337 9120 
+
+{260 38 43 
+260 92 85 
+
+{2254 12 16,2254 14 42 
+2254 25 19,2254 23 15 
+
+{2831 92 95, 2832 78 58 
+2832 78 91,2832 78 92 
+
+
+
+AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. 
+GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM. 
+
+
+
+IVioted at E^ftbhat Offset Pteu, New Delhi-2 
+
+
+

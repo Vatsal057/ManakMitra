@@ -1,0 +1,2494 @@
+**************** 
+
+
+
+^ tOTH: 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" ' 
+
+
+
+IS 10262 (2009) : Guidelines for concrete mix design 
+proportioning [CED 2: Cement and Concrete] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+^*-:gv 
+
+
+
+
+^^35^* 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 10262 : 2009 
+
+Indian Standard 
+CONCRETE MIX PROPORTIONING — GUIDELINES 
+
+(First Revision) 
+
+ICS 91.100.30 
+
+
+
+O BIS 2009 
+
+BUREAU OF INDIAN STANDARDS 
+
+MAN.^K BHAVAN. 9 BAHADUR SHAH ZAFAR MARG 
+NnW DELHI ll(K)02 
+
+
+
+July 2009 Price Group 7 
+
+
+
+Cement and Concrete Sectional Committee, CED 2 
+
+
+
+FOREWORD 
+
+This Indian Standard (First Revision) was adopted by the Bureau of Indian Standards, after the draft finalized 
+
+by the Cement and Concrete Sectional Committee had been approved by the Civil Engineering Division 
+
+Council. 
+
+This standard was first published in 1982. In this first revision, the following major modifications have been 
+
+made: 
+
+a) The title of the standard has been modified as 'Concrete mix proportioning — Guidelines' from the 
+earlier title 'Recommended guidelines for concrete mix design'. 
+
+b) The applicability of the standard has been specified for ordinary and standard concrete grades only. 
+
+c) Various requirements have been modified in line with the requirements of IS 456 : 2000 'Plain and 
+reinforced concrete — Code of practice (fourth revision)'. 
+
+d) The requirements for selection of water-cement ratio, water content and estimation of coarse aggregate 
+content and fine aggregate content have been reviewed and accordingly modified. Similarly, other 
+requirements such as trial mixes, illustrative examples, etc, have also been reviewed and modified. 
+
+e) A new illustrative example of concrete mix proportioning using fly ash as one of the ingredients has 
+been added. 
+
+Considering that the air content in normal (non-air entrained) concrete is not of much significance in 
+mix proportioning procedure and is also not a part of IS 456 : 2000, the consideration of air content has 
+been deleted. 
+
+Concrete has become an indispensable construction material. According to the present state-of-the-art, concrete 
+has bypassed the stage of mere four component system, that is, cement, water, coarse aggregate and fine aggregate. 
+It can be a combination of far more number of ingredients for example, a judicious combination of ingredients 
+from as many as ten materials. In the recent past, apart from the four ingredients mentioned above, fly ash, 
+ground granulated blast furnace slag, silica fume, rice husk ash, metakaoline and superplasticizer are six more 
+ingredients which are generally used in concrete produced in practice as the situation demands. Hence, it is all 
+the more essential at this juncture to have general guidelines on proportioning concrete mixes. The need has 
+been further augmented by the importance given to proportioned concrete mixes according to IS 456 : 2000. 
+
+The objective of proportioning concrete mixes is to arrive at the most economical and practical combinations of 
+different ingredients to produce concrete that will satisfy the performance requirements under specified condidons 
+ofu.se. An integral part of concrete mix proportioning is the preparation of trial mixes and effect adjustments to 
+such trials to strike a balance between the requirements of placement, that is, workability and strength, 
+concomitantly satisfying durability requirements. 
+
+Concrete has to be of satisfactory quality both in its fresh and hardened states. This task is best accomplished by 
+trial mixes arrived at by the use of certain established relationships among different parameters and by analysis 
+ot data already generated thereby providing a basis for judicious combination of all the ingredients involved. 
+The basic principles which underline the proportioning of mixes are Abram's law for strength development and 
+Lysc's rule for making mix with adequate workability for placement in a dense state so as to enable the strength 
+development as contemplated. From practical view point, compressive strength is often taken as an index of 
+acceptability. This does not necessarily satisfy the requirements of durability unless examined under specific 
+wntcxt. Mix proportioning is generally carried out for a particular compressive strength requirements ensuring 
+that fresh concrete of the mix proportioned to possess adequate workability for placement without segregation 
+and bleeding while attaining a dense state. In addition, the method has scope to consider the combination of 
+wider spcctnim of cement and mineral admixtures proposed to be used to meet the requirements of durability 
+tor the type ot exposure conditions anticipated in service. 
+
+
+
+(Continued on third cover) 
+
+
+
+IS 10262 : 2009 
+
+
+
+Indian Standard 
+CONCRETE MIX PROPORTIONING 
+
+( First Revision ) 
+
+
+
+GUIDELINES 
+
+
+
+1 SCOPE 
+
+1.1 This standard provides the guidciinos for 
+proportioning concrete mixes as per the requireircnts 
+using the concrete making materials including other 
+supplementary mateiials identified for this purpose. 
+The proportioning is carried out to achieve specified 
+characteristics at specified age, \vorkabi!it> of I'resh 
+concrete and durability requirements. 
+
+1.2 This standard is applicable for ordinary and 
+standard concrete grades only. 
+
+1.3 All requirements of IS 456 in so far as they apply, 
+shall be deemed to form part of this standard. 
+
+2 REFERENCES 
+
+The following standards contain provisi<ins, which 
+through reference in this text, constitute pro\isions 
+of this standard. At the time of publication, the 
+editions indicated were valid. All standards arc subject 
+to revision and parties to agreements based on this 
+standard are encouraged to investigate the possibility 
+of applying the most recent editions of the standards 
+indicated below: 
+
+
+
+Title 
+
+Specification for coarse and fine 
+aggregates from natural sources for 
+concrete (second revision) 
+Cudc of practice for plain and 
+reinforced concreic {fourth revision) 
+Methods ot test for aggregates for 
+concrete: Pari 3 Specific gravity, 
+density, voids, absorption and 
+bulking 
+
+Specification for pulverized fuel ash: 
+Part I For use as pozzolana in 
+cement, cement mortar and concrete 
+{second revision) 
+
+Specification for 43 grade lyrdinary 
+Portland cement {first revision) 
+Specification for admixtures for 
+concrete (first revision) 
+
+
+
+3 DATA FOR MIX PROPORTIONING 
+
+3.1 The following data are required for mix 
+proportioning of a particular grade of concrete; 
+
+
+
+IS No. 
+
+
+38.1 : 1970 
+
+
+456 : urn 
+
+
+2386 iPart 3) 
+
+
+1%3 
+
+
+3812 (Part 1) 
+
+
+2003 
+
+
+8112: 1989 
+
+
+9103 : 1999 
+
+
+
+a) Grade designation; 
+
+b) Type of cement; 
+
+c) Maximum nominal size of aggregate; 
+
+d) Minimum cement content: 
+
+e) Maximum water-cement ratio; 
+
+f) Workability; 
+
+g) Exposure conditions as per Table 4 and Table 
+5 of IS 456; 
+
+h) Maximum temperature of concrete at the time 
+
+of placing; 
+J) Method of transporting and placing; 
+k) Early age strength requirements, if required; 
+1) Type of aggregate; 
+m) Maximum cement content: and 
+n) Whether an admixture shall or shall ncM be 
+
+used and the type of admixture and the 
+
+condition of use. 
+
+3.2 Target Strength for Mix Proportioning 
+
+In order that not more than the specified proportion 
+of test results arc likely to fall below the characteristic 
+strength, the concrete mix has to be pniportioncd for 
+higher target mean compressive strength f^^. The 
+margin over characteristic strength is given by the 
+following relation: 
+
+where 
+
+f'^^. = target mean compressive strength at 28 days 
+
+in N/mm-, 
+/i^ = characteristic compressive strength at 28 
+
+days in N/mm^, and 
+s = st.indard deviation N/mm^. 
+
+3.2.1 Standard Deviation 
+
+The standard deviation fiw each grade of concrete shall 
+be calculated separately. 
+
+3.2.1.1 Standard deviation based on test strength of 
+
+sample 
+
+a) Number of test results of samples — The total 
+number of test strength of samples required 
+to constitute an acceptable record for 
+calculation of standard deviation shall be not 
+less than 30. Attempts should be made to 
+
+
+
+IS 10262 : 2009 
+
+
+
+obtain the 30 samples (taken from site), as 
+early as possible, when a mix is used for the 
+first time. 
+
+b) In case of significant changes in concrete — 
+When significant changes are made in the 
+production of concrete batches (for example 
+changes in the materials used, mix 
+proportioning, equipment or technical 
+control), the standard deviation value shall be 
+separately calculated for such batches of 
+concrete. 
+
+c) Standard deviation to be brought up-to- 
+date — The calculation of the standard 
+deviation shall be brought up-to-date after 
+every change of mix proportioning. 
+
+3J.1.2 Assumed standard deviation 
+
+Where sufficient test results for a particular grade of 
+concrete are not available, the value of standard 
+deviation given in Table 1 may be assumed for the 
+proportioning of mix in the first instance. As soon as 
+the results of samples are available, actual calculated 
+standard deviation shall be used and the mix 
+proportioned properly. However, when adequate past 
+records for a similar grade exist and justify to the 
+designer a value of standard deviation different from 
+that shown in Table 1, it shall be permissible to use 
+that value. 
+
+Table 1 Assumed Standard Deviation 
+
+{Clauses 3.2.1.2. A-3 and B-3) 
+
+
+
+SI 
+
+
+Grade of Assumed Standard Deviation 
+
+
+No. 
+
+
+Concrete N/mm' 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+i) 
+
+
+MIO" 
+
+
+3.5 
+
+
+•') 
+
+
+M15 
+
+
+
+
+Hi) 
+
+
+M20" 
+
+
+\ 
+
+
+w) 
+
+
+M25 
+
+
+V) 
+
+
+M30" 
+
+
+
+
+«J) 
+
+
+M3S 
+
+
+
+
+"ft 
+
+
+M40 
+
+
+
+
+TOi) 
+
+
+M4S 
+
+
+10 
+
+
+m 
+
+
+M50 
+
+
+
+
+^ 
+
+
+MSSJ 
+
+
+
+
+
+NOTE — The above values correspond to the site control 
+having proper storage of cement; weigh batching of all 
+materials; controlled addition of water; regular checking of all 
+materials, aggregate grading and moisture content; and 
+periodical checking of workability and strength. Where there 
+is deviation from the above, values given in the above table 
+shall be increased by I N/mm'. 
+
+
+
+4 SELECTION OF MIX PROPORTIONS 
+4.1 Selection of Water-Cement Ratio {see Note) 
+Different cements, supplementary cementitious 
+
+
+
+materials and aggregates of different maximum size, 
+grading, surface texture, shape and other 
+characteristics may produce concretes of different 
+compressive strength for the same free water-cement 
+ratio. Therefore, the relationship between strength and 
+free water-cement ratio should preferably be 
+established for the materials actually to be used. In 
+the absence of such data, the preliminary free water- 
+cement ratio (by mass) corresponding to the target 
+strength at 28 days may be selected from the 
+established relationship, if available. Otherwise, the 
+water-cement ratio given in Table 5 of IS 456 for 
+respective environment exposure conditions may be 
+used as starting point. 
+
+NOTE — The supplementary cementitious materials, that is, 
+mineral admixtures shall also be considered in water-cement 
+ratio calculations in accordance with Table 5 of IS 456. 
+
+4.1.1 The free water-cement ratio selected according 
+to 4.1 should be checked against the limiting water- 
+cement ratio for the requirements of durability and 
+the lower of the two values adopted. 
+
+4.2 Selection of Water Content 
+
+The water content of concrete is influenced by a 
+number of factors, such as aggregate size, aggregate 
+shape, aggregate texture, workability, water-cement 
+ratio, cement and other supplementary cementitious 
+material type and content, chemical admixture and 
+environmental conditions. An increase in aggregates 
+size, a reduction in water-cement ratio and slump, and 
+use of rounded aggregate and water reducing 
+admixtures will reduce the water demand. On the other 
+hand increased temperature, cement content, slump, 
+water-cement ratio, aggregate angularity and a decrease 
+in the proportion of the coarse aggregate to fine 
+aggregate will increase water demand. 
+
+The quantity of maximum mixing water per unit 
+volume of concrete may be determined from Table 
+2. The water content in Table 2 is for angular coarse 
+aggregate and for 25 to 50 mm slump range. The 
+water estimate in Table 2 can be reduced by 
+approximately 10 kg for sub-angular aggregates, 20 
+kg for gravel with some crushed particles and 25 kg 
+for rounded gravel to ptoduce same workability. For 
+the desired workability (other than 25 to 50 mm slump 
+range), the required water content may be established 
+by trial or an increase by about 3 percent for every 
+additional 25 mm slump or alternatively by use of 
+chemical admixtures conforming to IS 9103. This 
+illustrates the need for trial batch testing of local 
+materials as each aggregate source is different and 
+can influence concrete properties differently. Water 
+reducing admixtures or superplasticizing admixtures 
+usually decrease water content by 5 to 10 percent and 
+
+
+
+20 percent and above respectively at appropriate 
+dosages. 
+
+Table 2 Maximum Water Content per Cubic 
+
+Metre of Concrete for Nominal 
+
+Maximum Size of Aggregate 
+
+(Clauses 4.2, A-5 and B-5) 
+
+
+
+SI 
+No. 
+
+
+
+(1) 
+
+
+
+Nominal Maximum 
+Size of Aggregate 
+
+mm 
+
+(2) 
+
+
+
+Maximum Water 
+Content " 
+
+kg 
+
+(3) 
+
+
+
+
+ii) 
+
+Hi) 
+
+
+
+10 
+20 
+40 
+
+
+
+208 
+186 
+165 
+
+
+
+NOTE — These quantities of mixing water are for use in 
+computing cenientitious material contents for trial batches. 
+
+
+
+" Water)content corresponding to saturated surface dry 
+
+aggregate. 
+
+4.3 Calculation of Cementitious Material Content 
+
+The cement and supplementary cementitious material 
+content per unit volume of concrete may be calculated 
+from the free water-cement ratio {see 4.1) and the 
+quantity of water per unit volume of concrete. 
+
+The cementitious material content so calculated shall 
+be checked against the minimum content for the 
+requirements of durability and greater of the two 
+values adopted. The maximum cement content shall 
+be in accordance with IS 456. 
+
+4.4 Estimation of Coarse Aggregate Proportion 
+
+Aggregates of essentially the same nominal maximum 
+size, type and grading will produce concrete of 
+satisfactory workability when a given volume of 
+coarse aggregate per unit volume of total aggregate 
+is used. Approximate values for this aggregate volume 
+are given in Table 3 for a water-cement ratio of 0.5, 
+which may be suitably adjusted for other water- 
+cement ratios. It can be seen that for equal workability, 
+the volume of coarse aggregate in a unit volume of 
+concrete is dependent only on its nominal maximum 
+size and grading zone of fine aggregate. Differences 
+in the amount of mortar required for workability with 
+different aggregates, due to differences in particle 
+shape and grading, are compensated for automatically 
+by differences in rodded void content. 
+
+4.4.1 For more workable concrete mixes which is 
+sometimes required when placement is by pump or 
+when the concrete is required to be worked around 
+congested reinforcing steel, it may be desirable to reduce 
+the estimated coarse aggregate content determined using 
+Table 3 up to 10 percent. However, caution shall be 
+exercised to assure that the resulting slump, water- 
+
+
+
+IS 10262 : 2009 
+
+cement ratio and strength properties of concrete are 
+consistent with the recommendations of IS 456 and meet 
+project specification requirements as applicable. 
+
+Table 3 Volume of Coarse Aggregate per Unit 
+
+Volume of Total Aggregate for Different 
+
+Zones of Fine Aggregate 
+
+(Clauses 4.4, A-7 and B-7) 
+
+
+
+SI 
+No. 
+
+
+
+(t) 
+
+
+
+Nominal 
+Maximum 
+
+Size of 
+Aggregate 
+
+mm 
+
+(2) 
+
+
+
+Volume of Coarse Aggregate" per Unit 
+
+\'olumc of Total .Aggregate for 
+
+Different Zones of Fine .Aggregate 
+
+
+
+Zone IV 
+
+(3) 
+
+
+
+Zone III 
+(4) 
+
+
+
+Zone II 
+(5) 
+
+
+
+Zoncl 
+(6) 
+
+
+
+i) 
+ii) 
+iii) 
+
+
+
+10 
+20 
+40 
+
+
+
+0,50 
+066 
+0.75 
+
+
+
+0.48 
+0.64 
+0.73 
+
+
+
+0.46 
+0.62 
+0.71 
+
+
+
+0.44 
+0.60 
+0.69 
+
+
+
+" Volumes are based on aggregates in saturated surface dr)' 
+condition. 
+
+
+
+4.5 Combination of Different Coarse Aggregate 
+Fractions 
+
+The coarse aggregate used shall conform to IS 383. 
+Coarse aggregates of different sizes may be combined 
+in suitable proportions so as to result in an overall 
+grading conforming to Table 2 of IS 383 for particular 
+nominal maximum size of aggregate. 
+
+4.6 Estimation of Fine Aggregate Proportion 
+
+With the completion of procedure given in 4.4, all 
+the ingredients have been estimated except the coarse 
+and fine aggregate content. These quantities are 
+determined by finding out the absolute volume of 
+cementitious material, water and the chemical 
+admixture; by dividing their mass by their respective 
+specific gravity, multiplying by 1/1 000 and 
+subtracting the result of their summation from unit 
+volume. The values so obtained are divided into 
+Coarse and Fine Aggregate fractions by volume in 
+accordance with coarse aggregate proportion already 
+determined in 4.4. The coarse and fine aggregate 
+contents are then determined by multiplying with 
+their respective specific gravities and multiplying by 
+1 000. 
+
+5 TRIAL MIXES 
+
+The calculated mix proportions shall be checked by 
+means of trial batches. 
+
+Workability of the Trial Mix No. 1 shall be measured. 
+The mix shall be carefully observed for freedom from 
+segregation and bleeding and its finishing properties. 
+If the measured workability of Trial Mix No. 1 is 
+different from the stipulated value, the water and/or 
+admixture content shall be adjusted suitably. With 
+
+
+
+IS 10262 : 2009 
+
+
+
+this adjustment, the mix proportion shall be 
+recalculated keeping the free water-cement ratio at 
+the pre-selected value, which will comprise Trial Mix 
+No. 2. In addition two more Trial Mixes No. 3 and 4 
+shall be made with the water content same as Trial 
+Mix No. 2 and varying the free water-cement ratio by 
+±10 percent of the preselected value. 
+
+Mix No. 2 to 4 normally provides sufficient 
+information, including the relationship between 
+compressive strength and water-cement ratio, from 
+which the mix proportions for field trials may be 
+
+
+
+arrived at. The concrete for field trials shall be 
+produced by methods of actual concrete production. 
+
+6 ILLUSTRATIVE EXAMPLES 
+
+An illustrative example of concrete mix proportioning 
+is given in Annex A. Another illu.strative example of 
+mix proportioning of concrete using fly ash is given 
+in Annex B. These examples are merely illustrative to 
+explain the procedure; and the actual mix 
+proportioning shall be based on trial batches with the 
+given materials. 
+
+
+
+ANNEX A 
+{Clause 6) 
+
+ILLUSTRATIVE EXAMPLE ON CONCRETE MIX PROPORTIONING 
+
+
+
+A-0 An example illustrating the mix proportioning for a concrete of M 40 grade is given in A-1 to A-11. 
+A-1 STIPULATIONS FOR PROPORTIONING 
+
+
+
+a) Grade designation 
+
+b) Type of cement 
+
+c) Maximum nominal size of aggregate 
+
+d) Minimum cement content 
+
+e) Maximum water-cement ratio 
+
+f) Workability 
+
+g) Exposure condition 
+
+h) Method of concrete placing 
+
+j) Degree of supervision 
+
+k) Type of aggregate 
+
+m) Maximum cement content 
+
+n) Chemical admixture type 
+
+A-2 TEST DATA FOR MATERL\LS 
+
+
+
+a) 
+b) 
+c) 
+d) 
+
+
+
+e) 
+
+
+
+Cement used 
+
+Specific gravity of cement 
+Chemical admixture 
+Specific gravity of: 
+
+1) Coarse aggregate 
+
+2) Fine aggregate 
+Water absorption: 
+
+1 ) Coarse aggregate 
+
+2) Fine aggregate 
+
+
+
+M40 
+
+OPC 43 grade conforming to IS 8112 
+
+20 mm 
+
+320 kg/m' 
+
+0.45 
+
+100 mm (slump) 
+
+Severe (for reinforced concrete) 
+
+Pumping 
+
+Good 
+
+Crushed angular aggregate 
+
+450 kg/m^ 
+
+Superplasticizer 
+
+
+
+OPC 43 grade conforming to IS 8112 
+3.15 
+
+Superplasticizer conforming to IS 9103 
+
+
+
+2.74 
+2.74 
+
+0.5 percent 
+1.0 percent 
+
+
+
+IS 10262 : 2009 
+
+Free (surface) moisture: 
+
+1) Coarse aggregate : Nil (absorbed moisture also nil) 
+
+2) Fine aggregate : NU 
+g) Sieve analysis: 
+
+1) Coarse aggregate : ^^ Analysis of Percentage of Different Remarks 
+
+Sieve Coarse Fractions 
+
+Sizes Aggregate 
+mm Fraction 
+
+^-^-^. " ^ 
+
+J jj I n Combined 
+
+60 40 100 
+
+percent percent percent 
+
+20 100 100 60 40 100 ^ , . 
+
+10 71.20 28.5 28.5 ^""^"[^^ 
+
+4.75 9.40 3.7 3.7 '^Jf'^^ 
+2.36 ""^3^3 
+
+2) Fine aggregate Conforming to grading Zone I of Table 4 of IS 383 
+A-3 TARGET STRENGTH FOR MK PROPORTIONING 
+
+/'ck=/ck+ 1-65 5 
+where 
+
+f'cf. = target average compressive strength at 28 days, 
+
+f^^ = characteristic compressive strength at 28 days, and 
+
+s = standard deviation. 
+From Table 1, standard deviation, s = 5 N/nun^. 
+Therefore, target strength = 40 + 1 .65 x 5 = 48.25 N/mm^. 
+A-4 SELECTION OF WATER-CEMENT RATIO 
+From Table 5 of IS 456, maximum water-cement ratio = 0.45. 
+Based on experience, adopt water-cement ratio as 0.40. 
+0.40 < 0.45, hence O.K. 
+
+A-5 SELECTION OF WATER CONTENT 
+
+From Table 2, maximum water content = 186 litre (for 25 to 50 mm slump range) 
+for 20 mm aggregate 
+
+Estimated water content for 100 mm slump = 186h xl86 
+
+^ 100 
+
+= 197 litiB 
+
+As supeiplasticizer is used, the water content can be reduced up 20 percent and above. 
+
+Based on trials with superplasticizer water content reduction of 29 percent has been achieved. Hence, the 
+arrived water content = 197 x 0.71 = 140 litre 
+
+A-6 CALCULATION OF CEMENT CONTENT 
+
+Water-cement ratio = 0.40 
+
+140 
+
+Cement content = = 350 kg/m' 
+
+0.40 
+
+From Table 5 of IS 456, minimum cement 
+
+content for 'severe* exposure condition = 320 kg/m^ 
+
+350 kg/m' > 320 kg/m^ hence, O.K. 
+
+
+
+IS 10262 : 2009 
+
+
+
+A-7 PROPORTION OF VOLUME OF COARSE AGGREGATE AND FINE AGGREGATE CONTENT 
+
+From Table 3, volume of coarse aggregate corresponding to 20 mm size aggregate and fine aggregate (Zone I) 
+for water-cement ratio of 0.50 = 0.60. 
+
+In the present case water-cement ratio is 0.40. Therefore, volume of coarse aggregate is required to be increased 
+to decrease the fine aggregate content. As the water-cement ratio is lower by 0. 10, the proportion of volume of 
+coarse aggregate is increased by 0.02 (at the rate o{-/+ 0.01 for every + 0.05 change in water-cement ratio). 
+Therefore, corrected proportion of volume of coarse aggregate for the water-cement ratio of 0.40 = 0.62. 
+
+NOTE — In case Ihc coarse aggregate is not angular one, then also volume of coarse aggregate may be required to be increased 
+suitably, based on experience. 
+
+For pumpable concrete these values should be reduced by 10 percent. 
+
+Therefore, volume of coarse aggregate = 0.62 x 0.9 = 0.56. 
+
+Volume of fine aggregate content = 1 - 0.56 = 0.44. 
+
+A-8 MIX CALCULATIONS 
+
+The mix calculations per unit volume of concrete shall be as follows: 
+
+a) Volume of concrete = 1 m^ 
+
+b) Volume of cement 
+
+
+
+c) Volume of water 
+
+
+
+
+
+Mass of cement 
+
+
+1 
+
+
+
+
+Specific gravity of cement 
+
+
+1000 
+
+
+= 
+
+
+350 1 
+3.15 1000 
+
+
+
+
+= 
+
+
+0.111 m^ 
+
+
+
+
+
+
+Mass of water 
+
+
+1 
+
+
+
+
+Specific gravity of water " 
+
+
+1000 
+
+
+= 
+
+
+140 1 
+1 1000 
+
+
+
+
+= 
+
+
+0.140 m* 
+
+
+
+
+
+d) Volume of chemical admixture 
+(superplasticizer) (@ 2.0 percent 
+by mass of cementitious materia]) 
+
+
+
+e) Volume of all in aggregate 
+
+
+
+f) Mass of coarse aggregate 
+
+
+
+Mass of chemical admixture 1 
+
+
+
+g) Mass of fine aggregate 
+
+
+
+Specific gravity of admixture 1 000 
+
+1.145^1000 
+
+= 0.006 in' 
+
+= [a-(b + c-i-d)} 
+
+= KO. Ill +0.140 + 0.006) 
+= 0.743 in» 
+
+= ex Volume of coarse aggregate x Specific gravity of coarse 
+aggregate x 1 000 
+
+= 0.743x0.56x2.74x1000 
+= 1140 kg 
+
+= e X volume of fine aggregate x Specific gravity of fine aggregate 
+
+= 0.743 X 0.44 X 2.74 x 1 000 
+= 896 kg 
+
+
+
+IS 10262 : 2009 
+
+
+
+A-9 MIX PROPORTIONS FOR TRIAL NUMBER 1 
+
+
+
+Cement 
+
+
+= 
+
+
+350 kg/m' 
+
+
+Water 
+
+
+= 
+
+
+140 kg/m' 
+
+
+Fine aggregate 
+
+
+= 
+
+
+896 kg/m' 
+
+
+Coarse aggregate 
+
+
+= 
+
+
+1 140 kg/m' 
+
+
+Chemical admixture 
+
+
+= 
+
+
+7kg/m' 
+
+
+Water-cement ratio 
+
+
+= 
+
+
+0.4 
+
+
+
+NOTE — Aggregates should be used in saturated surface dry condition. If otherwise, when computing the requirement of mixing 
+water, allowance shall be made for the free (surface) moisture contributed by the fine and coarse aggregates. On the other hand, if the 
+aggregates are dry, the amount of mixing water should be increased by an amount equal to the moisture likely to be absorbed by the 
+aggregates. Necessary adjustments are also required to be made in mass of aggregates. The surface water and percent water absorption 
+of aggregates shall be determined according to IS 2386. 
+
+A- 10 The slump shall be measured and the water content and dosage of admixture shall be adjusted for achieving 
+the required slump based on trial, if required. The mix proportions shall be reworked for the actual water 
+content and checked for durability requirements. 
+
+A-11 Two more trials having variation of +10 percent of water-cement ratio in A- 10 shall be carried out and a 
+graph between three water-cement ratios and their corresponding strengths shall be plotted to work out the mix 
+proportions for the given tai^et strength for field trials. However, durability requirement shall be met. 
+
+
+
+APWEXB 
+
+(Clause 6) 
+
+ILLUSTRATIVE EXAMPLE OF MIX PROPORTIONING OF CONCRETE 
+(USING FLY ASH AS PART REPLACEMENT OF OPC) 
+
+
+
+B-0 An example illustrating the mix proportioning for a concrete of M 40 grade using fly ash is given B-1 to 
+B-11. 
+
+
+
+B-1 STIPULATIONS FOR PROPORTIONING 
+
+a) Grade designation 
+
+b) Type of cement 
+
+c) Type of mineral admixture 
+
+d) Maximum nominal size of aggregate 
+
+e) Minimum cement content 
+
+Maximum water-cement ratio 
+
+g) Workability 
+
+h) Exposure condition 
+
+j) Method of concrete placing 
+
+k) Degree of supervision 
+
+m) Type of aggregate 
+
+n) Maximum cement (OPC) content 
+
+p) Chemical admixture type 
+
+
+
+M40 
+
+OPC 43 grade conforming to IS 81 12 
+
+Fly ash conforming to IS 3812 (Part 1) 
+
+20 mm 
+
+320 kg/m' 
+
+0.45 
+
+100 mm (slump) 
+
+Severe (for reinforced concrete) 
+
+Pumping 
+
+Good 
+
+Crushed angular aggregate 
+
+450 kg/m' 
+
+Superplasticizcr 
+
+
+
+IS 10262 : 2009 
+
+
+
+B-2 TEST DATA FOR MATERIALS 
+
+a) Cement used 
+
+b) Specific gravity of cement 
+
+c) Fly ash 
+
+d) Specific gravity of fly ash 
+
+e) Chemical admixture 
+Specific gravity of: 
+
+1) Coarse aggregate 
+
+2) Fine aggregate 
+g) Water absorption: 
+
+1 ) Coarse aggregate 
+
+2) Fine aggregate 
+
+h) Free (surface) moisture: 
+
+1) Coarse aggregate 
+
+2) Fine aggregate 
+Sieve analysis: 
+1) Coarse aggregate 
+
+
+
+OPC 43 grade conforming to IS 81 12 
+
+3.15 
+
+Conforming to IS 3812 (Part 1) 
+
+2.2 
+
+Superplasticizer conforming to IS 9103 
+
+
+
+J) 
+
+
+
+2.74 
+
+
+
+
+
+
+
+
+
+
+2.74 
+
+
+
+
+
+
+
+
+
+
+0.5 percent 
+
+
+
+
+
+
+
+
+1.0 percent 
+
+
+
+
+
+
+
+
+Nil (absorbed moisture also 
+
+
+nil) 
+
+
+
+
+Nil 
+
+
+
+
+
+
+
+
+
+
+IS 
+
+Sieve 
+
+
+Analysis of 
+Coarse 
+
+
+Percentage of Different 
+Fractions 
+
+
+Sizes 
+mm 
+
+
+Aggregate 
+Fraction 
+
+A 
+
+^ 
+I II 
+
+
+
+
+/^ 
+
+
+
+
+/ 
+
+
+r 
+
+I 
+
+
+II 
+
+
+Combined 
+
+
+
+
+60 
+
+
+40 
+
+
+100 
+
+
+20 
+
+
+100 100 
+
+
+percent percent 
+60 40 
+
+
+percent 
+100 
+
+
+10 
+
+
+71.20 
+
+
+
+
+
+28.5 
+
+
+28.5 
+
+
+4.75 
+
+
+9.40 
+
+
+
+
+3.7 
+
+
+3.7 
+
+
+2.36 
+
+
+
+
+
+
+
+
+
+
+
+
+Remarks 
+
+
+
+Conforming 
+to Table 2 
+of IS 383 
+
+
+
+2) Fine aggregate 
+
+
+
+Conforming to grading Zone I of Table 4 of IS 383 
+
+
+
+B-3 TARGET STRENGTH FOR MIX PROPORTIONING 
+
+/;,=^+ 1.65 5 
+
+where 
+
+/'jk = target average compressive strength at 28 days, 
+f^ = characteristics compressive strength at 28 days, and 
+.{ = standard deviation. 
+From Table 1 , Standard Deviation, 5=5 N/mm^. 
+
+Therefore, target strength = 40 + 1.65 x 5 = 48.25 N/mml 
+B-4 SELECTION OF WATER-CEMENT RATIO 
+
+From Table 5 of IS 456, maximum water-cement ratio (see Note under 4.1) = 0.45. 
+Based on experience, adopt water-cement ratio as 0.40. 
+0.40 < 0.45, hence. O.K. 
+
+B-S SELECTION OF WATER CONTENT 
+
+
+
+From Table 2, maximum water content 
+for 20 mm aggregate 
+
+
+
+= 186 litre (for 25 to 50 mm slump range) 
+
+
+
+Estimated water content for 100 mm slump= 186-h — xl86 = 197 litre 
+
+100 
+
+
+
+IS 10262 : 2009 
+
+As supcrplasiicizcr is used, the water content can be reduced up lo 30 percent. 
+
+Based on trials with superplasiici/er water content reduction ot 2^ jiercent has been achieved. Hence, the 
+arrived water content = 1«7 x 0.71 = 140 litres. 
+
+B-6 CALCULATION OV CEMENT AND FLY ASH CONTENT 
+
+Water-cenicnt ratio (see nolo under 4.1) = 0.40 
+
+140 
+
+Cemeniitious material (cement + fly ash) content = =.'?50kK/m" 
+
+0.40 ^ 
+
+From Table 5 of IS 456, minimum cement 
+content for 'severe' exposure conditions = 320 kg/m' 
+
+350 kg/m' > 320 kg/m\ hence, O.K. 
+
+Now, to proportion a mix containing fly ash the following steps are suggested: 
+
+a) Decide the percentage fly ash to be used based on project requirement and quality of materials 
+
+b) In certain situations increase in cementitious material content may be warranted. The decision on increase 
+in cementitious material content and its percentage may be based on experience and trial (see Note). 
+
+NOTE — This illustrative example is with increase of 10 percent cementitious material content. 
+
+Cementitious material content = 350 x 1.10 = 385 kg/m' 
+
+Water Content = 140 kg/m' 
+
+140 
+
+So, water-cement ratio = = 0.364 
+
+385 
+
+Fly ash @ 30% of total cementitious material content = 385 x 30% =115 kg/m' 
+
+Cement (OPC) = 385- 1 15 = 270 kg/m' 
+
+Saving of cement while using fly ash = 350 -270 = 80 kg/in', and 
+
+Fly ash being utilized = I15kg/nr' 
+
+B-7 PROPORTION OF VOLUME OF COARSE AGGREGATE AND FINE AGGREGATE CONTENT 
+
+From Table 3, volume of coarse aggregate corresponding to 20 mm size aggregate and fine aggregate (Zone I) 
+for water-cement ratio of 0.50 = 0.60. 
+
+In the present case water-cement ratio is 0.40. Therefore, volume of coarse aggregate is required lobe increased 
+to decrease the fine aggregate content. As the water-cement ratio is lower by 0. 10, the proportion of volume of 
+coarse aggregate is increased by 0.02 (at the rate of -7+ 0.01 for every ± 0.05 change in water-cement ratio). 
+Therefore, corrected proportion of volume of coarse aggregate for the water-cement ratio of 0.40 = 0.62 
+
+NOTE — In case tlie coarse aggregate is not angular one. then also volume of coarse aggregate may he required to tx: incrca,scd 
+suitably, based on experience. 
+
+Forpumpable concrete these values should be reduced by 10 percent. 
+
+Therefore, volume of coarse aggregate = 0.62 x 0.9 = 0.56. 
+
+Volume of fine aggregate content = 1 - 0.56 = 0.44. 
+
+8-8 MIX CALCULATIONS 
+
+The mix calculations per unit volume of cor»crete shall be as follows: 
+
+a) Volume of concrete = 1 m-' 
+
+Massofcemeni 1 
+
+b) Volume of cement = t — : ^ - 
+
+
+
+Specific gravity of cemoit I 000 
+
+
+
+IS 10262 : 2009 
+
+
+
+c) Volume of fly ash 
+
+
+
+d) Volume of water 
+
+
+
+e) Volume of chemical admixture 
+(superplasticizer) @ 2.0% by mass 
+of ccmentitious material) 
+
+
+
+Volume of all in aggregate 
+
+
+
+g) Mass of coarse aggregate 
+
+
+
+h) Mass of fine aggregate 
+
+
+
+270 1 
+
+
+
+
+3.15 1000 
+
+
+
+
+= 0.086 m^ 
+
+
+
+
+Mass of fly ash 
+
+
+1 
+
+
+Specific gravity of fly ash 
+
+
+!000 
+
+
+115 1 
+i 1 000 
+
+
+
+
+= 0.052 m' 
+
+
+
+
+Mass of water 
+
+- X — 
+
+
+1 
+
+
+
+Specific gravity of water 1000 
+
+140 1 
+I 1 000 
+
+= 0.140 m' 
+
+Mass of admixture 1 
+
+
+
+Specific gravity of admixture 1 000 
+
+7 1 
+
+1.145^^1000 
+
+= 0.007 m' 
+
+= [a - (b + c + d + e)l 
+
+= l-(0.086 + 0.052 + 0. 140 + 0.007) 
+
+= 0.715 m^ 
+
+= / X volume of coarse aggregate x Specific gravity of coarse 
+
+aggregate x I 000 
+= 0.715 X 0.56 X 2.74 X ! 000 
+-- 1097 kg 
+= fx volume of fine aggregate x Specific gravity of fine aggregate 
+
+X 1 ()00 
+= 0.715 X 0.44 X 2.74 X 1 000 
+
+
+
+= 862 kg 
+B.9 MIX PROPORTIONS FOR TRIAL NUMBER 1 
+
+
+
+Cement 
+
+RyAsh 
+
+Water 
+
+Fine aggregate 
+
+Coarse aggregate 
+
+Chemical admixture 
+
+Water-cement ratio 
+
+(iff Note under 4.1) 
+
+
+
+270 kg/m' 
+115kg/m' 
+140 kg/m' 
+862 kg/m' 
+1 097 kg/m^ 
+7.7 kg/m^ 
+
+
+
+= 0..^64 
+
+
+
+NOTE — Aggregates should be used in saturated surface dry condition If otherwise, when computing the lequireinenl of mixing 
+water, allowance shall be made for the free (surface) moisture contributed by the fine and coarse aggregates. On the other hand, if the 
+
+
+
+10 
+
+
+
+IS 10262 : 2009 
+
+aggregaies arc dr)- 'he aniounl of mixing water should be increased by an aTmuinl c>|ual lo ilie nioiMure liLcIv lo he ahsoitied h\ ihe 
+aggregates. Necessary' adjuslmenis are also required to be made in mass o( aggregates The surface water and percent »iiici ahsoiption 
+of aggregates shall be determined according to IS 2^86 (Pan ^) 
+
+B-10 The slump shall be measured and the water content and dosage of admixture shall be adjusted for achieving 
+the required slump based on lri:il. if required. The mix proportions shall be reworked for the actual water 
+
+content and checked for dui ability requirements. 
+
+B-11 Two more trials having variation of ±10 percent of water-cement ratio in B-10 shall be carried out and a 
+graph between three water-cement ratios and their corresponding strengths shall be plotted to work out the mix 
+proportions for the given target strength for field trials. However, durability requirement shall be met. 
+
+
+
+Organization 
+
+
+
+ANNEX C 
+
+( Foreword ) 
+
+COMMITTEE COMPOSITION 
+
+Cement and Concrete Sectional Committee, CED 2 
+
+Reprfseni{itive(x) 
+
+
+
+Delhi Tourism and Transportation Development 
+Corporation Lid, New Delhi 
+
+ACC Ltd, Mumbai 
+
+Atomic Energy Regulator)' Board, Mumbai 
+
+Building Materials and Technology Promotion Council, 
+New Delhi 
+
+Cement Corporation of India Limited, New Delhi 
+
+Cement Manufacturers' Association, Noida 
+
+Cenlraj Board of lirigalion and Power. New Delhi 
+
+Central Building Research Institute (CSIR). Roorkee 
+
+Central Public Works Department, New Delhi 
+
+Central Road Research Institute (CSIR), New Delhi 
+
+Central Soil and Materials Research Station, New Delhi 
+
+Central Water Commission. New Delhi 
+
+Conmal Technolgies Pvt Ltd. Kolkata 
+
+Construction Industry Development Council, New Delhi 
+
+Directorate General of Supplies & Disposals, New Delhi 
+
+Fly Ash Utilization Programme, Department of Science & 
+Technology, New Delhi 
+
+Gammon India Limited. Mumbai 
+Grasim Industries Limited, Mumbai 
+
+
+
+.Shiu Josf. Kurian (Chairmaii) 
+
+Shki Navijln Chaiwa 
+
+Shri p. Srinivaisan {Allrrnutr) 
+
+Dr Prahir C. Bash 
+
+Shri L. R Bishnih (Aliemiiir) 
+
+Shri i K. Prasad 
+
+Shri R. R. Di:.shi'anih. 
+
+Shri M. K. AriARWAi (Atiemate) 
+
+Shri E. N. Miikidv 
+
+Dr S. p. Ghosh {Mrrmtile) 
+
+MiMIIFR SttRI-lARV 
+
+DiREiTiiR (Civil.) (Allermile) 
+
+Dr B K. Rao 
+
+Shri S. K. Acjarwai {Allemait) 
+
+Chiet Engineer (Di.SKiN) 
+
+SiiptRivn^iiMNC} ENr.iNiiR (S&S) (Alltmate) 
+
+Dr Ram Klmar 
+
+Shri Satanukr Kumar (Alternate) 
+
+Shri Murari Rainam 
+
+Shri N. Chani>ra.si.khr,\n (Aliemaie) 
+
+DiRiitTiw (CMDD) (N&W) 
+
+Dijn.n-» DfRKTOR (CMDD) (NW&S) {.Atlenuuei 
+
+Dr a. K. OArTHUhi. 
+
+Shri P. R. Swarup 
+
+Shri Sunii, Mahaja.n (Altematt) 
+
+Shki V. Baiasubhamasian 
+
+Shri R. P. Sinuh (Alternate) 
+
+Dr Vimal Kumar 
+
+Shri Mukesh Mathur (Alternate) 
+
+Shri S. A. Rrinn 
+
+Shri M.U. Shah (Alternate) 
+
+Shri A. K. Jain 
+
+Shri M. C. Agrawal (Alternate) 
+
+
+
+II 
+
+
+
+IS 10262 : 2009 
+
+
+
+Or};untziitum 
+Gujarat Ambuja CeintffKs Limilt;d. Ahinedabad 
+
+Housing and Urban Developmcni Corporation 
+Limited. New Delhi 
+
+Indian Bureau of Mine>. N'agpur 
+
+Indian Concrete InMitute. Chennai 
+
+Indian Institute of Technology. Roorkce 
+Indian Roads Congress. New Delhi 
+
+Institute for Research. Development & Training of Construction 
+Trade, Bangalore 
+
+Institute for Solid Waste Research & Ecological Balance, 
+Visakhapatnain 
+
+Madras Cements Ltd, Chennai 
+
+Military Engineer Ser\ices. Engineer-in-Chief's Branch, 
+Army HQ. New Delhi 
+
+Ministry of Road Transport & Highways, New Delhi 
+
+National Council for Cement and Building Materials, Ballabgarh 
+
+National Test House, Kolkata 
+
+f)CI, India limited New Delhi 
+
+Public Works Departinenl. Govcrniiicni of Tamil ,Nadu Chennai 
+
+R. V. College of Engineering. Bangalore 
+
+Research, Design & .Standards Organisation 
+(.Mmistry of Railways). Lucknow 
+
+
+
+Represenlarivel'i} 
+
+Siik; J. P Di v\l 
+
+Shri B. K jA(i!.liA (Miernuit) 
+
+ClIllkMAN & MA.N.Vfl.M'i DlKl.l 1(>K 
+
+.Shki v. Arli Ki mar {Aliernaie) 
+
+SilKi S. S. Das 
+
+SiiRi Ml. LRU Hasan (/W.V/vui/e) 
+
+SiiRi L. N. Ai'ii 
+
+SiiRi D. SkiMVASAN (Atienuite) 
+
+Pkoi S. K. K.-i sik 
+
+Sl'"RJ.I\KY Gl Ni kAI. 
+
+DiHi.LTOR (Altenutle) 
+
+DR N. RAiiHAVr.NDRA 
+Dk N. BlIANL'MAlHIDAS 
+
+Shri N. Kaijdas (Alteriuiie) 
+
+Shri V. Jaga.nctha.n 
+
+Shri Bai.vii K. MooRrHv (Alternute) 
+
+Shri J. B. Sharma 
+
+Shki Yocii-sii Sinuhal (Aliernale) 
+
+Shki A. N. Dhodapkar 
+
+Shki S. K. Puri (Aliernale) 
+
+ShRi R C. Wason 
+
+Dr M. M. All (Aliernale) 
+
+Shri D. K. Kanunco 
+
+Shri BR. Mhna (Aliernale) 
+
+Dk S C. Ahi I'WAi lA 
+
+SlITRIVriNllINCr E\(ilNi:i.K (Dl.SKiN) 
+
+ExiLTiivr ENiiiNii:R (Aliernale) 
+
+lYof T, S. Nai.araj 
+
+Shki R. M. SllARM^ 
+
+Smki V K. Yahwa (Mlcrnalf) 
+
+
+
+Sanghi Industries Limited, Sanghi Nagar 
+
+Sardar .Sarovar Nannada Nigam Limited. Dist Nannada 
+
+Structural tjigineering Research Centre (CSIR). Chennai 
+
+The India Cements Limited. Chennai 
+
+The Indian Hume Pipe Company Limited. Mumbai 
+
+The Institution of Engineers (India). Knikala 
+
+
+
+L'ltra Tech Cement Ltd. Mumbai 
+BIS Directorate General 
+
+
+
+SiiHi D. H.N R\(> 
+
+Dk H. K. PM'iAlK (Altermite) 
+
+Chii-.i liMiiNiiR (Navii.\m Dam) 
+
+Sri'iRisiLNOiNi-, EaiiimvIr (Alternate) 
+
+Smki .a. Chi II M'Pan 
+
+Shri J I'kahiiakar (Alternate) 
+
+Shki S. Gcipinaih 
+
+Shki R. Akun.m hala.m (Alternate) 
+
+Simi P D. Ki.i KAR 
+
+Shki S. J. Shah (Alternate) 
+
+Dk H. C. Vtsvi svaraya 
+
+Shri Bai ihr Sisuh (Allenuile) 
+
+Shri Subratd Chitwiihlry 
+
+Shri A. K. Saini. Scientist 'F & Head (Civ Fjigg) 
+[Representing Director General (Ex-afficio)] 
+
+Member Secretaries 
+
+Shri Sanj.w Pant 
+
+Scientist 'E' & Director (Civ Engg). BIS 
+
+Shri S. Ari n Kimar 
+Scientist 'B' & Director (Civ Engg), BIS 
+
+
+
+12 
+
+
+
+IS 10262 : 2009 
+
+
+
+Concrete Subcommittee, CED 2 : 2 
+
+
+
+Organization 
+
+Delhi Tourism & Transportalion Development Corporalion 
+Ltd, New Delhi 
+
+ACC Lid, Mumbai 
+
+Atomic Energy Regulatory Board. Mumbai 
+
+Building Materials and Technology Promotion Council, 
+New Delhi 
+
+Central Building Research Institute (CSIR), Roorkee 
+
+Central Public Works Department, New Delhi 
+
+Central Road Research Institute (CSIR), New Delhi 
+
+Central Soil & Materials Research Station, New Delhi 
+
+Central Water Commission, New Delhi 
+
+Engineers India Limited, New Delhi 
+
+Fly Ash Utilization Programme, Department of Science 
+and Technology, New Delhi 
+
+Gammon India Limited, Mumbai 
+
+Grasim Industries Ltd, Mumbai 
+
+Gujarat Ambuja Cement Limited, Ahmedabad 
+
+Indian Concrete Institute, Chennai 
+
+Indian Institute of Technology, New Delhi 
+
+Indian Institute of Technology, Kanpur 
+
+Indian Institute of Technology, Roorkee 
+
+Military Engineer Services, Engineer-in-Chief's Branch, 
+Army HQ, New Delhi 
+
+Ministry of Road Transport and Highways, New Delhi 
+
+National Buildings Construction Corporation Limited, 
+New Delhi 
+
+National Council for Cement & Building Materials. Ballabgarh 
+
+National Institute of Technology. Warangal 
+
+Nuclear Power Corporalion of India Limited, Mumbai 
+Pidilite Industries Limited, Mumbai 
+
+R. V. College of Engineering, Bangalore 
+
+Ready Mixed Concrete Manufacturers' Association. Bangalore 
+
+Research, Design & Standards Organization (Ministry of Railways), 
+Luclcnow 
+
+
+
+Reprr^enttjnveisi 
+SiiRi JiiM. Ki KiAN (Comtnrr) 
+
+Shri Anii Bawhhor 
+
+Shki P Basixb-aiihya^ (.Aliemaie) 
+
+Dr Prahir C. Basii 
+
+Shri L. R. Bishmh (Aliernalt) 
+
+Shri J. K. Prasad 
+
+Shri Pankaj Gupta (Aliemaie) 
+
+Dr B. K. Rao 
+
+Dr S. K. AdAKWAi (.Aliemaie) 
+
+SupKRimr-NiMMci ENTiiNua (DiaioN) 
+
+ExicmvE ENGiNiatR (Di.SKm) III (Aliemaie) 
+
+DlRIXTOR 
+
+Shri Satasdi* Ki'mar (Alternate) 
+
+Shri Murari Rainam 
+
+Shri N. Chasi>ra.sijcharan {Aliemaie) 
+
+DiRi ciiiR (C&MDD) 
+
+Dm-n DiRUTOR (C&MDD) (Aliemaie) 
+
+Shri .Arvisd Kimak 
+
+Shki T. Bai raj (Aliemaie) 
+
+Dk Vimal Kumar 
+
+Shri Muki-sh Maiwir (Alternate) 
+
+Shki S. A. Rhhii 
+
+Dh N. K. Nayak (Alternate) 
+
+Shri A. K. Jain 
+
+Shri M. C. Agrawai. (Aliemaie) 
+
+Shri J. P. Di-sai 
+
+Shri B. K. JAiiiTlA (Alternate) 
+
+Prot M. S. SHinTY 
+
+Shri L. N. Arn. (Aliemaie) 
+
+Dr B. Bhattai-harjij, 
+
+Dr Sudhir Mishra 
+
+Dk A.SHOK Kumar Jain 
+
+Brk, R. K. Guha 
+
+Coi V. K. Baixha (Aliemaie) 
+
+Shri T. B Banikjci. 
+
+Shri Kami i.sh Kumar (Alternate) 
+
+Shri L. P Sin(,h 
+
+Shri Darshan Siwih (Aliemaie) 
+
+Shki R. C. Wa.son 
+
+Shri H. K. Juijia (Alternate) 
+
+Dh C. B. Kamt.vwara Rao 
+
+Dr D. Rama Spshi' (Aliemaie) 
+
+ShRJ U. S. P VliRMA 
+
+Shri P. L. Paihy 
+
+Shw K. Padmakar (Ahrmale) 
+
+¥k«. T. S. Naoaraj 
+
+Shri Vu.\y Kr Kuixar.m 
+
+Joint Dhuxtiw Snws (B&S)/CB-I 
+
+Joint Dirutwi Sims (BAS)/CB-1I (Alternate) 
+
+
+
+13 
+
+
+
+IS 10262 : 2009 
+
+Organization 
+StnKtural Engineering Research Centre (CSIR), Chennai 
+
+Tandon Consultants Private Limited, New I3elhl 
+
+TCE Consulting Engineers Limited. Mumbai 
+
+Torsteel Research Foundation in India. New Delhi 
+
+In personal capacity (35, Piirk Avenue. Annamma. Naickel 
+Sucet. Kuniamuthur. Coimbaiore) 
+
+In personal capacity (36. Old Sneh Nagar. Wardha Road. 
+Nagpur) 
+
+
+
+Representative(s) 
+
+Shri T. S. Krishnamookihy 
+
+Shri K. Balasubramanian (Alternate) 
+
+Shri Mahlsh Tanix)n 
+
+Shri Vinay Gupta (Alternate) 
+
+Shri J. P. Haran 
+
+Shri S. M. Pali;kar (Alternate) 
+
+Dr p. C. Chowdhl'ry 
+
+Dr C. S. Vishwanatha (Alternate) 
+Dr C. Rajkumar 
+
+Shri Lalh- Kumar Jain 
+
+
+
+14 
+
+
+
+GMGIPN— 2«0 BIS/ND/200»— 1,000 Copie* 
+
+
+
+(ContiiitiiJ triiin sccoiul cover) 
+
+Proporiioiiing ol concrete mixes can be regarded as procedure set to proportion the most economical concrete 
+mix tor specilled durability and grade for required site conditions. 
+
+As a guarantor ol quality of concrete in the construction, the constructor should carry out mix proponioning 
+and the engineer-in-charge should approve the mix so proportioned. The methixi given in this standard is to be 
+regarded as the guidelines only to arrive at an acceptable product, which satisfies the requiremenls of placement 
+required with development of strength with age and ensures the requirements of durability. 
+
+This standard does not debar the adoption of any other methods of concrete mix proportioning. 
+
+In this revision, assistance has also been derived from ACI 211.1 (Reapproved 1997) 'Standard practice for 
+selecting proportions for normal, heavyweight, and mass concrete', American Concrete Institute. 
+
+The composition of the Committee responsible for formulation of this standard is given in Annex C. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, 
+observed or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with 
+IS 2 : 1960 'Rules for rounding off numerical values (revised)'. The number of significant places i^taincd in the 
+rounded off value should be the same as that of the specified value in this standard. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act. 1986 lo promote 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+'BIS Catalogue' and 'Standards : Monthly Additions'. 
+
+This Indian Standard has been developed from Doc No.: CED 2 (7288). 
+
+
+
+Amendments Issued Since Publication 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 1(XX)2 
+
+Telephones : 2323 0131, 2323 3375, 2323 9402 IVehsite: wwvv.bis.org. in 
+
+Regional Oflices: Telephones 
+
+Central : Manak Bhavan. 9 Bahadur Shah Zafar Marg f 2323 7617 
+
+NEW DELHI 1 10 002 \2323 3841 
+
+Ea.stcrn : 1/14 C.I.T. Scheme VII M. V. I. P. Road. Kankurgachi / 2337 8499, 2337 8561 
+
+KOLKATA 7(K) 054 " \ 2337 8626, 2337 9 1 20 
+
+Northern : .SCO 335-336. .Sector 34-A. CHANDIGARH 160 022 J'260 3843 
+
+L260 9285 
+
+.Southern : C.I.T. Campus. IV Cross Road. CHENNAI 600 II 3 f 2254 1216. 2254 1 442 
+
+\2254 2519, 2254 2315 
+
+Western : Manakalaya. E9 MIDC. Marol, Andheri (East) / 2832 9295, 2832 7858 
+
+MUMBAi 400 093 \28.32 7891, 2832 7892 
+
+Branches: AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. 
+GH.\ZIABAD. GUWAH.ATl. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+PARWANOO. PATNA. PUNE. RAJKOT. 1 HIRUVANANTHAPURAM. VISAKHAPATNAM. 
+
+
+
+PRINTED BY THE GENERAL MANAGER, GOVT. OF INDIA PRESS. NASHIK-422 006 
+
+
+

@@ -1,0 +1,1815 @@
+**************** 
+
+
+
+*■ fe^K 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+^^Eti^^tt^n f im^NS ^g^T^^i ra^gg > ^uiKa*«^^ 
+
+
+
+IS 366 (1991) 
+Appliances] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+Electric irons [ETD 32: Electrical 
+
+
+
+&&&i f /n^sb^s^ rs^arn^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+?TR TJ^ ^TT teMHI | ^t ^Tift ^FTT ^f ^TT ^T^?TT \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 366 : 1991 
+
+(Reaffirmed 1998 
+
+
+
+Indian Standard 
+ELECTRIC IRON - SPECIFICATION 
+
+( Fourth Revision) 
+
+
+
+First Reprint AUGUST 1998 
+UDC 648424 
+
+
+
+O BIS 1991 
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+December 1991 Price Grou P 5 
+
+
+
+AMENDMENT NO. 1 OCTOBER 1993 
+
+TO 
+
+IS 366 : 1991 ELECTRIC IRON — SPECIFICATION 
+
+( Fourth Revision ) 
+
+(Page 10, clause 18.1 ) — Replace second sentence by the following: 
+
+"Before commencement of the tests the Electric Iron shall be visually examined 
+and inspected for obvious visual defects in respect of components, parts, and 
+their assembly construction, stability, markings, provisions of suitable terminals 
+for supply connection, earthing and the effectiveness of screws and connections.' 
+
+[ Page 2, clause 12.2 (d) line 2 ] — Substitute 'end'/c/r 'and'. 
+
+( Page 6, clause 16.2, para 2, line 3 ) — Substitute 'of 40 mm at a rate of 
+about five drops per minute' in place of 'of 40 cm at a rate not exceeding five 
+drops per minute'. 
+
+
+
+(ETD32) 
+
+
+
+Piinted at Slmco Printing Press, Delhi, Indi., 
+
+
+
+AMENDMENT NO. 2 NOVEMBER 1994 
+TO 
+IS 36* : 1991 ELECTRIC IRON — SPECIFICATION 
+
+(Fourth Revision) 
+
+( Page 1, clause 11 J ) — Insert the following at the end: 
+'The sole plate temperature shall not exceed 260 o C.' 
+
+( Page 1, clause 11.4 ) — Insert the following at the end: 
+'The sole plate temperature shall not exceed 260*C 
+
+( Page 2, clause 1 1.5 ) — Substitute the following for the existing matter 
+
+'It shall be possible to achieve sole plate temperature of at least 70*C at the 
+lowest and 200°C at the highest setting of thermostat in the case of thermostatic 
+electric irons. 
+
+NOTC — Recommended temperature range of ironing for different types of fabrics are given as 
+under: 
+
+Fabric Temperature { Q 
+
+Nylon 70 to 90 
+
+Rayon 100 ■ J 20 
+
+Silk 130 " 150 
+
+Wool 160 * 180 
+
+Cotton/Linen 190 ■ 210 
+
+This is for the guidance of the manufacturers only.' 
+
+( Page 8, clause 17.2.2 ) — Insert the following Note at the end: 
+
+'NOTE — The test shall be kept in abeyance till further amendment/ 
+
+
+
+(ETD32) 
+
+
+
+Printed at Simco Printing Press, Delhi, India 
+
+
+
+AMENDMENT NO. 3 APRIL 1995 
+
+TO 
+
+IS 366 : 1991 ELECTRIC IRON — SPECIFICATION 
+
+(Fourth Revision) 
+
+( Page 1, clause 9.1 ) — Substitute the following for the existing clause: 
+
+"9.1 The electric iron shall meet the safety requirements as given in 8 to 32 of 
+IS 302-2*3 (1992) except 9, 14, 17, 21.101 and 32.' 
+
+( Page 5, clause 16.1, para 3 ) — Substitute the following for the existing 
+para: 
+
+"The iron is operated continuously, or for a corresponding number of periods, 
+each period being not less than 8 houis. The iioh is operated until the total sum 
+of 'ON' period teaches 200 houis. Immediately after this the average sole plate 
+temperature 72 is determined as for TV* 
+
+( Page 6, clause If JL1, Note ) — Delete. 
+
+( Page 10, Table 3, col 3, row 1 ) — Substitute the following for the existing 
+matter. 
+
+4 As given in 8 to 32 of IS 302-2-3 (1992) ( except for test given in 9, 14, 17, 21.101 and 32 ).' 
+
+( Page 10, Table 3 ) — Insert the following note at the end of the table: 
+
+'NOTE — Ine test for PTFE coating given in 17.2 shall be kept in abeyance till further 
+amendment.' 
+
+
+
+(ETD 32) 
+
+
+
+Printed at Slmco Printing Press, Delhi, India 
+
+
+
+AMENDMENT NO. 4 MARCH 1996 
+
+TO 
+
+IS 366 : 1991 EJLECTRIC IRON — SPECIFICATION 
+
+( Fourth Revision ) 
+
+(Page 1, clause 10.4 ) — Substitute the following for the existing matter. 
+
+'10.4 The heating up time shall not exceed 4 minutes for electric iron of 
+aluminium alloy sole plate and 8 minutes of cast iron sole plate.' 
+
+( Page 2, clause 113 ) — Add the following note at the end: 
+
+'NOTE — For those irons whose thermostat settings are indicated by a section the setting 
+shall be at the centre of the marking of range/ 
+
+( Page 3, clause 14 2, line 2 ) — Substitute '20°C for ' 12.5°C. 
+
+( Page 6, clause il 22, para 2 ) — Insert the following note after this para: 
+
+'NOTE — The hardness of the cutting tool shall be about 200 BHN/ 
+
+
+
+(ETD32) 
+
+
+
+Printed at Simco Printing Press, Delhi, India 
+
+
+
+AMENDMENT NO. 5 APRIL 1998 
+
+TO 
+
+IS 366 : 1991 ELECTRIC IRON — SPECIFICATION 
+
+( Fourth Revision ) 
+
+( Page 10, clause 18.1 ) — Substitute the following for the existing matter 
+
+'The test specified in Table 3 shall constitute the type tests and carried out on a 
+sample selected preferably at random from a Tegular production lot. Before 
+commencement of the tests, the irons shall be visually examined and inspected 
+for obvious visual defects in respect of components, parts and their assembly, 
+construction, mechanical hazards, markings, provision of suitable terminals for 
+supply connections, earthing and the effectiveness of screws and connections. 
+The external surface finish shall be even and free from finishing defects.' 
+
+( Page 10, clause 18.1.1, first sentence ) — Substitute the word 'Sample' in 
+place of 'Both samples'. 
+
+
+
+(ET32) 
+
+
+
+Printed at Simco Printing Press, Delhi, India 
+
+
+
+AMENDMENT NO. 6 OCTOBER 2011 
+
+TO 
+
+IS 366 : 1991 ELECTRICAL IRONS — SPECIFICATION 
+
+(Fourth Revision) 
+
+{Page 10, clause 18.1.1) — Substitute the following for the existing: 
+
+'18.1.1 Criteria of acceptance 
+
+Sample shall successfully pass all the type tests for proving conformity with the requirements of the 
+standard. If the sample fails in any of the type tests, the testing authority at its discretion may call for fresh 
+sample not exceeding twice the original number and subject them again to all tests or to the test(s) in which 
+failure(s) had occurred. No failure should be permitted in the repeat test(s).' 
+
+
+
+(ET 32) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+Electrical Appliances Sectional Committee, ETD 32 
+
+
+
+FOREWORD 
+
+This Indian Standard was adopted by the Bureau of Indian Standards after the draft finalized by the 
+Electrical Appliances Sectional Committee had been approved by the Electrotechnical Division 
+Council. 
+
+The standard covers the general, safety and performance requirements of Electric Iron. 
+
+This standard was originally published in 1965. The first revision was done in 1965, second revision 
+in 1976 and third revision was in 1985. As per the decision of the 3rd meeting of Electrotechnical 
+Division Council separate safety standard on electric iron has been brought out. In the fourth 
+revision of this composite standard instead of giving details of safety requirements, reference has 
+been made to the respective safety standard IS 302-2-3 : 1992 Safety requirements for household 
+and similar electrical appliances: Part 2 Particular requirements: Section 3 Electric iron. The 
+present revision also takes into account the amendments that have been issued since the last 
+publication of the standard. 
+
+While preparing this standard assistance has been derived from IEC Publication 31 1 ( 1988 ) Method 
+of measurement of performance of electric iron for household or similar use. 
+
+This standard does not apply for steam irons which are covered in IS 6290 : 1986 Specification for 
+steam irons (first revision ). 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the 
+final value, observed or calculated, expressing the result of a test, shall be rounded off in accordance 
+with IS 2 : 1960 'Rules for rounding off numerical values (revised)*. The number of significant 
+places retained in the rounded off value shauld be the same as that of the specified value in the 
+standard. 
+
+
+
+IS 366 : 1991 
+
+
+
+Indian Standard 
+
+ELECTRIC IRON — SPECIFICATION 
+
+( Fourth Revision ) 
+
+
+
+1 SCOPE 
+
+1.1 This standard covers the genera! safety and 
+performance requirements of electric iron used for 
+household and similar purposes. 
+
+In addition, the provision of 1 of IS 302-2-3 (1992) 
+shall also apply. 
+
+2 REFERENCES 
+
+The following Indian Standards are necessary adjuncts 
+to this standard: 
+
+IS No. Title 
+
+302-1(1979) Safety of household and similar 
+
+electrical appliances: Part 1 General 
+requirements ( fifth revision ) 
+
+1068:1985 Electroplated coatings of nickel 
+
+plus chromium and copper plus 
+nickel plus chromium on iron and 
+steel ( second revision ) 
+
+302-2-3 (1992) Safety of household and similar 
+electrical appliances : Part 2 
+Particular requirements, Section 3 
+Electric iron 
+
+3 TERMINOLOGY 
+
+3.1 The provision of 2 of IS 302-2-3 (1992) shall 
+apply. 
+
+4 GENERAL REQUIREMENTS 
+
+4.1 The provision of 3 of IS 302-2-3 (1992) shall 
+apply. 
+
+5 GENERAL NOTES ON TESTS 
+
+5.1 The provision of 4 of IS 302-2-3 (1992) shall 
+apply. 
+
+6 RATING 
+
+6.1 The provision of 5 of IS 302-2-3 (1992) shall 
+apoly. 
+
+7 CLASSIFICATION 
+
+7.1 The provision of 6 of IS 302-2-3 (1992) shall 
+apply. 
+
+ft MARKING 
+
+8.1 The provision of 7 of IS 302-2-3 (1992) shall 
+apply. 
+
+
+
+9 SAFETY REQUIREMENT 
+
+9.1 The electric iron shall meet the requirements as 
+given in 8 to 32 of IS 302-2-3 (1992) except 9, 14, 
+17 and 32. 
+
+10 MEASUREMENT OF HEATING-UP TIME 
+
+10.1 The iron is placed on the three pointed metallic 
+supports while under measurement. The three pointed 
+supports are constructed so that they support the sole 
+plate of the iron horizontally at least 100 mm above 
+the base surface on which the iron is placed. The 
+thermocouple is attached at the mid-point of the sole 
+plate (see Fig.l). 
+
+10.2 Starting from ambient temperature, the iron is 
+heated up with the voltage corresponding to rated 
+input, the thermostat, if any set at the highest 
+temperature. Where a rated voltage range is 
+specified, this voltage should correspond to the 
+voltage corresponding to mean rated input. 
+
+10.3 The heating-uptime which is the time necessary 
+for temperature of the sole plate to exceed Ihe 
+ambient temperature by 180°C or at least a final 
+temperature of 200°C including ambient is measured, 
+and is expressed in minutes and seconds. 
+
+10.4 The heating up time shall not exceed 8 minutes 
+
+11 MEASUREMENT OF SOLE PLATE 
+TEMPERATURE 
+
+1 1.1 The iron is placed on the three metallic supports 
+(see 10) and the thermocouple is attached at the 
+mid point of the sole plate (see Fig. 1). The iron 
+is switched on and heated with a voltage corres- 
+ponding to rated input. 
+
+11.2 For thermostatic iron the highest and the lowest 
+temperatures are measured during five successive 
+cycles of temperature variation after the iron has 
+reached the steady state conditions. The mean value 
+of the five highest and lowest temperatures is the 
+sole plate temperature for the setting. This test is 
+repeated for each setting of the thermostat. 
+
+11.3 For irons with self resetting thermal cut-oul the 
+measurement shall be carried out in the same way 
+as for thermostatic type. 
+
+11.4 For other types of irons, the highest sole plate 
+temperature shall be measured after the iron has reached 
+steady state conditions. 
+
+
+
+IS 366: 1991 
+
+
+
+THERMOCOUPLE LEADS 
+
+
+
+
+SILVER DISC 
+CERAMIC PIPE 
+SPRING 
+ADJUSTING NUT 
+
+
+
+
+
+
+20 
+
+
+
+-SMALL HOLE FOR 
+LEADS 
+
+
+
+SILVER DISC 
+
+
+
+CERAMIC PIPE 
+
+
+
+NOTE — A thermocouple is soldered at the centre or the silver disc The silver disc is fixed to the end of the ceramic pipe 
+with beat-resistant adhesive. 
+
+Fig. 1 2- Way of Attaching Thermocouples 
+
+
+
+notes 
+
+1 The steady state temperature is considered to be achieved 
+if the temperature at the mid-point of the sole plate does not 
+vsry by more than 1°C per hour. 
+
+2 For those irons whose thermostat settings are indicated by 
+a sector the setting shall be at the centre of the range. 
+
+3 The adjustment of the thermostat control to obtain the 
+required setting shall be made in the direction of increasing 
+temperature. 
+
+US It shall be possible to achieve sole plate 
+temperature of at least 70°C at the lowest and 200°C 
+at the highest setting of thermostat in the case of 
+thermostatic electric irons. Recommended temperature 
+range of ironing for different types of fabrics are 
+given as under 
+
+
+
+Fabric 
+
+
+Temperature (°C) 
+
+
+Nylon 
+
+
+70 to 90 
+
+
+Rayon 
+
+
+100 to 120 
+
+
+Silk 
+
+
+130 to 150 
+
+
+Wool 
+
+
+160 to 180 
+
+
+Cotton/Linen 
+
+
+190 to 210 
+
+
+
+12 MEASUREMENT 
+DISTRIBUTION 
+
+
+
+OF TEMPERATURE 
+
+
+
+12.1 The iron is placed on the three metallic supports 
+
+
+
+(see 10) and is heated up with the voltage specified 
+in 10 until the sole plate temperature at the mid- 
+point exceeds 200°C. Then after switching off the 
+supply, the iron is placed for a suitable period, on 
+a sheet of white paper spread over flannel cloth which 
+covers a wooden board. After removal of the iron, 
+darkening of the paper indicates the temperature 
+distribution over the sole plate. The hottest point is 
+determined as the centre of the darkest area. 
+
+NOTE — Positive phototype paper, which is unexposed and 
+developed, white tracing paper, or white blotting paper is 
+recommended as the white paper for this measurement. 
+
+12 .2 After this iron is placed on three metallic supports 
+(see 10) and a thermocouple is attached at each of 
+the following four points of the sole plate: 
+
+a) The hottest point determined in 12.1, 
+
+b) The mid-point of the sole plate, 
+
+c) The point on the longitudinal centre line 
+20 mm from the tip of the sole plate, and 
+
+d) The point on the longitudinal centre line 
+20 mm from the heal and of the sole plate. 
+
+For a thermostatic iron, the thermostat is set so that 
+the temperature at the mid-point is maintained at 
+approximately 15QPC under the steady-state conditions, 
+
+
+
+IS 366 : 1991 
+
+
+
+and the measurement is performed after the iron has 
+reached the steady-state conditions. 
+
+For other types of irons, the temperature at the mid- 
+point is maintained at approximately 150°C for at 
+least 15 minutes by switching the supply on and off 
+before taking temperature measurements. 
+
+The varying temperature is recorded for 10 minutes 
+and the average temperature for the 10 minutes is 
+determined for each of the four points. The mean 
+of the four average temperatures is then determined, 
+and the difference between each average temperature 
+and the mean temperature is also calculated. The four 
+temperature differences are recorded as the indication 
+of the temperature distribution over the sole plate. 
+
+12 J Any of the four temperature differences recorded 
+in the above test shall not differ by more than 10°C. 
+
+13 MEASUREMENT OF INITIAL OVERSWING 
+TEMPERATURE AND HEATING-UP EXCESS 
+TEMPERATURE 
+
+13.1 The iron is placed on the three metallic supports 
+(see 10) and a thermocouple is attached at the hottest 
+point determined as in 12.1. The iron is then switched 
+on and thermostat is adjusted so that an average 
+temperature of about 120°C is maintained at the 
+measuring point under the steady state conditions. 
+The iron is allowed to cool down to room temperature. 
+The iron is switched on again and, using a recording 
+type instrument, the time and temperature are measured 
+at the hottest point from switching on over nine 
+successive cycles to produce a graph of the type 
+shown in Fig. 2. 
+
+
+
+13.2 From the graph the following are determined: 
+
+a) The initial overswing temperature, which is 
+the first peak temperature between the first 
+and second cut-outs of the thermostat; 
+
+b) The mean peak temperature which is the mean 
+value of the last five peak temperatures; and 
+
+c) The heating up excess temperature, which is 
+the difference between the initial overswing 
+temperature and the mean peak temperature. 
+
+13.3 The initial overswing temperature shall not be 
+more than 165°C and the bea ting-up excess temperature 
+shall not exceed 30°C. 
+
+13.4 This test is applicable to thermostatic irons only. 
+
+14 MEASUREMENT OF CYCLIC 
+FLUCTUATION OF TEMPERATURE 
+
+14.1 Measurement is the same as in 13 except that 
+highest and lowest temperatures of each cycle are 
+measured for five successive cycles after the iron has 
+reached the steady-state conditions. The mean value 
+for the highest temperatures and that for the lowest 
+temperatures are determined. One half of the difference 
+between the mean values is the cyclic fluctuation of 
+the temperature of the hottest point and is expressed 
+in Celsius degrees. 
+
+NOTE — This measurement may be combined with the meas- 
+urement in 13. 
+
+14.2 The cyclic fluctuation of the temperature of the 
+hottest point shall not exceed 12.5°C. 
+
+
+
+
+Fto. 2 Variation of Sole-Plate Temperature After Switching On 
+3 
+
+
+
+IS 366 : 1991 
+
+
+
+14.3 This test is applicable to thermostatic irons only. 
+
+15 MEASUREMENT OF TEMPERATURE DROP 
+UNDER LOAD 
+
+15.1 Measurement of Temperature and Average 
+Input Power under Idling Operation 
+
+The iron is placed on the three metallic supports 
+(see 10), and a thermocouple is attached at the mid- 
+point of the sole plate. The iron is then switched 
+on and the thermostat is adjusted so that an average 
+temperature of 200 ± 10°C is maintained under the 
+steady-state conditions. 
+
+After the iron has reached the steady state conditions, 
+N, 
+
+
+
+the highest and the lowest temperature for five 
+successive cycles are measured, and the mean 
+temperature T x for them is determined. At the same 
+time, the average power Wi of the input consumed 
+under the steady state conditions is determined by 
+dividing the electric energy in watthours consumed 
+in the course of at least five regulating cycles by 
+the total duration of these cycles. 
+
+15.2 Measurement of Temperature and Average 
+Input Power Under I^ad 
+
+The iron is placed on the supports of the measuring 
+apparatus illustrated in Fig. 3 and switched on with 
+the same thermostat as for 15.1. 
+
+
+
+
+1 Copper base plate 
+
+
+4 Pointed supports 
+
+
+7 
+
+
+2 Edge of the base plate 
+
+
+5 Silver disc with a thermocouple 
+
+
+8 
+
+
+3 Cooling pipes 
+
+
+6 Silicone oil 
+
+
+
+
+
+Cooling water pipes 
+Slot in thebase plate for 
+thermocouple leads 
+9 Thermocouple leads 
+NOTE — The base plate (1) is made of copper plate 10 mm to 15 mm thick. Around the periphery of the base plate, the edge (2) about 10 mm 
+high is soldered, so that the plate forms a shallow vessel for silicon oil. Cooling pipes of copper (3) are soldered to the lower surface of the base 
+plate, and are connected to cooling water pipes (7). Three pointed supports (4) are provided on the base plate. The height of the supports can 
+be adjusted from 1 mm to 2 mm. The silver disc with a thermocouple (5) is placed at the mid-point of the solepjate, and it must not touch the 
+base plate. The base plate of the apparatus is held horizontally and is filled wiih silicone oil 3 mm to 4 mm deep. 
+
+Fig 3 Apparatus For Measuring Temperature Drop Under Load 
+
+
+
+IS 366 : 1991 
+
+
+
+The flow rate of cooling water is adjusted so that 
+the temperature difference between outgoing and 
+incoming water does not exceed 10°C after steady 
+condition is reached. 
+
+The height of the pointed supports is determined in 
+a preliminary test in such a way that the average 
+input power absorbed by the iron is about 50 percent 
+of the rated input. 
+
+After ten successive cycles of operation of the 
+thermostat, it is assumed that steady condition is 
+reached. The average power W c of the input and the 
+mean temperature f of the sole plate under load are 
+determined, as for the idling case in 15.1. 
+
+15.3 For irons with self resetting thermal cut-out the 
+measurements at 15.1 and 15.2 shall be carried out 
+in the same way as that of thermostatic type. For 
+other types of irons, the above measurements arc 
+carried out similarly after the iron has reached the 
+steady-state conditions. 
+
+15.4 Calculation of Temperature Drop Under Load 
+
+The measured temperature drop under load is the 
+difference T = T { - 7" c , 7*, and 7. being respectively 
+the mean temperature under idling and load determined 
+in 15.1 to 153. 
+
+The temperature drop per 100 W load is calculated 
+by the formula: 
+
+
+
+where 
+W c * the average input power under load, and 
+W l = the average input power under idling. 
+
+15.5 The temperature drop under load shall not exceed 
+10°C. 
+
+
+
+16 MEASUREMENT 
+STABILITY 
+
+
+
+16.1 Endurance lest 
+
+
+
+OF THERMOSTATIC 
+
+
+
+T 100 
+
+
+
+7 x 100 
+
+W - W, 
+
+
+
+The iron is placed on the three metallic supports and 
+a thermocouple is attached at the mid point of the 
+sole plate. The iron is then operated at 1.15 times 
+the maximum rated input. In case of thermostatic 
+iron, the thermostat is set so that an average temperature 
+of about 200°C is maintained under steady state 
+conditions. The setting of the thermostat is fixed in 
+an appropriate way so that the settings do not change 
+during the measurement. For irons without thermostat 
+or self resetting thermal cutouts, the temperature of 
+the sole plate shall be maintained between 205°C 
+and 260°C by suitable cooling means such as a jet 
+of air on a cooling plate. 
+
+In the case of thermostatic electric iron the average 
+temperature T { is determined as in the case of 
+measurement of sole plate temperature. 
+
+The iron is then operated for 11 h and then it is 
+switched off for 1 h. The cycle, consisting of an on 
+period of 1 1 h and off period of 1 hour is repeated 
+until the total sum of on period reaches 200 h. 
+Immediately after this the average sole plate 
+temperature 7", is determined as for 7",. 
+
+
+
+ROLLER 
+
+
+
+
+STEEL PLATE 
+
+
+
+Fig. 4 Apparatus for Drop Test 
+5 
+
+
+
+IS 366 : 1991 
+
+
+
+16.1.1 After the test the thermostatic iron and iron 
+with or without self resetting thermal cutout shall 
+withstand the electric strength test as given in 16.4 
+of IS 302-1 (1979) and also there shall be no exposure 
+of live part caused by breakage or distortion of the 
+enclosure. 
+
+16.1.2 The difference of T 2 and 7", is indication of 
+the Thermostatic stability of Thermostatic Electric 
+Iron. 
+
+NOT)- — Specific value of Thermostatic stability (difference 
+of 7 2 and T x ) are under consideration. 
+
+16.2 Drop Test 
+
+This test is performed immediately after the 
+measurement in 16.1 with the thermostat fixed at the 
+same setting. 
+
+The thermocouple is removed from the sole-plate and 
+the iron is subject to a thousand drops from a height 
+of 40 cm at a rate not exceeding five drop per minute. 
+When the iron drops, it should strike in a horizontal 
+position on a rigidly supported flat steel plate at 
+least 15 nun thick and at least 15 kg in mass (Fig.4 
+illustrates the test device). During the drop test, the 
+iron is connected to the power supply. The machine 
+is so designed that the iron rests on the steel plate 
+for approximately 15 percent of the duration of the 
+test and the sample is so mounted that there is no 
+additional weight which would influence the impact 
+energy. 
+
+Immediately after the drop test, the average 
+temperature T y at the mid-point is determined as for 
+T x (see 15.1). 
+
+16.2.1 After the test as an indication of the thermostatic 
+stability the difference of ft and 7i in the case of 
+thermostatic iron shall not change its calibration by 
+more than +10°C or -20°C. Also there shall be no 
+exposure of live parts caused by breakage or 
+distortion of the enclosure and also shall not show 
+damage within the meaning of the standard. 
+
+NOTE — The test may be combined with the test given 
+in 21.101 of IS 302-2-3(1991). 
+
+17 FINISH 
+
+17.1 Determination of Electroplated Coating on 
+Sole Plate 
+
+17.1.1 The external finish used on ferrous components 
+shall be of a heat and moisture resisting nature and 
+shall not be adversely affected by variation in 
+temperature under normal operating conditions or 
+during the endurance test as given in 16.1. The nickel 
+and chromium electroplated coating shall conform 
+to the following requirements: 
+
+— 10 micrometers (microns) of nickel plus 
+
+— 0.2 micrometers (microns) of chromium 
+
+
+
+17.1.2 The compliance is checked for the following 
+requirements according to the test methods given in 
+IS 1068 : 1985: 
+
+a) Thickness of coating, 
+
+b) Adhesion, and 
+
+c) Corrosion. 
+
+NOTE — The thickness of electroplated coatings may be 
+measured by BNF iet test method and stripping method 
+given in Appendix K and L of IS 302-1(1979). However, in 
+case of dispute the test shall be carried out as prescribed in 
+IS 1058 : 1968. 
+
+17.2 Determination of Adhesive of 
+Polytetranurothylene (PTFE) Coating or Similar 
+Coating on Sole Plate 
+
+17.2.1 The iron is fixed on a suitable support and 
+a thennocouplc is attached at the mid-poin t of the 
+sole-plate if the sole-plate is coated with PTFE or 
+similar material. 
+
+The iron is switched on, with the voltage corresponding 
+to the rated input, and the thermostat is adjusted so 
+that an average sole-plate Temperature of approximately 
+150°C is maintained under steady state conditions. 
+(Where a rated voltage range is specified, this voltage 
+should correspond to mean rated input). 
+
+For a non-thermostatic iron, the temperature at 
+the mid-point of the sole-plate is maintained at 
+150 ± 10°C by switching the supply on and off. 
+
+The temperature is maintained for at least 30 min. 
+
+17.2.2 The cross-cut test is performed with the 
+temperature at the flat part of the sole plate maintained 
+at approximately 150°C. 
+
+A cutting tool with six cutting edges is used in each 
+direction of the lattice pattern (see Fig. 5). 
+
+If each cut does not penetrate the coating uniformly 
+to the surface of the substratum, because of the curvature 
+of the sole-plate a single edge cutting tool may be 
+used. 
+
+The spacing of the cuts is 1 mm in each direction. 
+
+The cutting tool is applied in a plane normal 
+to the test surface and the cut shall be at a rate of 
+20 mm/s to 50 mm/s with uniform pressure. The cuts 
+are made at four different positions on the sole-plate, 
+and form 25 squares at each position. 
+
+Two of the positions are positioned approximately 
+50 mm apart from each other on the longitudinal 
+centre line, the others being positioned in the centre 
+between the mid point of the centre line and both 
+edges of the sole plate. 
+
+After cooling down to room temperature (27 ± 5°C), 
+the sole-plate is brushed lightly with a soft brush five 
+times backwards and five times forwards along both 
+lines of the lattic pattern. 
+
+
+
+
+IS 366 : 19«*1 
+
+
+
+0-OS (WHEN THE CUTT- 
+ING EOGE HAS WORN 
+TO O'l IT IS NECE- 
+SSARY TO REGRINO) 
+
+
+
+DI RECTION OF C^T 
+
+
+
+DETAIL A 
+
+
+
+A — SINGLE CUTTING TOOL 
+
+
+
+
+DIRECTION OF CUT 
+
+
+
+(WHEN THE CUTTING EDGE 
+HAS WORN TO 0-1 IT IS 
+NECESSARY TO REGRIND) 
+
+
+
+DETAIL 
+
+
+
+B — MULTIPLE CUTTING TOOL 
+All dimensions in millimetres. 
+
+Fig 5 Cirnwa Tools 
+7 
+
+
+
+IS 366 : 1991 
+
+
+
+Appropriate adhesive tape is then applied firmly over 
+the area of lattice. The tape is then pulled off quickly 
+to remove the flaked portion of the coating. 
+
+NOTE — For this test the following adhesive tape is recom- 
+mended : Polytter film tape with non thermosetting adhesive 
+(width « 25 mm, Thickness > 0.02 mm). The tape shall comply 
+with the requirements given in Table 1. 
+
+The test result is evaluated by observation of the cut 
+surface at each position, and classified according to 
+Table 2. 
+
+Tests are carried out on four positions on the sole- 
+plate and only the worst lattice pattern is used for 
+evaluation. 
+
+173 Resistance to Rusting 
+
+173.1 Ferrous parts, the rusting of which might cause 
+the appliance to fail to comply with this standard, 
+shall be adequately protected against rusting. 
+
+Compliance is checked by the following test: 
+
+All grease is removed from the parts to be 
+tested by immersion in carbon tetrachloride or 
+trichlore thane for 10 minutes. 
+
+
+
+The parts arc then immersed for 10 minutes 
+in a 10 percent solution of ammonium chloride 
+in water at a temperature between 15°C and 
+35°C. 
+
+
+
+Without drying, but after shaking off any 
+drops, the parts are placed for 10 minutes in 
+a box containing air having not less than 
+90 percent RH and temperature between 15°C 
+and 35°C 
+
+
+
+After the parts have been dried for 10 minutes in 
+a heating cabinet at a temperature of 100 1 5°C, their 
+surfaces shall shown no signs of rust. 
+
+Traces of rust on sharp edges and any yellowish film 
+removable by rubbing are ignored. 
+
+For small helical springs and the like, and for parts 
+exposed to abrasion, a layer of grease may provide 
+sufficient protection against rusting. Such parts are 
+only subjected to the test if there is doubt about 
+the effectiveness of the grease film. The test is then 
+made without previous removal of the grease. 
+
+
+
+Table 1 Requirement of Tape 
+
+( Clause 17.2.2 ) 
+
+
+
+Electrolytic corrosion after 24 h at 
+23 ♦ 2°C and 93 + 2% relative 
+humidity 
+
+Temperature index 
+
+Tensile strength 
+
+Elongation-at-break 
+
+Adhesion to steel 
+
+Adhesion to backing 
+
+Electrical strength at room temperature 
+after 24 h at 23 t 2°C and 93 ± 2% 
+relative humidity 
+
+
+
+1 x 10" minimum central value 
+
+
+
+
+
+Not less than 130°C 
+
+
+N/10 mm 
+
+
+600 minimum per millimetre thickness 
+
+
+% 
+
+
+75 minimum 
+
+
+N/10 mm 
+
+
+2 minimum for thickness 
+
+
+
+
+% 0.02 mm 
+
+
+
+
+3 minimum for thickness 
+
+
+
+
+> 0.02 mm 
+
+
+N/10 mm 
+
+
+2 minimum central value 
+
+
+kV/mm 
+
+
+70 minimum 
+
+
+
+IS 366 : 199] 
+
+
+
+Table 2 Classification of Test Results 
+
+( Clause 17.2.2 ) 
+
+
+
+Classiflcatloa 
+
+
+Deacrlptioa 
+
+
+Appearance of Surface of 
+
+Crow-Cut Area from Which 
+
+Flaklag has Occurred 
+
+( Example for Six Parallel Cuts ) 
+
+
+
+
+
+The edges of the cuts are completely smooth; none of (he squares of the 
+lattice is detached. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+Detachment of small flakes of the coaling at (he intersections of the cuts. 
+A cross-cut area not distinctly greater than 5 percent is affected. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 
+
+
+The coating has flaked along the edges and/or at the intersections of the 
+cuts. A cross-cut area distinctly greater than 5 percent, but not distinctly 
+greater than IS percent is affected. 
+
+
+
+
+
+
+
+
+M - 
+
+
+
+
+
+
+"ZZZzn 
+
+
+
+
+
+
+
+
+
+
+
+
+t" 
+
+
+
+
+II- 
+
+
+
+
+
+
+i 
+
+
+I 
+
+
+3 
+
+
+The coating has flaked along the edges of the cuts partly or wholly in large 
+ribbons, and/or it has flaked partly or wholly on different parts of the squares. 
+A cross-cut area distinctly greater than IS percent, but not distinctly greater 
+than 35 percent is affected. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 
+
+
+The coating has flaked along the edges of the cuts in large ribbons and/ 
+or some squares have detached partly or wholly. A cross-cut area distinctly 
+greater than 35 percent, but not distinctly greater than 65 percent is affected. 
+
+
+-fl|j 
+
+
+
+
+5 
+
+
+Any degree of flaking that cannot even be classified by classification 4. 
+
+
+
+
+
+IS 366 : 1991 
+
+
+
+18 TESTS 
+
+18.0 Categories of Tests 
+
+Tests are classified as type, acceptance and routine 
+tests. 
+
+18.1 Type Tests 
+
+The tests specified in Table 3 shall constitute the 
+type tests and shall be carried out on two samples 
+of irons of the same type and rating selected preferably 
+at random from a regular production lot. Before 
+commencement of the tests, the irons shall be earthing 
+and the effectiveness of screws and connections. The 
+external surface finish shall be even and free from 
+finishing defects. 
+
+18.1.1 Criteria of Acceptance 
+
+Both samples shall successfully pass all the type tests 
+for proving conformity with the requirements of the 
+standard. If any of the samples fails in any of the 
+type tests, the testing authority, at its discretion, may 
+call for fresh samples not exceeding twice the original 
+number and subject them again to all tests or to the 
+test(s) in which failure(s) had occurred. No failure 
+should be permitted in the repeat test(s). 
+
+18.2 Acceptance Tests 
+
+The following shall constitute the acceptance tests: 
+
+Test Clause Reference 
+
+8 of IS 302-2-3 (1992) 
+
+
+
+a) Protection against 
+electric shock 
+
+b) Input 
+
+
+
+10 of IS 302-2-3 (1992) 
+
+
+
+Test 
+
+c) Temperature rise 
+
+d) Electrical insulation 
+and leakage current at 
+operating temperature 
+
+c) Moisture resistance 
+
+Insulation resistance 
+and electric strength 
+(after humidity 
+treatment) 
+
+g) Earthing connection 
+
+h) Hca ting-up time 
+
+j) Measurement of sole 
+plate temperature 
+
+NOTE — For the purpose of acceptance tests, the humidity 
+treatment shall be done Tor 24 hours while conducting the test 
+for moisture resistance. 
+
+18.2.1 A recommended sampling procedure for 
+acceptance tests is given in Appendix B of IS 302- 
+
+1 (1979). 
+
+18 J Routine Tests 
+
+The following shall constitute the routine tests: 
+Test Clause Reference 
+
+a) Protection against 8 of IS 302-2-3 (1992) 
+electric shock 
+
+b) High voltage U.3.2 of IS 302-1(1979) 
+
+c) Earthing connection 27 of IS 302-2-3 (1992) 
+
+
+
+Clause Reference 
+11 of IS 302-2-3 (1992) 
+13 of IS 302-2-3 (1992) 
+
+15 of IS 302-2-3 (1992) 
+
+16 of IS 302-2-3 (1992) 
+
+
+
+27 of IS 302-2-3 (1992) 
+10 
+11 
+
+
+
+Table 3 Schedule of Type Test 
+
+(Clause 18.1) 
+
+
+
+SI No. 
+
+
+Test 
+
+
+
+
+
+Safety Requirement 
+
+
+«) 
+
+
+Measurement of heating up lime 
+
+
+iii) 
+
+
+Measurement of sole plate temperature 
+
+
+iv) 
+
+
+Measurement of temperature distribution 
+
+
+v) 
+
+
+Measurement of overawing temperature and heating 
+up excess temperature 
+
+
+vi) 
+
+
+Measurement of cyclic fluctuation of temperature of 
+hottest point 
+
+
+vii) 
+
+
+Measurement of temperature drop under load drop 
+under load* 
+
+
+viii) 
+
+
+Measurement of thermostatic stability 
+
+
+ix) 
+
+
+Finish 
+
+
+
+Clause Reference 
+
+8 to 32 of IS 302-2-3 (1992) 
+(Except for lest given in clauses 9. 14. 17 and 32) 
+10 
+
+
+
+11 
+12 
+13 
+
+14 
+
+IS 
+
+16 
+
+17 
+
+
+
+•This test shall be kept in abeyance till further amendment. 
+
+
+
+10 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods and 
+attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade .designations. 
+Enquiries relating to copyright be addressed to the Director (Publication), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue 
+of *B1S Handbook' and 'Standards Monthly Additions' 
+
+This Indian Standard has been developed from Doc: No. ETD 32 ( 3521 ) 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10002 
+Telephones: 323 01 31, 323 33 75, 323 94 02 
+
+Regional Offices: 
+
+Central 
+
+
+
+Eastern 
+
+
+
+: Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+: 1/14 C.I.T. Scheme VII M, V.I.P. Road, Maniktola 
+CALCUTTA 700054 
+
+
+
+Northern : SCO 335-336, Sector 34- A, CHANDIGARH 160022 
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 6001 13 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400093 
+
+Branches : AHMADABAD. BANGALORE. BHOPAU-BHUBANESHWAR. 
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. 
+HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+PATNA. PUNE. THIRUVANANTHAPURAM. 
+
+
+
+Telegrams: Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+323 76 17,323 3841 
+
+
+
+f33784 99,337 85 61 
+133786 26,337 9120 
+
+T60 38 43 
+160 20 25 
+
+/235 02 16, 235 04 42 
+12351519,235 2315 
+
+f 832 92 95, 832 78 58 
+183278 91,832 78 92 
+
+
+
+Printed at Simco Printing Preaa, Delhi, bdii 
+
+
+
