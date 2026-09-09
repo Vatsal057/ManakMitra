@@ -36,5 +36,13 @@ class TranslationService:
         result = self.provider.translate(text, source_lang)
         if not result.failed:
             self._cache[key] = {"translated_text": result.translated_text, "provider": result.provider}
-            save_cache(self._cache, self.cache_path)
+            try:
+                save_cache(self._cache, self.cache_path)
+            except OSError:
+                # Read-only or non-writable data dir (common in containers --
+                # HF Spaces run as UID 1000 against a root-owned image). The
+                # in-memory cache above still works for this process, so a
+                # persistence failure must not turn a successful translation
+                # into a 500. Honours this module's "never raises" contract.
+                pass
         return result

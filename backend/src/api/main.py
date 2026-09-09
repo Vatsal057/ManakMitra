@@ -305,3 +305,20 @@ def health():
         corpus_size=len(index.df),
         index_build_seconds=app.state.index_build_seconds,
     )
+
+
+# --- Static frontend (optional) ------------------------------------------
+# When a built frontend is present at ROOT/static, serve it from "/" so the
+# whole app lives on one origin (used by the Hugging Face Space deployment).
+# Without this, "/" returns FastAPI's {"detail":"Not Found"}.
+#
+# MUST be registered last: Starlette matches routes in registration order, so
+# mounting at "/" before the API routes above would shadow every one of them.
+# Absent (normal local dev, where Vite serves the frontend on :3000) this is
+# simply skipped, so nothing changes.
+STATIC_DIR = ROOT / "static"
+if STATIC_DIR.is_dir():
+    from fastapi.staticfiles import StaticFiles
+
+    # html=True serves index.html for "/" and for directory paths.
+    app.mount("/", StaticFiles(directory=str(STATIC_DIR), html=True), name="frontend")
