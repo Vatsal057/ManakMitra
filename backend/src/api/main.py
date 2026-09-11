@@ -4,6 +4,7 @@ The model + index are built once at startup (lifespan), never per request.
 """
 from __future__ import annotations
 
+import json
 import os
 import sys
 import time
@@ -11,12 +12,28 @@ from contextlib import asynccontextmanager
 from pathlib import Path
 from typing import Optional
 
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / "src"))
+I18N_DIR = ROOT / "data" / "i18n"
+
+# Native autonyms for the language picker -- sourced from translations.ts's
+# own `manakMitra`/language labels where available; the rest are the
+# standard autonym for that language (there's no "native name" field in the
+# frontend source to lift, per the Part 3.1 decision rule).
+NATIVE_LANGUAGE_NAMES = {
+    "en": "English",
+    "hi": "हिन्दी",
+    "ta": "தமிழ்",
+    "te": "తెలుగు",
+    "bn": "বাংলা",
+    "mr": "मराठी",
+    "gu": "ગુજરાતી",
+    "kn": "ಕನ್ನಡ",
+}
 
 from data_pipeline.normalize import normalize_standard_number
 from retrieval.search import RetrievalIndex
@@ -125,6 +142,15 @@ class TranslateResponse(BaseModel):
     provider: str
     cached: bool
     failed: bool
+
+
+class LanguageInfo(BaseModel):
+    code: str
+    native_name: str
+
+
+class LanguagesResponse(BaseModel):
+    languages: list[LanguageInfo]
 
 
 class HealthResponse(BaseModel):
@@ -296,6 +322,49 @@ def audit(req: AuditRequest):
     return AuditResponse(**result)
 
 
+def _load_i18n_raw(lang: str) -> dict:
+    path = I18N_DIR / f"{lang}.json"
+    if not path.exists():
+        return {}
+    with path.open(encoding="utf-8") as f:
+        return json.load(f)
+
+
+def _resolve_lang(lang: str) -> dict[str, str]:
+    """Flattens a language's JSON into plain key->string, falling back to
+    English for any key missing in `lang` (never returns a blank value)."""
+    en_map = _load_i18n_raw("en")  # already plain strings, no wrapper
+    if lang == "en":
+        return dict(en_map)
+    raw = _load_i18n_raw(lang)
+    resolved = dict(en_map)
+    for key, entry in raw.items():
+        resolved[key] = entry["value"] if isinstance(entry, dict) else entry
+    return resolved
+
+
+@app.get("/i18n/languages", response_model=LanguagesResponse)
+def i18n_languages():
+    available = sorted(p.stem for p in I18N_DIR.glob("*.json"))
+    return LanguagesResponse(
+        languages=[
+            LanguageInfo(code=code, native_name=NATIVE_LANGUAGE_NAMES.get(code, code))
+            for code in available
+        ]
+    )
+
+
+@app.get("/i18n/{lang}", response_model=dict[str, str])
+def i18n(lang: str):
+    available = sorted(p.stem for p in I18N_DIR.glob("*.json"))
+    if lang not in available:
+        raise HTTPException(
+            status_code=404,
+            detail=f"Unknown language code '{lang}'. Valid codes: {', '.join(available)}",
+        )
+    return _resolve_lang(lang)
+
+
 @app.get("/health", response_model=HealthResponse)
 def health():
     index: RetrievalIndex = app.state.index
@@ -318,7 +387,39 @@ def health():
 # simply skipped, so nothing changes.
 STATIC_DIR = ROOT / "static"
 if STATIC_DIR.is_dir():
+    from starlette.exceptions import HTTPException as StarletteHTTPException
     from fastapi.staticfiles import StaticFiles
 
-    # html=True serves index.html for "/" and for directory paths.
-    app.mount("/", StaticFiles(directory=str(STATIC_DIR), html=True), name="frontend")
+    class SPAStaticFiles(StaticFiles):
+        """Serve index.html for client-side SPA routes while preserving 404s for missing assets."""
+
+        async def get_response(self, path: str, scope):
+            try:
+                return await super().get_response(path, scope)
+            except StarletteHTTPException as exc:
+                if exc.status_code == 404:
+                    ext = Path(path).suffix.lower()
+                    if ext in {
+                        ".js",
+                        ".css",
+                        ".png",
+                        ".jpg",
+                        ".jpeg",
+                        ".svg",
+                        ".ico",
+                        ".woff",
+                        ".woff2",
+                        ".json",
+                        ".map",
+                        ".txt",
+                        ".csv",
+                        ".npy",
+                    }:
+                        raise exc
+                    return await super().get_response("index.html", scope)
+                raise exc
+
+    # html=True serves index.html for "/" and for directory paths, with SPA fallback.
+    app.mount("/", SPAStaticFiles(directory=str(STATIC_DIR), html=True), name="frontend")
+
+
