@@ -20,6 +20,13 @@ WORKDIR $HOME/app
 COPY --chown=user requirements.txt .
 RUN pip install --no-cache-dir --user -r requirements.txt
 
+ENV HF_HOME=$HOME/.cache/huggingface \
+    PYTHONUNBUFFERED=1
+
+# Pre-download retrieval model weights at image build time so runtime never
+# needs outbound network requests (which fail on HF Spaces free tier proxy).
+RUN python3 -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
+
 COPY --chown=user src ./src
 COPY --chown=user data ./data
 # Pre-built frontend (Vite `dist`). Served at "/" by main.py when present, so
@@ -27,11 +34,6 @@ COPY --chown=user data ./data
 # the developer's machine rather than in this image, which keeps node out of
 # the runtime entirely.
 COPY --chown=user static ./static
-
-# Model weights download here on first use. Must be writable by UID 1000,
-# which it is, since it lives under $HOME owned by `user`.
-ENV HF_HOME=$HOME/.cache/huggingface \
-    PYTHONUNBUFFERED=1
 
 EXPOSE 7860
 

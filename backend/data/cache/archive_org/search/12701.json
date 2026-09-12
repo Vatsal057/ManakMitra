@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":20,"params":{"query":"identifier:gov.in.is.12701.*","qin":"identifier:(gov.in.is.12701.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.12701.1996","title":"IS 12701: rotational moulded polyethylene water storage tanks"}]}}

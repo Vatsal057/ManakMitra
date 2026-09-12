@@ -1,0 +1,26 @@
+.weaker-matches {
+  margin-top: var(--space-16);
+}
+
+.weaker-matches-toggle {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  background: none;
+  border: none;
+  padding: var(--space-8) var(--space-4);
+  font-weight: var(--font-weight-heading);
+  color: var(--color-text);
+  cursor: pointer;
+  margin-bottom: var(--space-8);
+}
+
+.weaker-matches-chevron {
+  display: inline-block;
+  color: var(--color-text-subdued);
+  transition: transform 0.15s ease;
+}
+
+.weaker-matches-chevron.open {
+  transform: rotate(90deg);
+}

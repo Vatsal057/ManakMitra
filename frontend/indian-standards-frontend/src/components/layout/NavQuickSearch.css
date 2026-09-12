@@ -1,0 +1,118 @@
+.nav-quick-search {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  flex: 1;
+  max-width: 320px;
+  min-width: 0;
+}
+
+.nav-quick-search-icon-toggle {
+  display: none;
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  padding: var(--space-8);
+  color: var(--color-text);
+  cursor: pointer;
+}
+
+/* The rounded border lives on this wrapper (input + submit button share
+   one visual field) so the InfoTooltip trigger — a sibling outside this
+   wrapper — never overlaps the field's own corner. */
+.nav-quick-search-field {
+  display: flex;
+  align-items: stretch;
+  flex: 1;
+  min-width: 0;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  background: var(--color-surface);
+}
+
+.nav-quick-search-input {
+  flex: 1;
+  min-width: 0;
+  padding: var(--space-4) var(--space-8);
+  border: none;
+  background: none;
+  border-radius: var(--radius-control) 0 0 var(--radius-control);
+}
+
+.nav-quick-search-input:focus {
+  outline: none;
+}
+
+.nav-quick-search-field:focus-within {
+  outline: 2px solid var(--color-link);
+  outline-offset: 1px;
+}
+
+.nav-quick-search-submit {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  background: none;
+  border: none;
+  border-left: 1px solid var(--color-border);
+  border-radius: 0 var(--radius-control) var(--radius-control) 0;
+  color: var(--color-text-subdued);
+  cursor: pointer;
+}
+
+.nav-quick-search-submit:hover {
+  color: var(--color-text);
+  background-color: var(--color-surface-subdued);
+}
+
+.nav-quick-search .info-tooltip {
+  flex: none;
+  margin-left: var(--space-4);
+}
+
+/* At narrow widths the input collapses to an icon that expands on click,
+   so the nav never overflows at 768px/375px. */
+@media (max-width: 768px) {
+  .nav-quick-search {
+    flex: none;
+    max-width: none;
+  }
+
+  .nav-quick-search-icon-toggle {
+    display: inline-flex;
+  }
+
+  .nav-quick-search-field,
+  .nav-quick-search .info-tooltip {
+    display: none;
+  }
+
+  .nav-quick-search.expanded {
+    position: absolute;
+    left: var(--space-16);
+    right: var(--space-16);
+    top: 100%;
+    margin-top: var(--space-8);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-control);
+    padding: var(--space-8);
+    box-shadow: var(--shadow-card);
+    z-index: 50;
+  }
+
+  .nav-quick-search.expanded .nav-quick-search-icon-toggle {
+    display: none;
+  }
+
+  .nav-quick-search.expanded .nav-quick-search-field,
+  .nav-quick-search.expanded .info-tooltip {
+    display: flex;
+  }
+
+  .nav-quick-search.expanded .nav-quick-search-field {
+    flex: 1;
+  }
+}

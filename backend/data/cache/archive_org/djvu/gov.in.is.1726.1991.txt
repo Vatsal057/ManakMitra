@@ -1,0 +1,3464 @@
+**************** 
+
+
+
+-k is^ 
+
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+"^^ ^ ^ ^ % ?R^" 
+
+Jawaharlal Nehru 
+
+Step Out From the Old to the New 
+
+
+
+^viiTSs^-SfS^^^^*?*:: 
+
+
+
+
+•^■•■^^^■r 
+
+
+
+
+li^ i/ir w w w w w WW ^ ^ ^ tIt w w w 
+
+
+
+BLANK PAGE 
+
+
+
+^<ii^ 
+
+
+
+
+
+UI> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 1726 : 1991 
+
+„.. . f\ .. „,_r-^ ( Reaffirmed 2003 ) 
+
+( ^^XJ T^f^^m ) 
+
+Indian Standard 
+
+CAST IRON MANHOLE COVERS AND FRAMES- 
+SPECIFICATION 
+
+( Third Revision ) 
+
+
+
+First Reprint JUNE 1993 
+UDC 628-253-1 [ 669-13 ] 
+
+
+
+® BIS 1991 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+November 1991 Price Group 5 
+
+
+
+Sanitary Appliances and Water Fittings Sectional Committee, CED 3 
+
+
+
+FOREWORD 
+
+This Indian Standard (Third Revision) was adopted by the Bureau of Indian Standards, after the draft 
+finalized by the Sanitary Appliances and Water Fittings Sectional Committee had been approved 
+by the Civil Engineering Division Council, 
+
+This standard, published in 1960, was first revised in 1967, followed by the second revision in 1974, 
+covering the specific requirements for various types separately in seven parts. Part VIII of this standard 
+for HD square type covers and frames was issued in 1985. 
+
+In this third revision, all the eight parts have been merged. Requirements for manhole covers and 
+frames in respect of grades, types and shapes, clear opening depth and seating dimensions and test 
+loads have been consolidated in one table. Similarly detailed dimensions for each of the grade, type 
+and shape are given in another table. 
+
+The range between medium and heavy-duty with test loads of 5 to 35 tonnes specified earlier, has been 
+revised and diversified to include an additional grades designated as Heavy-Duty HD-20; the earlier 
+heavy-duty grade of 35 tonne has been redesignated as Extra-Heavy-Duty EHD-35. The light-duty test 
+load has been increased to 2*5 tonnes and designated as LD-2-5. Also in the light-duty grade, 
+additional square type with 400 mm clear opening, and circular types having 370 mm and 350 mm dia 
+clear openings, with matching covers have been included. In the medium-duty grade the test load has 
+been increased to 10 tonnes and designated as MD-10. Two additional sizes in circular shapes having 
+450 and 480 mm dia clear opening have been introduced in this grade. While introducing grade of 
+20 tonnes test load, designated as HD-20, two additional circular heavy-duty sizes with clear openings 
+of 600 mm and 350 mm dia have been introduced to match manhole chambers of barrel as well as 
+shaft designs. The 350 mm dia clear opening HD-20 grade would correspond to the lamp-hole 
+manhole covers and frames which is commonly used by the Calcutta Municipal Corporation. The 
+square type heavy-duty covers and frames would be restricted to HD-20 and EHD-35 grades, including 
+clear opening of 560 square for both. 
+
+In this revision, rectangular manhole covers and frames for scrapper manholes have also been intro- 
+duced, with clear opening of 900 x 450 mm in HD-20 and 900 x 600 mm in EHD-35 grade. 
+
+Heavy-duty triangular type covers have been withdrawn. The requirement of weights for cover and 
+frames has also been withdrawn thus shifting the emphasis more to the performance requirements as 
+stipulated in the standard. 
+
+While taking up the revision of this standard, the introduction of manhole covers and frame of mate- 
+rials other than that of cast-iron, both as replacement and for new sewerage projects have been kept in 
+view. The Committee also noted the diversification in practice in the field in -respect of sizes and 
+shapes of cast-iron manhole covers and the frames, with an option open to the manufacturers for 
+further diversification as per specified requirements. The technical opinion and comments of the users 
+and the Research Institutes in respect of the revised test loads included herein have been taken 
+care of. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the 
+final value, observed or calculated, expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS 2 : 1960 'Rules for rounding ofi" numerical values ( revised y. The number of signifi- 
+cant places retained in the rounded off" value should be the same as that of the specified value in this 
+standard. 
+
+
+
+IS 1726 : 1991 
+
+
+
+Indian Standard 
+
+CAST IRON MANHOLE COVERS AND FRAMES — 
+
+SPECIFICATION 
+
+{ Third Revision ) 
+
+
+
+1 SCOPE 
+
+1.1 The standard lays down basic and perform- 
+ance requirements for manhole covers and 
+frames in cast-iron, intended for use in drainage 
+and water works. 
+
+2 REFERENCES 
+
+2.1 The following Indian Standards are neces- 
+sary adjuncts to this standard: 
+
+IS No. Title 
+
+210 : 1978 Specification for grey iron cast- 
+ings ( third revision ) 
+
+4905 : 1968 Methods for random sampling 
+
+3 GRADES AND TYPES 
+
+3.1 Manhole covers and frames covered by this 
+standard shall be of the following four grades 
+and types: 
+
+
+
+Grades 
+
+
+
+Light-Duty 
+
+
+
+Grade 
+Designation 
+
+LD-2-5 
+
+
+
+Medium-Duty MD-10 
+Heavy-Duty HD.20 
+
+
+
+Extra-Heavy- 
+Duty 
+
+
+
+EHD-35 
+
+
+
+TypejShape 
+of Cover 
+
+Rectangular 
+
+Square 
+
+Circular 
+
+Circular 
+Rectangular 
+
+Circular 
+Lamphole 
+Square 
+Rectangular 
+(Scrapper manhole) 
+
+Circular 
+Square 
+Rectangular 
+(Scrapper manhole) 
+
+
+
+3.2 Recommended locations for placement of 
+different grade and types/shapes of manhole 
+covers and frames are as under: 
+
+
+
+3.2.2 MD-10 Circular or Rectangular Types 
+
+Suitable for use in service lanes/roads, on 
+pavements for use under medium-duty vehicular 
+traffic including for car parking areas. 
+
+3.2.3 HD-20 Circular, Square or Rectangular 
+( Scrapper Manhole ) Types 
+
+Suitable for use in institutional/commercial 
+areas/carriageways/city trunk roads/ bus termi- 
+nals, with heavy-duty vehicular traffic of wheel 
+loads between 5 to 10 tonnes, like buses, trucks 
+and parking areas and where the manhole 
+chambers are located in-between the pavement 
+and the middle of the road. 
+
+
+
+or Rectangular 
+
+
+
+3.2.4 EHD-35 Circular, Square 
+( Scrapper Manhole ) Types 
+
+Suitable for use on carriageways in commercial/ 
+industrial/port areas/near warehouses/godowns 
+where frequent loading and unloading of trucks/ 
+trailers are common, with slow to fast moving 
+vehicular traffic of the types having wheel loads 
+up to 11-5 tonnes irrespective of the location of 
+the manhole chambers. 
+
+4 MATERIAL 
+
+4.1 Manhole covers and frames shall be manu- 
+factured from appropriate grade of grey cast- 
+iron, not inferior than FG 150 Grade of IS 210 : 
+1978. 
+
+5 MANUFACTURE AND WORKMANSHIP 
+5.1 Covers and Frames 
+
+5.1.1 Covers and frames shall be cleanly cast 
+and they shall be free from air and sand holes, 
+cold shuts and warping which are likely to im- 
+pair the utility of the castings. 
+
+5.1.2 Covers shall have on its operative top a 
+raised chequered design to provide for an ade- 
+quate no-slip grip. The rise of the chequer shall 
+be not less than 4 mm. 
+
+
+
+Rectangular, Square or Circular 5.2 Key Holes and Keys 
+
+
+
+3.2.1 LD-2-5 
+
+Solid Types 
+
+Suitable for use within residential and institu- 
+tional complexes/areas with pedestrain but 
+occassional Light Motor Vehicle traffic. These 
+covers are also used for 'Inspection Chambers'. 
+
+
+
+Key holes, keys and lifting devices shall be 
+provided in the manhole covers to facilitate 
+their placement in the frames, and their opera- 
+tive maintenance during use in the field. Typical 
+designs are indicated in Figures 1 and 2. 
+
+
+
+1 
+
+
+
+IS 1726 : 1991 
+
+
+
+v 
+
+
+
+
+\ : ^^^ DOTTED LINES SHOW 
+\Jr ALTERNATIVE CIRCULAR 
+\ \ I SHAPE FOR OUTSIDE 
+
+_\_JSl__i_ OF RECESS 
+
+
+
+COVER 
+
+
+
+LEVEL OF 
+
+
+
+
+RECESS 
+
+
+
+FOR HEAVY AND MEDIUM 
+DUTY COVERS 
+
+
+
+6MIN 
+COVER. 
+
+
+
+
+/-LcvtL UP LEVEL OF 
+
+J CHEQUERED TOP CHEQUERED TOP, 
+
+' ^r_ . ^ 
+
+wm I 1=^ 
+
+I 20 
+
+
+
+20 
+32 MIN 
+MIN i— 
+J 
+
+
+
+w//////!(^ 
+
+
+
+^RECESS 
+
+FOR LIGHT DUTY 
+COVERS 
+
+
+
+-s 
+
+MIN 
+
+
+
+y"-^ 
+
+
+
+20® 
+
+
+
+15-'2 
+A 
+
+
+
+t — '© 
+
+
+
+1— A0i2 
+
+
+
+M 
+
+
+
+V 
+
+
+
+LIFTING KEY FOR HEAVY 
+AND MEDIUM DUTY COVERS 
+
+
+
+"^Q 
+
+
+
+135J 
+
+
+
+r^a 
+
+
+
+W 
+
+
+
+i_ 
+
+— *| 25i2 I— 6tl-» 
+
+LIFTING KEY FOR LIGHT 
+DUTY COVERS 
+
+
+
+Al] dimensions in millimetres. 
+
+Fig. 1 Typical Details of Key Holes and Keys 
+
+
+
+
+70p0 ■•- -— 
+
+m UPTO 500 
+
+
+
+
+100 j looU — — • 
+m ABOVE 500 
+
+
+
+( I ) LIGHT t MEDIUM DUTY 
+
+
+
+7F^ 
+
+
+
+(ID HEAVY & 
+«12min. EXTRA HEAVY DUTY 
+
+
+
+35 
+
+
+
+
+SECTION A A 
+
+All dimensions in millimetres. 
+
+Fig. 2 Typical Details of Alternate Lifting Arrangements 
+
+2 
+
+
+
+IS 172$ : 1991 
+
+
+
+Table 1 Basic and Performance Requirements of Manhole Covers and Frames 
+
+(Clause 6.1) 
+
+
+
+EHD-35 
+
+
+
+Grade 
+Designation 
+
+
+Type/Shape of 
+Cover 
+
+
+Clear Opening 
+of Frame 
+
+O. 0, 
+
+mm 
+
+
+
+
+Frame 
+
+
+Test Load 
+
+
+Depth 
+
+h 
+
+mm 
+
+
+Seating 
+
+S 
+
+mm 
+
+
+tonnes 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+LD.2-5 
+
+
+Rectangular 
+
+
+450 X 600 
+
+
+35 
+
+
+50 
+
+
+2-5 
+
+
+
+
+Square 
+
+
+450 X 450 
+
+
+30 
+
+
+50 
+
+
+
+
+
+
+
+
+400 X 400 
+
+
+30 
+
+
+50 
+
+
+
+
+
+
+Circular 
+
+
+370 (dia) 
+
+
+45 
+
+
+40 
+
+
+
+
+
+
+
+
+350 (dia) 
+
+
+45 
+
+
+40 
+
+
+
+
+MD-10 
+
+
+Circular 
+
+
+450 (dia) 
+
+
+60 
+
+
+40 
+
+
+10 
+
+
+
+
+
+
+480 (dia) 
+
+
+70 
+
+
+40 
+
+
+
+
+
+
+
+
+500 (dia) 
+
+
+80 
+
+
+50 
+
+
+
+
+
+
+Rectangular 
+
+
+450 X 600 
+
+
+80 
+
+
+50 
+
+
+
+
+HD-20 
+
+
+Circular 
+
+
+500 (dia) 
+
+
+100 
+
+
+50 
+
+
+20 
+
+
+
+
+
+
+560 (dia) 
+
+
+110 
+
+
+60 
+
+
+
+
+
+
+
+
+600 (dia) 
+
+
+110 
+
+
+75 
+
+
+
+
+
+
+Lamphole cover 
+
+
+350 (dia) 
+
+
+130 
+
+
+25* 
+
+
+
+
+
+
+Square 
+
+
+560 X 560 
+
+
+110 
+
+
+75 
+
+
+
+
+
+
+Rectangular 450 X 900 
+( scrapper manhole ) 
+
+
+100 
+
+
+60 
+
+
+
+
+
+Circular 
+
+Square 
+Rectangular 
+
+
+
+( scrapper manhole ) 
+
+
+
+560 (dia) 
+600 (dia) 
+560 X 560 
+600 X 900 
+
+
+
+130 
+140 
+130 
+120 
+
+
+
+60 
+
+75 
+60 
+70 
+
+
+
+35 
+
+
+
+NOTE — The depth and seating in the frame for the respective test loads may vary depending upon the design 
+
+of the frame ( inside ) and the corresponding matching cover. 
+
+♦This seating of 25 mm is in case of tapered design of the frame ( inside ) as also the matching cover. 
+
+
+
+5.3 LoclciDg Devices 
+
+Suitable locking devices including that with 
+galvanized chain or a lock, or a combination of 
+both shall be provided in the manhole cover 
+system, if so desired by the purchaser. 
+
+6 PERFORMANCE REQUIREMENTS 
+
+6.1 Basic and performance requirements, as given 
+in Table 1 in respect of the clear opening, depth 
+aud seating dimensions of frames and the test 
+load, for various grades and types/shapes of 
+manhole covers and frames shall be met with. 
+However, the manufacturer shall have the 
+option in respect of general design of the man- 
+hole cover and frame, provided the above 
+requirements are adhered to in addition to the 
+manufacture and workmanship as detailed in 5. 
+
+
+
+6.2 Respective weights of the manhole covers 
+and frames shall depend upon their design, 
+grade of cast iron, quality of manufacture and 
+workmanship. Minimum weights supplied shall 
+be agreed to between the manufacturer and the 
+purchaser, if so desired, provided the require- 
+ments at 6.1 shall be strictly maintained, as 
+basic acceptance criteria for the manhole cover 
+system. 
+
+7 DIMENSIONS OF MANHOLE COVERS 
+AND FRAMES 
+
+7.1 Dimensions of manhole covers and frames 
+for the typical designs shown in Fig. 3 to 9 for 
+the various grades, types and shapes shall be as 
+given in Table 2. However, for designs other 
+than those given in Fig. 3 to 9 the dimensions, 
+may be mutually agreed between the manufac^ 
+turer and the purchaser. 
+
+
+
+IS 1726 : 1991 
+
+
+
+7.1.1 Tolerances 
+
+Permissible tolerances on the dimensions of the 
+covers and frames shall be as given below when 
+read with Fig. 3 to 9. 
+
+
+
+Dimensions 
+0,0^ 
+
+fJi 
+C,Ci 
+
+Fay fa 
+8 COATING 
+
+
+
+Tolerances in mm 
+
++ 5 
++ .5 
+- 5 
++ 5 
++ 2 
+
+
+
+8.1 Manhole covers and frames shall be coated 
+with a material having base with a black bitu- 
+minous composition. The coating shall be 
+smooth and tenacious. It shall not flow when 
+exposed to a temperature of 63°C and shall not 
+be so brittle as . to chip off at a temperature 
+of 0°C. 
+
+
+
+9 SAMPLING AND CRITERIA FOR 
+CONFORMITY 
+
+9.1 The sampling procedure and criteria for 
+conformity shall conform to the requirements 
+given in Annex A; however, so far as load test 
+is concerned the sampling and criteria for 
+conformity shall conform to the requirements 
+given in 10.1 and 10.1.1. 
+
+10 LOAD TEST 
+
+10.1 Samples for Load Test 
+
+The number of samples to be tested shall be one 
+for every lot of 50 or part thereof for each 
+grade, type/shape and size manufactured. In the 
+event of any one of the articles tested failing to 
+meet the requirements of this standard, the 
+articles in the batch shall be deemed not to 
+comply with the requirements of this standard 
+unless individually tested. The manufacturer 
+shall keep the records of all tests and shall 
+made these available to the purchaser on 
+request. 
+
+
+
+
+MEilO OF SCREW 3mm 
+BELOW SUAFACE OF 
+COVER 
+
+
+
+l-^X 
+
+
+
+-4W— tl 
+
+
+
+FKIMC PHOi 13mm 
+
+
+
+tHicK OH eoiTOM or ^Fr'TIOM YY 
+
+
+
+PLANCWITH HALF COVER REMOVED) 
+
+NOTES 
+
+1 The 13 X 1 3 mm brass screws may be omitted and the 13 mm thick pads left undrilled at purchaser's 
+option. 
+
+2 Covers are thickened up to 15 mm at corners above fixing pads. 
+
+
+
+Fig. 3 Light-Duty Double Seal Rectangular Cover and Frame 
+
+
+
+t; 
+
+
+
+
+PLAN (WITH HALF COVER REMOVED) 
+
+f, 
+
+
+
+In t rt 
+
+
+
+4^ 
+
+
+
+Or 
+SECTION XX 
+
+
+
+
+riA 
+
+
+
+u 
+
+
+
+PLAN (WITH HALF COVER REMOVED) 
+
+f! lliiliJ- 
+
+„ ^^^ FD 
+
+
+
+fi m ^ ta ' jjL 
+
+
+
+Oi 
+
+SECTION XX 
+
+
+
+
+Fig. 5 Light-Duty Double Seal Cover and Frame 
+( Square Type ) 
+
+
+
+M 
+
+Fig. 4 Typical Light-Duty Single Seal Rectangular Manhole 
+
+Cover and Frame 
+
+
+
+V2 
+
+-J 
+
+OS 
+
+
+
+^ 
+
+
+
+REGISTER 
+
+
+
+PRIZING 
+SLOT 
+
+
+
+CJV 
+
+
+
+r 
+
+X 
+
+
+
+
+PLAN (WITH HALF COVER REMOVED) 
+
+
+
+T 
+
+X 
+
+
+
+
+K 
+
+
+
+^ 
+
+» 
+
+
+
+§ 
+
+
+
+» 
+
+
+
+-F, - 
+
+PLAM 
+
+
+
+
+
+sectiom xx 
+Fig. 7 Typical MD/HD/EHD Rectangular Manhole 
+Cover and Frame 
+
+
+
+SECTION XX 
+
+Fig. 6 Heavy-Duty and Medium-Duty Circular Cover and Frame 
+
+
+
+f^ 
+
+
+
+j 
+
+
+
+A 
+
+
+
+MANHOLE 
+FRAME 
+
+
+
+
+I ! // MANHOLE COVER X^^ . , 
+
+tezQ_-.-&_-n-.-,pi- -R hr:i-:y^ 
+
+k-Y I 
+
+
+
+
+
+Us-J 
+
+
+
+Fig. 8 
+
+
+
+SECTION XX 
+
+AH dimensions in millimetres. 
+
+Typical HD/EHD Square Type Manhole Frame 
+
+
+
+SECTION XX 
+
+All dimensions in millimetres. 
+Fig. 9 Typical HD/EHD Square Type Manhole Cover 
+
+
+
+S 
+
+
+
+0\ 
+
+
+
+^ 
+
+
+
+IS 1726 : 1991 
+
+
+
+Table 2 Dimensions of Manhole Corers and Frames 
+
+( Clause 7.1 and Fig. 3 to 9) 
+All dimensions in millimetres. 
+
+
+
+Grade 
+Designa 
+
+
+Type/ 
+. Shape 
+
+
+
+
+
+
+
+
+Frame Dimensions 
+
+* . 
+
+
+
+
+
+
+
+
+Cover Dimensions Clear« 
+
+
+^— — * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*' '■ S 
+
+
+<"■ ■- 
+
+
+
+
+
+
+
+
+auw 
+
+
+tion 
+
+
+of Co^er 
+
+
+. Clear 
+
+
+Outer 
+
+■*■ 
+
+
+Inner 
+, vv 
+
+
+Depth 
+
+
+Seating Thick- 
+S ness 
+
+
+Outer 
+
+
+Thick- 
+
+
+c. 
+
+
+
+
+
+
+\jpc 
+
+
+Uillfi 
+
+
+
+
+1 
+
+
+t 
+
+
+
+
+
+
+
+
+1 
+
+
+ness 
+
+
+
+
+
+
+
+
+, — -*- — , 
+
+
+F 
+
+
+Fx 
+
+
+f 
+
+
+/i 
+
+
+Fd fn 
+
+
+
+
+(Min) 
+
+
+c 
+
+
+c, 
+
+
+r--^--, 
+
+
+
+
+
+
+
+
+o 
+
+
+Oi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^ A..—, 
+
+
+
+
+
+
+T 
+
+
+Tx 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t 
+
+
+h 
+
+
+
+
+
+
+
+
+
+
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7> 
+
+
+(8) 
+
+
+(9) (10) 
+
+
+(11) 
+
+
+(12) (13) 
+
+
+(14) 
+
+
+(15) 
+
+
+(16) (17) 
+
+
+(18) 
+
+
+LD-2-5 
+
+
+Rectan- 
+gular 
+
+
+450 
+
+
+600 
+
+
+650 
+
+
+800 
+
+
+550 
+
+
+700 
+
+
+45 35 
+
+
+50 
+
+
+10 
+
+
+10 
+
+
+540 
+
+
+690 
+
+
+10 
+
+
+5 
+
+
+5 
+
+
+
+
+Square 
+
+
+400 
+
+
+400 
+
+
+600 
+
+
+600 
+
+
+500 
+
+
+500 
+
+
+40 30 
+
+
+50 
+
+
+10 
+
+
+10 
+
+
+490 
+
+
+490 
+
+
+10 
+
+
+5 
+
+
+5 
+
+
+
+
+
+
+450 
+
+
+450 
+
+
+650 
+
+
+650 
+
+
+550 
+
+
+550 
+
+
+40 30 
+
+
+50 
+
+
+10 
+
+
+10 
+
+
+540 
+
+
+540 
+
+
+10 
+
+
+5 
+
+
+5 
+
+
+
+
+Circu lar 
+
+
+370 
+
+
+— 
+
+
+550 
+
+
+550 
+
+
+450 
+
+
+450 
+
+
+55 45 
+
+
+40 
+
+
+10 
+
+
+10 
+
+
+440 
+
+
+— 
+
+
+10 
+
+
+5 
+
+
+5 
+
+
+
+
+
+
+350 
+
+
+— 
+
+
+530 
+
+
+530 
+
+
+430 
+
+
+430 
+
+
+55 45 
+
+
+40 
+
+
+10 
+
+
+10 
+
+
+420 
+
+
+— 
+
+
+10 
+
+
+5 
+
+
+5 
+
+
+MD-10 
+
+
+Circular 
+
+
+450 
+
+
+— 
+
+
+620 
+
+
+620 
+
+
+530 
+
+
+530 
+
+
+70 60 
+
+
+40 
+
+
+10 
+
+
+10 
+
+
+520 
+
+
+— 
+
+
+10 
+
+
+5 
+
+
+5 
+
+
+
+
+
+
+480 
+
+
+— 
+
+
+650 
+
+
+650 
+
+
+560 
+
+
+560 
+
+
+80 70 
+
+
+40 
+
+
+10 
+
+
+10 
+
+
+550 
+
+
+— 
+
+
+10 
+
+
+5 
+
+
+5 
+
+
+
+
+
+
+500 
+
+
+— 
+
+
+750 
+
+
+750 
+
+
+600 
+
+
+600 
+
+
+90 80 
+
+
+50 
+
+
+15 
+
+
+15 
+
+
+590 
+
+
+— 
+
+
+20 
+
+
+12 
+
+
+5 
+
+
+
+
+Rectan- 
+
+
+450 
+
+
+600 
+
+
+650 
+
+
+800 
+
+
+550 
+
+
+700 
+
+
+90 80 
+
+
+50 
+
+
+15 
+
+
+15 
+
+
+540 
+
+
+690 
+
+
+20 
+
+
+12 
+
+
+5 
+
+
+
+
+gular 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HD-20 
+
+
+Circular 
+
+
+500 
+
+
+— 
+
+
+750 
+
+
+750 
+
+
+600 
+
+
+600 
+
+
+115 100 
+
+
+50 
+
+
+15 
+
+
+15 
+
+
+588 
+
+
+— 
+
+
+25 
+
+
+15 
+
+
+6 
+
+
+
+
+
+
+560 
+
+
+— 
+
+
+820 
+
+
+820 
+
+
+680 
+
+
+680 
+
+
+125 110 
+
+
+60 
+
+
+15 
+
+
+15 
+
+
+668 
+
+
+— 
+
+
+25 
+
+
+15 
+
+
+6 
+
+
+
+
+
+
+600 
+
+
+— 
+
+
+900 
+
+
+900 
+
+
+750 
+
+
+750 
+
+
+125 110 
+
+
+75 
+
+
+15 
+
+
+15 
+
+
+735 
+
+
+— 
+
+
+30 
+
+
+15 
+
+
+7-5- 
+
+
+
+
+Lamp- 
+
+
+350 
+
+
+^ 
+
+
+575 
+
+
+575 
+
+
+450 
+
+
+450 
+
+
+145 130 
+
+
+25 
+
+
+15 
+
+
+20 
+
+
+440 
+
+
+. — 
+
+
+30 
+
+
+15 
+
+
+5 
+
+
+
+
+hole 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rectan- 
+
+
+450 
+
+
+900 
+
+
+670 ] 
+
+
+1 120 
+
+
+570 
+
+
+1020 
+
+
+115 100 
+
+
+60 
+
+
+15 
+
+
+20 
+
+
+560 
+
+
+1010 
+
+
+30 
+
+
+15 
+
+
+5 
+
+
+
+
+gular 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(scrap- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+per 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+man- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hole) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Square 
+
+
+560 
+
+
+560 
+
+
+800 
+
+
+800 
+
+
+660 
+
+
+660 
+
+
+125 110 
+
+
+60 
+
+
+15 
+
+
+15 
+
+
+648 
+
+
+64$ 
+
+
+25 
+
+
+15 
+
+
+6 
+
+
+EHD.35 
+
+
+Circular 
+
+
+600 
+
+
+
+
+
+900 
+
+
+900 
+
+
+750 
+
+
+750 
+
+
+155 140 
+
+
+75 
+
+
+15 
+
+
+20 
+
+
+735 
+
+
+_ 
+
+
+30 
+
+
+15 
+
+
+7-5- 
+
+
+
+
+
+
+560 
+
+
+— 
+
+
+220 
+
+
+830 
+
+
+680 
+
+
+680 
+
+
+145 130 
+
+
+60 
+
+
+15 
+
+
+20 
+
+
+668 
+
+
+— 
+
+
+30 
+
+
+15 
+
+
+6 
+
+
+
+
+Square 
+
+
+560 
+
+
+560 
+
+
+830 
+
+
+830 
+
+
+680 
+
+
+680 
+
+
+145 130 
+
+
+60 
+
+
+15 
+
+
+20 
+
+
+668 
+
+
+668 
+
+
+30 
+
+
+15 
+
+
+6 
+
+
+
+
+Rectan- 
+
+
+600 
+
+
+900 
+
+
+850 : 
+
+
+1 150 
+
+
+750 
+
+
+1 050 
+
+
+135 120 
+
+
+70 
+
+
+15 
+
+
+20 
+
+
+740 
+
+
+1040 
+
+
+30 
+
+
+15 
+
+
+5 
+
+
+
+
+gular 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(scrap- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+per 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+man- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hole) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10.1.1 If the purchaser requires additional tests 
+to be carried out, this shall be stated in the 
+enquiry and order. The manufacturer shall pro- 
+vide every facility for the purchaser to select 
+such samples as he may require from a consign- 
+ment prior to delivery and the tests shall be 
+carried out in the presence of the manufacturer 
+and the purchaser, or his representative, if he so 
+desired. 
+
+
+
+10.1.1.1 The 
+
+be borne: 
+
+
+
+cost of each additional test shall 
+
+
+
+a) by the purchaser in the event of the 
+result meeting the requirements of the 
+standard, and 
+
+
+
+b) by the manufacturer in the event of the 
+result not meeting the requirements of 
+this standard. 
+
+10.2 Testing Procedure and Requirements 
+
+Manhole covers shall withstand, without frac- 
+ture, the loads specified in Table 1, for a 
+minimum period of 30 seconds, when subjected 
+to the 1; iding test described in 10.3. A suitable 
+testing arrangement is shown in Fig. 10. 
+
+10.3 The cover shall be supported in a frame 
+which may be standard cover frame or a 
+specially made testing appliance simulating 
+normal conditions of use. The specified load as 
+
+
+
+8 
+
+
+
+IS 1726: 1991 
+
+
+
+given in Table 1 shall be applied without shock 
+through the medium of a bearing block faced 
+with hard rubber or other resilient material. 
+The bearing block shall be the size specified in 
+Table 3, and shall bear centrally on the cover. 
+The block shall be sufficiently rigid to ensure 
+that the load on the cover is uniformly distribut- 
+ed over the full area of the block. 
+
+11 INSPECTION 
+
+11.1 The purchaser or his authorized represen- 
+tative shall have free access to the works of the 
+manufacturer at all reasonable times for carry- 
+ing out inspection during the course of manu- 
+facture. Should the purchaser or his authorized 
+representative desire to witness the test speci- 
+fied in 10.3, he shall inform the manufacturer 
+who shaU give reasonable notice of the date(s' 
+on which the tests shall be carried out. The 
+purchaser or his authorized representative shall, 
+if he so desires, be enables to carry out inspec- 
+tion of covers and frames prior to the applica- 
+tion of coating. 
+
+
+
+12 MANUFACTURER'S GUARANTEE 
+
+12.1 When so required by the purchaser, the 
+manufacturer shall supply, free of cost, a 
+certificate stating that each lot or part thereof 
+of manhole covers and frames has been subjected 
+to the load test as specified in 10 and also con- 
+forms in all respects to this specification. 
+
+13 MARKING 
+
+13.1 Each manhole cover and frame shall have 
+cast on them the jfoUowing information; 
+
+a) Manufacturer's name or trade-mark; 
+
+b) Grade designation; 
+
+c) Date of manufacture; 
+
+d) The words 'SWD' or 'SEWER' to denote 
+'storm water drain' or 'sewer' respective- 
+ly, if required by the purchaser; and 
+
+e) An identification mark as required by the 
+purchaser. 
+
+
+
+
+Fig. 10 Arrangement for Testing Manhole Covers 
+
+
+
+Table 3 Test Load and Diameter of Block 
+
+( Clause 10.3 ) 
+
+
+
+Grade of Cover 
+
+
+Type 
+
+
+Load in 
+
+Tonnes 
+
+
+Diameter of 
+Block in mm 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+LD-2-5 
+
+
+Rectangular, square or circular 
+
+
+2-5 
+
+
+300 
+
+
+MD-10 
+
+
+Circular/rectangular 
+
+
+10 
+
+
+300 
+
+
+HD-20 
+
+
+Circular/square/rectangular 
+
+
+20 
+
+
+300 
+
+
+EHD.35 
+
+
+Circular/square/rectangular 
+
+
+35 
+
+
+300 
+
+
+
+JS 1726: 1991 
+
+
+
+ANNEX A 
+( Clause 9.1 ) 
+
+SAMPLING OF CAST IRON MANHOLE COVERS AND FRAMES 
+
+
+
+A-1 LOT 
+
+
+
+A-1.1 In any consignment all the items of the 
+same grade, type;shape and size, and manufac- 
+tured from the same raw materials under 
+relatively similar conditions of production shall 
+be grouped together to form a lot 'for inspection. 
+A lot shall contain a maximum of 300 items. In 
+case a consignment has more than 300 items of 
+the same grade, type/shape and size, and manu- 
+factured from the same raw material under 
+relatively similar conditions of production, it 
+should be divided into lots of 300 items or part 
+thereof. 
+
+A-1.2 Samples shall be selected and inspected 
+from each lot separately to ascertain its confor- 
+mity or otherwise to the requirements of the 
+specification. 
+
+A-2 SCALE OF SAMPLING 
+
+A-2.1 The number of items to be selected for 
+the sample from a lot shall depend upon the 
+size of the lot and shall be in accordance with 
+col 1 and 2 of Table 4. 
+
+A-2.2 All the items in the sample shall be select- 
+ed at random from the lot. In order to ensure 
+randomness of selection, procedures given 
+in IS 4905 : 1968 may be followed. 
+
+A-3 NUMBER OF TESTS AND CRITERIA 
+FOR CONFORMITY 
+
+A-3.1 All the items selected under A-2.1 and in 
+accordance with col 1 and 2 of Table 4 shall be 
+inspected for material, workmanship, dimen- 
+sions and tolerances. An item which fails to 
+meet the requirements of any one or more of 
+the characteristics mentioned above shall be 
+
+
+
+considered as a defective, A lot shall be consi- 
+dered having met the requirements of the above 
+characteristics if the number of defectives in 
+the sample does not exceed the corresponding 
+number given in col 3 of Table 4. 
+
+Table 4 Scale of Sampling and Permissible 
+Number of Defectives 
+
+
+
+
+
+(Clause A-2 A ) 
+
+
+
+
+Number of 
+Items in 
+the Lot 
+
+
+Number of 
+
+Items to 
+
+be Select- 
+
+ed for the 
+
+Samples 
+
+
+Permissible 
+Number of 
+Defective 
+Items in the 
+Sample for 
+Visual and 
+Dimensional 
+Requirements 
+
+
+Sub* sample 
+
+Size for 
+
+Coating 
+
+Test 
+
+
+(0 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+Up to 15 
+
+
+3 
+
+
+
+
+
+3 
+
+
+16 to 25 
+
+
+5 
+
+
+
+
+
+3 
+
+
+26 to 50 
+
+
+8 
+
+
+
+
+
+3 
+
+
+51 t^lOO 
+
+
+13 
+
+
+
+
+
+4 
+
+
+101 to 150 
+
+
+20 
+
+
+1 
+
+
+5 
+
+
+151 to 300 
+
+
+32 
+
+
+2 
+
+
+7 
+
+
+
+A-3.2 A lot having found conforming to require- 
+ments of A-3.1 shall be inspected for coating 
+test. For this purpose a sub-sample of size given 
+in col 4 of Table 4 shall be selected at random 
+from those which have been inspected and 
+found conforming to A-3.1. Each of the items in 
+the sub-sample shall be individually tested for 
+coating requirements. 
+
+A-3.3 A lot shall be regarded as having met the 
+requirements of the specification if the same is 
+found conforming to requirements of A-3.1 and 
+A-3.2. 
+
+
+
+10 
+
+
+
+standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian, Standard conveys the assurance that they have been produced 
+to comply with the requirements of that standard under a well defined system of inspection, 
+testing and quality control which is devised and supervised by BIS and operated by the pro- 
+ducer. Standard marked products are also continuously checked by BIS for conformity to 
+that standard as a further safeguard. Details of conditions under which a licence for the use 
+of the Standatd Mark may be granted to manufacturers or producers may be obtained from 
+the Bureau of Indian Standards. 
+
+
+
+Bareaa of Indiaa Standardi 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to 
+promote harmonious development of the activities of standardization, marking and quality 
+certification of goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced 
+in any form without the prior permission in writing of BIS. This does not preclude the free use, 
+in the course of implementing the standard, of necessary details^ such as symbols and sizes, type 
+or grade designations. Enquiries relating to copyright be addressed to the Director 
+( Publications ), BIS. 
+
+RevisloD of Indian Standarda 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if 
+any, are issued from time to time. Users of Indian Standards should ascertain that they are in 
+possession of the latest amendments or edition. Comments on this Indian Standard may be 
+sent to BIS giving the following reference: 
+
+Doc : No. CED 3 (4785) 
+
+
+
+Amendments Itnied Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+Telephones : 331 01 31, 331 13 75 
+
+
+
+Regional OflSces : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 
+
+Southern : C. I. T. Campus, TV Cross Road, MADRAS 600113 
+
+Western : Manakataya, E9 MIDC, Marol, Andheri ( East ) 
+BOMBAY 400093 
+
+
+
+Telegrams : Manaksanstha 
+( Common to all Offices ) 
+
+Telephone 
+
+J331 01 31 
+(331 13 75 
+
+p7 84 99, 37 85 61 
+{37 86 26, 37 86 62 
+
+
+
+53 38 43, 53 16 40 
+53 23 84 
+
+
+
+I 
+
+C235 02 16, 235 04 42, 
+(235 15 19, 235 23 15 
+
+C632 92 95, 632 78 58. 
+$632 78 91, 632 78 92 
+
+Branches : AHMADABAD, BANGALORE, BHOPAL, BHUBANESHWAR, COIMBATORE 
+FARIDABAD, GHAZIABAD, GUWAHATI, HYDERABAD, JAIPUR, KANPUR 
+LUCKNOW, PATNA, THIRUVANANTHAPURAM. 
+
+
+
+Printed at Dee Kay Printers, New Delhi, India 
+
+
+

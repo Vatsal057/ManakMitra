@@ -1,0 +1,27 @@
+.empty-state {
+  text-align: center;
+  padding: var(--space-32) var(--space-16);
+  color: var(--color-text-subdued);
+}
+
+.empty-state-icon {
+  font-size: 24px;
+  margin-bottom: var(--space-8);
+}
+
+.empty-state-title {
+  font-size: var(--font-size-card-heading);
+  font-weight: var(--font-weight-heading);
+  color: var(--color-text);
+  margin-bottom: var(--space-4);
+}
+
+.empty-state-message {
+  font-size: var(--font-size-body);
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+.empty-state-action {
+  margin-top: var(--space-16);
+}

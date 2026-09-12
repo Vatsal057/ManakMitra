@@ -1,0 +1,31 @@
+.certification-block {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  padding: var(--space-16);
+  margin-bottom: var(--space-16);
+}
+
+.certification-block-heading {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  margin-bottom: var(--space-12);
+}
+
+.certification-block h2 {
+  font-size: var(--font-size-section-heading);
+  font-weight: var(--font-weight-heading);
+}
+
+.certification-block-note {
+  margin-top: var(--space-12);
+  color: var(--color-text-subdued);
+  line-height: var(--line-height-body);
+}
+
+.certification-block-source {
+  margin-top: var(--space-8);
+  font-size: var(--font-size-caption);
+  color: var(--color-text-subdued);
+}

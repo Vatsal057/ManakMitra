@@ -1,0 +1,222 @@
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  overflow: hidden;
+}
+
+.results-table th {
+  text-align: left;
+  font-size: var(--font-size-caption);
+  color: var(--color-text-subdued);
+  font-weight: var(--font-weight-heading);
+  padding: var(--space-8) var(--space-12);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.results-table-th-with-tip {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.results-table-chevron-head {
+  width: 24px;
+}
+
+.results-table-row {
+  cursor: pointer;
+  border-top: 1px solid var(--color-border);
+}
+
+.results-table-row:first-child {
+  border-top: none;
+}
+
+.results-table-row:hover {
+  background-color: var(--color-surface-subdued);
+}
+
+.results-table td {
+  padding: var(--space-8) var(--space-12);
+  vertical-align: middle;
+}
+
+.rt-cell-standard {
+  font-family: ui-monospace, 'Courier New', monospace;
+  font-weight: var(--font-weight-heading);
+  white-space: nowrap;
+}
+
+.rt-cell-title {
+  max-width: 0;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: var(--color-text-subdued);
+}
+
+.rt-cell-category,
+.rt-cell-cert {
+  white-space: nowrap;
+}
+
+.rt-cell-match {
+  width: 140px;
+}
+
+.rt-cell-chevron {
+  color: var(--color-text-subdued);
+  text-align: right;
+}
+
+.cert-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-4);
+  font-size: var(--font-size-caption);
+}
+
+.cert-indicator-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  font-size: 11px;
+  line-height: 1;
+}
+
+.cert-indicator-yes {
+  background-color: var(--color-success-bg);
+  color: var(--color-success);
+}
+
+.cert-indicator-neutral {
+  background-color: var(--color-surface-subdued);
+  color: var(--color-text-subdued);
+  border: 1px solid var(--color-border);
+}
+
+.cert-indicator-text {
+  color: var(--color-text-subdued);
+}
+
+.match-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+}
+
+.match-cell-percent {
+  font-weight: var(--font-weight-heading);
+  font-size: var(--font-size-caption);
+}
+
+.match-cell-bar {
+  width: 100%;
+  height: 4px;
+  border-radius: 2px;
+  background-color: var(--color-surface-subdued);
+  overflow: hidden;
+}
+
+.match-cell-bar-fill {
+  display: block;
+  height: 100%;
+  border-radius: 2px;
+}
+
+.match-cell-bar-success {
+  background-color: var(--color-success);
+}
+
+.match-cell-bar-warning {
+  background-color: var(--color-warning);
+}
+
+.match-cell-bar-critical {
+  background-color: var(--color-critical);
+}
+
+.match-cell-unavailable {
+  color: var(--color-text-subdued);
+  font-size: var(--font-size-caption);
+  font-style: italic;
+}
+
+/* Mobile fallback: a 6-column table can't fit under ~640px, so each row
+   becomes a stacked card via CSS grid — number and title on top, the
+   remaining indicators in a row beneath. role="table"/"row"/"cell" are set
+   explicitly in the JSX so overriding `display` here doesn't strip the
+   table semantics screen readers rely on. */
+@media (max-width: 640px) {
+  .results-table,
+  .results-table tbody {
+    display: block;
+    width: 100%;
+    border: none;
+  }
+
+  .results-table thead {
+    display: none;
+  }
+
+  .results-table-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:
+      'standard standard standard'
+      'title title title'
+      'category cert match';
+    gap: var(--space-4) var(--space-8);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    padding: var(--space-12);
+    margin-bottom: var(--space-8);
+  }
+
+  .results-table td {
+    padding: 0;
+  }
+
+  .rt-cell-standard {
+    grid-area: standard;
+    white-space: normal;
+  }
+
+  .rt-cell-title {
+    grid-area: title;
+    max-width: none;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: unset;
+    font-size: var(--font-size-caption);
+  }
+
+  .rt-cell-category {
+    grid-area: category;
+  }
+
+  .rt-cell-cert {
+    grid-area: cert;
+  }
+
+  .rt-cell-match {
+    grid-area: match;
+    width: auto;
+  }
+
+  .match-cell {
+    align-items: flex-start;
+  }
+
+  .rt-cell-chevron {
+    display: none;
+  }
+}

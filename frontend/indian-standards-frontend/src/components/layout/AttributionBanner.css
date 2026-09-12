@@ -1,0 +1,43 @@
+.attribution-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-16);
+  padding: var(--space-8) var(--space-24);
+  background-color: var(--color-info-bg);
+  border-bottom: 1px solid var(--color-info);
+  color: var(--color-text);
+  text-align: center;
+}
+
+.attribution-banner p {
+  font-size: var(--font-size-caption);
+  margin: 0;
+}
+
+.attribution-banner-dismiss {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  background: none;
+  border: 1px solid transparent;
+  border-radius: var(--radius-control);
+  color: var(--color-text-subdued);
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.attribution-banner-dismiss:hover {
+  color: var(--color-text);
+  background-color: var(--color-surface);
+}
+
+@media (max-width: 480px) {
+  .attribution-banner p {
+    max-width: 260px;
+  }
+}

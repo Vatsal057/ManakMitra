@@ -20,9 +20,18 @@
       --text-muted: #a6a6a6;
       --accent: #276EF1;
       --accent-glow: #276EF1;
-      --state-fill: #141414;
-      --state-stroke: #333333;
-      --state-hover: #262626;
+      /* Unselected state fill/stroke were #141414 on a #000000 background
+         with a #333333 stroke — ~1.1:1 contrast, effectively invisible. A
+         first pass (Phase 9C) raised the stroke to ~3.1:1 but left the fill
+         itself at #2a2a2a (~1.46:1 against --bg) — still failing WCAG
+         1.4.11's non-text 3:1 bar, since the fill is the larger visible
+         area, not just its outline. Measured with the WCAG relative-
+         luminance formula: #636363 clears 3.50:1 against #000000. Stroke
+         and hover raised further above that so both remain clearly
+         distinguishable from the new, brighter fill. */
+      --state-fill: #636363;
+      --state-stroke: #8a8a8a;
+      --state-hover: #7a7a7a;
       --state-active: #1e3557;
       --badge-bg: #276EF1;
       --badge-text: #ffffff;
@@ -41,8 +50,17 @@
       --text-muted: #545454;
       --accent: #276EF1;
       --accent-glow: #276EF1;
-      --state-fill: #eeeeee;
-      --state-stroke: #cbcbcb;
+      /* Unselected states were #eeeeee fill / #cbcbcb stroke on a #f6f6f6
+         background — ~1.07:1 / ~1.50:1, the same near-invisible defect the
+         dark theme had (see Phase 5). A first pass (Phase 9C) raised these
+         to #bfbfbf / #8e8e8e, but the fill itself only measured ~1.70:1 —
+         still short of WCAG 1.4.11's non-text 3:1 bar; only the stroke had
+         actually been fixed. Measured with the WCAG relative-luminance
+         formula: #7d7d7d clears 3.81:1 against #f6f6f6. Stroke darkened
+         further so it still reads as a distinct outline against the new,
+         darker fill. */
+      --state-fill: #7d7d7d;
+      --state-stroke: #4d4d4d;
       --state-hover: #e2e2e2;
       --state-active: #edf3fe;
       --badge-bg: #000000;
@@ -68,20 +86,25 @@
     header {
       background: var(--surface);
       border-bottom: 2px solid var(--border);
-      padding: 0 16px;
-      height: 58px;
+      padding: 10px 16px;
+      min-height: 58px;
       display: flex;
       align-items: center;
-      justify-content: space-between;
+      flex-wrap: wrap;
+      row-gap: 8px;
+      column-gap: 12px;
       flex-shrink: 0;
       z-index: 60;
-      gap: 12px;
     }
+    /* Fixed-width block that never wraps mid-phrase — if the row runs out
+       of room, the *whole* block drops to its own line instead of the
+       title text breaking internally. */
     .brand {
       display: flex;
       align-items: center;
       gap: 10px;
       cursor: pointer;
+      flex: none;
     }
     .brand-icon {
       width: 36px; height: 36px;
@@ -102,6 +125,7 @@
       display: flex;
       align-items: center;
       gap: 6px;
+      white-space: nowrap;
     }
     .badge-lims {
       font-size: 10px;
@@ -117,14 +141,29 @@
       color: var(--text-muted);
       margin-top: 1px;
       font-weight: 500;
+      white-space: nowrap;
     }
 
-    /* Controls row in header */
+    /* Controls row in header — search box, state dropdown and view-toggle
+       are the highest-priority controls (spec: "keep these visible
+       longest"), so this row gets a real content-based min-width instead
+       of min-width:0. With min-width:0 the outer header flexbox could
+       shrink this row's box below what its own non-shrinking children
+       (search-box's 180px floor + the state-select + both buttons, all
+       flex-shrink:0) actually need — the children then spilled out of the
+       row's shrunk box and visually overlapped .header-right, which sits
+       immediately after it. min-width here keeps that from happening: it
+       forces .header-right (lower priority — see its own comment) to be
+       what concedes room first. flex-wrap is a second line of defence for
+       any width narrower than even this floor. */
     .controls-row {
       display: flex;
       align-items: center;
+      flex-wrap: wrap;
       gap: 8px;
-      flex: 1;
+      row-gap: 8px;
+      flex: 1 1 300px;
+      min-width: 520px;
       max-width: 760px;
     }
     .search-box {
@@ -231,13 +270,30 @@
       border-color: var(--accent);
     }
 
+    /* This is the block that used to overlap ("24 States" bleeding into
+       "lims.bis.gov.in") when the header ran out of room: .header-right's
+       own children (stat-pill, portal-link, theme button) had no explicit
+       flex-shrink, so the default flex-shrink:1 let the browser shrink
+       their boxes below their nowrap text's min-content size — the text
+       itself couldn't wrap (white-space:nowrap) so it just overflowed its
+       own shrunk box into the neighbour. flex-shrink:0 on each child stops
+       that; flex-wrap here means that if there truly isn't room for all of
+       them even at natural size, the *whole* stat-pill/portal-link/theme
+       group wraps onto a second line inside header-right instead of
+       overlapping. Verified against the width the map actually renders at
+       inside /labs (its container is narrower than the full viewport, not
+       just tested as a standalone full-width iframe). */
     .header-right {
       display: flex;
+      flex-wrap: wrap;
       align-items: center;
+      justify-content: flex-end;
       gap: 8px;
       flex-shrink: 0;
+      margin-left: auto;
     }
     .stat-pill {
+      flex-shrink: 0;
       font-family: 'JetBrains Mono', monospace;
       font-size: 11.5px;
       font-weight: 700;
@@ -251,6 +307,7 @@
 
     /* Official Portal Link */
     .official-portal-link {
+      flex-shrink: 0;
       display: flex;
       align-items: center;
       gap: 6px;
@@ -287,6 +344,23 @@
       color: var(--text-muted);
       text-transform: uppercase;
       margin-left: 2px;
+    }
+
+    /* Explicit collapse priority as the header narrows: the PORTAL label
+       text goes first (the link itself — domain + arrow — still works),
+       then the stat pill/portal-link group moves to its own row so the
+       search box, state dropdown and view toggle in .controls-row keep
+       the most room for longest. */
+    @media (max-width: 1000px) {
+      .portal-label {
+        display: none;
+      }
+    }
+    @media (max-width: 760px) {
+      .header-right {
+        flex-basis: 100%;
+        justify-content: flex-start;
+      }
     }
 
     /* Main Map Area */
@@ -791,6 +865,11 @@
 
 <script src="/bis-labs-data.js"></script>
 <script>
+// NOTE: STATE_PATHS (from bis-labs-data.js) is a stylised, illustrative SVG
+// map of India, not a geographic projection — its coordinates must never be
+// used for distance or proximity calculation. The labs dataset itself has
+// no latitude/longitude at all.
+
 // Parent communication helper if loaded inside iframe
 function notifyParent(action, payload) {
   try {
@@ -840,6 +919,12 @@ STATE_PATHS.forEach(s => {
 let selectedState = 'all';
 let searchQuery = '';
 let panelQuery = '';
+// Set of lab ids to restrict the side panel to, driven by the parent app's
+// speciality filter (see the 'filterCategory' message below). The map's own
+// embedded dataset has no category fields, so category filtering happens in
+// the parent and is passed down as a plain id allowlist — null means no
+// filter is active.
+let categoryFilterIds = null;
 let scale = 1, tx = 0, ty = 0;
 let dragging = false, dragStart = { x: 0, y: 0 };
 let currentTheme = 'dark';
@@ -1149,6 +1234,10 @@ function updateSidePanel() {
     panelSubtitleText.textContent = labsToShow.length + ' BIS recognized labs in ' + selectedState;
   }
 
+  if (categoryFilterIds) {
+    labsToShow = labsToShow.filter(l => categoryFilterIds.has(String(l.id)));
+  }
+
   renderPanelLabCards(labsToShow);
 }
 
@@ -1369,8 +1458,23 @@ window.addEventListener('message', (e) => {
     searchClear.classList.toggle('show', !!searchQuery);
     renderStateMarkers();
     updateSidePanel();
+  } else if (e.data.action === 'setTheme') {
+    currentTheme = e.data.payload === 'light' ? 'light' : 'dark';
+    document.body.setAttribute('data-theme', currentTheme);
+  } else if (e.data.action === 'filterCategory') {
+    categoryFilterIds = Array.isArray(e.data.payload) ? new Set(e.data.payload.map(String)) : null;
+    updateSidePanel();
   }
 });
+
+// Embedded in the app's iframe — the app drives theme via postMessage
+// above, so the map's own standalone toggle would just get out of sync.
+// Hide it only when embedded; the standalone bis-labs-map.html page (opened
+// directly, outside the app) keeps its own working toggle.
+if (window.top !== window.self) {
+  const themeBtn = document.getElementById('btn-theme');
+  if (themeBtn) themeBtn.style.display = 'none';
+}
 
 // Initial Setup
 renderStates();

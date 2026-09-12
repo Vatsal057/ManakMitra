@@ -1,0 +1,623 @@
+**************** 
+
+
+
+*■ fe^K 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 908 (1975) : Specification for Fire Hydrant, Stand Post 
+Type [CED 22: Fire Fighting] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS: 908 -1975 
+
+(Reaffirmed 2010) 
+
+REAfflRMED 
+Indian Standard , . 2010 
+
+SPECIFICATION FOR 
+FIRE HYDRANT, STAND POST TYPE 
+
+( Second Revision) 
+
+
+
+Fifth Reprint AUGUST 1999 
+
+( Incorporating Amcadment No. 1 ) 
+
+
+
+UDC 614.843.1 
+
+
+
+© Copyright 1977 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+Gr2 September 1975 
+
+
+
+IS 1 908- 1975 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+FIRE HYDRANT, STAND POST TYPE 
+
+(Second Revision) 
+
+Fire Fighting Sectional Committee, BDC 22 
+
+Chairman Representing 
+
+Sbbx P. N. Mshbotba Ministry of Home Affairs 
+
+Members 
+
+Shbi G. B. Mbnoh ( Alternate to 
+Shri P. N. Mehrotrm ) 
+Dm G. N. Bad ami Central Building Research Institute (CSIR), 
+
+Roorkee 
+
+Shri Gofal Kbishan ( Alternate ) 
+Sbbx P. R. Baldota Avon Services ( Production & Agencies ) Private Ltd, 
+
+New Delhi 
+
+Db D, S. Jaiswab ( Alternate ) 
+Shbi P. K. Bhabuoha Insurance Association of India, Bombay 
+
+Shbi A. Chattbbji ( Alternatt ) 
+Shbi M. B. Ghakabkab Air Foam Industries, New Delhi 
+
+Shbi R. Mbhta ( Alternatt ) 
+Shbi S. C. Chattbbjkb West Bengal Fire Services, Calcutta 
+
+Shbi D. K. Banbb jbb ( Alternate ) 
+Shbi R. R. Dhobley Bhabha Atomic Research Centre, Bombay 
+
+Dibbotob, Fibb Sbbviob Home ( Police ) Department, Government of Andbra 
+
+Pradesh 
+Shbi P. N. Ghosh Ministry of Defence (R&D) 
+
+Shbi A. N. Ahluwaua ( Alternate ) 
+Shu I A. S. Kulkabni Bombay Fire Brigade, Bombay 
+
+Shbi R. K. Kulkabni Steelage Industries Ltd ( Minimax Division ) , Bombay 
+
+Shbi S. C. Dutta ( Alternate ) 
+Shbi D. K. Majuhdbb Allen Richards & Co, Calcutta 
+
+Shbi A. K. Mitba ( Alternate ) 
+Shbi S. P. Nao Railway Board ( Ministry of Railways ) 
+
+Shbi J. R. Ovalbhab National Safety Council, Bombay 
+
+Shbi K. Sbidhab ( Alternate ) 
+Shbi H. C. Rai Cboudhabt Directorate General of Civil Aviation, New Delhi 
+
+Lt-Col B. N. S. Rao Ministry of Defence ( DGI ) 
+
+Shbi K. Raxakbisbma Rao Directorate General of Technical Development 
+
+Shbi I. Rathihasaki Fire Service, Government of Tamil Nadu, Madras 
+
+Shbi U. Nabataha ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+• Copyright 1977 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act* 
+
+
+
+Us908-1975 
+
+(Centvmed from page 1) 
+
+Members Representing 
+
+Shri P. L. Sebastin Oil and Natural Gai Commission, Dehra Dun 
+
+Shbi V. V. Kimmatxar ( Alternate ) 
+Shri G. G. Shnapati Hindustan Steel Ltd, Ranchi 
+
+Shri P. Chattbrjbk ( Alternate ) 
+Shri P. H. Sbtpna Kooverji Devthi & Co Pvt Ltd, Bombay 
+
+Shri N. T. P4Njwaxi ( Alternate ) 
+Shri J. V. Shah Newage Industries, Surendranagar ( Gujarat ) 
+
+Shri B. J. Shah {Alternate) 
+Shri V. N. Sharma DGL Private Limited. New Delhi 
+
+Shri C. R. Sircar Directorate General of Supplies & Disposals 
+
+Shri D. K. Sjrkar Synthetics & Chemicals Ltd, Bareilly 
+
+Shri R. S. Sundabam Delhi Fire Service, Delhi 
+
+Shri Tarit Sur Sur Enamel & Stamping Works Private Ltd, 
+
+Calcutta 
+
+Shri S. Sur ( Alternate ) 
+Shri N. P. Vxrohrsb Heavy Engineering Corporation Ltd, Ranchi 
+
+Shbi B. V. Waqlb Fire Adviser, Government of Maharashtra, Bombay 
+
+Shri R. R. Rao ( Alternate ) 
+Shri D. Ajitha Simha, Director General, ISI ( Ex-officio Member) 
+
+
+
+Director ( Civ Engg ) 
+
+
+
+Secretary 
+
+Shri K. M. Mathur 
+Deputy Director ( Civ Engg), ISI 
+
+
+
+Water Fittings for Fire Fighting Purposes Subcommittee, BDC 22 : 1 
+
+Convener 
+Shri P. N. Mrhbotra Ministry ot Home Affairs 
+
+Members 
+
+Shri G. B. Mrnom ( Alternate to 
+Shri P. N. Mehrotra ) 
+Shri P. Chattbrjhb Hindustan Steel Ltd, Ranchi 
+
+Shri S. C. Chattbrjhb West Bengal Fire Services, Calcutta 
+
+Shri P. N. Ghosh Ministry of Defence (R&D) 
+
+Shri A. N. Ahluwalia ( Alternate ) 
+Shbi S. K. Gupta Directorate General of Inspection ( Ministry of 
+
+Defence ) 
+
+Shbi B. K. Ghobh (Alternate) 
+Shri V. S. Jain DGL Private Limited, New Delhi 
+
+Shri A. S. Kulxarhi Bombay Fire Brigade, Bombay 
+
+Shri H. C. Rai Choudhart Directorate General of Civil Aviation, New Delhi 
+
+Shri J. V. Shah Newage Industries, Surendranagar ( Gujarat ) 
+
+
+
+IS 1 908-1975 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+FIRE HYDRANT, STAND POST TYPE 
+
+(Second Revision) 
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( Second Revision ) was adopted by the Indian 
+Standards Institution on 16 June 1975, after the draft finalized by the 
+Fire Fighting Sectional Committee had been approved by the Civil 
+Engineering Division Council. 
+
+0*2 Hydrants are invariably used for fire fighting purposes to derive water 
+from the water line. The hydrants could be stand post type or 
+underground that is sluice-valve type. This standard covering fire 
+hydrants, stand post type was first published in 1958 and revised in 1965. 
+The second revision has been prepared to incorporate complete details of 
+duck-foot bend, flange riser and also to make provision for the two 
+outlets instead of one. 
+
+0.3 In the formulation of this standard due weightage has been given to 
+international co-ordination among the standards and practices prevailing 
+in different countries in addition to relating it to the practices in the 
+field in this country. 
+
+0.4 For the purpose of deciding whether a particular requirement of 
+this standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded oiff in accord- 
+ance with IS : 2-1960*. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in this 
+standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard lays down the requirements regarding materials, shape 
+and dimensions, construction and test for fire hydrant, stand post type, 
+used for taking water from underground pipe line for fire fighting 
+purposes. 
+
+'Rules for rounding off numerical values ( rms$d ) . 
+
+3 
+
+
+
+IS 1 908 -1975 
+
+2. GENERAL REQUIREMENTS 
+
+2.1 The hydrant shall consist of one or two sluice valves with road surface 
+box(es), a duck foot bend, flange riser and a stand post column fitted 
+with 63-mm male coupling(s). For the use in industries where required 
+instead of coupling, the outlet be flanged so as to receive landing valve 
+conforming to IS : 5290-1969* ( see Fig. 1 and 2 ). 
+
+3. MATERIAL 
+
+3.1 Sluice valves shall be of Class I type with cap conforming to 
+IS : 780-l969f. *t shall be provided with false spindle. 
+
+3.2 The road surface box shall conform to IS : 3950-1966$. 
+
+3*3 Duck foot bend, shall conform to IS : 1538-1969§ heavy duty type. 
+
+3.4 The flange riser shall conform to IS : 7181-1974||. The length of the 
+pipe shall be as required. 
+
+3.5 Stand post column shall be of cast iron, cast in one piece conforming 
+to Grade 20 of IS: 210-1970^1 and shape according to details given in 
+Fig. 2. 
+
+3.6 Male half coupling shall conform to IS: 903-1975** (63 mm) except 
+the tail which shall have parallel threads conforming to G-2J of 
+IS : 2643 (Part I)-1975|t instead of serration . 
+
+4. WORKMANSHIP AND FINISH 
+
+4.1 All parts shall have good finish, clear from burrs, blow holes and 
+sharp edges; castings shall be clean and sound excluding plugging, welding 
+or repairs of any defects. 
+
+5. HYDROSTATIC TEST REQUIREMENT 
+
+5.1 Each hydrant shall be subject to hydrostatic test and shall prove 
+perfectly water tight under a hydraulic pressure of 200 metres head. 
+
+•Specification for landing valvei ( internal hydrant ). 
+
+tSpecification for tluice valves, for water-works purposes (50 to 300 mm size) 
+(fourth revision ). 
+
+{Specification for surface boxes for sluice valves. 
+
+{Specification for cast iron fittings for pressure pipes for water, gas and sewage 
+(first revision). 
+
+((Specification for horizontally cast iron double flanged pipes for water, gas and 
+sewage. 
+
+^Specification for grey iron castings ( second revision ). 
+
+••Specification for fire hose delivery couplings, branch pipe, nozzles and nozzle 
+spanner ( second revision ). 
+
+ttDimcnsions for pipe threads for fastening purposes: Part I Basic profile and 
+dimensions (first revision ). 
+
+
+
+IStMtt-1975 
+
+
+
+STAND POST 
+COLUMN 
+
+
+
+CI ROAD SURFACE 
+BOXES 
+
+
+
+
+10/100 mm \ \ / yail pitcf 
+
+OUCKFOOT BENO \ ,/ Wmm SLUICE V ALVES IN 
+
+CASE OF SINGLE OUTLET 
+tOO mm SLUICE VALVES IN 
+k CASE OF OOUBLE OUTLET 
+
+All dimension! in millimetres. 
+
+Fio. I Fire Hydrant, Stand Post Type One/Two Outlets 
+
+5 
+
+
+
+ISt908-1975 
+
+
+
+
+WlOtW TO IXT 
+
+JUi4i Kfcil T 
+
+
+
+PtAOOC TO SUIT 
+UMOMOVAUt 
+fttt IfetltOt 
+
+
+
+2A 
+
+
+
+All dimensions in millimetres. 
+
+Fio. 2 Stand Post Column 
+
+
+
+ISsM8-1975 
+
+& COATING 
+
+6.1 Immediately after casting and before machining, all cast iron parts 
+shall be thoroughly cleaned, and before rusting commences, shall be 
+coated by dipping in a bath containing a composition having bituminous 
+base ( see IS : 158-1968* ) and maintained at a temperature between 143 
+and 166°C. The proportions of the ingredients of the composition shall 
+be so regulated as to produce a coating having properties given in 6.2 
+and 6.3. 
+
+6.2 The casting shall be re-heated before dipping, either by immersion 
+in hot water or by heating in an oven, or shall be held in the dipping 
+bath sufficiently long to reach an equivalent temperature, the method 
+used being at the maker's* option. Care shall be taken to see that the 
+castings are perfectly dry immediately before dipping. On removal from 
+the bath the castings shall be sufficiently drained and ensure that no 
+portion is left uncoated. 
+
+6*3 The coating shall be such that it shall not impart any taste or smell 
+to water. The coating shall be smooth, glossy and tenacious, sufficiently 
+hard so as not to flow when exposed to a temperature of 77°C and not so 
+brittle at a temperature of 0°C as to chip off when scribed lightly with 
+the point of penknife.' 
+
+7. PAINTING 
+
+7.1 Stand post of the hydrant shall be painted in the two coats of fire red 
+paint ( see Shadfe No. 536 of IS : 5-19611 ). The top of the post column 
+above the outlet shall be painted two coats of canary yellow colour 
+(see Shade No. 309 in IS:5-1961f). The paint shall conform to 
+IS: 2932-1964:. 
+
+8. CRITERIA FOR ACCEPTANCE 
+
+8.1 Each hydrant shall be tested for the requirements prescribed in this 
+standard. 
+
+9. MARKING 
+
+9.1 Each hydrant shall be clearly and permanently marked with the 
+following information: 
+
+a) Manufacturer's name or trade-mark, and 
+
+b) Year of manufacture. 
+
+♦Specification for ready mixed paint, brushing, bituminous* black, lead-free, add, 
+alkali, water and heat resisting for general Durposes ( ucmd rmrion ). 
+
+tOolours for ready mixed paints ( secena revtswn ). 
+
+(Specification for enamel, exterior, Type 2, (a) undercoating, (b) finishing, colour 
+as required. 
+
+
+
+Ms908-1975 
+
+9.2 The cover of the road surface box shall have the letters 'FH' 
+embossed on it and the cover shall be painted with black colour. 
+
+9.2.1 The product may also be marked with Standard Mark. 
+
+9*3 The use of the Standard Mark is governed by the provisions of Bureau q 
+Indian Standards Act, 1986 and the Rules and Regulations made thereunder. 
+The details of conditions under which the licence for the use of Standard Mar) 
+may be granted to manfucaturers or producers may be obtained from the Bureai 
+of Indian Standards. 
+
+
+
+8 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarter*: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 1 10002 
+
+Telephones: 323 01 31 , 323 3375, 323 9402 Fax :+ 91 01 1 3234062, 3239399, 3239382 
+
+E - mall : bls@v8nl.com. Internet : http://wwwdel.vsnl.netiiVbte.org 
+
+Central Laboratory: Telephone 
+
+Rot No. 20/9, Site IV, Sahibabad Industrial Area, Sahibabad 201010 77 00 32 
+
+Regional Office*: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 1 1 0002 323 76 17 
+
+•Eastern : 1 /1 4 CIT Scheme VII, V.I.P. Road. Kankurgachi, CALCUTTA 700054 337 86 62 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 1 60022 60 36 43 
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 6001 13 235 23 15 
+
+tWestem : Manakalaya, E9, MIDC, Behind Marol Telephone Exchange, 832 92 95 
+Andheri (East), MUMBAI 400093 
+
+Branch Offices: 
+
+•Pushpak*, Nurmohamed Shaikh Marg, Khanpur, AHMEDABAD 360001 550 1 3 46 
+
+JPeenya Industrial Area, 1 st Stage, Bangaiore-Tumkur Road, 839 49 55 
+BANGALORE 560058 
+
+Commercial-cum-Office Complex, Opp. Dushera Maidan, E*5 Arera Colony, 72 34 52 
+Bittan Market, BHOPAL 4620t6 
+
+62/63, Ganga Nagar, Unit VI, BHUBANESWAR 751 001 40 36 27 
+
+Kalai Kathir Building, 670 Avlnashl Road, COIMBATORE 641037 21 01 41 
+
+Plot No. 43. Sector 16 A, Mathura Road, FARIDABAD 121001 28 88 01 
+
+Savttri Complex, 116 G.T. Road, GHAZIABAD 201001 71 19 98 
+
+53/5 Ward No.29, R.G. Barua Road, 5th By-lane, GUWAHATI 781003 54 1 1 37 
+
+5-8-56C, LN. Gupta Marg, Nampally Station Road, HYDERABAD 500001 320 1 84 
+
+E-52, Chftranjan Marg, C- Scheme, JAIPUR 302001 37 38 79 
+
+1 1 7/41 8 B, Sarvodaya Nagar, KANPUR 208005 21 68 76 
+
+Seth Bhawan, 2nd Floor, Behind Leela Cinema, Naval KJshore Road, 21 69 23 
+LUCKNOW 226001 
+
+NIT Building, Second Floor, Gokulpat Market, NAGPUR 44001 52 51 71 
+
+Patfiputra Industrial Estate, PATNA 80001 3 26 28 08 
+
+Institution of Engineers (India) Building, 1 332 Shivaji Nagar, PUNE 41 1 005 32 36 35 
+
+Sahajanand House' 3rd Floor, Bhaktinagar drde, 80 Feet Road, 36 85 66 
+RAJKOT 360002 
+
+T.C. No. 1 4/1 421 , University P. O. Palayam, 1HIRUVANAN1MAPURAM 695034 32 21 04 
+
+
+
+*Sale? Office is at 5 Chowrlnghee Approach, P.O. Princep Street, 27 1 65 
+
+CALCUTTA 700072 
+
+tSales Office is at Novelty Chambers, Grant Road, MUMBAI 400007 309 65 28 
+
+*Sales Office Is at *F Block. Unity Building, Narashimaraja Square, 222 39 71 
+
+BANGALORE 560002 
+
+
+
+Dee Kay Printers, New Delhi, India 
+
+
+

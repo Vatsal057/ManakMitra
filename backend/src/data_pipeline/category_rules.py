@@ -25,6 +25,23 @@ _KNOWN_NUMBER_OVERRIDES = {
     4082: "Cement & Construction",   # Stacking and storage of construction materials at site
     4905: None,                      # Random sampling/randomization -- generic statistical method, no real domain
 
+    # Part 2 corpus-gap-fill additions (round 3) -- well-known public identity
+    # of these standard numbers, same basis as the overrides above.
+    10322: "Electrical",             # Luminaires (all parts) -- lighting fixture product/test-method family
+    16102: "Electrical",             # Self-ballasted LED lamps for general lighting services (all parts)
+    1944: "Electrical Installation", # Code of practice for lighting of public thoroughfares (all parts)
+    3646: "Electrical Installation", # Code of practice for interior illumination (all parts)
+    2190: "Safety & PPE",            # Selection, installation and maintenance of first-aid fire extinguishers
+    15683: "Safety & PPE",           # Portable fire extinguishers -- performance and construction
+    908: "Safety & PPE",             # Fire hydrant, stand post type -- firefighting equipment
+    2189: "Safety & PPE",            # Automatic fire detection and alarm system
+    9798: "Gas Cylinders",           # LPG pressure regulators -- same LPG-appliance family as IS 8737
+    12701: "Water & Environment",    # Polyethylene water storage tanks
+    4985: "Water & Environment",     # Unplasticized PVC pipes for potable water supplies
+    4984: "Water & Environment",     # Polyethylene pipes for water supply
+    1726: "Water & Environment",     # Cast iron manhole covers and frames -- drainage/sewer infrastructure
+    14286: "Electrical",             # Crystalline silicon terrestrial photovoltaic (PV) modules
+
     # Pre-existing miscategorizations found by inspection while verifying
     # the round-2 demo spine (these came in with a non-"Uncategorized"
     # category from the original scrape, so the "only touch Uncategorized

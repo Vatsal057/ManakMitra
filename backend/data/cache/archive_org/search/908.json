@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":30,"params":{"query":"identifier:gov.in.is.908.*","qin":"identifier:(gov.in.is.908.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.908.1975","title":"IS 908: Specification for Fire Hydrant, Stand Post Type"}]}}

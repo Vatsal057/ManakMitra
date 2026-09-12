@@ -1,0 +1,211 @@
+.tender-page h1 {
+  font-size: var(--font-size-page-title);
+  font-weight: var(--font-weight-heading);
+  margin-bottom: var(--space-16);
+}
+
+.tender-summary {
+  display: flex;
+  align-items: center;
+  gap: var(--space-16);
+  flex-wrap: wrap;
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  padding: var(--space-12) var(--space-16);
+  margin-bottom: var(--space-16);
+  font-size: var(--font-size-body);
+}
+
+.tender-summary-warning {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  color: var(--color-warning);
+  font-weight: var(--font-weight-heading);
+}
+
+.tender-clear {
+  margin-left: auto;
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  padding: var(--space-4) var(--space-12);
+  cursor: pointer;
+  color: var(--color-critical);
+}
+
+.tender-item {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  padding: var(--space-16);
+  margin-bottom: var(--space-16);
+}
+
+.tender-item-head {
+  display: flex;
+  align-items: center;
+  gap: var(--space-12);
+  flex-wrap: wrap;
+  margin-bottom: var(--space-12);
+}
+
+.tender-item-head input {
+  font-size: var(--font-size-card-heading);
+  font-weight: var(--font-weight-heading);
+  padding: var(--space-4) var(--space-8);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  flex: 1;
+  min-width: 0;
+}
+
+.tender-item-count {
+  color: var(--color-text-subdued);
+  font-size: var(--font-size-caption);
+}
+
+.tender-item-head button {
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  padding: var(--space-4) var(--space-12);
+  cursor: pointer;
+  color: var(--color-critical);
+}
+
+.tender-item-standards {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.tender-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-12);
+  flex-wrap: wrap;
+  padding: var(--space-8) var(--space-12);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+}
+
+.tender-row-main {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  min-width: 0;
+}
+
+.tender-row-number {
+  font-weight: var(--font-weight-heading);
+  flex: none;
+}
+
+.tender-row-title {
+  color: var(--color-text-subdued);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.tender-row-cert {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  flex: none;
+}
+
+.tender-row-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  font-size: var(--font-size-caption);
+  color: var(--color-text-subdued);
+}
+
+.tender-row-provenance {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.tender-row-elsewhere {
+  color: var(--color-warning);
+}
+
+.tender-row-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+}
+
+.tender-row-actions select {
+  padding: var(--space-4) var(--space-8);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+}
+
+.tender-row-actions button {
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  padding: var(--space-4) var(--space-12);
+  cursor: pointer;
+}
+
+.tender-forward-actions {
+  display: flex;
+  gap: var(--space-12);
+  margin-top: var(--space-24);
+}
+
+.tender-forward-actions button {
+  border-radius: var(--radius-control);
+  padding: var(--space-8) var(--space-20);
+  font-weight: var(--font-weight-heading);
+  cursor: pointer;
+  background: none;
+  border: 1px solid var(--color-border);
+  color: var(--color-link);
+}
+
+.tender-forward-actions button:first-child {
+  background-color: var(--color-interactive);
+  color: var(--color-text-on-role);
+  border: none;
+}
+
+.tender-forward-actions button:first-child:hover {
+  background-color: var(--color-interactive-hover);
+}
+
+.tender-forward-actions button:disabled {
+  background: none;
+  border: 1px solid var(--color-border);
+  color: var(--color-text-subdued);
+  cursor: not-allowed;
+}
+
+.tender-export-error {
+  margin-top: var(--space-8);
+  color: var(--color-critical);
+  font-size: var(--font-size-caption);
+}
+
+.tender-audit-panel {
+  margin-top: var(--space-24);
+  padding-top: var(--space-24);
+  border-top: 1px solid var(--color-border);
+}
+
+.tender-audit-panel h2 {
+  font-size: var(--font-size-section-heading);
+  font-weight: var(--font-weight-heading);
+  margin-bottom: var(--space-12);
+}

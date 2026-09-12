@@ -160,6 +160,25 @@ def write_paraphrase_section(pp: dict, configs_order: list[str]) -> str:
     return "\n".join(lines)
 
 
+def append_results_md(new_report: str, out_path: Path, corpus_size: int) -> None:
+    """Append `new_report` as a new dated section, never truncating whatever
+    is already in `out_path` -- the script used to call out_path.write_text()
+    directly (see git history / BACKEND_STATUS.md), which overwrote prior
+    runs' results on every invocation. Matches the dated-H1-marker convention
+    already used by hand in this file (`# Dated section: ... `)."""
+    date_str = datetime.date.today().isoformat()
+    marker = f"# Dated section: {date_str} — automated eval run (corpus {corpus_size} rows)\n\n"
+    new_block = marker + new_report
+
+    if out_path.exists():
+        prior = out_path.read_text(encoding="utf-8")
+        combined = prior.rstrip("\n") + "\n\n" + new_block
+    else:
+        combined = new_block
+
+    out_path.write_text(combined, encoding="utf-8")
+
+
 def write_results_md(full_results, restricted_results, restricted_n, no_answer_results,
                       configs_order, breakdown, paraphrase_results, abstention_verification,
                       band_distribution, out_path: Path, corpus_size: int) -> None:
@@ -249,7 +268,7 @@ def write_results_md(full_results, restricted_results, restricted_n, no_answer_r
     lines.append("")
     lines.append(write_tri_path_framing(full_results, paraphrase_results["full_results"], configs_order))
 
-    out_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    append_results_md("\n".join(lines) + "\n", out_path, corpus_size)
 
 
 def _query_type_reading(breakdown, configs_order) -> str:

@@ -1,0 +1,76 @@
+/* Global reset + base typography. Imported once, after tokens.css. */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  font-size: var(--font-size-body);
+  line-height: var(--line-height-body);
+  color: var(--color-text);
+  background-color: var(--color-surface-subdued);
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+}
+
+/* Explicit colours rather than leaning on the browser's native
+   color-scheme auto-styling: Chromium's own dark-mode input background
+   doesn't match our calibrated --color-text-subdued, which fails contrast
+   (4.03:1 measured) — pin both ends of the pair to our own tokens instead. */
+input,
+textarea,
+select {
+  background-color: var(--color-surface);
+  color: var(--color-text);
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--color-text-subdued);
+  opacity: 1;
+}
+
+a {
+  color: var(--color-link);
+}
+
+/* Visible keyboard focus everywhere — never remove without replacing. */
+:focus-visible {
+  outline: 2px solid var(--color-link);
+  outline-offset: 2px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}

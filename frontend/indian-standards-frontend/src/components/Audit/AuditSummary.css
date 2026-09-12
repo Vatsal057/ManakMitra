@@ -1,0 +1,35 @@
+.audit-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: var(--space-12);
+  margin-bottom: var(--space-16);
+}
+
+.audit-stat {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  padding: var(--space-12) var(--space-16);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.audit-stat-value {
+  font-size: var(--font-size-page-title);
+  font-weight: var(--font-weight-heading);
+}
+
+.audit-stat-label {
+  font-size: var(--font-size-caption);
+  color: var(--color-text-subdued);
+}
+
+.audit-stat-warning {
+  border-color: var(--color-warning);
+  background-color: var(--color-warning-bg);
+}
+
+.audit-stat-warning .audit-stat-value {
+  color: var(--color-warning);
+}

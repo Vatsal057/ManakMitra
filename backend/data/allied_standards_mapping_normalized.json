@@ -1681,5 +1681,1886 @@
     "primary_standard_normalized": "IS 12437",
     "primary_is_number": 12437,
     "primary_part": null
+  },
+  {
+    "primary_standard": "IS 694:2010",
+    "product": "PVC Insulated Cables/Cords for Household Wiring (up to 1100 V)",
+    "allied_standards": [
+      {
+        "standard": "IS 8130:2013",
+        "title": "Conductors for Insulated Electric Cables and Flexible Cords - Specification",
+        "relationship": "normative_reference",
+        "note": "IS 694 requires conductors used in these cables to comply with IS 8130 for annealed copper/aluminium conductor construction, sizing and resistance.",
+        "confidence": "high",
+        "standard_normalized": "IS 8130:2013",
+        "is_number": 8130
+      },
+      {
+        "standard": "IS 5831:1984",
+        "title": "PVC Insulation and Sheath of Electric Cables - Specification",
+        "relationship": "normative_reference",
+        "note": "IS 694 requires the PVC insulating and sheathing compounds to meet the type/grade requirements of IS 5831.",
+        "confidence": "high",
+        "standard_normalized": "IS 5831:1984",
+        "is_number": 5831
+      },
+      {
+        "standard": "IS 10810:1984",
+        "title": "Methods of Test for Cables",
+        "relationship": "test_method",
+        "note": "Routine and type tests (insulation resistance, high-voltage, tensile strength, dimension checks) called up by IS 694 are the numbered test methods of IS 10810.",
+        "confidence": "high",
+        "standard_normalized": "IS 10810:1984",
+        "is_number": 10810
+      },
+      {
+        "standard": "IS 1554-1:1988",
+        "title": "PVC Insulated (Heavy Duty) Electric Cables for Working Voltages up to and Including 1100 V",
+        "relationship": "normative_reference",
+        "note": "Companion IS specification for heavier-duty PVC power cables in the same up-to-1100V voltage class; the two standards share conductor, insulation and test-method references.",
+        "confidence": "medium",
+        "standard_normalized": "IS 1554-1:1988",
+        "is_number": 1554
+      }
+    ],
+    "primary_standard_normalized": "IS 694:2010",
+    "primary_is_number": 694,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 1554-1:1988",
+    "product": "PVC Insulated Heavy-Duty Power Cables (up to 1100 V)",
+    "allied_standards": [
+      {
+        "standard": "IS 8130:2013",
+        "title": "Conductors for Insulated Electric Cables and Flexible Cords - Specification",
+        "relationship": "normative_reference",
+        "note": "Conductor construction and resistance requirements are drawn from IS 8130, as for other PVC cable specifications in this voltage class.",
+        "confidence": "high",
+        "standard_normalized": "IS 8130:2013",
+        "is_number": 8130
+      },
+      {
+        "standard": "IS 5831:1984",
+        "title": "PVC Insulation and Sheath of Electric Cables - Specification",
+        "relationship": "normative_reference",
+        "note": "Insulation and sheath PVC compound grades are specified by reference to IS 5831.",
+        "confidence": "high",
+        "standard_normalized": "IS 5831:1984",
+        "is_number": 5831
+      },
+      {
+        "standard": "IS 10810:1984",
+        "title": "Methods of Test for Cables",
+        "relationship": "test_method",
+        "note": "Type and acceptance tests for these heavy-duty cables are performed per the numbered methods of IS 10810.",
+        "confidence": "high",
+        "standard_normalized": "IS 10810:1984",
+        "is_number": 10810
+      }
+    ],
+    "primary_standard_normalized": "IS 1554-1:1988",
+    "primary_is_number": 1554,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 8130:2013",
+    "product": "Conductors for Insulated Electric Cables and Flexible Cords",
+    "allied_standards": [
+      {
+        "standard": "IS 694:2010",
+        "title": "Polyvinyl Chloride Insulated Unsheathed and Sheathed Cables/Cords with Rigid and Flexible Conductor for Rated Voltages up to and Including 1100 V",
+        "relationship": "normative_reference",
+        "note": "IS 8130 is the conductor-construction standard normatively referenced by IS 694 for household wiring cables.",
+        "confidence": "high",
+        "standard_normalized": "IS 694:2010",
+        "is_number": 694
+      },
+      {
+        "standard": "IS 5831:1984",
+        "title": "PVC Insulation and Sheath of Electric Cables - Specification",
+        "relationship": "normative_reference",
+        "note": "Conductors made to IS 8130 are combined with PVC insulation/sheath compounds made to IS 5831 in finished cable specifications.",
+        "confidence": "medium",
+        "standard_normalized": "IS 5831:1984",
+        "is_number": 5831
+      },
+      {
+        "standard": "IS 10810:1984",
+        "title": "Methods of Test for Cables",
+        "relationship": "test_method",
+        "note": "Conductor resistance and dimensional checks are carried out using the relevant parts of IS 10810.",
+        "confidence": "high",
+        "standard_normalized": "IS 10810:1984",
+        "is_number": 10810
+      }
+    ],
+    "primary_standard_normalized": "IS 8130:2013",
+    "primary_is_number": 8130,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 5831:1984",
+    "product": "PVC Insulation and Sheath Compounds for Electric Cables",
+    "allied_standards": [
+      {
+        "standard": "IS 694:2010",
+        "title": "Polyvinyl Chloride Insulated Unsheathed and Sheathed Cables/Cords with Rigid and Flexible Conductor for Rated Voltages up to and Including 1100 V",
+        "relationship": "normative_reference",
+        "note": "IS 694 specifies PVC compounds for insulation and sheath by reference to the type/grade requirements of IS 5831.",
+        "confidence": "high",
+        "standard_normalized": "IS 694:2010",
+        "is_number": 694
+      },
+      {
+        "standard": "IS 8130:2013",
+        "title": "Conductors for Insulated Electric Cables and Flexible Cords - Specification",
+        "relationship": "normative_reference",
+        "note": "Sheathing/insulation compounds under IS 5831 are applied over conductors constructed to IS 8130.",
+        "confidence": "medium",
+        "standard_normalized": "IS 8130:2013",
+        "is_number": 8130
+      },
+      {
+        "standard": "IS 10810:1984",
+        "title": "Methods of Test for Cables",
+        "relationship": "test_method",
+        "note": "Insulation resistance and physical/ageing tests on the compound are conducted per IS 10810's numbered methods.",
+        "confidence": "high",
+        "standard_normalized": "IS 10810:1984",
+        "is_number": 10810
+      }
+    ],
+    "primary_standard_normalized": "IS 5831:1984",
+    "primary_is_number": 5831,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 10810:1984",
+    "product": "Methods of Test for Cables",
+    "allied_standards": [
+      {
+        "standard": "IS 694:2010",
+        "title": "Polyvinyl Chloride Insulated Unsheathed and Sheathed Cables/Cords with Rigid and Flexible Conductor for Rated Voltages up to and Including 1100 V",
+        "relationship": "normative_reference",
+        "note": "IS 694 cites IS 10810 as the applicable test-method standard for insulation resistance, high-voltage and tensile-strength type tests.",
+        "confidence": "high",
+        "standard_normalized": "IS 694:2010",
+        "is_number": 694
+      },
+      {
+        "standard": "IS 1554-1:1988",
+        "title": "PVC Insulated (Heavy Duty) Electric Cables for Working Voltages up to and Including 1100 V",
+        "relationship": "normative_reference",
+        "note": "IS 1554 (Part 1) draws its routine and type test procedures from IS 10810.",
+        "confidence": "high",
+        "standard_normalized": "IS 1554-1:1988",
+        "is_number": 1554
+      },
+      {
+        "standard": "IS 8130:2013",
+        "title": "Conductors for Insulated Electric Cables and Flexible Cords - Specification",
+        "relationship": "normative_reference",
+        "note": "Conductor resistance test methods verifying IS 8130 conductor requirements are drawn from IS 10810.",
+        "confidence": "medium",
+        "standard_normalized": "IS 8130:2013",
+        "is_number": 8130
+      },
+      {
+        "standard": "IS 5831:1984",
+        "title": "PVC Insulation and Sheath of Electric Cables - Specification",
+        "relationship": "normative_reference",
+        "note": "Insulation compound physical and electrical test procedures verifying IS 5831 requirements are drawn from IS 10810.",
+        "confidence": "medium",
+        "standard_normalized": "IS 5831:1984",
+        "is_number": 5831
+      }
+    ],
+    "primary_standard_normalized": "IS 10810:1984",
+    "primary_is_number": 10810,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 3196-1:2013",
+    "product": "Welded LPG Gas Cylinders (>5 Litres)",
+    "allied_standards": [
+      {
+        "standard": "IS 7142:1995",
+        "title": "Welded Low Carbon Steel Cylinders for Low Pressure Liquefiable Gases Not Exceeding 5 Litre Water Capacity - Specification",
+        "relationship": "normative_reference",
+        "note": "Sister specification in the same welded-cylinder family, covering the smaller (<=5 litre) size class of the same LPG cylinder product line.",
+        "confidence": "medium",
+        "standard_normalized": "IS 7142:1995",
+        "is_number": 7142
+      },
+      {
+        "standard": "IS 8737:1995",
+        "title": "Valve Fittings for Use with Liquefied Petroleum Gas (LPG) Cylinders of More Than 5 Litre Water Capacity - Specification",
+        "relationship": "installation_application",
+        "note": "Valve fittings fitted to cylinders made under IS 3196 (Part 1) for larger sizes are specified in IS 8737.",
+        "confidence": "high",
+        "standard_normalized": "IS 8737:1995",
+        "is_number": 8737
+      },
+      {
+        "standard": "IS 4576:1999",
+        "title": "Liquefied Petroleum Gases - Specification",
+        "relationship": "normative_reference",
+        "note": "The LPG product these cylinders are designed to hold is specified by IS 4576, whose composition/pressure characteristics drive the cylinder design basis.",
+        "confidence": "medium",
+        "standard_normalized": "IS 4576:1999",
+        "is_number": 4576
+      }
+    ],
+    "primary_standard_normalized": "IS 3196-1:2013",
+    "primary_is_number": 3196,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 7142:1995",
+    "product": "Welded LPG Gas Cylinders (<=5 Litres)",
+    "allied_standards": [
+      {
+        "standard": "IS 3196-1:2013",
+        "title": "Welded Low Carbon Steel Gas Cylinders Exceeding 5 Litres Water Capacity for Low Pressure Liquefiable Gases, Part 1: Cylinders for Liquefied Petroleum Gas (LPG) - Specification",
+        "relationship": "normative_reference",
+        "note": "Sister specification for the larger (>5 litre) size class of the same welded low-carbon-steel LPG cylinder family.",
+        "confidence": "medium",
+        "standard_normalized": "IS 3196-1:2013",
+        "is_number": 3196
+      },
+      {
+        "standard": "IS 8737:1995",
+        "title": "Valve Fittings for Use with Liquefied Petroleum Gas (LPG) Cylinders of More Than 5 Litre Water Capacity - Specification",
+        "relationship": "installation_application",
+        "note": "Valve fittings for use with these small cylinders are specified in IS 8737.",
+        "confidence": "medium",
+        "standard_normalized": "IS 8737:1995",
+        "is_number": 8737
+      },
+      {
+        "standard": "IS 4576:1999",
+        "title": "Liquefied Petroleum Gases - Specification",
+        "relationship": "normative_reference",
+        "note": "Cylinders are designed to hold LPG meeting the IS 4576 product specification.",
+        "confidence": "medium",
+        "standard_normalized": "IS 4576:1999",
+        "is_number": 4576
+      }
+    ],
+    "primary_standard_normalized": "IS 7142:1995",
+    "primary_is_number": 7142,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 8737:1995",
+    "product": "Valve Fittings for LPG Cylinders (>5 Litres)",
+    "allied_standards": [
+      {
+        "standard": "IS 3196-1:2013",
+        "title": "Welded Low Carbon Steel Gas Cylinders Exceeding 5 Litres Water Capacity for Low Pressure Liquefiable Gases, Part 1: Cylinders for Liquefied Petroleum Gas (LPG) - Specification",
+        "relationship": "installation_application",
+        "note": "IS 8737 specifies the valve fittings mounted on cylinders manufactured under IS 3196 (Part 1).",
+        "confidence": "high",
+        "standard_normalized": "IS 3196-1:2013",
+        "is_number": 3196
+      },
+      {
+        "standard": "IS 7142:1995",
+        "title": "Welded Low Carbon Steel Cylinders for Low Pressure Liquefiable Gases Not Exceeding 5 Litre Water Capacity - Specification",
+        "relationship": "installation_application",
+        "note": "Valve fittings of the same family are also applicable to the smaller welded cylinders of IS 7142.",
+        "confidence": "medium",
+        "standard_normalized": "IS 7142:1995",
+        "is_number": 7142
+      }
+    ],
+    "primary_standard_normalized": "IS 8737:1995",
+    "primary_is_number": 8737,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 9873-1:2019",
+    "product": "Safety of Toys - Mechanical and Physical Properties",
+    "allied_standards": [
+      {
+        "standard": "IS 9873-2:2017",
+        "title": "Safety of Toys, Part 2: Flammability",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same multi-part Safety of Toys standard, covering flammability; both are required together for full toy-safety compliance.",
+        "confidence": "high",
+        "standard_normalized": "IS 9873-2:2017",
+        "is_number": 9873
+      },
+      {
+        "standard": "IS 9873-3:2017",
+        "title": "Safety of Toys, Part 3: Migration of Certain Elements",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same standard, covering migration of certain elements (heavy metals); required together with Part 1 for full compliance.",
+        "confidence": "high",
+        "standard_normalized": "IS 9873-3:2017",
+        "is_number": 9873
+      },
+      {
+        "standard": "IS 15644:2006",
+        "title": "Safety of Electric Toys - Specification",
+        "relationship": "safety",
+        "note": "Toys with electrical elements must additionally satisfy IS 15644's electric-toy safety requirements on top of IS 9873's mechanical/physical requirements.",
+        "confidence": "high",
+        "standard_normalized": "IS 15644:2006",
+        "is_number": 15644
+      }
+    ],
+    "primary_standard_normalized": "IS 9873-1:2019",
+    "primary_is_number": 9873,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 9873-2:2017",
+    "product": "Safety of Toys - Flammability",
+    "allied_standards": [
+      {
+        "standard": "IS 9873-1:2019",
+        "title": "Safety of Toys, Part 1: Safety Aspects Related to Mechanical and Physical Properties",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same multi-part standard covering mechanical and physical safety; both parts apply together.",
+        "confidence": "high",
+        "standard_normalized": "IS 9873-1:2019",
+        "is_number": 9873
+      },
+      {
+        "standard": "IS 9873-3:2017",
+        "title": "Safety of Toys, Part 3: Migration of Certain Elements",
+        "relationship": "normative_reference",
+        "note": "Sibling part covering migration of certain elements; all three parts of IS 9873 are typically demanded together in BIS toy certification.",
+        "confidence": "high",
+        "standard_normalized": "IS 9873-3:2017",
+        "is_number": 9873
+      }
+    ],
+    "primary_standard_normalized": "IS 9873-2:2017",
+    "primary_is_number": 9873,
+    "primary_part": "2"
+  },
+  {
+    "primary_standard": "IS 9873-3:2017",
+    "product": "Safety of Toys - Migration of Certain Elements",
+    "allied_standards": [
+      {
+        "standard": "IS 9873-1:2019",
+        "title": "Safety of Toys, Part 1: Safety Aspects Related to Mechanical and Physical Properties",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same multi-part standard covering mechanical and physical safety.",
+        "confidence": "high",
+        "standard_normalized": "IS 9873-1:2019",
+        "is_number": 9873
+      },
+      {
+        "standard": "IS 9873-2:2017",
+        "title": "Safety of Toys, Part 2: Flammability",
+        "relationship": "normative_reference",
+        "note": "Sibling part covering flammability requirements.",
+        "confidence": "high",
+        "standard_normalized": "IS 9873-2:2017",
+        "is_number": 9873
+      }
+    ],
+    "primary_standard_normalized": "IS 9873-3:2017",
+    "primary_is_number": 9873,
+    "primary_part": "3"
+  },
+  {
+    "primary_standard": "IS 15644:2006",
+    "product": "Safety of Electric Toys",
+    "allied_standards": [
+      {
+        "standard": "IS 9873-1:2019",
+        "title": "Safety of Toys, Part 1: Safety Aspects Related to Mechanical and Physical Properties",
+        "relationship": "safety",
+        "note": "Electric toys must also meet the general mechanical/physical toy-safety requirements of IS 9873 (Part 1) in addition to the electrical safety requirements here.",
+        "confidence": "high",
+        "standard_normalized": "IS 9873-1:2019",
+        "is_number": 9873
+      },
+      {
+        "standard": "IS 9873-3:2017",
+        "title": "Safety of Toys, Part 3: Migration of Certain Elements",
+        "relationship": "safety",
+        "note": "Electric toys are additionally subject to the heavy-metal migration limits of IS 9873 (Part 3).",
+        "confidence": "medium",
+        "standard_normalized": "IS 9873-3:2017",
+        "is_number": 9873
+      }
+    ],
+    "primary_standard_normalized": "IS 15644:2006",
+    "primary_is_number": 15644,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 1417:2016",
+    "product": "Gold and Gold Alloys, Jewellery/Artefacts - Fineness and Marking",
+    "allied_standards": [
+      {
+        "standard": "IS 15820:2009",
+        "title": "Assaying and Hallmarking Centre - Requirements for Recognition",
+        "relationship": "installation_application",
+        "note": "Hallmarking of gold jewellery under IS 1417's fineness/marking scheme is carried out at centres recognised per the requirements of IS 15820.",
+        "confidence": "high",
+        "standard_normalized": "IS 15820:2009",
+        "is_number": 15820
+      },
+      {
+        "standard": "IS 2112:2014",
+        "title": "Silver and Silver Alloy Jewellery/Artefacts - Fineness and Marking",
+        "relationship": "normative_reference",
+        "note": "Companion IS standard applying the same fineness-and-marking scheme structure to silver jewellery/artefacts.",
+        "confidence": "medium",
+        "standard_normalized": "IS 2112:2014",
+        "is_number": 2112
+      }
+    ],
+    "primary_standard_normalized": "IS 1417:2016",
+    "primary_is_number": 1417,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 2112:2014",
+    "product": "Silver and Silver Alloy Jewellery/Artefacts - Fineness and Marking",
+    "allied_standards": [
+      {
+        "standard": "IS 15820:2009",
+        "title": "Assaying and Hallmarking Centre - Requirements for Recognition",
+        "relationship": "installation_application",
+        "note": "Hallmarking of silver articles under IS 2112 is carried out at assaying and hallmarking centres recognised per IS 15820.",
+        "confidence": "high",
+        "standard_normalized": "IS 15820:2009",
+        "is_number": 15820
+      },
+      {
+        "standard": "IS 1417:2016",
+        "title": "Gold and Gold Alloys, Jewellery/Artefacts - Fineness and Marking",
+        "relationship": "normative_reference",
+        "note": "Companion IS standard applying the same fineness-and-marking scheme structure to gold jewellery/artefacts.",
+        "confidence": "medium",
+        "standard_normalized": "IS 1417:2016",
+        "is_number": 1417
+      }
+    ],
+    "primary_standard_normalized": "IS 2112:2014",
+    "primary_is_number": 2112,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 15820:2009",
+    "product": "Assaying and Hallmarking Centre - Requirements for Recognition",
+    "allied_standards": [
+      {
+        "standard": "IS 1417:2016",
+        "title": "Gold and Gold Alloys, Jewellery/Artefacts - Fineness and Marking",
+        "relationship": "normative_reference",
+        "note": "Recognised centres under IS 15820 perform the fineness assaying and hallmarking specified by IS 1417 for gold articles.",
+        "confidence": "high",
+        "standard_normalized": "IS 1417:2016",
+        "is_number": 1417
+      },
+      {
+        "standard": "IS 2112:2014",
+        "title": "Silver and Silver Alloy Jewellery/Artefacts - Fineness and Marking",
+        "relationship": "normative_reference",
+        "note": "Recognised centres under IS 15820 also perform assaying and hallmarking for silver articles per IS 2112.",
+        "confidence": "high",
+        "standard_normalized": "IS 2112:2014",
+        "is_number": 2112
+      }
+    ],
+    "primary_standard_normalized": "IS 15820:2009",
+    "primary_is_number": 15820,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 10500:2012",
+    "product": "Drinking Water - Specification",
+    "allied_standards": [
+      {
+        "standard": "IS 3025-1:1987",
+        "title": "Methods of Sampling and Test (Physical and Chemical) for Water and Wastewater, Part 1: Sampling",
+        "relationship": "test_method",
+        "note": "IS 10500 prescribes acceptance limits for physical/chemical parameters that are measured using the sampling and test methods of IS 3025 (Part 1) and its companion parts.",
+        "confidence": "high",
+        "standard_normalized": "IS 3025-1:1987",
+        "is_number": 3025
+      },
+      {
+        "standard": "IS 14543:2016",
+        "title": "Packaged Drinking Water (Other than Packaged Natural Mineral Water) - Specification",
+        "relationship": "normative_reference",
+        "note": "IS 14543 (packaged drinking water other than mineral water) adopts IS 10500-aligned quality parameters as its base potable-water reference.",
+        "confidence": "medium",
+        "standard_normalized": "IS 14543:2016",
+        "is_number": 14543
+      },
+      {
+        "standard": "IS 13428:2005",
+        "title": "Packaged Natural Mineral Water - Specification",
+        "relationship": "normative_reference",
+        "note": "IS 13428 (packaged natural mineral water) references general drinking-water safety parameters comparable to IS 10500 alongside its mineral-water-specific limits.",
+        "confidence": "medium",
+        "standard_normalized": "IS 13428:2005",
+        "is_number": 13428
+      }
+    ],
+    "primary_standard_normalized": "IS 10500:2012",
+    "primary_is_number": 10500,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 3025",
+    "product": "Tests on Water Samples",
+    "allied_standards": [
+      {
+        "standard": "IS 3025-1:1987",
+        "title": "Methods of Sampling and Test (Physical and Chemical) for Water and Wastewater, Part 1: Sampling",
+        "relationship": "normative_reference",
+        "note": "IS 3025 (Part 1) is the sampling-procedure part of this same multi-part methods-of-test series.",
+        "confidence": "high",
+        "standard_normalized": "IS 3025-1:1987",
+        "is_number": 3025
+      },
+      {
+        "standard": "IS 10500:2012",
+        "title": "Drinking Water — Specification",
+        "relationship": "installation_application",
+        "note": "The IS 3025 series of test methods is the standard means of verifying compliance with IS 10500 drinking-water quality limits.",
+        "confidence": "high",
+        "standard_normalized": "IS 10500:2012",
+        "is_number": 10500
+      }
+    ],
+    "primary_standard_normalized": "IS 3025",
+    "primary_is_number": 3025,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 3025-1:1987",
+    "product": "Water and Wastewater Test Methods - Part 1: Sampling",
+    "allied_standards": [
+      {
+        "standard": "IS 10500:2012",
+        "title": "Drinking Water — Specification",
+        "relationship": "normative_reference",
+        "note": "IS 10500 drinking water specification prescribes sampling and testing under IS 3025 (Part 1) for acceptance testing of water-quality parameters.",
+        "confidence": "high",
+        "standard_normalized": "IS 10500:2012",
+        "is_number": 10500
+      },
+      {
+        "standard": "IS 14543:2016",
+        "title": "Packaged Drinking Water (Other than Packaged Natural Mineral Water) - Specification",
+        "relationship": "normative_reference",
+        "note": "Packaged drinking water quality parameters under IS 14543 are verified by the same IS 3025 sampling and test methods.",
+        "confidence": "medium",
+        "standard_normalized": "IS 14543:2016",
+        "is_number": 14543
+      },
+      {
+        "standard": "IS 13428:2005",
+        "title": "Packaged Natural Mineral Water - Specification",
+        "relationship": "normative_reference",
+        "note": "Packaged natural mineral water quality parameters under IS 13428 are verified by the same IS 3025 sampling and test methods.",
+        "confidence": "medium",
+        "standard_normalized": "IS 13428:2005",
+        "is_number": 13428
+      }
+    ],
+    "primary_standard_normalized": "IS 3025-1:1987",
+    "primary_is_number": 3025,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 14543:2016",
+    "product": "Packaged Drinking Water (Other than Natural Mineral Water)",
+    "allied_standards": [
+      {
+        "standard": "IS 10500:2012",
+        "title": "Drinking Water — Specification",
+        "relationship": "normative_reference",
+        "note": "IS 14543 sets its potable-water quality baseline by reference to IS 10500 drinking-water parameters, with additional packaging/processing requirements.",
+        "confidence": "medium",
+        "standard_normalized": "IS 10500:2012",
+        "is_number": 10500
+      },
+      {
+        "standard": "IS 3025-1:1987",
+        "title": "Methods of Sampling and Test (Physical and Chemical) for Water and Wastewater, Part 1: Sampling",
+        "relationship": "test_method",
+        "note": "Physical and chemical quality parameters are tested using the IS 3025 series of methods.",
+        "confidence": "high",
+        "standard_normalized": "IS 3025-1:1987",
+        "is_number": 3025
+      }
+    ],
+    "primary_standard_normalized": "IS 14543:2016",
+    "primary_is_number": 14543,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 13428:2005",
+    "product": "Packaged Natural Mineral Water",
+    "allied_standards": [
+      {
+        "standard": "IS 10500:2012",
+        "title": "Drinking Water — Specification",
+        "relationship": "normative_reference",
+        "note": "General drinking-water safety parameters comparable to IS 10500 apply alongside IS 13428's mineral-water-specific composition limits.",
+        "confidence": "medium",
+        "standard_normalized": "IS 10500:2012",
+        "is_number": 10500
+      },
+      {
+        "standard": "IS 3025-1:1987",
+        "title": "Methods of Sampling and Test (Physical and Chemical) for Water and Wastewater, Part 1: Sampling",
+        "relationship": "test_method",
+        "note": "Physical and chemical quality parameters are tested using the IS 3025 series of methods.",
+        "confidence": "high",
+        "standard_normalized": "IS 3025-1:1987",
+        "is_number": 3025
+      }
+    ],
+    "primary_standard_normalized": "IS 13428:2005",
+    "primary_is_number": 13428,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 12200",
+    "product": "Code of Practice for Provision of Water Stops",
+    "allied_standards": [
+      {
+        "standard": "IS 456",
+        "title": "Code of Practices for plain and reinforced concrete etc.  – 2000",
+        "relationship": "installation_application",
+        "note": "Water stops under IS 12200 are installed at construction joints in concrete structures designed and built to IS 456.",
+        "confidence": "medium",
+        "standard_normalized": "IS 456",
+        "is_number": 456
+      }
+    ],
+    "primary_standard_normalized": "IS 12200",
+    "primary_is_number": 12200,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 4247-1",
+    "product": "Structural Design of Surface Hydroelectric Power Stations - Design Data",
+    "allied_standards": [
+      {
+        "standard": "IS 456",
+        "title": "Code of Practices for plain and reinforced concrete etc.  – 2000",
+        "relationship": "normative_reference",
+        "note": "Concrete structural elements of the power station are designed per IS 456's plain and reinforced concrete provisions.",
+        "confidence": "medium",
+        "standard_normalized": "IS 456",
+        "is_number": 456
+      },
+      {
+        "standard": "IS 383:2016",
+        "title": "Coarse and Fine Aggregate for Concrete - Specification",
+        "relationship": "normative_reference",
+        "note": "Aggregate for the concrete used in these structures must comply with IS 383.",
+        "confidence": "medium",
+        "standard_normalized": "IS 383:2016",
+        "is_number": 383
+      }
+    ],
+    "primary_standard_normalized": "IS 4247-1",
+    "primary_is_number": 4247,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 2720-2:1973",
+    "product": "Determination of Water Content (Moisture Content) of Soil",
+    "allied_standards": [
+      {
+        "standard": "IS 2720-7:1980",
+        "title": "Determination of water content - dry density relation using light compaction",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same IS 2720 soil-testing series; water content per Part 2 is a prerequisite input for the compaction test of Part 7.",
+        "confidence": "high",
+        "standard_normalized": "IS 2720-7:1980",
+        "is_number": 2720
+      },
+      {
+        "standard": "IS 2720-9:1971",
+        "title": "Determination of water content - dry density relation using constant wt. soil method",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same series using the constant-weight soil method variant for water-content/dry-density relation.",
+        "confidence": "high",
+        "standard_normalized": "IS 2720-9:1971",
+        "is_number": 2720
+      }
+    ],
+    "primary_standard_normalized": "IS 2720-2:1973",
+    "primary_is_number": 2720,
+    "primary_part": "2"
+  },
+  {
+    "primary_standard": "IS 2720-7:1980",
+    "product": "Water Content - Dry Density Relation Using Light Compaction",
+    "allied_standards": [
+      {
+        "standard": "IS 2720-2:1973",
+        "title": "Determination of water content (moisture content)",
+        "relationship": "normative_reference",
+        "note": "Uses the water-content determination method of IS 2720 (Part 2) as an input to the compaction curve.",
+        "confidence": "high",
+        "standard_normalized": "IS 2720-2:1973",
+        "is_number": 2720
+      },
+      {
+        "standard": "IS 2720-8:1983",
+        "title": "Determination of water content - dry density relation using heavy compaction",
+        "relationship": "normative_reference",
+        "note": "Sibling part covering the equivalent relation using heavy (as opposed to light) compaction.",
+        "confidence": "high",
+        "standard_normalized": "IS 2720-8:1983",
+        "is_number": 2720
+      }
+    ],
+    "primary_standard_normalized": "IS 2720-7:1980",
+    "primary_is_number": 2720,
+    "primary_part": "7"
+  },
+  {
+    "primary_standard": "IS 2720-8:1983",
+    "product": "Water Content - Dry Density Relation Using Heavy Compaction",
+    "allied_standards": [
+      {
+        "standard": "IS 2720-7:1980",
+        "title": "Determination of water content - dry density relation using light compaction",
+        "relationship": "normative_reference",
+        "note": "Sibling part covering the equivalent relation using light (as opposed to heavy) compaction.",
+        "confidence": "high",
+        "standard_normalized": "IS 2720-7:1980",
+        "is_number": 2720
+      },
+      {
+        "standard": "IS 2720-2:1973",
+        "title": "Determination of water content (moisture content)",
+        "relationship": "normative_reference",
+        "note": "Uses the water-content determination method of IS 2720 (Part 2) as an input.",
+        "confidence": "high",
+        "standard_normalized": "IS 2720-2:1973",
+        "is_number": 2720
+      }
+    ],
+    "primary_standard_normalized": "IS 2720-8:1983",
+    "primary_is_number": 2720,
+    "primary_part": "8"
+  },
+  {
+    "primary_standard": "IS 2720-9:1971",
+    "product": "Water Content - Dry Density Relation Using Constant Weight Soil Method",
+    "allied_standards": [
+      {
+        "standard": "IS 2720-2:1973",
+        "title": "Determination of water content (moisture content)",
+        "relationship": "normative_reference",
+        "note": "Uses the water-content determination method of IS 2720 (Part 2).",
+        "confidence": "high",
+        "standard_normalized": "IS 2720-2:1973",
+        "is_number": 2720
+      },
+      {
+        "standard": "IS 2720-7:1980",
+        "title": "Determination of water content - dry density relation using light compaction",
+        "relationship": "normative_reference",
+        "note": "Alternative compaction-relation method within the same IS 2720 series.",
+        "confidence": "medium",
+        "standard_normalized": "IS 2720-7:1980",
+        "is_number": 2720
+      }
+    ],
+    "primary_standard_normalized": "IS 2720-9:1971",
+    "primary_is_number": 2720,
+    "primary_part": "9"
+  },
+  {
+    "primary_standard": "IS 13252-1:2010",
+    "product": "Information Technology Equipment - Safety, Part 1",
+    "allied_standards": [
+      {
+        "standard": "IS 616:2017",
+        "title": "Audio, Video and Similar Electronic Apparatus - Safety Requirements",
+        "relationship": "normative_reference",
+        "note": "Both standards share the same IEC-harmonised general safety framework (insulation, temperature, mechanical) applied to different classes of electronic equipment.",
+        "confidence": "medium",
+        "standard_normalized": "IS 616:2017",
+        "is_number": 616
+      },
+      {
+        "standard": "IS 302-1:2008",
+        "title": "Safety of Household and Similar Electrical Appliances, Part 1: General Requirements",
+        "relationship": "normative_reference",
+        "note": "General safety-of-appliances principles (construction, marking, protection against electric shock) parallel those in IS 302 (Part 1) for household appliances.",
+        "confidence": "medium",
+        "standard_normalized": "IS 302-1:2008",
+        "is_number": 302
+      }
+    ],
+    "primary_standard_normalized": "IS 13252-1:2010",
+    "primary_is_number": 13252,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 616:2017",
+    "product": "Audio, Video and Similar Electronic Apparatus - Safety Requirements",
+    "allied_standards": [
+      {
+        "standard": "IS 13252-1:2010",
+        "title": "Information Technology Equipment - Safety, Part 1: General Requirements",
+        "relationship": "normative_reference",
+        "note": "Shares the same IEC-harmonised electronic-equipment safety framework as IS 13252 (Part 1) for IT equipment.",
+        "confidence": "medium",
+        "standard_normalized": "IS 13252-1:2010",
+        "is_number": 13252
+      },
+      {
+        "standard": "IS 9000",
+        "title": "Basic Environmental Testing Procedures for Electronic and Electrical Items",
+        "relationship": "test_method",
+        "note": "Environmental (temperature, humidity, vibration) test procedures for the electronic apparatus are drawn from IS 9000's basic environmental testing methods.",
+        "confidence": "medium",
+        "standard_normalized": "IS 9000",
+        "is_number": 9000
+      }
+    ],
+    "primary_standard_normalized": "IS 616:2017",
+    "primary_is_number": 616,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 16046-2:2018",
+    "product": "Batteries - Safety Requirements for Portable Lithium Cells/Batteries",
+    "allied_standards": [
+      {
+        "standard": "IS 7372:1995",
+        "title": "Lead-Acid Storage Batteries for Motor Vehicles - Specification",
+        "relationship": "normative_reference",
+        "note": "Companion IS battery standard covering a different electrochemistry (lead-acid) and application (automotive) in the same general battery-safety domain.",
+        "confidence": "medium",
+        "standard_normalized": "IS 7372:1995",
+        "is_number": 7372
+      }
+    ],
+    "primary_standard_normalized": "IS 16046-2:2018",
+    "primary_is_number": 16046,
+    "primary_part": "2"
+  },
+  {
+    "primary_standard": "IS 3043:2018",
+    "product": "Code of Practice for Earthing",
+    "allied_standards": [
+      {
+        "standard": "IS 732:1989",
+        "title": "Code of Practice for Electrical Wiring Installations",
+        "relationship": "installation_application",
+        "note": "IS 732's wiring-installation code requires earthing arrangements to be carried out in accordance with IS 3043.",
+        "confidence": "high",
+        "standard_normalized": "IS 732:1989",
+        "is_number": 732
+      },
+      {
+        "standard": "IS 1293:2019",
+        "title": "Plugs and Socket-Outlets for Household and Similar Purposes of Rated Voltage up to and Including 250 V and Rated Current up to and Including 16 A",
+        "relationship": "installation_application",
+        "note": "Socket-outlets and plugs installed under IS 1293 depend on the earthing continuity requirements laid down in IS 3043.",
+        "confidence": "medium",
+        "standard_normalized": "IS 1293:2019",
+        "is_number": 1293
+      }
+    ],
+    "primary_standard_normalized": "IS 3043:2018",
+    "primary_is_number": 3043,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 4146:1983",
+    "product": "Application Guide for Voltage Transformers",
+    "allied_standards": [
+      {
+        "standard": "IS 3156-3",
+        "title": "Voltage transformers, Part 3: Protective voltage transformers",
+        "relationship": "normative_reference",
+        "note": "IS 4146 is the application guide for voltage transformers manufactured to the IS 3156 product series, including the protective voltage transformers of Part 3.",
+        "confidence": "high",
+        "standard_normalized": "IS 3156-3",
+        "is_number": 3156
+      },
+      {
+        "standard": "IS 4201",
+        "title": "Application Guide for Current Transformer",
+        "relationship": "normative_reference",
+        "note": "Companion application guide covering current transformers, following the same structure for the sister instrument-transformer type.",
+        "confidence": "medium",
+        "standard_normalized": "IS 4201",
+        "is_number": 4201
+      }
+    ],
+    "primary_standard_normalized": "IS 4146:1983",
+    "primary_is_number": 4146,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 2099:1986",
+    "product": "Bushings for Alternating Voltages above 1000 V",
+    "allied_standards": [
+      {
+        "standard": "IS 3188",
+        "title": "Characteristics of string insulator units",
+        "relationship": "normative_reference",
+        "note": "Both are high-voltage line-hardware component standards used together on overhead power transmission equipment; bushings and string insulators share dielectric/mechanical test principles.",
+        "confidence": "medium",
+        "standard_normalized": "IS 3188",
+        "is_number": 3188
+      },
+      {
+        "standard": "IS 731:1971",
+        "title": "Porcelain Insulators for Overhead Power Lines with a Nominal Voltage Greater than 1000 V",
+        "relationship": "normative_reference",
+        "note": "Porcelain insulator material and dielectric-strength requirements parallel those specified for bushings.",
+        "confidence": "medium",
+        "standard_normalized": "IS 731:1971",
+        "is_number": 731
+      },
+      {
+        "standard": "IS 8263:1976",
+        "title": "Methods for Radio Interference Tests on High-Voltage Insulators",
+        "relationship": "test_method",
+        "note": "Radio-interference voltage test methods specified for high-voltage insulators are applied analogously to bushings of the same voltage class.",
+        "confidence": "medium",
+        "standard_normalized": "IS 8263:1976",
+        "is_number": 8263
+      }
+    ],
+    "primary_standard_normalized": "IS 2099:1986",
+    "primary_is_number": 2099,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 731:1971",
+    "product": "Porcelain Insulators for Overhead Power Lines (>1000 V)",
+    "allied_standards": [
+      {
+        "standard": "IS 3188",
+        "title": "Characteristics of string insulator units",
+        "relationship": "normative_reference",
+        "note": "String insulator units built from porcelain shells manufactured to IS 731's material and dielectric requirements.",
+        "confidence": "medium",
+        "standard_normalized": "IS 3188",
+        "is_number": 3188
+      },
+      {
+        "standard": "IS 2486-1:1993",
+        "title": "Insulator Fittings for Overhead Power Lines with a Nominal Voltage Greater than 1000 V: Part 1 General Requirements and Tests",
+        "relationship": "installation_application",
+        "note": "Insulator fittings under IS 2486 (Part 1) are used to assemble porcelain insulator units made to IS 731 into working string/pin assemblies.",
+        "confidence": "high",
+        "standard_normalized": "IS 2486-1:1993",
+        "is_number": 2486
+      },
+      {
+        "standard": "IS 8263:1976",
+        "title": "Methods for Radio Interference Tests on High-Voltage Insulators",
+        "relationship": "test_method",
+        "note": "Radio interference (corona) test methods for these high-voltage insulators are specified in IS 8263.",
+        "confidence": "high",
+        "standard_normalized": "IS 8263:1976",
+        "is_number": 8263
+      }
+    ],
+    "primary_standard_normalized": "IS 731:1971",
+    "primary_is_number": 731,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 2016:1967",
+    "product": "Plain Washers - Specification",
+    "allied_standards": [
+      {
+        "standard": "IS 4218-1:2001",
+        "title": "ISO General Purpose Metric Screw Threads, Part 1: Basic and Design Profiles",
+        "relationship": "normative_reference",
+        "note": "Washer bore/thread-clearance sizing is coordinated with the ISO metric screw thread basic profile of IS 4218 (Part 1).",
+        "confidence": "medium",
+        "standard_normalized": "IS 4218-1:2001",
+        "is_number": 4218
+      },
+      {
+        "standard": "IS 1364-3",
+        "title": "Hexagon Head Bolts, Screws and Nuts of Product Grades A and B, Part 3: Hexagon Nuts, Style 1 (Size Range M 1.6 to M 64)",
+        "relationship": "installation_application",
+        "note": "Plain washers under IS 2016 are commonly assembled together with hexagon nuts made to IS 1364 (Part 3) in bolted joints.",
+        "confidence": "medium",
+        "standard_normalized": "IS 1364-3",
+        "is_number": 1364
+      },
+      {
+        "standard": "IS 3063",
+        "title": "Fasteners - Single coil rectangular section spring lock washers",
+        "relationship": "normative_reference",
+        "note": "Companion fastener-accessory standard for spring lock washers, sized to the same metric bolt/screw series as IS 2016 plain washers.",
+        "confidence": "medium",
+        "standard_normalized": "IS 3063",
+        "is_number": 3063
+      }
+    ],
+    "primary_standard_normalized": "IS 2016:1967",
+    "primary_is_number": 2016,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 4218-1:2001",
+    "product": "ISO General Purpose Metric Screw Threads - Part 1",
+    "allied_standards": [
+      {
+        "standard": "IS 1364-3",
+        "title": "Hexagon Head Bolts, Screws and Nuts of Product Grades A and B, Part 3: Hexagon Nuts, Style 1 (Size Range M 1.6 to M 64)",
+        "relationship": "normative_reference",
+        "note": "Hexagon nuts made to IS 1364 (Part 3) are threaded to the basic and design profiles defined in IS 4218 (Part 1).",
+        "confidence": "high",
+        "standard_normalized": "IS 1364-3",
+        "is_number": 1364
+      },
+      {
+        "standard": "IS 2016:1967",
+        "title": "Plain Washers - Specification",
+        "relationship": "normative_reference",
+        "note": "Plain washer bore sizing is coordinated with the metric thread series defined here.",
+        "confidence": "medium",
+        "standard_normalized": "IS 2016:1967",
+        "is_number": 2016
+      }
+    ],
+    "primary_standard_normalized": "IS 4218-1:2001",
+    "primary_is_number": 4218,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 3746:2018",
+    "product": "Graphical Symbols for Coal Preparation Plant",
+    "allied_standards": [
+      {
+        "standard": "IS 3810",
+        "title": "Glossary Of Terms Relating To Solid Mineral Fuels Part 3- Coke",
+        "relationship": "normative_reference",
+        "note": "Shares its underlying solid-mineral-fuel (coal/coke) terminology base with the glossary of terms in IS 3810.",
+        "confidence": "medium",
+        "standard_normalized": "IS 3810",
+        "is_number": 3810
+      }
+    ],
+    "primary_standard_normalized": "IS 3746:2018",
+    "primary_is_number": 3746,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 2720-29:1975",
+    "product": "Dry Density of Soils by the Core-Cutter Method",
+    "allied_standards": [
+      {
+        "standard": "IS 13468",
+        "title": "Apparatus for determination of dry density of soil by core cutter method-",
+        "relationship": "normative_reference",
+        "note": "IS 13468 specifies the apparatus (core cutter) whose use is prescribed by the test procedure in IS 2720 (Part 29).",
+        "confidence": "high",
+        "standard_normalized": "IS 13468",
+        "is_number": 13468
+      },
+      {
+        "standard": "IS 2720-11:1971",
+        "title": "Determination of shear strength parameters(tri-axial) with out measurement of pore pressure parameters(Tri-axial compaction)",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same IS 2720 series, covering shear-strength (tri-axial) determination on the same class of soil samples.",
+        "confidence": "medium",
+        "standard_normalized": "IS 2720-11:1971",
+        "is_number": 2720
+      }
+    ],
+    "primary_standard_normalized": "IS 2720-29:1975",
+    "primary_is_number": 2720,
+    "primary_part": "29"
+  },
+  {
+    "primary_standard": "IS 2720-11:1971",
+    "product": "Shear Strength Parameters (Tri-axial, Unconsolidated) of Soil",
+    "allied_standards": [
+      {
+        "standard": "IS 2720-29:1975",
+        "title": "Determination of dry density of soils, in place by the core-cutter method",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same IS 2720 soil-testing series, covering in-place dry density by the core-cutter method.",
+        "confidence": "medium",
+        "standard_normalized": "IS 2720-29:1975",
+        "is_number": 2720
+      }
+    ],
+    "primary_standard_normalized": "IS 2720-11:1971",
+    "primary_is_number": 2720,
+    "primary_part": "11"
+  },
+  {
+    "primary_standard": "IS 302-1:2008",
+    "product": "Safety of Household and Similar Electrical Appliances - Part 1: General Requirements",
+    "allied_standards": [
+      {
+        "standard": "IS 302-2-3",
+        "title": "Safety of household and similar electrical appliances, Part 2: Particular requirements, Section 3: Electric iron",
+        "relationship": "normative_reference",
+        "note": "IS 302 (Part 1) is the general-requirements standard; particular appliance requirements for electric irons are given in IS 302 (Part 2, Section 3), applied together with Part 1.",
+        "confidence": "high",
+        "standard_normalized": "IS 302-2-3",
+        "is_number": 302
+      },
+      {
+        "standard": "IS 302-2-32",
+        "title": "Safety of household and similar electrical appliances, Part 2: Particular requirements: Section 32 Massage appliances",
+        "relationship": "normative_reference",
+        "note": "Particular requirements for massage appliances (IS 302 Part 2, Section 32) apply together with the general requirements of Part 1.",
+        "confidence": "high",
+        "standard_normalized": "IS 302-2-32",
+        "is_number": 302
+      }
+    ],
+    "primary_standard_normalized": "IS 302-1:2008",
+    "primary_is_number": 302,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 1608-1:2018",
+    "product": "Metallic Materials - Tensile Testing, Part 1",
+    "allied_standards": [
+      {
+        "standard": "IS 1786",
+        "title": "Specifications for HYSD bars.  – 1985",
+        "relationship": "normative_reference",
+        "note": "IS 1786's Clause 8.1 mandates tensile testing per IS 1608 for determining yield strength, tensile strength and elongation of TMT rebar; Part 1 is the current room-temperature edition.",
+        "confidence": "high",
+        "standard_normalized": "IS 1786",
+        "is_number": 1786
+      },
+      {
+        "standard": "IS 1599:2012",
+        "title": "Metallic Materials — Bend Test",
+        "relationship": "normative_reference",
+        "note": "Companion mechanical test-method standard for bend/rebend ductility testing, referenced alongside IS 1608 in steel product specifications such as IS 1786.",
+        "confidence": "high",
+        "standard_normalized": "IS 1599:2012",
+        "is_number": 1599
+      },
+      {
+        "standard": "IS 228",
+        "title": "Methods for Chemical Analysis of Steels (Relevant Parts)",
+        "relationship": "normative_reference",
+        "note": "Companion chemical-analysis test-method standard referenced alongside IS 1608 for full mechanical + chemical verification of steel products.",
+        "confidence": "high",
+        "standard_normalized": "IS 228",
+        "is_number": 228
+      }
+    ],
+    "primary_standard_normalized": "IS 1608-1:2018",
+    "primary_is_number": 1608,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 3741-1",
+    "product": "Medical Instruments - Sedimentation Tubes, Part 1: Westergren Tube",
+    "allied_standards": [
+      {
+        "standard": "IS 6527:1995",
+        "title": "Stainless Steel Surgical Instruments - General Requirements",
+        "relationship": "normative_reference",
+        "note": "General material, finish and dimensional requirements for stainless steel surgical/medical instruments, which specific-instrument standards such as IS 3741 draw on.",
+        "confidence": "medium",
+        "standard_normalized": "IS 6527:1995",
+        "is_number": 6527
+      }
+    ],
+    "primary_standard_normalized": "IS 3741-1",
+    "primary_is_number": 3741,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 4281",
+    "product": "Scissors, McIndoe's, for Plastic Surgery",
+    "allied_standards": [
+      {
+        "standard": "IS 6527:1995",
+        "title": "Stainless Steel Surgical Instruments - General Requirements",
+        "relationship": "normative_reference",
+        "note": "General stainless-steel surgical-instrument material and quality requirements apply to these scissors.",
+        "confidence": "medium",
+        "standard_normalized": "IS 6527:1995",
+        "is_number": 6527
+      },
+      {
+        "standard": "IS 7531:1990",
+        "title": "Methods of Testing for Corrosion Resistance of Stainless Steel Surgical Instruments",
+        "relationship": "test_method",
+        "note": "Corrosion resistance of the stainless steel instrument is verified using the methods of IS 7531.",
+        "confidence": "medium",
+        "standard_normalized": "IS 7531:1990",
+        "is_number": 7531
+      }
+    ],
+    "primary_standard_normalized": "IS 4281",
+    "primary_is_number": 4281,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 4319-1",
+    "product": "Dental Pliers, Stretching and Contouring, Part 1",
+    "allied_standards": [
+      {
+        "standard": "IS 6527:1995",
+        "title": "Stainless Steel Surgical Instruments - General Requirements",
+        "relationship": "normative_reference",
+        "note": "General stainless-steel surgical/dental-instrument material and quality requirements apply.",
+        "confidence": "medium",
+        "standard_normalized": "IS 6527:1995",
+        "is_number": 6527
+      },
+      {
+        "standard": "IS 7531:1990",
+        "title": "Methods of Testing for Corrosion Resistance of Stainless Steel Surgical Instruments",
+        "relationship": "test_method",
+        "note": "Corrosion resistance is verified using the methods of IS 7531.",
+        "confidence": "medium",
+        "standard_normalized": "IS 7531:1990",
+        "is_number": 7531
+      }
+    ],
+    "primary_standard_normalized": "IS 4319-1",
+    "primary_is_number": 4319,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 4007-2-1",
+    "product": "Terminals for Electronic Equipment, Part 2, Section 1",
+    "allied_standards": [
+      {
+        "standard": "IS 4007-2-2",
+        "title": "Terminals for electronic equipment, Part 2: Details specification for terminals, Section 2: Terminal non-insulated, with insulated captive screw cap, type TSC 2",
+        "relationship": "normative_reference",
+        "note": "Sibling section of the same multi-part/section IS 4007 terminal standard.",
+        "confidence": "high",
+        "standard_normalized": "IS 4007-2-2",
+        "is_number": 4007
+      },
+      {
+        "standard": "IS 4007-2-3",
+        "title": "Terminals for Electronic Equipment, Part 2: Detail Terminals, Section 3: Terminal, Non-insulated, with Insulated Captive Screw cap, Type TSC 3",
+        "relationship": "normative_reference",
+        "note": "Sibling section of the same multi-part/section IS 4007 terminal standard.",
+        "confidence": "high",
+        "standard_normalized": "IS 4007-2-3",
+        "is_number": 4007
+      }
+    ],
+    "primary_standard_normalized": "IS 4007-2-1",
+    "primary_is_number": 4007,
+    "primary_part": "2-1"
+  },
+  {
+    "primary_standard": "IS 334",
+    "product": "Glossary of Terms Relating to Bitumen and Tar",
+    "allied_standards": [
+      {
+        "standard": "IS 1205:1978",
+        "title": "Methods for Testing Tar and Bituminous Materials: Determination of Softening Point",
+        "relationship": "normative_reference",
+        "note": "Test-method standard for softening point of tar/bituminous materials, using terminology defined in IS 334.",
+        "confidence": "medium",
+        "standard_normalized": "IS 1205:1978",
+        "is_number": 1205
+      },
+      {
+        "standard": "IS 1217:1978",
+        "title": "Methods for Testing Tar and Bituminous Materials: Determination of Mineral Matter (Ash)",
+        "relationship": "normative_reference",
+        "note": "Test-method standard for mineral matter content of tar/bituminous materials, using terminology defined in IS 334.",
+        "confidence": "medium",
+        "standard_normalized": "IS 1217:1978",
+        "is_number": 1217
+      },
+      {
+        "standard": "IS 216",
+        "title": "Coal tar pitch",
+        "relationship": "normative_reference",
+        "note": "IS 216 (coal tar pitch) is a specific bituminous-material specification that relies on the terminology defined in IS 334.",
+        "confidence": "medium",
+        "standard_normalized": "IS 216",
+        "is_number": 216
+      }
+    ],
+    "primary_standard_normalized": "IS 334",
+    "primary_is_number": 334,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 2386-6:1963",
+    "product": "Aggregate Test Methods - Mortar-Making Properties of Fine Aggregate",
+    "allied_standards": [
+      {
+        "standard": "IS 383:2016",
+        "title": "Coarse and Fine Aggregate for Concrete - Specification",
+        "relationship": "normative_reference",
+        "note": "IS 2386 (Part 6) is one of the numbered test-method parts normatively referenced by the aggregate product specification IS 383.",
+        "confidence": "high",
+        "standard_normalized": "IS 383:2016",
+        "is_number": 383
+      },
+      {
+        "standard": "IS 2386-1:1963",
+        "title": "Methods of test for aggregate for concrete particle size and shape",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same multi-part IS 2386 aggregate test-methods series.",
+        "confidence": "high",
+        "standard_normalized": "IS 2386-1:1963",
+        "is_number": 2386
+      }
+    ],
+    "primary_standard_normalized": "IS 2386-6:1963",
+    "primary_is_number": 2386,
+    "primary_part": "6"
+  },
+  {
+    "primary_standard": "IS 2386-7:1963",
+    "product": "Aggregate Test Methods - Alkali-Aggregate Reactivity",
+    "allied_standards": [
+      {
+        "standard": "IS 383:2016",
+        "title": "Coarse and Fine Aggregate for Concrete - Specification",
+        "relationship": "normative_reference",
+        "note": "IS 2386 (Part 7) is one of the numbered test-method parts normatively referenced by the aggregate product specification IS 383.",
+        "confidence": "high",
+        "standard_normalized": "IS 383:2016",
+        "is_number": 383
+      },
+      {
+        "standard": "IS 2386-1:1963",
+        "title": "Methods of test for aggregate for concrete particle size and shape",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same multi-part IS 2386 aggregate test-methods series.",
+        "confidence": "high",
+        "standard_normalized": "IS 2386-1:1963",
+        "is_number": 2386
+      }
+    ],
+    "primary_standard_normalized": "IS 2386-7:1963",
+    "primary_is_number": 2386,
+    "primary_part": "7"
+  },
+  {
+    "primary_standard": "IS 2386-8:1963",
+    "product": "Aggregate Test Methods - Petrographic Examination",
+    "allied_standards": [
+      {
+        "standard": "IS 383:2016",
+        "title": "Coarse and Fine Aggregate for Concrete - Specification",
+        "relationship": "normative_reference",
+        "note": "IS 2386 (Part 8) is one of the numbered test-method parts normatively referenced by the aggregate product specification IS 383.",
+        "confidence": "high",
+        "standard_normalized": "IS 383:2016",
+        "is_number": 383
+      },
+      {
+        "standard": "IS 2386-1:1963",
+        "title": "Methods of test for aggregate for concrete particle size and shape",
+        "relationship": "normative_reference",
+        "note": "Sibling part of the same multi-part IS 2386 aggregate test-methods series.",
+        "confidence": "high",
+        "standard_normalized": "IS 2386-1:1963",
+        "is_number": 2386
+      }
+    ],
+    "primary_standard_normalized": "IS 2386-8:1963",
+    "primary_is_number": 2386,
+    "primary_part": "8"
+  },
+  {
+    "primary_standard": "IS 3495-1",
+    "product": "Burnt Clay Building Bricks - Test Methods, Part 1: Compressive Strength",
+    "allied_standards": [
+      {
+        "standard": "IS 1077:1992",
+        "title": "Common burnt clay building bricks",
+        "relationship": "normative_reference",
+        "note": "IS 3495 (Part 1) is the compressive-strength test method normatively referenced by the common burnt clay building brick specification IS 1077.",
+        "confidence": "high",
+        "standard_normalized": "IS 1077:1992",
+        "is_number": 1077
+      },
+      {
+        "standard": "IS 5454:1978",
+        "title": "Method of sampling of clay building bricks",
+        "relationship": "normative_reference",
+        "note": "Companion standard for sampling clay building bricks prior to testing under IS 3495.",
+        "confidence": "high",
+        "standard_normalized": "IS 5454:1978",
+        "is_number": 5454
+      }
+    ],
+    "primary_standard_normalized": "IS 3495-1",
+    "primary_is_number": 3495,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 9973:1981",
+    "product": "Visors for Vehicular Helmets",
+    "allied_standards": [
+      {
+        "standard": "IS 4151",
+        "title": "Specification for protective helmets for scooter and motorcycle riders",
+        "relationship": "safety",
+        "note": "Visors tested under IS 9973 are fitted to protective helmets for two-wheeler riders manufactured to IS 4151.",
+        "confidence": "high",
+        "standard_normalized": "IS 4151",
+        "is_number": 4151
+      },
+      {
+        "standard": "IS 2925",
+        "title": "Specification for Industrial Safety Helmets(Bi-Lingual)",
+        "relationship": "normative_reference",
+        "note": "Shares the same wooden-headform test-apparatus basis (IS 7692) and general protective-headgear domain as industrial safety helmets under IS 2925.",
+        "confidence": "medium",
+        "standard_normalized": "IS 2925",
+        "is_number": 2925
+      }
+    ],
+    "primary_standard_normalized": "IS 9973:1981",
+    "primary_is_number": 9973,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 1964:2001",
+    "product": "Fabrics - Mass Per Unit Length and Area",
+    "allied_standards": [
+      {
+        "standard": "IS 1969-1:2009",
+        "title": "Tensile Properties of Fabrics — Determination of Maximum Force and Elongation at Maximum Force: Part 1 Strip Method",
+        "relationship": "normative_reference",
+        "note": "Commonly specified together with IS 1969 (Part 1) tensile-property determination as part of the same fabric-quality test battery.",
+        "confidence": "medium",
+        "standard_normalized": "IS 1969-1:2009",
+        "is_number": 1969
+      },
+      {
+        "standard": "IS 1390:1983",
+        "title": "Methods for Determination of pH Value of Aqueous Extracts of Textile Materials",
+        "relationship": "normative_reference",
+        "note": "Commonly specified together with IS 1390 pH-value determination in textile material quality specifications.",
+        "confidence": "medium",
+        "standard_normalized": "IS 1390:1983",
+        "is_number": 1390
+      }
+    ],
+    "primary_standard_normalized": "IS 1964:2001",
+    "primary_is_number": 1964,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 101",
+    "product": "Methods of Sampling and Test for Paints, Varnishes and Related Products",
+    "allied_standards": [
+      {
+        "standard": "IS 427:2013",
+        "title": "Distemper, Dry, Colour as Required - Specification",
+        "relationship": "test_method",
+        "note": "IS 101 supplies the general sampling and test methods (drying time, fineness of grind, consistency) used to verify distemper products specified in IS 427.",
+        "confidence": "high",
+        "standard_normalized": "IS 427:2013",
+        "is_number": 427
+      },
+      {
+        "standard": "IS 2932",
+        "title": "specifications for synthetic enamel paint for structural steel",
+        "relationship": "test_method",
+        "note": "IS 101 supplies the general paint test methods used to verify synthetic enamel paint for structural steel specified in IS 2932.",
+        "confidence": "high",
+        "standard_normalized": "IS 2932",
+        "is_number": 2932
+      }
+    ],
+    "primary_standard_normalized": "IS 101",
+    "primary_is_number": 101,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 2062:2011",
+    "product": "Hot Rolled Medium and High Tensile Structural Steel",
+    "allied_standards": [
+      {
+        "standard": "IS 1852:1985",
+        "title": "Rolling and Cutting Tolerances for Hot Rolled Steel Products",
+        "relationship": "normative_reference",
+        "note": "Rolling and cutting dimensional tolerances for hot-rolled steel products made to IS 2062 are governed by IS 1852.",
+        "confidence": "high",
+        "standard_normalized": "IS 1852:1985",
+        "is_number": 1852
+      },
+      {
+        "standard": "IS 800:2007",
+        "title": "General Construction in Steel - Code of Practice",
+        "relationship": "installation_application",
+        "note": "IS 800, the general steel construction code, specifies structural design use of steel grades manufactured to IS 2062.",
+        "confidence": "high",
+        "standard_normalized": "IS 800:2007",
+        "is_number": 800
+      },
+      {
+        "standard": "IS 1608",
+        "title": "Method for Tensile testing of Steel products  – 1972",
+        "relationship": "test_method",
+        "note": "Mechanical (tensile) properties of IS 2062 steel are verified using the test method of IS 1608.",
+        "confidence": "high",
+        "standard_normalized": "IS 1608",
+        "is_number": 1608
+      }
+    ],
+    "primary_standard_normalized": "IS 2062:2011",
+    "primary_is_number": 2062,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 800:2007",
+    "product": "General Construction in Steel - Code of Practice",
+    "allied_standards": [
+      {
+        "standard": "IS 2062:2011",
+        "title": "Hot Rolled Medium and High Tensile Structural Steel - Specification",
+        "relationship": "normative_reference",
+        "note": "IS 800 design provisions for structural steel members rely on material grades specified in IS 2062.",
+        "confidence": "high",
+        "standard_normalized": "IS 2062:2011",
+        "is_number": 2062
+      },
+      {
+        "standard": "IS 1852:1985",
+        "title": "Rolling and Cutting Tolerances for Hot Rolled Steel Products",
+        "relationship": "normative_reference",
+        "note": "Dimensional tolerances of the hot-rolled sections used in IS 800 design are governed by IS 1852.",
+        "confidence": "medium",
+        "standard_normalized": "IS 1852:1985",
+        "is_number": 1852
+      },
+      {
+        "standard": "IS 12778",
+        "title": "Hot Rolled Parallel Flange Steel Sections for Beams, Columns and Bearing Piles - Dimensions and Section Properties",
+        "relationship": "normative_reference",
+        "note": "IS 800 design of beams and columns uses parallel-flange steel sections dimensioned per IS 12778.",
+        "confidence": "high",
+        "standard_normalized": "IS 12778",
+        "is_number": 12778
+      }
+    ],
+    "primary_standard_normalized": "IS 800:2007",
+    "primary_is_number": 800,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 1852:1985",
+    "product": "Rolling and Cutting Tolerances for Hot Rolled Steel Products",
+    "allied_standards": [
+      {
+        "standard": "IS 2062:2011",
+        "title": "Hot Rolled Medium and High Tensile Structural Steel - Specification",
+        "relationship": "normative_reference",
+        "note": "Sets the dimensional tolerances applicable to hot rolled structural steel manufactured to IS 2062.",
+        "confidence": "high",
+        "standard_normalized": "IS 2062:2011",
+        "is_number": 2062
+      },
+      {
+        "standard": "IS 800:2007",
+        "title": "General Construction in Steel - Code of Practice",
+        "relationship": "installation_application",
+        "note": "These tolerances are relied on by the structural design provisions of IS 800.",
+        "confidence": "medium",
+        "standard_normalized": "IS 800:2007",
+        "is_number": 800
+      }
+    ],
+    "primary_standard_normalized": "IS 1852:1985",
+    "primary_is_number": 1852,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 516:1959",
+    "product": "Compressive Strength and Flexural Strength Test Methods for Concrete",
+    "allied_standards": [
+      {
+        "standard": "IS 456",
+        "title": "Code of Practices for plain and reinforced concrete etc.  – 2000",
+        "relationship": "normative_reference",
+        "note": "IS 516 supplies the compressive/flexural strength test methods that IS 456 relies on for concrete acceptance testing.",
+        "confidence": "high",
+        "standard_normalized": "IS 456",
+        "is_number": 456
+      },
+      {
+        "standard": "IS 1199",
+        "title": "Methods of sampling and analysis of concrete  – 1959",
+        "relationship": "normative_reference",
+        "note": "Companion standard for sampling and analysis of fresh concrete prior to strength testing under IS 516.",
+        "confidence": "high",
+        "standard_normalized": "IS 1199",
+        "is_number": 1199
+      }
+    ],
+    "primary_standard_normalized": "IS 516:1959",
+    "primary_is_number": 516,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 1199",
+    "product": "Methods of Sampling and Analysis of Concrete",
+    "allied_standards": [
+      {
+        "standard": "IS 456",
+        "title": "Code of Practices for plain and reinforced concrete etc.  – 2000",
+        "relationship": "normative_reference",
+        "note": "IS 1199 sampling procedures feed into the concrete acceptance-testing regime specified by IS 456.",
+        "confidence": "high",
+        "standard_normalized": "IS 456",
+        "is_number": 456
+      },
+      {
+        "standard": "IS 516",
+        "title": "Specification for compressive strength , flexural strength",
+        "relationship": "normative_reference",
+        "note": "Concrete samples taken per IS 1199 are tested for strength using the methods of IS 516.",
+        "confidence": "high",
+        "standard_normalized": "IS 516",
+        "is_number": 516
+      }
+    ],
+    "primary_standard_normalized": "IS 1199",
+    "primary_is_number": 1199,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 10322-1:2014",
+    "product": "Luminaires (Light Fittings) - General Safety",
+    "allied_standards": [
+      {
+        "standard": "IS 10322-2:1982",
+        "title": "Luminaires, Part 2: Constructional Requirements",
+        "relationship": "normative_reference",
+        "note": "Part 2 of the same multi-part luminaire standard specifies constructional requirements (creepage/clearance, earthing provision, mechanical strength) that Part 1's general safety clauses require the same luminaire to meet.",
+        "confidence": "high",
+        "standard_normalized": "IS 10322-2:1982",
+        "is_number": 10322
+      },
+      {
+        "standard": "IS 10322-3:1984",
+        "title": "Luminaires, Part 3: Screw and Screwless Terminals (Superseding IS 6585)",
+        "relationship": "normative_reference",
+        "note": "Part 3 of the same multi-part standard specifies screw and screwless terminal requirements for luminaire wiring connections, referenced wherever Part 1 requires the terminal block to be assessed.",
+        "confidence": "high",
+        "standard_normalized": "IS 10322-3:1984",
+        "is_number": 10322
+      },
+      {
+        "standard": "IS 10322-4:1984",
+        "title": "Luminaires, Part 4: Methods of Tests",
+        "relationship": "test_method",
+        "note": "Part 4 is the dedicated methods-of-test part of the same multi-part luminaire standard, prescribing the test procedures used to verify compliance with Part 1's general requirements.",
+        "confidence": "high",
+        "standard_normalized": "IS 10322-4:1984",
+        "is_number": 10322
+      },
+      {
+        "standard": "IS 16102-1:2012",
+        "title": "Self - Ballasted LED Lamps for General Lighting Services, Part 1: Safety Requirements",
+        "relationship": "normative_reference",
+        "note": "Where a luminaire under IS 10322 is fitted with an integrated or replaceable self-ballasted LED lamp, the lamp itself must separately meet IS 16102-1's safety requirements.",
+        "confidence": "medium",
+        "standard_normalized": "IS 16102-1:2012",
+        "is_number": 16102
+      },
+      {
+        "standard": "IS 1944-6:1981",
+        "title": "Code of practice for lighting of public thoroughfare, Part 6: Lighting for towns and city centres and areas of civic importance (Group E)",
+        "relationship": "installation_application",
+        "note": "Code of practice for lighting of public thoroughfares governs how luminaires meeting IS 10322 are selected and installed for street lighting.",
+        "confidence": "medium",
+        "standard_normalized": "IS 1944-6:1981",
+        "is_number": 1944
+      },
+      {
+        "standard": "IS 3646-1:1992",
+        "title": "Code of practice for interior illumination, Part 1: General requirements and recommendations for welding interiors",
+        "relationship": "installation_application",
+        "note": "Code of practice for interior illumination governs how luminaires meeting IS 10322 are selected and applied for indoor lighting design.",
+        "confidence": "medium",
+        "standard_normalized": "IS 3646-1:1992",
+        "is_number": 3646
+      }
+    ],
+    "primary_standard_normalized": "IS 10322-1:2014",
+    "primary_is_number": 10322,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 16102-1:2012",
+    "product": "Self-Ballasted LED Lamps for General Lighting Service",
+    "allied_standards": [
+      {
+        "standard": "IS 16102-2:2017",
+        "title": "Part 2 : 2017: Self - Ballasted LED Lamps for General Lighting Services Part 2 Performance Requirements (First Revision)",
+        "relationship": "normative_reference",
+        "note": "Companion part of the same multi-part LED lamp standard -- Part 1 covers safety requirements, Part 2 covers performance requirements (luminous efficacy, lumen maintenance, colour); a compliant lamp must meet both.",
+        "confidence": "high",
+        "standard_normalized": "IS 16102-2:2017",
+        "is_number": 16102
+      }
+    ],
+    "primary_standard_normalized": "IS 16102-1:2012",
+    "primary_is_number": 16102,
+    "primary_part": "1"
+  },
+  {
+    "primary_standard": "IS 2190:2010",
+    "product": "Portable Fire Extinguishers - Selection, Installation and Maintenance",
+    "allied_standards": [
+      {
+        "standard": "IS 15683:2018",
+        "title": "Portable Fire Extinguishers — Performance and Construction — Specification ( First Revision )",
+        "relationship": "normative_reference",
+        "note": "IS 2190 is the code of practice for selecting, installing and maintaining portable fire extinguishers; it requires the extinguisher units themselves to comply with IS 15683's performance and construction specification.",
+        "confidence": "high",
+        "standard_normalized": "IS 15683:2018",
+        "is_number": 15683
+      }
+    ],
+    "primary_standard_normalized": "IS 2190:2010",
+    "primary_is_number": 2190,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 9798:2013",
+    "product": "Low Pressure Regulators for LPG",
+    "allied_standards": [
+      {
+        "standard": "IS 8737:1995",
+        "title": "Valve Fittings for Use with Liquefied Petroleum Gas (LPG) Cylinders of More Than 5 Litre Water Capacity - Specification",
+        "relationship": "normative_reference",
+        "note": "The regulator specified in IS 9798 connects to the LPG cylinder via the valve fitting specified in IS 8737 -- both are companion accessory specifications within the same LPG cylinder-and-fittings system.",
+        "confidence": "medium",
+        "standard_normalized": "IS 8737:1995",
+        "is_number": 8737
+      },
+      {
+        "standard": "IS 4576:1999",
+        "title": "Liquefied Petroleum Gases - Specification",
+        "relationship": "normative_reference",
+        "note": "IS 9798 regulators are designed for use with liquefied petroleum gas meeting the composition and quality specification in IS 4576.",
+        "confidence": "medium",
+        "standard_normalized": "IS 4576:1999",
+        "is_number": 4576
+      },
+      {
+        "standard": "IS 3196-1:2013",
+        "title": "Welded Low Carbon Steel Gas Cylinders Exceeding 5 Litres Water Capacity for Low Pressure Liquefiable Gases, Part 1: Cylinders for Liquefied Petroleum Gas (LPG) - Specification",
+        "relationship": "installation_application",
+        "note": "IS 9798 regulators are fitted to LPG cylinders manufactured to IS 3196 as part of the complete cylinder-and-accessories assembly.",
+        "confidence": "medium",
+        "standard_normalized": "IS 3196-1:2013",
+        "is_number": 3196
+      }
+    ],
+    "primary_standard_normalized": "IS 9798:2013",
+    "primary_is_number": 9798,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 4926:2003",
+    "product": "Ready-Mixed Concrete - Code of Practice",
+    "allied_standards": [
+      {
+        "standard": "IS 456",
+        "title": "Code of Practices for plain and reinforced concrete etc.  – 2000",
+        "relationship": "normative_reference",
+        "note": "IS 4926 requires ready-mixed concrete to be designed and used in structural work in conformity with IS 456's code of practice for plain and reinforced concrete.",
+        "confidence": "high",
+        "standard_normalized": "IS 456",
+        "is_number": 456
+      },
+      {
+        "standard": "IS 269 - 2015",
+        "title": "Specification for 33,43,53 Grade ordinary Portland cement",
+        "relationship": "normative_reference",
+        "note": "The ordinary Portland cement used in ready-mixed concrete batches must conform to IS 269's cement specification.",
+        "confidence": "high",
+        "standard_normalized": "IS 269:2015",
+        "is_number": 269
+      },
+      {
+        "standard": "IS 383:2016",
+        "title": "Coarse and Fine Aggregate for Concrete - Specification",
+        "relationship": "normative_reference",
+        "note": "The coarse and fine aggregates used in ready-mixed concrete batching must conform to IS 383's aggregate specification.",
+        "confidence": "high",
+        "standard_normalized": "IS 383:2016",
+        "is_number": 383
+      },
+      {
+        "standard": "IS 10262",
+        "title": "Recommended Guide Lines for Concrete Mix Design  – 1982",
+        "relationship": "normative_reference",
+        "note": "Concrete mix proportioning for ready-mixed concrete follows the mix-design guidelines set out in IS 10262.",
+        "confidence": "high",
+        "standard_normalized": "IS 10262",
+        "is_number": 10262
+      },
+      {
+        "standard": "IS 1199",
+        "title": "Methods of sampling and analysis of concrete  – 1959",
+        "relationship": "test_method",
+        "note": "Sampling and analysis of the ready-mixed concrete produced at the plant/site is carried out per the methods in IS 1199.",
+        "confidence": "high",
+        "standard_normalized": "IS 1199",
+        "is_number": 1199
+      }
+    ],
+    "primary_standard_normalized": "IS 4926:2003",
+    "primary_is_number": 4926,
+    "primary_part": null
+  },
+  {
+    "primary_standard": "IS 12592:2002",
+    "product": "Precast Concrete Manhole Cover and Frame",
+    "allied_standards": [
+      {
+        "standard": "IS 456",
+        "title": "Code of Practices for plain and reinforced concrete etc.  – 2000",
+        "relationship": "normative_reference",
+        "note": "As a precast concrete product, IS 12592 covers are required to be manufactured from concrete meeting IS 456's design and strength provisions -- inferred from standard BIS practice for precast concrete elements, not itself stated as a numbered clause here.",
+        "confidence": "medium",
+        "standard_normalized": "IS 456",
+        "is_number": 456
+      },
+      {
+        "standard": "IS 383:2016",
+        "title": "Coarse and Fine Aggregate for Concrete - Specification",
+        "relationship": "normative_reference",
+        "note": "Aggregates used in the precast concrete mix for these manhole covers are expected to conform to IS 383's aggregate specification, per standard BIS practice for precast concrete products.",
+        "confidence": "medium",
+        "standard_normalized": "IS 383:2016",
+        "is_number": 383
+      }
+    ],
+    "primary_standard_normalized": "IS 12592:2002",
+    "primary_is_number": 12592,
+    "primary_part": null
   }
 ]

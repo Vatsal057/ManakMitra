@@ -33,7 +33,10 @@ def compose_text(title: str, category: str, scope_description: str) -> str:
 @lru_cache(maxsize=1)
 def load_encoder():
     from sentence_transformers import SentenceTransformer
-    return SentenceTransformer(MODEL_NAME)
+    try:
+        return SentenceTransformer(MODEL_NAME, local_files_only=True)
+    except Exception:
+        return SentenceTransformer(MODEL_NAME)
 
 
 def _meta_path(cache_path: Path) -> Path:

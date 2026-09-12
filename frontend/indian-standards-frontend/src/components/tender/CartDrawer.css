@@ -1,0 +1,101 @@
+.cart-drawer-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: flex-end;
+  z-index: 100;
+}
+
+.cart-drawer-panel {
+  background: var(--color-surface);
+  width: 100%;
+  max-width: 360px;
+  height: 100%;
+  padding: var(--space-16);
+  overflow-y: auto;
+  box-shadow: var(--shadow-card);
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-drawer-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-16);
+}
+
+.cart-drawer-head h2 {
+  font-size: var(--font-size-section-heading);
+  font-weight: var(--font-weight-heading);
+}
+
+.cart-drawer-close {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--color-text-subdued);
+  font-size: var(--font-size-body);
+  padding: var(--space-4);
+}
+
+.cart-drawer-items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-16);
+  flex: 1;
+}
+
+.cart-drawer-item h3 {
+  font-size: var(--font-size-card-heading);
+  font-weight: var(--font-weight-heading);
+  margin-bottom: var(--space-8);
+}
+
+.cart-drawer-item-count {
+  color: var(--color-text-subdued);
+  font-weight: var(--font-weight-body);
+}
+
+.cart-drawer-item ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.cart-drawer-item li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-4) var(--space-8);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  font-size: var(--font-size-caption);
+}
+
+.cart-drawer-item button {
+  background: none;
+  border: none;
+  color: var(--color-text-subdued);
+  cursor: pointer;
+}
+
+.cart-drawer-view {
+  display: block;
+  text-align: center;
+  margin-top: var(--space-16);
+  padding: var(--space-8);
+  background-color: var(--color-interactive);
+  color: var(--color-text-on-role);
+  border-radius: var(--radius-control);
+  text-decoration: none;
+  font-weight: var(--font-weight-heading);
+}
+
+.cart-drawer-view:hover {
+  background-color: var(--color-interactive-hover);
+}

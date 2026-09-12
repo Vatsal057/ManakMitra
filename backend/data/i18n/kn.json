@@ -1,0 +1,757 @@
+{
+  "advisoryText": {
+    "en_hash": "c5245ffc62dff7d9b388a776c0c7963b7847953c32efcdab98457435aab1de21",
+    "source": "human",
+    "value": "ಸಾರ್ವಜನಿಕ ಖರೀದಿ ಆದೇಶ ಮತ್ತು BIS ಕಾಯ್ದೆ 2016 ರ ಅಡಿಯಲ್ಲಿ, ಟೆಂಡರ್‌ಗಳಲ್ಲಿ ಅನ್ವಯವಾಗುವ ಭಾರತೀಯ ಗುಣಮಟ್ಟ (IS) ಮತ್ತು ಕಡ್ಡಾಯ QCO ಆದೇಶಗಳನ್ನು ಉಲ್ಲೇಖಿಸುವುದು ಕಡ್ಡಾಯವಾಗಿದೆ."
+  },
+  "advisoryTitle": {
+    "en_hash": "63302cecd3949fd6afb91855502a17d4a272ebbbf3e3f3032705e8336a23317b",
+    "source": "human",
+    "value": "ಸಾರ್ವಜನಿಕ ಖರೀದಿ ಮಾರ್ಗಸೂಚಿ:"
+  },
+  "allCertSchemes": {
+    "en_hash": "50990695fdb974ce1250ea5e3a47acd6dff2b4b576e207f497d55ff6086cc397",
+    "source": "machine",
+    "value": "ಎಲ್ಲಾ ಪ್ರಮಾಣೀಕರಣ ಯೋಜನೆಗಳು"
+  },
+  "allDisciplines": {
+    "en_hash": "04b0356a4fe3dc905b49950e92800ca9f3a2b954db2de1e45b3fd8496869b7f2",
+    "source": "machine",
+    "value": "ಎಲ್ಲಾ ಶಿಸ್ತುಗಳು"
+  },
+  "allStates": {
+    "en_hash": "f19206eed8ab342290c8fe1ddf2a6365ca43abaa5cf6572290288c2889f95f14",
+    "source": "human",
+    "value": "ಎಲ್ಲಾ ರಾಜ್ಯಗಳು"
+  },
+  "alliedInstallationDesc": {
+    "en_hash": "c52e2c8b9678f617aac3d8bbf533223604fda0b34954e0589410f2ce7c527ed9",
+    "source": "machine",
+    "value": "ಸ್ಥಳದಲ್ಲಿ ಇಡುವುದಕ್ಕೆ, ಜೋಡಿಸಲು, ತಯಾರಿಸಲು ಮತ್ತು ಕಾರ್ಯಾರಂಭಕ್ಕೆ ತರಲು ಎಂಜಿನಿಯರಿಂಗ್ ಕೋಡ್ಗಳು."
+  },
+  "alliedInstallationTitle": {
+    "en_hash": "0964eee3d1640278e763d282105b332f9f58e03fab321c9979257da587a1cbd2",
+    "source": "machine",
+    "value": "ಅನುಸ್ಥಾಪನೆ ಮತ್ತು ಅಭ್ಯಾಸದ ಸಂಹಿತೆ"
+  },
+  "alliedNormativeDesc": {
+    "en_hash": "0ec8e68a4c780c71a6e6576f8077ba817fafdb18c0a24e401b556b4845bb3587",
+    "source": "machine",
+    "value": "ಕೋಡ್ ನಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾದ ಮೂಲ ಮೂಲ ಮೂಲ ಮಾನದಂಡಗಳು ಮತ್ತು ಕಚ್ಚಾ ವಸ್ತುಗಳ ವಿಶೇಷಣಗಳು."
+  },
+  "alliedNormativeTitle": {
+    "en_hash": "564ec770750f5b8d13ebe15f0564d5353b2ef24d752774f2efbe4536bd295052",
+    "source": "machine",
+    "value": "ನಿಯಮಿತ ಉಲ್ಲೇಖಗಳು"
+  },
+  "alliedSafetyDesc": {
+    "en_hash": "291cb15bc3a0fe2dc44a369d66693984e87e706560e108af7a9da0b3d7201af6",
+    "source": "machine",
+    "value": "ಕಡ್ಡಾಯ ಬೆಂಕಿಯ ನಿರೋಧಕತೆ, ವಿದ್ಯುತ್ ಮಿತಿಗಳು, ಅಪಾಯದ ರಕ್ಷಣೆ ಮತ್ತು ಪಿಸಿಇ."
+  },
+  "alliedSafetyTitle": {
+    "en_hash": "a1a3f9f99772a271971898dc8ee0c2ec21a257616e730d3f1e46c1b6bccf8ef4",
+    "source": "machine",
+    "value": "ಸುರಕ್ಷತೆ ಮತ್ತು ರಕ್ಷಣೆ ಮಾನದಂಡಗಳು"
+  },
+  "alliedTerminologyDesc": {
+    "en_hash": "49f67f333a02aff467297cd5830597583a76a58acd40097b90f121b08697aa84",
+    "source": "machine",
+    "value": "ಪ್ರಮಾಣೀಕೃತ ಎಂಜಿನಿಯರಿಂಗ್ ಶಬ್ದಕೋಶ, ವರ್ಗೀಕರಣಗಳು ಮತ್ತು ನಾಮಪದಗಳು."
+  },
+  "alliedTerminologyTitle": {
+    "en_hash": "f6112bee85b88f3022b16e04c0b1dd44d26fde7ebe5412f03e8df4529f03a98e",
+    "source": "machine",
+    "value": "ಪದಾರ್ಥಗಳು ಮತ್ತು ವ್ಯಾಖ್ಯಾನಗಳು"
+  },
+  "alliedTestMethodDesc": {
+    "en_hash": "fc42e3839454bb6f74a247d45a228da6f86b669f25844ef92dd8a8bc46e655c2",
+    "source": "machine",
+    "value": "ಪರೀಕ್ಷೆ, ಪ್ರಯೋಗಾಲಯದ ಮಾದರಿ ತೆಗೆದುಕೊಳ್ಳುವಿಕೆ, ರಾಸಾಯನಿಕ ವಿಶ್ಲೇಷಣೆ ಮತ್ತು ಪರಿಶೀಲನೆಗಾಗಿ ಪ್ರೋಟೋಕಾಲ್ಗಳು."
+  },
+  "alliedTestMethodTitle": {
+    "en_hash": "b6bb7f226e7d1bd3d793f3a4710266bb298c7514a87d1458f4e9ac6c5ec69141",
+    "source": "machine",
+    "value": "ಪರೀಕ್ಷಾ ವಿಧಾನದ ಮಾನದಂಡಗಳು"
+  },
+  "authoritativeTitle": {
+    "en_hash": "5f75a1525eacb1cae914e76d9ce0554c73e6dd9cbe084f9fc23233225febb0dd",
+    "source": "machine",
+    "value": "ಅಧಿಕೃತ ಮೂಲ ಮತ್ತು ಪ್ರಮಾಣೀಕರಣ ಆದೇಶ"
+  },
+  "authority.default_authority": {
+    "en_hash": "7105923930a4baaec93fbf6bd1871fe71964c3cd85d3b189b16c193614408527",
+    "source": "human",
+    "value": "ಭಾರತೀಯ ಮಾನಕ ಬ್ಯೂರೋ ಮತ್ತು ಗ್ರಾಹಕ ವ್ಯವಹಾರಗಳ ಸಚಿವಾಲಯ, ಭಾರತ ಸರ್ಕಾರ"
+  },
+  "bisTitle": {
+    "en_hash": "f567fd8bc9f374320520b8d11981e361a471650a3bb334d4588707bab8211447",
+    "source": "human",
+    "value": "ಭಾರತೀಯ ಗುಣಮಟ್ಟ ಬ್ಯೂರೋ (BIS)"
+  },
+  "btnIdentify": {
+    "en_hash": "77c0c3da4ddcf9390106525c57a14fac6d2e12c195ed01687152409c6e7904a4",
+    "source": "human",
+    "value": "ಕಡ್ಡಾಯ ಗುಣಮಟ್ಟ ಗುರುತಿಸಿ"
+  },
+  "btnIdentifying": {
+    "en_hash": "7f43096b2fbdc6404ad3724ba24dbe38286893806b7206c266dd59f43fe21ad9",
+    "source": "human",
+    "value": "ಗುಣಮಟ್ಟಗಳನ್ನು ಗುರುತಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "cardView": {
+    "en_hash": "08b05a8354a7d90ac47b47535492fd6cd0c2d1e0cb493b60f42e83dc8626a2e3",
+    "source": "human",
+    "value": "ಕಾರ್ಡ್ ನೋಟ"
+  },
+  "catalogueRef": {
+    "en_hash": "dad8a742456ddd30d51e63825e457d1deee3ac58b850a36fa6e93a4e03c5395d",
+    "source": "machine",
+    "value": "ಕ್ಯಾಟಲಾಗ್ ರೆಫ:"
+  },
+  "category.Cement and Concrete": {
+    "en_hash": "031d76504c7b5907ca164cfc4cc4a3baf7ec6126d40210277b8e431c9e96ff6a",
+    "source": "human",
+    "value": "ಸಿಮೆಂಟ್ ಮತ್ತು ಕಾಂಕ್ರೀಟ್"
+  },
+  "category.Chemical Engineering": {
+    "en_hash": "17629a20f33253071ce77143e6ea5a04d2ffca66fd5482fcb5e400508e3ededd",
+    "source": "human",
+    "value": "ರಾಸಾಯನಿಕ ಎಂಜಿನಿಯರಿಂಗ್"
+  },
+  "category.Civil Engineering": {
+    "en_hash": "f24190d7199e7558ae427b97156b006c31d8ef93bcbbc3c46192f535a53dbcb5",
+    "source": "human",
+    "value": "ಸಿವಿಲ್ ಎಂಜಿನಿಯರಿಂಗ್ ಮತ್ತು ನಿರ್ಮಾಣ ಸಾಮಗ್ರಿಗಳು"
+  },
+  "category.Drinking Water & Piping": {
+    "en_hash": "8c0285156876bd64871362d15010af01764a10e25868c9ccb96ef819afcf5ed3",
+    "source": "human",
+    "value": "ಕುಡಿಯುವ ನೀರು ಮತ್ತು ಪೈಪಿಂಗ್ ವ್ಯವಸ್ಥೆಗಳು"
+  },
+  "category.Electrical Cables": {
+    "en_hash": "ba90746652bfa05a8dfbb5f10dd2f1ecace86d8926b4997f950af49e591b1c77",
+    "source": "human",
+    "value": "ವಿದ್ಯುತ್ ಕೇಬಲ್ಗಳು ಮತ್ತು ತಂತಿಗಳು"
+  },
+  "category.Food & Agriculture": {
+    "en_hash": "3a35690d1684ec98b020f309b18345adf831ef119d6ac65a25718e5e470b137f",
+    "source": "human",
+    "value": "ಆಹಾರ ಮತ್ತು ಕೃಷಿ"
+  },
+  "category.Industrial Safety": {
+    "en_hash": "24a40373fc992f4c6b8897de88fb4dee56e16bc367038e37735fa47ec77d13a8",
+    "source": "human",
+    "value": "ಕೈಗಾರಿಕಾ ಸುರಕ್ಷತಾ ಉಪಕರಣಗಳು"
+  },
+  "category.Lighting & Electronics": {
+    "en_hash": "f2d59697320f0cd34efd1b2964e79ab3fb1fb6caedc56bbbcad4c24d4079f816",
+    "source": "human",
+    "value": "ಬೆಳಕು ಮತ್ತು ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್"
+  },
+  "category.Mechanical Engineering": {
+    "en_hash": "3bc77810434c4226ab5d5e9b20b9260e5fe39fd13d25da1e181bd517fa772ab0",
+    "source": "human",
+    "value": "ಮೆಕ್ಯಾನಿಕಲ್ ಎಂಜಿನಿಯರಿಂಗ್"
+  },
+  "category.Medical Equipment": {
+    "en_hash": "4ef260c13cba0d85fd70dd037a9186a6e2459c6dd32844e4b73523c6cf58219a",
+    "source": "human",
+    "value": "ವೈದ್ಯಕೀಯ ಉಪಕರಣಗಳು"
+  },
+  "category.Precious Metals": {
+    "en_hash": "89f6643e7c032a3400c267cbbbaa24e97c751612872788498f3e4c28c40a2096",
+    "source": "human",
+    "value": "ಅಮೂಲ್ಯ ಲೋಹಗಳು ಮತ್ತು ಹಾಲ್ಮಾರ್ಕಿಂಗ್"
+  },
+  "category.Textiles": {
+    "en_hash": "6a839eefd35ef4b6d043795adaa911ed7ffb5dc1a83156f3dfd7be78c98e29e7",
+    "source": "human",
+    "value": "ಜವಳಿ ಮತ್ತು ತಾಂತ್ರಿಕ ಜವಳಿ"
+  },
+  "certification.BIS Product Certification": {
+    "en_hash": "fbbd3308b138558646503a4e90cd713b636481c1323540700864d6f4468e6135",
+    "protected": true,
+    "source": "human",
+    "value": "ಬಿಐಎಸ್ ಐಎಸ್ಐ ಉತ್ಪನ್ನ ಪ್ರಮಾಣೀಕರಣ"
+  },
+  "certification.CRS": {
+    "en_hash": "58c523c38164a25008e113c5284b9973742224023dab4fc30659a355b9927acd",
+    "protected": true,
+    "source": "human",
+    "value": "ಸಿಆರ್ಎಸ್ (ಕಡ್ಡಾಯ ನೋಂದಣಿ ಯೋಜನೆ)"
+  },
+  "certification.Hallmarking": {
+    "en_hash": "1790090bd5e334bf935891514b96384d01e552690d3340a6cf7e8da2641665bb",
+    "protected": true,
+    "source": "human",
+    "value": "ಹಾಲ್ಮಾರ್ಕಿಂಗ್ (HUID ಪ್ರಮಾಣೀಕೃತ)"
+  },
+  "certification.None": {
+    "en_hash": "2a8638d36d3d3be8ab32307e3456b7291d297ec86dce0cb7574bc44fce276b06",
+    "protected": true,
+    "source": "human",
+    "value": "ಸ್ವಯಂಪ್ರೇರಿತ ಮಾನದಂಡ"
+  },
+  "certification.Not determined": {
+    "en_hash": "4465acfd744ce92c639e021e989661a2e10e042413fd84ff179ad3d3f45d604c",
+    "protected": true,
+    "source": "human",
+    "value": "ಇನ್ನೂ ನಿರ್ಧರಿಸಲಾಗಿಲ್ಲ"
+  },
+  "closeMap": {
+    "en_hash": "ce8fdb9a260c562cb25a636b9f916492fa15eaae11711de8ee701ca243e430a6",
+    "source": "machine",
+    "value": "ಹತ್ತಿರದ ನಕ್ಷೆ"
+  },
+  "confidenceBand.high": {
+    "en_hash": "c4ebc6d4a5832cd9415f906ad03661110c705a72381c8b8b145761d02e2dd23a",
+    "protected": true,
+    "source": "human",
+    "value": "ಹೆಚ್ಚು"
+  },
+  "confidenceBand.low": {
+    "en_hash": "f793de205ead5ac302c4a1627829dea41f176b1068b993a32373fc869918374b",
+    "protected": true,
+    "source": "human",
+    "value": "ಕಡಿಮೆ"
+  },
+  "confidenceBand.moderate": {
+    "en_hash": "5c42afc7a23018d32dcff346792b575bcdf63be118b98a61084b1afac32b93e9",
+    "protected": true,
+    "source": "human",
+    "value": "ಮಧ್ಯಮ"
+  },
+  "copiedStandardNumber": {
+    "en_hash": "ea61bc15688d1e482ae5335e8dc030d8300b1afc07ecc7c2e6af5c43728b1d25",
+    "source": "machine",
+    "value": "ನಕಲಿಸಲಾಗಿದೆ!"
+  },
+  "copyStandardNumber": {
+    "en_hash": "62bf3b516fbbbdd554b2426e9892c6c586f76eb84be493c257fa764a3c2cac64",
+    "source": "machine",
+    "value": "ಸ್ಟ್ಯಾಂಡರ್ಡ್ ಸಂಖ್ಯೆಯನ್ನು ಕ್ಲಿಪ್ಬೋರ್ಡ್ಗೆ ನಕಲಿಸಿ"
+  },
+  "dataTable": {
+    "en_hash": "39a2650870c8daff53adb502ef5b82a28e45097f3069169f579b018e7ec88e6a",
+    "source": "human",
+    "value": "ಡೇಟಾ ಕೋಷ್ಟಕ"
+  },
+  "exportSchedule": {
+    "en_hash": "8c05c192396e6dd37d72b75da95aa7886d3063e4c288228ae4cf9b1a6e4a7240",
+    "source": "machine",
+    "value": "ರಫ್ತು ವೇಳಾಪಟ್ಟಿ"
+  },
+  "facilitiesFound": {
+    "en_hash": "e9f247efa7a482687cb6818dde15590a9b36b347f7af2607311f4c2e0a2dc073",
+    "source": "human",
+    "value": "ಲ್ಯಾಬ್‌ಗಳು ಲಭ್ಯವಿದೆ"
+  },
+  "feat1Text": {
+    "en_hash": "8f4feabf6fb186f319bb086a503ec628555a1369cc52be5bc1ed1bb782f83d0c",
+    "source": "human",
+    "value": "ಕನ್ನಡ, ಹಿಂದಿ ಅಥವಾ ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ."
+  },
+  "feat1Title": {
+    "en_hash": "7ee616205003d23a1532069585c7d97829ade98d3cbc8a49da5ac7ff10f8f560",
+    "source": "human",
+    "value": "ಬಹುಭಾಷಾ ವಿವರಣೆ ಬೆಂಬಲ"
+  },
+  "feat2Text": {
+    "en_hash": "b0c7dc1c3cd9bcd8d0b0f504869c5fa982450a598d3fbab2da191a311d338197",
+    "source": "human",
+    "value": "ಯಾವುದೇ ಗುಣಮಟ್ಟ ISI, CRS ಅಥವಾ ಹಾಲ್‌ಮಾರ್ಕಿಂಗ್ ಅಡಿಯಲ್ಲಿ ಬರುತ್ತದೆಯೇ ಎಂದು ತಕ್ಷಣ ತಿಳಿಯಿರಿ."
+  },
+  "feat2Title": {
+    "en_hash": "9caf4d32032c1f6259b33b0bffc0f0c1ba69c17efaa99b1d1a0f7880b4064fbb",
+    "source": "human",
+    "value": "QCO ಮತ್ತು ಪ್ರಮಾಣೀಕರಣ ಆದೇಶಗಳು"
+  },
+  "feat3Text": {
+    "en_hash": "65d5cd4f097e68fd67fe455dbd78c03d7da5afa85e12f9efa7e34acb3a6b8ae1",
+    "source": "human",
+    "value": "ಪರೀಕ್ಷಾ ವಿಧಾನಗಳು ಮತ್ತು ಸುರಕ್ಷತಾ ಕೋಡ್‌ಗಳನ್ನು ಅನ್ವೇಷಿಸಿ."
+  },
+  "feat3Title": {
+    "en_hash": "db36bbde50dfd206cfa3053c5f300704be29825e8d4a5003dafdc96165cbd51e",
+    "source": "human",
+    "value": "ಸಂಬಂಧಿತ ಮಾನದಂಡಗಳ ನೆಟ್‌ವರ್ಕ್"
+  },
+  "filterBy": {
+    "en_hash": "c1e902361b7a16a875d310c82d951e351c6550a1c44cadeb8c312cdcd6bba762",
+    "source": "machine",
+    "value": "ಫಿಲ್ಟರ್ ಮಾಡುಃ"
+  },
+  "findLabs": {
+    "en_hash": "a165bf13c179361164c8e79d4e243ee9c8a0fba9f1c280f6ee3eaba1687b3e81",
+    "source": "human",
+    "value": "ಲ್ಯಾಬ್‌ಗಳನ್ನು ಹುಡುಕಿ"
+  },
+  "findTestingLabs": {
+    "en_hash": "a165bf13c179361164c8e79d4e243ee9c8a0fba9f1c280f6ee3eaba1687b3e81",
+    "source": "machine",
+    "value": "ಪರೀಕ್ಷಾ ಪ್ರಯೋಗಾಲಯಗಳನ್ನು ಹುಡುಕಿ"
+  },
+  "fullTab": {
+    "en_hash": "332166c5f59508e30ec447e4026d131526daa533fed0f68c638fd38fd0bcf88b",
+    "source": "machine",
+    "value": "ಪೂರ್ಣ ಟ್ಯಾಬ್"
+  },
+  "gazetteMandate": {
+    "en_hash": "d8450e16156889c5adb9874729f02bb322f06ae581750c00bcb7ad7be110a6f1",
+    "source": "machine",
+    "value": "ಪತ್ರಿಕೆ / QCO ನಿಯೋಗಃ"
+  },
+  "govtTag": {
+    "en_hash": "4c159f515b173d97f4ff4bf8f604c87296ba3e67fdd51c5513d3241c4c4f7612",
+    "source": "human",
+    "value": "ಭಾರತ ಸರ್ಕಾರ"
+  },
+  "hideAllied": {
+    "en_hash": "8f6a8003400aaa41068beaa01537b0c0bf2a16658afc37e1ab9acabfab45fc2c",
+    "source": "human",
+    "value": "ಮರೆಮಾಡಿ"
+  },
+  "highMatch": {
+    "en_hash": "564c9fd8be4fe2477f91eb5741566e52d2c1c64c366ac83b6d6e987a74934a7c",
+    "source": "machine",
+    "value": "ಹೈ ಮ್ಯಾಚ್"
+  },
+  "inputDescription": {
+    "en_hash": "f26650d0e5009321ed607bd6dd299961b8519ec7ff06f5b6738cf19106e2867e",
+    "source": "human",
+    "value": "ಕಡ್ಡಾಯ ಭಾರತೀಯ ಗುಣಮಟ್ಟವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಿಮ್ಮ ಟೆಂಡರ್ ಅಥವಾ ಎಂಜಿನಿಯರಿಂಗ್ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ."
+  },
+  "inputLanguage": {
+    "en_hash": "a8e58c1a21030ba51e094be44d906b77777fb41f7d3611fca1f7576f2664cbf0",
+    "source": "human",
+    "value": "ಇನ್‌ಪುಟ್ ಭಾಷೆ:"
+  },
+  "inputTitle": {
+    "en_hash": "15cb5e85c92e95212889a28e2fd1e9ac8afcc5b9321e57670c8220fcdd7251d8",
+    "source": "human",
+    "value": "ಖರೀದಿ ವಿವರಣೆ ಮತ್ತು ತಾಂತ್ರಿಕ ವಿವರಗಳು (BoQ)"
+  },
+  "introBis": {
+    "en_hash": "f567fd8bc9f374320520b8d11981e361a471650a3bb334d4588707bab8211447",
+    "source": "human",
+    "value": "ಭಾರತೀಯ ಗುಣಮಟ್ಟ ಬ್ಯೂರೋ"
+  },
+  "introHeading": {
+    "en_hash": "1c63e2660f5176fe985b777ff6af79e6a54deea0aff59139e7a4f77695feea6a",
+    "source": "human",
+    "value": "ನಿಮ್ಮ ಖರೀದಿಗೆ ಕಡ್ಡಾಯ IS ಗುಣಮಟ್ಟವನ್ನು ಗುರುತಿಸಿ"
+  },
+  "introText": {
+    "en_hash": "8334adc0c48cd290709298a6a91cc4fb9c4d6e2ae0992ba322220055921c9fbc",
+    "source": "human",
+    "value": "ನಿಮ್ಮ ಟೆಂಡರ್ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ ಮತ್ತು ನಿಯಂತ್ರಕ ಆದೇಶಗಳೊಂದಿಗೆ ನಿಖರವಾದ ಭಾರತೀಯ ಗುಣಮಟ್ಟಗಳನ್ನು ಪಡೆಯಿರಿ."
+  },
+  "issuingAuth": {
+    "en_hash": "65043da38c454431033e58a84e1272c623549ca7efe75f4cae0f0580f12382eb",
+    "source": "machine",
+    "value": "ವಿತರಿಸುವ ಪ್ರಾಧಿಕಾರಃ"
+  },
+  "labsCountState": {
+    "en_hash": "f72e787d545f0403cb023a981aedd9934358efb2bffc5bfdcb9808979542202f",
+    "source": "machine",
+    "value": "431 ಪ್ರಯೋಗಾಲಯಗಳು • 24 ರಾಜ್ಯಗಳು"
+  },
+  "labsSearchPlaceholder": {
+    "en_hash": "3bb7df87e4d1a5c829546a2af41ace34395ae64ab23f9264c35266e2711c15cb",
+    "source": "human",
+    "value": "ಸ್ಥಳವನ್ನು ನಮೂದಿಸಿ (ಉದಾ. ಬೆಂಗಳೂರು, ಮೈಸೂರು, ಮಂಗಳೂರು)..."
+  },
+  "labsSubtitle": {
+    "en_hash": "0ddc0e78082e1e82513a2de4b8000aec1803e3a8ac0ac9d2fbe5b0be45255ab7",
+    "source": "human",
+    "value": "ನಗರ, ರಾಜ್ಯ, ಪಿನ್ ಕೋಡ್ ಅಥವಾ ಲ್ಯಾಬ್ ಕೋಡ್ ಮೂಲಕ ಹುಡುಕಿ"
+  },
+  "labsTitle": {
+    "en_hash": "60811dac1040b4ddea47f6f93c4c547975e5e37688f02ea79e3e7d0ac1253b7b",
+    "source": "human",
+    "value": "ಪ್ರಯೋಗಾಲಯ ಹುಡುಕಾಟ ಡೈರೆಕ್ಟರಿ"
+  },
+  "manakMitra": {
+    "en_hash": "81a6d59e316cd8b64dc40e66e04f4d364e1e192a36ece167d054545b86b77792",
+    "source": "human",
+    "value": "ಮಾನಕ್ ಮಿತ್ರ"
+  },
+  "mandatedSpecs": {
+    "en_hash": "f655e2672fa9054a74a9156c72058307fca7266a80463beb73c5f21819eb5328",
+    "source": "machine",
+    "value": "ಭಾರತೀಯ ಮಾನದಂಡಗಳು ಮತ್ತು ಗುಣಮಟ್ಟದ ವಿಶೇಷಣಗಳು"
+  },
+  "mandatoryBadge": {
+    "en_hash": "24ee818283e1ecbc0e71694c6dfd3d61836fe8a4c49f1ff3fef284c176d29d05",
+    "source": "human",
+    "value": "ಕಡ್ಡಾಯ QCO ಆದೇಶ"
+  },
+  "mapHeading": {
+    "en_hash": "307404a84d03bc22ec8187199e1a25c58bf2488779664d488287eefb0ed1cc1c",
+    "source": "human",
+    "value": "BIS ಮಾನ್ಯತೆ ಪಡೆದ ಲ್ಯಾಬ್‌ಗಳ ನಕ್ಷೆ"
+  },
+  "mapModalSubtitle": {
+    "en_hash": "127045befc611f34f2306513303715c8ee64d7ced8522570736c0cc8406a640c",
+    "source": "machine",
+    "value": "ಅಧಿಕೃತ ಭಾರತೀಯ ಮಾನದಂಡಗಳ ಕಚೇರಿ (LIMS BIS) ಸಂವಾದಾತ್ಮಕ ರಾಜ್ಯ ಡೈರೆಕ್ಟರಿ"
+  },
+  "mapModalTitle": {
+    "en_hash": "d7a2bd05993d0870aa4716fc6dec00d2ac5f23f232082ae78f569c9c90390485",
+    "source": "machine",
+    "value": "ಬಿಐಎಸ್ ಗುರುತಿಸಿದ ಪ್ರಯೋಗಾಲಯಗಳು ಭಾರತದ ನಕ್ಷೆ"
+  },
+  "mapSubheading": {
+    "en_hash": "5f10472f649c6cb6ee1e75d050f1148063a9cb00b37ec03f21c083245832ace9",
+    "source": "human",
+    "value": "ಭಾರತದಾದ್ಯಂತ ಅಧಿಕೃತ ಪರೀಕ್ಷಾ ಸೌಲಭ್ಯಗಳ ಭೌಗೋಳಿಕ ನಕ್ಷೆ"
+  },
+  "mapView": {
+    "en_hash": "8e63895c901880eae63301d83d7b90978f193e293f4e87326430d9d25bddc435",
+    "source": "human",
+    "value": "ನಕ್ಷೆ ನೋಟ"
+  },
+  "maximizeMap": {
+    "en_hash": "95253466e292e56fb4bb0745f87753e1e71561e5231d78e5d5be890e2ba8521e",
+    "source": "human",
+    "value": "ದೊಡ್ಡದಾಗಿಸಿ"
+  },
+  "minimizeMap": {
+    "en_hash": "a928308b02a70683e629732e58d88a96f9ceb94f6d10d0ee1720e00bffe927d6",
+    "source": "machine",
+    "value": "ನಕ್ಷೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಿ"
+  },
+  "motto": {
+    "en_hash": "758745f7c69b60afcf300bbeccab1ead280e6b63cf1d6c272769fdd91f1ae30e",
+    "source": "human",
+    "value": "ಮಾನಕ್ ಮಿತ್ರ • ಸಾರ್ವಜನಿಕ ಖರೀದಿಗೆ ನಿಮ್ಮ ಗುಣಮಟ್ಟ ಮಾರ್ಗದರ್ಶಿ"
+  },
+  "multilingualNoticeText": {
+    "en_hash": "7d5015f44d10624128b1a8ba82b6e214b1883ac487910a5f30b07952cace5070",
+    "source": "human",
+    "value": "ಖಚಿತ ಹೊಂದಾಣಿಕೆಗಾಗಿ ತಾಂತ್ರಿಕ ಪದಗಳನ್ನು ಅನುವಾದಿಸಲಾಗುತ್ತದೆ."
+  },
+  "multilingualNoticeTitle": {
+    "en_hash": "54b6cdf5b5d61d3c78f994570aa8939f6aa4f13f4f2c39d963c43c8c74ace174",
+    "source": "human",
+    "value": "ಬಹುಭಾಷಾ ಅನುವಾದ ಸಕ್ರಿಯವಾಗಿದೆ:"
+  },
+  "noMatchesDesc": {
+    "en_hash": "7c6fde3435b626b6b8815c917e45711776511b683c8a1420d1c3083e583b6d60",
+    "protected": true,
+    "source": "human",
+    "value": "ದಯವಿಟ್ಟು ವಿವರಗಳನ್ನು ಪರಿಷ್ಕರಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "noMatchesTitle": {
+    "en_hash": "392c90e0b76a890b1e61aad4651520f5cf113fef80a4b90e3835cf598dbf7df4",
+    "protected": true,
+    "source": "human",
+    "value": "ಯಾವುದೇ ಮಾನದಂಡಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+  },
+  "noResultsFilter": {
+    "en_hash": "d3099073d4fe8abd661b7a619ea53c9b2179ed4ba211bb311f16c7e12d75bc8b",
+    "source": "machine",
+    "value": "ಆಯ್ಕೆಮಾಡಿದ ವರ್ಗ ಅಥವಾ ಪ್ರಮಾಣೀಕರಣ ಫಿಲ್ಟರ್ಗೆ ಯಾವುದೇ ಮಾನದಂಡಗಳು ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ."
+  },
+  "ofStandards": {
+    "en_hash": "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624",
+    "source": "machine",
+    "value": "ದ"
+  },
+  "openStandalone": {
+    "en_hash": "f2d7533374b606631c7807fc38c12139bd79c5db74b0249157889ae9a596d44b",
+    "source": "machine",
+    "value": "ಸ್ವತಂತ್ರವಾಗಿ ತೆರೆದುಕೊಳ್ಳಿ"
+  },
+  "placeholder": {
+    "en_hash": "8cd8ee83706f457358eb277ec80e2f4dc81018ec3df2abb4d6bb3e5be9727647",
+    "source": "human",
+    "value": "ತಾಂತ್ರಿಕ ವಿವರಣೆಯನ್ನು ಇಲ್ಲಿ ನಮೂದಿಸಿ (ಉದಾ. 1100V ತಾಮ್ರದ ಕೇಬಲ್ ಅಥವಾ ಸಿಮೆಂಟ್ ಗ್ರೇಡ್ 43/53)..."
+  },
+  "portalTag": {
+    "en_hash": "167cbcd81e83acea1f6e177a435793f192efe9bed2a7bafc7df63ee3fe9b5480",
+    "source": "human",
+    "value": "AI ಗುಣಮಟ್ಟ ಶಿಫಾರಸುಗಾರ"
+  },
+  "procAuditDesc": {
+    "en_hash": "93e78b2fc27d9879449bdc2b4e967e2bf61ac2211c2deeae34e6de62169c2d69",
+    "source": "machine",
+    "value": "ಸಾರ್ವಜನಿಕ ಟೆಂಡರ್ಗಳಲ್ಲಿ ಸಂಬಂಧಿತ ಐಎಸ್ ವಿಶೇಷಣಗಳು ನಿಗದಿಪಡಿಸಬೇಕು. ಕಡ್ಡಾಯ ಗುಣಮಟ್ಟ ನಿಯಂತ್ರಣ ಆದೇಶಗಳ (QCO) ಅಡಿಯಲ್ಲಿನ ಮಾನದಂಡಗಳು ಸರಬರಾಜು ಮಾಡುವ ಮೊದಲು ಮಾನ್ಯವಾದ ಬಿಐಎಸ್ ಪ್ರಮಾಣೀಕರಣವನ್ನು ಅಗತ್ಯವಿರುತ್ತದೆ."
+  },
+  "procAuditSummary": {
+    "en_hash": "d46ad9a92c98ac0c641bfc2df16c8d052995f2074ace30dabcdbb9053b97188a",
+    "source": "machine",
+    "value": "ಖರೀದಿ ಲೆಕ್ಕಪರಿಶೋಧನೆಯ ಸಾರಾಂಶ"
+  },
+  "publishedLabel": {
+    "en_hash": "806da0ed547eb2063c12e3fd2c17d0657a4330036a01656de4c58a1a8f73177f",
+    "source": "machine",
+    "value": "ಪ್ರಕಟಿಸಲಾಗಿದೆಃ"
+  },
+  "relationshipType.installation": {
+    "en_hash": "c3fc54aa5390dc2c333d4bb596a339d552ad787337c1fdaac3957ca5a7facf50",
+    "source": "human",
+    "value": "ಅಳವಡಿಕೆ"
+  },
+  "relationshipType.normative_reference": {
+    "en_hash": "6846cc390fdcafebb1577a13dc4fd9ca3e36850626070ba5887c70240b619509",
+    "source": "human",
+    "value": "ಮಾನದಂಡ ಉಲ್ಲೇಖ"
+  },
+  "relationshipType.safety": {
+    "en_hash": "726d11bd5b230253cc5f795cfcb3268117267cb11fee8df060a472e6448abc56",
+    "source": "human",
+    "value": "ಸುರಕ್ಷತೆ"
+  },
+  "relationshipType.terminology": {
+    "en_hash": "9615bd0ba9f0c510594876bfb4bd0d2341a3eb5d140ba36bd9341ac9aada9a3c",
+    "source": "human",
+    "value": "ಪರಿಭಾಷೆ"
+  },
+  "relationshipType.test_method": {
+    "en_hash": "b769b24c1a590ce21862218b0a5004de51c5e50445c871872f07fee785621873",
+    "source": "human",
+    "value": "ಪರೀಕ್ಷಾ ವಿಧಾನ"
+  },
+  "relevanceMatch": {
+    "en_hash": "c6fd0c65c96da1fdfdf8a493d1ce2a3a5b3c7483df42609fc902561bb0f10ae1",
+    "source": "human",
+    "value": "ಹೊಂದಾಣಿಕೆ ಸ್ಕೋರ್"
+  },
+  "relevanceScoreLabel": {
+    "en_hash": "2e964c5eae78a49000732e72ea588dece1051b73c275d132e69b35a80b15d4d3",
+    "source": "machine",
+    "value": "ಸಂಬಂಧಿತತೆ ಪಂದ್ಯದ ಅಂಕ"
+  },
+  "resetBtn": {
+    "en_hash": "9c98693caaf6c389169e53d2c9f568bccf2c9fd5a023449a0d876c3011fb3331",
+    "source": "human",
+    "value": "ಮರುಹೊಂದಿಸಿ"
+  },
+  "resetFilters": {
+    "en_hash": "660f3d76f4f2802d2bcd916fc7dbf21b65e599b78664a80b291550b667864c11",
+    "source": "machine",
+    "value": "ಫಿಲ್ಟರ್ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ"
+  },
+  "resetMap": {
+    "en_hash": "daee7606b339f3c339076fe2c9f372a3ff40c8ee896005d829c7481b64ca5303",
+    "source": "human",
+    "value": "ಮರುಹೊಂದಿಸಿ"
+  },
+  "resultsFound": {
+    "en_hash": "05525fbe025d8d1f10f9ae574628bfd4dad76d4fee90cfdde44e6d23561a8b48",
+    "source": "human",
+    "value": "ಶಿಫಾರಸು ಮಾಡಲಾದ ಭಾರತೀಯ ಮಾನದಂಡಗಳು"
+  },
+  "sample1Query": {
+    "en_hash": "c830aedf14f4af4a55bcaf4f936d0b59baa1b4931aa3b21851c83cac3ebae3ad",
+    "source": "human",
+    "value": "ಕಟ್ಟಡದ ವಿದ್ಯುದ್ದೀಕರಣಕ್ಕಾಗಿ 3-ಕೋರ್ ತಾಮ್ರದ ಕಂಡಕ್ಟರ್ PVC ಇನ್ಸುಲೇಟೆಡ್ 1100V ಪವರ್ ಕೇಬಲ್ ಖರೀದಿ."
+  },
+  "sample1Title": {
+    "en_hash": "dc34572c6e9111c4a9aa616902d5f6f4c316a00b956bda337e0e524e1571664a",
+    "source": "human",
+    "value": "ಎಲ್‌ಟಿ ಕಾಪರ್ ಪವರ್ ಕೇಬಲ್ (1100V)"
+  },
+  "sample2Query": {
+    "en_hash": "d78bb20561c8314a67ff0e2732711ef22df81ec06dd053d228785fba3e1a61b6",
+    "source": "human",
+    "value": "ಕಟ್ಟಡದ ಅಡಿಪಾಯ ಮತ್ತು RCC ಕಾರ್ಯಗಳಿಗಾಗಿ ಗ್ರೇಡ್ 43/53 ಪೋರ್ಟ್‌ಲ್ಯಾಂಡ್ ಸಿಮೆಂಟ್ ಪೂರೈಕೆ."
+  },
+  "sample2Title": {
+    "en_hash": "fb07ee5438df263fffae5b78f99dc4d504c823e469f8db0c8b0ec9e516d235dd",
+    "source": "human",
+    "value": "ಆರ್ಡಿನರಿ ಪೋರ್ಟ್‌ಲ್ಯಾಂಡ್ ಸಿಮೆಂಟ್ (ಗ್ರೇಡ್ 43/53)"
+  },
+  "sample3Query": {
+    "en_hash": "682ba3f7680d43b63fef60fbb527999f02702e80f974c2ad3d5753450782a665",
+    "source": "human",
+    "value": "ನಿರ್ಮಾಣ ಕಾರ್ಮಿಕರಿಗಾಗಿ ಹೆಚ್ಚಿನ ಸಾಂದ್ರತೆಯ ಪಾಲಿಥಿಲೀನ್ (HDPE) ಸುರಕ್ಷತಾ ಹೆಲ್ಮೆಟ್‌ಗಳ ಖರೀದಿ."
+  },
+  "sample3Title": {
+    "en_hash": "00576c97c7450090e5b62241a55d6d80ad1b4cad63a931255b8c8cdd6f6045f8",
+    "source": "human",
+    "value": "ಕೈಗಾರಿಕಾ ಸುರಕ್ಷತಾ ಹೆಲ್ಮೆಟ್‌ಗಳು"
+  },
+  "sample4Query": {
+    "en_hash": "7c60e0c398de976d7adfe65b34092cb3565d4c72bec88935a1cb93e1e8e74524",
+    "source": "human",
+    "value": "ರಸ್ತೆ ಬೆಳಕಿಗಾಗಿ IP66 ಜಲನಿರೋಧಕ ಮತ್ತು 10kV ರಕ್ಷಣೆಯೊಂದಿಗೆ 90W-120W ಎಲ್‌ಇಡಿ ಬೀದಿ ದೀಪಗಳು."
+  },
+  "sample4Title": {
+    "en_hash": "c1d13bd84bbb3d989e9c9a032c5ea2defe1b6275b3657a4efe944205bcdc484d",
+    "source": "human",
+    "value": "ಎಲ್‌ಇಡಿ ಬೀದಿ ದೀಪಗಳು 120W"
+  },
+  "sample5Query": {
+    "en_hash": "8fe976eef91c30b7e0b49c103f0b526ac7b77037838e23557454123e2f28cfee",
+    "source": "human",
+    "value": "22 ಕ್ಯಾರಟ್ ಚಿನ್ನದ ನಾಣ್ಯಗಳು ಮತ್ತು 6 ಅಂಕಿಯ HUID ಹಾಲ್‌ಮಾರ್ಕ್ ಧೃಢೀಕರಣದೊಂದಿಗೆ ಖರೀದಿ."
+  },
+  "sample5Title": {
+    "en_hash": "2096d4ffb6100f61864fb002273447137d89ce9c77e001a2cdc5c592b2601669",
+    "source": "human",
+    "value": "ಚಿನ್ನದ ಗಟ್ಟಿ ಮತ್ತು ಆಭರಣ ಹಾಲ್‌ಮಾರ್ಕಿಂಗ್"
+  },
+  "samplePromptsHeader": {
+    "en_hash": "07585a8a8730ee4b1b9c65989e7e6f191c5845f2844d8f5283d1ba6c21432bf2",
+    "source": "human",
+    "value": "ಮಾದರಿ ಟೆಂಡರ್‌ಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ:"
+  },
+  "sectionalComm": {
+    "en_hash": "23f5fb730362da5569629e90e3e268dca2b0c00203ef9ee8ded59f2d4e40962e",
+    "source": "machine",
+    "value": "ವಿಭಾಗೀಯ ಸಮಿತಿಃ"
+  },
+  "settingsTitle": {
+    "en_hash": "6c2a96757bb1ab31c75d39584bd71da54b6246320557392dfe0658fad347b496",
+    "source": "human",
+    "value": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "showingStandards": {
+    "en_hash": "d604310a789a184844490cf496f9d72e2807be60ba55a2ed33c3f1939b333963",
+    "source": "machine",
+    "value": "ತೋರಿಸುವುದು"
+  },
+  "sortByNumber": {
+    "en_hash": "9129320049a9a3420138a79c40d7b7e481c3cfae2fdbb6af3a06b867442c22dd",
+    "source": "machine",
+    "value": "ಐಎಸ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ ಸಂಖ್ಯೆ (ಎ ರಿಂದ ಝಡ್)"
+  },
+  "sortByScore": {
+    "en_hash": "d112d4889051ae1cd1cfaef1006fc45fee0c64a811ddc665880a64fdaa426ad2",
+    "source": "machine",
+    "value": "ಹೋಲಿಕೆ ಅಂಕ (ಉನ್ನತದಿಂದ ಕಡಿಮೆ)"
+  },
+  "sortLabel": {
+    "en_hash": "8f3e7ea6ed491d4faa736975a0ece92a7dd0285330bf9e43f22f14c1cf933b4c",
+    "source": "machine",
+    "value": "ವರ್ಗಃ"
+  },
+  "standardsCountLabel": {
+    "en_hash": "0b21aaddae93d0233f598f4d15c6bdc695206094e89cba27044e721a83c79219",
+    "source": "machine",
+    "value": "ಮಾನದಂಡಗಳು"
+  },
+  "standardsIdentified": {
+    "en_hash": "709c70e9db23e3ea933a967b2216d137ee3c0c0b950808b31d9eaa8a7a64a9bf",
+    "source": "machine",
+    "value": "ಗುರುತಿಸಲ್ಪಟ್ಟ ಮಾನದಂಡಗಳು"
+  },
+  "statLabs": {
+    "en_hash": "2146b5aa1c0f8af5b6a4834cac573c7cd696fbde3e58b8b5c63066fc5efb18b5",
+    "source": "human",
+    "value": "ಮಾನ್ಯತೆ ಪಡೆದ ಲ್ಯಾಬ್‌ಗಳು"
+  },
+  "statLabsSub": {
+    "en_hash": "5b59ce52c902aec32400f9edc8c1690c85d7f004d0e52ff6bcfdef701238c536",
+    "source": "human",
+    "value": "24 ರಾಜ್ಯಗಳಲ್ಲಿ"
+  },
+  "statLangs": {
+    "en_hash": "1b712a7e30b431f5898b19f1033db6a663ed2cf1c8a08595a78173b23d028377",
+    "source": "human",
+    "value": "ಭಾರತೀಯ ಭಾಷೆಗಳು"
+  },
+  "statLangsSub": {
+    "en_hash": "0358930ec57bf8ec21ebd2b918fc7aba042a66993b0c7955dcf3667f832cb968",
+    "source": "human",
+    "value": "ಲಭ್ಯವಿದೆ"
+  },
+  "statQco": {
+    "en_hash": "61e7614b339c3577d87e444780c041d52117cf93ae16730577852387084bc406",
+    "source": "human",
+    "value": "QCO ಆದೇಶ ಪ್ರಕಾರಗಳು"
+  },
+  "statQcoSub": {
+    "en_hash": "296d3a46b047f00bd3e679e2e572943d9ae3c89a7b2d0dcb69898585ac6e232c",
+    "source": "human",
+    "value": "ISI, CRS, ಹಾಲ್‌ಮಾರ್ಕಿಂಗ್"
+  },
+  "statStandards": {
+    "en_hash": "38263b866a0a69634247fca31f54d08556100311107d57b758b3663de498056f",
+    "source": "human",
+    "value": "ಭಾರತೀಯ ಗುಣಮಟ್ಟಗಳು (IS)"
+  },
+  "statStandardsSub": {
+    "en_hash": "eff6b368c5d1e9f746cd20d52126e69927d834c324e3f38977f09fa60062fed3",
+    "source": "human",
+    "value": "BIS ಕ್ಯಾಟಲಾಗ್‌ನಲ್ಲಿ"
+  },
+  "statusEngine": {
+    "en_hash": "06b30c93254940f60c61dda52746874137134da339ab02c7ca6065109c9deae1",
+    "source": "human",
+    "value": "ಸಕ್ರಿಯ ಎಂಜಿನ್"
+  },
+  "statusLive": {
+    "en_hash": "893678f45d2c266d8885604462aa5cd20371f9cf9a1c9567953d68aa9e7496a4",
+    "source": "human",
+    "value": "ಲೈವ್ ಸೇವೆ ಸಕ್ರಿಯ"
+  },
+  "strongMatch": {
+    "en_hash": "6d2310c6cbabc02daa7e770c07655029c6d9f124ee984af4c7964ba3913db276",
+    "source": "machine",
+    "value": "ಬಲವಾದ ಪಂದ್ಯ"
+  },
+  "subtitleSecondary": {
+    "en_hash": "aab54e2b1f841e0a1c44fbc285c4568d9825c3d5f9f35e2eea71664da9f48f7a",
+    "source": "human",
+    "value": "ರಾಷ್ಟ್ರೀಯ ಗುಣಮಟ್ಟ ಮತ್ತು ಪ್ರಯೋಗಾಲಯ ಮಾಹಿತಿ"
+  },
+  "suppMatch": {
+    "en_hash": "8f9b6e520c18a888ee4d47c2ad04ac00b353d06c4044246588c4204fe9f07b60",
+    "source": "machine",
+    "value": "ಪೂರಕ ಪಂದ್ಯ"
+  },
+  "tabLabs": {
+    "en_hash": "cbddbc39dfca5a5e4f35f0df2997137bf86c5c52fbe2aa32b61aca90108121da",
+    "source": "human",
+    "value": "BIS ಲ್ಯಾಬ್‌ಗಳು (431)"
+  },
+  "tabStandards": {
+    "en_hash": "1d1236b1156fc6a9ebad48cf0f2a207142cc90f7ee2ddc4a6f368a9fa05ed670",
+    "source": "human",
+    "value": "ಮಾನದಂಡಗಳ ಹುಡುಕಾಟ"
+  },
+  "tipInstant": {
+    "en_hash": "8fa08326e1d2359411832076ef30f6bba5a6fd5a8f64dd08c1609ca041adc51a",
+    "source": "human",
+    "value": "ಒತ್ತಿರಿ"
+  },
+  "tipKey": {
+    "en_hash": "78192e6eee0667b7195b93efb2aa7afc46f6a5eceb71b2e70fe561883d1e5e3c",
+    "source": "human",
+    "value": "Ctrl + Enter"
+  },
+  "tipPress": {
+    "en_hash": "06abaceb0231b71389f1268dbc9c25db44579707a888a92a45175962901c41d0",
+    "source": "human",
+    "value": "ಸುಳಿವು: ತ್ವರಿತವಾಗಿ ಹುಡುಕಲು"
+  },
+  "translatedQueryHeader": {
+    "en_hash": "02bac7ad1d6b19dfa21fcceb9604bf3aff93d75bcd05456fa55d5f40d5a2a8a8",
+    "source": "human",
+    "value": "ಅನುವಾದಿತ ತಾಂತ್ರಿಕ ವಿವರಣೆ:"
+  },
+  "trySampleBtn": {
+    "en_hash": "eeae36e98f9b6d0273c8f55bea41023d1bbf5a76c357b4ac6f6d80961fed156f",
+    "source": "human",
+    "value": "ಮಾದರಿ ವಿವರಣೆ"
+  },
+  "verifyBis": {
+    "en_hash": "597cd4c0968fe94d18b1800bc96b736201d5647ec11768900b0aa58b6759d695",
+    "source": "machine",
+    "value": "ಅಧಿಕೃತ ಬಿಐಎಸ್ ಪೋರ್ಟಲ್ ನಲ್ಲಿ ಪರಿಶೀಲಿಸಿ"
+  },
+  "viewAllied": {
+    "en_hash": "406995086cd5cd78d10cffe51ae148682031bf74f0df96744e2e997d0acf4912",
+    "source": "human",
+    "value": "ಸಂಬಂಧಿತ ಮಾನದಂಡಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
+  },
+  "voluntaryBadge": {
+    "en_hash": "fba14deccf4bb9484000dd8c4b4b4a562703d33a732bd68ec1104e54f1b96b46",
+    "source": "human",
+    "value": "ಐಚ್ಛಿಕ ಗುಣಮಟ್ಟ"
+  }
+}

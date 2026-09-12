@@ -1,0 +1,221 @@
+/* Design tokens — derived from design.md (Polaris-inspired). Single source of
+   truth: no hex codes or px values should appear outside this file.
+
+   Theming: every token is defined once for light (the :root default) and
+   once for dark, switched by a `data-theme="dark"|"light"` attribute on
+   <html> (set by ThemeContext). The `prefers-color-scheme` block is a
+   no-JS/first-paint fallback for an OS-dark visitor before the explicit
+   attribute is set — see the inline script in index.html that sets the
+   attribute before first paint to avoid a flash of the wrong theme.
+
+   Colour-role tokens keep the same name across both themes so components
+   never need to know which theme is active. One exception: --color-link vs
+   --color-interactive are deliberately separate tokens (see below) — this
+   is a distinction between two different semantic ROLES, not a per-theme
+   duplicate of the same role. */
+
+:root {
+  color-scheme: light;
+
+  /* Colour — surface */
+  --color-surface: #ffffff;
+  --color-surface-subdued: #f6f6f7;
+  /* The labs map (public/bis-labs-map.html) frame tint while its iframe
+     loads — the map itself now themes with the app (Phase 9C). */
+  --color-map-frame-bg: #000000;
+
+  /* Colour — text */
+  --color-text: #202223;
+  --color-text-subdued: #6d7175;
+  --color-text-on-role: #ffffff;
+
+  /* Colour — border */
+  --color-border: #e1e3e5;
+
+  /* Colour — interactive fill (solid button/badge backgrounds with white
+     text on top). This is intentionally NOT the same token as --color-link:
+     a colour dark/saturated enough for white text to read on top of it and
+     a colour light enough to read as plain text on a dark page surface are
+     mutually exclusive once the surface is genuinely dark — see the dark
+     block below. Since this token is only ever a *background* (verified by
+     grep across the whole codebase), its light-mode value already works
+     fine as a dark-mode background too and needs no override. */
+  --color-interactive: #2c6ecb;
+  --color-interactive-hover: #1f5199;
+
+  /* Colour — link/icon/border role (plain text, links, active-nav
+     underlines, focus rings — anything drawn directly on a surface rather
+     than as a filled background). Same value as --color-interactive in
+     light mode; diverges in dark mode where it must be much brighter to
+     stay readable on a near-black surface. */
+  --color-link: #2c6ecb;
+
+  /* Colour — role: critical
+     Darkened from design.md's illustrative #d82c0d — that value only cleared
+     4.40:1 against --color-critical-bg, short of WCAG AA's 4.5:1 for text. */
+  --color-critical: #d32b0d;
+  --color-critical-bg: #fdf0ee;
+
+  /* Colour — role: warning
+     Darkened from design.md's illustrative #b98900 — that value only cleared
+     2.94:1 against --color-warning-bg, well short of WCAG AA's 4.5:1. */
+  --color-warning: #906b00;
+  --color-warning-bg: #fdf6e8;
+
+  /* Colour — role: success
+     Darkened from design.md's illustrative #008060 — that value only cleared
+     4.42:1 against --color-success-bg, short of WCAG AA's 4.5:1 for text. */
+  --color-success: #007d5e;
+  --color-success-bg: #e9f5f1;
+
+  /* Colour — role: info
+     Slightly darkened from design.md's illustrative #3a70b0 — that value
+     cleared only 4.50:1 against --color-info-bg, right at the WCAG AA edge
+     with no margin for rendering/rounding differences. */
+  --color-info: #396eac;
+  --color-info-bg: #eaf2fa;
+
+  /* Typography */
+  --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-size-page-title: 26px;
+  --font-size-section-heading: 19px;
+  --font-size-card-heading: 15px;
+  --font-size-body: 14px;
+  --font-size-caption: 12px;
+  --font-weight-heading: 600;
+  --font-weight-body: 400;
+  --line-height-body: 1.45;
+
+  /* Spacing scale */
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-48: 48px;
+  --space-64: 64px;
+
+  /* Tag palette — one colour per allied-relationship type (see Tag.jsx) */
+  --tag-blue-bg: #eaf2fa;
+  --tag-blue-text: #1f5199;
+  --tag-teal-bg: #e6f4f3;
+  --tag-teal-text: #0f6b64;
+  --tag-red-bg: #fdf0ee;
+  --tag-red-text: #a3260f;
+  --tag-purple-bg: #f2eefb;
+  --tag-purple-text: #5c2d91;
+  --tag-green-bg: #e9f5f1;
+  --tag-green-text: #00664d;
+
+  /* Radii */
+  --radius-card: 8px;
+  --radius-control: 6px;
+
+  /* Elevation */
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.08);
+}
+
+/* ---------- Dark theme ----------
+   Every value below was chosen and verified against the WCAG contrast
+   formula (not eyeballed): role text colours clear 4.5:1 against BOTH
+   --color-surface and --color-surface-subdued (dark), and each tint
+   background clears 4.5:1 against its own paired text colour. Surfaces are
+   dark greys, not pure black; body text is off-white, not pure white. */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --color-surface: #212226;
+  --color-surface-subdued: #18191b;
+  --color-map-frame-bg: #000000;
+
+  --color-text: #e8e9ea;
+  --color-text-subdued: #9a9ba0;
+  --color-text-on-role: #ffffff;
+
+  /* Raised from #46484d (1.74:1 against --color-surface) — failed the
+     WCAG 1.4.11 non-text 3:1 minimum for input/control borders. #6e7075
+     clears 3.21:1, measured with the WCAG relative-luminance formula. */
+  --color-border: #6e7075;
+
+  --color-interactive: #2c6ecb;
+  --color-interactive-hover: #1f5199;
+
+  --color-link: #538bda;
+
+  --color-critical: #f25032;
+  --color-critical-bg: #341c19;
+
+  --color-warning: #af8200;
+  --color-warning-bg: #292214;
+
+  --color-success: #009c75;
+  --color-success-bg: #12261f;
+
+  --color-info: #5a8dc8;
+  --color-info-bg: #182532;
+
+  --tag-blue-bg: #172430;
+  --tag-blue-text: #518adc;
+  --tag-teal-bg: #122624;
+  --tag-teal-text: #169a90;
+  --tag-red-bg: #341c19;
+  --tag-red-text: #ed563a;
+  --tag-purple-bg: #231b37;
+  --tag-purple-text: #a174d4;
+  --tag-green-bg: #12261f;
+  --tag-green-text: #009c75;
+
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+/* No-JS / first-paint fallback for an OS-dark visitor. The inline script in
+   index.html normally sets data-theme before this ever matters; this block
+   only matters if that script is blocked, and never fires once an explicit
+   [data-theme="light"] choice is recorded. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]):not([data-theme="dark"]) {
+    color-scheme: dark;
+
+    --color-surface: #212226;
+    --color-surface-subdued: #18191b;
+    --color-map-frame-bg: #000000;
+
+    --color-text: #e8e9ea;
+    --color-text-subdued: #9a9ba0;
+    --color-text-on-role: #ffffff;
+
+    --color-border: #6e7075;
+
+    --color-interactive: #2c6ecb;
+    --color-interactive-hover: #1f5199;
+
+    --color-link: #538bda;
+
+    --color-critical: #f25032;
+    --color-critical-bg: #341c19;
+
+    --color-warning: #af8200;
+    --color-warning-bg: #292214;
+
+    --color-success: #009c75;
+    --color-success-bg: #12261f;
+
+    --color-info: #5a8dc8;
+    --color-info-bg: #182532;
+
+    --tag-blue-bg: #172430;
+    --tag-blue-text: #518adc;
+    --tag-teal-bg: #122624;
+    --tag-teal-text: #169a90;
+    --tag-red-bg: #341c19;
+    --tag-red-text: #ed563a;
+    --tag-purple-bg: #231b37;
+    --tag-purple-text: #a174d4;
+    --tag-green-bg: #12261f;
+    --tag-green-text: #009c75;
+
+    --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.4);
+  }
+}

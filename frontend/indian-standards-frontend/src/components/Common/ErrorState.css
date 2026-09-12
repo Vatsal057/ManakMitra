@@ -1,0 +1,25 @@
+.error-state {
+  background-color: var(--color-critical-bg);
+  border: 1px solid var(--color-critical);
+  border-radius: var(--radius-card);
+  padding: var(--space-16);
+  text-align: center;
+}
+
+.error-state-message {
+  color: var(--color-critical);
+  margin-bottom: var(--space-12);
+}
+
+.error-state-retry {
+  background-color: var(--color-interactive);
+  color: var(--color-text-on-role);
+  border: none;
+  border-radius: var(--radius-control);
+  padding: var(--space-8) var(--space-16);
+  cursor: pointer;
+}
+
+.error-state-retry:hover {
+  background-color: var(--color-interactive-hover);
+}

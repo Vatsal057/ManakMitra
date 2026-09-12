@@ -1,0 +1,80 @@
+.lab-card {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-card);
+  padding: var(--space-16);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.lab-card-top {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  flex-wrap: wrap;
+}
+
+.lab-card-confidence {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-4);
+  font-size: var(--font-size-caption);
+  color: var(--color-text-subdued);
+  margin-left: auto;
+}
+
+.lab-card-name {
+  font-size: var(--font-size-card-heading);
+  font-weight: var(--font-weight-heading);
+  line-height: var(--line-height-body);
+}
+
+.lab-card-address {
+  color: var(--color-text-subdued);
+  font-size: var(--font-size-caption);
+  line-height: var(--line-height-body);
+}
+
+.lab-card-contact {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  font-size: var(--font-size-caption);
+}
+
+.lab-card-contact a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.lab-card-contact a:hover {
+  text-decoration: underline;
+}
+
+.lab-card-meta {
+  display: flex;
+  gap: var(--space-12);
+  font-size: 11px;
+  /* De-emphasised via the subdued colour token alone — opacity would
+     blend it toward the background and drop it below 4.5:1 (measured
+     3.33:1 at 0.8). */
+  color: var(--color-text-subdued);
+}
+
+.lab-card-scope {
+  margin-top: var(--space-8);
+  align-self: flex-start;
+  background-color: var(--color-interactive);
+  color: var(--color-text-on-role);
+  border-radius: var(--radius-control);
+  padding: var(--space-8) var(--space-16);
+  text-decoration: none;
+  font-size: var(--font-size-caption);
+  font-weight: var(--font-weight-heading);
+}
+
+.lab-card-scope:hover {
+  background-color: var(--color-interactive-hover);
+}

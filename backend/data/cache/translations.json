@@ -47,6 +47,14 @@
     "provider": "nllb-200-distilled-600M",
     "translated_text": "Common Portland cement for general construction"
   },
+  "hi::?????? ?? ??? ????": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "What is this?"
+  },
+  "hi::????????? ?????? ?? ??? ?????? ????": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "What is the meaning of this verse?"
+  },
   "hi::अंतर्निहित सुरक्षा इंटरलॉक तंत्र के साथ दीवार सॉकेट": {
     "provider": "nllb-200-distilled-600M",
     "translated_text": "Wall Socket with built-in security interlock mechanism"
@@ -70,6 +78,10 @@
   "hi::सामान्य निर्माण कार्य के लिए साधारण पोर्टलैंड सीमेंट": {
     "provider": "nllb-200-distilled-600M",
     "translated_text": "Common Portland cement for general construction work"
+  },
+  "hi::सीमेंट के लिए मानक": {
+    "provider": "nllb-200-distilled-600M",
+    "translated_text": "Standard for cement"
   },
   "kn::ಅಂತರ್ನಿರ್ಮಿತ ಸುರಕ್ಷತಾ ಇಂಟರ್ಲಾಕ್ ಕಾರ್ಯವಿಧಾನದೊಂದಿಗೆ ಗೋಡೆಯ ಸಾಕೆಟ್": {
     "provider": "nllb-200-distilled-600M",

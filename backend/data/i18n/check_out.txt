@@ -1,0 +1,7 @@
+hi tabStandards: {'en_hash': '1d1236b1156fc6a9ebad48cf0f2a207142cc90f7ee2ddc4a6f368a9fa05ed670', 'source': 'human', 'value': 'मानक खोज'}
+en certification.Not determined: Not determined
+hi certification.Not determined: {'en_hash': '4465acfd744ce92c639e021e989661a2e10e042413fd84ff179ad3d3f45d604c', 'protected': True, 'source': 'human', 'value': 'अभी निर्धारित नहीं'}
+en confidenceBand.high: High
+en sample1Title: LT Copper Power Cable (1100V)
+en sample1Query: Procurement of 3-core copper conductor flexible PVC insulate
+hi sample1Query: {'en_hash': 'c830aedf14f4af4a55bcaf4f936d0b59baa1b4931aa3b21851c83cac3ebae3ad', 'source': 'human', 'value': 'संस्थागत भवन की वायरिंग के लिए 3-कोर तांबे का कंडक्टर, फ्लेक्सिबल पीवीसी इंसुलेटेड और शीथेड 1100V पावर केबल की आपूर्ति और खरीद।'}

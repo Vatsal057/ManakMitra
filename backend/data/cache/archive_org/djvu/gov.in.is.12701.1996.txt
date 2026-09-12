@@ -1,0 +1,2064 @@
+**************** 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live" 
+
+
+IS  12701  (1996) :  rotational  moulded  polyethylene  water 
+storage  tanks  [CED  3:  Sanitary  Appliances  and  Water 
+Fittings] 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New' 
+
+
+■K^y  / 1  juaaaws^fea  rs^^TTF^ 
+
+
+2*S<  W I  *>S*V2^NK^ 
+
+
+^frcvvv^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+?TR  TJ^  ^TT  teMHI  |  ^t  ^Wt  ^m\  ^f  ^TT  ^T^?TT  \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+.^^_ 
+
+
+• 
+
+
+BLANK  PAGE 
+
+
+*rt*2V^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  12701  :  1996 
+
+Reaffirmed  2006 
+
+qpft  cfc  *f^r  tg  knifed  ^fc^  —  fclf^lfe 
+
+(  Wcfi  zpiism  ) 
+
+Indian  Standard 
+
+ROTATIONAL  MOULDED  POLYETHYLENE 
+WATER  STORAGE  TANKS  —  SPECIFICATION 
+
+( First  Revision  ) 
+
+First  Reprint  JUNE   1998 
+ICS  23.020.10 
+
+
+©  BIS   1996 
+
+BUREAU      OF     INDIAN     STANDARDS 
+
+MANAK    BHAVAN,    9    BAHADUR    SHAH    ZAFAR    MARG 
+NEW  DELHI   110002 
+
+August  1996  Price  Group  5 
+
+
+AMENDMENT    NO.  1    JANUARY    2C0I 
+
+TO 
+
+IS  WW::*;-.     :«•    /''.•''.'  «NAL  MOULDED 
+
+POLYETHYLENE  WATER  STORAGE  TANKS  — 
+
+SPECIFICATION 
+
+(  First  Revision  ) 
+
+{Page  4,  clause  5£)  —  Insert  the  followii,  *  new  clause  after  5.5: 
+
+'5.6  Rotational  moulded  polyethylene  Woier >  )rage  tanks  may  be  manufactured 
+in  single  layei'  or  double  layers,  inner  Iayci  *  v  t  white  :..  colour.  The  outer 
+layer  shall  be  black  in  colour  and  its  thickness  .  *  be  minimum  50  percent  of. 
+the  total  thickness  of  the  wall.* 
+
+(CED3) 
+
+
+Reprography  Unit,  BIS,  New  Delhi,  India 
+
+
+AMENDMENT  NO.    2    JUNE  2004 
+
+TO 
+
+IS  12701  :  1996    ROTATIONAL  MOULDED 
+
+POLYETHYLENE  WATER  STORAGE  TANKS  — 
+
+SPECIFICATION 
+
+(  First  Revision  ) 
+
+(  Page  4,  clause  7.6,  line  4  )  —  Substitute  'tested  according  to  6  of  IS  9845' 
+for  'tested  according  to  5  of  IS  9845  :  1986'. 
+
+
+( CED  3 ) 
+
+
+Reprography  Unit.  BIS,  New  Delhi.  India 
+
+
+Sanitary  Appliances  and  Water  Fittings  Sectional  Committee,  CED  3 
+
+
+FOREWORD 
+
+This  Indian  Standard  (First  Revision)  was  adopted  by  the  Bureau  of  Indian  Standards  after  the  draft  finalized 
+by  the  Sanitary  Appliances  and  Water  Fittings  Sectional  Committee  hfcd  been  approved  by  the  Civil  Engineering 
+Division  Council. 
+
+Looking  to  the  widespread  use  of  rotational  moulded  polyethylene  tanks  for  the  storage  of  potable  water 
+in  India,  the  committee  felt  the  need  to  bring  out  an  Indian  Standard  in  carder  to  safeguard  the  user  of 
+such  tanks  against  quality  and  performance  requirements. 
+
+This  Standard  was  first  published  in  1989.  In  this  revision  of  the  standard  following  major  modifications 
+have  been  made: 
+
+—  Wall  thickness  and  weight  of  foe  tanks  have  been  modified  based  on  the  feedback  from  the  manufacturers 
+and  users. 
+
+—  Methods  of  installation  and  fittings  have  been  made  recommendatory  and  are  separately  given  at 
+Annex  E. 
+
+—  Method  for  carrying  out  flexural  strength  test  has  been  modified. 
+
+The  composition  of  the  technical  committee  responsible  for  the  preparation  of  this  standard  is  given  in 
+Annex  F. 
+
+For  the  purpose  of  deciding  whether  a  particular  requirement  of  this  standard  is  complied  with,  the  final 
+value,  observed  or  calculated,  expressing  the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accordance 
+with  IS  2  :  1960  'Rules  for  rounding  off  numerical  values  (  revised  )\  The  number  of  significant  places 
+retained  in  the  rounded  off  value  should  be  the  the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+IS  12701  :  1996 
+
+
+Indian  Standard 
+
+
+ROTATIONAL  MOULDED  POLYETHYLENE 
+WATER  STORAGE  TANKS  —  SPECIFICATION 
+
+(  First  Revision  ) 
+
+
+1  SCOPE 
+
+1.1  This  standard  covers  the  requirements  of 
+materials,  dimensions  construction,  shape, 
+workmanship,  performance  requirements  and 
+inspection  and  testing  of  rotational  moulded 
+polyethylene  water  storage  tanks  with  a  nominal 
+service  temperature  from  +1°C  to  +50°C 
+
+1.1.1  These  tanks  are  not  meant  for  undergroumd 
+applications. 
+
+1.2  This  standard  is  applicable  only  to  water  storage 
+tanks  subjected  to  the  following  two  conditions: 
+
+a)  Own  hydrostatic  head  of  water,  and 
+
+b)  Tank  w>th  uniform  flat  base  support. 
+
+1.3  This  standard  does  not  cover  mobile  water  tanks 
+and  horizontal  cylinderical  water  tanks. 
+
+2  REFERENCES 
+
+2.1  The  Indian  Standards  listed  in  Annex  A  are 
+necessary  adjuncts  to  this  standard. 
+
+3  TERMINOLOGY 
+
+3.0  For  the  purpose  of  this  standard  the  following 
+definitions  shall  apply. 
+
+3.1  Rotational  Moulded  Water  Storage  Tank 
+
+A  tank  moulded  from  polyethylene  powder  by  the 
+process  of  rotational  moulding. 
+
+3.2  Net  Capacity 
+
+r^et  capacity  shall  be  net  volume  of  water  contained 
+between  the  lowest  level  of  the  inlet  and  lowest 
+specified  level. 
+
+3.3  Gross  Capacity 
+
+The  total  enclosed  volume  of  the  tank  including  any 
+space  which  may  not  be  capable  of  being  filled  with 
+water. 
+
+3.4  Mould  Parting  Line 
+
+A  circumferential  line  visible  only  on  external  surface 
+of  the  tank  corresponding  to  a  parting  joint  of  the 
+mould  required  for  rotational  moulding  (see  Fig.  1). 
+
+
+3.5  Overall  Height 
+
+The  height  of  the  finished  empty  tank  at  its  highest 
+point  including  the  top  rim  of  the  man-hole  and  lid 
+of  the  tank  (see  Fig.   I). 
+
+3.6  Effective  Height 
+
+The  height  of  the  finished  empty  tank  from  its  base 
+to  the  point  where  overflow  connection  is  provided 
+for  the  purpose  of  limiting  water  storage  capacity 
+(see  Fig.  1). 
+
+3.7  Overall  Diameter 
+
+The  maximum  diameter  of  finished  empty  tank 
+measured  at  its  base  as  the  mean  of  two  measurements 
+of  diameters  including  wall  thickness  of  the  tank  and 
+avoiding  the  mould  parting  line  (see  Fig.   1). 
+
+3.8  Rim  Height 
+
+The  perpendicular  distance  from  the  highest  point 
+of  the  top  rim  of  the  man-hole  to  the  nearest  point 
+of  the  shoulder  of  the  finished  empty  tank  (see  Fig.  1). 
+Rim  can  be  provided  above  the  tank  or  within  the 
+tank. 
+
+3.9  Man-Hole/Hand-Hole 
+
+A  hole  of  suitable  internal  diameter  provided  at  the 
+top  of  the  tank,  for  the  purpose  of  inspection  of 
+internal  surface  and  entry  into  the  tank. 
+
+3.10  Internal  Diameter  of  Man-Hole/Hand-Hole 
+
+The  internal  diameter  of  the  rim  of  the  man-hole 
+measured  as  the  mean  of  two  perpendicular  diameters 
+(see  Fig.  1). 
+
+4  MATERIALS 
+
+4.1  The  material  of  construction  of  tank,  lid  and 
+fittings  which  come  in  contact  with  water  shall  be 
+such  that  it  does  not  impart  any  taste,  colour  or  odour 
+to  water,  nor  have  any  toxic  effect,  and  it  shall  not 
+contaminate  water  thereby  making  it  unpotable. 
+
+4.2  Polyethylene  resin  to  be  used  for  the  manufacture 
+of  water  tanks  should  be  of  rotational  moulded  grade 
+and  duly  stabilized  with  anti-oxidants.  The  anti- 
+oxidants used,  not  exceeding  0.3%  by  mass  of  finished 
+resin,  should  be  physiologically  harmless  and  should 
+be  selected  from  the  list  given  in  IS  10141  :  1982. 
+In  addition,  the  material  shall  also  meet  the 
+requirements  given  in  4.2.1  to  4.2.4. 
+
+4.2.1  The  density  of  resin  (base  material)  at  23"C 
+when  tested  in  accordance  with  IS  7328  :  1992  shall 
+be  within  932  to  943  kg/m\ 
+
+
+IS  12701  :  1996 
+
+4.2.2  The  melt  flow  rate  (MFR)  of  the  resin  when 
+tested  under  the  test  condition  D  (temperature  190PC 
+and  nominal  load  of  2.16  kg)  and  in  accordance  with 
+IS  2530 :  1963  shall  be  within  2.0  to  6.0  g/10  minutes. 
+
+4.2.3  The  water  tanks  meant  for  out  door  use  shall 
+be  manufactured  from  carbon  black  compounded 
+polyethylene.  The  carbon  black  content  and  carbon 
+dispersion  test  shall  be  carried  out  in  accordance  with 
+the  procedure  described  in  IS  2S30  :  1963  and  shall 
+meet  the  following  requirements: 
+
+a)  The  percentage  of  carbon  black  content  in 
+the  material  shall  be  within  2.0  and  3.0,  and 
+
+
+LIO    OF   MANHOLE 
+
+
+INLET" 
+
+
+Ha;tj^L,D  r 
+
+
+b)  The  dispersion  of  carbon  black  shall  be 
+satisfactory. 
+
+4.3  The  addition  of  not  more  than  10  percent  of  the 
+manufacturers  own  reworked  material  resulting  from 
+the  manufacture  of  tanks  only  according  to  this 
+standard  is  permissible.  No  other  reworked  or  recycled 
+waste  material  from  any  other  source  or  filler  shall 
+be  used  in  the  manufacture  of  tanks. 
+
+5  TYPES  AND  FEATURES 
+
+5.1  Cylinderical  Vertical  Tank  (Fig.  1) 
+
+The  dimensions,  net  and  gross  capacities  and  weight 
+of  the  tank  shall  be  as  given  in  Table  1. 
+
+
+FLOAT  TYPE  LEVEL 
+
+INDICATOR  (OPTIONAL) 
+
+
+MOULD  PARTING 
+LINE 
+
+
+RCC/PCC 
+PLATFORM 
+
+
+NOTE  —  A  25  mm  wide  band  shall  be  painted  around  the  tank  at  the  inlet/overflow  level  and  outlet 
+level.  Centre  line  of  the  band  shall  be  50  mm  minimum  from  top/inner  bottom  of  the  tank. 
+
+A  —  Male  threaded  Q.I.  brass  or  PVC  connections. 
+
+Fig.  1  Typical  details  of  Cylinderical  Vertical  Tank 
+
+2 
+
+
+IS  12701  :  19% 
+
+
+Table  1  Dimensions  of  Cylinderical  Vertical  Tank 
+
+{Clause  5.1) 
+
+
+SI 
+
+Minimum  Net  Capacity 
+
+Overall 
+
+Overall 
+
+Minimum  Internal 
+
+Minimum  Wall 
+
+Minimum 
+
+No. 
+
+Up  to  Effective 
+
+Dimeter 
+
+Height  Range 
+
+Dla  of  Man-Hole/ 
+
+and  Bottom 
+
+Weight  or  tank 
+
+Height 
+
+Range 
+
+Hand-Hole 
+
+Thickness 
+
+(Without  lid) 
+
+(1) 
+
+(mm) 
+
+(mm) 
+
+(mm) 
+
+(mm) 
+
+(kg) 
+
+(I) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+(7) 
+
+i) 
+
+200 
+
+650  -  850 
+
+490  -  690 
+
+265 
+
+3.0 
+
+7.8 
+
+H) 
+
+300 
+
+650  -  850 
+
+700     900 
+
+265 
+
+3.0 
+
+9.0 
+
+iii) 
+
+400 
+
+700  -  980 
+
+700  -  950 
+
+265 
+
+3.5 
+
+15.0 
+
+iv) 
+
+500 
+
+800  -  1140 
+
+625  -  1  025 
+
+370 
+
+4.0 
+
+18.0 
+
+v) 
+
+700 
+
+900  -  I  140 
+
+800  -  I  100 
+
+370 
+
+4.4 
+
+23.0 
+
+vi) 
+
+1000 
+
+1000-  1200 
+
+I  050  -  1  350 
+
+370 
+
+4.5 
+
+33.0 
+
+vii) 
+
+J  500 
+
+1  080  -  1  450 
+
+I  150  -  1  590 
+
+370 
+
+4.5 
+
+47.0 
+
+viii) 
+
+1700 
+
+1  300  -  1  500 
+
+I  260  -  1  650 
+
+370 
+
+4.5 
+
+54.0 
+
+ix) 
+
+2000 
+
+i  365  -  1  500 
+
+1  400  -  1  700 
+
+450 
+
+5.4 
+
+64.0 
+
+x) 
+
+2  500 
+
+1  380  -  1  610 
+
+1400-1810 
+
+450 
+
+7.7 
+
+81.0 
+
+xi) 
+
+3000 
+
+1  410  -  1  800 
+
+1  640  -  2  150 
+
+450 
+
+8.1 
+
+96.0 
+
+xii) 
+
+4000 
+
+1  450  -  1  920 
+
+1750  -  2400 
+
+450 
+
+10.4 
+
+147.0 
+
+xht) 
+
+5000 
+
+1800  -  2110 
+
+I  800  -  2 100 
+
+450 
+
+10.7 
+
+180.0 
+
+xiv) 
+
+6000 
+
+1800  -  2200 
+
+2065  *  2800 
+
+450 
+
+10.7 
+
+205.0 
+
+xv) 
+
+7  500 
+
+1890  -  2250 
+
+2100  -  2930 
+
+450 
+
+10.7 
+
+239.0 
+
+xvi) 
+
+10  000 
+
+1900  -  2680 
+
+2400  -  3740 
+
+450 
+
+11.5 
+
+319.0 
+
+xvii) 
+
+15  000 
+
+2  100  -  2  680 
+
+3  100  -  4000 
+
+450 
+
+11.5 
+
+408.0 
+
+xviii) 
+
+20  000 
+
+2  100  -  3  150 
+
+3  190-5  000 
+
+450 
+
+13.2 
+
+566.0 
+
+NOTE 
+
+—  The  gross  capacity  of  the  tanks  shall  be 
+
+at  least  5  percent 
+
+in  excess  of  the  minimum  net  capacity. 
+
+5.2  Rectangular  Loft  Tank  (Fig,  2) 
+
+The  dimensions,  net  and  gross  capacities  and  weight 
+of  the  tank  shall  be  as  given  in  Table  2. 
+
+
+Fig.  2  Rectangular  Loft  Tank 
+
+
+5.3  A  flat  area  may  be  provided  on  the  top  of  the 
+cylinderical  vertical  tanks  for  workers  to  stand  before 
+entering  the  tank. 
+
+5.*  Wall  Thickness 
+
+Owing  to  limitations  of  rotational  moulding  process, 
+the  wall  thickness  of  the  water  storage  tank  at  bottom, 
+top  and  cylinderical  sides  at  the  bottom  and  top 
+edges  where  the  shape  of  tank  changes  is  usually 
+found  to  be  much  greater  than  the  wall  thickness  at 
+other  surfaces.For  cylinderical  vertical  tanks  the  wall 
+thickness  upto  the  effective  height  of  the  tank  shall 
+not  be  less  than  the  values  given  in  Table  1  and  the 
+wall  thickness  above  the  effective  height  of  the  tank 
+shall  be  not  less  than  75  per  cent  of  the  values  given 
+
+
+Table  2  Dimensions  of  Rectangular  Loft  Tanks 
+
+{Clause  5.2) 
+
+
+SI 
+No. 
+
+
+Minimum  Net 
+Capacity 
+
+
+Overall 
+Length 
+
+
+Overall 
+Width 
+
+
+Overall 
+Height 
+
+
+(I) 
+i) 
+ii) 
+iii) 
+iv) 
+v) 
+NOTE  —  The  gross  capacity  of  the  tanks  shall  be  at  least  5  percent  in  excess  of  the  minimun  net  capacity. 
+
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+150 
+
+620  -  820 
+
+620  -  820 
+
+285  -  485 
+
+200 
+
+930  -  1  130 
+
+620  -  820 
+
+285  -  485 
+
+300 
+
+•    995  -  1  200 
+
+620  -  820 
+
+285  -  485 
+
+400 
+
+1  150  -  1  350 
+
+855  -  1150 
+
+335  -  535 
+
+500 
+
+1  150  *  1  500 
+
+900  -  1250 
+
+335  -  535 
+
+Mtnmum 
+
+Minimum  Wall 
+
+Minroum 
+
+Internal  Dla  of 
+
+Thickness 
+
+Weight 
+
+Hand  Hole 
+
+(Measured  on) 
+
+Weight  of 
+
+Rectangular 
+
+Tank 
+
+Vertical  Port 
+
+(Without  Ud) 
+
+and  Bottom 
+
+Thickness 
+
+(6) 
+
+(7) 
+
+(8) 
+
+300 
+
+2.75 
+
+6.6 
+
+300 
+
+2.75 
+
+7.7 
+
+300 
+
+2.75 
+
+11.0 
+
+300 
+
+2.75 
+
+13.0 
+
+300 
+
+2.75 
+
+17.5 
+
+IS  12701  :  1996 
+
+in  Table  1.  For  rectangular  loft  tanks  the  wall  thick- 
+ness shall  be  in  accordance  with  the  values  given 
+in  Table  2.  The  wall  thickness  shall  be  measured  at 
+least  at  20  points  well  distributed  on  the  sides,  top 
+and  bottom.  Thickness  measurement  on  lid  shall  be 
+made  at  least  in  four  well  distributed  locations. 
+
+5.5  The  dimensions  as  given  in  5.1  and  5.2  refer 
+to  finished  empty  tanks.  Measurement  shall  be  made 
+after  48  hours  of  moulding.  The  wall  thickness  may 
+be  measured  with  a  dial  gauge  micrometer  fitted  with 
+spherical  anvils.  The  overall  diameter,  height  and 
+other  dimensions  may  be  measured  with  steel  rule 
+or  steel  tape  of  desired  accuracy  by  placing  the  empty 
+tank  on  a  flat  surface. 
+
+6  FINISH 
+
+6.1  The  internal  and  external  surface  of  the  water 
+storage  tank  shall  be  smooth,  clean  and  free  from 
+other  hidden  internal  defects,  such  as  air  bubbles, 
+pits  and  metallic  or  other  foreign  material  inclusions. 
+The  mould  parting  line  and  excess  material  near  the 
+top  rim  of  the  tank  shall  be  cut  and  finished  to  the 
+required  level.  Defects  like  air  bubbles  and  pits  at 
+mould  parting  line  and  at  top  rim  of  the 
+main-man-hole  shall  be  repaired  by  hot-air  filler  rod 
+welding  method. 
+
+7  PERFORMANCE  REQUIREMENTS 
+
+7.1  Resistance  to  Deformation 
+
+7.1.1  When  cylindrical  vertical  water  storage  tanks 
+is  tested  in  accordance  with  the  Method  1  described 
+at  Annex  B,  the  difference  between  the 
+circumferrential  measurement  shall  not  be  greater 
+than  2  percent  of  the  original  measurements. 
+
+7.1.2  When  rectangular  loft  tank  is  tested  in 
+accordance  with  the  Method  2  described  at 
+Annex  B  the  difference  between  the  longitudinal 
+measurements  shall  not  be  greater  than  3  percent  of 
+the  original  measurements. 
+
+NOTE  —  The  tank  shall  not  crack  at  the  observed  deflection. 
+
+7.2  Resistance  to  Impact 
+
+When  polyethylene  water  tank  is  tested  in  accordance 
+with  the  method  as  described  in  Annex  C  the  impact 
+shall  neither  result  into  cracking  nor  puncture  of  the 
+
+tank. 
+
+7.3  Test  for  Top  Load  Resistance 
+
+7.3.1  The  tank  shall  be  filled  to  98  percent  of  its 
+net  capacity  and  shall  be  subjected  for  not  less  than 
+4  hours  at  outdoor  temperature  to  compression  by 
+means  of  100  kg  load  applied  on  the  horizontal  surface 
+provided  for  a  man  to  stand  before  entering  the  tank. 
+After  removal  of  the  load  the  test  specimen  shall  be 
+inspected  for  deformation  or  crack  on  the  surface  and 
+after  4  hours  of  the  removal  of  the  load  the  flat 
+surface  shall  return  to  normal  position. 
+
+
+This  test  shall  be  applied  to  tanks  with  capacity  1  500 
+litres  and  more. 
+
+7.4  Tensile  Strength 
+
+7.4.1  Tensile  strength  at  yield  shall  be  determined 
+in  accordance  with  IS  8543(Part  4/Sec  1)  :  1984. 
+The  tensile  strength  of  the  wall  of  water  tanks  shall 
+not  be  less  than  12  N/mm2. 
+
+7.4.2  The  test  specimens  shall  be  cut  from  the  flat 
+portion  of  the  top  of  the  water  tank  at  a  temperature 
+not  exceeding  50°C  and  then  machined. 
+
+7.5  Flexural  Modulus 
+
+7.5.1   The  flexural  modulus  shall  be  determined  in 
+accordance  with  IS  13360  (Part  5/Sec  7) :  1995. 
+The  flexural  modulus  of  the  wall  of  the  water  tank 
+shall  not  be  less  than  300  N/mm2.  The  sample  shall 
+be  taken  as  given  in  7.4.2. 
+
+7.6  Overall  Migration 
+
+The  material  of  construction  (compounded  resin)  shall 
+meet  the  specified  limits  of  overall  migration  of 
+constituents  as  specified  in  IS  10146  :  1982  when 
+tested  according  to  5  of  IS  9845  :  1986. 
+
+8   SAMPLING  AND  TESTING 
+
+8.1  Routine  Tests 
+
+The  scale  of  sampling  and  criteria  for  conformity  of 
+a  lot  for  routine  tests  specified  in  Table  3  shall  be 
+as  given  in  Annex  D. 
+
+Table  3  Routine  Tests 
+
+
+SINc 
+
+>.                 Test 
+
+Ref  to  Clause 
+and  Annex 
+
+(1) 
+
+(2) 
+
+(3) 
+
+i) 
+
+Band  width/location 
+
+Fig.  1 
+
+ii) 
+
+Outer  dimensions  and  Weight 
+
+Table  1  and  Table  2 
+
+iii) 
+
+Net  capacity 
+
+Table  1  and  Table  2 
+
+iv) 
+
+Gross  capacity 
+
+Table  1  and  Table  2 
+
+v) 
+
+Thicknesses 
+
+Table  1  and  Table  2 
+
+vi) 
+
+Resistance  to  deformation 
+
+7.1  and  Annex  B 
+
+vii) 
+
+Resistance  to  impact 
+
+7.2  and  Annex  C 
+
+viii) 
+
+Test  for  top  load  resistance 
+
+7.3 
+
+ix) 
+
+Tensile  strength 
+
+7.4 
+
+x) 
+
+Flexural  modulus 
+
+7.5 
+
+8.2  Type  Tests 
+
+Type  tests  are  intended  to  prove  the  suitability  and 
+performance  of  water  tank  of  a  new  composition,  a 
+new  technique,  new  shape  or  modified  wall  thickness. 
+Such  tests  need  necessarily  be  done,  before  undertaking 
+mass  production  when  a  change  is  made  in  polymer 
+composition  or  method  of  manufacture  or  when  a 
+
+
+IS  12701  :  1996 
+
+
+new  size  and  shape  of  water  tank  is  introduced. 
+However,  if  no  change  is  envisaged,  at  least  one 
+sample  of  any  size  shall  be  put  to  Type  Tests'  once 
+in  a  year.  Tests  for  suitability  of  tank  material  as 
+specified  in  4  and  overall  migration  as  specified  in 
+7.6  shall  be  taken  as  type  tests. 
+
+9  MAN-HOLE  HAND-HOLE  LIDS 
+
+9.1  Materials 
+
+Man-hole  hand-hole  lids  shall  be  moulded  from 
+polyolefins  of  minimum  thickness  3mm  and  shall 
+have  sufficient  ribs  to  provide  adequate  stiffness.  It 
+shall  be  stabilized  with  2  to  3  percent  of  carbon  black 
+having  satisfactory  dispersions.  The  carbon  black 
+content  and  carbon  disperion  test  shall  be  carried  out 
+in  accordance  with  IS  2530:1963 
+
+9.2  The  lid  shall  fit  securely  over  the  top  rim  of  the 
+tank  and  it  shall  rest  evenly  on  it  in  order  to  prevent 
+the  ingress  of  foreign  matter  such  as  insects, 
+mosquitoes  or  dust  through  the  top  of  the  tank.  The 
+lid  shall  also  be  provided  with  suitable  locking 
+arrangement. 
+
+9.2.1  To  test  the  lid  being  fit  securily  to  the  manhole, 
+no  clearance  in  it  should  permit  a  1.6  mm  diameter 
+wire  to  pass  through. 
+
+
+10  MARKING 
+
+10.1  All  the  water  storage  tanks  shall  be  marked 
+with  the  following  information: 
+
+a)  Manufacturer's  name,  initials  or  recognised 
+trade  mark; 
+
+b)  Net  capacity  in  litres; 
+
+c)  Lot   or   Batch    number,    and    year   of 
+manufacture;  and 
+
+d)  'For  indoor  use  only',  for  tanks  meant  for 
+indoor  use. 
+
+10.2  In  additions  to  the  marking  by  painting,  the 
+manufacturers  name  or  trade  mark  and  net  capacity 
+of  the  tank  shall  be  moulded  on  the  external  surface 
+of  the  tank  during  manufacture. 
+
+10.3  BIS  Certifications  Marking 
+
+The  tanks  may  also  be  marked  with  Standard  Mark. 
+
+103.1  'The  use  of  the  Standard  Mark  is  governed 
+by  the  provisions  of  the  Bureau  of  Indian  Standards 
+Act,  1986  and  the  Rules  and  Regulations  made  there 
+under.  Details  of  conditions  under  which  a  licence 
+for  the  use  of  the  standard  mark  may  be  granted  to 
+the  manufactures  or  producers  may  be  obtained  from 
+the  Bureau  of  Indian  Standards. 
+
+
+ANNEX  A 
+
+(Clause  2.1) 
+
+
+IS  No. 
+554  :   1985 
+
+
+1879  :   1987 
+2530  :  1963 
+
+4905  :  1968 
+7328  :  1992 
+
+
+8543 
+
+(Part  4/Sec  1) 
+1984 
+
+
+Title 
+
+Dimensions  for  pipe  threads 
+where  pressure-tight  joints  are 
+required  on  threads  (  third 
+
+revision  ) 
+
+Malleable  cast  iron  pipe  fittings 
+(  second  revision  ) 
+
+Methods  of  test  for  polyethylene 
+moulding  materials  and 
+poly-ethylene  compounds 
+
+Methods  for  random  sampling 
+
+High  density  polyethylene 
+materials  for  moulding  and 
+extrusion 
+
+Methods  of  testing  plastics  : 
+Part  4  Short  term  mechanical 
+properties,  Section  1  Deter- 
+mination of  tensile  properties 
+
+
+IS  No. 
+9845  :  1986 
+
+
+10141  :  1982 
+
+
+10146  :  1982 
+
+
+13360 
+
+(Part  5/Sec  7) 
+1995 
+
+
+Title 
+
+Methods  of  analysis  for  the 
+determination  of  specific  and/ 
+or  overall  migration  of 
+constituents  of  plastic  materials 
+and  articles  intended  to  come 
+into  contact  with  foodstuffs 
+(  first  revision  ) 
+
+Positive  list  of  constituents  of 
+polyethylene  in  contact  with 
+foodstuffs,  pharmaceuticals  and 
+drinking  water 
+
+Polyethylene  for  its  safe  use  in 
+contact  with  foodstuffs,  pharma- 
+ceuticals and  drinking  water 
+
+Plastics  —  Methods  of  testing  : 
+Part  5  Mechanical  properties, 
+Section  7  Detemination  of 
+flexural  properties 
+
+
+IS  12701  :  1996 
+
+
+ANNEX  B 
+
+(  Clauses  7.1.1  and  7.1.2  ) 
+
+METHOD  OF  DEFORMATION  TEST 
+
+
+B-l   METHOD  1,    FOR  CYLINDERICAL 
+VERTICAL  TANKS 
+
+B-l.l  The  water  tank  shall  be  placed  on  a  flat 
+level  base.  A  circumferential  measurement  shall  be 
+made  parallel  to  the  base  at  a  distance  of  one  third 
+the  effective  height.  The  tank  shall  be  filled  upto 
+the  effective  height  at  a  minimum  rate  of  23  1/min 
+with  water  at  temperature  of  not  less  than  15°C. 
+
+B-l. 2  A  continuous  film  of  polythyelene  shall  be 
+floated  over  the  whole  of  the  surface  of  the  water 
+in  the  tank  to  prevent  evaporation. 
+
+B-l. 3  The  tank  and  water  shall  be  maintained  at 
+temperature  not  less  than  15°C  and  after  3  days  a 
+circumferential  measurement  shall  be  made  at  the 
+previously  determined  level. 
+
+The  difference  between  the  two  circumferential 
+measurement  shall  be  expressed  as  a  percentage  of 
+the  original  circumferential  measurements. 
+
+B-2  METHOD  2,  FOR  RECTANGULAR  LOFT 
+TANK 
+
+B-2.1  The  rectangular  tanks  shall  be  placed  on  a 
+flat  level  base.  The  internal  length  and  width  of  the 
+tank  shall  be  measured  on  the  centre  lines,  as  shown 
+in  Fig.  3  at  the  centre  of  effective  height. 
+
+
+B-2.2  The  tank  shall  be  filled  upto  the  effective 
+height  at  a  minimum  rate  of  23  litres/min  with  water 
+at  a  temperature  not  less  than  15°C.  The  lid  shall 
+be  closed  after  filling  the  loft  tank. 
+
+B-2.3  The  tank  and  water  shall  be  maintained  at 
+a  temperature  of  not  less  than  15°C  and  after  7  days 
+measurements  of  length  and  width  shall  be  made  at 
+a  previously  determined  centre  lines. 
+
+B-2.4  The  deformation  in  each  direction  shall  be 
+calculated  as  follows: 
+
+DL    =         ^    '      *  100 
+
+D„     m     * 1_     x    1Q0 
+
+
+2W, 
+
+
+Where 
+
+
+DL  =  deformation  of  the  longer  side, 
+
+Dw  =  deformation  of  the  shorter  side, 
+
+Wx  a  width  at  the  start  of  test, 
+
+W2  =  width  at  the  end  of  the  test, 
+
+L,  =  length  at  the  start  of  test,  and 
+
+Z^  =  length  at  the  end  of  test. 
+
+
+< 1 « 
+
+w 
+
+1 
+
+L 
+
+S                   i 
+
+CENTRE  L(NE 
+MEASUREMENTS 
+
+
+Fro.  3 
+
+
+ANNEX  C 
+(  Clause  7.2  ) 
+
+
+C-l   METHOD  FOR  IMPACT  RESISTANCE 
+TEST  FOR  WATER  TANK 
+
+C-l.l  The  water  tank  shall  be  inverted  and  the  base 
+of  tank  shall  be  struck  with  a  25  mm  diameter 
+hemispherically  ended  striker  of  mass  2.S  kg  falling 
+freely  from  a  height  of  3.0  metre. 
+
+
+C-l. 2  The  striker  shall  be  so  arranged  as  to  hit  the 
+base  at  its  mid-point;  Three  other  impacts  shall  be 
+made,  which  shall  be  as  close  to  the  edge  or  corners 
+of  the  base  as  is  practical.  The  shape  of  the  striker 
+shall  be  such  that  only  the  surface  of  the  specified 
+hemisphere  comes  into  contact  with  the  tank  under 
+the  initial  blow, 
+
+
+IS  12701  :  1996 
+ANNEX  D 
+
+(  Clause  8.1  ) 
+SCALE  OF  SAMPLING  AND  CRITERIA  FOR  CONFORMITY  FOR  ROUTINE  TESTS 
+
+
+D-l   SCALE  OF  SAMPLING 
+D-l.l  Lot 
+
+In  any  consignment,  all  the  tanks  of  same  size  and 
+type  made  from  same  raw  materials  and  manufactured 
+under  similar  conditions  shall  be  grouped  together 
+to  constitute  a  lot. 
+
+D*l*2  For  ascertaining  the  conformity  of  the  tanks 
+to  the  requirements  of  the  specification,  samples  shall 
+be  tested  from  each  lot  separately. 
+
+D-1.3  The  number  of  water  storage  tanks  to  be 
+selected  from  a  lot  shall  depend  on  the  size  of  the 
+lot  and_shall  be  according  to  Table  4  for  tanks  with 
+capacity  up  to  1  000  litres  and  Table  5  for  tanks 
+with  capacity  above  1  000  litres. 
+
+D-1.4  Hie  tanks  shall  be  selected  at  random  from 
+the  lot.  In  order  to  ensure  the  randomness  of  selection 
+procedures  given  in  IS  4905:1968  may  be  followed. 
+
+D-2  NUMBER  OF  TESTS  AND  CRITERIA  FOR 
+CONFORMITY 
+
+D-2.1  Visual,  Dimensional  Requirements  and 
+Capacity 
+
+D-2.1. 1  Tanks  of  Capacity  up  to  1  000  litres 
+
+Each  of  the  tanks  selected  according  to  col  1 
+and  2  of  the  Table  4  shall  be  examined  for  the  tests 
+at  SI  No.  1,  2,  3  and  4  of  Table  3.  A  tank  failing 
+to  satisfy  one  or  more  of  these  requirements  shall 
+be  considered  as  defective.  The  lot  shall  be  deemed 
+to  have  satisfied  these  requirements  if  the  number 
+of  defectives  found  in  the  sample  is  less  than  or 
+equal  to  the  corresponding  acceptance  number  given 
+in  col  3  of  Table  4. 
+
+D-2. 1.2   Tanks  of  capacity  above  1  000  litres 
+
+Each  of  the  tanks  selected  according  to  col  1  and 
+2  of  Table  5  shall  be  examined  for  the  tests  given 
+at  SI  No.  1,  2,  3  and  4  of  the  Table  3.  A  tank  failing 
+to  satisfy  one  or  more  of  these  requirements  shall 
+be  considered  as  defective.  The  lot  shall  be  deemed 
+to  have  satisfied  these  requirements  if  there  is  no 
+defective  in  the  sample. 
+
+
+D-2.2  The  lot  having  been  found  satisfactory 
+according  to  D-2.1  shall  be  further  tested  for  tests 
+at  SI  No.  5,  6,  7,  8f  9  and  10  of  Table  3.  For  this 
+purpose  a  sub-sample  of  the  size  given  in  col  4  of 
+Table  4  or  col  3  of  Table  5,  as  the  case  may  be, 
+shall  be  selected  from  those  already  examined  and 
+found  satisfactory  according  to  D-2.1  and  shall  be 
+tested  for  requirements,  as  specified.  The  lot  shall 
+be  declared  to  have  satisfied  the  requirements  if  no 
+defective  is  found  in  the  sub-sample. 
+
+Table  4  Scale  of  Sampling  and  Criteria  for 
+
+Conformity 
+
+(For  Tanks  with  Capacity  up  to  1 000  1) 
+
+
+(Clause  D-1.3) 
+
+SI 
+No. 
+
+Lot  Size 
+
+Sample  Acceptance   Sub-sample  Size 
+Size       Number         for  Tests  at 
+
+SI  No.  (v),  (vi),  (vtt), 
+(vttl),  (Ix)  and  (x) 
+of  Table  3 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+i) 
+
+Up  to 
+
+50 
+
+2 
+
+0 
+
+1 
+
+ii) 
+
+51    to 
+
+100 
+
+3 
+
+0 
+
+1 
+
+iii) 
+
+101  to 
+
+300 
+
+5 
+
+0 
+
+2 
+
+iv) 
+
+301  to 
+
+500 
+
+8 
+
+0 
+
+3 
+
+v) 
+
+501  and  above       13 
+
+1 
+
+5 
+
+Table  5  Scale  of  Sampling 
+(For  Tanks  with  Capacity  Above  1  000  1) 
+
+(Clause  D-1.3) 
+
+
+SI 
+No. 
+
+Lot  Size 
+
+Sample  Size 
+
+Sub-sample  Size 
+for  Tests  at 
+
+SI  No.  (v)t  (vl),  (vil), 
+
+(vttl),  (be)  and  (x) 
+
+of  Table  3 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+0 
+
+Up    to  25 
+
+2 
+
+1 
+
+ii) 
+
+26   to   50 
+
+3 
+
+1 
+
+iii) 
+
+51    to    100 
+
+4 
+
+1 
+
+iv) 
+
+101  and  above         5 
+
+2 
+
+IS  12701  :  1996 
+
+
+ANNEX  E 
+
+(  Foreword ) 
+
+RECOMMENDATIONS  FOR  INSTALLATION  AND  FITTING  OF  TANKS 
+
+
+E-l  Vent  pipe/overflow  pipe  is  provided  near  the  top 
+with  mosquito  and  insect  proof  cap. 
+
+E-2  The  flat  base  of  cylindrical  vertical  or  rectangular 
+water  storage  tanks  should  be  fully  supported  over 
+its  whole  bottom  area  by  a  durable,  rigid,  flat  and 
+level  platform  sufficiently  strong  to  withstand  without 
+deflection  the  weight  of  the  tank  when  filled  fully 
+with  the  water.  In  case,  the  tank  is  placed  on  a 
+suitable  M.  S.  platform  then  it  is  essential  that  the 
+latter  is  free  from  sharp  edges,  corners  or  surface 
+projections  and  shall  be  corrosion  resistant. 
+
+E-3  Where  required  the  tanks  shall  be  suitably 
+anchored.  The  tanks  may  also  be  provided  with 
+clamping  devices. 
+
+E-4  The  pipelines,  valves  and  other  fittings  should 
+be  supported  in  such  a  manner  that  it  is  aligned 
+properly  so  as  not  to  produce  any  distortion  in  the 
+water  tank  where  the  fitting  is  fixed. 
+
+E-S  The  checknuts  of  the  threaded  connection  should 
+be  placed  after  placing  rubber  gaskets  and  should 
+not  be  overtightened.  Under  no  circumstances  should 
+jointing  compounds  or  putty  be  employed  in  contact 
+with  the  polyethylene  water  tanks.  PTFE  (poly-tetra- 
+fluroethylene)  unsintered  tape  may  be  wrapped  around 
+the  threaded  portion  of  the  valves  and  connections 
+to  act  as  a  sealant. 
+
+E-6  Circular  holes  drilled  for  fixing  threaded 
+connections  should  have  a  clean  edge  free  from 
+notches.  Holes  can  be  drilled  with  a  high  speed  steel 
+hole  saw  cutter.  Scratching  or  scoring  the  wall  should 
+not  be  done  for  setting  out  holes. 
+
+E-7  Where  the  section  of  water  tank  has  a  change 
+in  profile  which  is  accomplished  with  a  radius,  it 
+is  essentia]  that  the  outer  extremities  of  the  threaded 
+connections  are  clear  of  this  radius. 
+
+
+E-8  The  water  storage  tank  should  not  be  installed 
+in  close  proximity  to  heaters  or  other  direct  sources 
+of  heat. 
+
+E-9   FITTINGS 
+
+E-9.1  For  providing  inlet,  outlet  and  other 
+connections,  usually  full  threaded  G.I.  brass 
+connections  are  used  which  shall  not  produce  any 
+kind  of  harmful  effect  on  potable  water.  Atypical 
+threaded  connections  is  illustrated  in  Fig  4.  Flat  surface 
+may  preferably  be  provided  to  fix  outlet  pipes  at 
+appropriate  locations.  The  design  of  threaded 
+connections  fixed  with  the  water  storage  tank  may 
+be  similar  to  that  shown  in  Fig  4.  The  different  sizes 
+of  threaded  connections  required  to  be  fixed  for 
+different  capacities  of  water  storage  tanks  may  be 
+according  to  Table  6. 
+
+E-9.1.1  The  overflow  pipes  should  be  provided  with 
+non-corrodible  mosquito-proof  device  of  maximum 
+clearance  not  more  than  1.6  mm. 
+
+Table  6  Sizes  of  Threaded  Connections 
+
+(Clause  E-9.1) 
+
+
+SI 
+
+Capacity  of  Water                Nominal  Bore  Size 
+
+No. 
+
+Storage  Tank               of  Threaded  Connection 
+
+(mm) 
+
+i) 
+
+Up  to  750 
+
+12.5 
+
+ii) 
+
+Above  750  and  up  to  2  000 
+
+25 
+
+"0 
+
+Above  2  000  and  up  to  4  000 
+
+40 
+
+iv) 
+
+Above  4  000  and  up  to  10  000 
+
+50 
+
+v) 
+
+Above  10  000 
+
+75 
+
+E-9.2  The  dimensions  of  male  and  female  threads 
+of  G.I.  PVC/brass  full  threaded  connections  and  other 
+fittings  like  elbow,  tee,  bend,  coupling,  nipple,  etc, 
+shall  be  conforming  to  IS  554  :  1985.  The  sizes  and 
+other  dimensions  of  the  fittings,  such  as  centre- 
+to-face,  face-to-face  and  centre-to-centre  shall  conform 
+to  IS  1879  :  1987.  Manufacturers  shall  provide 
+instructions  for  fittings. 
+
+
+WALL   OF  THE  TANK 
+RUBBER   GASKETS 
+
+
+HEXAGONAL    CHECK 
+NUTS 
+
+
+Fig.  4  Threaded  Connection 
+8 
+
+
+IS  12701  :  1996 
+
+
+Chairmdti 
+Shri  S.  Prakash 
+Members 
+
+
+ANNEX  F 
+(Foreword) 
+
+COMMITTEE  COMPOSITION 
+
+Sanitary  Appliances  and  Water  Fittings  Sectional  Committee,  CED  3 
+
+Representating 
+Delhi  Water  Supply  and  Sewage  Disposal  Undertaking  (MCD),  Delhi 
+
+
+Shri  P.  K.  Jain  (Alternate  to 
+Shri  S.  Prakash) 
+
+Advisor  (PHE) 
+
+Deputy  Advisor  (PHE)  (Alternate) 
+
+Shri  J.  R.  Aggarwal 
+
+Shri  Sanjay  Aggarwal  (Alternate) 
+
+Chief  Engineer  (Rural) 
+
+Shri  Vidhur  Bhaskar 
+
+Shri  Arun  Kanti  Biswas 
+
+Dr  T.  K.  Dan 
+
+Hydraulic  Engineer 
+
+Deputy  Hydraulic  Engineer  (Alternate) 
+
+Shri  D.  K.  Kanungo 
+
+Shri  R.  KAPOOR  (Alternate) 
+
+Managing  Director 
+
+Chief  Engineer  (PS  &  G)  (Alternate) 
+
+Shri  K.  Lakshmi  Narayana 
+Siiri  A.  Shariff  (Alternate) 
+
+Shri  S.  K.  Neogi 
+
+Shri  A.  K.  Sengupta  (Alternate) 
+
+Shri  G.  Rabindranath  Rao 
+Shri  S.  Sivakumar  (Alternate) 
+
+Shri  O.  P.  Ratra 
+
+Shri  R.  S.  Rottthor 
+
+Shri  S.  D.  Joshi  (Alternate) 
+
+Lt  Col  S.  K.  Sharma 
+
+Lt  Col  G.  T.  Kaushik  (Alternate) 
+
+Shri  D.  K.  Sehoal 
+
+Shri  B.  B.  Sikka  (Alternate) 
+
+Senior  Civil  Engineer    (Water  Supply) 
+
+Shri  R.  C.  Sharma 
+
+Shri  Sudesh  Kumar  Sharma 
+
+Shri  Suresh  Kumar  Sharma  {Alternate) 
+
+Superintending  Engineer  (TAC) 
+
+Executive  Engineer  (TAC)  (Alternate) 
+
+
+Centra]  Public  Health  and  Environment  Engineering,  New  Delhi 
+
+Goverdhan  Das  P.  A.  (Calcutta) 
+
+Maharashtra  Water  Supply  and  Sewage  Board,  New  Mumbai 
+Bhaskar  Stoneware  Pipes  Pvt  Ltd,  Faridabad 
+
+National  Environmental  Engineering  Research  Institute  (CS1R),  Nagpur 
+Central  Glass  and  Ceramic  Research  Institute  (CSIR),  Calcutta 
+Municipal  Corporation  of  Greater  Mumbai.  Mumbai 
+
+National  Test  House,  Calcutta 
+
+Kerala  Water  Authority,  (PHED),  Trivandrum 
+
+Hindustan  Shipyard  Ltd,  Visakhapatnam 
+
+Institution  of  Public  Health  Engineers  India,  Calcutta 
+
+E .I.D.  Parry  (India)  Ltd,  Madras 
+
+Building  Material  and  Technology  Promotion  Council,  New  Delhi 
+Kirloskar  Brothers  Ltd.  Pune 
+
+Engineer-in-Chief  s  Brantch,  Ministry  of  Defence,  Army  Headquarters,  New  Delhi 
+
+Leader  Engineering  Works,  Jallandhar 
+
+Ministry  of  Railways  (Railways  Board),  New  Delhi 
+Directorate  General  of  Supplies  and  Disposals,  New  Delhi 
+Central  Building  Research  Institute,  Roorkee 
+
+U.  P.  Jal  Nigam,  Lucknow 
+
+
+{Continued  on  page  10) 
+
+
+IS  12701  :  1996 
+
+(Continued  from  page  9) 
+
+Members 
+
+Shri  R.  K.  Somany 
+
+Shri  Sandip  Somany  (Alternate) 
+
+SUPRINTENDING  SURVEYOR  OF  WORKS  (NDZI) 
+
+Surveyor  i>f  Works  (NDZI)  (Alternate) 
+
+Shri  S.  Sundaram 
+
+Shri  Vinod  Kumar, 
+Director  (Civil  Engg) 
+
+
+Representing 
+Hindustan  Sanitaryware  Industries  Ltd,  Bahadurgarh 
+
+Central  Public  Works  Deportment,  New  Delhi 
+
+Glass  fibre  Technology  Centre,  Ceat  Ltd,  Hyderabad 
+Director  General,  BIS  (Ex-Oftlcio  Member) 
+
+
+Member  Secretary 
+
+Shri  R.  S.  Juneja 
+
+Joint  Director  (Civil  Engineering),  BIS 
+
+
+Plastic  Water  Storage  Tanks  Subcommittee,  CED  3:12 
+
+
+Ctmvcner 
+
+
+Shri  O.  P.  Ratra 
+
+
+Members 
+
+Shri  Mukesh  B.  Ambani 
+
+Shri  Saniay  Shah  (Alternate) 
+Shri  B.  B.  Bhatia 
+
+Shri  D.  D.  Gupta  (Alternate) 
+Shri  Ramesh  Kumar  Kapur 
+Shri  Amit  Chowdhary 
+
+Shri  S.  Samaddar  (Alternate) 
+City  Engineer 
+Shri  S.  B.  Dangayach 
+
+Shri  Rajan  B  Gulabani  (Alternate) 
+Director 
+
+Shri  R.  Elamaram 
+Engineer-in-Chief 
+Shri  Ramesh  Kumar  Kapur 
+
+Dr  A.  K.  Ray  (Alternate) 
+Shri  V.  C.  Francis 
+
+Shri  T.  K.  Bandopadhyay  (Alternate) 
+Managing  Director 
+Shri  R.  Ramesh 
+
+Shri  A.  P.  Ramachandran  (Alternate) 
+Shri  Dinesh  Kumar  Saini 
+Secretary  General 
+Shri  Parvin  V.  Seth 
+
+Shri  Chandresh  Ambani  (Alternate) 
+Dr  Y.  N.  Sharma 
+Shri  N.  K.  Singh 
+
+Shri  D.  D.  Gupta  (Alternate) 
+Shri  S.  Sundraram 
+Shri  Yogesh  Vakharia 
+
+Shri  Ajit  Kumar  Shah  (Alternate) 
+Shpimati  Seem  a  Vaidya 
+
+Jhri  R.  S.  N.  Datta  (Alternate) 
+
+
+Building  Materials  and  Technology  Promotion  Council  (Ministry  of  Urban 
+Development),  New  Delhi 
+
+
+Infra  Industries  Ltd,  Mumbai 
+
+Central  Public  Works  Department,  (Standards  and  Specifications),  New  Delhi 
+
+Rotomatic  Containers  Pvt  Ltd,  Nasik 
+Patton  Tanks  Ltd,  Calcutta 
+
+Municipal  Corporation  of  Greater  Mumbai,  Mumbai 
+Sintex  Industries  Ltd,  Kalol  (N.  Gujarat) 
+
+U.  P.  Jal  Nigam,  Lucknow 
+
+Gummadi  Polymers  (P)  Ltd,  Madras 
+
+Engineer-in-Chief  s  Branch,  Army  Headquarters,  New  Delhi 
+
+Uniplas  India  Ltd,  New  Delhi 
+
+IPCL,  Baroda 
+
+Naptha  Resins  and  Chemicals  Pvt  Ltd,  Bangalore 
+Devi  Polymers  (P)  Ltd,  Madras 
+
+Research  Designs  and  Standards  Organization  (Ministry  of  Railway),  Lucknow 
+Federation  of  All  India  Rotomoulders,  New  Delhi 
+All  India  Plastics  Manufacturers'  Association,  Mumbai 
+
+Reliance  Industries,  Mumbai 
+
+Central  Public  Works  Department,  (Central  Designs  Organization),  New  Delhi 
+
+Glass  Fibre  Technology  Centre,  CEAT  Ltd,  Hyderabad 
+Rotomold  (India)  Pvt  Ltd,  Baroda 
+
+Carbon  Everflow  Ltd,  Nasik 
+
+
+10     . 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  established  under  the  Bureau  of  Indian  Standards  Act,  1986  to  promote 
+harmonious  development  of  the  activities  of  standardization,  marking  and  quality  certification  of  goods  and 
+attending  to  connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publications.  No  part  of  these  publications  may  be  reproduced  in  any  form 
+without  the  prior  permission  in  writing  of  BIS.  This  does  not  preclude  the  free  use,  in  the  course  of 
+implementing  the  standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade  designations. 
+Enquiries  relating  to  copyright  be  addressed  to  the  Director  (Publications),  BIS. 
+
+Review  of  Indian  Standards 
+
+Amendments  are  issued  to  standards  as  the  need  arises  on  the  basis  of  comments.  Standards  are  also  reviewed 
+periodically;  a  standard  along  with  amendments  is  reaffirmed  when  such  review  indicates  that  no  changes 
+are  needed;  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision.  Users  of  Indian 
+Standards  should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or  edition  by  referring  to 
+the  latest  issue  of  *BIS  Handbook'  and  'Standards  :  Monthly  Additions'. 
+
+This  Indian  Standard  has  been  developed  from  DOC  CED  3(5585). 
+
+Amendments  Issued  Since  Publication 
+
+
+Amend  No. 
+
+
+Date  of  Issue 
+
+
+Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+
+Headquarters: 
+
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafor  Marg,  New  Delhi  110002 
+Telephones :  323  01 31, 323  33  75, 323  94  02 
+
+Regional  Offices ; 
+
+Central    :  Manak  Bhavan,  9  Bahadur  Shah  Zafor  Marg 
+NEW  DELHI  110002 
+
+Eastern    :  1/14  C  I.T.  Scheme  VII M,  V.  I.  P.  Road,  Maniktola 
+CALCUTTA  700054 
+
+Northern :  SCO  335-336,  Sector  34-A,  CHANDIGARH  160022 
+Southern  :CI.T.  Campus,  IV  Cross  Road,  CHENNAI 600113 
+
+
+Western  :  Manakalaya,  E9  MIDC,  Marol,  Andheri  (East) 
+MUMBAI 400093 
+
+
+Telegrams :  Manaksanstha 
+(Common  to  all  offices) 
+
+Telephone 
+
+
+{ 
+
+
+3237617 
+3233841 
+
+
+{3378499,33785  61 
+3378626,3379120 
+
+
+{ 
+
+
+603843 
+602025 
+
+
+{2350216,2350442 
+2351519,2352315 
+
+{8329295,8327858 
+8327891,8327892   > 
+
+
+Branches :  AHMADABAD.  BANGALORE.  BHOPAL.  BHUBANESHWAR.  COIMBATORE. 
+FARIDABAD.GHAZIABAD.GUWAHATI.  HYDERABAD.  JAIPUR.  KANPUR. 
+LUCKNOW.  NAGPUR.  PATNA  PUNE.  THIRUVANANTHAPURAM. 
+
+
+Printed  at  Pantograph,  New  Delhi,  Hi  :  3726847 
+
+

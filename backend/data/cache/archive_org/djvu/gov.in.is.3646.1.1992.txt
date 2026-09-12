@@ -1,0 +1,6170 @@
+***•••**•••**••• 
+
+
+tOT3 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+'The  Right  to  Information,  The  Right  to  Live'" 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New' 
+
+
+IS  3646-1  (1992) :  Code  of  practice  for  interior 
+illumination.  Part  1:  General  requirements  and 
+recommendations  for  welding  interiors  [ETD  24:  Illumination 
+Engineering  and  Luminaries] 
+
+
+c^iiii^^ac^^fc^ii  ifm^>N:vs?gaTCAaiiTgs 
+
+
+;5«.  \V  I  iT^ft2i^5c:^>^ifi^ 
+
+
+K'i^:^Vi^ 
+
+
+-k 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge'' 
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+BLANK  PAGE 
+
+
+'^liSSlfi, 
+
+
+5> 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  3646  (Part  1  )  :  1d92 
+
+^Rcft^  HT^^  (  Reaffirmed  2003  ) 
+
+¥rT»T  I  ^IrfTV  5R»m  susr^^T  ^^(^  ^')  m^\^  s^^^iq  siIt  ftroTft^if 
+
+Indian  Standard 
+
+CODE  OF  PRACTICE  FOR 
+INTERIOR  ILLUMINATION 
+
+PART  1     GENERAL  REQUIREMENTS  AND  RECOMMENDATIONS  FOR 
+
+WORKING  INTERIORS 
+
+{First  Revision) 
+
+First  Reprint  MAY  1994 
+UDC    628*977:006*76 
+
+
+D  BIS  1992 
+
+BUREAU   OF  INDIAN   STANDARDS 
+
+MANAK  BHAVAN,^   9     BAHADUR  SHAH  ZAFAR  MARG 
+NEW  PELHr  110002 
+
+March  1992  price  Group  1 
+
+
+Illuminating  Engineering  and  Luminaires  Sectional  Committee,  ETDC  45 
+
+
+FOREWORD 
+
+This  Indian  Standard  (  Part  1  )  (First  Revision)  was  adopted  by  the  Bureau  of  Indian  Standards,  after 
+the  draft  finalized  by  the  Illuminating  Engineering  and  Luminaires  Sectional  Committee  had  been 
+approved  by  the  Electrotechnical  Division  Council. 
+
+The  primary  object  of  this  code  is  to  indicate  the  factors  which  should  be  taken  into  account  to 
+achieve  good  lighting. 
+
+It  confines  itself  primarily  to  the  lighting  of  working  interiors,  such  as  factories,  workshops,  offices, 
+commercial  premises,  public  buildings,  hospitals  and  schools,  keeping  two  objects  in  mind,  namely,  to 
+make  the  task  easy  to  see  and  to  create  a  good  visual  environment. 
+
+Lighting  is  good  only  when  it  is  suitable  in  both  quality  and  quantity  for  two  purposes;  fbr  creating 
+good  environmental  brightness  which  is  at  the  same  time  agreeable  and  beneficial  to  the  user,  and  for 
+permitting  a  high  degree  of  efficiency  in  seeing  whatever  is  of  special  interest  or  importance. 
+
+Many  of  the  recommendations  hold  good  whether  lighting  is  artificial,  natural  or  combination  of  the 
+two  and,  as  far  as  possible,  the  lighting  of  a  building  is  regarded  as  a  service  which  should  be  main- 
+tained at  a  high  standard  whenever  the  building  is  occupied. 
+
+The  conventional  methods  of  planning  described  herein  are  still  the  subject  of  continual  research  and 
+in  special  cases  it  is  felt  that  planning  should  be  extended  to  include  consideration  of  the  luminance 
+patterns  relating  to  the  whole  of  the  visual  field. 
+
+Provision  of  a  good  lighting  system  calls  for  co-ordination  from  the  initial  stages  among  the  various 
+parties  concerned,  namely,  the  architect,  the  consultant  and  the  illumination  engineer.  Therefore,  it 
+is  essential  that  information  regarding  lighting  should  be  exchanged  between  the  parties  from  the  stage 
+of  planning  to  installation. 
+
+This  standard  applies  to  the  artificial  lighting  of  interiors;  it  applies  also,  where  appropriate  to  the 
+artificial  lighting  of  areas  in  the  open  air,  where  these  areas  are  used  for  the  same  purposes  as  the 
+corresponding  interior  premises. 
+
+This  standard  (  Part  1 )  is  one  of  the  series  of  Indian  Standards  which  deal  with  code  of  practice  for 
+interior  illumination.  This  series  will  consist  of  the  following  parts: 
+
+Part  1  General  requirements  and  recommendations  for  working  interiors 
+
+Part  2  Method  of  calculation  of  the  glare  indices  for  interiors 
+
+Part  3  Recommendations  for  lighting  in  industries 
+
+Part  4  Recommendations  for  lighting  in  offices 
+
+Part  5  Recommendations  for  lighting  in  hospitals 
+
+Part  6  Recommendations  for  lighting  in  libraries 
+
+Part  7  Recommendations  for  lighting  in  educational  institutions 
+
+Part  8  Emergency  lighting 
+
+IS  3646  was  first  published  in  three  parts.  Part  1  covering  principles  for  goodlighting  and  aspects  of 
+design,  Part  2  covering  schedule  of  illumination  and  glare  index,  and  Part  3  covering  calculation  of 
+coefficient  of  utilization  by  the  BZ  method.  Since  calculation  of  coefficient  of  utilization  by  the  B2 
+method  has  become  obsolete,  therefore,  in  the  first  revision  a  new  method  of  calculation  of  glare 
+indices  has  been  introduced. 
+
+Parts  1  and  2  of  the  standard,  when  completed,  will  supersede  IS  3646  ( Part  1  )  :  1966,  IS  3646 
+(  Part  2 )»  and  IS  3646  (  Part  3  )  :  1968.  Subsequent  parts  of  the  standard  are  intended  to  cover 
+additional  requirements  that  should  be  fulfilled  while  designing  the  lighting  for  a  specific  area.  With 
+the  publication  of  these  parts,  the  existing  standards  relating  to  code  of  practices  for  individual  areas 
+will,  therefore,  be  ultimately  withdrawn. 
+
+In  the  preparation  of  this  standard,  assistance  has  been  derived  from  draft  CIE-Publication  on  Interior 
+Lighting,  DIN  5035  {  Parts  1  and  2  )  :  1979  and  CIBS  Code  for  Interior  Lighting,  1984. 
+
+
+IS  3646  (  Part  1 ) :  1992 
+
+
+Indian  Standard 
+
+
+PART  1 
+
+
+CODE  OF  PRACTICE  FOR 
+INTERIOR  ILLUMINATION 
+
+GENERAL  REQUIREMENTS  AND  RECOMMENDATIONS  FOR 
+WORKING  INTERIORS 
+
+{First  Revision  J 
+
+
+1  SCOPE 
+
+This  code  (  Part  1  )  covers  the  principles  and 
+practice  governing  good  lighting  in  buildings 
+and  relates  chiefly  to  the  lighting  of 'working 
+areas'  in  industrial,  commercial  and  public 
+buildings,  hospitals  and  schools. 
+
+2  TERMINOLOGY 
+
+2.0  For  the  purpose  of  this  standard,  the  follow  - 
+ing  definitions  shall  apply. 
+
+2.1  Adaptation 
+
+The  process  by  which  the  properties  of  the 
+organ  of  vision  are  modified  according  to  the 
+luminances  or  the  colour  stimuli  presented  to  it. 
+The  term  is  also  used,  usually  qualified,  to 
+denote  the  final  state  of  this  process.  For  exam- 
+ple, *dark  adaptation'  denotes  the  state  of  the 
+visual  system  when  it  has  become  adapted  to  a 
+very  low  luminance. 
+
+2.2  Candela  (  cd  ) 
+
+The  SI  unit  of  luminous  intensity,  equal  to  one 
+lumen  per  steradian. 
+
+2.3  Colour  Rendering 
+
+A  general  expression  for  the  appearance  of 
+surface  colours  when  illuminated  by  light  from 
+a  given  source  compared,  consciously  or  uncons- 
+ciously, with  their  appearance  under  light  from 
+some  reference  source.  'Good  colour  rendering' 
+implies  similarity  of  appearance  to  that  under 
+an  acceptable  light  source,  such  as  daylight. 
+
+2.4  Colour  Rendering  Index  (  CRI ) 
+
+A  measure  of  the  degree  to  which  the  colours  of 
+surfaces  illuminated  by  a  given  light  source 
+confirm  to  those  of  the  same  surfaces  under  a 
+reference  illuminent.  Suitable  allowance  having 
+been  made  for  the  state  of  chromatic 
+adaptation. 
+
+2.5  Colour  Temperature  (  K  ) 
+
+The  temperature  of  the  black  body  that  emits 
+radiation  of  the  same  chromaticity  as  the  radia- 
+tion considered. 
+
+2.6  Contrast 
+
+A  term  that  is  used  subjectively  and  objective  iy. 
+Subjectively,    it   describes    the   difiference    in 
+
+
+appearance  of  two  parts  of  a  visual  field  seen 
+simultaneously  or  successively.  The  difference 
+may  be  one  of  brightness  or  colour,  or  both. 
+Objectively,  the  term  expresses  the  luminance 
+difference  between  the  two  parts  of  the  field  by 
+such  relationship  as: 
+
+
+Contrast  = 
+
+
+Lo  —  Lb 
+
+
+Lt  is  the  dominent  or  background  luminance. 
+Lq  is  the  task  luminance. 
+
+Quantitatively,  the  sign  of  the  contrast  is 
+ignored. 
+
+2.7  Contrast  Rendering  Factor  (  CRF  ) 
+
+The  ratio  of  the  contrast  of  a  task  under  a  given 
+lightmg  installation  to  its  contrast  under  refe- 
+rence lighting  conditions. 
+
+2.8  Contrast  Sensitivity 
+
+The  reciprocal  of  the  minimum  perceptible  con- 
+trast. 
+
+2.9  Correlated  Colour  Temperature  (  Unit :  K  ) 
+
+The  temperature  of  a  block  body  which  emits- 
+radiation  having  a  chromaticity  nearest  to  that 
+of  the  light  source  being  considered,  for  example, 
+the  colour  of  a  full  radiator  at  3  500  K  is  the 
+nearest  match  to  that  of  a  'White'  tubular 
+fluorescent  lamp. 
+
+2.10  Diffuse  Reflection 
+
+Diffusion  by  reflection  in  which,  on  the  macro- 
+scopic scale,  there  is  no  regular  reflection. 
+
+2.11  Diffused  Lighting 
+
+Lighting  in  which  the  light  on  the  working  plane 
+on  an  object  is  not  incident  predominantly  from 
+any  particular  direction. 
+
+2.12  Direct  Lighting 
+
+Lighting  by  means  of  luminaires  with  a  light 
+distribution  such  that  90  to  100  percent  of  the 
+emitted  luminous  flux  reaches  the  working  plane 
+directly,  assuming  that  this  plane  is  unbounded. 
+
+2.13  Directional  Lighting 
+
+Lighting  in  which  the  light  on  the  working  plane 
+6t  on  an  object  is  incideut  predominantly  froia 
+a  particular  direction. 
+
+
+1 
+
+
+IS  3646  (  Part  i  ):  199i 
+
+
+2.14  Disability  Glare 
+
+Glare  which  impairs  the  vision  of  objects  with- 
+out necessarily  causing  discomfort. 
+
+2.15  Discomfort  Glare 
+
+Glare  which  causes  discomfort  without  neces- 
+sarily impairing  the  vision  of  objects. 
+
+2.16  Emergency  Lighting 
+
+Lighting  intended  to  allow  the  public  to  find 
+the  exists  from  a  building  with  ease  and 
+certainty  in  the  case  of  failure  of  the  normal 
+lighting  system. 
+
+2.17  Flicker 
+
+Impression  of  fluctuating  luminance  or  colour. 
+
+2.18  General  Lighting 
+
+Lighting  designed  to  illuminate  the  whole  of  an 
+area  uniformly,  without  provision  for  special 
+local  requirements. 
+
+2.19  Glare 
+
+Condition  of  vision  in  which  there  is  discomfort 
+or  a  reduction  in  the  ability  to  see  significant 
+objects,  or  both,  due  to  an  unsuitable  distribu- 
+tion or  range  of  luminance  or  to  extreme 
+contrasts  in  space  or  time. 
+
+2.20  Illuminance  (  £  ) 
+
+At  a  point  of  surface,  quotient  of  the  luminous 
+flux  incident  on  an  element  of  the  surface  con- 
+taining the  point  by  the  area  of  that  element. 
+
+(  Unit  :  Lux,  Ix  ). 
+
+2.21  Illumination 
+
+The  application  of  visible  radiation  to  an 
+object. 
+
+2.22  Indirect  Lighting 
+
+Lighting  by  means  of  luminaires  with  a  light 
+distribution  such  that  not  more  than  10  percent 
+of  the  emitted  luminous  flux  reaches  the  work- 
+ing plane  directly,  assuming  that  this  plane  is 
+unbounded. 
+
+Z23  Light  Loss  Factor 
+
+Ratio  of  the  average  illuminance  on  the  working 
+plane  after  a  specified  period  of  use  of  a  light- 
+ing installation  to  the  average  illuminance 
+obtained  under  the  same  conditions  for  a  new 
+installation. 
+
+2.24  Local  Lighting 
+
+Lighting  designed  to  illuminate  a  particular 
+small  area  which  usually  does  not  extend  far 
+beyond  the  visual  task,^  for  example,  a  desk 
+light. 
+
+
+2.25  Localized  Lighting 
+
+Lighting  designed  to  illuminate  an  interior  and 
+at  the  same  time  to  provide  higher  illuminance 
+over  a  particular  part  or  parts  of  the  interior. 
+
+2.26  Lumen  (  Im  ) 
+
+Luminous  flux  emitted  within  unit  solid  angle 
+(one  steradian  )  by  a  point  source  having  a 
+uniform  luminous  intensity  of  1  candela. 
+
+2.27  Luminaire 
+
+Apparatus  that  distributes,  filters  or  transforms 
+the  light  given  by  a  lamp  or  lamps  and  which 
+includes  all  the  items  necessary  for  fixing  and 
+protecting  these  lamps  and  for  connecting  them 
+to  the  supply  circuit. 
+
+2.28  Luminance  (  L  ) 
+
+In  a  given  direction,  at  a  point  on  the  surface 
+of  the  source  or  a  recepter  or  at  a  point  on  the 
+path  of  a  beam. 
+
+Quotient  of  the  luminous  flux  leaving,  arriving 
+at,  or  passing  through  an  element  of  surface  at 
+this  point  and  propagated  in  direction  defined 
+by  an  elementary  cone  containing  the  given 
+direction  and  the  product  of  the  solid  angle  of 
+the  cone  and  the  area  of  the  orthogonal  projec- 
+tion of  the  element  surface  on  a  plane  perpendi- 
+cular to  the  given  direction  (Unit :  Candela  per 
+square  metre,  cd/m*  ). 
+
+2.29  Luminous  FfiScacy  (  Unit :  im/W  ) 
+
+The  ratio  of  luminous  flux  emitted  by  a  lamp  to 
+the  power  consumed  by  the  lamp.  When  the 
+power  consumed  by  control  gear  is  taken  into 
+account,  this  term  is  sometime  known  as  lamp 
+circuit  luminous  efficacy  and  is  expressed  in, 
+lumens/ circuit  watt. 
+
+2.30  Luminous  Flux  (  ^  ) 
+
+The  quantity  derived  from  radiant  flux  by 
+evaluating  the  radiation  according  to  its  action 
+upon  a  selective  receptor,  the  spectral  sensiti- 
+vity of  which  is  defined  by  the  standard  spectral 
+luminous  efficiencies  ( Unit  :  lumen  ). 
+
+2.31  Luminous  Intensity  (  I  )  (  Of  a  source  in  a 
+given  direction  ) 
+
+Quotient  of  the  luminous  flux  leaving  the  source 
+propagated  in  an  element  of  solid  anjgle  contain- 
+ing the  given  direction,  by  the  element  of  solid 
+angle  (  Unit  :  candela,  cd  ). 
+
+2.32  Lux  (  Ix  )»  Lumen  Per  Square  Metre 
+
+(  SI  Unit  of  Illuminance  ) 
+
+Illuminance  produced  by  a  luminous  flux  of 
+one  Im  uniformly  distributed  over  a  surface  of 
+area  one  square  metre. 
+
+2.33  Reflectance  (Reflection  Fnctor  ) 
+
+Ratio  of  the  reflected  radiant  or  taininoos  flux 
+to  the  incident  flfnx. 
+
+
+IS  3646  {  Part  1 )  :  1992 
+
+
+2.34  Service  lUuminance 
+
+The  mean  illuminance  throughout  the  mainte- 
+nance cycle  of  an  installation,  averaged  over 
+the  relevant  area.  The  area  may  be  the  whole  of 
+the  working  plane  or  just  the  area  of  the  visual 
+task  and  its  immediate  surround,  depending  on 
+the  lighting  approach  used. 
+
+2.35  Specular  Reflection  —  Regular  Reflection 
+
+Reflection  without  diffusion  in  accordance  with 
+the  laws  of  optical  reflection  as  in  a  mirror, 
+
+2.36  Stroboscopic  Effect 
+
+Apparent  change  of  motion  or  immobilization 
+of  an  object,  when  the  object  is  illuminated  by 
+a  periodically  varying  light  of  appropriate 
+frequency. 
+
+2.37  Uniformity  Ratio 
+
+The  ratio  of  the  minimum  illuminance  to  the 
+average  illuminance.  In  some  instances,  the 
+ratio  of  the  minimum  to  the  maximum  illumi- 
+nance is  quoted.  The  ratio  usually  applies  to 
+values  on  the  working  plane  over  the  working 
+area. 
+
+2.38  Visual  Environment 
+
+The  environment  either  indoors  or  outdoors  as 
+seen  by  an  observer. 
+
+2.39  Visual  Field 
+
+The  full  extent  in  space  of  what  can  be  seen 
+when  looking  in  a  given  direction. 
+
+3  FUNCTIONS  OF  LIGHTING 
+
+3.1  The  lighting  of  an  interior  should  fulfill 
+three  functions.  It  should  :  (a)  ensure  the  safety 
+of  people  in  the  interior,  (b)  facilitate  perform- 
+ance of  visual  tasks,  and  (c)  aid  the  creation  of 
+an  appropriate  visual  environment. 
+
+3.2  Safety  is  always  important  but  the  emphasis 
+given  to  task  performance  and  the  appearance 
+of  the  interior  will  depend  on  the  nature  of  the 
+interior.  For  example,  the  lighting  considered 
+suitable  for  a  factory  toolroom  will  place  more 
+emphasis  on  lighting  the  task  than  on  the 
+appearance  of  the  room,  but  in  a  hotel  lounge 
+the  priorties  will  be  reversed.  This  variation  in 
+emphasis  should  not  be  taken  to  imply  that 
+either  task  performance  or  visual  appearance 
+can  be  completely  neglected.  In  almost  all  situa- 
+tions the  designer  should  give  consideration  to 
+both  these  aspects  of  lighting. 
+
+3.3  Lighting  affects  safety,  task  performance  and 
+the  visual  environment  by  changing  the  extent 
+to  and  the  manner  in  which  different  elements 
+of  the  interior  are  revealed.  Safety  is  ensured  by 
+making  any  hazards  visible.  Task  performance  is 
+facilitated  by  making  the  relevant  details  of  the 
+task  easy  to  see.    Different  visual  environments 
+
+
+can  be  created  by  changing  the  relative  emphasis 
+given  to  the  various  objects  and  surfaces  in  an 
+interior.  Different  aspects  of  lighting  influence 
+the  appearance  of  the  elements  in  an  interior  in 
+different  ways.  However,  it  should  always  be 
+reiujmbered  that  lighting  design  involves  integ- 
+rating the  various  aspects  of  lighting  into  a  unity 
+appropriate  to  the  design  objectives. 
+
+4  LIGHTING  REQUIREMENTS 
+
+4.1  General 
+
+4.1.1  Lighting  Engineering  Criteria 
+
+Lighting  requirements  are  based  on  the  follow- 
+ing lighting  engineering  criteria: 
+
+—  Lighting  level, 
+
+—  Luminance  distribution, 
+
+—  Glare  restriction, 
+
+—  Direction  of  incidence  of  light  and  shadow 
+effect,  and 
+
+—  Colour  appearance  and  colour  rendering. 
+
+A  lighting  installation  can  satisfy  the  require- 
+ments laid  down,  only  if  all  the  quality  criteria 
+are  complied  with;  one  or  other  quality  criterion 
+may  be  given  priority,  depending  on  the  nature 
+and  difficulty  of  the  visual  task  or  on  the  type 
+of  room. 
+
+4.1.2  Visual  Tasks  (  Visual  Tasks  Differ ) 
+The  size  of  the  critical  details  of  the  task: 
+
+—  Their  contrast  with  the  background, 
+
+—  The  speed  at  which  these  details  have  ta 
+be  perceived, 
+
+—  The  desired  reliability  of  recognition,  and 
+
+—  The  duration  of  the  visual  work. 
+
+The  quality  requirements  of  the  lighting  increase 
+with  the  difficulty  of  the  visual  task. 
+
+4.1.3  Economic  Aspect 
+
+The  selection  of  nominal  illuminance  for  parti- 
+cular activities  has  to  take  into  account  econo- 
+mic aspects  too.  Although  a  higher  level  of 
+lighting  involves  greater  overall  costs,  these 
+may  be  more  than  out-weighed  by  increased 
+productivity  and  lower  accident  rate.  A  com- 
+promise has  often  to  be  made  between  desirable 
+illuminance  levels  and  those  which  are  possible 
+due  to  the  economic  climate  prevailing.  In 
+consequence,  it  may  be  necessary  to  accept  a 
+lower  standard  of  lighting  than  that  which' 
+would  be  required  from  the  point  of  view  of 
+performance. 
+
+The  overall  costs  of  a  lighting  mstallation  can 
+be  reduced  by  using  lamps  having  a  high  lumi- 
+nous efficacy  and  luminaires  having  a  high 
+efficiency  and  suitable  light  distribution. 
+
+
+IS  3646  (  Part  1 )  :  1992 
+
+
+4.2  Lighting  Levels 
+
+4.2.1  Illuminance 
+
+The  lighting  level  produced  by  a  lighting  instal- 
+lation is  usually  qualified  by  the  illuminance 
+produced  on  a  specified  plane.  In  most  cases, 
+this  plane  is  the  major  plane  of  the  tasks  in  the 
+interior  and  is  commonly  called  the  working 
+plane.  The  illuminance  provided  by  an  installa- 
+tion affects  both  the  perforniance  of  the  tasks 
+and  the  appearance  of  the  space. 
+
+4.2.2  Recommendations  on  Illuminance 
+
+4.2.2.1  Scale  of  illuminance 
+
+In  order  to  be  able  just  to  discern  features  of 
+the  human  face,  a  luminance  of  approximately 
+1  cd/m'^  is  necessary.  This  can  be  achieved 
+under  normal  lighting  conditions  with  a 
+horizontal  illuminance  of  approximately  20  lux. 
+So  20  lux  is  regarded  as  the  minimum  illumi- 
+nance for  all  non-working  interiors.  A  factor  of 
+approximately  1*5  represents  the  smallest  signi- 
+ficant difference  in  subjective  effect  of 
+illuminances.  Therefore,  the  following  scale  of 
+illuminances  is  recommended. 
+
+20-30-50-75-100-150-200-300-500-750-1000 
+
+1  500-2  000,  etc,  lux. 
+
+4.2.2.2  Illuminance  ranges 
+
+Because  circumstances  may  be  significantly 
+different  for  different  interiors  used  for  the  same 
+application  or  for  different  conditions  for  the 
+same  kind  of  activity,  a  range  of  illuminances  is 
+recommended  for  each  type  of  interior  or  acti- 
+vity intended  of  a  single  value  of  illuminance. 
+Each  range  consists  of  three  successive  steps  of 
+the  recommended  scale  of  illuminances.  For 
+working  interiors  the  middle  vahic  of  each  range 
+represents  the  recommended  service  illuminance 
+that  would  be  used  unless  one  or  more  of  the 
+factors  mentioned  below  apply. 
+
+The  higher  value  of  the  range  should  be  used 
+when: 
+
+—  Unusually  low  reflectances  or   contrasts 
+are  present  in  the  task; 
+
+—  Errors  are  costly  to  rectify; 
+
+—  Visual  work  is  critical; 
+
+—  Accuracy    or   higher  productivity  is  of 
+great  importance;  and 
+
+—  The  visual  capacity  of  the  worker  makes 
+it  necessary. 
+
+The  lower  value  of  the  range  may  be  used 
+when: 
+
+—  Reflectances  or  contrasts  are  unusually 
+high; 
+
+
+—  Speed    and    accuracy  is   not   important; 
+and 
+
+—  The  task  is  executed  only  occasionally. 
+
+Table  1  gives  the  recommended  illuminance 
+ranges  for  different  tasks  and  activities.  The 
+values  are  related  to  the  visual  requirements  of 
+the  task,  to  users'  satisfaction,  to  practical 
+experience  and  to  the  need  for  cost  effective  use 
+of  energy. 
+
+The  values  in  the  table  are  service  values, 
+which  are  the  values  which  are  obtained  as  an 
+average  during  the  maintenance  cycle.  They 
+apply  to  the  average  illuminance  at  the  refer- 
+ence surface.  For  lighting  for  work  the  reference 
+surface  will  usually  be  the  working  plane.  The 
+reference  surface  may  be  limited  to  the  area  of 
+the  working  zone(s)  or  to  the  task  area(s)  when 
+the  task  locations  are  known  and  clearly  speci- 
+fied. The  reference  surface  should  be  at  a  speci- 
+fic angle  or  at  a  specific  height  when  the  task  is 
+not  in  a  horizontal  plane  or  at  a  different 
+height.  For  other  purposes,  for  example,  for 
+circulation  lighting  or  for  ambient  lighting  the 
+reference  surface  may  be  the  floor,  the  wall  or 
+any  other  relevant  plane  in  the  interior.  It 
+should  always  be  clearly  stated  to  which  refe- 
+rence surface  the  illuminance  applies. 
+
+4.3  Luminance  DIstribntion  on  Major  Room 
+Surfaces 
+
+The  distribution  of  luminance  should  be  regarded 
+afi  complementary  to  the  design  on  the  illumin- 
+ance in  the  interior.  It  should  take  into  account 
+the  following  aspects: 
+
+—  Luminance  of  the  task  and  its  immediate 
+surroundings; 
+
+—  Luminance  of   ceiling,  walls   and  floor; 
+and 
+
+—  Avoidance  of  glare  by  limiting  the  lumi- 
+nance of  luminaires  and  windows. 
+
+4.3.1  Luminance  Distribution  in  the  Task  Area 
+
+The  luminance  of  the  immediate  surroundings 
+of  the  task  should,  if  possible,  be  lower  than  the 
+task  luminance,  preferably  not  less  than  1/3  of 
+this  _  value.  This  implies  that  the  ratio  of  the 
+reflectance  of  the  immediate  background  of  a 
+task  to  that  of  the  task  itself  should  preferably 
+be  in  the  range  0*3  to  0-5. 
+
+4.3.2  Luminance  of  Ceilings,  Walls  and  Floors 
+
+The  average  luminance  in  the  peripheral  field 
+of  view  should,  if  possible,  be  not  lower  than 
+1  /10th  of  the  task  luminance. 
+
+
+IS  3646  (  Part  1 ) :  1992 
+
+
+4.3.2.1  Reflectances  and  illuminances 
+
+In  working  interior,  in  order  to  reduce  the 
+contrast  between  luminaires  and  surrounding 
+ceiling,  the  ceiling  reflectance  should  be  as  high 
+as  possible.  In  order  to  avoid  that  the  ceiling 
+may  otherwise  appear  too  dark,  the  ceiling  illu- 
+minance should  not  be  lower  than  1/lOth  of  the 
+task  illuminance. 
+
+In  order  to  obtain  a  well  balanced  luminance 
+distribution,  the  ratio  of  the  minimum  to  the 
+average  illuminance  should  not  be  less  than  0*8. 
+
+The  average  illuminance  of  the  general  areas 
+of  a  working  interior  should  normally  not  be 
+less  than  1/3  of  the  average  illuminance  of  the 
+task  area(s) . 
+
+The  average  illuminance  of  adjacent  interiors 
+should  not  vary  from  each  other  by  a  ratio 
+exceeding  5:1. 
+
+4.4  Restriction  of  Glare 
+
+4.4.1  General 
+
+Glare  may  be  caused  by  lamps,  luminaires  and 
+windows  (  direct  glare  )  or  by  the  reflection  of 
+bright  sources  from  surface  with  iugh  reflectance 
+(  reflected  glare  ). 
+
+In  interior  lighting,  discomfort  glare  from  lamps 
+and  luminaires  is  likely  to  be  more  of  a  problem 
+than  disability  glare. 
+
+4.4.2.1  Restriction  of  direct  glare 
+
+Direct  glare  is  deemed  to  be  adequately  restrict- 
+ed, if  the  mean  luminance  of  the  luminaires  in 
+the  critical  glare  range  45"  <  y  <85°  ( see  Fig.  1 ) 
+does  not  exceed  the  limiting  luminance  plotted 
+in  Diagram  I  and  Diagram  II.  The  luminance 
+curves  represent  the  luminance  limits  for  lumi- 
+naires, in  relation  to  the  viewing  angle  from 
+nadir  (  from  45''  to  85** ),  for  quality  classes  1,  2 
+and  3  of  glare  restriction  corresponding  to 
+values  1-5,  2  2  and  2*55  of  glare  rating  G,  for 
+different  illuminance  and  horizontal  distance  a 
+>  hs  where  hs  is  the  vertical  'distance  between 
+observers  eye  and  the  foremost  luminaire 
+(  Fig.  1  ).  The  stepped  scales  of  the  glare  rating 
+G  is  based  on  the  following  interpretation  of 
+observers'  impressions: 
+
+0  =  No  glare, 
+
+2  =  Perceptible, 
+
+4  —  Uncomfortable,  and 
+
+6  =  Intolerable  glare. 
+
+representing  quality  classes  from  1  to  3,  for 
+various  values  of  illuminance. 
+
+For  different  activities  and/or  interiors,  the 
+importance   and  extent  of  glare  limitation  is 
+
+
+different.  For  that  reason,  proper  quality  classes 
+from  1  to  3  has  to  be  selected  for  various  values 
+of  illuminance: 
+
+Class  1  High  quality 
+
+Class  2  Medium  quality 
+
+Class  3  Low  quality 
+
+
+Fig.  1     Radiant  Zone  of  a  Luminaire  in 
+Which  the  Luminance  has  to  be  Considered. 
+
+It  Lies  Between  ^^'^  (  y~  =  0  ^^^  ^^^ 
+
+Connecting  Line  Between  the  Eye  of  the 
+Observer  and  the  Remotest  Luminaire, 
+
+^max 
+
+
+Guidance  as  to  which  quality  class  has  to  be 
+used  is  given  in  Table  1,  together  with  the 
+recommended  luminance  values. 
+
+The  luminances  limiting  curves  of  Diagram  I 
+should  be  used  for  all  luminaires  without  lumi- 
+nous sides  and  for  elongated  luminous  sides 
+when  viewed  parallel  to  their  longitudinal  axis. 
+
+The  curves  of  Diagram  II  should  be  used  for 
+luminaires  with  luminous  sides  viewed  at  right 
+angles  to  their  longitudinal  axis. 
+
+The  following  factors  have  to  be  kept  in  view 
+while  using  the  curves  in  Diagrams  I  and  II: 
+
+a)  They  are  intended  to  be  used  for  working 
+interiors  only, 
+
+b)  It  is  assumed  that  the  luminaires  are 
+arranged  in  a  regular  pattern  in  the  ceil- 
+ing, 
+
+c)  The  curves  are  valid  for  medium  to  bright 
+room  surface  reflectances  (  ceiling  reflec- 
+tance of  not  less  than  0*5  and  wall  reflec- 
+tance of  not  less  than  0*25  ), 
+
+d)  A  luminaire  is  considered  to  be  elongated 
+if  the  ratio  of  the  length  to  the  width  of 
+its  luminous  area  is  equal  to  or  greater 
+than  2:1,  and 
+
+e)  Luminaires  without  luminous  sides  include 
+those  with  projected  luminous  area  less 
+than  0-03  m  in  height. 
+
+
+IS 3646  (Part  1):1992 
+
+
+Table  1    Recommended  liitiminatioii 
+
+(  Clause  4.2,2.2) 
+
+
+Type  of  Interior  or  Activity 
+
+
+1  AGRICULTURE  AND  HORTICULTURE 
+
+1.1  Inspection   of  Fajm  Produce  Where   Colour  is 
+
+Important 
+
+Other  Important  Tasks 
+
+1 .2  Farm  Workshops 
+
+1.2.1  General 
+
+1.2.2  Workbench  or  machine 
+
+
+1.3  Milk  Premises 
+
+1.4  Sick  Animal  Pets,  Calf  Nurseries 
+
+1.5  Other  Firm  and  Horticultural  Buildings 
+
+2     COAL  MINING  (  SURFACE  BUILDINGS  ) 
+2.1  Coal  Preparation  Plant 
+
+2.1.1  Walkways,  floors  under  conveyors 
+
+2.1.2  Wagon  loading,  bunkers 
+
+2.1.3  Elevators,  chute  transfer  pits,  washbox  area 
+
+2.1.4  Drum  filters,  screen,  rotating  shafts 
+
+2.1.5  Picking  belts 
+
+
+2.2  Lamp  Rooms 
+
+2.2.1  Repair  section 
+
+2.2.2  Other  areas 
+
+2.3  Weight  Cabins,  Fan  Houses 
+
+2.4  Winding  Houses 
+
+3     ELECTRICITY  GENERATION, 
+TRANSMISSION  AND  DISTRIBUTION 
+
+3.1  General  Plant 
+
+3.1.1  Turbine  houses  (  operating  floor  ) 
+
+3.1.2  Boiler  and  turbine  house  basements 
+
+3.1.3  Boiler  houses,   platforms,  areas    around 
+burners 
+
+3.1.4  Switch    rooms,   meter  rooms,   oil  plant 
+rooms,  HV  substations  (  indoor  ) 
+
+3.1.5  Control  rooms 
+
+
+3.1.6  Relay  and  telecommunication  rooms 
+
+3.1.7  Diesel  generator  rooms,  compressor  rooms 
+3^1 .8    Pump  houses,  water  treatment  plant  houses 
+
+3.1.9  Battery  rooms,  chargers,  rectifiers 
+
+3.1.10  Precipitator  chambers,  platforms,  etc 
+
+3.1.11  Cable  tunnels  and  basements,  circulating 
+water  culverts  and  screen  chambers,  sto- 
+rage tanks  (  indoor  ),  operating  areas  and 
+filling  points  at  outdoor  tanks 
+
+
+Range  of  Service  Quality 
+
+Illomioance  in  Lux         Class  of 
+Direct  Glare 
+Limitation 
+
+
+Remarks 
+
+
+300-500-750 
+
+1 
+
+Local  lighting  may  be 
+appropriate 
+
+200-300-500 
+
+2 
+
+Local  lighting  may  be 
+appropriate 
+
+50-100-150 
+
+3 
+
+200-300-500 
+
+2 
+
+Local  or  portable 
+lighting  may  be 
+appropriate 
+
+50-100-150 
+
+3 
+
+30-50-100 
+
+3 
+
+20-30-50 
+
+3 
+
+30-50-100 
+
+3 
+
+30-50-100 
+
+3 
+
+50-100-150 
+
+3 
+
+100-150-200 
+
+3 
+
+150-200-300 
+
+3 
+
+Directional  and  col- 
+our properties  of 
+lighting  may  be  im- 
+portant for  easy  re- 
+cognition of  coal 
+and  rock 
+
+200-300-500 
+
+2 
+
+100-150-200 
+
+3 
+
+100-150-200 
+
+3 
+
+100-150-200 
+
+3 
+
+150-200-300 
+
+50-100-150 
+
+50-100-150 
+
+100-150-200 
+
+200-300-500 
+
+
+200-300-500 
+
+100-150-200 
+
+100-150-200 
+
+50-100-150 
+
+50-100-150 
+
+30-50-100 
+
+
+Localized  lighting  of 
+control  display  and 
+the  control  desks 
+may  be  appropriate 
+
+
+Table  1  {  continued ) 
+
+
+IS  3646  (  Part  1  ):  1992 
+
+
+Type  of  Interior  or  Activity 
+
+
+3.2  Coal  Plant 
+
+3.2.1  Conveyors,   gantries,  junction  towers,  un- 
+
+loading   hoppers,  .ash    handling    plants, 
+settling  pits,  dust  hoppers  outlets 
+
+3.2.2  Other   areas  where   operators    may  be    in 
+attendance 
+
+3.3  Nuclear  Plants 
+
+Gas  circulation  bays,  reactor  area,  boiler  plat- 
+form, reactor  charges  and  discharge  face 
+
+4     METAL  MANUFACTURE 
+
+4.1  Iron  Making 
+
+4.1.1  Sinter  plant: 
+
+Plant  floor  . 
+
+Mixer  drum,  fan  house,  screen    houses, 
+coolers,  transfer  stations 
+
+4.1.2  Furnaces,  cupola: 
+
+General 
+
+Control  platforms 
+
+Conveyor  gelleries,  walkways 
+
+4.2  Steel  Making 
+
+4.2.1  Electric  melting  shops 
+
+4.2.2  Basic  oxygen  steel  making  plants 
+
+4.2.2.1  General 
+
+4.2.2.2  Convertor  floor,  teeming  bay 
+
+4.2.2.3  Control  platforms 
+
+4.2.2.4  Scrap  bays 
+
+4.3  Metal  forming  and  treatment 
+
+4.3.1  Ingot  stripping,  soaking  pits,  annealing  and 
+
+heat  treatment  bays,  acid  recovery  plant 
+
+Pickling  and  cleaning  bays,  roughing  mills, 
+cold  mills,  finishing  mills,  tinning  and 
+galvanizing  Hnes,  cut  up  and  rewind  lines 
+
+4.3.2  General 
+
+4.3.3  Control  platforms 
+
+4.3.4  Wire  mills,  product  finishing,  steel  inspec- 
+
+tion and  treatment 
+
+4.3.5  Plate/strip  inspection 
+
+4.3.6  Inspection  of  tin  plate,  stainless  steel,  etc 
+
+
+4.4  Foundries 
+
+4,4.1  Automatic  plant 
+
+4.4.1.1  Without  manual  operation 
+
+4.4.1.2  With  occasional  manua*!  operation 
+
+4.4.1.3  With  continuous  manual  operation 
+
+4.4.1.4  Control  room 
+
+
+Range  of  Service  Quality 
+
+Illuminance  in  Lux         Class  of 
+Direct  Glare 
+Limitation 
+
+
+50-100-150 
+
+
+Remarks 
+
+
+100-150-200 
+
+
+100-150-200 
+
+
+150-200-300 
+
+3 
+
+100-150-200 
+
+3 
+
+100-150-200 
+
+3 
+
+200-300-500 
+
+2 
+
+Local  lighting  may  be 
+appropriate 
+
+30-50-100 
+
+3 
+
+150-200-300 
+
+3 
+
+100-150-200 
+
+3 
+
+150-200-300 
+
+3 
+
+200-300-500 
+
+2 
+
+Local  lighting  may  be 
+appropriate 
+
+100-150-200 
+
+3 
+
+150-200-300 
+
+3 
+
+100-150-200 
+200-300-500 
+
+200-300-500 
+
+300-500-700 
+
+
+4.4.1.5  Control  platforms 
+
+
+30-50-100 
+100-150-200 
+150-200.300 
+200-300-500 
+
+
+200-300-500 
+
+
+Local  lighting  may  be 
+appropriate 
+
+
+Special  lighting  to- 
+reveal  faults  in  the 
+specular  surface  of 
+the  material  >yill  be 
+required 
+
+
+Localized  lighting  of 
+the  control  display 
+and  the  control 
+desks  may  be  appro- 
+priate 
+
+
+IS  3646  (  Part  1 ):  19^2 
+
+
+Table  1  (continued) 
+
+
+Type  of  Interior  or  Activity 
+
+
+4.4.2  Non-automatic  plants 
+
+4.4.2.1  Charging    floor,  pouring,  shaking 
+
+out,  cleaning,  grinding  fettling 
+
+4.4.2.2  Rough     moulding,     rough      core 
+
+making 
+
+4.4.2.3  Fine  moulding,  fine  core  making 
+
+4.4.2.4  Inspection 
+
+4.5  Forges  (  Severe  vibration  is  likely  tb,  occur  ) 
+
+4.5.1  General 
+
+4.5.2  Inspection 
+
+5  CERAMICS 
+
+5.1  Concrete  products 
+
+Mixi  ng,  casting,  cleaning 
+
+5.2  Potteries 
+
+5.2.1  Grinding,    moulding,    pressing,   cleaning, 
+
+trimming,  glazing,  firing 
+
+5.2.2  Enamelling,  colouring 
+
+5.3  Glass  Works 
+
+5.3.1  Furnace  rooms,  bending,  annealing 
+
+5.3.2  Mixing  rooms,  forming,  cutting,  grinding, 
+
+polishing,  toughening 
+
+5.3.3  Bevelling,     decorative     cutting,      etching, 
+
+silvering 
+
+5.3.4  Inspection 
+
+6  CHEMICALS 
+
+6.1  Petroleum,  Chemical  and  Petrochemical  Works 
+
+6.1.1  Exterior  walkways,  platforms,   stairs  and 
+
+ladders 
+
+6.1 .2  Exterior  pump  and  valve  areas 
+
+6.1.3  Pump  and  compressor  houses 
+
+6.1.4  Process  plant  with  remote  control 
+
+6.1.5  Process  plant  requiring  occasional  manual 
+
+intervention 
+
+6.1.6  Permanently    occupied   work    stations    in 
+
+process  plant 
+
+6.1.7  Control  rooms  for  process  plant 
+
+6.2  Pharmaceutical  Manufacturer  and  Fine  Chemicals 
+
+Manufacturer 
+
+6.2.1  Pharmaceutical  manufacturer 
+
+Grinding,  granulating,  mixing,  drying, 
+tableting,  sterilizing,  washing,  prepara- 
+tion of  solutions,  filling,  capping,  wrap- 
+ping, hardening 
+
+6.2.2  Fine  chemical  manufacture 
+
+6.2.2.1  Exterior  walkways.,  platforms,  stairs 
+
+and  ladders 
+
+6.2.2.2  Process  plant 
+
+6.2.2.3  Fine  chemical  finishing 
+
+6.2.2.4  Inspeciion 
+
+6.3  Soap  Manufacture 
+
+6.3.1  General  area 
+
+6.3.2  Automatic  processes 
+
+6.3.3  Control  panels 
+
+6.3.4  Machines 
+
+
+Range  of  Service 
+Illamlnaiicc  in  Lvx 
+
+Quality 
+
+Class  of 
+
+Direct  Glare 
+
+Limitation 
+
+200-300-500 
+
+3 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+2 
+
+300-500-750 
+
+2 
+
+200-300-500 
+
+2 
+
+300-500-750 
+
+2 
+
+150-200-300 
+
+3 
+
+200^300-500 
+
+3 
+
+500-750-1  000 
+
+1 
+
+100-150-200 
+
+3 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+2 
+
+300-500-750 
+
+2 
+
+30-50-100 
+
+3 
+
+50-100-150 
+
+3 
+
+100-150-200 
+
+3 
+
+30-50-100 
+
+3 
+
+50-100-150 
+
+3 
+
+150-200-300 
+
+3 
+
+200-300-500 
+
+1 
+
+Remarks 
+
+
+300-500-750 
+
+
+30-50-100 
+
+3 
+
+50-100-150 
+
+3 
+
+300-500-750 
+
+2 
+
+300-500-750 
+
+1 
+
+Local  lighting  may  be 
+appropriate 
+
+200-300-500 
+
+2 
+
+100-200-300 
+
+2 
+
+200-300-500 
+200-300-500 
+
+1 
+2 
+
+Local  lighting  may  be 
+appropriate 
+
+Table  1  (  continued) 
+
+
+IS  3646  (  Part  1 )  :  1992 
+
+
+Type  of  Interior  or  Activity 
+
+
+6.4  Paint  Works 
+
+6.4.1  General 
+
+6.4.2  Automatic  processes 
+
+6.4.3  Control  panels 
+
+6.4.4  Special  batch  mixing 
+
+6.4.5  Colour  matching 
+
+7  MECHANICAL  ENGINEERING 
+
+7.1  Structural  Steel  Fabrication 
+
+7.1.1  General 
+
+7.1.2  Marking  off 
+
+7.2  Sheet  Metal  Works 
+
+7.2.1  Pressing,    punching    shearing,    stamping, 
+
+spinning,  folding 
+
+7.2.2  Benchwork,  scribing,  inspection 
+
+7.3  Machine  and  Tool  Shops 
+
+7.3.1  Rough  benth  and  machine  work 
+
+7.3.2  Medium  bench  and  machine  work 
+
+7.3.3  Fine  bench  and  machine  work 
+
+7.3.4  Gauge  rooms 
+
+7.4  Die  Sinking  Shops 
+
+7.4.1  General 
+
+7.4.2  Fine  work 
+
+7,3  Welding  and  Soldering  Shops 
+
+7.5.1  Gas  and  arc  welding,  rough  spot  welding 
+
+7.5.2  Medium  soldering,  brazing,  spot  welding 
+
+7.5.3  Fine  soldering,  fine  spot  welding 
+
+7.6  Assembly  Shops 
+
+7.6.1  Rough  work  for  example,  frame  and  hcavy 
+
+machine  assembly 
+
+7.6.2  Medium     work,     for     example,     engine 
+
+assembly,  vehicle  body  assembly 
+
+7.6.3  Fine  work,   for  example,  office  machinery 
+
+assembly 
+
+7.6.4  Very  fine  work,  for  example,   instrument 
+
+assembly 
+
+7.6.5  Minute  work,  for  example,  watch  making 
+
+7.7  Inspection  and  Testing  Shops 
+
+7.7.1  Coarse  work,  for  example,  using  go/no  go 
+
+gauges,  inspection  of  large  sub-assemblies 
+
+7.7.2  Meduim  work,  for  example,  inspection  of 
+
+painted  surfaces 
+
+7.7.3  Fine  work,  for  example,  using  calibrated 
+
+scales,  inspection  of  prcci  si  on  mechnisms 
+
+7.7.4  Very  fine  work,  for  example,  inspection  of 
+
+small  intricate  parts 
+
+7.7.5  Minute  work,  for  example,   inspection  of 
+very  small  instruments 
+
+
+Range  of  Service  Quality 
+
+Illuminance  in  Lux         Class  of 
+Direct  Glare 
+Limitation 
+
+
+Remarks 
+
+
+200-300-500 
+
+2 
+
+150-200-300 
+
+2 
+
+200-300-500 
+
+2 
+
+500-750-1  000 
+
+2 
+
+750-1  000-1  500 
+
+1 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+3 
+
+Local  lighting  may  be 
+appropriate 
+
+300-500-750 
+
+2 
+
+500-750-1  000 
+
+2 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+2 
+
+500-750-1  000 
+
+2 
+
+750-1  000-1  500 
+
+1 
+
+Optical  aids  may  be 
+required 
+
+300-500-750 
+
+2 
+
+1000-1500-2000 
+
+1 
+
+Flexible  local  lighting 
+is  desirable 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+3 
+
+750-1  000-1  500 
+
+2 
+
+Local  lighting  is  de- 
+sirable 
+
+200-300-500 
+300-500-750 
+
+3 
+
+2 
+
+The  lighting  of  verti- 
+cal surface  may  be 
+important 
+
+500-750-1  000 
+
+1 
+
+Localized  lighting 
+may  be  useful 
+
+750-1  000-1  500 
+
+1 
+
+Local  lighting  and 
+optical  aids  are  de- 
+sirable 
+
+1000-1500-2000 
+
+1 
+
+Local  lighting  and 
+optical  aids  are  de- 
+sirable 
+
+300-500-750 
+
+2 
+
+Local  or  localized 
+lighting  may  be  ap- 
+propriate 
+
+500-750-1  000 
+
+1 
+
+Local  or  localized 
+lighting  may  be  ap- 
+propriate 
+
+750-1  000-1  500 
+
+1 
+
+Local  or  localized 
+lighting  may  be  ap- 
+propriate 
+
+1000-1500-2000 
+
+1 
+
+Local  lighting  and 
+optical  aids  are  de- 
+sirable 
+
+2000 
+
+I 
+
+Local  lighting  and 
+optical  aids  are  de- 
+sirable 
+
+IS  3646  (  Part  1 ):  1992 
+
+
+Table  1  (  continued  ) 
+
+
+Type  of  Interior  or  Activity 
+
+
+7.8  Points  Shops  and  Spray  Booths 
+
+7.8.1  Dipping,  rough  spraying 
+
+7.8.2  Preparation,    ordinary    painting,    spraying 
+
+and  finishing 
+
+7.8.3  Fine  painting,  spraying  and  finishing 
+
+7.8.4  Inspection,  retouching  and  matching 
+
+7.9  Plating  Shops 
+
+7.9.1  Vats  and  baths 
+
+7.9.2  Buffing,  polishing  burnishing 
+
+7.9.3  Final  buffiing  and  polishing 
+
+7.9.4  Inspection 
+
+
+8    ELECTRICAL  AND  ELECTRONIC 
+ENGINEERING 
+
+8.1  Electrical  Equipment  Manufacture 
+
+8.1.1  Manufacture  of  cables  and  insulated  wires, 
+
+winding,  varnishing  and  immersion  of 
+coils,  assembly  of  large  machines,  simple 
+assembly  work 
+
+8.1.2  Medium  assembly,  for  example,  telephones, 
+
+small  motors 
+
+8.1.3  Assembly    of    precision    components,     for 
+
+-example,  telecommunication  equipment, 
+adjustment,  inspection  and  calibration 
+
+8.1.4  Assembly  of  high  precision  parts 
+
+8.2  Electronic  Equipment  Manufacture 
+8.2.1  Printed  circuit  board 
+
+8.2.1.1  Silk  screening 
+
+8.2.1.2  Hand    insertion     of    components, 
+
+soldering 
+
+8.2.1.3  Inspection 
+
+
+8.2.1.4  Assembly  of  wiring  harness,  cleat- 
+ing  harness,  testing  and  calibra- 
+tion 
+
+
+8.2.1.5  Chassis  assembly 
+
+
+8.2.2  Inspection  and  testing: 
+
+8.2.2.1  Soak  test 
+
+8.2.2.2  Safety  and  functional  tests 
+9    FOOD,  DRINK  AND  TOBACCO 
+
+9.1  Slaughter  Houses 
+
+9.1.1  General 
+
+9.1.2  Inspection 
+
+9.2  Canning,  Preserving  and  Freezing 
+
+9.2.1  Grading  and  sorting  of  raw  materials 
+
+
+Range  of  Sevrice  Quality 
+
+Illuminance  in  Lux         Class  of 
+Direct  Glare 
+Limitation 
+
+
+Remarks 
+
+
+200-300-500 
+200-500-750 
+
+500-750-1  000 
+750-1  000-1  500 
+
+200-300-500 
+300-500-750 
+500-750-1  000 
+
+
+500-750-1  000 
+
+
+Special  light  to  reveal 
+fault  in  the  surface 
+of  the  material  will 
+be  required 
+
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+3 
+
+Local  lighting  may  be 
+appropriate 
+
+750-1  000-1  500 
+
+1 
+
+Local  lighting  is  desi- 
+rable. Optical  aids 
+may  be  useful 
+
+1  000-1500-2000 
+
+1 
+
+Local  lighting  is  desi- 
+rable.   Optical     aids 
+may  be  useful 
+
+300-500-750 
+
+1 
+
+Local  lighting  may  be 
+appropriate 
+
+500-750-1  000 
+
+1 
+
+Local  lighting  may  be 
+appropriate. 
+
+750-1  000-1  500 
+
+1 
+
+A  large,  low  luminance 
+luminaire  overhead 
+ensures  specular  re- 
+flection conditions 
+which  are  helpful 
+for  inspection  of 
+printed  circuits 
+
+500-750-1 000 
+
+1 
+
+Local  lighting  may  be 
+appropriated 
+
+750-1  000-1  500 
+
+1 
+
+Local  lighting  may  be 
+appropriated 
+
+150-200-300 
+
+2 
+
+200-300-500 
+
+2 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+2 
+
+Lamps  of  colour  ren- 
+dering group  lA  or 
+IB  will  be  required, 
+if  colour  judgment 
+is  required 
+
+
+10 
+
+
+Table  1  (  continued ) 
+
+
+IS  3646  (  Part  1 )  :  1992 
+
+
+Type  of  Interior  or  Activity 
+
+
+9.2.2  Preparation 
+
+9.2.3  Canned  and  bottled  goods 
+
+9.2.3.1  Retorts 
+
+9  2.3.2  Automatic  processes 
+
+9.2.3.3  Labelling  and  packaging 
+
+9.2.4  Frozen  foods 
+
+9.2.4.1  Process  area 
+
+9.2.4.2  Packaging  and  storage 
+
+9.3  Bottling,  Brewing  and  Distilling 
+
+9.3.1  Keg  washing  and  handling,  bottle  washing 
+
+9.3.2  Keg  inspection 
+
+9.3.3  Bottle  inspection 
+
+9.3.4  Process  areas 
+
+9.3.5  Bottle  filling 
+
+9.4  Edible  Oils  and  Fats  Processing 
+
+9.4.1  Refining  and  blending 
+
+9.4.2  Production 
+
+9.5  Mills-Milling,  Filtering  and  Packing 
+
+9.6  Bakeries 
+
+9.6.1  General 
+
+9.6.2  Hand  decorating,  icing 
+
+9.7  Chocolate  and  Confectionery  Manufacture 
+
+9.7.1  General 
+
+9.7.2  Automatic  processes 
+
+9.7.3  Hand    decoration,   inspection,    wrapping 
+
+and  packing 
+
+
+Range  of  Service 
+Illuminance  in  Lux 
+
+Quality 
+
+Class  of 
+
+Direct  Glare 
+
+Limitation 
+
+Remarks 
+
+300-500-750 
+
+3 
+
+200-300-500 
+
+3 
+
+150-200-300 
+
+3 
+
+200-300-500 
+
+3 
+
+200-300-500 
+
+3 
+
+200-300-500 
+
+3 
+
+150-200-300 
+
+3 
+
+200-300-500 
+
+3 
+
+200-300-500 
+
+3 
+
+Special    lighting 
+be  required 
+
+500-750-1  000 
+
+3 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+2 
+
+200-300-500 
+
+3 
+
+200-300-500 
+
+2 
+
+300-500-750 
+
+2 
+
+200-300-500 
+
+3 
+
+150-200-300 
+
+3 
+
+300  500-750 
+
+2 
+
+If     accurate      c 
+
+will 
+
+
+colour 
+judgements  arc  re- 
+quired, lamps  of 
+colour  rendering 
+group  1 A  or  IB  are 
+used 
+
+
+9.8  Tobacco  Processing 
+
+9.5.1  Material  preparation,  making  and  packing 
+
+9.8.2  Hand  processes 
+
+10    TEXTILES 
+
+10.1  Fibre  Preparation 
+
+10.1.1  Bale  breaking,  washing 
+
+10.1.2  Stock  dyeing,  tinting 
+
+10.2  Yarn  Manufacture 
+
+10.2.1  Spinning,  roving,  winding,  etc 
+
+10.2.2  Healding  (  drawing  in  ) 
+
+10.3  Fabric  Production 
+
+10.3.1  Knitting 
+
+10.3.2  Weaving 
+
+10.3.2.1  Jute  and  hemp  • 
+
+10.3.2.2  Heavy  woollens 
+
+10.3.2.3  Medium  worsteds,  fine  woollens, 
+
+cottons 
+
+10.3.2.4  Fine     worsteds,       fine     linens, 
+
+synthetics 
+
+10.3.2.5  Mending 
+10.3«2.6  Inspection 
+
+
+300-500-750 
+500-750-1  000 
+
+
+200-300-500 
+200-300-500 
+
+300»500-750 
+750-1  000-750 
+
+300-500-750 
+
+200-300-500 
+300^500-750 
+500-750-1  000 
+
+750-1  000-1  500 
+
+1000-1500-2000 
+1000-1500-2000 
+
+
+11 
+
+
+IS  3646  (  Part  1  )  :  1992 
+
+
+Table  1  ( continued ) 
+
+
+Type  of  Interior  or  Activity 
+
+
+10.4  Fabric  Finishing 
+
+10.4.1  Dyeing 
+
+10.4.2  Calendering,  chemical  treatment,  etc 
+
+10.4.3  Inspection 
+
+10.4.3.1  *Grey' cloth 
+
+10.4.3.2  Final 
+
+10.5  Carpet  Manufacture 
+
+10.5.1  Winding,  beaming 
+
+10.5.2  Setting  pattern,  tufting  cropping,  trimm- 
+
+ing, fringing,  latexing  and  latex  drying 
+
+10.5.3  Designing,  weaving,  mending 
+
+10.5.4  Inspection 
+
+10. 5.4. 1  General 
+
+10.5.4.2  Piece  dyeing 
+
+11  LEATHER  INDUSTRY 
+
+11.1  Leather  Manufacture 
+
+11.1.1  Cleaning,   tanning    and   stretching,    vats, 
+
+cutting,  fleshing,  stuffing 
+
+11.1.2  Finishing,  scarfing 
+
+11.2  Leather  Working 
+
+11.2.1  General 
+
+11.2.2  Pressing,  glazing 
+
+11.2  3  Cutting,  splitting,  scarfing,  sewing 
+
+11.2.4  Grading,  matching 
+
+12  CLOTHING  AND  FOOTWEAR 
+
+12.1  Clothing  Manufacture 
+12.1.1  Preparation  of  cloth 
+12-1,2  Cutting 
+
+12.1.3  Matching 
+
+12.1.4  Sewing 
+
+12.1.5  Pressing 
+
+12.1.6  Inspection 
+
+12.1.7  Hand  tailoring 
+
+12.2  Hosiery  and  Knitwear  Manufacture 
+
+12.2.1  Flat  bed  knitting  machines 
+
+12.2.2  Circular  knitting  machines 
+
+12.2.3  Lockstitch  and  overlocking  machine 
+
+12.2.4  Linking  or  running  on 
+
+12.2.5  Mending,  handfinishing 
+
+12.2.6  Inspection 
+
+12.3  Glove  Manufacture 
+
+12.3.1  Sorting  and  grading 
+
+12.3.2  Pressing,  knitting,  cutting 
+
+12.3.3  Sewing 
+
+12.3.4  Inspection 
+
+
+Range  of  Service 
+Illuminance  in  Lux 
+
+Quality 
+
+Class  of 
+
+Direct  Glare 
+
+Limitation 
+
+200-300.500 
+
+3 
+
+300-500-750 
+
+2 
+
+750-1  000-1  500 
+
+1 
+
+1000-1500-2  000 
+
+1 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+2 
+
+500-750-1  000 
+
+2 
+
+750-1  000-1  500 
+
+1 
+
+500-750-1  000 
+
+1 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+2 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+2 
+
+500-750-1  000 
+
+2 
+
+Remarks 
+
+
+.200-300-500 
+500-750-1  000 
+500-750-1  000 
+750-1  000-1  500 
+300-500-750 
+1  000-1  500-2000 
+
+1  000-1  500-2  000 
+
+
+300-500-750 
+500-750-1  000 
+750-1  000-1  500 
+750-1  000-1  500 
+1  000-1  500-3  000 
+
+1  000-1500-2  000 
+
+
+500-750-1  000 
+300-500-750 
+500-750-1  000 
+1  000-1  500-2  000 
+
+
+Local  lighting  may  be 
+appropriate 
+
+Local  lighting  may  be 
+appropriate 
+
+
+Directional       lighting 
+may  be  useful 
+
+Local  lighting  may  be 
+appropriate 
+
+
+Local  lighting  may  by 
+appropriate 
+
+Local  lighting  may  be 
+appropriate 
+
+
+Local  lighting  may  by 
+appropriate 
+
+Local  lighting  may  be 
+appropriate 
+
+
+Local  lighting  may  be 
+appropriate 
+
+
+12 
+
+
+Table  1  (  continued ) 
+
+
+IS  3646  (  Part  1 )  :  1992 
+
+
+Type  of  Interior  or  Activity 
+
+
+12.4  Hat  Manufacture 
+
+12.4.1  Stiffening,    braiding,    refining,     forming, 
+
+sizing,  pounding,  ironing 
+
+12.4.2  Cleaning,  flanging,  finishing 
+
+12.4.3  Sewing 
+
+12.4.4  Inspection 
+
+12.5  Boot  and  Shoe  Manufacture 
+
+12.5.1  Leather  and  Synthetics 
+
+12.5.2  Sorting  and  grading 
+
+12.5.3  Clicking,  closing 
+
+
+12.5.4  Preparatory  operations 
+
+
+12.5.5  Cutting  tables  and  pressure 
+
+
+12.5.6  Bottom  stock  preparation,  lasting, 
+
+bottoming  finishing,  shoe  rooms 
+
+12.5.7  Rubber 
+
+12.5.7.1  Washing,  compounding,  coating, 
+
+drying,  varnishing,  vulcanizing, 
+calendering,  cutting 
+
+12.5.7.2  Lining,  making  and  finishing 
+
+13    TIMBER  AND  FURNITURE 
+
+13.1  Sawmills 
+
+13.1.1  General 
+
+13.1.2  Head  saw 
+
+13.1.3  Grading 
+
+13.2  Woodwork  Shops 
+
+13.2.1  Rough  sawing,  bench  work 
+
+13.2.2  Sizing,      planning,      sanding,      medium 
+
+machining  and  bench  work 
+
+13.2.3  Fine  bench  and  machine  work,  fine  sand- 
+
+ing, finishing 
+
+13.3  Furniture  Manufacture 
+
+13.3.1  Raw  material  stores 
+
+13.3.2  Finished  goods  stores 
+
+13.3.3  Wood    matching    and    assembly,   rough 
+
+sawing,  cutting 
+
+13.3.4  Machining,     sanding      and      assembly, 
+
+polishing 
+
+13.3.5  Tool  rooms 
+
+13.3.6  Spray  booths 
+
+13.3.6.1  Colour  finishing 
+
+13.3.6.2  Clear  finishing 
+
+13.3.7  Cabinet  making 
+
+13.3.7.1  Vaneer  sorting  and  grading 
+
+13.3.7.2  Marquetry,    pressing,     patching 
+
+and  fitting 
+
+13.3.7.3  Finalinspection 
+
+
+Range  of  Service 
+[lluminance  in  Lux 
+
+Quality 
+
+crass  of 
+
+Direct  Glare 
+
+Limitation 
+
+Remarks 
+
+200-300-500 
+
+2 
+
+300-500-750 
+500-750-1  000 
+1  000-1  500-2  000 
+
+2 
+2 
+
+Local  lighting  may   be 
+appropriate 
+
+750-1  000-1  500 
+750-1000-1  500 
+
+750-1  000-1  500 
+
+1  000-1  500-2  000 
+
+750-1  000-1  500 
+
+1 
+
+2 
+
+2 
+
+1 
+1 
+
+Local       or      localized 
+lighting       may       be 
+appropriate 
+
+Local      or       localized 
+lighting       may       be 
+appropriate 
+
+Local      or       localized 
+lighting       may       be 
+appropriate 
+
+Local      or       localized 
+lighting       may       be 
+appropriate 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+2 
+
+150-200-300 
+300-500-750 
+
+500-750-1  000 
+
+3 
+2 
+
+2 
+
+Local  lighting  may  be 
+
+appropriate 
+Directional       lighting 
+
+may  be  useful 
+
+200-300-500 
+300-500-750 
+
+2 
+
+2 
+
+500-750-1  000 
+
+2 
+
+Localized  lighting  may 
+be  appropriate 
+
+50-100-150 
+100-150-200 
+200-300-500 
+
+3 
+3 
+
+2 
+
+300-500-750 
+300-500-750 
+
+2 
+
+2 
+
+Localized  lighting  may 
+be  appropriate 
+
+300-500-750 
+200-300-500 
+
+2 
+2 
+
+750-1  000-1  500 
+300-500-750 
+
+1 
+2 
+
+500-750-1  000 
+
+1 
+
+Special    lighting    will 
+be  required 
+
+13 
+
+
+IS  3646  (  Part  1 )  :  1992 
+
+
+Table  1  (  continued ) 
+
+
+Type  of  Interior  or  Activity 
+
+
+13.4  Upholstry  Manufacture 
+
+13.4.1  Cloth  inspection 
+
+13.4.2  FiJling,  covering 
+
+13.4.3  Slipping,  cutting,  sewing 
+
+13.4.4  Mattress  maicing 
+
+13.4.5  Assembly 
+
+13.4.6  Tape  edging 
+
+14    PAPER  AND  PRINTING 
+
+14.1  Paper  Mills 
+
+14.1.1  Pulp  mills,  preparation  plants 
+
+14.1.2  Paper  and  board  making 
+
+14.1.2.1  General 
+
+14.1.2.2  Automatic  process 
+
+14.1.2.3  Inspection,  sorting 
+
+14.1.3  Paper  converting  processes 
+
+14.1.3.1  General 
+
+14.1.3.2  Associated  printing 
+
+14.2  Printing  Works 
+
+14.2.1  Type  foundries 
+
+14.2.1.1  Matrix     making,   dressing    type, 
+
+hand  and  machine  coating 
+
+14.2.1.2  Front  assembly,  sorting 
+
+14.2.2  Composing  rooms 
+
+14.2.2.1  Hand  composing,  imposition  and 
+
+distribution 
+
+14.2.2.2  Hot  metal  keyboard 
+
+14.2.2.3  Hot  metal  casting 
+
+14.2.2.4  Photo    composing    keyboard    or 
+
+setters 
+
+14.2.2.5  Pasteup 
+
+14.2.2.6  Illuminated  tables— general  light- 
+
+ing 
+
+14.2.2.7  Proof  presses 
+
+14.2.2.8  Proofreading 
+
+14.2.3  Graphic  Reproduction 
+
+14.2.3.1  General 
+
+14.2.3.2  Precision     proofing,    retouching, 
+
+etching 
+
+14.2.3.3  Colour    reproduction     and    ins- 
+
+pection 
+
+14.2.4  Printing  machine  room 
+
+14.2.4.1  Presses 
+
+14.2.4.2  Premake  ready 
+
+14.2.4.3  Printed  sheet  inspection 
+
+14.2.5  Binding 
+
+14.2.5.1  Folding,  pasting,    punching   and 
+
+stitching 
+
+14.2.5.2  Cutting,  assembling,  embossing 
+
+
+Range  of  Service  Quality 
+
+Dlumf nance  in  Lux         Class  of 
+Direct  Glare 
+Limitation 
+
+
+1  000-1  500-2000 
+300-500-750 
+
+500-750-1  000 
+
+300-500-750 
+750-1  000-1  500 
+
+
+Remarks 
+
+
+Social  lighting  will  be 
+required 
+
+
+Local  lighting  may  be 
+appropriate 
+
+
+200-300-500 
+
+3 
+
+200-300-500 
+
+3 
+
+150-200-300 
+
+3 
+
+Supplementary  lighting 
+may  be  necessary  for 
+maintenance  work 
+
+300-500-750 
+
+1 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+2 
+
+200-300-500 
+
+3 
+
+500-750-1  000 
+
+2 
+
+500-750-1  000 
+
+1 
+
+500-750-1  000 
+
+1 
+
+200-300-500 
+
+2 
+
+300-500-750 
+
+1 
+
+500-750-1  000 
+
+1 
+
+200-300-500 
+
+— 
+
+Dimming  may  be 
+required 
+
+300-500-750 
+
+2 
+
+500-750-1  000 
+
+1 
+
+300-500-750 
+
+2 
+
+750-1  000-1  500 
+
+1 
+
+Local  lighting  may  be 
+appropriate 
+
+750-1  000-1  500 
+
+1 
+
+300-500-750 
+
+2 
+
+300-500-750 
+
+2 
+
+750-1  000-1  500 
+
+1 
+
+300-500-750 
+
+2 
+
+500-750-1  000 
+
+2 
+
+Table  1  (  continued ) 
+
+
+IS  3646  (  Part  1  )  :  1992 
+
+
+Type  of  Interior  or  Activity 
+
+
+15    PLASTICS  AND  RUBBER 
+
+15.1  Plastic  Products 
+
+15.1.1  Automatic  plant 
+
+15.1.1.1  Without  manual  control 
+
+15.1.1.2  With  occasional  manual  control 
+
+15.1.1.3  With  continuous  manual  control 
+
+15.1.1.4  Control  rooms 
+
+1 5. M. 5  Control  platforms 
+
+15.1.2  Non-automatic  plant 
+
+15.1.2.1  Mixing,    calendering,   extrusion, 
+
+injection,  compression  and  blow 
+moulding,  sheet  fabrication 
+
+15.1.2.2  Trimming,     cutting,     polishing, 
+
+cementing 
+
+15.1.2.3  Printing,  inspection 
+
+15.2  Rubber  Products 
+
+15.2.1  Stock  preparation  —  plasticizing,  milling 
+
+15.2.2  Calendering,  fabric   preparation,    stock- 
+
+cutting 
+
+15.2.3  Extruding,  moulding 
+
+15.2.4  Inspection 
+
+16    DISTRIBUTION  AND  STORAGE 
+
+16.1  Work  Stores 
+
+
+Range  of  Serrice 
+Illuminance  in  Lux 
+
+
+16.1.1  Unpacking,  sorting 
+
+
+16.1.2  Large  item  storage 
+
+
+16.1.3  Small  item  rack  storage 
+
+
+16.1.4  Issue  counter,  records,  stor^man's  desk 
+
+16.2  Warehouses  and  Bulk  Stores 
+
+16.2.1  Storage    of   goods    where     indent ificat ion 
+
+requires  only  limited  preparation  of  detail 
+
+16.2.2  Storage    of  goods    where       identification 
+
+requires  perception  of  detail 
+
+16.2.3  Automatic  high  bay  rack  stores 
+
+16.2.3.1  Gangway 
+
+16.2.3.2  Control  station 
+
+16.2.3.3  Packing  and  despatch 
+
+16.2.3.4  Loading  bays 
+
+
+16.3  Cold  Stores 
+
+16.3.1  General 
+
+16.3.2  Breakdown,  make-up  and  despatch 
+
+16.3.3  Loading  bays 
+
+
+30-50-100 
+
+50-100-150 
+
+200-300-500 
+
+200-300-500 
+
+200-300-500 
+
+
+200-300-500 
+
+300-500-750 
+750-1  000-1  500 
+
+150=200-300 
+300-500-750 
+
+300-500-750 
+750-1  000-1  500 
+
+100-150-200 
+150-200-300 
+50-100-150 
+200-300-500 
+300-500-750 
+
+50-100-150 
+100-150-200 
+
+
+20 
+150-200-300 
+200-300-500 
+100-150-200 
+
+
+200-300-500 
+200-300-500 
+100-150-200 
+
+
+Quality 
+
+Class  of 
+
+Direct  Glare 
+
+Lumitation 
+
+
+Remarks 
+
+
+Local  lighting  may 
+appropriate 
+
+
+be 
+
+
+Avoid  glare  to  drivers 
+of  vehicles  appi-oach- 
+ing  the  loading  bay 
+
+A^void  glare  to  drivers 
+of  vehicles  approach- 
+ing the  loading  bay 
+
+Avoid  glare  to  drivers 
+of  vehicles  approach- 
+ing the  loading  hay 
+
+Avoid  glare  to  drivers 
+of  vehicles  approach- 
+ing the  loading  bay 
+
+Local  or  localized 
+lighting  may  be 
+appropriate 
+
+
+Avoid  glare  to  drivers 
+of  vehicles  approach- 
+ing the  loading  bay 
+
+
+Avoid  glare  to  drivers 
+of  vehicles  approach- 
+ing "bay 
+
+
+15 
+
+
+IS3646(Partl):1992 
+
+
+Table  1  (  continued} 
+
+
+Type  of  Interior  or  Activity 
+
+
+Range  of  Service 
+innniinance  in  Lus 
+
+
+Quality 
+
+Class  of 
+
+Direct  Glare 
+
+Limitation 
+
+
+Remarks 
+
+
+17  COMMERCE 
+17.1  omces 
+
+17.1.1  General  offices 
+
+17.1.2  Deep  plan  general  offices 
+
+17.1.3  Computer  woric  stations 
+
+17.1.4  Conference  rooms,  executive  offices 
+
+17.1.5  Computer  and  data  preparation  rooms 
+
+17.1.6  Filing  rooms 
+
+17.^  Drawing  Offices 
+
+17.2.1  General 
+
+17.2.2  Drawing  boards 
+
+17.2.3  Computer  aided  design  and  drafting 
+
+17.2.4  Print  rooms 
+
+17.3  Banks  and  Building  Societies 
+17.3.1  Counter,  office  area 
+17.3=2  Public  area 
+
+18  SERVICES 
+
+18.1  Garages 
+
+18. 1.1. Interior  parking  areas 
+
+J 8. 1. 2  General  repairs,  servicing,  washing, 
+polishing 
+
+18 J. 3  Workbench 
+
+18.1.4  Spray  booths 
+
+18.1.5  External  apron 
+18.1.5.1  General 
+
+
+18.1.5.2  Pump  area  (  retail  sales  ) 
+
+18.2  Appliance  servicing 
+18.2.1  Workshop 
+
+I8.2.1J  Genera! 
+
+18.2.1.2  Workbench 
+
+18.2.1.3  Counter 
+
+18.2.1.4  Stores 
+
+18.3  Laundries 
+
+18.3.1  Commercial  laundries 
+
+18.3.2  Receiving,  sorting,  washing,  drying,  iron- 
+
+ing, despath,  dry-cleaning,  bulk  machine 
+work 
+
+18.3.3  Head    ironing,  pressing,   mending,  spot- 
+
+ting, inspection 
+
+18.3.4  Launderettes 
+
+
+18.4  Sewage  Treatment  Works 
+
+18.4.1  Walkways 
+
+18.4.2  Process  areas 
+
+
+300-500-750 
+
+1 
+
+500-750-1  000 
+
+1 
+
+300-500-750 
+
+1 
+
+300-500-750 
+
+1 
+
+300-500-750 
+
+1 
+
+200-300-500 
+
+1 
+
+300-500-750 
+
+1 
+
+500-750-1  000 
+
+1 
+
+200-300-500 
+
+1 
+
+Special  lighting  is 
+required 
+
+300-500-750 
+
+1 
+
+200-300-500 
+
+1 
+
+20-30-50 
+
+3 
+
+200-300^500 
+
+2 
+
+300-500-750 
+
+1 
+
+Local  or  localized 
+lighting  may  be 
+appropriate 
+
+300=500-750 
+
+1 
+
+30-50-100 
+
+— 
+
+Care  should  be  taken 
+to  avoid  glare  to 
+drivers  and  neigh- 
+bouring residents 
+
+200-300-500 
+
+— 
+
+See  'Retailing* 
+
+200-300-500 
+
+2 
+
+300-500-750 
+
+2 
+
+Localized  lighting  may 
+be  appropriate 
+
+200-300-500 
+
+2 
+
+Localized  lighting  may 
+be  appropriate 
+
+200-300-500 
+
+3 
+
+200-300-500 
+
+3 
+
+300-500-750 
+
+3 
+
+200-300-500 
+
+3 
+
+30-50-100 
+
+3 
+
+50-100-150 
+
+3 
+
+16 
+
+
+IS  3646  (  Part  1  );  1992 
+
+
+Table  1  (  continued ) 
+
+
+Type  of  Interior  or  ActWfty 
+
+
+19    RETAILING 
+
+19.1  Small  Shops  with  Counters 
+
+19.2  Small  Self-Service  Shops  with  Island  Displays 
+
+
+19.3  Supper  Markets.  Hyper-Markets 
+
+19.3.1  General 
+
+19.3.2  Checkout 
+
+19.3.3  Showroom  for  large  objects,  for  example, 
+
+cars,  furnitures 
+
+19.3.4  Shopping  precincts  and  arcades 
+
+,20    PLACES  OF  PUBLIC  ASSEMBLY 
+
+20.1  Public  Rooms,  Village  Halls,  Worship  Halls 
+
+20.2  Concert  Halls,  Cinemas  and  Theatres 
+
+20.2.1  Foyer 
+
+20.2.2  Booking  office 
+
+20.2.3  Auditorium 
+
+
+20.2.4  Dressing  rooms 
+
+20.2.5  Projection  room 
+:20.3  Churches 
+
+20.3.1  Body  of  church 
+
+20.3.2  Pulpit,  lectern 
+
+20.3.3  Choir  stalls 
+
+20.3.4  Alter,  communion  table,  chancel 
+
+20.3.5  Vestries 
+
+20.3.6  Organ 
+20.4  Hospitals 
+
+20.4.1  Anaesthatic  rooms 
+
+20.4.1.1  General 
+
+20.4.1.2  Local 
+
+20.4.2  Consulting  areas 
+
+20.4.2.1  General 
+
+20.4.2.2  Examination 
+
+20.4.3  Corridors 
+20.4.3.1  General 
+
+20.4.4  Ward  corridors 
+
+20.4.4.1  Day,  screened  from  bays 
+
+20.4.4.2  Day.  open  to  natural  light 
+
+20.4.4.3  Morning/evening 
+
+20.4.4.4  Night 
+
+
+Range  of  Service 
+Tlloininance  in  Lax 
+
+
+300-500-750 
+300-500-750 
+
+
+Qaaltty 
+
+Class  of 
+
+Direct  Glare 
+
+Limitation 
+
+
+Remarks 
+
+
+The  service  illumi- 
+nance should  be 
+provided  on  the 
+horizontal  plane  of 
+the  counter.  Where 
+wall  displays  are 
+used,  a  similar  illu- 
+minance on  the  walls 
+is  desirable. 
+
+
+300-500-750 
+
+2 
+
+300-500-750 
+
+2 
+
+300-500-750 
+
+1 
+
+100-150-200 
+
+2 
+
+200-300-500 
+
+1 
+
+150-200-300 
+
+_ 
+
+200-300-500 
+
+" 
+
+Local  or  localized 
+lighting  may  be 
+appropriate 
+
+50-100-150 
+
+Dimming  facilities  will 
+be  necessary.  Special 
+lighting  of  the  aisles 
+is  desirable 
+
+200-300-500 
+
+" 
+
+Special  mirror  lighting 
+for  make-up  may  be 
+required 
+
+100-150-200 
+
+— 
+
+100-150-200 
+
+2 
+
+200-300-500 
+
+2 
+
+Use  local  lighting 
+
+200-300-500 
+
+2 
+
+Local  lighting  may  be 
+appropriate 
+
+100-150-200 
+
+2 
+
+Additional  lighting  to 
+provide  emphasis  is 
+desirable 
+
+100-150-200 
+
+2 
+
+200-300-500 
+
+■^ 
+
+200-300-500 
+
+_ 
+
+750-1  000-1  500 
+
+— 
+
+200-300-500 
+
+_^ 
+
+750-1  000-1  500 
+
+— 
+
+100-150-200 
+
+- 
+
+150-200-300 
+
+_ 
+
+150-200-300 
+
+
+
+( total ) 
+
+— 
+
+100-150-200 
+
+— 
+
+5-10 
+
+— 
+
+17 
+
+
+IS  3646  (  Part  1 )  :  1992 
+
+
+Table  1  (  continued ) 
+
+
+Type  of  Interior  or  Activity 
+
+
+20.4.5  Cubicles 
+
+
+Range  of  Service  Quality 
+
+Illuminance  in  Lux         Class  of 
+
+Direct  Glare 
+Limitation 
+
+
+Remarks 
+
+
+20.4.5.1  General 
+
+200-300-500 
+
+20.4.5.2  Treatment 
+
+750-1  000-1  500 
+
+20.4.6  Examination 
+
+20.4.6.1  General 
+
+200-300-500 
+
+20.4.6.2  Local  inspection 
+
+750-1  000-1  500 
+
+20.4.7  Intensive  therapy 
+
+20.4.7.1  Bad  head 
+
+30-50 
+
+20.4.7.2  Circulation  between  bed  ends 
+
+50-100-150 
+
+20.4.7.3  Observation 
+
+200-300-500 
+
+20.4.7  4  Local  observation 
+
+750-1  000-1  500 
+
+20.4.7.5  Staff  base  (  day  ) 
+
+200-300-500 
+
+20.4.7.6  Staff  base  (  night  ) 
+
+30 
+
+20.4.8  Laboratories 
+
+20.4.8.1  General 
+
+200-300-500 
+
+20.4.8-2  Examination 
+
+300-500-750 
+
+20.4.9  Nurses'  stations 
+
+20.4.9.1  Morning/ day/evening 
+
+200-300-500 
+
+20.4.9.2  Night  desks 
+
+30 
+
+20.4.9.3  Night,  medical  trolleys 
+
+50-100-150 
+
+20.4.10  Operating  theatres 
+
+20.4.10.1  General 
+
+300-500-750 
+
+20.4.10.2. Local 
+
+10  000  to  50  000 
+
+20.4.11  Pathology  departments 
+
+20.4.11.1  General 
+
+200-300-500 
+
+20.4.11.2  Examination 
+
+300-500-750 
+
+20.4.11.3  Pharmacies 
+
+200-300-500 
+
+20.4. 11.4  Reception/ enqu iry 
+
+200-300-500 
+
+20.4. 1 1 .5  Recovery  rooms 
+
+200-300-500 
+
+20.4.12  Ward -circulation 
+
+20.4.12.1  Day 
+
+50-100-150 
+
+20.4.12.2  Morning/evening 
+
+50-100-150 
+
+20.4.12.3  Night 
+
+3-5 
+
+20.4.13  Ward-bed  head 
+
+20.4.13.1  Morning/evening 
+
+30-50 
+
+20.4.13.2  Reading 
+
+100-150-200 
+
+20.4.14  Night 
+
+20.4.14.1  Adult 
+
+01-1 
+
+20.4.14.2  Paediatric 
+
+I 
+
+20.4.14.3  Psychiatric 
+
+1-5 
+
+20.4.14.4  Watch 
+
+5 
+
+20.4.15  X-Ray  areas 
+
+20.4.15.1  General 
+
+150-200-300 
+
+20.4.15.2  Diagnostic 
+
+150-200-300 
+
+20.4.15.3  Operative 
+
+200-300-500 
+
+20.4.15.4  Process  dark  room 
+
+50 
+
+20.4.16  Surgeries 
+
+20.4.16.1  General 
+
+200-300-500 
+
+20.4,16.2  Waiting  rooms 
+
+100-150-200 
+
+20.4.17  Dental  surgeries 
+
+20.4.17.1  Chair 
+
+Special  lighting 
+
+20.4.17.2  Laboratories 
+
+300-500-750 
+
+20.4,18  Consulting  rooms 
+
+20.4.18.1  General 
+
+200-300-500 
+
+20.4.18.2  Desk 
+
+300-500-750 
+
+20.4,18.3  Examination  couch 
+
+300-500-750 
+
+20.4.18.4  Ophthalmic  wall  and  near-vision 
+
+300-500-750 
+
+Special  operating 
+
+lights  are  used 
+
+
+charts 
+
+
+IS 
+
+
+Table  1  (  continued ) 
+
+
+IS  3646  (  Part  1 )  :  1992 
+
+
+Type  of  Interior  or  Activity 
+
+
+20.5  Hotels 
+
+20.5.1  Entrance  halls 
+
+20.5.2  Reception,  cashier*s  and  porters'  desks 
+
+20.5.3  Bars,   coffee    base,    dining   rooms,    grill 
+
+rooms,  restaurants,  lounges 
+
+20.5.4  Cloak  rooms,  baggage  rooms 
+
+20.5.5  Bed  rooms 
+
+
+20.5.6  Bathroom 
+
+
+20.5.7  Food  preparation  and  stores,  cellars,  lifts 
+and  corridors 
+
+20.6  Libraries 
+
+20.6.1  Lending  library 
+20.6. M  General 
+
+20.6.1.2  Counters 
+
+20.6.1.3  Bookshelves 
+
+
+20.6.1.4  Reading  rooms 
+
+20.6.1.5  Reading  tables 
+
+20.6.2  Catalogues 
+
+20.6.2.1  Card 
+
+20.6.2.2  Microfiche/ Visual  display  units 
+
+20.6.3  Reference  libraries 
+
+20.6.3.1  General 
+
+20.6.3.2  Counters 
+
+20.6.3.3  Bookshelves 
+
+
+20.6.3.4  Study  tables,  carrels 
+
+20.6.3.5  Map  room 
+
+20.6.4  Display  and  exhibition  areas 
+
+20.6.4.1  Exhibits  insensitive  to  light 
+
+20.6.4.2  Exhibit    sensitive   to    light,   for 
+
+example,    pictures,  prints,  rare 
+books  in  archives 
+
+20.6.5  Library  workrooms 
+
+20.6.5.1  Book  repair  and  binding 
+
+20.6.5.2  Catalogue  and  sorting 
+
+20.6.5.3  Remote  book  stores 
+
+20.7  Museums  and  Art  Galleries 
+
+20.7.1  Exhibits  insensitive  to  light 
+
+
+Range  of  Service 
+Illuminance  in  Lux 
+
+
+50-100-150 
+200-300-500 
+
+
+Q^nlity 
+
+Class  of 
+
+Direct  Glare 
+
+Limitation 
+
+
+Remarks 
+
+
+50-200 
+
+
+50-100-150 
+30-50-100 
+
+
+50-100-150 
+
+
+300-500-750 
+200-300-500 
+
+200-300-500 
+50  to  150 
+
+
+300-500-750 
+300-500-750 
+100-150-200 
+
+200-300-500 
+
+
+Localized  lighting  may 
+be  appropriate 
+
+The  lighting  should  be 
+designed  to  create 
+an  appropriate  at- 
+mosphere 
+
+Supplementary  local 
+lighting  at  the  bed 
+head,  writing  table 
+should  be  provided 
+
+Supplementary  local 
+lighting  near  the 
+mirror  is  desirable 
+
+See  'Genera!  Building 
+Areas' 
+
+
+200-300-500 
+
+1 
+
+300-500-750 
+
+1 
+
+Localized  lighting  may 
+be  appropriate 
+
+100-150-200 
+
+2 
+
+The  service  illumin- 
+ance should  be 
+provided  on  the 
+vertical  face  at  the 
+bottom  of  the 
+bookstack 
+
+200-300-500 
+
+1 
+
+200-300-500 
+
+1 
+
+Localized  lighting  may 
+be  appropriate 
+
+100-150-200 
+
+2 
+
+100-150-200 
+
+2 
+
+200-300-500 
+
+1 
+
+300-500-750 
+
+1 
+
+Localized  lighting  may 
+be  appropriate 
+
+100-150-200 
+
+2 
+
+The  service    illumina- 
+
+nee  should  be  provi- 
+ded on  a  vertical 
+surface  at  the  foot 
+of  the  bookshelves 
+
+
+19 
+
+
+IS  3646  (  Part  1 ) :  1992 
+
+
+Table  1  (  continued ) 
+
+
+Type  of  Interior  or  Activity 
+
+
+20.7.2  Light  sensitive  exhibits,  for  example,  oil 
+and  temper  paints,  undyed  leather,  bone, 
+ivory,  wood,  etc 
+
+
+20.7.3  Extremely    light    sensitive    exhibits,    for 
+
+example,  textiles,  water  colours,  prints 
+and  drawings,  skins,  botanical  speci- 
+mens, etc 
+
+20.7.4  Conservation  studies  and   workshops 
+20.8  Sports  Facilities 
+
+Multi-purpose  sports  halls 
+
+
+21    EDUCATION 
+21.1  Assembly  Halls 
+
+21.1.1  General 
+
+22.1.2  Platform  and  stage 
+
+
+21.2  Teaching  Spaces 
+
+
+R  ange  of  Service 
+Illuminance  in  Lux 
+
+
+150 
+
+50 
+
+300-500-750 
+300-750 
+
+
+200-300-500 
+
+
+Quality 
+
+Class  of 
+
+Direct  Glare 
+
+Limitation 
+
+
+Remarks 
+
+
+General 
+
+200-300-500 
+
+1 
+
+21.3  Lecture  Theatres 
+
+21.3.1  General 
+
+200-300-500 
+
+21.3.2  Demonstration  benches 
+
+300-500-750 
+
+21.4    Seminar  Rooms 
+
+300-500-750 
+
+21.5    Art  Rooms 
+
+300-500-750 
+
+21 .6    Needlework  Rooms 
+
+300-500-750 
+
+21.7    Laboratories 
+
+300-500-750 
+
+21.8     Libraries 
+
+200-300-500 
+
+21.9    Music  Rooms 
+
+200-300-500 
+
+21.10  Sports  Halls 
+
+200-300-500 
+
+21.11  Workshops 
+
+200-300-500 
+
+22    TRANSPORT 
+
+22.1  Airports 
+
+22.1.1  Ticket  counters,  checking  desks,  and  in- 
+
+300-500-750 
+
+2 
+
+formation  desks 
+
+22.1.2  Departure  lounges,  other  w  aiting  areas 
+
+150-200-300 
+
+2 
+
+22.1.3  Baggage  reclaim 
+
+150-200-300 
+
+2 
+
+22.1.4  Baggage  handling 
+
+50-100-150 
+
+2 
+
+22.1.5  Customs  and  immigration  halls 
+
+300-500-750 
+
+2 
+
+22.1.6  Concourse 
+
+150-200-300 
+
+2 
+
+22.2  Railway  Stations 
+
+22.2.1  Ticket  office 
+
+300-500-750 
+
+2 
+
+22.2.2  Information  office 
+
+300-500-750 
+
+2 
+
+This  is  a  maximum 
+illuminance  to  be 
+provided  on  the 
+principal  plane  of 
+the  exhibit 
+
+This   is  the  maximum 
+illuminance     to    be 
+provided       on     the 
+principal  plane   of 
+the  object 
+
+
+This  lighting  systen* 
+should  be  sufficiently 
+flexible  to  provide 
+lighting  suitable  for 
+the  variety  of  sports 
+and  activities  that 
+take  place  in  sports 
+halls.  Higher  illumi- 
+nance of  1  000-2  000' 
+lux  would  be  requir- 
+ed for  television 
+coverage 
+
+
+Special  lighting  to 
+provide  emphasis 
+and  to  facilitate  the 
+use  of  the  platform/ 
+stage  is  desirable 
+
+
+Localized  lighting  may 
+be  appropriate 
+
+
+Localized  lighting  may^ 
+be  appropriate 
+
+
+Localized  lighting 
+
+over      the     counter 
+may  be  appropriate 
+
+Localized  lighting  over 
+the  counter  may  be 
+appropriate 
+
+
+20 
+
+
+IS  3646  (  Part  1  )  :  1992 
+
+
+Table  1  (  continued) 
+
+
+Type  of  Interior  or  Activity 
+
+
+22.2.3  Parcels  office,  left 
+
+22.2.4  Luggage  office 
+
+22.2.4.1  General 
+
+22.2.4.2  Counter 
+
+22.2.5  Waiting  rooms 
+
+22.2.6  Concourse 
+
+22.2.7  Time  table 
+
+22.2.8  Ticket  barriers 
+
+22.2.9  Platforms  (  covered  ) 
+
+
+22,2.10  Platforms  (  open  ) 
+
+
+22.3  Coach  Stations 
+
+22.3.1  Ticket  offices 
+
+22.3.2  Information  offices 
+
+22.3.3  Left  luggage  office 
+
+22.3.3.1  General 
+
+22.3.3.2  Counter 
+
+22.3.4  Waiting  rooms 
+
+22.3.5  Concourse 
+
+22.3.6  Time  tables 
+
+22.3.7  Loading  areas 
+
+23    GENERAL  BUILDING  AREAS 
+
+23.1  Entrance 
+
+23.1.1  Entrance  halls,  lobbies,  waiting  rooms 
+
+23.1.2  Enquiry  desks 
+
+23.1.3  Gatehouses 
+
+23.2  Circulation  Areas 
+
+23.2.1  Lifts 
+
+23.2.2  Corridors,  passageways,  stairs 
+
+23.2.3  Escalators,  travcUators 
+
+23.3  Medical  and  First  Aid  Centres 
+
+23.3.1  Consulting  rooms,  treatment  rooms 
+
+23.3.2  Rest  rooms 
+
+23.3.3  Medical  stores 
+
+23.4  Staff  Rooms 
+
+23.4.1  Changing,    locker  and  cleaners   rooms, 
+
+cloakrooms,  lavatories 
+
+23.4.2  Rest  rooms 
+
+23.5  Staff  Restaurants 
+
+23-5 J  Canteens,  cafeterias,  dining  rooms, 
+mess  rooms 
+
+23.5.2  Servery,  vegetable  preparation,  washing- 
+up  area 
+
+
+Range  of  Service 
+Illumination  in  Lux 
+
+Quality 
+
+Class  of 
+
+Direct  Glare 
+
+Limitation 
+
+50-100-150 
+
+2 
+
+150-200-300 
+
+2 
+
+150-200-300 
+
+2 
+
+150-200-300 
+
+2 
+
+150-200-300 
+
+2 
+
+150-200-300 
+
+2 
+
+30-50-100 
+
+2 
+
+Remarks 
+
+
+20 
+
+
+Localized  lighting  may 
+
+be  appropriate 
+Localized  lighting  may 
+
+be  appropriate 
+
+Care  should  be  taken 
+to  light  and  mark 
+the  edge  of  the  plat- 
+form clearly 
+
+Care  should  be  taken 
+to  light  and  mark 
+the  edge  of  the  plat- 
+form clearly 
+
+
+300-500-750 
+
+2 
+
+Localized  lighting  over 
+the  counter  may  be 
+appropriate 
+
+300-500-750 
+
+2 
+
+Localized  lighting  over 
+the  counter  may  be 
+appropriate 
+
+50-100-150 
+
+3 
+
+*1 50-200-300 
+150-200-300 
+
+3 
+
+2 
+
+Localized  lighting  is 
+appropriate 
+
+150-200-300 
+
+2 
+
+150-200-300 
+100-150-200 
+
+2 
+3 
+
+Local  lighting  is 
+appropriate 
+
+150-200-300 
+
+2 
+
+300-500-750 
+150-200-300 
+
+2 
+2 
+
+Localized  lighting  may 
+be  appropriate 
+
+50-100-150 
+
+~ 
+
+50-100-150 
+
+2 
+
+100-150-200 
+
+— 
+
+300-500-750 
+
+1 
+
+100-150-200 
+
+1 
+
+100-150-200 
+
+2 
+
+50-100-150 
+
+— 
+
+100-150-200 
+
+1 
+
+150-200-300 
+
+2 
+
+200-300-500 
+
+2 
+
+21 
+
+
+IS  3646  (  Part  1  )  :  1992 
+
+
+Table  1  (  concluded  ) 
+
+
+Type  of  Interior  or  Activity 
+
+Range  of  Service 
+Illumination  in  Lux 
+
+Quality 
+
+Class  of 
+
+Direct  Glare 
+
+Limitation 
+
+Remarks 
+
+23.5.3  Food  preparation  and  cooking 
+
+300-500-750 
+
+2 
+
+23.5.4  Food  stores,  cellars 
+
+100-150-200 
+
+2 
+
+23.6  Communications 
+
+23.6.1  Switchboard  rooms 
+
+200-300-500 
+
+2 
+
+23.6. 2. Telephone  apparatus  rooms 
+
+100-150-200 
+
+2 
+
+23.6.3  Telex  room,  post  room 
+
+300-500-750 
+
+2 
+
+23.6.4  Reprographic  room 
+
+200-300-500 
+
+2 
+
+23.7  Building  Services 
+
+23.7.1  Boiler  houses 
+
+23.7.1,1  General 
+
+50-100-150 
+
+3 
+
+23.7.1.2  Boiler  front 
+
+100-150-200 
+
+3 
+
+23.7.1.3  Boiler  control  room 
+
+200-300-500 
+
+2 
+
+Localized  lighting  of 
+the  control  display 
+and  the  control  desk 
+may  be  appropriate 
+
+23.7.1.4  Control  rooms 
+
+200-300-500 
+
+2 
+
+Localized  lighting  of 
+the  control  display 
+and  the  control  desk 
+may  be  appropriate 
+
+23.7.1.5  Mechanical  plant  room 
+
+100-150-200 
+
+2 
+
+23.7.1.6  Electrical  power  supply   and  dis- 
+
+100-150-200 
+
+2 
+
+tribution  rooms 
+
+23.7.1.7  Store  rooms 
+
+50-100-150 
+
+3 
+
+3.8  Car  Parks 
+
+23.8,1  Covered  car  parks 
+
+23.8.1.1  Floors 
+
+5-20 
+
+— 
+
+23.8.1.2  Ramps  and  corners 
+
+30 
+
+— 
+
+23.8.1.3  Enterances  and  exits 
+
+50-100-150 
+
+— 
+
+23.8.1.4  Control  booths 
+
+150-200-300 
+
+— 
+
+23.8.1.5  Outdoor  car  parks 
+
+5-20 
+
+— 
+
+4.4.2.2  Shielding  angle 
+
+For  luminaires  whose  lamps  or  parts  thereof  are 
+visible  when  viewed  at  angles  from  the  vertical 
+45"*  and  greater,  not  only  should  the  average 
+luminance  of  luminaire  be  limited  according  to 
+the  limiting  curves  of  the  diagrams  (see  Fig.  2  ), 
+but  in  addition  the  lamps  should  be  sufficiently 
+shielded  depending  on  the  luminance  of  the 
+lamp  and  the  selected  quality  class.  The  required 
+shielding  angles  {see  Fig.  3)  are  given  in 
+Table  2. 
+
+If  the  shielding  angle  is  less  than  the  tabulated 
+value,  the  lamp  luminance  must  be  used  in 
+Diagram  II  for  checking  the  glare  limitation. 
+
+4.4.2.3  Procedure  for  the  use  of  the  luminance 
+limiting  curves 
+
+a)  Luminaire  manufacturers  should  provide 
+in  the  photometric  data  sheet  of  the 
+luminaire  the  average  luminance  distribu- 
+
+
+tion in  the  Q  and  C90  planes,  either  in 
+the  form  of  luminance  values  (  see  Table 
+3  )  or  in  the  form  of  luminance  curves 
+(  see  Fig.  5  );  and 
+
+b)  Compare  plots  of  these  luminance  values 
+on  the  correct  scale  against  the  reference 
+curves: 
+
+i)  For  all  types  of  luminaires  seen  length- 
+wise and  for  those  luminaires  seen 
+crosswise  and  having  only  horizontal 
+light  emitting  surfaces.  Diagram  I;. 
+and 
+
+ii)  For  those  luminaires  seen  crosswise 
+and  having  luminous  side  panels,  Dia* 
+gram  II. 
+
+c)  Determine  the  value  of-j—  up  to  which, 
+according  to  Fig.  I,  has  to  be  considered. 
+
+
+22 
+
+
+IS  3646  (  Part  1  ) :  1992 
+
+
+Thus,  two  ranges  of  v  between  45"  and 
+this  value  are  obtained,  one  for  each 
+viewing  direction. 
+
+For  comparison,  within  these  ranges  there 
+are  two  possible  results: 
+
+i)  For  the  whole  range  of  v  the  luminance 
+curve  of  the  luminaire  lies  on  the  left 
+hand  side  of  the  reference  curve  for 
+the  required  quality  class  and  illumi- 
+nance level.  In  this  case,  it  is  permissi- 
+ble to  use  this  luminaire  for  that  level 
+and  quality  class;  and 
+
+ii)  For  substantial  parts  of  the  range  of 
+V,  the  luminance  curve  of  the  lumin- 
+aire lies  on  the  right  hand  side  of  the 
+reference  curve.  In  such  a  case  the 
+design  will  require  to  be  changed  as 
+the  degree  of  discomfort  glare  from 
+the  installation  will  be  higher  than 
+that  permitted  for  the  quality  class 
+chosen. 
+
+Table  2     Recommended  Shielding  Angle 
+
+(  Clause  4.4.2.2 ) 
+
+Type  of  Lamp  Mean  Lumi-      Quality 
+
+nance  Range      Class  of 
+cd/m*  Glare  Res- 
+
+triction 
+
+1       2     3 
+Fluorescent  lamps  L  <  2  X  10*      10°   0*'   0** 
+
+High-pressure  discharge  *) 
+
+lamps   with   fluorescent  or  ( 
+
+diffuse-light  tubes  ^  L^<:50*^  10^ 
+
+Sodium  vapour  low-pressure  I  ^ 
+
+lamps  J 
+
+High-pressure  discharge" 
+
+lamps     with     clear      glass 
+
+tubes      or     in    a     linolite 
+
+modal 
+Incandescent       lamps     with  j 
+
+clear  glass  tubes  J 
+
+
+Table  3    Luminance  Values  of  a  Luminaire 
+in  tbe  Zone  45''-85''  for  Co  and  Cgo  Planes 
+
+(  Clause  4.4.2.3 ) 
+
+
+5*  0= 
+
+
+J-L>50  X  104    30°15M0° 
+
+
+V 
+
+tominance  ( cd/m^ ) 
+
+Plane  0''-180<' 
+
+Plane  90^-270° 
+
+45 
+
+4  270 
+
+3900 
+
+50 
+
+3  650 
+
+3  280 
+
+55 
+
+3  110 
+
+2  750 
+
+60 
+
+2  590 
+
+2  310 
+
+65 
+
+2  140 
+
+2  120 
+
+70 
+
+1890 
+
+2  040 
+
+75 
+
+I  850 
+
+2  070 
+
+80 
+
+1  850 
+
+2  190 
+
+85 
+
+1  880 
+
+2  430 
+
+4.4.2.4  Luminous  ceilings 
+
+For  high  requirement  of  lighting  quality,  the 
+luminance  values  of  luminous  ceilings  should  not 
+exceed  500  cd/m  above  a  viewing  angle  of  45°. 
+
+4.4.2.5  Reflected  glare  and  vailing  reflection 
+
+If  any  of  the  surfaces  of  the  task  or  its  imme- 
+diate surroundings  are  such  that  their  luminance 
+is  strongly  dependent  on  the  direction  of 
+incidence  of  the  light  and  on  the  viewing  direc- 
+tion, glare  may  be  produced  by  the  reflection  of 
+-a  high  luminance  (  for  example,  of  a  luminaire 
+or  of  a  window  )  towards  the  eyes.  This  is  the 
+phenomenon  referred  to  as  glare  by  reflection. 
+
+If  the  above  surfaces  are  such  that  their  lumi- 
+nance is  dependent  on  the  direction  of  the  light 
+and  on  the  viewing  direction  to  a  much  lesser 
+extent,  visual  difficulties  may  arise  when  a  high 
+luminance  (  for  example,  of  a  luminaire  or  of  a 
+window  )  is  reflected  by  the  task  towards  the 
+eyes  because  these  reflections  veil  the  task  and 
+reduce  contrasts  within  the  task.  This  is  the 
+phenomenon  referred  to  as  contrast  reduction 
+caused  by  veiling  reflections. 
+
+What  is  true  for  the  luminances  and  luminance 
+contrasts  also  hold  for  the  colours  and  colour 
+contrasts  of  not  perfectly  matt  surfaces  at  which 
+the  reflections  take  place. 
+
+4.4.2.6  Contrast  rendering 
+
+Task  contrast  is  usually  defined  as  the  relative 
+luminance  difference  between  the  task  detail 
+and  the  background  against  which  it  is  seen. 
+
+Since  for  matt  surfaces  for  a  given  illuminance 
+the  luminances  are  proportional  to  their  reflec- 
+tances, task  contrast  of  matt  tasks  are  determin- 
+ed completely  by  the  reflectances  of  detail  and 
+background.  Increased  task  visibility  due  to 
+improved  lighting  for  matt  tasks,  therefore, 
+results  entirely  from  increased  contrast  sensiti- 
+vity of  the  visual  system. 
+
+4.4.2.7  Restriction  of  reflected  glare 
+
+The  most  effective  method  for  restricting  reflect- 
+ed glare  is  by  arranging  the  .location  of  the 
+worker  and  the  light  source  such  that  reflections 
+from  the  latter  are  not  towards  the  eyes,  but 
+directed  away  or  to  the  sides. 
+
+It  shall  also  be  minimized  using  large  area,  low 
+luminance  luin in  aires  and  by  using  noo-glasty 
+finishes  on  furniture,  equipment,  and  room 
+surfaces. 
+
+
+23 
+
+
+s 
+
+
+Fig.  2    Luminances  Limiting  Curves  —  Continue^ 
+
+
+Quolity   Class 
+
+
+Valid   for     nominal  lUuminance   (lux) 
+
+
+3         4        S     6         8      10^ 
+LUMINANCE    L    IN  €d/m2^ 
+
+
+DIAGRAM     n 
+
+
+GO 
+
+
+? 
+
+
+s 
+
+
+Fig.  2    Luminances  Limitiijig  Curves 
+
+
+IS  36^  (  Fart  1  )  1 1992 
+
+
+(fi^-^ 
+
+
+Fig.  3    For  Definition  of  the  Minimum  Shielding  Angle 
+
+
+*^90"  ^270    Pt-ANE 
+
+
+^O'^ieO    PLANE 
+
+
+Fig.  4    C  Planes  and  y  Light  Radiation  Range  for  which  the  Luminances  of  the 
+
+LUMINAIRE  have  TO  BE  KnoWN 
+
+
+6    e  10^ 
+
+
+3    4    5  6     8  10^ 
+L  (cd/m2  ) 
+
+
+3     4 
+
+
+Fig.  5    Luminance  Distribution  Curves  of  a 
+
+Typical  Luminaire,  Lengthwise  and 
+
+Crosswise 
+
+4.4.2.8  Restriction  of  yeiling  reflections 
+
+The   veiling  reflections    shall  be    reduced    by 
+adopting  the  following  guidelines: 
+
+a)  By  proper  orientation  and  positioning   of 
+the  workers; 
+
+
+b)  By  proper  positioning  of  the  luminaires 
+on  either  side  and  behind  the  worker;  and 
+
+c)  Where  possible  the  written  or  printed 
+task  should  be  on  matt  paper  using  non- 
+glossy  ink.  Use  of  glossy  paper  stock  and 
+hard  pencils  should  be  minimized. 
+
+4.5  Shadows  and  Modelling 
+
+The  appearance  of  interiors  is  improved  when 
+their  structural  features  and  the  objects  and 
+people  within  them  are  lighted  so  that  shapes 
+are  revealed  clearly  and  pleasingly  and  shadows 
+are  formed  without  confusion.  This  occurs 
+when  the  light  flows  noticeably  more  in  one 
+direction  than  in  any  other.  The  term  modelling 
+is  used  to  describe  the  way  in  which  the  shapes 
+of  three  dimensional  objects  are  revealed  by 
+lighting. 
+
+Requirements  for  revealing  shape  and  texture 
+for  some  specific  types  of  task  may  be  special 
+and  experiments  may  be  necessary  in  these 
+cases  to  establish  the  best  solution. 
+
+
+26 
+
+
+IS  3646  (Parti):  1992 
+
+
+4.6  Stroboscopic  Effect  and  Flicker 
+
+The  strength  of  any  stroboscopic  effect  depends 
+on  the  frequency,  regularity  and  the  amplitude 
+of  the  oscillation  in  luminous  flux  relative  to 
+the  frequency  and  regularity  of  the  movement 
+of  the  object.  The  flicker  is  the  source  of  dis- 
+traction and  discomfort  to  people,  particularly 
+^s  it  is  easily  detected  by  peripheral  vision  and 
+thus,  cannot  be  readily  avoided.  Wherever  a 
+significant  stroboscopic  effect  and  flickering  is 
+possible,  the  lighting  should  always  be  designed 
+to  minimize  such  effects  for  reasons  of  safety. 
+
+4.7  Colour  Appearance  and  Colour  Rendering 
+Groups  of  Lamps 
+
+The  colour  of  light  emitted  by  a  *near  white' 
+source  can  be  indicated  by  its  correlated  colour 
+temperature  ( CCT ).  Each  lamp  type  has  a 
+specific  correlated  colour  temperature,  •  but  for 
+practical  use  the  correlated  colour  temperatures 
+have  been  grouped  into  three  classes  ( see 
+Table  4  ).  The  choice  of  appropriate  apparent 
+colour  of  light  source  in  a  room  is  largely  deter- 
+mined by  the  function  of  the  room.  This  may 
+mvolve  such  psychological  aspects  of  the  colour 
+as  the  impression  given  of  warmth,  relaxation, 
+clarity,  etc,  and  more  mundane  considerations 
+such  as  the  need  \o  have  a  colour  appearance 
+compatible  with  daylight  and  yet  to  provide  a 
+white  colour  at  night.  The  ability  of  the  light 
+source  to  render  colours  of  surfaces  accurately 
+may  be  conveniently  quantified  by  the  general 
+colour  rendering  index.  The  colour  rendering 
+groups  of  the  various  lamps  to  be  used  for  light- 
+ing of  interiors  are  specified  in  Table  4. 
+
+3  LIGHTING  SYSTEMS 
+
+5.1  General 
+
+Once  the  general  requirements  of  the  lighting 
+installation  and  the  room  to  be  lighted  are 
+known,  an  analysis  of  the  visual  task  may  lead  to 
+more  special  requirements  for  the  illimiination 
+of  the  interior.  This  will  determine  the  choice 
+of  lighting  system  to  be  used  and  the  location 
+-and  arrangement  of  the  luminaires. 
+
+5.2  Choice  of  Lighting  System 
+
+5.2.1  General  Lighting 
+
+<jeneral  lighting  produced  by  a  regular  array  of 
+luminaires  with  or  without  an  indirect  compo- 
+nent results  in  a  specific  horizontal  illuminance 
+with  a  certain  uniformity.  In  some  situations, 
+luminaires  with  a  special  light  distribution  are 
+preferred  so  that  the  light  comes  predominantly 
+from  one  direction, 
+
+5.2.2  Localized  General  Lighting 
+
+As  an  alternative  to  arrangements  of  uniformly 
+spaced  luminaires  advantages  in  cost  and  energy 
+saving  can  sometimes  be  realized  by  relating  the 
+light  to  the  working  zones. 
+
+
+5.2.3  Local  Lighting 
+
+This  can  be  provided  by  additional  huninaires 
+placed  at  a  small  distance  from  the  visual  task, 
+which  illuminate  only  a  limited  area.  In  industrial 
+cases,  this  is  often  referred  to  as  supplementary 
+lighting. 
+
+Local  lighting  is  recommended  for  working  areas 
+when: 
+
+—  The  work  involves  very  critical  visual 
+task,  especially  where  the  increased 
+illuminance  is  required  only  on  restiricted 
+areas; 
+
+—  Perception  of  forms  and  textures  requires 
+strongly  directional  light; 
+
+—  The  general  lighting  does  not  penetrate  to 
+certain  places  because  of  obstructions; 
+
+—  Higher  illminances  are  necessary  for 
+people  with  reduced  eye  sight;  or 
+
+—  It  is  necessary  to  compensate  for  contrast 
+reductions  caused  by  the  general  lighting. 
+
+5.2.4  Choice  of  Lamp 
+
+The  designer  shall  choose  appropriate  types 
+of  lamp(s)  suited  for  the  specific  application 
+and  satisfying  the  design  objectives.  Adjacent 
+areas  shall  not  be  lit  with  sources  of  significantly 
+different  apparent  colour  unless  a  special  effect  is 
+required. 
+
+Table  4    Correlated  Colour  Temperature 
+
+{  Clause  4.7  ) 
+
+
+Correlated  Colour  Temperature  (  CCT  )       CCT  CJass 
+
+(1) 
+
+(2) 
+
+CCT  <  3300  K 
+3300  K<  CCT  <  5300  K 
+5300  K  <  CCT 
+
+Warm 
+Intermediate 
+Cold 
+
+Colour 
+Render- 
+ing 
+Groups 
+
+CIE  General 
+
+Colour  Rendering 
+
+Index  (  Ra  ) 
+
+Typical  Application 
+
+lA 
+
+Ra>  40 
+
+Wherever  accurate  colour 
+matching  is  required,  for 
+example,  colour  printing 
+inspection 
+
+IB 
+
+80  <  Ra  <  90 
+
+Wherever  accurate  colour 
+judgements  are  necessary 
+and/or  good  colour  render- 
+ing is  required  for  reasons 
+of  appearance,  for  example, 
+shops  and  other  commer- 
+cial premises 
+
+2 
+
+60  <  Ra  <  80 
+
+Wherever  moderate  colour 
+rendering  is  required 
+
+3 
+
+40  <  Ra  <  60 
+
+Wherever  colour  rendering  is 
+of  little  significance  but 
+marked  distortion  of 
+colour  is  unacceptable 
+
+4 
+
+20  <  Ra  <  40 
+
+Wherever  colour  rendering 
+is  of  no  importance  at  all 
+and  marked  distortion  of 
+colour  is  acceptable 
+
+27 
+
+
+IS  3646  (  Part  1 )  :  1992 
+
+
+5.2.5  Choice  of  Luminaire 
+
+In  the  choice  of  luminaire,  the  desigaer  can 
+exercise  a  combination  of  professional  judge- 
+ment, personal  preference  and  economic  analy- 
+sis. Luminaires  may  have  to  withstand  a  variety 
+of  physical  conditions,  such  as  vibraiion  mois- 
+ture, dust,  ambient  temperature,  vandalism  and 
+so  on.  In  addition,  the  onous  is  on  the  designer 
+to  specify  a  safer  equipment. 
+
+6  LIGHTING  MAINTENANCE  SCHEDULE 
+AND  LIGHT  LOSS  FACTOR 
+
+6.1  Illnminance  Depreciation 
+
+Illuminance  values  obtained  as  an  average 
+during  the  maintenance  cycle  are  always  less 
+than  the  initial  illuminances  by  a  ratio  depend- 
+ing on  the  characteristics  of  the  installation. 
+This  loss  of  light  can  be  considered  under  three 
+headings. 
+
+6,1.1  Lamp  Lumen  Depreciation  and  Failure 
+
+The  luminous  flux  emitted  by  all-lamps  decreases 
+with  time  of  use  but  the  rate  of  decrease  varies 
+widely  between  lamp  types. 
+
+Figure  6  shows  typical  shapes  of  lumen  deprecia- 
+tion curves;  accurate  data  for  specific  cases  shall 
+be  obtained  from  lamp  manufacturers. 
+
+
+•/•  lOOi 
+
+eo 
+
+60 
+
+«0 
+
+INCANDESCENT 
+
+20 
+
+0 
+
+g     s     g 
+
+Nt                        §                      O* 
+
+TUBULAR 
+20^  FLUORESCENT 
+
+— S 5" 
+
+
+Vo  1001 
+
+eo 
+
+^ 
+
+=:^ 
+
+60- 
+iO 
+20 
+
+HIGH    PRESSURE 
+SOOiUM 
+
+It  should  be  noted  that  this  data  will  be  based 
+on  certain  assumptions  regarding  operating  con- 
+ditions and  one  or  more  of  the  following  factors 
+may  influence  the  rate  of  depreciation: 
+
+a)  Ambient  temperature; 
+
+b)  Lamp  operating  position; 
+
+c)  Supply  voltage;  and 
+
+d)  Type  of  control  gear  used,  if  relevant. 
+
+Eventually  most  types  of  lamp  will  cease  to- 
+operate  and  a  typical  morality  curve  is  shown  in 
+Fig.  7.  However,  with  many  categories,  the 
+useful  life  should  be  determined  from  the  lumeu 
+
+
+100 
+
+
+200 
+
+
+Fig.  7 
+
+
+Typical  Lamp  Morality  Curve 
+(  See  also  Table  5  ) 
+
+
+depreciation  curves,  as  the  lamps  often  cease  to- 
+be  economically  viable  before  they  finally  fail. 
+
+6.1.2  Luminaire  Depreciation 
+
+The  lamp  lumen  depreciation  mentioned  above^ 
+takes  place  even  if  the  lamp  is  perfectly  clean ,. 
+but  in  practice  further  light  loss  results  from  the 
+accumulation  of  dirt  on  the  surfaces  of  the  lamp 
+and  luminaire.  The  rate  at  which  this  soiling 
+occurs  depends  mainly  on  the  type  of  luminaire, 
+the  nature  of  the  interior  and  the  location  of 
+the  building.  Table  5  shows  a  range  of  possibili- 
+ties for  each  of  these  factors  and  gives  appro- 
+priate category  letters.  Figure  8  shows  the 
+relationship  between  these  categories  and  the 
+continuing  depreciation  in  light  output. 
+
+
+Vo  100' 
+
+
+Fig.  6    Shows   Typical   Shapes   of  Lumen 
+
+Depreciation  Curves;  Accurate  Data  for 
+
+Specific  Cases  Should  be  Obtained  from 
+
+Lamp  Manufacturers 
+
+
+2       4      6      8     10    12     U     16     16    20   22    2A 
+
+elapsed  time  (months  ) 
+
+Fig.  8    Luminaire  Maintenance  Factor 
+
+Plotted  Against  Elapsed  Time  for  Different 
+
+Luminaire/ Activity/Location  Categories 
+
+(  See  also  Table  5  ) 
+
+
+28 
+
+
+IS  3646  (  Part  1 )  :  1992 
+
+
+-6.1.3  Room  Surface  Depreciation 
+
+In  majority  of  cases  the  illuminance  produced 
+on  the  relevant  surfaces  in  an  interior  depends 
+to  seme  extent  on  inter-reflection  from  surfaces 
+in  the  room.  The  proportion  of  illuminance  so 
+produced  will  be  governed  by  the  light  distribu- 
+tion of  the  luminaires  and  the  reflectance  of  the 
+relevant  surfaces. 
+
+Luminaires  with  a  high  proportion  of  direct 
+illuminance,  such  as  down-lighters,  will  not  be 
+much  affected  by  inter-reflection  but  indirect 
+s  hemes  will  be  totally  dependent  on  it.  With 
+tne  passage  of  time,  dirt  deposited  on  the  room 
+surfaces  will  reduce  their  reflectance  and  this 
+will  result  in  loss  of  illuminance.  Fig.  9  shows 
+typical  curves  with  room  surface  loss  factor 
+plotted  against  elapsed  time  for  various  room 
+categories. 
+
+6.2  Light  Loss  Factor  (  LLF  ) 
+
+6.2.1  The  light  loss  factor  (  LLF  )  is  the  ratio  of 
+the  illuminance  produced  by  the  same  instal- 
+lation when  new.  It  estimates  the  effect  on  the 
+illuminance  provided  by  the  installation  of  the 
+fall  in  the  lamp  luminous  flux  with  hours  of  use 
+and  the  depreciation  caused  by  dirt  deposited 
+on  luminaires  and  room  surfaces.  Light  loss 
+factor  is,  therefore,  product  of  three  other 
+factors. 
+
+Light  Joss  factor  -=  Lamp  lumen  mainte- 
+nance factor  X  Luminaire 
+maintenance  factor  x 
+Room  surface  mainte- 
+nance factor 
+
+6.2.1,1  The  lumen  output  from  nearly  all  types 
+of  lamps  reduces  with  time.  The  reduction  in 
+light  output  that  occurs  with  time  varies  for 
+different  lamp  types  and  manufacturers'  data 
+should  be  consulted  in  this  regard. 
+
+The  other  two  factors,  namely,  luminaire  mainten- 
+ance factor  and  room  surface  maintenance  factor 
+depend  on  the  rate  of  accumulation  of  dust 
+in  the  interior  concerned.  No  definite  data  in 
+this  regard  may  be  available  for  most  interiors. 
+On  the  other  hand,  the  lighting  design  has  to  be 
+based  on  definite  value  of  LLF,  since  the  number 
+of  luminaires  to  be  installed  for  a  given  service 
+illuminance  will  depend  on  it.  In  the  context  of 
+the  necessity  to  conserve  energy,  it  is  desirable 
+to  set  certain  norms  for  the  light  loss  factor  so 
+as  to  avoid  having  to  install  an  unnecessarily 
+high  lighting  loTid.  At  the  same  time,  a  reason- 
+able interval  between  clearing  schedule  has  to  be 
+allowed  for.  It  is,  therefore,  recommended  that 
+in  interiors  with  fairly  clean  atmosphere,  for 
+example,  offices,  air-conditioned  factory  inte- 
+riors, etc,  a  light  loss  factor  of  0*8,  in  interiors 
+which  are  prone  to  accumulate  dust  faster,  for 
+example,  most  industrial  interiors,  an  LLF  of  0-7 
+
+
+and  in  highly  dirt-prone  interiors  an  LLF  of  0*6 
+may  be  adopted  for  calculating  the  number  of 
+luminaires  to  be  installed  for  a  particular  service 
+illuminance.  It  will  also  mean  that  the  average 
+illuminance  should  be  measured  at  intervals 
+after  the  installation  is  commissioned  and  as 
+soon  as  it  reaches  a  predetermined  level  below 
+the  designed  service  illuminance,  the  cleaning 
+schedule  is  due.  Thereafter,  the  cleaning  should 
+be  carried  out  at  regular  intervals  of  similar 
+period  so  as  to  ensure  that  the  designed  service 
+illuminance  is  maintained. 
+
+
+u 
+
+
+Z 
+
+3 
+
+
+< 
+
+
+lOOi 
+80 
+60 
+40-1 
+20 
+0 
+
+
+DIRECT 
+
+SeMI-OIRECT 
+
+INDIRECT 
+
+
+ROOM    CATEGORY  V« 
+VERY    GLEAN 
+
+
+12  24         3S 
+
+ELAPSED    TIME    (MONTHS) 
+
+
+-I    AC 
+
+< 
+
+E    20 
+z 
+-.      0 
+
+
+DIRECT 
+SEMI-OIRECT 
+NDIRECT 
+
+ROOM    CATEGORY  Y 
+
+AVERAGE  CLEANLINESS 
+
+
+3S 
+
+
+12  24 
+
+ELAPSED   TIME(M0NTH5) 
+
+
+o 
+
+< 
+z 
+
+3 
+
+
+^ 
+
+
+100 
+80 
+60 
+40< 
+20 
+
+0 
+
+
+DIRECT 
+
+SEMI-DlRECf 
+
+INDIRECT 
+
+
+ROOM   CATEGORY    Z 
+VERY   DIRTY 
+
+
+12         24         36 
+ELAPSED    TIME  (MONTHS) 
+
+
+Fig.  9   Room  Surface  Loss  Factor  Plottbd 
+Against  Elapsed  Time 
+
+
+29 
+
+
+IS  3646  (  Ptrt  1 ):  1992 
+
+
+Table  5  Xuminftire/ActiTity/ Location  Categories 
+
+{Clause  6.1,2) 
+
+
+Premises 
+
+
+Location                Room  Bare       Open       Dast  Open  Open  Recess-      Indi- 
+cate- Lamp       Venti-     Tight,  Non-  Base          ed            rect 
+goiy  Batten       lated       Dust  venti-  Diffuser  Diffuser   Cornice 
+Group*  Reflector  Proof  or  lated  or  or  Lou- 
+
+
+leenec- 
+tor 
+
+fienec- 
+tor,  Ek- 
+
+jLOuvre 
+
+vre. 
+Diffus- 
+
+Lamp 
+
+dosed 
+Diffuser 
+
+ing  or 
+Louvred- 
+Lumini- 
+
+ous- 
+Ceiling 
+
+Oiffices,      shops 
+
+All       air-conditioned 
+
+X 
+
+A 
+
+A 
+
+A 
+
+A/D 
+
+A/B 
+
+A 
+
+B 
+
+stores,       clean 
+
+buildings 
+
+laboratories, 
+
+Clean  country  area 
+
+X 
+
+A/B 
+
+A/B 
+
+A/B 
+
+B 
+
+A'B 
+
+B 
+
+C/D 
+
+factories. 
+
+City  or  town  outskirts 
+
+Y 
+
+B 
+
+B 
+
+B 
+
+C 
+
+B/C 
+
+B 
+
+E 
+
+schools,  etc 
+
+City  or  town  centre 
+
+Y 
+
+B/C 
+
+B/C 
+
+B/C 
+
+C/D 
+
+C 
+
+B/C 
+
+F/G 
+
+Dirty  industrial  area 
+
+Y 
+
+C 
+
+C 
+
+B/C 
+
+D 
+
+C/D 
+
+C 
+
+G 
+
+Factories,   labo- 
+
+All       air-conditioned 
+
+X 
+
+A/B 
+
+A 
+
+A 
+
+C 
+
+B/C 
+
+B 
+
+B/C 
+
+ratories,  manu- 
+
+buildings 
+
+facturing, 
+
+Clean  country  area 
+
+Y 
+
+B 
+
+A/B 
+
+B 
+
+C/D 
+
+C 
+
+B/C 
+
+D/E 
+
+areas,  machine 
+
+City  or  town  outskirts 
+
+Y 
+
+B/C 
+
+B 
+
+B 
+
+D 
+
+C/D 
+
+C 
+
+F 
+
+shops,  etc 
+
+City  or  town  centre 
+
+Y 
+
+C 
+
+B/C 
+
+B/C 
+
+D/E 
+
+D 
+
+C/D 
+
+G 
+
+Dirty  industrial  area 
+
+Z 
+
+C/D 
+
+C 
+
+C 
+
+E 
+
+D/E 
+
+D 
+
+H 
+
+Steelworks, 
+
+All        air-conditioned 
+
+X 
+
+B 
+
+A/N 
+
+A/B 
+
+D 
+
+C/D 
+
+C 
+
+
+
+foundries,  weld- 
+
+buildings 
+
+ing        shops, 
+
+Clean  country  area. 
+
+Y 
+
+C 
+
+B/C 
+
+B 
+
+D/E 
+
+D 
+
+C/D 
+
+
+
+mines,  etc 
+
+City  or  town  outskirts 
+
+Y 
+
+C/D 
+
+C 
+
+b;c 
+
+E 
+
+D/E 
+
+D 
+
+__ 
+
+City,  or  town  centre 
+
+Z 
+
+D 
+
+C/D 
+
+B/C 
+
+E/F 
+
+E 
+
+D/E 
+
+__ 
+
+Dirty  industrial  area 
+
+Z 
+
+D/E 
+
+D 
+
+c 
+
+F 
+
+E/F 
+
+E 
+
+— 
+
+*  Location 
+
+Room  Category 
+
+Particularly  clean 
+
+X 
+
+Average 
+
+Y 
+
+Paticularly  dirty 
+
+Z 
+
+6.2.2  Use  of  Light  Loss  Factor 
+
+The  light  loss  factor  can  be  used  in  the  lumen 
+method  of  illuminance  calculation  to  estimate 
+what  the  illuminance  produced  by  the*installa- 
+tion  will  be  at  any  particular  stage  in  its  life. 
+This  is  achieved  by  the  following  formula: 
+
+
+E  = 
+
+
+^in  X  n  X  N  X  U  X  LLF 
+
+
+where 
+E  = 
+
+
+Illuminance  in  lux; 
+
+Initial    luminous     flux    of  the    light 
+source; 
+
+n  =  Number  of  lamps  per  luminaire; 
+
+N  =  Number  of  luminances; 
+
+A  ■=*  Area  to  be  lit  (  in  m* ); 
+
+U  =  Utilization  factor  for  type  of  luminaire 
+in  specific  room  conditions;  and 
+
+LLF  =  Light  loss  factor. 
+
+By  calculating  the  light  loss  factor  for  different 
+maintenance  patteras,  it  is  possible  to  predict 
+
+
+the  pattern  of  illuminance  produced  by  the  ins- 
+tallation in  relation  to  elapsed  time.  This 
+pattern  may  be  used  to  assess  the  merits  of 
+alternative  maintenance  schedules. 
+
+
+6.3  Other  Aspects  of  Maintenance 
+
+6.3.1  Deterioration  of  Luminaires 
+
+Even  with  proper  cleaning,  there  will  be  gradual 
+decreases  in  the  output  of  luminaires. 
+
+This  is  due  t^  the  deterioration  of  the  reflecting 
+surfaces  and  transmitting  materials.  Here  again 
+there  is  an  economic  relationship  between  the 
+choice  of  materials  and  the  length  of  life. 
+
+6.3.2  Deterioration  of  Room  Surfaces 
+
+Despite  regular  cleaning,  there  will  still  be  a 
+gradual  decrease  in  the  reflectance  of  most  sur- 
+faces of  rooms  in  common  use. 
+
+With  painted  surfaces,  there  should  be  a  repaint* 
+ing  schedule  allowed  for  at   the  planning  stage. 
+
+
+30 
+
+
+IS  3646  (  Part  1 )  :  1992 
+
+Obviously,  this  should  be  taken  into  considera-     noticeable    dififerences    in    lamp    colour    and 
+tion  when  the  initial  choice  of  room  surface     luminance, 
+finishes  is  being  made. 
+
+^A  Maintenance  Schedule  T^^  .f  *^^«°^i^,  cleaning   interval    for  a  given 
+
+mstallationwiU  depend  on  the  type  of  luminaire, 
+
+In  a  large  installation  it  may  be  preferable  to  on  the  rate  of  dirt  accumulation  and  on  the 
+
+replace   all  the  lamps  at  an  agreed  time  rather  cost  of  cleaning.    For  the  maximum  economic 
+
+than  separately  as  they  fail.   Individual  replace-  advantage,    the    iluminaire     clearing    interval 
+
+ment  is  usually  expensive,  can  be  a  nuisance  in  should  be  arranged  to  relate  to  the  lamp  repla- 
+
+busy  areas    of  a  building  and  may  result  in  cement  interval. 
+
+
+31 
+
+
+standard  Mark 
+
+The  use  of  the  Standard  Maik  is  governed  by  the  provisions  of  the  Bureau  of  Indian 
+Standards  AcU  /9g(?  and  the  Rules  and  Regulations  made  thereunder.  The  Standard  Mark  on 
+products  covered  by  an  Indian  Standard  conveys  the  assurance  that  they  have  been 
+produced  to  comply  with  the  requirements  of  that  standard  under  a  well  defined  system  of 
+inspection,  testing  and  quality  control  which  is  devised  and  supervised  by  BIS  and  operated 
+by  the  producer.  Standard  marked  products  are  also  continuously  checked  by  BIS  for  con- 
+formity to  that  standard  as  a  further  safeguard.  Details  of  conditions  under  which  a  licence 
+for  the  use  oft  he  Standard  Mark  may  be  granted  to  manufacturers  or  producers  may  be 
+obtained  from  the  Bureau  of  Indian  Standards. 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  established  under  the  Bureau  of  Indian  Standards  Act.  1986  to  promote  harmonious 
+development  of  the  activities  of  standardization,  marking  and  quality  certification  of  goods  and  attending  to 
+connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publications.  No  part  of  these  publications  may  be  reproduced  in  any  form  without 
+the  prior  permission  in  writing  of  BIS.  This  does  not  preclude  the  free  use,  in  the  course  of  implementing  the 
+standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade  designations.  Enquiries  relating  to 
+copyright  be  addressed  to  the  Director  (Publication),  BIS 
+
+Revision  of  Indian  Standards 
+
+Amendments  are  issued  to  standards  as  the  need  arises  on  the  basis  of  comments.  Standards  are  also  reviewed 
+periodically;  a  standard  along  with  amendments  is  reaffirmed  when  such  review  indicates  that  no  changes  are 
+needed;  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision.  Users  of  Indian  Standards 
+should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or  edition  by  referring  to  the  latest  issue  of 
+*BIS  Handbook*  and  'Standards  Monthly  Additions'. 
+
+This  Indian  standard  has  been  developed  from    Doc :  No  ETD  45  (  3037  ) 
+
+Amendments  Issued  Since  Publication 
+
+
+AnMsndNo 
+
+
+Date  of  Issue 
+
+
+Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+Headquarters: 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  110002 
+
+Telephones  :  331  01  31.  331  13  75 
+
+Regional  Offices : 
+
+Central      :  Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg 
+NEW  DELHI  110002 
+
+Eastern      :  1/14  C.I.T.  Scheme  VII M,  V.I.P.  Road,  Maniktola 
+CALCUTTA  700054 
+
+Northern    :  SCO  445-446.  Sector  35-C,  CHANDIGARH  160036 
+
+Southern    :  C.I.T.  Campus.  IV  Cross  Road,  MADRAS  6001 13 
+
+Western     :  Manakalaya,  E9  MIDC,  Marol,  Andhe.i  (East) 
+BOMBAY  400093 
+
+
+^ 
+
+
+Telegrams :  Manaksanstha 
+Common    to   all   offices) 
+
+Telephone 
+
+'331  01  31 
+.331  13  75 
+
+37  84  99.  37  85  61 
+n  86  26.  37  86  62 
+
+53  38  43,  53  1640 
+53  23  84 
+
+r235  02  16.  235  04  42 
+\235  15  19,  235  23  15 
+
+f  632  92  95.  632  78  58 
+1632  78  91,  632  78  92 
+
+
+Branches  :  AHMADABAD.  BANGALORE.  BHOPAL,  BHUBAKESWAR.  COIMBATORE.  FARIDABAD. 
+GHAZIABAD.  GUWAHATL  HYDERABAD.  JAIPUR.  KANPUR.  LUCKNOW.  PATNA. 
+THIRUVANANTHAPURAM. 
+
+
+Printed  at  Det  Kay  Printers,  New  Delhi-1 10015,  India 
+
+

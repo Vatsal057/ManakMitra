@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":16,"params":{"query":"identifier:gov.in.is.12592.*","qin":"identifier:(gov.in.is.12592.*)","fields":"identifier,title","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"gov.in.is.12592.2002","title":"IS 12592: Precast Concrete Manhole Cover and Frame -"}]}}

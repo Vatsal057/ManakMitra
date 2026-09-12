@@ -378,7 +378,7 @@ class RetrievalIndex:
             return None
         target_part = part or None
         matches = self.df.index[
-            (self.df["is_number"] == is_number) & (self.df["part"].apply(lambda p: (p or None) == target_part))
+            (self.df["is_number"] == is_number) & (self.df["part"].apply(lambda p: _nullable(p) == target_part))
         ]
         if len(matches) == 0:
             return None

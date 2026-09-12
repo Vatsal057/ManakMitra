@@ -1,0 +1,67 @@
+.standard-detail-breadcrumb {
+  background: none;
+  border: none;
+  color: var(--color-link);
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: var(--space-16);
+  font-size: var(--font-size-body);
+}
+
+.standard-detail-header {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  padding: var(--space-16);
+  margin-bottom: var(--space-16);
+}
+
+.standard-detail-header h1 {
+  font-size: var(--font-size-page-title);
+  font-weight: var(--font-weight-heading);
+}
+
+.standard-detail-title {
+  color: var(--color-text-subdued);
+  margin-top: var(--space-4);
+  margin-bottom: var(--space-12);
+}
+
+.standard-detail-badges {
+  display: flex;
+  gap: var(--space-8);
+  margin-bottom: var(--space-16);
+}
+
+.standard-detail-add {
+  background-color: var(--color-interactive);
+  color: var(--color-text-on-role);
+  border: none;
+  border-radius: var(--radius-control);
+  padding: var(--space-8) var(--space-20);
+  font-weight: var(--font-weight-heading);
+  cursor: pointer;
+}
+
+.standard-detail-add:hover {
+  background-color: var(--color-interactive-hover);
+}
+
+.standard-detail-scope {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  padding: var(--space-16);
+  margin-bottom: var(--space-16);
+}
+
+.standard-detail-scope h2 {
+  font-size: var(--font-size-section-heading);
+  font-weight: var(--font-weight-heading);
+  margin-bottom: var(--space-12);
+}
+
+.standard-detail-scope p {
+  line-height: var(--line-height-body);
+  color: var(--color-text);
+}

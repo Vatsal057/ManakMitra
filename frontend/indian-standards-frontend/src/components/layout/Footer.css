@@ -1,0 +1,16 @@
+.app-footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-8) var(--space-32);
+  padding: var(--space-12) var(--space-24);
+  background-color: var(--color-surface);
+  border-top: 1px solid var(--color-border);
+  color: var(--color-text-subdued);
+  font-size: var(--font-size-caption);
+}
+
+.app-footer p {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-4);
+}

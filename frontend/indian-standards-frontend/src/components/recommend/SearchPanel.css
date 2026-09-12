@@ -1,0 +1,109 @@
+.search-panel {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-card);
+  padding: var(--space-16);
+  margin-bottom: var(--space-24);
+}
+
+.search-panel-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--space-16);
+  margin-bottom: var(--space-12);
+  flex-wrap: wrap;
+}
+
+.search-panel-heading {
+  font-size: var(--font-size-section-heading);
+  font-weight: var(--font-weight-heading);
+  margin-bottom: var(--space-4);
+}
+
+.search-panel-description {
+  color: var(--color-text-subdued);
+  font-size: var(--font-size-caption);
+}
+
+.search-panel textarea {
+  width: 100%;
+  padding: var(--space-12);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  resize: vertical;
+  line-height: var(--line-height-body);
+}
+
+.search-panel-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-16);
+  margin-top: var(--space-12);
+  flex-wrap: wrap;
+}
+
+.search-panel-hint {
+  color: var(--color-text-subdued);
+  font-size: var(--font-size-caption);
+}
+
+.search-panel-submit {
+  background-color: var(--color-interactive);
+  color: var(--color-text-on-role);
+  border: none;
+  border-radius: var(--radius-control);
+  padding: var(--space-8) var(--space-20);
+  font-weight: var(--font-weight-heading);
+  cursor: pointer;
+}
+
+.search-panel-submit:hover:not(:disabled) {
+  background-color: var(--color-interactive-hover);
+}
+
+.search-panel-submit:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.search-panel-divider {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: var(--space-16) 0;
+}
+
+.search-panel-samples-label {
+  display: block;
+  font-size: var(--font-size-caption);
+  color: var(--color-text-subdued);
+  margin-bottom: var(--space-8);
+}
+
+.search-panel-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-8);
+}
+
+.search-panel-chip {
+  background: var(--color-surface-subdued);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  padding: var(--space-4) var(--space-12);
+  font-size: var(--font-size-caption);
+  color: var(--color-text);
+  cursor: pointer;
+}
+
+.search-panel-chip:hover:not(:disabled) {
+  border-color: var(--color-link);
+  color: var(--color-link);
+}
+
+.search-panel-chip:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

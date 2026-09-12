@@ -1,0 +1,10 @@
+.recommend-page-title {
+  font-size: var(--font-size-page-title);
+  font-weight: var(--font-weight-heading);
+  margin-bottom: var(--space-4);
+}
+
+.recommend-page-subtitle {
+  color: var(--color-text-subdued);
+  margin-bottom: var(--space-16);
+}

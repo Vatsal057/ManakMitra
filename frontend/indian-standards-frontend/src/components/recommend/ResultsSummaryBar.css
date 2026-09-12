@@ -1,0 +1,13 @@
+.results-summary-bar {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  padding: var(--space-8) var(--space-4);
+  margin-bottom: var(--space-16);
+  font-size: var(--font-size-body);
+  flex-wrap: wrap;
+}
+
+.results-summary-count {
+  font-weight: var(--font-weight-heading);
+}

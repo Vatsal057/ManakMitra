@@ -1,0 +1,40 @@
+.info-tooltip {
+  position: relative;
+  display: inline-flex;
+}
+
+.info-tooltip-trigger {
+  width: 16px;
+  height: 16px;
+  padding: 0;
+  border-radius: 50%;
+  border: 1px solid var(--color-text-subdued);
+  background: var(--color-surface);
+  color: var(--color-text-subdued);
+  font-size: 11px;
+  font-style: italic;
+  line-height: 1;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Positioned via inline style (position: fixed, top/left) computed in JS —
+   this component is portaled to document.body so a parent's
+   overflow:hidden or stacking context can never clip it. z-index sits
+   above modals/drawers (100) and the nav/footer. */
+.info-tooltip-bubble {
+  z-index: 300;
+  width: max-content;
+  max-width: 260px;
+  padding: var(--space-8) var(--space-12);
+  border-radius: var(--radius-control);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: var(--font-size-caption);
+  font-weight: var(--font-weight-body);
+  line-height: var(--line-height-body);
+  box-shadow: var(--shadow-card);
+}

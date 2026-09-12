@@ -1,0 +1,2923 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 12592 (2002) : Precast Concrete Manhole Cover and Frame - 
+[CED 53: Cement Matrix Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 12892:2002 
+
+Indian Standard 
+
+PRECAST CONCRETE MANHOLE COVER 
+AND FRAME — SPECIFICATION 
+
+(First Revision) 
+
+First Reprint JUNE 2007 
+ICS 91.100.30 
+
+
+
+© BIS 2002 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+March 2002 Price Group 5 
+
+
+
+AMENDMENT NO. 1 JANUARY 2008 
+
+TO 
+
+IS 12592 : 2002 PRECAST CONCRETE MANHOLE 
+
+COVER AND FRAME — SPECIFICATION 
+
+( First Revbion ) 
+
+{Page 1, clause 3.1) — Substitute the following for the existing against grade Medium Duty: 
+
+Grade Grade Designation Type/Shape of Cover 
+
+Medium Duty MD-10 Rectangular, Square, Circular 
+
+{Page 3, Table 1) — Substitute the table given on page 2 for the existing table. 
+
+{Page 4, clause 7,3,1) — Substitute the following for the existing: 
+*The curing shall be done as per IS 456/ 
+
+{Page 4, clause 7.4,2, para 2, second sentence) — Substitute the following for the existing: 
+'The ring made out of mild steel flat shall be given anticorrosive treatment by hot dip galvanizing.* 
+
+{Page 4, clause 8, para I ) — Substitute the following for the existing: 
+
+*The minimum diameter of round steel rod used as lifting device shall be 10 mm for light duty, 12 mm for 
+medium duty and 16 nun for heavy and extra heavy duty covers. The lifting device shall be made of naturally 
+corrosion resistant metal rods or shall be protected ftom corrosion by hot dip galvanizing." 
+
+{Page 4, clause 9.3) — Substitute the following for the existing: 
+
+'The individual units shall be subjected to a test load as specified in Table 2 and in accordance with the method 
+described in Annex C, satisfying the requirement specifled therein. Also, the permanent set shall not exceed the 
+requirement given in Annex C* 
+
+{Page 7, Fig. 2) — Substitute the following for the existing figure: 
+
+
+
+BLOCK 
+
+
+
+FACING 
+
+
+
+SUPPORT 
+FOR TESTING 
+COVER 
+
+
+
+SUIT/MEU.E ARRANGEMENT FOR 
+MEASURING PERMANENT SET 
+
+
+
+OIL INLET PIPE 
+
+
+
+
+PRESSURE 
+GAUGE 
+
+
+
+CONCRETE MANHOLE 
+COVER 
+
+
+
+FIG 2 ARRANGEMENT FOR LOAD TEST OF MANHOLE COVER 
+
+
+
+Gr2 
+
+
+
+Amend No. 1 to IS 12592 : 2002 
+
+
+
+
+
+
+
+Table 1 Dimensions of Frame 
+
+(Clauses.!) 
+Alt dimensions in millimeters. 
+
+
+
+
+
+
+
+
+
+
+
+
+MILD STEEL 
+FLAT 
+
+N 
+
+Description 
+
+(2) 
+
+
+
+
+F 
+
+
+
+
+B 
+
+• 
+
+C 
+
+£ 
+A/ln 
+
+(7) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+m 
+
+
+\ 
+
+
+h^'M 
+
+
+
+
+
+
+W^ 
+
+
+i'>>^ 
+
+
+I'-^si^m 
+
+
+
+
+
+
+E 
+
+
+D 
+
+
+A 
+
+
+
+
+
+
+Grade 
+Designation 
+
+(1) 
+
+
+Ocar Opening B 
+In Frame, i4 
+
+(3) (4) 
+
+
+c 
+
+(5) 
+
+
+D 
+
+
+F 
+Nominal 
+
+(«) 
+
+
+LD-2.5 
+
+
+Light Duty 
+Rectangular 
+
+
+450 ^ 600 
+
+
+50 
+
+
+50 50 
+
+
+50 
+
+
+559x709 
+
+
+LD-2.5 
+
+
+Light Duty 
+Square 
+
+
+400 X 400 
+450 X 450 
+
+
+50 
+
+50 
+
+
+50 50 
+50 50 
+
+
+50 
+50 
+
+
+509x509 
+559x559 
+
+
+LD-25 
+
+
+Light Duty 
+Circular 
+
+
+370 
+450 
+500 
+560 
+
+
+50 
+50 
+50 
+
+50 
+
+
+50 50 
+50 50 
+50 50 
+50 50 
+
+
+50 
+50 
+50 
+50 
+
+
+479 
+559 
+609 
+669 
+
+
+MD-IO 
+
+
+Medium Duty 
+Rectangular 
+
+
+450x600 
+
+
+70 
+
+
+50 50 
+
+
+50 
+
+
+560 X 710 
+
+
+MD-IO 
+
+
+Medium Duty 
+Square 
+
+
+450 X 450 
+600x600 
+
+
+70 
+70 
+
+
+50 50 
+50 50 
+
+
+50 
+50 
+
+
+560x560 
+710x710 
+
+
+MD-IO 
+
+
+Medium Duty 
+Circular 
+
+
+450 
+500 
+560 
+600 
+
+
+70 
+70 
+70 
+70 
+
+
+50 50 
+50 50 
+50 50 
+50 50 
+
+
+50 
+50 
+50 
+50 
+
+
+560 
+610 
+670 
+710 
+
+
+HD-20 
+
+
+Heavy Duty 
+Rectangular 
+(Scrapper) 
+
+
+900x450 
+
+
+90 
+
+
+75 75 
+
+
+75 
+
+
+1060x610 
+
+
+HD-20 
+
+
+Heavy Duty 
+Square 
+
+
+560x560 
+
+
+90 
+
+
+75 75 
+
+
+75 
+
+
+720x720 
+
+
+HD-20 
+
+
+Heavy Duty 
+Circular 
+
+
+450 
+500 
+560 
+600 
+
+
+90 
+90 
+90 
+90 
+
+
+75 75 
+75 75 
+75 75 
+75 75 
+
+
+75 
+75 
+75 
+75 
+
+
+610 
+660 
+720 
+760 
+
+
+HD-20 
+
+
+Heavy Duty 
+Lamphole 
+
+
+350 
+
+
+90 
+
+
+75 75 
+
+
+75 
+
+
+510 
+
+
+EHD-35 
+
+
+Extra Heavy 
+
+Duty 
+
+Rectangular 
+
+
+900x560 
+
+
+lOO 
+
+
+75 75 
+
+
+75 
+
+
+1060x720 
+
+
+EHD-35 
+
+
+Extra Heavy 
+Duty Square 
+
+
+560x560 
+
+
+lOG 
+
+
+75 75 
+
+
+75 
+
+
+720x720 
+
+
+EHD-35 
+
+
+Extra Heavy 
+Duty Circular 
+
+
+450 
+500 
+560 
+600 
+
+
+IOC 
+IOC 
+lOO 
+IOC 
+
+
+1 75 75 
+
+► 75 75 
+
+75 75 
+
+1 75 75 
+
+
+75 
+75 
+75 
+75 
+
+
+610 
+660 
+720 
+760 
+
+
+NOTES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Tolerance on 
+
+
+C shall be ^5 mm, tolerance 
+
+
+onA,B,DmAEsM\be^^ 
+-0 
+
+
+mm. 
+
+
+
+
+
+
+
+
+
+
+
+2 For facility of removing the manhole cover suitable upward taper not more than 5* may be provided to the inner periphery of the 
+Amne. 
+
+3 If required for the removal of the nKXilds suitable taper not more than 5* can be given at the lower inner periphery of the 
+frame (see figure). 
+
+4 Dimension of cover is covered in 5^. The dimension F for frames is indicative only and has been arrived at based on die nominal 
+values of dimensions >4» iT and Z> and a maximum taper of 5* on the inner periphery of the frame, wherever provided (me Mote 2)» 
+subject to the provisions in 5 J. 
+
+
+
+Amend No. 1 to IS 12592 : 2002 
+
+{Page 7, Amex C, clause C-l.2A,para 2, first sentence) — Substitute the following for the existing: 
+'The load shall be applied gradually at the rate of approximately 1 kN/s to 5 kN/s up to 2/3 of the test load.' 
+
+(Page 7, Annex C, clause C-L2.1, para 3, second sentence) — Substitute the following for the 
+
+existing: 
+
+*The permanent set shall not exceed the following values: 
+
+For LD 2.5 and MD 10 — l/IOO time the diameter of the largest circle that can be inscribed in the clear area of 
+
+the frame as shown in Fig. 3 
+
+For HD-20 and EHD-3S — 1/300 time the diameter of the largest circle that can be inscribed in the clear area of 
+
+the frame as shown in Fig. 3 
+
+The permanent set shall be measured to an accuracy of 0.1 mm. Further, no crack wider that than 0.2 mm shall 
+appear in the concrete after this test at bottom side of cover.* 
+
+(Page 7, Annex C, clause C-1.2-2) — Substitute the following for the existing: 
+
+'Immediately after the test according to C-1.2.1, the load shall be applied at the same rate as given in C-1.2,1, 
+till the full test load is achieved. The test load shall be maintained for a period of 30 J: 2 s. There shall be no loss 
+of adhesion between the concrete and the reinforcing steel at the end of the test.' 
+
+
+
+(CED 53) 
+
+Reprography Unit, BIS. New Delhi, India 
+
+
+
+AMENDMENT NO. 2 DECEMBER 2008 
+
+TO 
+
+IS 12592 : 2002 PRECAST CONCRETE MANHOLE 
+
+COVER AND FRAME — SPECIFICATION 
+
+(Firsi Revision) 
+
+(Page 2, clause 6) — Substitute the following for the existing: 
+
+'DESIGN 
+
+The reinforced concrete manhole cover and frame shall be designed in 
+accordance with the provisions of IS 456. If required by the purchaser, the 
+manufacturer shall furnish the specification and drawing (principle given in 
+IS 456 may be followed). 
+
+NOTE — If desired by the purchaser the reinforcement details may be verified against the 
+drawings furnished by the manufacturer by breaking a cover/frame.* 
+
+[Page 3, Table 1 (see also Amembnent No, 1)] — Substitute the following 
+for the existing values of dimension *F* in col 8 for the corresponding Grade 
+Designation LD-2.5 under col 1 and Clear Opening in Frame, A under col 3: 
+
+
+
+Grade Designation 
+
+(I) 
+
+
+Clear Opening In 
+Frame, v4 
+
+(3) 
+
+
+F 
+Nomima 
+
+(8) 
+
+
+LD-2.5 
+
+
+450x600 
+
+
+558 X 708 
+
+
+LD-2.5 
+
+
+400x400 
+450 X 450 
+
+
+508 X 508 
+558 X 558 
+
+
+LD.2.5 
+
+
+370 
+450 
+500 
+560 
+
+
+478 
+558 
+
+608 
+668 
+
+
+
+{Page 4, clause 7.4.2, para 2, second sentence (see also Amendment No. 1)] 
+Substitute the following for the existing: 
+
+
+
+Amend No. 2 to IS 12592 : 2002 
+
+^Exposed surface of mild steel sheet shall be given suitable treatment either 
+with hot dip galvanizing or anti-corrosive paint or coating, as specified by the 
+purcha^r.' 
+
+{Page 4, clause 8, para 1, second sentence) — Substitute the following for 
+the existing: 
+
+*The lifting device shall be protected from corrosion by hot dip galvanizing or 
+anti-corrosive paint or coating as specified by the purchaser or shall be made of 
+naturally corrosion resistant metal rods.' 
+
+[Page 4, clause 9.3, first sentence (see also Amendment No, 1)] — 
+Substitute ^coytrs* for 'units'. 
+
+
+
+(CED 20) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+Cement Matrix Products Sectional Committee, CED 53 
+
+
+
+FOREWORD 
+
+This Indian Standard (First Revision) was adopted by the Bureau of Indian Standards, after the draft finalized 
+by the Cement Matrix Products Sectional Committee had been approved by the Civil Engineering Division 
+Council. 
+
+Cast iron manhole covers and frames are prone to pilferage and misuse due to its high resale value. Precast 
+concrete manhole covers and frames which are found to satisfy the general requirements specified in 
+IS 1 726 : 1 974 'Specification for cast iron manhole covers and frames: Part 1 General requirements {first revisiony 
+have proved to be good substitute to cast iron manhole covers and frames. As such, use of such covers and 
+frames is increasing day-by-day. 
+
+This standard has been prepared with a view to guiding the manufacture and use of precast reinforced cement 
+concrete manhole covers and frames. This standard covers the requirements of precast concrete manhole 
+covers and frames manufactured using reinforced cement concrete. 
+
+The manufacturing process ofprecast concrete manhole covers and frames is simple and requires only ordinary 
+locally available machinery, such as concrete mixers, vibrators, appropriate moulds, hydraulic jacks, etc. These 
+products can be produced in existing factories producing precast concrete products. 
+
+This standard was first published in two parts, namely. Part 1 Covers and Part 2 Frames, brought out in 1988 and 
+1 99 1 respectively. This revision has been taken up in view of the change in grade and test load of manhole covers 
+and frames in IS 1726: 1991 'Specification for cast iron manhole covers and frames {third revision)\ diXidXo 
+incorporate the modifications found necessary in light of the experience gained while using the earlier version of 
+the standard. It was also felt that instead of having two separate standard for manhole covers and frames, 
+requirements of both should be covered in one standard. Accordingly in this revision the requirements of both 
+covers and frames are covered by merging the Part 1 and Part 2 of the erstwhile standard. 
+
+The Composition of the Committee responsible for the formulation of this standard is given in Annex D. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, 
+observed or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with 
+IS2: 1960 'Rules for rounding off numerical values (revwerf)'. The number ofsignificant places retained in the 
+rounded off value should be the same as that of the specified value in this standard. 
+
+
+
+1812592:2002 
+
+
+
+Indian Standard 
+
+
+
+PRECAST CONCRETE MANHOLE COVER 
+AND FRAME — SPECIFICATION 
+
+
+
+(First Revision) 
+
+
+
+1 SCOPE 
+
+
+
+This standard covers the requirements for precast steel 
+reinforced cement concrete manhole covers and frames 
+intended for use in sewerage and storm water drainage. 
+
+2 REFERENCES 
+
+The Indian Standards listed in Annex A contain 
+provisions which through reference in this text, 
+constitute provisions of this standard. At the time of 
+publication, the editions indicated were valid. All 
+standards are subject to revision, and parties to 
+agreements based on this standard are encouraged to 
+investigate the possibility of applying the most recent 
+editions of the standards indicated in Annex A. 
+
+3 GRADES AND TYPES 
+
+3.1 Manhole covers and frames shall be of the 
+following four grades and types: 
+
+Grade Grade Designation Type/Shape of Cover 
+
+Light Duty LD-2.5 Rectangular, Square, 
+
+Circular 
+
+Medium Duty MD-10 Rectangular, Circular 
+
+Heavy Duty HD-20 Rectangular (Scrapper 
+
+Manhole), Square, 
+Circular and Lamphole 
+
+Extra Heavy EHD-3S Rectangular (Scrapper 
+
+Duty Manhole), Square and 
+
+Circular 
+
+3.2 Recommended locations for placement of different 
+grades and types/shapes of manhole covers and 
+frames are as given in 3.2.1 to 3,2.4. 
+
+3.2. 1 LD-2.5 Rectangular, Square or Circular Types 
+
+Suitable for use within residential and institutional 
+complexes/areas with pedestrian but occasional light 
+motor vehicle traffic. These are also used for 
+'Inspection chambers'. 
+
+3.2.2 A/D- 1 Circular or Rectangular Types 
+
+Suitable for use in service lanes/roads, on pavements 
+for use under medium duty vehicular traffic including 
+for car parking areas. 
+
+
+
+3.2.3 HD'20 Circular, Lamphole, Square or 
+Rectangular (Scrapper Manhole) Types 
+
+Suitable for use in institutional/commercial areas/ 
+carriageways/city trunk roads/bus terminals with heavy 
+duty vehicular traffic of wheel load between 50 to 
+1 00 kN, like buses, trucks and parking areas and where 
+the manhole chambers are located in between the 
+pavement and the middle of the road. 
+
+3.2.4 EHD'35 Circular, Square or Rectangular 
+(Scrapper Manhole) Types 
+
+Suitable for use on carriageways in commercial/ 
+industrial/port areas/near warehouses/godowns where 
+frequent loading and unloading of trucks/trailers are 
+common, with slow to fast moving vehicular traffic of 
+the types having wheel loads up to 1 1 5 kN irrespective 
+of the location of the manhole chambers. 
+
+4 MATERIAL 
+
+4.1 Cement 
+
+Cement used for the manufacture of precast concrete 
+manhole covers shall conform to IS 269 or IS 455 or 
+IS1489(Part l)orIS 1489 (Part 2) or IS 6909 or IS 8041 
+or IS 8043 or IS 81 12 or IS 12330orIS 12269. 
+
+4.2 Aggregates 
+
+The aggregates used shall be well graded. The nominal 
+maximum size of coarse aggregate shall not exceed 
+20 mm. The aggregates shall be clean and free from 
+deleterious matter and shall conform to the requirements 
+of IS 383. 
+
+4.3 Concrete 
+
+The mix proportions of concrete shall be determined 
+by the manufacturer and shall be such as will produce 
+a dense concrete without voids, honey combs, etc 
+{see IS 456). The minimum cement content in the 
+concrete shall be 360 kg/m^, with a maximum water 
+cement ratio of 0.45. Concrete weaker than grade M30 
+shall not be used. Compaction of concrete shall be 
+done by machine vibration. 
+
+4.4 Reinforcement 
+
+The reinforcing steel shall conform to Grade A of 
+IS 2062 or IS 432 (Part 1) or IS 432(Part2) or IS 1786 
+as appropriate. 
+
+
+
+I 
+
+
+
+1—99 BIS/ND/07 
+
+
+
+18 12592:2002 
+
+
+
+4.4.1 Reinforcement shall be clean and free from loose 
+mill scale, loose rust, mud, oil, grease or any other 
+coating which may reduce or destroy the bond between 
+concrete and steel. A slight film of rust may not be 
+regarded as harmful but steel shall not be visibly pitted 
+by rust. 
+
+4.5 Steel Fibres 
+
+The diameter/equivalent diameter of steel fibres where 
+used, shall not be greater than 0.7S mm. The aspect 
+ratio of the fibres (ratio of the length of the fibre to its 
+diameter/equivalent diameter) shall be in the range 
+of 50 to 80. The minimum volume of fibres shall be 
+0.5 percent of the volume of concrete. 
+
+In case of propcriety fibres, manufacturer*s recom- 
+mendations shall be taken into account. 
+
+4*6 Admixtures 
+
+Where admixtures are used, they shall conform to 
+IS 9 103. 
+
+4.7 Water 
+
+The water used shall be free from matter harmful to 
+concrete or reinforcement or matter likely to cause 
+efflorescence in the units and shall conform to the 
+requirements of IS 456. 
+
+5 SHAPES AND DIMENSIONS 
+
+5.1 Shapes 
+
+The precast concrete manhole covers and frames shall 
+be of any shape given in 3.1. 
+
+5.2 Dimensions and Tolerances 
+
+The dimensions and tolerances on dimensions of 
+frames shall be as shown in Table 1 but outside 
+
+-^W[^ rltFUHC HOOK 
+
+^^^^^^ ^^^ "'- -« 
+
+^iJmm CLEAR VpcMFOB 
+COVER min 
+SECTION XX 
+
+
+
+dimensions of cover at top shall match with the 
+corresponding frame so that the maximum clearance at 
+top between the frame and the cover all round the 
+periphery is not more than 5 mm and the top surface 
+of the frame and cover is in level within a tolerance 
+of ±5 mm. 
+
+For facility of removing the cover from the frame, 
+suitable taper matching with taper given for the frame 
+shall be provided to the periphery of the cover {see 
+Fig.l). 
+
+6 DESIGN 
+
+The reinforced concrete manhole cover and frame shall 
+be designed in accordance with the provisions of 
+IS 456. If required by the purchaser, the manufacturer 
+shall furnish the specification and drawings principle 
+given in IS 456 may be followed. 
+
+7 MANUFACTURE 
+
+7.1 Mixing 
+
+Concrete shall be mixed in a mechanical mixer. Mixing 
+shall be continued until there is a uniform distribution 
+of the materials and the mass is uniform in colour and 
+consistency. If steel flbres are used in addition to 
+reinforcement, it shall conform to the requirements given 
+in 4,5. 
+
+7.2 Placing and Compaction 
+
+The reinforcement shall be placed in proper position in 
+an appropriate mould coated with a thin layer of mould 
+oil in case of frames and within the protective sheet 
+(see 7.4J) in case of covers. Concrete shall be filled to 
+slightly overfill and compacted by vibration and struck 
+off level with a trowel. 
+
+
+
+AROUND COVER 
+
+^RCIMFORCEMCNT 
+
+
+
+
+1 - i ra' •' * < '" a — 9^M^ i » 7 
+
+
+
+UFTING 
+FORK 
+
+
+
+^ 
+
+
+
+REINFORCEMCNT 
+
+
+
+SECTION XX 
+
+
+
+
+MHO STEEL FLAT 
+AROUND COVER 
+
+
+
+PLAN 
+
+IB 
+
+All dimensions in millimetres. 
+Fig. I Typical Illustration of Circular Precast Concretr Manhole Cover 
+
+
+
+IS 12592 : 2002 
+
+
+
+Table 1 Dimensions of Frame 
+
+{Clause S.2) 
+All dimensions in millimetres. 
+
+
+
+
+
+
+
+ym — 
+
+
+
+
+
+
+
+
+^HILD STEEL 
+
+^ flAT 
+
+
+
+
+
+
+
+
+TTP 
+
+
+
+
+
+
+—i J 
+
+
+
+
+
+
+fe 
+
+
+A^ 
+
+
+
+
+R 
+
+
+
+
+1 
+
+
+
+
+
+
+>-'p 
+
+
+\M j 
+
+
+
+
+
+
+k- 
+
+
+E-+-C 
+
+
+•4^- ]_ 
+
+
+J 
+
+
+
+
+Grade 
+Designation 
+
+
+Description 
+
+
+
+
+Clear Opening 
+In Frame 
+
+
+B 
+
+
+c 
+
+
+D 
+
+
+£ 
+Min 
+
+
+F 
+Min 
+
+
+(1) 
+
+
+(2) 
+
+
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+{!) 
+
+
+(8) 
+
+
+LD-2.5 
+
+
+Light Duty 
+Rectangular 
+
+
+
+
+450 X 450 
+
+
+50 
+
+
+50 
+
+
+50 
+
+
+50 
+
+
+566 
+
+
+LD-2.5 
+
+
+Light Duty 
+Square 
+
+
+
+
+450 X 450 
+400 X 400 
+
+
+50 
+
+50 
+
+
+50 
+
+50 
+
+
+50 
+50 
+
+
+50 
+
+50 
+
+
+566 X 566 
+516 X 516 
+
+
+LD.2.5 
+
+
+Light Duty 
+Circular 
+
+
+
+
+370 
+560 
+500 
+450 
+
+
+50 
+50 
+
+50 
+50 
+
+
+50 
+50 
+50 
+50 
+
+
+50 
+50 
+50 
+50 
+
+
+50 
+50 
+50 
+50 
+
+
+486 
+676 
+616 
+566 
+
+
+MD-IO 
+
+
+Medium Duty 
+Rectangular 
+
+
+
+
+450 X 600 
+
+
+70 
+
+
+50 
+
+
+50 
+
+
+50 
+
+
+570 X 720 
+
+
+MD-IO 
+
+
+Medium Duty 
+Circular 
+
+
+
+
+450 
+
+500 
+560 
+600 
+
+
+70 
+70 
+70 
+70 
+
+
+50 
+50 
+
+50 
+50 
+
+
+50 
+50 
+50 
+50 
+
+
+50 
+50 
+50 
+50 
+
+
+570 
+620 
+680 
+720 
+
+
+HD.20 
+
+
+Heavy Duty 
+Rectangular 
+(Scrapper) 
+
+
+
+
+900 X 450 
+
+
+90 
+
+
+75 
+
+
+75 
+
+
+75 
+
+
+I 080 X 630 
+
+
+HD-20 
+
+
+Heavy Duty 
+Square 
+
+
+
+
+560 X 560 
+
+
+90 
+
+
+75 
+
+
+75 
+
+
+75 
+
+
+740 X 740 
+
+
+HD-20 
+
+
+Heavy Duty 
+Circular 
+
+
+
+
+450 
+500 
+560 
+600 
+
+
+90 
+
+90 
+90 
+90 
+
+
+75 
+
+75 
+75 
+75 
+
+
+75 
+75 
+75 
+75 
+
+
+75 
+75 
+75 
+75 
+
+
+630 
+680 
+740 
+780 
+
+
+HD-20 
+
+
+Heavy Duty 
+Lamphole 
+
+
+
+
+350 
+
+
+90 
+
+
+75 
+
+
+75 
+
+
+75 
+
+
+530 
+
+
+EHD-35 
+
+
+Extra Heavy 
+Duty 
+
+Rectangular 
+
+
+
+
+900 X 560 
+
+
+100 
+
+
+75 
+
+
+75 
+
+
+75 
+
+
+I 078 X 738 
+
+
+EHD.35 
+
+
+Extra Heavy 
+Duty Square 
+
+
+
+
+560 X 560 
+
+
+100 
+
+
+75 
+
+
+75 
+
+
+75 
+
+
+738 X 738 
+
+
+EHD05 
+
+
+Extra Heavy 
+
+Duty 
+
+Circular 
+
+
+
+
+450 
+500 
+560 
+600 
+
+
+100 
+100 
+100 
+100 
+
+
+75 
+75 
+75 
+75 
+
+
+75 
+75 
+75 
+75 
+
+
+75 
+75 
+75 
+75 
+
+
+628 
+678 
+738 
+
+778 
+
+
+
+NOTES 
+
+
+
++ 5 
+
+
+
+1 Tolerance on C shall t>e :t5 mm« tolerance on A^ B, D and E shall be _ a 
+
+2 For facility of removmg the manhole cover suitable upward taper not more than 5 may be provided to the inner periphery 
+of the frame. 
+
+3 If required for the removal of the moulds suitable taper not more than 5 can be given at the lower inner periphery of the 
+frame {see figure), 
+
+
+
+IS 12592 : 2002 
+
+
+
+7.2.1 Use of needle vibrators for compacting the wet 
+concrete mix containing fibres is not recommended since 
+the holes left by the vibrator in the wet mix may not 
+close after its removal owing to the interlocking of 
+the fibres with the mix. Compaction by means of shutter 
+or form or table vibrators is recommended. In case of 
+extra heavy duty and heavy duty cover and frame, 
+compaction by means of pressure-cum-vibration 
+technique may also be employed so as to achieve dense 
+and strong concrete. 
+
+7.2.2 Clear cover to reinforcement shall be not less 
+than 1 5 mm. 
+
+7.2.3 After demoulding, cover and frame shall be 
+protected until they are sufTiciently hardened to permit 
+handling without damage. 
+
+7.3 Curing 
+
+7.3. 1 The hardened concrete manhole cover and frame 
+shall be placed in a curing water tank. The period of 
+curing shall be as given in IS 456. 
+
+7.3.2 Steam curing of manhole cover and frames may 
+be adopted instead of method specified in 7.3.1, 
+followed by normal curing for 7 days provided the 
+requirements of pressure or non-pressure steam curing 
+are fulfilled and the manhole cover and frames meet the 
+requirements specified in this standard. 
+
+7.4 Edge Protection and Finishing 
+
+7.4.1 Frame 
+
+The top and inside surface of frames shall be smooth. 
+To prevent the top outer edge from possible damages, 
+it shall be protected by 25 mm x 3 mm mild steel flat as 
+part of the frame. Sufficient number of steel connectors 
+shall be welded to the inner surface of the mild steel flat 
+so as to connect it with the frame reinforcement and 
+these shall be embedded in the concrete during casting. 
+Exposed surface of mild steel flat shall be given suitable 
+treatment with anticorrosive paint or coating. 
+
+7.4.2 Cover 
+
+To prevent any possible damage from corrosion of 
+reinforcing steel, the underside of the covers shall be 
+treated with anticorrosive paint. The top surface of the 
+covers shall be given a chequered finish. 
+
+In order to protect the edges of the covers from 
+possible damage at the time of lifting and handling, it is 
+necessary that the manhole covers shall be cast with a 
+protective mild steel sheet of minimum 2 mm thickness 
+around the periphery of the covers. Exposed surface 
+of mild steel sheet shall be given suitable treatment 
+with anti-corrosive paint or coating. 
+
+7.4.3 Suitable arrangements Kfly be made for fixing 
+the manhole cover and frame in position on the 
+
+
+
+manholes by mutual agreement between 
+manufacturer and the purchaser. 
+
+
+
+the 
+
+
+
+7.4.4 The manufacture of manhole cover and frame 
+shall be such as to ensure the compatibility of their 
+seatings. For classes HD 20 and HD 35, these seatings 
+shall be manufactured in such a way as to ensure 
+stability and quiteness in use. This may be achieved 
+by grinding the contact surface, if needed. 
+
+8 LIFTING HOOKS 
+
+The minimum diameter of mild steel rod used as lifting 
+device shall be 1 2 mm for light and medium duty covers 
+and 16 mm for heavy and extra heavy duty covers. 
+The lifting device shall be protected from corrosion by 
+hot dip galvanizing or any other suitable means 
+approved by the purchaser or shall be made of naturally 
+corrosion resistant metal rods. 
+
+The lifting arrangement shall be as agreed between the 
+manufacturer and the purchaser. Typical arrangements 
+oflifting devices are shown in Fig. lAand IB. 
+
+9 PHYSICALREQUIREMENTS 
+
+9.1 General 
+
+AH the covers and frames shall be sound and free from 
+cracks and other defects which interferes with the 
+proper placing of the unit or impair the strength or 
+performance of the units. Minor chippings resulting 
+from the customary method of handling and 
+transportation shall not be deemed ground for 
+rejection. 
+
+9.2 Dimensions 
+
+The dimensions of the cover and frame shall be as 
+specified in 5; the overall dimensions of the units shall 
+be measured in accordance with Annex B. 
+
+9 J Load Test 
+
+The breaking load of individual units when tested in 
+accordance with the method described in Annex C shall 
+be not less than the values specified in Table 2. Also, 
+the permanent set shall not exceed the requirement 
+given in Annex C. 
+
+Table 2 Test Load and Diameter of Block 
+
+(Clauses 9.3, 12.3 awrfC- 1.1) 
+
+
+
+Grade of 
+
+
+Type 
+
+
+Load 
+
+
+Diameter of 
+
+
+Cover 
+
+
+
+
+
+
+Block 
+
+
+
+
+
+
+IcN 
+
+
+mm 
+
+
+(t) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+LD-2.5 
+
+
+Rectangular, 
+square or circular 
+
+
+25 
+
+
+300 
+
+
+MD-10 
+
+
+Rectangular or 
+circular 
+
+
+100 
+
+
+300 
+
+
+HD-20 
+
+
+Rectangular, square 
+or circular 
+
+
+200 
+
+
+300 
+
+
+EHD-35 
+
+
+Rectangular, square 
+or circular 
+
+
+350 
+
+
+300 
+
+
+
+IS 12592 : 2002 
+
+
+
+10 TESTS 
+
+Tests shall be conducted on samples of covers and 
+frames selected according to the sampling procedure 
+given in U, to ensure conformity with the physical 
+requirements laid down in 9. 
+
+11 SAMPLING AND INSPECTION 
+11.1 Scale of Sampling 
+
+I KM Lot 
+
+In any consignment, 500 percast concrete manhole 
+co\ ers and frames or a part thereof the same dimensions 
+and belonging to the same batch of manufacture, shall 
+be grouped together to constitute a lot. 
+
+11.1.2 For ascertaining the confonnity of the materials 
+in the lot to the requirements of this specification, 
+samples shall be tested from each lot separately. 
+
+1 1 . 1 .3 The number of covers and frames to be selected 
+from the lot shall depend on the size of the lot and shall 
+be according to Table 3. 
+
+Table 3 Scale of Sampling and Permissible 
+Nu mber of Defectives 
+
+{Clauses 11 . i .3, 1 1 .4.2 and 1 2.2) 
+
+No. of Covers Dimensional Requirements Number of 
+or Frames / ^ \ Samples for 
+
+in the Lot Sample Acceptance Load Test on 
+
+Size Number Cover Only 
+
+
+
+(1) 
+
+
+(2) 
+
+
+Up to 100 
+
+
+10 
+
+
+101 to 200 
+
+
+IS 
+
+
+201 to 300 
+
+
+20 
+
+
+301 to 500 
+
+
+30 
+
+
+
+(3) 
+
+I 
+I 
+
+2 
+3 
+
+
+
+(4) 
+
+2 
+3 
+4 
+
+5 
+
+
+
+NOTE *— If the number of covers in the lot is 20 or less, the 
+number of samples for load test shall be decided by mutual 
+agreement between the purchaser and the manufacturer. 
+
+1 1 .2 Sampling Covers and Frames in Motion 
+
+Whenever practicable, samples of covers and frames 
+shall betaken when the units are being moved as in 
+the case of loading, unloading, etc. The batch from 
+where the samples are to be drawn shall be divided into 
+a number of convenient portions such that when one 
+sample is drawn from each of these portions, the 
+minimum number of units specified under 11.1.3, is 
+provided. 
+
+1 1 .3 Sampling Covers and Frames from a Stack 
+
+The number of covers and frames required for the test 
+shall be taken at random from across the top of the 
+stacks, the sides accessible and from the interior of 
+the stacks by opening trenches from the top. 
+
+
+
+11.4 Number of Tests 
+
+1 1.4.1 All the covers and frames selected according 
+to 11.1.3, shall be checked for dimensions {see 9.2) 
+and inspected for visual defects {see 9.1). 
+
+11.4.2 The number of covers to be subject to load 
+test shall be according to col 4 of Table 3. 
+
+12 CRITERIA FOR CONFORMITY 
+
+12.1 The lot shall be considered as confomiing to 
+the requirements of the specification conditions 
+mentioned in 12.2 and 12.3 are satisfied. 
+
+1 2.2 The number of covers and frames with dimensions 
+outside the tolerance limit and/or with visual defects 
+among those inspected shall be less than or equal to 
+the corresponding acceptance number given in col 3 
+
+of Table 3. 
+
+12.3 For load test no value shall be less than the load 
+specified in Table 2. 
+
+13 MANUFACTURER'S CERTIFICATE 
+
+The manufacturer shall satisfy himself that the manhole 
+
+cover and frame conform to the requirements of this 
+
+specification, and if requested, shall supply a certificate 
+
+to this effect to the purchaser or his representative. 
+
+14 MARKING 
+
+14.1 Following information shall be clearly and 
+permanently marked on top of each manhole cover and 
+frame: 
+
+a) Identification of the source of manufacture; 
+
+b) Grade designation denoted by LD 2.S/MD 10/ 
+HD20/EHD35; 
+
+c) Any identification mark as required by the 
+purchaser; and 
+
+d) Year and month of manufacture of the manhole 
+cover and frame marked at any appropriate 
+location. 
+
+14.2 BIS Certification Marking 
+
+The manhole cover and frame may also be marked with 
+the Standard Mark. 
+
+14.2.1 The use of the Standard Mark is governed by 
+the provisions of the Bureau of Indian Standards Act, 
+\ 986 and the Rules and Regulations made thereunder. 
+The details of conditions under which a licence for the 
+use of Standard Mark may be granted to manufacturers 
+or producers may be obtained from the Bureau of Indian 
+Standards. 
+
+
+
+IS 12592 :2002 
+
+
+
+ANNEX A 
+
+(Clause 2) 
+LIST OF REFERRED INDIAN STANDARDS 
+
+
+
+ISNo, Title 
+
+269: 1989 Specification for ordinary Portland 
+
+cement, 33 grade {fourth revision) 
+
+383:1970 Specification for coarse and fine 
+
+aggregates from natural sources for 
+concrete {second revision) 
+
+432 Specification for mild steel and medium 
+
+tensile steel bars and hard-drawn steel 
+wire for concrete reinforcement: 
+
+(Part 1): 1982 Mild steel and medium tensile steel bar 
+{third revision) 
+
+(Part2): 1982 Hard-drawn steel wire (//i/Vf/revw/oAi) 
+
+
+
+455:1989 
+
+
+
+456:2000 
+
+
+
+1489 
+
+
+
+Specification for Portland slag cement 
+{fourth revision) 
+
+Code of practice for plain and reinforced 
+concrete {fourth revision) 
+
+Specification for Portland-pozzolana 
+cement: 
+
+
+
+(Part I) : 1991 Fiyash based {third revision) 
+(Part 2) : 1991 Calcined clay based {third revision) 
+
+
+
+IS Mo. Title 
+
+1786:1985 Specification for high strength 
+deformed steel bars and wires for 
+concrete reinforcement {third revision) 
+
+2062:1992 Specification for steel for general 
+structural purposes {fourth revision) 
+
+6909:1990 Specification for supersulphated 
+cement {first revision) 
+
+8041:1990 Specification for rapid hardening 
+Portland cement {second revision) 
+
+8043 ; 1991 Specification for hydrophobic Portland 
+cement {second revision) 
+
+8112:1989 Specification for 43 grade ordinary 
+Portland cement {first revision) 
+
+9103:1999 Specification for admixtures (first 
+revision) 
+
+12269:1987 Specification for 53 grade ordinary 
+Portland cement 
+
+12330:1988 Specification for sulphate resistance 
+Portland cement 
+
+
+
+ANNEX B 
+
+{Clause 9.2) 
+MEASUREMENT OF DIMENSIONS 
+
+
+
+Bi PROCEDURE 
+
+
+
+B-1.1 Individually measurements of the dimensions 
+of each unit shall be made with a steel scale graduated 
+in 1 mm divisions and shall be read to the nearest division 
+of scale and the average recorded. 
+
+B-1.2 Length and diameter shall be measured on the 
+longitudinal centre line of each face, width of square or 
+
+
+
+rectangular manhole covers across the top and 
+bottom bearing at midlength and thickness on both 
+faces at midlength. 
+
+B-2 REPORT 
+
+The report shall show the average length, width, or 
+diameter and thickness of each specimen. 
+
+
+
+ANNEX C 
+
+(C/aw^e9.3) 
+METHOD FOR LOAD TEST 
+
+
+
+C-1 PROCEDURE 
+
+
+
+C-1.1 A suitable testing arrangement is shown in 
+Fig. 2. The cover shall be supported in a frame which 
+may be standard frame or a specially made testing 
+appliance simulating normal conditions of use. The 
+specified load as given in Table 2 shall be applied 
+
+
+
+without shock through the medium of a bearing block 
+faced with hard rubber or other resilient material. The 
+bearing block shall be of the size specified in Table 2 
+and shall bear centrally on the cover. The block shall 
+be sufficiently rigid to ensure that the load on the cover 
+is uniformly distributed over the full area of the block. 
+
+
+
+IS 12592 : 2002 
+
+
+
+rm 
+
+
+
+rm. 
+
+
+
+BLOCK 
+FACtNO 
+
+
+
+SUPPORT 
+FOR TESTINQ 
+COVER 
+
+
+
+
+L 
+
+
+
+OIL INLET P(PE 
+
+
+
+CONCRETE 
+MANHOLE 
+COVER 
+
+
+
+r PRESSOR 
+/ GAUGE 
+
+< \ li I pump" 
+
+
+
+Fig . 2 Arrangement for Load Test of Manhole Cover 
+
+
+
+C-K2 All covers shall be submitted to the following 
+tests: 
+
+a) Measurement of the permanent set of the cover 
+after the application of 2/3 of the test load. 
+
+b) Application of test load. 
+
+C-1.2.1 Measurement of Permanent Set of the Cover 
+After the Application of 2/3 of the Test Load. 
+
+Before the load is applied take an initial reading at 
+the geometric centre of the cover. 
+
+The load shall be applied at the rate of approximately 
+0.6 ± 0.4 N/mm/s up to 2/3 of the test load. The load on 
+the test specimen is then released. This procedure shall 
+be carried out five times. Then take reading at the 
+geometric centre. 
+
+
+
+The permanent set shall then be determined on the 
+difference of the measured readings before the first 
+and the fifth loading. The permanent set shall not 
+exceed 1/100 times the diameter of the largest circle 
+that can be inscribed in the clear area of the frame as 
+shown in Fig. 3. 
+
+C.1.2.2 Application of the Test Load 
+
+Immediately after the test according to C-L2.1, the 
+test load shall be applied at the same rate given in 
+C-1.2.1, the test load shall be applied until it is achieved. 
+The test load to be maintained for 30 + 2 s. Cover shall 
+not show cracks in the course of the test. 
+
+
+
+
+
+
+
+
+
+
+CLEAR 
+
+OPENING 
+CO«DIA OF INSCRIBED CIRCLE 
+
+
+
+
+Fig. 3 Illustration of Largest Inscribed Circle in Clear Area 
+
+
+
+IS 12592: 2002 
+
+
+
+ANNEX D 
+
+(Foreword) 
+COMMITTEE COMPOSITION 
+
+
+
+Organizalton 
+Gammon India Ltd, Mumbai 
+Alt India Small Scale AC Pressure Pipe Manufacturers' 
+
+Association, Secunderabad 
+B.C. Shtrke Construction Technology Ud, Pune 
+
+Central Building Research Institute, Roorkee 
+
+Central Public Works Department, New Delhi 
+
+Directorate General of Supplies Sc Disposals, New Delhi 
+
+Lngineer-in-Chicfs Branch, Army Headquarters, New Delhi 
+
+bicrnit Everest Ltd, New Delhi 
+Fedaration of UP Pipe Manufacturers, Lucknow 
+Fly Ash Mission, Department of Science and Technology* 
+New Delhi 
+
+Hindustan Prefab Ltd, New Delhi 
+
+Housing and Urban Development Corporation, New Delhi 
+
+Hyderabad Industnes Ltd, Hyderabad 
+
+Municipal Corporation of Delhi, Delhi 
+
+Municipal Corporation of Greater Mumbai, Mumbai 
+
+National Council for Cement and Building Materials, 
+
+Ballabgarh 
+National Test House, Kolkata 
+
+Research, Designs and Standards Organization 
+
+(Ministry of Railways), Lucknow 
+Rural Electrification Corporation Ltd, New Delhi 
+
+Structural Engineering Research Centre (CSIR), Chennat 
+
+Small Scale Industries Services Institute, Ministry of 
+
+Commerce and Industry, New Delhi 
+Spun Pipes Manufacturer's Association of 
+
+Maharashtra, Pune 
+Tamil Nadu Water Supply and Drainage Board, Chennai 
+The Associated Cement Companies Ltd, Thane 
+
+The Indian Hume Pipe Co Ltd, Mumbai 
+
+
+
+Cement Matrix Products Sectional Committee, CED 53 
+
+Representative(s) 
+Shrj S. a. Reddi {Chairman) 
+Shri N. ICiSHAN Reodv 
+
+Shri p. S. Kalani {Alternate) 
+Shri G. R. Bharitkar 
+
+Col D. V. Padsalgikar (Reto) {Alternate) 
+Dr B. K. Rao 
+
+Dr S. K. Aoarwal {Alternate) 
+Shri P. Subramanian 
+
+Shri K. P. Abraham {Alternate) 
+Shri S. M. Munjal 
+
+Shrj R. K. Agarwal {Alternate) 
+Col (Dr) Shri Pal 
+
+Shri Y. K. Singhal {Alternate) 
+ShriICSrivastava 
+Shri S. P. Rastooi 
+Shri ViMAL Kumar 
+
+Shri Muk£sh Mathijr {Alternate) 
+Shri A. K.Chadha 
+
+Shri J. R. Sil {Alternate) 
+ShriV.Suresh 
+
+Shri S. K. Taneja {Alternate) 
+Dr R. C. Shishu 
+
+Dr K. V. Rao {Alternate) 
+Shri O. P Agarwal 
+
+Shrj J. L. Dhingra {Alternate) 
+Chief Engineer (Cement Concrete Road) 
+
+Dy Chief Engineer (Purchase) {Alternate) 
+Dr C. Rajkumar 
+
+Shri H. K. Julka {Alternate) 
+Shri D. K. Kanungo 
+
+Shri T. Choudhury {Alternate) 
+
+Joi>rr Director Standards (B&S) 
+
+Assitant Design Engineer (Alternate) 
+
+Shri S. K.Sethi 
+
+Shri F. C. Bhagie {Alternate) 
+
+Shri N. P. Rajamane 
+
+Dr M. Neelamegam {Alternate) 
+Shri C. H. Subrajmanian 
+
+Shri A. Dutta {Alternate) 
+Shri C, Y. Gavhane 
+
+Shri D. N. Joshi {Alternate) 
+Shri S. Hariramasamy 
+Shr]B..V. B. Pai 
+
+Shri M. S. Dandwate {Alternate) 
+Shri P. D. Kelkar 
+
+Shri P. R. C. Nair {Alternate) 
+
+
+
+In personal capacity (F-/2. Naraina Vihar, 
+
+New Delhi 110028) 
+BIS Directorate General 
+
+
+
+Shri Y. R. Taneja 
+
+Shri S. K. Jain, Director & Head (Civ Engg) 
+
+[Representing Director General {Ex-officio Member)] 
+
+
+
+Member-Secretary 
+
+Shri Sanjay Pant 
+
+Deputy Director (Civ Engg), BIS 
+
+
+
+(Continued on page 9) 
+
+
+
+IS 12592 : 2002 
+
+
+
+{Continued from page 8) 
+
+
+
+Organization 
+Hindustan Prefab Limited, New Delhi 
+
+
+
+B. G. Shirke Construction Technology Ltd, 
+
+Punc 
+Central Building Research Institute, Roorkee 
+
+Central Electricity Authority, New Delhi 
+
+Central Public Works Department, Chandigarh 
+
+Central Soil and Materials Research Station, New Delhi 
+
+Central Water Commission, New Delhi 
+Delhi Development Authority, New Delhi 
+Delhi Vidyut Board, New Delhi 
+
+Engineer-in-Chiers Branch, Army Headquarters, 
+New Delhi 
+
+Fly Ash Mission, Department of Science & Technology, 
+New Delhi 
+
+Indian Post & Telegraph Department, Jabalpur 
+
+Larsen & Toubro Ltd, ECC Group, Chennai 
+
+Maharashtra State Electricity Board, Mumbai 
+Municipal Corporation of Delhi, New Delhi 
+Municipal Corporation of Greater Mumbai, Mumbai 
+
+National Council for Cement and Building Materials, 
+Ballabgarh 
+
+Punjab State Electricity Board, Patiala 
+
+Research, Designs and Standards Organization 
+(Ministry of Railways), Lucknow 
+
+Rural Electrification Corporation, New Delhi 
+
+Siporex India Ltd, Pune 
+
+Structural Engineering Research Centre, Chennai 
+
+Tamil Nadu Housing Board, Chennai 
+
+Tamil Nadu Stale Electricity Board, Chennai 
+The Associated Cement Companies Ltd, Thane 
+
+The Indian Hume Pipe Co Ltd, Mumbai 
+
+
+
+In personal Capacity (F - 12 Naraina Vihar, 
+New Delhi J J 0028) 
+
+
+
+Precast Concrete Products Subcommittee, CED 53:3 
+
+Representivefs) 
+
+Shri Suodhodan Roy iCcnvemer) 
+Shu M. Kunou {Alternate I) 
+Shri H. C Gupta {Alternate II) 
+
+Shri B.G. Shirke 
+
+Dr D. D. Bhini>e {Alternate) 
+
+Shri B. N. Hira 
+
+Shri S. S. Jain {Alternate) 
+
+Director (RE) 
+
+Dy Director (RE) {Alternate) 
+
+SiJPERiNTBNDiNG Emgineer (Ptg & Admn) 
+Executive ENCiNEkR (Pig) {Alternate) 
+
+ShriS.B.Suri 
+
+Shr] p. L. Kashyap {Alternate) 
+
+Shri G. Sethuraman 
+
+Representative 
+
+Shri R. Sampat Kumaram 
+
+Shri Ramesh Chandcr {Alternate) 
+
+Shri Yashwakt Kumar 
+
+Shri K. G. Dua {Alternate) 
+
+Shri ViMAL Kumar 
+
+Shri Mukesh Mathur {Alternate) 
+
+Shri J . L. Bandyopadhyay 
+
+Shri V. V. Surya Rao {Alternate) 
+
+ShriK.V.Nair 
+
+Shri K. Jayaraman {Alternate) 
+
+Shri C. B. Ranwal 
+
+Shri H. D. Sheekri 
+
+Chief Engineer (Cement Concrete Roads) 
+
+Deputy Chief Engineer (Purchase) {Alternate) 
+
+Dr C. Rajkumar 
+
+Dr S . C. Maiti {Alternate) 
+
+Shri R. S. Bhatia 
+
+Shri S. K. Sharma {Alternate) 
+
+Dy Director Standards (B&F) 
+
+ADE Standards (B&F) CB U {Alternate) 
+
+Shri G, L. Dua 
+
+Shri P. D. Gaikwad {Alternate) 
+
+Shri G. R. Bhartiicar 
+
+Col D. V, Padsalgikar (Reto) {Alternate) 
+
+Shri H. G. Sreenath 
+
+Shri K. Mani {Alternate) 
+
+Superintending Engineer (P&S) 
+Project Officer {Alternate) 
+
+Shri S. Theagarajan 
+
+Shri Laxminarsimha {Alternate) 
+
+Shri B. V. B. Pai 
+
+Shri G. R. Kaskar {Alternate) 
+
+Shri P. D.Kelkar 
+
+Shri P. R. C. Nair {AUernate) 
+
+Shri Y. R. Taneja 
+
+
+
+2—99 BIS/ND/07 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Acu 1986 to promote harmonious 
+development of the activities of standardization, marking and quality certification of goods and attending to 
+connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in course of implementing 
+the standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to 
+copyright be addressed to the Director (Publications), BIS, 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+'BIS Catalogue' and 'Standards: Monthly Additions'. 
+
+This Indian Standard has been developed from Doc : No. CED 53 (5051). 
+
+Amendments Issued Since Publication 
+
+
+
+Amendment No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi MO 002 
+Telephones: 2323 0131, 2323 3375, 2323 9402 Website: www.bis.org.in 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110 002 
+
+Eastern : 1/14, C.I.T. Scheme VII M, V.I.P. Road, Kankurgachi 
+KOLKATA 700 054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160 022 
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 600 1 13 
+
+
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400 093 
+
+
+
+Telephones 
+
+
+
+{ 
+
+
+
+2323 7617 
+2323 3841 
+
+
+
+/ 2337 8499,2337 8561 
+t 2337 8626,2337 9120 
+
+
+
+{ 
+
+
+
+260 3843 
+260 9285 
+
+
+
+/ 2254 1216,2254 1442 
+\ 2254 2519,2254 2315 
+
+C 2832 9295,2832 7858 
+1 2832 7891,2832 7892 
+
+
+
+Branches: AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. 
+GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+PARWANOO. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM. 
+
+
+
+PRINTED BV THE OENERAL MANAGER GOVERNMENT OF I>!DIA PRESS, NASHIK 
+
+
+

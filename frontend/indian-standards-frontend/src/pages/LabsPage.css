@@ -1,0 +1,15 @@
+.labs-page h1 {
+  font-size: var(--font-size-page-title);
+  font-weight: var(--font-weight-heading);
+}
+
+.labs-page-subtitle {
+  color: var(--color-text-subdued);
+  margin-bottom: var(--space-16);
+}
+
+.labs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-16);
+}

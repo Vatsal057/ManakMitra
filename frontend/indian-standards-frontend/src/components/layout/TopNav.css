@@ -1,0 +1,218 @@
+.top-nav {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: var(--space-16);
+  padding: var(--space-8) var(--space-24);
+  background-color: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.top-nav-brand {
+  display: flex;
+  align-items: center;
+  gap: var(--space-16);
+  text-decoration: none;
+  color: var(--color-text);
+  margin-right: auto;
+  min-width: 0;
+  flex: none;
+}
+
+/* Logo + "ManakMitra" wordmark stack as one unit, centered under the logo's
+   own width (not the header's) — the column only ever grows as wide as its
+   widest child, so align-items: center here centers the wordmark under the
+   logo specifically. */
+.top-nav-logo-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-4);
+  flex: none;
+}
+
+.top-nav-logo {
+  height: 60px;
+  width: auto;
+  flex: none;
+}
+
+/* The wordmark image's native aspect ratio (a wide banner, ~5.75:1) makes
+   it far wider than the logo mark at any matched width, so height is what's
+   constrained here (not width) — width adapts and is allowed to exceed the
+   logo mark's own width, per the amendment's guidance, so the pair still
+   reads as one coherent unit rather than a stretched or illegible sliver. */
+.top-nav-wordmark {
+  height: 16px;
+  width: auto;
+  flex: none;
+}
+
+.top-nav-tagline {
+  font-size: var(--font-size-body);
+  font-weight: var(--font-weight-heading);
+  color: var(--color-text-subdued);
+  white-space: nowrap;
+}
+
+.top-nav-menu-toggle {
+  display: none;
+  flex: none;
+  background: transparent;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  padding: var(--space-8);
+  color: var(--color-text);
+  cursor: pointer;
+}
+
+.top-nav-links {
+  display: flex;
+  align-items: center;
+  gap: var(--space-20);
+  flex: none;
+}
+
+.top-nav-links a {
+  color: var(--color-text-subdued);
+  text-decoration: none;
+  font-weight: var(--font-weight-body);
+  padding: var(--space-4) var(--space-4) 2px;
+  border-bottom: 2px solid transparent;
+  white-space: nowrap;
+}
+
+.top-nav-links a.active {
+  color: var(--color-link);
+  font-weight: var(--font-weight-heading);
+  border-bottom-color: var(--color-link);
+}
+
+.top-nav-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-12);
+  flex: none;
+}
+
+.top-nav-lang select {
+  padding: var(--space-4) var(--space-8);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  background: var(--color-surface);
+  color: var(--color-text);
+  max-width: 120px;
+}
+
+.top-nav-theme-toggle {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  padding: var(--space-8);
+  color: var(--color-text);
+  cursor: pointer;
+  display: inline-flex;
+  flex: none;
+}
+
+.top-nav-theme-toggle:hover {
+  background-color: var(--color-surface-subdued);
+}
+
+.top-nav-cart {
+  position: relative;
+  background: transparent;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-control);
+  padding: var(--space-8);
+  color: var(--color-text);
+  cursor: pointer;
+  display: inline-flex;
+  flex: none;
+}
+
+.top-nav-cart:hover {
+  background-color: var(--color-surface-subdued);
+}
+
+.top-nav-cart-badge {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  min-width: 16px;
+  height: 16px;
+  padding: 0 4px;
+  border-radius: 8px;
+  background-color: var(--color-interactive);
+  color: var(--color-text-on-role);
+  font-size: 10px;
+  font-weight: var(--font-weight-heading);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Page links (Recommend/Labs/Audit) collapse into a menu button; logo,
+   quick search, language selector and cart stay on the visible bar — those
+   are used on every page, unlike the page links. */
+@media (max-width: 768px) {
+  .top-nav {
+    gap: var(--space-8);
+    padding: var(--space-8) var(--space-16);
+  }
+
+  .top-nav-logo {
+    height: 44px;
+  }
+
+  .top-nav-wordmark {
+    height: 12px;
+  }
+
+  .top-nav-menu-toggle {
+    display: inline-flex;
+  }
+
+  .top-nav-links {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-4);
+    background: var(--color-surface);
+    border-bottom: 1px solid var(--color-border);
+    padding: var(--space-12) var(--space-16);
+    box-shadow: var(--shadow-card);
+    z-index: 60;
+  }
+
+  .top-nav-links.open {
+    display: flex;
+  }
+
+  .top-nav-links a {
+    padding: var(--space-8) 0;
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .top-nav-tagline {
+    display: none;
+  }
+
+  .top-nav-logo {
+    height: 36px;
+  }
+
+  .top-nav-wordmark {
+    height: 10px;
+  }
+
+  .top-nav-lang select {
+    max-width: 84px;
+  }
+}
