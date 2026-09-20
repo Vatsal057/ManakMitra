@@ -7,18 +7,20 @@ import { ErrorState } from '../Common/ErrorState';
 import { InfoTooltip } from '../Common/InfoTooltip';
 import { apiClient } from '../../api/client';
 import { encodeStandardSlug } from '../../utils/standardSlug';
+import { useLanguage } from '../../context/LanguageContext';
 import './AlliedStandards.css';
 
-// Group keys and heading labels as returned by GET /allied/{standard_number}.
+// Group keys and heading keys as returned by GET /allied/{standard_number}.
 const GROUPS = [
-  { key: 'normative_reference', heading: 'Normative references' },
-  { key: 'test_method', heading: 'Test methods' },
-  { key: 'safety', heading: 'Safety' },
-  { key: 'terminology', heading: 'Terminology' },
-  { key: 'installation', heading: 'Installation / application' },
+  { key: 'normative_reference', headingKey: 'alliedNormativeTitle', defaultHeading: 'Normative references' },
+  { key: 'test_method', headingKey: 'alliedTestMethodTitle', defaultHeading: 'Test methods' },
+  { key: 'safety', headingKey: 'alliedSafetyTitle', defaultHeading: 'Safety' },
+  { key: 'terminology', headingKey: 'alliedTerminologyTitle', defaultHeading: 'Terminology' },
+  { key: 'installation', headingKey: 'alliedInstallationTitle', defaultHeading: 'Installation / application' },
 ];
 
 export function AlliedStandards({ standardNumber, onAddToTender }) {
+  const { t } = useLanguage();
   const [groups, setGroups] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -42,20 +44,20 @@ export function AlliedStandards({ standardNumber, onAddToTender }) {
 
   return (
     <section className="allied-standards">
-      <h2>Allied standards</h2>
+      <h2>{t('feat3Title', 'Allied & Normative Standards')}</h2>
 
-      {loading && <Spinner label="Loading allied standards…" />}
+      {loading && <Spinner label={t('btnIdentifying', 'Loading allied standards…')} />}
 
       {error && (
-        <ErrorState message="Couldn't load allied standards. Try again." onRetry={load} />
+        <ErrorState message={t('errorServer', "Couldn't load allied standards. Try again.")} onRetry={load} />
       )}
 
       {!loading && !error && groups && totalCount === 0 && (
         <EmptyState
-          title="No allied standards mapped for this entry"
+          title={t('noMatchesTitle', 'No allied standards mapped for this entry')}
           message={
             <>
-              This reflects current mapping coverage.
+              {t('noMatchesDesc', 'This reflects current mapping coverage.')}
               <InfoTooltip label="What this means">
                 This does not mean no related standards exist in reality —
                 only that none are mapped in the corpus yet.
@@ -70,7 +72,7 @@ export function AlliedStandards({ standardNumber, onAddToTender }) {
           {GROUPS.filter((g) => groups[g.key]?.length).map((g) => (
             <div key={g.key} className="allied-standards-group">
               <h3>
-                <Tag label={g.heading} relationshipType={g.key} />
+                <Tag label={t(g.headingKey, g.defaultHeading)} relationshipType={g.key} />
               </h3>
               <ul>
                 {groups[g.key].map((item) => (

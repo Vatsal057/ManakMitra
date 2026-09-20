@@ -25,7 +25,7 @@ export function NavQuickSearch() {
   const [expanded, setExpanded] = useState(false);
   const navigate = useNavigate();
   const inputRef = useRef(null);
-  const { language } = useLanguage();
+  const { language, t } = useLanguage();
   const { runSearch } = useSearch();
 
   const handleSubmit = (e) => {
@@ -56,7 +56,7 @@ export function NavQuickSearch() {
       <button
         type="button"
         className="nav-quick-search-icon-toggle"
-        aria-label="Open quick search"
+        aria-label={t('labsSearchPlaceholder', 'Open quick search')}
         onClick={() => {
           setExpanded(true);
           requestAnimationFrame(() => inputRef.current?.focus());
@@ -70,7 +70,7 @@ export function NavQuickSearch() {
 
       <div className="nav-quick-search-field">
         <label htmlFor="nav-quick-search-input" className="visually-hidden">
-          Search IS code or keyword
+          {t('labsSearchPlaceholder', 'Search IS code or keyword')}
         </label>
         <input
           id="nav-quick-search-input"
@@ -81,9 +81,9 @@ export function NavQuickSearch() {
           onChange={(e) => setValue(e.target.value)}
           onKeyDown={handleKeyDown}
           onBlur={() => !value && setExpanded(false)}
-          placeholder="Search IS code or keyword"
+          placeholder={t('labsSearchPlaceholder', 'Search IS code or keyword')}
         />
-        <button type="submit" className="nav-quick-search-submit" aria-label="Search">
+        <button type="submit" className="nav-quick-search-submit" aria-label={t('btnIdentify', 'Search')}>
           <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true">
             <circle cx="7" cy="7" r="5" stroke="currentColor" strokeWidth="1.5" />
             <path d="M11 11l3.5 3.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />

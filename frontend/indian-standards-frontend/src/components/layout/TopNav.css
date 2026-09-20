@@ -101,7 +101,10 @@
   border-radius: var(--radius-control);
   background: var(--color-surface);
   color: var(--color-text);
-  max-width: 120px;
+  max-width: 145px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
 }
 
 .top-nav-theme-toggle {

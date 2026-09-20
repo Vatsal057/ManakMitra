@@ -11,6 +11,7 @@ import { AlliedStandards } from '../components/detail/AlliedStandards';
 import { NearbyLabs } from '../components/detail/NearbyLabs';
 import { AddToTenderModal } from '../components/tender/AddToTenderModal';
 import { apiClient } from '../api/client';
+import { useLanguage } from '../context/LanguageContext';
 import { decodeStandardSlug } from '../utils/standardSlug';
 import './StandardDetailPage.css';
 
@@ -18,6 +19,7 @@ export function StandardDetailPage() {
   const { standardNumber: slug } = useParams();
   const location = useLocation();
   const navigate = useNavigate();
+  const { t } = useLanguage();
   const decoded = decodeStandardSlug(slug);
   const passedStandard = location.state?.standard ?? null;
 
@@ -59,17 +61,17 @@ export function StandardDetailPage() {
   return (
     <div className="standard-detail-page">
       <button type="button" className="standard-detail-breadcrumb" onClick={() => navigate(-1)}>
-        ← Back to results
+        {t('backToResults', '← Back to results')}
       </button>
 
-      {loading && <Spinner label="Loading standard…" />}
+      {loading && <Spinner label={t('btnIdentifying', 'Loading standard…')} />}
 
       {error && (
         <ErrorState
           message={
             error.type === 'network'
-              ? 'The service is unreachable. Check your connection and try again.'
-              : 'Something went wrong on the server. Try again.'
+              ? t('errorNetwork', 'The service is unreachable. Check your connection and try again.')
+              : t('errorServer', 'Something went wrong on the server. Try again.')
           }
           onRetry={() => setRetryToken((n) => n + 1)}
         />
@@ -77,9 +79,9 @@ export function StandardDetailPage() {
 
       {!loading && !error && notFound && (
         <EmptyState
-          title="Standard not found"
-          message="This standard number isn't in the corpus. Try searching instead."
-          action={<Link to="/recommend">Back to search</Link>}
+          title={t('noMatchesTitle', 'Standard not found')}
+          message={t('noMatchesDesc', "This standard number isn't in the corpus. Try searching instead.")}
+          action={<Link to="/recommend">{t('tabStandards', 'Back to search')}</Link>}
         />
       )}
 
@@ -90,13 +92,15 @@ export function StandardDetailPage() {
             <p className="standard-detail-title">{standard.title}</p>
             <div className="standard-detail-badges">
               <Badge
-                label={standard.certification_badge}
+                label={t(`certification.${standard.certification_badge}`, standard.certification_badge)}
                 variant={standard.certification_badge === 'Not determined' ? 'neutral' : 'success'}
               />
-              {standard.category && <Tag label={standard.category} />}
+              {standard.category && (
+                <Tag label={t(`category.${standard.category}`, standard.category)} />
+              )}
             </div>
             <button type="button" className="standard-detail-add" onClick={() => setModalStandard(standard)}>
-              Add to tender
+              {t('exportSchedule', 'Add to tender')}
             </button>
           </header>
 

@@ -15,7 +15,7 @@ import './RecommendPage.css';
 
 export function RecommendPage() {
   const navigate = useNavigate();
-  const { language } = useLanguage();
+  const { language, t } = useLanguage();
   const { search, runSearch } = useSearch();
 
   const loading = search.loading;
@@ -38,29 +38,32 @@ export function RecommendPage() {
   const weakerResults = results.filter((r) => !mainResults.includes(r));
   const noStrongMatches = search.hasSearched && !search.abstained && results.length > 0 && mainResults.length === 0;
 
+  const hasTranslation =
+    Boolean(search.translatedQuery) &&
+    search.translatedQuery.trim().toLowerCase() !== (search.query || '').trim().toLowerCase();
+
   return (
     <div className="recommend-page">
-      <h1 className="recommend-page-title">Specification Search</h1>
+      <h1 className="recommend-page-title">{t('inputTitle', 'Specification Search')}</h1>
       <p className="recommend-page-subtitle">
-        Enter a tender specification, GeM product description, or engineering parameters to identify applicable
-        Indian Standards.
+        {t('inputDescription', 'Enter a tender specification, GeM product description, or engineering parameters to identify applicable Indian Standards.')}
       </p>
 
       <SearchPanel onSearch={handleSearch} loading={loading} initialQuery={search.query} />
 
       <p className="visually-hidden" role="status" aria-live="polite">
         {!loading && search.hasSearched && !error && !search.abstained &&
-          `${mainResults.length} result${mainResults.length === 1 ? '' : 's'} above ${MATCH_THRESHOLD}% match.`}
+          `${mainResults.length} ${t('resultsFound', 'results found')}`}
         {!loading && search.hasSearched && !error && search.abstained &&
-          `Outside the corpus's scope. ${results.length} near-miss result${results.length === 1 ? '' : 's'} shown.`}
+          `${t('noMatchesTitle', "Outside the corpus's scope")}. ${results.length} near-miss ${t('resultsFound', 'results found')}.`}
       </p>
 
       {error && (
         <ErrorState
           message={
             error.type === 'network'
-              ? 'The service is unreachable. Check your connection and try again.'
-              : 'Something went wrong on the server. Try again.'
+              ? t('errorNetwork', 'The service is unreachable. Check your connection and try again.')
+              : t('errorServer', 'Something went wrong on the server. Try again.')
           }
           onRetry={handleRetry}
         />
@@ -68,17 +71,27 @@ export function RecommendPage() {
 
       {!error && search.hasSearched && (
         <>
+          {hasTranslation && (
+            <Banner variant="info" title={t('multilingualNoticeTitle', 'Multilingual Input Active:')}>
+              <p>{t('multilingualNoticeText', 'Technical specification translated from Indic language to standard engineering English for semantic matching.')}</p>
+              <p style={{ marginTop: 'var(--space-4)', wordBreak: 'break-word' }}>
+                <strong>{t('translatedQueryHeader', 'Translated specification (English query engine):')}</strong>{' '}
+                <em>"{search.translatedQuery}"</em>
+              </p>
+            </Banner>
+          )}
+
           {search.abstained && (
-            <Banner variant="warning" title="Outside the corpus's scope">
-              <p>{search.abstainReason ?? 'The query did not match any standard with sufficient confidence.'}</p>
-              <p>This is deliberate caution, not a failure — the near-misses below are shown so you can judge for yourself.</p>
+            <Banner variant="warning" title={t('noMatchesTitle', "Outside the corpus's scope")}>
+              <p>{search.abstainReason ?? t('noMatchesDesc', 'The query did not match any standard with sufficient confidence.')}</p>
+              <p>{t('abstainCautionNote', 'This is deliberate caution, not a failure — the near-misses below are shown so you can judge for yourself.')}</p>
             </Banner>
           )}
 
           {results.length === 0 ? (
             <EmptyState
-              title="No standards found"
-              message="Try adding detail about material, dimensions, or intended use."
+              title={t('noMatchesTitle', 'No standards found')}
+              message={t('noMatchesDesc', 'Try adding detail about material, dimensions, or intended use.')}
             />
           ) : (
             <>
@@ -87,9 +100,8 @@ export function RecommendPage() {
               )}
 
               {noStrongMatches && (
-                <Banner variant="info" title="No strong matches found">
-                  These are the closest available — try adding detail about material, dimensions, or intended
-                  use for a stronger match.
+                <Banner variant="info" title={t('suppMatch', 'No strong matches found')}>
+                  {t('noMatchesDesc', 'These are the closest available — try adding detail about material, dimensions, or intended use for a stronger match.')}
                 </Banner>
               )}
 

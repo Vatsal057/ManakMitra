@@ -67,7 +67,7 @@ function MenuIcon() {
 export function TopNav({ onOpenCart }) {
   const { totalCount } = useTender();
   const { theme, toggleTheme } = useTheme();
-  const { language, setLanguage, languages } = useLanguage();
+  const { language, setLanguage, languages, t } = useLanguage();
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
@@ -77,7 +77,7 @@ export function TopNav({ onOpenCart }) {
           <img className="top-nav-logo" src="/logos/Manak Mitra logo.png" alt="" />
           <img className="top-nav-wordmark" src={WORDMARK_SRC[theme]} alt="ManakMitra" />
         </span>
-        <span className="top-nav-tagline">BIS Standards Recommender</span>
+        <span className="top-nav-tagline">{t('motto', 'BIS Standards Recommender')}</span>
       </NavLink>
 
       <button
@@ -92,13 +92,13 @@ export function TopNav({ onOpenCart }) {
 
       <nav className={`top-nav-links ${menuOpen ? 'open' : ''}`} aria-label="Main">
         <NavLink to="/recommend" className={({ isActive }) => (isActive ? 'active' : undefined)} onClick={() => setMenuOpen(false)}>
-          Recommend
+          {t('tabStandards', 'Recommend')}
         </NavLink>
         <NavLink to="/labs" className={({ isActive }) => (isActive ? 'active' : undefined)} onClick={() => setMenuOpen(false)}>
-          Labs
+          {t('tabLabs', 'Labs')}
         </NavLink>
         <NavLink to="/audit" className={({ isActive }) => (isActive ? 'active' : undefined)} onClick={() => setMenuOpen(false)}>
-          Audit
+          {t('procAuditSummary', 'Audit')}
         </NavLink>
       </nav>
 
@@ -106,11 +106,15 @@ export function TopNav({ onOpenCart }) {
 
       <div className="top-nav-actions">
         <label className="top-nav-lang">
-          <span className="visually-hidden">Input language</span>
-          <select value={language} onChange={(e) => setLanguage(e.target.value)}>
+          <span className="visually-hidden">{t('inputLanguage', 'Input language')}</span>
+          <select
+            value={language}
+            onChange={(e) => setLanguage(e.target.value)}
+            aria-label={t('inputLanguage', 'Select specification language')}
+          >
             {languages.map((lang) => (
               <option key={lang.code} value={lang.code}>
-                {lang.label}
+                {lang.native_name || lang.label || lang.code}
               </option>
             ))}
           </select>
