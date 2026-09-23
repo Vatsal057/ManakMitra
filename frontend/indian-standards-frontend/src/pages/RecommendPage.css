@@ -1,7 +1,19 @@
+.recommend-page-hero {
+  margin-bottom: var(--space-24);
+}
+
 .recommend-page-title {
   font-size: var(--font-size-page-title);
   font-weight: var(--font-weight-heading);
   margin-bottom: var(--space-4);
+}
+
+.recommend-page-tagline {
+  font-size: var(--font-size-body);
+  color: var(--color-text-subdued);
+  font-weight: var(--font-weight-body);
+  margin: 0;
+  letter-spacing: 0.01em;
 }
 
 .recommend-page-subtitle {

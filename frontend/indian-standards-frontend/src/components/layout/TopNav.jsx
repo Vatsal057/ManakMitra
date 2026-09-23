@@ -77,7 +77,6 @@ export function TopNav({ onOpenCart }) {
           <img className="top-nav-logo" src="/logos/Manak Mitra logo.png" alt="" />
           <img className="top-nav-wordmark" src={WORDMARK_SRC[theme]} alt="ManakMitra" />
         </span>
-        <span className="top-nav-tagline">{t('motto', 'BIS Standards Recommender')}</span>
       </NavLink>
 
       <button

@@ -48,12 +48,7 @@
   flex: none;
 }
 
-.top-nav-tagline {
-  font-size: var(--font-size-body);
-  font-weight: var(--font-weight-heading);
-  color: var(--color-text-subdued);
-  white-space: nowrap;
-}
+
 
 .top-nav-menu-toggle {
   display: none;
@@ -202,11 +197,8 @@
   }
 }
 
-@media (max-width: 480px) {
-  .top-nav-tagline {
-    display: none;
-  }
 
+@media (max-width: 480px) {
   .top-nav-logo {
     height: 36px;
   }
