@@ -56,7 +56,7 @@ export function NavQuickSearch() {
       <button
         type="button"
         className="nav-quick-search-icon-toggle"
-        aria-label={t('labsSearchPlaceholder', 'Open quick search')}
+        aria-label={t('navQuickSearchPlaceholder', 'Enter standard codes (e.g. IS 732, IS 1554)')}
         onClick={() => {
           setExpanded(true);
           requestAnimationFrame(() => inputRef.current?.focus());
@@ -70,7 +70,7 @@ export function NavQuickSearch() {
 
       <div className="nav-quick-search-field">
         <label htmlFor="nav-quick-search-input" className="visually-hidden">
-          {t('labsSearchPlaceholder', 'Search IS code or keyword')}
+          {t('navQuickSearchPlaceholder', 'Enter standard codes (e.g. IS 732, IS 1554)')}
         </label>
         <input
           id="nav-quick-search-input"
@@ -81,7 +81,7 @@ export function NavQuickSearch() {
           onChange={(e) => setValue(e.target.value)}
           onKeyDown={handleKeyDown}
           onBlur={() => !value && setExpanded(false)}
-          placeholder={t('labsSearchPlaceholder', 'Search IS code or keyword')}
+          placeholder={t('navQuickSearchPlaceholder', 'Enter standard codes (e.g. IS 732, IS 1554)')}
         />
         <button type="submit" className="nav-quick-search-submit" aria-label={t('btnIdentify', 'Search')}>
           <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true">

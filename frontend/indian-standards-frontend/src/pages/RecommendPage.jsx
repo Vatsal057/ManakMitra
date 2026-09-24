@@ -44,12 +44,11 @@ export function RecommendPage() {
 
   return (
     <div className="recommend-page">
-      <div className="recommend-page-hero">
-        <h1 className="recommend-page-title">{t('inputTitle', 'Specification Search')}</h1>
-        <p className="recommend-page-tagline">
-          Your Standards Companion for Public Procurement
-        </p>
-      </div>
+      <p className="recommend-page-motto">{t('motto', 'Your standards companion for public procurement.')}</p>
+      <h1 className="recommend-page-title">{t('inputTitle', 'Specification Search')}</h1>
+      <p className="recommend-page-subtitle">
+        {t('inputDescription', 'Enter a tender specification, GeM product description, or engineering parameters to identify applicable Indian Standards.')}
+      </p>
 
       <SearchPanel onSearch={handleSearch} loading={loading} initialQuery={search.query} />
 
